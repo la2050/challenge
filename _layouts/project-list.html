@@ -460,22 +460,33 @@ The entries will appear here by <strong>April 15, 2019</strong>.
       <p class="description">{{ data['project_description'] }}</p>
       {% endunless %}
       {% if site.phase == 8 %}
-        {% if is_winner or is_finalist %}
+        {% if is_winner %}
         <p style="color: var(--primary-color); font-style: italic; color: inherit; font-weight: normal; font-size: 0.875em">
           <small style="font-size: 0.75em;
 font-style: italic; color: var(--primary-color);
 font-weight: 600;
-text-transform: capitalize;" class="category"><span onclick="window.location.href = '/{{ data['category']}}/#projects'; event.preventDefault()">{{ data['category'] }} {% if is_winner %} Winner {% elsif is_finalist %} Finalist {% endif %}</span></small>
+text-transform: capitalize;" class="category"><span onclick="window.location.href = '/{{ data['category']}}/#projects'; event.preventDefault()">{{ data['category'] }} Winner</span></small>
         </p>
+        {% elsif is_finalist %}
+          {% unless page.finalists %}
+          <p style="color: var(--primary-color); font-style: italic; color: inherit; font-weight: normal; font-size: 0.875em">
+            <small style="font-size: 0.75em;
+  font-style: italic; color: var(--primary-color);
+  font-weight: 600;
+  text-transform: capitalize;" class="category"><span onclick="window.location.href = '/{{ data['category']}}/#projects'; event.preventDefault()">{{ data['category'] }} Finalist</span></small>
+          </p>
+          {% endunless %}
         {% endif %}
       {% elsif site.phase == 7 %}
         {% if is_finalist %}
-        <p style="color: var(--primary-color); font-style: italic; color: inherit; font-weight: normal; font-size: 0.875em">
-          <small style="font-size: 0.75em;
-font-style: italic; color: var(--primary-color);
-font-weight: 600;
-text-transform: capitalize;" class="category"><span onclick="window.location.href = '/{{ data['category']}}/#projects'; event.preventDefault()">{{ data['category'] }} Finalist</span></small>
-        </p>
+          {% unless page.finalists %}
+          <p style="color: var(--primary-color); font-style: italic; color: inherit; font-weight: normal; font-size: 0.875em">
+            <small style="font-size: 0.75em;
+  font-style: italic; color: var(--primary-color);
+  font-weight: 600;
+  text-transform: capitalize;" class="category"><span onclick="window.location.href = '/{{ data['category']}}/#projects'; event.preventDefault()">{{ data['category'] }} Finalist</span></small>
+          </p>
+          {% endunless %}
         {% endif %}
       {% endif %}
     </a>
