@@ -6,7 +6,6 @@ stylesheets:
 ---
 
 <h1>
-  {% include city-illustration.html %}
   FAQs
 </h1>
 

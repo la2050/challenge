@@ -4,7 +4,6 @@ body_class: banana
 ---
 
 <h1>
-  {% include city-illustration.html %}
   Timeline
 </h1>
 

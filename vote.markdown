@@ -5,7 +5,6 @@ main_class: standard-layout
 ---
 
 <h1>
-  {% include city-illustration.html %}
   Public Voting
 </h1>
 

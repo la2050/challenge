@@ -225,7 +225,9 @@ main > h1:first-child::before {
     </h1>
   {% else %}
     <h1>
+      {% if site.phase == 6 %}
       {% include city-illustration.html %}
+      {% endif %}
       Entries{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong> category{% endif %}
       <small style="font-style: normal;display: block;">
         <small style="letter-spacing: 0; font-style: normal;">
