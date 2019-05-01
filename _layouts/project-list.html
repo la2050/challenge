@@ -452,11 +452,27 @@ The entries will appear here by <strong>April 15, 2019</strong>.
           width="500"
           alt="" />
       </span>
+      {% if site.phase >= 7 %}
+        {% if is_winner or is_finalist %}
+        <p style="color: var(--primary-color); font-style: italic; color: inherit; font-weight: normal; font-size: 0.875em">
+          <strong style="margin-top: 0;
+  color: inherit;
+  color: var(--primary-color, inherit);
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  text-decoration: underline;
+  cursor: pointer; text-decoration: none" class="category"><span onclick="window.location.href = '/{{ data['category']}}/#projects'; event.preventDefault()">{{ data['category'] }}</span> {% if is_winner %} winner {% elsif is_finalist %} finalist {% endif %}</strong>
+        </p>
+        {% endif %}
+      {% endif %}
       {% unless data['organization_name'] == data['title'] %}
       <p class="organization" >{{ data['organization_name'] }}</p>
       {% endunless %}
       <h3>{{ data['title'] }}</h3>
+      {% unless page.finalists %}
       <p class="description">{{ data['project_description'] }}</p>
+      {% endunless %}
     </a>
   </li>
   {% endif %}
