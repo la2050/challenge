@@ -34,11 +34,11 @@ image_host: 'https://challenge-static.la2050.org'
 
 # Votes being accepted: 
 # April 22
-phase: 5
+# phase: 5
 
 # Voting period ended: 
 # April 29
-# phase: 6
+phase: 6
 
 # Finalists announced: 
 # ?
