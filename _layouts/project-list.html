@@ -452,20 +452,6 @@ The entries will appear here by <strong>April 15, 2019</strong>.
           width="500"
           alt="" />
       </span>
-      {% if site.phase >= 7 %}
-        {% if is_winner or is_finalist %}
-        <p style="color: var(--primary-color); font-style: italic; color: inherit; font-weight: normal; font-size: 0.875em">
-          <strong style="margin-top: 0;
-  color: inherit;
-  color: var(--primary-color, inherit);
-  font-weight: bold;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  text-decoration: underline;
-  cursor: pointer; text-decoration: none" class="category"><span onclick="window.location.href = '/{{ data['category']}}/#projects'; event.preventDefault()">{{ data['category'] }}</span> {% if is_winner %} winner {% elsif is_finalist %} finalist {% endif %}</strong>
-        </p>
-        {% endif %}
-      {% endif %}
       {% unless data['organization_name'] == data['title'] %}
       <p class="organization" >{{ data['organization_name'] }}</p>
       {% endunless %}
@@ -473,6 +459,25 @@ The entries will appear here by <strong>April 15, 2019</strong>.
       {% unless page.finalists %}
       <p class="description">{{ data['project_description'] }}</p>
       {% endunless %}
+      {% if site.phase == 8 %}
+        {% if is_winner or is_finalist %}
+        <p style="color: var(--primary-color); font-style: italic; color: inherit; font-weight: normal; font-size: 0.875em">
+          <small style="font-size: 0.75em;
+font-style: italic; color: var(--primary-color);
+font-weight: 600;
+text-transform: capitalize;" class="category"><span onclick="window.location.href = '/{{ data['category']}}/#projects'; event.preventDefault()">{{ data['category'] }} {% if is_winner %} Winner {% elsif is_finalist %} Finalist {% endif %}</span></small>
+        </p>
+        {% endif %}
+      {% elsif site.phase == 7 %}
+        {% if is_finalist %}
+        <p style="color: var(--primary-color); font-style: italic; color: inherit; font-weight: normal; font-size: 0.875em">
+          <small style="font-size: 0.75em;
+font-style: italic; color: var(--primary-color);
+font-weight: 600;
+text-transform: capitalize;" class="category"><span onclick="window.location.href = '/{{ data['category']}}/#projects'; event.preventDefault()">{{ data['category'] }} Finalist</span></small>
+        </p>
+        {% endif %}
+      {% endif %}
     </a>
   </li>
   {% endif %}
