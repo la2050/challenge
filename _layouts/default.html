@@ -228,7 +228,7 @@
       </a>
     </p>
   </header>
-  <main{% if page.main_class %} class="{{ page.main_class }}"{% elsif layout.main_class %} class="{{ layout.main_class }}"{% endif %}>
+  <main {% if page.main_class %} class="{{ page.main_class }}"{% elsif layout.main_class %} class="{{ layout.main_class }}"{% endif %}>
     {{ content }}
   </main>
   <footer>

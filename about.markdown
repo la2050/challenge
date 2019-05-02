@@ -12,7 +12,6 @@ main_class: standard-layout
 {% else %}
 
 <h1>
-  {% include city-illustration.html %}
   About
 </h1>
 

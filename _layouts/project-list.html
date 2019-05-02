@@ -11,8 +11,59 @@ stylesheets:
 {% endunless %}
 
 
-{% if page.winners == true %}
+{% if page.winners %}
+
+{% if site.phase == 8 %}
+<h1>
+  <span>
+    <strong>Congratulations to the winners!</strong><br />
+    <small style="font-style: normal;display: block;">
+      <small style="letter-spacing: 0; font-style: normal;">
+        Learn <strong style="font-weight: inherit; color: inherit;"><a href="/about/" style="color: inherit; font-weight: inherit;">about the challenge</a></strong>.
+      </small>
+    </small>
+    <a href="#project-list">
+      <svg aria-label="Winners" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="44.8" height="51.2">
+        <title>Winners</title>
+        <path fill="currentColor" d="M413.1 222.5l22.2 22.2c9.4 9.4 9.4 24.6 0 33.9L241 473c-9.4 9.4-24.6 9.4-33.9 0L12.7 278.6c-9.4-9.4-9.4-24.6 0-33.9l22.2-22.2c9.5-9.5 25-9.3 34.3.4L184 343.4V56c0-13.3 10.7-24 24-24h32c13.3 0 24 10.7 24 24v287.4l114.8-120.5c9.3-9.8 24.8-10 34.3-.4z" class=""></path>
+      </svg>
+    </a>
+    <script>
+    (function() {
+      try {
+        document.querySelectorAll(`a[href*="#project-list"]`).forEach(projectsLink => {
+          projectsLink.addEventListener("click", function(e) {
+            let element = document.getElementById("project-list")
+            if (element && element.scrollIntoView) {
+              element.scrollIntoView({ behavior: 'smooth', block: 'start' })
+            }
+            e.preventDefault()
+          })
+        })
+      } catch(e) {}
+    })()
+    </script>
+    <script>
+    (function() {
+      try {
+        document.querySelectorAll(`a[href="/winners/"]`).forEach(projectsLink => {
+          projectsLink.addEventListener("click", function(e) {
+            let element = document.getElementById("project-list")
+            if (element && element.scrollIntoView) {
+              element.scrollIntoView({ behavior: 'smooth', block: 'start' })
+            }
+            e.preventDefault()
+          })
+        })
+      } catch(e) {}
+    })()
+    </script>
+  </span>
+</h1>
+{% else %}
 <h1><span>Winners</span></h1>
+{% endif %}
+
 
 <style>
 
@@ -20,7 +71,7 @@ main > h1:first-child {
   position: relative;
 }
 main > h1:first-child span {
-  text-shadow: 0 0 0.5em var(--banana);
+  text-shadow: 0 0 1em var(--primary-color);
 }
 main > h1:first-child::before {
   content: "";
@@ -36,16 +87,158 @@ main > h1:first-child::before {
 }
 
 </style>
-{% elsif page.finalists == true %}
+
+{% elsif page.finalists %}
+
+
+{% if site.phase >= 7 %}
 <h1>
-  {% include city-illustration.html %}
-  Finalists{% if page.category %} in the <strong style="text-transform: uppercase">{{ page.category }}</strong> category{% endif %}
-  <small style="font-style: normal;display: block;">
-    <small style="letter-spacing: 0; font-style: normal;">
-      Learn <strong style="font-weight: inherit; color: inherit;"><a href="/about/" style="color: inherit; font-weight: inherit;">about the challenge</a></strong>.
+  <span id="primary-headline">
+    Congratulations to the <a href="#projects" style="color: inherit; font-weight: inherit;">top 10 voted</a>{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong> category{% endif %}!<br />
+    <small style="font-style: normal;display: block; margin-top: 0.75em">
+      <small style="letter-spacing: 0; font-style: normal;">
+        Learn <strong style="font-weight: inherit; color: inherit;"><a href="/about/" style="color: inherit; font-weight: inherit;">about the challenge</a></strong>.
+      </small>
     </small>
-  </small>
+    <a href="#projects">
+      <svg aria-label="Winners" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="44.8" height="51.2">
+        <title>Finalists</title>
+        <path fill="currentColor" d="M413.1 222.5l22.2 22.2c9.4 9.4 9.4 24.6 0 33.9L241 473c-9.4 9.4-24.6 9.4-33.9 0L12.7 278.6c-9.4-9.4-9.4-24.6 0-33.9l22.2-22.2c9.5-9.5 25-9.3 34.3.4L184 343.4V56c0-13.3 10.7-24 24-24h32c13.3 0 24 10.7 24 24v287.4l114.8-120.5c9.3-9.8 24.8-10 34.3-.4z" class=""></path>
+      </svg>
+    </a>
+    <script>
+    (function() {
+      try {
+        document.querySelectorAll(`a[href*="#projects"]`).forEach(projectsLink => {
+          projectsLink.addEventListener("click", function(e) {
+            let element = document.getElementById("projects")
+            if (element && element.scrollIntoView) {
+              element.scrollIntoView({ behavior: 'smooth', block: 'start' })
+            }
+            e.preventDefault()
+          })
+        })
+      } catch(e) {}
+    })()
+    </script>
+    <script>
+    (function() {
+      try {
+        document.querySelectorAll(`a[href="/finalists/"]`).forEach(projectsLink => {
+          projectsLink.addEventListener("click", function(e) {
+            let element = document.getElementById("projects")
+            if (element && element.scrollIntoView) {
+              element.scrollIntoView({ behavior: 'smooth', block: 'start' })
+            }
+            e.preventDefault()
+          })
+        })
+      } catch(e) {}
+    })()
+    </script>
+  </span>
 </h1>
+{% else %}
+<h1><span>Finalists</span></h1>
+{% endif %}
+<style>
+
+main > h1:first-child {
+  margin-top: 1.5em;
+  background-color: transparent;
+  position: relative;
+  color: inherit;
+  margin-bottom: 0;
+  font-weight: inherit;
+  max-width: 18em;
+  margin-left: auto;
+  margin-right: auto;
+}
+main > h1:first-child strong {
+  font-weight: 600;
+}
+
+</style>
+
+
+{% comment %}
+{% if site.phase >= 7 %}
+<h1>
+  <span style="max-width: 15em; display: block; margin-left: auto; margin-right: auto;" id="primary-headline">
+    Congratulations to the <a href="#projects" style="color: inherit; font-weight: inherit;">finalists</a>{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong> category{% endif %}!<br />
+    <small style="font-style: normal;display: block;">
+      <small style="letter-spacing: 0; font-style: normal;">
+        Learn <strong style="font-weight: inherit; color: inherit;"><a href="/about/" style="color: inherit; font-weight: inherit;">about the challenge</a></strong>.
+      </small>
+    </small>
+    <a href="#projects">
+      <svg aria-label="Winners" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="44.8" height="51.2">
+        <title>Finalists</title>
+        <path fill="currentColor" d="M413.1 222.5l22.2 22.2c9.4 9.4 9.4 24.6 0 33.9L241 473c-9.4 9.4-24.6 9.4-33.9 0L12.7 278.6c-9.4-9.4-9.4-24.6 0-33.9l22.2-22.2c9.5-9.5 25-9.3 34.3.4L184 343.4V56c0-13.3 10.7-24 24-24h32c13.3 0 24 10.7 24 24v287.4l114.8-120.5c9.3-9.8 24.8-10 34.3-.4z" class=""></path>
+      </svg>
+    </a>
+    <script>
+    (function() {
+      try {
+        document.querySelectorAll(`a[href*="#projects"]`).forEach(projectsLink => {
+          projectsLink.addEventListener("click", function(e) {
+            let element = document.getElementById("projects")
+            if (element && element.scrollIntoView) {
+              element.scrollIntoView({ behavior: 'smooth', block: 'start' })
+            }
+            e.preventDefault()
+          })
+        })
+      } catch(e) {}
+    })()
+    </script>
+    <script>
+    (function() {
+      try {
+        document.querySelectorAll(`a[href="/finalists/"]`).forEach(projectsLink => {
+          projectsLink.addEventListener("click", function(e) {
+            let element = document.getElementById("projects")
+            if (element && element.scrollIntoView) {
+              element.scrollIntoView({ behavior: 'smooth', block: 'start' })
+            }
+            e.preventDefault()
+          })
+        })
+      } catch(e) {}
+    })()
+    </script>
+  </span>
+</h1>
+{% else %}
+<h1><span>Finalists</span></h1>
+{% endif %}
+
+
+<style>
+
+main > h1:first-child {
+  position: relative;
+}
+main > h1:first-child span {
+  text-shadow: 0 0 1em var(--primary-color);
+}
+main > h1:first-child::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  /* background-image: url(/assets/images/winners.svg); */
+  background-size: 100vmax auto;
+  background-position: top;
+}
+
+</style>
+{% endcomment %}
+
+
 {% else %}
   {% if site.phase >= 4 and site.phase <= 5 %}
     <h1>
@@ -105,8 +298,10 @@ main > h1:first-child::before {
     </h1>
   {% else %}
     <h1>
+      {% if site.phase == 6 %}
       {% include city-illustration.html %}
-      Entries{% if page.category %} in the <strong style="text-transform: uppercase">{{ page.category }}</strong> category{% endif %}
+      {% endif %}
+      Entries{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong> category{% endif %}
       <small style="font-style: normal;display: block;">
         <small style="letter-spacing: 0; font-style: normal;">
           Learn <strong style="font-weight: inherit; color: inherit;"><a href="/about/" style="color: inherit; font-weight: inherit;">about the challenge</a></strong>.
@@ -158,6 +353,7 @@ The entries will appear here by <strong>April 15, 2019</strong>.
 {% endif %}
 
 
+{% comment %}
 {% if page.winners and site.phase == 8 %}
 <div class="introduction" style="margin-top: 6em; margin-bottom: 6em;">
   <p>
@@ -173,17 +369,16 @@ The entries will appear here by <strong>April 15, 2019</strong>.
 }
 </style>
 {% endif %}
+{% endcomment %}
 
 
 {% include project-navigation.html %}
 
 
-<ul class="proposals {% if page.finalists or page.winners %}finalists{% endif %} {% if page.winners %}winners{% endif %}" id="project-list">
+<ul class="proposals {% if page.winners %}finalists{% endif %} {% if page.winners %}winners{% endif %}" id="project-list">
 
-  {% unless page.winners %}
   {% comment %} Order alphabetically {% endcomment %}
   {% assign data_list = data_list | sort: "order" %}
-  {% endunless %}
 
   {% for data in data_list %}
 
@@ -222,7 +417,7 @@ The entries will appear here by <strong>April 15, 2019</strong>.
   data-project_proposal_best_place="{{ data.project_proposal_best_place }}"
   data-category_metrics="{{ data.category_metrics }}"
   data-project_collaborators="{{ data.project_collaborators }}">{% endif %}
-  {% if page.finalists or page.winners %}
+  {% if page.winners %}
   <li class="{{ data.category }}">
     <a href="{{ data.url }}">
       <span class="image" {% if data.project_image_color %}
@@ -251,7 +446,7 @@ The entries will appear here by <strong>April 15, 2019</strong>.
         <h2 style="color: var(--primary-color); font-size: inherit;">LA2050 is proud to present…</h2>
         {% endcomment %}
         <p style="color: var(--primary-color); font-style: italic; color: inherit; font-weight: normal; font-size: 0.875em">
-          <strong class="category" style="text-decoration: none"><span onclick="window.location.href = '/{{ data['category']}}/#projects'; event.preventDefault()">{{ data['category'] }}</span> winner</strong>
+          <strong class="category" style="text-decoration: none"><span onclick="window.location.href = '/{{ data['category']}}/#projects'; event.preventDefault()">{{ data['category'] }}</span> {% if page.finalists %}finalist{% elsif page.winners %}winner{% endif %}</strong>
         </p>
         {% endif %}
         <h3>{{ data['title'] }}</h3>
@@ -282,7 +477,7 @@ The entries will appear here by <strong>April 15, 2019</strong>.
       <p>
         <span>
           <span style="margin-right: 0.375em;">Share:</span>
-          <a href="https://twitter.com/share?url=https%3A%2F%2Fchallenge.la2050.org%2Fwinners%2F" onclick="window.location.href = 'https://twitter.com/share?text=' + encodeURIComponent('Congratulations to @{{ twitter | replace: "https://www.twitter.com/", "" | replace: "https://twitter.com/", "" | replace: "www.twitter.com/", "" | replace: "twitter.com/", "" | replace: "/", "" | replace: "@", "" }} for winning a $200K grant in the 2019 My LA2050 Grants Challenge! Check out the other @LA2050 winners!') + '&url=https%3A%2F%2Fchallenge.la2050.org%2Fwinners%2F'; event.preventDefault()">
+          <a href="https://twitter.com/share?url=https%3A%2F%2Fchallenge.la2050.org%2Fwinners%2F" onclick="window.location.href = 'https://twitter.com/share?text=' + encodeURIComponent('Congratulations to @{{ twitter | replace: "https://www.twitter.com/", "" | replace: "https://twitter.com/", "" | replace: "www.twitter.com/", "" | replace: "twitter.com/", "" | replace: "/", "" | replace: "@", "" }} for winning a $100K grant in the 2019 My LA2050 Grants Challenge! Check out the other @LA2050 winners!') + '&url=https%3A%2F%2Fchallenge.la2050.org%2Fwinners%2F'; event.preventDefault()">
             <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="vertical-align: middle; margin-left: 0.75em">
               <title>Twitter</title>
               <switch>
@@ -334,7 +529,39 @@ The entries will appear here by <strong>April 15, 2019</strong>.
       <p class="organization" >{{ data['organization_name'] }}</p>
       {% endunless %}
       <h3>{{ data['title'] }}</h3>
+      {% unless page.finalists %}
       <p class="description">{{ data['project_description'] }}</p>
+      {% endunless %}
+      {% if site.phase == 8 %}
+        {% if is_winner %}
+        <p style="color: var(--primary-color); font-style: italic; color: inherit; font-weight: normal; font-size: 0.875em">
+          <small style="font-size: 0.75em;
+font-style: italic; color: var(--primary-color);
+font-weight: 600;
+text-transform: capitalize;" class="category"><span onclick="window.location.href = '/{{ data['category']}}/#projects'; event.preventDefault()">{{ data['category'] }} Winner</span></small>
+        </p>
+        {% elsif is_finalist %}
+          {% unless page.finalists %}
+          <p style="color: var(--primary-color); font-style: italic; color: inherit; font-weight: normal; font-size: 0.875em">
+            <small style="font-size: 0.75em;
+  font-style: italic; color: var(--primary-color);
+  font-weight: 600;
+  text-transform: capitalize;" class="category"><span onclick="window.location.href = '/{{ data['category']}}/#projects'; event.preventDefault()">{{ data['category'] }} Finalist</span></small>
+          </p>
+          {% endunless %}
+        {% endif %}
+      {% elsif site.phase == 7 %}
+        {% if is_finalist %}
+          {% unless page.finalists %}
+          <p style="color: var(--primary-color); font-style: italic; color: inherit; font-weight: normal; font-size: 0.875em">
+            <small style="font-size: 0.75em;
+  font-style: italic; color: var(--primary-color);
+  font-weight: 600;
+  text-transform: capitalize;" class="category"><span onclick="window.location.href = '/{{ data['category']}}/#projects'; event.preventDefault()">{{ data['category'] }} Finalist</span></small>
+          </p>
+          {% endunless %}
+        {% endif %}
+      {% endif %}
     </a>
   </li>
   {% endif %}
@@ -654,7 +881,7 @@ The entries will appear here by <strong>April 15, 2019</strong>.
 })();
 </script>
 
-{% unless page.is_search_results %}
+{% unless page.is_search_results or page.finalists %}
 <script>
 (function() {
   if (!document.body.querySelector || !document.body.querySelectorAll) return
