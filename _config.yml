@@ -41,7 +41,7 @@ image_host: 'https://challenge-static.la2050.org'
 phase: 6
 
 # Finalists announced: 
-# ?
+# May 7
 # phase: 7
 
 # Winners announced: 
@@ -52,64 +52,168 @@ phase: 6
 finalists:
 
   # Learn
+
   # 1)
+  - /2019/learn/9-dots/
+
   # 2)
+  - /2019/learn/center-for-innovation-in-stem-education-cise/
+
   # 3)
+  - /2019/learn/freedom-and-fashion/
+
   # 4)
+  - /2019/learn/fulfillment-fund/
+
   # 5)
+  - /2019/learn/gladeo/
+
   # 6)
+  - /2019/learn/larchmont-charter-school/
+
   # 7)
+  - /2019/learn/lost-angels-childrens-project/
+
   # 8)
+  - /2019/learn/rise-inc/
+
   # 9)
+  - /2019/learn/santa-monica-college/
+
   # 10)
+  - /2019/learn/turnaround-arts-california/
+
 
   # Create
+
   # 1)
+  - /2019/create/bob-baker-marionette-theater/
+
   # 2)
+  - /2019/create/defy-ventures-inc/
+
   # 3)
+  - /2019/create/everybody-world/
+
   # 4)
+  - /2019/create/homeboy-industries/
+
   # 5)
+  - /2019/create/justice-for-my-sister-collective/
+
   # 6)
+  - /2019/create/the-tiyya-foundation/
+
   # 7)
+  - /2019/create/two-bit-circus-foundation/
+
   # 8)
+  - /2019/create/venice-community-housing/
+
   # 9)
+  - /2019/create/women-in-film/
+
   # 10)
+  - /2019/create/womens-center-for-creative-work/
+
 
   # Play
+
   # 1)
+  - /2019/play/american-heart-association/
+
   # 2)
+  - /2019/play/city-of-los-angeles-department-of-recreation-and-parks/
+
   # 3)
+  - /2019/play/harlem-lacrosse/
+
   # 4)
+  - /2019/play/los-angeles-audubon-society/
+
   # 5)
+  - /2019/play/los-angeles-dodgers-foundation/
+
   # 6)
+  - /2019/play/natural-history-museum-of-los-angeles-county/
+
   # 7)
+  - /2019/play/stoked-mentoring-inc/
+
   # 8)
+  - /2019/play/the-fit-kids-foundation/
+
   # 9)
+  - /2019/play/theodore-payne-foundation-for-wild-flowers/
+
   # 10)
+  - /2019/play/youth-policy-institute/
+
 
   # Connect
+
   # 1)
+  - /2019/connect/breathe-california-of-los-angeles-county/
+
   # 2)
+  - /2019/connect/c-it-productions-llc/
+
   # 3)
+  - /2019/connect/casa-of-los-angeles/
+
   # 4)
+  - /2019/connect/human-rights-foundation/
+
   # 5)
+  - /2019/connect/investing-in-place/
+
   # 6)
+  - /2019/connect/onegeneration/
+
   # 7)
+  - /2019/connect/plus-me-project/
+
   # 8)
+  - /2019/connect/rock-the-vote/
+
   # 9)
+  - /2019/connect/union-rescue-mission/
+
   # 10)
+  - /2019/connect/world-harvest/
+
 
   # Live
+
   # 1)
+  - /2019/live/cardborigami-inc/
+
   # 2)
+  - /2019/live/green-girl-farms/
+
   # 3)
+  - /2019/live/international-association-for-human-values/
+
   # 4)
+  - /2019/live/la-plaza-de-cultura-y-artes/
+
   # 5)
+  - /2019/live/move-la/
+
   # 6)
+  - /2019/live/planned-parenthood-pasadena-and-san-gabriel-valley/
+
   # 7)
+  - /2019/live/the-midnight-mission/
+
   # 8)
+  - /2019/live/the-regents-of-the-university-of-california-ucla-depression-grand-challenge/
+
   # 9)
+  - /2019/live/the-youth-movement-against-alzheimers/
+
   # 10)
+  - /2019/live/treepeople/
 
 
 winners:
@@ -142,7 +246,7 @@ voting_test_mode: false
 voting_strict_mode: false
 
 # For cache busting
-version: 2.2.5
+version: 2.2.6
 
 
 permalink: pretty
