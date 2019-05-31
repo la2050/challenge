@@ -30,7 +30,7 @@ stylesheets:
   <a href="/{{ page.category }}/#projects">
     {{ page.category }}
     {% if site.phase == 8 %}
-      {% if is_winner %} winner {% elsif is_finalist %} finalist {% endif %}
+      {% if is_winner %} winner {% include ribbon.svg %} {% elsif is_finalist %} finalist {% endif %}
     {% elsif site.phase == 7 %}
       {% if is_finalist %} finalist {% endif %}
     {% endif %}
