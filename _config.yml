@@ -217,16 +217,50 @@ finalists:
 
 
 winners:
-  # 1)
-  # 2)
-  # 3)
-  # 4)
-  # 5)
-  # 6)
-  # 7)
-  # 8)
-  # 9)
-  # 10)
+
+  # Learn:
+
+  # 1) 9 Dots
+  - /2019/learn/9-dots/
+
+  # 2) Rise, Inc.
+  - /2019/learn/rise-inc/
+
+
+  # Create: 
+
+  # 1) Defy Ventures
+  - /2019/create/defy-ventures-inc/
+
+  # 2) Venice Community Housing
+  - /2019/create/venice-community-housing/
+
+
+  # Play:
+
+  # 1) Harlem Lacrosse
+  - /2019/play/harlem-lacrosse/
+
+  # 2) Natural History Museum
+  - /2019/play/natural-history-museum-of-los-angeles-county/
+
+
+  # Connect:
+
+  # 1) CASA
+  - /2019/connect/casa-of-los-angeles/
+
+  # 2) Rock the Vote
+  - /2019/connect/rock-the-vote/
+
+
+  # Live:
+
+  # 1) The Youth Movement Against Alzheimer's
+  - /2019/live/the-youth-movement-against-alzheimers/
+
+  # 2) La Plaza de Cultura Y Artes
+  - /2019/live/la-plaza-de-cultura-y-artes/
 
 
 auth0_js_url: https://cdn.auth0.com/js/auth0/9.5.1/auth0.min.js
@@ -246,7 +280,7 @@ voting_test_mode: false
 voting_strict_mode: false
 
 # For cache busting
-version: 2.2.6
+version: 2.2.7
 
 
 permalink: pretty

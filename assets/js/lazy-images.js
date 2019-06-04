@@ -35,9 +35,13 @@
         //}
         visibleImages.push(entry.target)
 
+        // Wait a moment to see if an image stays visible, and then load the image
+        // (to avoid loading images while quickly scrolling past them).
         if (timer) clearTimeout(timer)
         timer = setTimeout(loadVisibleImages, 100)
       } else {
+
+        // Remove the image from the list of visible images
         for (var j = 0; j < visibleImages.length; j++) {
           if (visibleImages[index] === entry.target) {
             visibleImages.splice(j, 1)

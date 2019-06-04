@@ -509,7 +509,7 @@
   .proposals.finalists .text .category {
     margin-top: 0;
     color: inherit;
-    color: var(--primary-color, inherit);
+    color: var(--primary-color-readability, inherit);
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 0.05em;
@@ -678,36 +678,25 @@
 
   .proposals .play {
     --primary-color:   var(--strawberry);
+    --primary-color-readability: var(--strawberry);
   }
   .proposals .learn {
     --primary-color:   var(--blueberry);
+    --primary-color-readability: var(--blueberry);
   }
   .proposals .create {
     --primary-color:   var(--banana);
+    --primary-color-readability: var(--banana-dark);
   }
   .proposals .connect {
     --primary-color:   var(--tangerine);
+    --primary-color-readability: var(--tangerine);
   }
   .proposals .live {
     --primary-color:   var(--lime);
+    --primary-color-readability: var(--lime);
   }
 
-  .proposals .play h3 {
-    color: var(--strawberry);
-  }
-  .proposals .learn h3 {
-    color: var(--blueberry);
-  }
-  .proposals .create h3 {
-    color: var(--banana);
-    color: var(--banana-dark);
-  }
-  .proposals .connect h3 {
-    color: var(--tangerine);
-  }
-  .proposals .live h3 {
-    color: var(--lime);
-  }
 
   .proposals .organization {
     margin-top: 0;
@@ -743,6 +732,11 @@
     /*padding: 0 0.75rem;*/
     margin-top: 0;
     margin-bottom: 0;
+  }
+  .proposals p small svg {
+    height: 2em;
+    width: 2em;
+    vertical-align: middle;
   }
 
   @media (min-width: 60em) {

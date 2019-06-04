@@ -65,12 +65,21 @@
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 0.05em;
+    text-decoration: none;
+  }
+  .proposal-introduction .category a span {
+    text-decoration: underline;
   }
   .proposal-introduction .category a:hover,
   .proposal-introduction .category a:active,
   .proposal-introduction .category a:focus {
     color: inherit;
     color: var(--secondary-color, inherit);
+  }
+  .proposal-introduction .category a svg {
+    height: 1.5em;
+    width: 1.5em;
+    vertical-align: middle;
   }
 
   .proposal-introduction h1 {
