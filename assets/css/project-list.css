@@ -516,6 +516,11 @@
     text-decoration: underline;
     cursor: pointer;
   }
+  .proposals.finalists .text .category svg {
+    height: 1.5em;
+    width: 1.5em;
+    vertical-align: middle;
+  }
 
   .proposals.finalists li {
     box-shadow: 0 0 1px rgba(0, 0, 0, .2);
