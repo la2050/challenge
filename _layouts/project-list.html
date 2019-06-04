@@ -445,8 +445,8 @@ The entries will appear here by <strong>April 15, 2019</strong>.
         </p>
         <h2 style="color: var(--primary-color); font-size: inherit;">LA2050 is proud to present…</h2>
         {% endcomment %}
-        <p style="color: var(--primary-color); font-style: italic; color: inherit; font-weight: normal; font-size: 0.875em">
-          <strong class="category" style="text-decoration: none"><span onclick="window.location.href = '/{{ data['category']}}/#projects'; event.preventDefault()">{{ data['category'] }}</span> {% if page.finalists %}finalist{% elsif page.winners %}winner{% endif %}</strong>
+        <p style="color: var(--primary-color); color: inherit; font-weight: normal; font-size: 0.875em;">
+          <strong class="category" style="text-decoration: none; text-transform: none;"><span style="text-transform: uppercase;" onclick="window.location.href = '/{{ data['category']}}/#projects'; event.preventDefault()">{{ data['category'] }}</span> {% if page.finalists %}Finalist{% elsif page.winners %}Winner{% endif %}</strong>
         </p>
         {% endif %}
         <h3>{{ data['title'] }}</h3>
@@ -538,7 +538,7 @@ The entries will appear here by <strong>April 15, 2019</strong>.
           <small style="font-size: 0.75em;
 font-style: italic; color: var(--primary-color-readability);
 font-weight: 600;
-text-transform: capitalize;" class="category"><span onclick="window.location.href = '/winners/'; event.preventDefault()">{{ data['category'] }} Winner</span> {% include ribbon.svg %}</small>
+text-transform: capitalize;" class="category"><span onclick="window.location.href = '/winners/'; event.preventDefault()"><span style="text-transform: uppercase;">{{ data['category'] }}</span> Winner</span> {% include ribbon.svg %}</small>
         </p>
         {% elsif is_finalist %}
           {% unless page.finalists %}
@@ -546,7 +546,7 @@ text-transform: capitalize;" class="category"><span onclick="window.location.hre
             <small style="font-size: 0.75em;
   font-style: italic; color: var(--primary-color-readability);
   font-weight: 600;
-  text-transform: capitalize;" class="category"><span onclick="window.location.href = '/{{ data['category']}}/finalists/'; event.preventDefault()">{{ data['category'] }} Finalist</span></small>
+  text-transform: capitalize;" class="category"><span onclick="window.location.href = '/{{ data['category']}}/finalists/'; event.preventDefault()"><span style="text-transform: uppercase;">{{ data['category'] }}</span> Finalist</span></small>
           </p>
           {% endunless %}
         {% endif %}
@@ -557,7 +557,7 @@ text-transform: capitalize;" class="category"><span onclick="window.location.hre
             <small style="font-size: 0.75em;
   font-style: italic; color: var(--primary-color-readability);
   font-weight: 600;
-  text-transform: capitalize;" class="category"><span onclick="window.location.href = '/{{ data['category']}}/finalists/'; event.preventDefault()">{{ data['category'] }} Finalist</span></small>
+  text-transform: capitalize;" class="category"><span onclick="window.location.href = '/{{ data['category']}}/finalists/'; event.preventDefault()"><span style="text-transform: uppercase;">{{ data['category'] }}</span> Finalist</span></small>
           </p>
           {% endunless %}
         {% endif %}

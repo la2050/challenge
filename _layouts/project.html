@@ -27,12 +27,12 @@ stylesheets:
 <div class="proposal-header">
   
 <p class="category">
-  <a href="/{{ page.category }}/#projects">
-    {{ page.category }}
+  <a href="/{{ page.category }}/#projects" style="text-transform: none;">
+    <span style="text-transform: uppercase;">{{ page.category }}</span>
     {% if site.phase == 8 %}
-      {% if is_winner %} winner {% include ribbon.svg %} {% elsif is_finalist %} finalist {% endif %}
+      {% if is_winner %} Winner {% include ribbon.svg %} {% elsif is_finalist %} Finalist {% endif %}
     {% elsif site.phase == 7 %}
-      {% if is_finalist %} finalist {% endif %}
+      {% if is_finalist %} Finalist {% endif %}
     {% endif %}
   </a>
 </p>
