@@ -13,7 +13,7 @@ organization_description: Non-profit organization
 project_video: 'https://youtu.be/QKx0BHD91SA'
 link_newsletter: >-
   https://visitor.r20.constantcontact.com/manage/optin?v=001XydcUt-Tcv52rxFfyTVB2OjzZWZhOX83AyPcD7_kSMEQ8brlkLTUeZNCplkrGi1g4bwdr-kgCMKXwUSPpf1jHRLsmphDVcoyAasbX65kW7t78LqaIYYa7pVipP1fIPQPjHQZLR-EehZgCtph0JuTC94i4AYTF7JM
-organization_website: 'https://www.vchcorp.org'
+organization_website: 'http://www.vchcorp.org'
 organization_twitter: '@VCHC'
 organization_facebook: 'https://www.facebook.com/vchcorp/'
 organization_instagram: '@vchcorp'
