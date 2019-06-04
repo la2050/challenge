@@ -42,11 +42,11 @@ image_host: 'https://challenge-static.la2050.org'
 
 # Finalists announced: 
 # May 7
-phase: 7
+# phase: 7
 
 # Winners announced: 
 # June 4
-# phase: 8
+phase: 8
 
 
 finalists:
