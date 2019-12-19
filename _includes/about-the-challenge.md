@@ -15,13 +15,13 @@ LA2050 is a community-guided initiative driving and tracking progress toward a s
 
 {% if site.phase == 1 %}
 
-Starting Thursday, <strong>February 28, 2019</strong> <small>(9am Pacific Time)</small>, you can submit your proposal on this website.
+Starting Monday, <strong>February 3, 2020</strong> <small>(9am Pacific Time)</small>, you can submit your proposal on this website.
 
 Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
 
 {% elsif site.phase == 2 %}
 
-<a href="{{ site.submission_url }}">Submit your idea</a> by Friday, **March 29, 2019** <small>(midnight, Pacific)</small>.
+<a href="{{ site.submission_url }}">Submit your idea</a> by Friday, **March 27, 2019** <small>(midnight, Pacific)</small>.
 
 Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
 

@@ -1,5 +1,5 @@
 ---
-title: Submit Your Proposal for the 2019 My LA2050 Grants Challenge
+title: Submit Your Proposal for the 2020 My LA2050 Grants Challenge
 body_class: lime
 main_class: standard-layout
 ---
@@ -12,7 +12,7 @@ main_class: standard-layout
 
 <div class="introduction" markdown="1">
 
-<p class="max-width: 23em">Starting <strong class="avoid-break">February 28, 2019</strong> <small class="avoid-break">(9am Pacific Time)</small>, <span class="avoid-break">you can submit your proposal on this website.</span></p>
+<p class="max-width: 23em">Starting <strong class="avoid-break">February 3, 2020</strong> <small class="avoid-break">(9am Pacific Time)</small>, <span class="avoid-break">you can submit your proposal on this website.</span></p>
 
 {% if site.submission_url %}
 
@@ -34,7 +34,7 @@ main_class: standard-layout
 
 <div class="introduction" markdown="1">
 
-The submission period has started! Apply by <strong>March 29, 2019</strong> <small>(midnight, Pacific Time)</small>.
+The submission period has started! Apply by <strong>March 27, 2020</strong> <small>(midnight, Pacific Time)</small>.
 
 <p class="action" markdown="1">
   <a href="{{ site.submission_url }}">Submit your idea</a>
@@ -175,7 +175,7 @@ The winners have been announced!
 
 ### Dates
 
-Apply between Thursday, February 28, 2019 (9am Pacific Time) and Friday, March 29, 2019 (midnight, Pacific Time) on this website. 
+Apply between Monday, February 3, 2020 (9am Pacific Time) and Friday, March 27, 2020 (midnight, Pacific Time) on this website. 
 
 Your application will go through a moderation process to ensure that it adheres to all challenge rules. Applications that make it through the initial vetting will be published on the My LA2050 Grants Challenge website on Monday, April 15, 2019 to allow the public to read about and engage with the proposals.
 
@@ -197,7 +197,7 @@ View the [full timeline](/timeline).
 
 _What are the rules for submitting a proposal to the My LA2050 Grants Challenge?_
 
-* The My LA2050 Grants Challenge is open for submissions from Thursday, February 28, 2019 (9am Pacific Time) through Friday, March 29, 2019 (midnight, Pacific Time).
+* The My LA2050 Grants Challenge is open for submissions from Thursday, February 3, 2020 (9am Pacific Time) through Friday, March 27, 2020 (midnight, Pacific Time).
 * In order to submit a proposal, log-in and complete the application form.
 * US-based non-profit, for-profit, social enterprises, and government agencies with projects serving Los Angeles County are eligible to apply.
 * Winning projects must be completed, and the grant award must be expended within 12 months.
@@ -220,7 +220,7 @@ If you have any questions about the information on this page, [please review our
 
 <div class="introduction" markdown="1">
 
-<p class="max-width: 23em">Starting <strong class="avoid-break">February 28, 2019</strong> <small class="avoid-break">(9am Pacific Time)</small>, <span class="avoid-break">you can submit your proposal on this website.</span></p>
+<p class="max-width: 23em">Starting <strong class="avoid-break">February 3, 2020</strong> <small class="avoid-break">(9am Pacific Time)</small>, <span class="avoid-break">you can submit your proposal on this website.</span></p>
 
 {% if site.submission_url %}
 
@@ -242,7 +242,7 @@ If you have any questions about the information on this page, [please review our
 
 <div class="introduction" markdown="1">
 
-The submission period has started! Apply by <strong>March 29, 2019</strong> <small>(midnight Pacific Time)</small>.
+The submission period has started! Apply by <strong>March 27, 2020</strong> <small>(midnight Pacific Time)</small>.
 
 <p class="action" markdown="1">
   <a href="{{ site.submission_url }}">Submit your idea</a>

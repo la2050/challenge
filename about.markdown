@@ -1,5 +1,5 @@
 ---
-title: About the 2019 My LA2050 Grants Challenge
+title: About the 2020 My LA2050 Grants Challenge
 body_class: strawberry about-page
 main_class: standard-layout
 ---

@@ -1,5 +1,5 @@
 ---
-title: FAQs for the 2019 My LA2050 Grants Challenge
+title: FAQs for the 2020 My LA2050 Grants Challenge
 body_class: tangerine
 stylesheets:
   - "/assets/css/faqs.css"
