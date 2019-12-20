@@ -11,6 +11,6 @@ body_class: banana
 
 {% include timeline.html %}
 
-**50 finalists** will be chosen by public vote, and the <span class="avoid-break">**10 winners** will be chosen by the Goldhirsh Foundation.</span>
+<mark>**50 finalists** will be chosen by public vote, and the <span class="avoid-break">**10 winners** will be chosen by the Goldhirsh Foundation.</span></mark>
 
 </div></div>

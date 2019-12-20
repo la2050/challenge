@@ -5,7 +5,7 @@
 
 <h2>
   Welcome to the
-  <span class="avoid-break">2019 My LA2050</span>
+  <span class="avoid-break">2020 My LA2050</span>
   <span class="avoid-break">Grants Challenge</span>
 </h2>
 
@@ -34,7 +34,7 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
   Proposals will be showcased here by <strong>April 15, 2019</strong>. 
   Voting begins on
   <span class="avoid-break">
-    <strong>April 22, 2019</strong>.
+    <strong>June 3, 2020</strong>.
   </span>
 </p>
 
@@ -47,7 +47,7 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
   <a href="/entries/">Check out the entries</a>.
   Voting begins on
   <span class="avoid-break">
-    <strong>April 22, 2019</strong>.
+    <strong>June 3, 2020</strong>.
   </span>
 </p>
 
@@ -57,7 +57,7 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
   <a href="/vote/">It’s time to vote</a>!
   Winners will be announced on 
   <span class="avoid-break">
-    <strong>June 4, 2019</strong>.
+    <strong><mark>June 4, 2019</mark></strong>.
   </span>
 </p>
 
@@ -70,7 +70,7 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
   <a href="/entries/">Check out the entries</a>.
   Winners will be announced on 
   <span class="avoid-break">
-    <strong>June 4, 2019</strong>.
+    <strong><mark>June 4, 2019</mark></strong>.
   </span>
 </p>
 
@@ -81,7 +81,7 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
   <a href="/finalists/">Check out the finalists</a>.
   Winners will be announced on 
   <span class="avoid-break">
-    <strong>June 4, 2019</strong>.
+    <strong><mark>June 4, 2019</mark></strong>.
   </span>
 </p>
 
@@ -138,7 +138,7 @@ Winners will be selected using the following criteria:
 
 {% if site.phase <= 4 %}
 
-Starting Tuesday, <strong>April 22, 2019</strong>, you can [vote for a proposal](/vote/) on this website.
+Starting Wednesday, <strong>June 3, 2020</strong>, you can [vote for a proposal](/vote/) on this website.
 
 {% elsif site.phase == 5 %}
 
@@ -146,7 +146,7 @@ Starting Tuesday, <strong>April 22, 2019</strong>, you can [vote for a proposal]
   <a href="/vote/">It’s time to vote</a>!
   Winners will be announced on 
   <span class="avoid-break">
-    <strong>June 4, 2019</strong>.
+    <strong><mark>June 4, 2019</mark></strong>.
   </span>
 </p>
 
@@ -159,7 +159,7 @@ Starting Tuesday, <strong>April 22, 2019</strong>, you can [vote for a proposal]
   <a href="/entries/">Check out the entries</a>.
   Winners will be announced on 
   <span class="avoid-break">
-    <strong>June 4, 2019</strong>.
+    <strong><mark>June 4, 2019</mark></strong>.
   </span>
 </p>
 
@@ -170,7 +170,7 @@ Starting Tuesday, <strong>April 22, 2019</strong>, you can [vote for a proposal]
   <a href="/finalists/">Check out the finalists</a>.
   Winners will be announced on 
   <span class="avoid-break">
-    <strong>June 4, 2019</strong>.
+    <strong><mark>June 4, 2019</mark></strong>.
   </span>
 </p>
 

@@ -25,7 +25,7 @@ You may want to visit our [home page](/) instead.
 Your votes have been received, and will help us choose the winners.
 
 <!--
-<small>The winners will be announced on <strong>June 4, 2019</strong>.</small>
+<small>The winners will be announced on <strong><mark>June 4, 2019</mark></strong>.</small>
 -->
 
 <div style="max-width: none; text-align: center;" markdown="1" class="news">

@@ -12,7 +12,7 @@ main_class: standard-layout
 
 {% if site.phase < 4 %}
 
-Starting **April 22, 2019** (9am Pacific Time), you can vote for the entries on this website.<br />You can cast five votes, one per [goal category](/about/#goals).
+Starting **June 3, 2020** (9am Pacific Time), you can vote for the entries on this website.<br />You can cast five votes, one per [goal category](/about/#goals).
 
 <p class="action" markdown="1">
   <a href="{{ site.mailing_list_url }}">Get updates</a>
@@ -20,7 +20,7 @@ Starting **April 22, 2019** (9am Pacific Time), you can vote for the entries on 
 
 {% elsif site.phase == 4 %}
 
-Starting **April 22, 2019** (9am Pacific Time), you can vote for the entries on this website.<br />You can cast five votes, one per [goal category](/about/#goals).
+Starting **June 3, 2020** (9am Pacific Time), you can vote for the entries on this website.<br />You can cast five votes, one per [goal category](/about/#goals).
 
 <p class="action" markdown="1">
   <a href="/entries/">Check out the entries!</a>
@@ -31,7 +31,7 @@ Starting **April 22, 2019** (9am Pacific Time), you can vote for the entries on 
 
 {% elsif site.phase == 5 %}
 
-Vote by <strong>April 29, 2019</strong> (5pm Pacific Time).
+Vote by <strong>June 10, 2020</strong> (5pm Pacific Time).
 <br />
 You can cast five votes, one per [goal category](/about/#goals).
 
@@ -50,7 +50,7 @@ Public voting is complete.
 <small>
   Winners will be announced on 
   <span class="avoid-break">
-    <strong>June 4, 2019</strong>.
+    <strong><mark>June 4, 2019</mark></strong>.
   </span>
 </small>
 
@@ -65,7 +65,7 @@ The finalists have been announced!
 <small>
   Winners will be announced on 
   <span class="avoid-break">
-    <strong>June 4, 2019</strong>.
+    <strong><mark>June 4, 2019</mark></strong>.
   </span>
 </small>
 
@@ -91,7 +91,7 @@ The winners have been announced!
 
 ### Help us choose our winners!
 
-**50 finalists** will be chosen by public vote, and the **10 winners** will be chosen by the Goldhirsh Foundation.
+<mark>**50 finalists** will be chosen by public vote, and the **10 winners** will be chosen by the Goldhirsh Foundation.</mark>
 
 The winners will represent a diverse set of issues, strategies, and tactics. Winners will be selected using the following criteria:
 
@@ -103,7 +103,7 @@ The winners will represent a diverse set of issues, strategies, and tactics. Win
 
 ### Rules
 
-* Voting begins on Monday, April 22, 2019 (9am Pacific Time) and closes Monday, April 29, 2019 (5pm Pacific Time).
+* Voting begins on Wednesday, June 3, 2020 (9am Pacific Time) and closes Wednesday, June 10, 2020 (5pm Pacific Time).
 * Members of the public may vote once per goal category for a total of five votes.
 * Voters must be at least 14 years old and a US resident.
 * To participate in the My LA2050 Grants Challenge, voters must sign in with their mobile phone, email address, or Facebook account.
