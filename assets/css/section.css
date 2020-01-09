@@ -41,6 +41,30 @@
     display: block;
   }
 
+  .disabled main > .timeline {
+    background-color: var(--banana);
+    color: var(--snow);
+  }
+  .disabled main > .timeline p {
+    color: var(--strawberry);
+  }
+  .disabled main > .timeline p strong {
+    color: inherit;
+  }
+  .disabled main > .timeline p:not(.action) a {
+    color: var(--strawberry);
+  }
+  .disabled main > .timeline p a:active,
+  .disabled main > .timeline p a:hover,
+  .disabled main > .timeline p a:focus {
+    color: var(--snow);
+  }
+
+  .disabled main > h1 + .timeline {
+    margin-top: -4.5rem; /* @headline-bottom-margin */
+    padding-top: 0;
+  }
+
   main > .timeline dl {
     color: inherit; /* @blueberry */
     text-align: left;
@@ -114,8 +138,8 @@
 
   main > .timeline dt strong,
   main > .timeline dd strong {
-    color: var(--tangerine);
-      font-weight: bold;
+    color: var(--strawberry);
+    font-weight: bold;
   }
 
   main > .timeline dd {
@@ -133,46 +157,48 @@
   }
 
   @supports (display: grid) {
-    @media (min-width: 30em) {
+    @media (min-width: 60em) {
       main > .timeline dl {
         display: grid;
-        grid-column-gap: 3em;
-        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 0em;
+        grid-template-columns: 1fr 1fr 1fr;
       }
       main > .timeline dt:nth-of-type(1),
-      main > .timeline dt:nth-of-type(3),
-      main > .timeline dd:nth-of-type(1),
-      main > .timeline dd:nth-of-type(3) {
-        grid-column: 1/2;
-      }
       main > .timeline dt:nth-of-type(2),
-      main > .timeline dt:nth-of-type(4),
-      main > .timeline dd:nth-of-type(2),
-      main > .timeline dd:nth-of-type(4) {
-        grid-column: 2/3;
-      }
-      main > .timeline dt:nth-of-type(1),
-      main > .timeline dt:nth-of-type(2) {
+      main > .timeline dt:nth-of-type(3) {
         grid-row: 1 / 2;
         align-self: end;
       }
       main > .timeline dd:nth-of-type(1),
-      main > .timeline dd:nth-of-type(2) {
+      main > .timeline dd:nth-of-type(2),
+      main > .timeline dd:nth-of-type(3) {
         grid-row: 2 / 3;
         align-self: start;
       }
-      main > .timeline dt:nth-of-type(3),
-      main > .timeline dt:nth-of-type(4) {
+      main > .timeline dt:nth-of-type(4),
+      main > .timeline dt:nth-of-type(5),
+      main > .timeline dt:nth-of-type(6) {
         grid-row: 3 / 4;
         align-self: end;
       }
-      main > .timeline dd:nth-of-type(3),
-      main > .timeline dd:nth-of-type(4) {
+      main > .timeline dd:nth-of-type(4),
+      main > .timeline dd:nth-of-type(5),
+      main > .timeline dd:nth-of-type(6) {
         grid-row: 4 / 5;
         align-self: start;
       }
+      main > .timeline dt:nth-of-type(7) {
+        grid-row: 5 / 6;
+        grid-column: 2 / 3;
+        align-self: end;
+      }
+      main > .timeline dd:nth-of-type(7) {
+        grid-row: 6 / 7;
+        grid-column: 2 / 3;
+        align-self: end;
+      }
     }
-    @media (min-width: 85em) {
+    @media (min-width: 120em) {
       main > .timeline dl {
         grid-template-columns: 1fr 1fr 1fr 1fr;
       }

@@ -25,7 +25,7 @@ You may want to visit our [home page](/) instead.
 <h2 style="max-width: none; text-align: center; font-size: inherit; color: var(--primary-color); font-weight: 600;">And thank you for voting! <span style="font-weight: normal; color: var(--midnight);">Your votes have been received and will help us choose the winners.</span></h2>
 
 <!--
-<small>The winners will be announced on <strong><mark>June 4, 2019</mark></strong>.</small>
+<small>The winners will be announced on <strong><mark>June 15, 2020</mark></strong>.</small>
 -->
 
 <div style="max-width: none; text-align: center;" markdown="1" class="news">

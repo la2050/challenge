@@ -18,11 +18,11 @@ image_host: 'https://challenge-static.la2050.org'
 
 # New challenge announced: 
 # January 27
-phase: 1
+# phase: 1
 
 # Entries being accepted: 
 # February 3
-# phase: 2
+phase: 2
 
 # Early bird deadline:
 # March 1 ?
@@ -33,23 +33,23 @@ phase: 1
 # phase: 3
 
 # Entries shown on the website: 
-# April 6 ?
+# April 6
 # phase: 4
 
 # Finalists announced: 
-# May 25
+# May 18
 # phase: 5
 
 # Votes being accepted: 
-# June 3
+# June 1
 # phase: 6
 
 # Voting period ended: 
-# June 10
+# June 8
 # phase: 7
 
 # Winners announced: 
-# ?
+# June 15
 # phase: 8
 
 
@@ -58,166 +58,91 @@ finalists:
   # Learn
 
   # 1)
-  - /2019/learn/9-dots/
+  - /2020/learn/9-dots/
 
   # 2)
-  - /2019/learn/center-for-innovation-in-stem-education-cise/
+  - /2020/learn/center-for-innovation-in-stem-education-cise/
 
   # 3)
-  - /2019/learn/freedom-and-fashion/
+  - /2020/learn/freedom-and-fashion/
 
   # 4)
-  - /2019/learn/fulfillment-fund/
+  - /2020/learn/fulfillment-fund/
 
   # 5)
-  - /2019/learn/gladeo/
-
-  # 6)
-  - /2019/learn/larchmont-charter-school/
-
-  # 7)
-  - /2019/learn/lost-angels-childrens-project/
-
-  # 8)
-  - /2019/learn/rise-inc/
-
-  # 9)
-  - /2019/learn/santa-monica-college/
-
-  # 10)
-  - /2019/learn/turnaround-arts-california/
+  - /2020/learn/gladeo/
 
 
   # Create
 
   # 1)
-  - /2019/create/bob-baker-marionette-theater/
+  - /2020/create/bob-baker-marionette-theater/
 
   # 2)
-  - /2019/create/defy-ventures-inc/
+  - /2020/create/defy-ventures-inc/
 
   # 3)
-  - /2019/create/everybody-world/
+  - /2020/create/everybody-world/
 
   # 4)
-  - /2019/create/homeboy-industries/
+  - /2020/create/homeboy-industries/
 
   # 5)
-  - /2019/create/justice-for-my-sister-collective/
-
-  # 6)
-  - /2019/create/the-tiyya-foundation/
-
-  # 7)
-  - /2019/create/two-bit-circus-foundation/
-
-  # 8)
-  - /2019/create/venice-community-housing/
-
-  # 9)
-  - /2019/create/women-in-film/
-
-  # 10)
-  - /2019/create/womens-center-for-creative-work/
+  - /2020/create/justice-for-my-sister-collective/
 
 
   # Play
 
   # 1)
-  - /2019/play/american-heart-association/
+  - /2020/play/american-heart-association/
 
   # 2)
-  - /2019/play/city-of-los-angeles-department-of-recreation-and-parks/
+  - /2020/play/city-of-los-angeles-department-of-recreation-and-parks/
 
   # 3)
-  - /2019/play/harlem-lacrosse/
+  - /2020/play/harlem-lacrosse/
 
   # 4)
-  - /2019/play/los-angeles-audubon-society/
+  - /2020/play/los-angeles-audubon-society/
 
   # 5)
-  - /2019/play/los-angeles-dodgers-foundation/
-
-  # 6)
-  - /2019/play/natural-history-museum-of-los-angeles-county/
-
-  # 7)
-  - /2019/play/stoked-mentoring-inc/
-
-  # 8)
-  - /2019/play/the-fit-kids-foundation/
-
-  # 9)
-  - /2019/play/theodore-payne-foundation-for-wild-flowers/
-
-  # 10)
-  - /2019/play/youth-policy-institute/
+  - /2020/play/los-angeles-dodgers-foundation/
 
 
   # Connect
 
   # 1)
-  - /2019/connect/breathe-california-of-los-angeles-county/
+  - /2020/connect/breathe-california-of-los-angeles-county/
 
   # 2)
-  - /2019/connect/c-it-productions-llc/
+  - /2020/connect/c-it-productions-llc/
 
   # 3)
-  - /2019/connect/casa-of-los-angeles/
+  - /2020/connect/casa-of-los-angeles/
 
   # 4)
-  - /2019/connect/human-rights-foundation/
+  - /2020/connect/human-rights-foundation/
 
   # 5)
-  - /2019/connect/investing-in-place/
-
-  # 6)
-  - /2019/connect/onegeneration/
-
-  # 7)
-  - /2019/connect/plus-me-project/
-
-  # 8)
-  - /2019/connect/rock-the-vote/
-
-  # 9)
-  - /2019/connect/union-rescue-mission/
-
-  # 10)
-  - /2019/connect/world-harvest/
+  - /2020/connect/investing-in-place/
 
 
   # Live
 
   # 1)
-  - /2019/live/cardborigami-inc/
+  - /2020/live/cardborigami-inc/
 
   # 2)
-  - /2019/live/green-girl-farms/
+  - /2020/live/green-girl-farms/
 
   # 3)
-  - /2019/live/international-association-for-human-values/
+  - /2020/live/international-association-for-human-values/
 
   # 4)
-  - /2019/live/la-plaza-de-cultura-y-artes/
+  - /2020/live/la-plaza-de-cultura-y-artes/
 
   # 5)
-  - /2019/live/move-la/
-
-  # 6)
-  - /2019/live/planned-parenthood-pasadena-and-san-gabriel-valley/
-
-  # 7)
-  - /2019/live/the-midnight-mission/
-
-  # 8)
-  - /2019/live/the-regents-of-the-university-of-california-ucla-depression-grand-challenge/
-
-  # 9)
-  - /2019/live/the-youth-movement-against-alzheimers/
-
-  # 10)
-  - /2019/live/treepeople/
+  - /2020/live/move-la/
 
 
 winners:
@@ -225,46 +150,46 @@ winners:
   # Learn:
 
   # 1) 9 Dots
-  - /2019/learn/9-dots/
+  - /2020/learn/9-dots/
 
   # 2) Rise, Inc.
-  - /2019/learn/rise-inc/
+  - /2020/learn/rise-inc/
 
 
   # Create: 
 
   # 1) Defy Ventures
-  - /2019/create/defy-ventures-inc/
+  - /2020/create/defy-ventures-inc/
 
   # 2) Venice Community Housing
-  - /2019/create/venice-community-housing/
+  - /2020/create/venice-community-housing/
 
 
   # Play:
 
   # 1) Harlem Lacrosse
-  - /2019/play/harlem-lacrosse/
+  - /2020/play/harlem-lacrosse/
 
   # 2) Natural History Museum
-  - /2019/play/natural-history-museum-of-los-angeles-county/
+  - /2020/play/natural-history-museum-of-los-angeles-county/
 
 
   # Connect:
 
   # 1) CASA
-  - /2019/connect/casa-of-los-angeles/
+  - /2020/connect/casa-of-los-angeles/
 
   # 2) Rock the Vote
-  - /2019/connect/rock-the-vote/
+  - /2020/connect/rock-the-vote/
 
 
   # Live:
 
   # 1) The Youth Movement Against Alzheimer's
-  - /2019/live/the-youth-movement-against-alzheimers/
+  - /2020/live/the-youth-movement-against-alzheimers/
 
   # 2) La Plaza de Cultura Y Artes
-  - /2019/live/la-plaza-de-cultura-y-artes/
+  - /2020/live/la-plaza-de-cultura-y-artes/
 
 
 auth0_js_url: https://cdn.auth0.com/js/auth0/9.5.1/auth0.min.js
@@ -302,6 +227,16 @@ exclude:
   - assets/images/2019/play/original
   - assets/images/2019/connect/original
   - assets/images/2019/live/original
+  - assets/images/2019/learn/original
+  - assets/images/2019/create/original
+  - assets/images/2019/play/original
+  - assets/images/2019/connect/original
+  - assets/images/2019/live/original
+  - assets/images/2020/learn/original
+  - assets/images/2020/create/original
+  - assets/images/2020/play/original
+  - assets/images/2020/connect/original
+  - assets/images/2020/live/original
   - assets/images/2020/learn/original
   - assets/images/2020/create/original
   - assets/images/2020/play/original
@@ -330,7 +265,7 @@ defaults:
 collections:
   '2019':
     output: true
-    permalink: /2019/:path/
+    permalink: /2020/:path/
   '2020':
     output: true
     permalink: /2020/:path/

@@ -31,10 +31,10 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
   <em>The submission period is complete.</em>
 </p>
 <p>
-  Proposals will be showcased here by <strong>April 15, 2019</strong>. 
+  Proposals will be showcased here by <strong>April 6, 2020</strong>. 
   Voting begins on
   <span class="avoid-break">
-    <strong>June 3, 2020</strong>.
+    <strong>June 1, 2020</strong>.
   </span>
 </p>
 
@@ -47,7 +47,7 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
   <a href="/entries/">Check out the entries</a>.
   Voting begins on
   <span class="avoid-break">
-    <strong>June 3, 2020</strong>.
+    <strong>June 1, 2020</strong>.
   </span>
 </p>
 
@@ -57,7 +57,7 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
   <a href="/vote/">It’s time to vote</a>!
   Winners will be announced on 
   <span class="avoid-break">
-    <strong><mark>June 4, 2019</mark></strong>.
+    <strong><mark>June 15, 2020</mark></strong>.
   </span>
 </p>
 
@@ -70,7 +70,7 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
   <a href="/entries/">Check out the entries</a>.
   Winners will be announced on 
   <span class="avoid-break">
-    <strong><mark>June 4, 2019</mark></strong>.
+    <strong><mark>June 15, 2020</mark></strong>.
   </span>
 </p>
 
@@ -81,7 +81,7 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
   <a href="/finalists/">Check out the finalists</a>.
   Winners will be announced on 
   <span class="avoid-break">
-    <strong><mark>June 4, 2019</mark></strong>.
+    <strong><mark>June 15, 2020</mark></strong>.
   </span>
 </p>
 
@@ -138,7 +138,7 @@ Winners will be selected using the following criteria:
 
 {% if site.phase <= 4 %}
 
-Starting Wednesday, <strong>June 3, 2020</strong>, you can [vote for a proposal](/vote/) on this website.
+Starting Wednesday, <strong>June 1, 2020</strong>, you can [vote for a proposal](/vote/) on this website.
 
 {% elsif site.phase == 5 %}
 
@@ -146,7 +146,7 @@ Starting Wednesday, <strong>June 3, 2020</strong>, you can [vote for a proposal]
   <a href="/vote/">It’s time to vote</a>!
   Winners will be announced on 
   <span class="avoid-break">
-    <strong><mark>June 4, 2019</mark></strong>.
+    <strong><mark>June 15, 2020</mark></strong>.
   </span>
 </p>
 
@@ -159,7 +159,7 @@ Starting Wednesday, <strong>June 3, 2020</strong>, you can [vote for a proposal]
   <a href="/entries/">Check out the entries</a>.
   Winners will be announced on 
   <span class="avoid-break">
-    <strong><mark>June 4, 2019</mark></strong>.
+    <strong><mark>June 15, 2020</mark></strong>.
   </span>
 </p>
 
@@ -170,7 +170,7 @@ Starting Wednesday, <strong>June 3, 2020</strong>, you can [vote for a proposal]
   <a href="/finalists/">Check out the finalists</a>.
   Winners will be announced on 
   <span class="avoid-break">
-    <strong><mark>June 4, 2019</mark></strong>.
+    <strong><mark>June 15, 2020</mark></strong>.
   </span>
 </p>
 

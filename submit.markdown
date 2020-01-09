@@ -49,10 +49,10 @@ The submission period has started! Apply by <strong>March 27, 2020</strong> <sma
 The submission period is complete.
 
 <small>
-Entries will be showcased here by <strong>April 15, 2019</strong>. 
+Entries will be showcased here by <strong>April 6, 2020</strong>. 
 Voting begins on
 <span class="avoid-break">
-  <strong>June 3, 2020</strong>.
+  <strong>June 1, 2020</strong>.
 </span>
 </small>
 
@@ -71,7 +71,7 @@ The submission period is complete.
 <small>
 Voting begins on
 <span class="avoid-break">
-  <strong>June 3, 2020</strong>.
+  <strong>June 1, 2020</strong>.
 </span>
 </small>
 
@@ -92,7 +92,7 @@ The submission period is complete.
   Public voting has started!
   Voting ends on
   <span class="avoid-break">
-    <strong>June 10, 2020</strong>.
+    <strong>June 8, 2020</strong>.
   </span>
   </small>
 </p>
@@ -112,7 +112,7 @@ The submission period is complete.
 <small>
   Winners will be announced on 
   <span class="avoid-break">
-    <strong><mark>June 4, 2019</mark></strong>.
+    <strong><mark>June 15, 2020</mark></strong>.
   </span>
 </small>
 
@@ -131,7 +131,7 @@ The finalists have been announced!
 <small>
   Winners will be announced on 
   <span class="avoid-break">
-    <strong><mark>June 4, 2019</mark></strong>.
+    <strong><mark>June 15, 2020</mark></strong>.
   </span>
 </small>
 
@@ -177,9 +177,9 @@ The winners have been announced!
 
 Apply between Monday, February 3, 2020 (9am Pacific Time) and Friday, March 27, 2020 (midnight, Pacific Time) on this website. 
 
-Your application will go through a moderation process to ensure that it adheres to all challenge rules. Applications that make it through the initial vetting will be published on the My LA2050 Grants Challenge website on Monday, April 15, 2019 to allow the public to read about and engage with the proposals.
+Your application will go through a moderation process to ensure that it adheres to all challenge rules. Applications that make it through the initial vetting will be published on the My LA2050 Grants Challenge website on Monday, April 6, 2020 to allow the public to read about and engage with the proposals.
 
-From Wednesday, June 3, 2020 (9am Pacific Time) through Wednesday, June 10, 2020 (5pm Pacific Time), all submissions will be voted on by the public. Public voting will surface 50 finalists - the top 10 submissions in each goal category. The Goldhirsh Foundation will then select two winners from each goal category, to be announced on <mark>Monday, <mark>June 4, 2019</mark></mark>.
+From Monday, June 1, 2020 (9am Pacific Time) through Monday, June 8, 2020 (5pm Pacific Time), all submissions will be voted on by the public. Public voting will surface 50 finalists - the top 10 submissions in each goal category. The Goldhirsh Foundation will then select two winners from each goal category, to be announced on <mark>Monday, <mark>June 15, 2020</mark></mark>.
 
 View the [full timeline](/timeline).
 
@@ -203,7 +203,7 @@ _What are the rules for submitting a proposal to the My LA2050 Grants Challenge?
 * Winning projects must be completed, and the grant award must be expended within 12 months.
 * Ongoing projects are eligible for submission.
 * Previous applicants and winners of LA2050 grant programs may reapply.
-* All projects will be featured on this site by April 15, 2019, and public voting will be open from Wednesday, June 3, 2020 (9am Pacific Time) through Wednesday, June 10, 2020 (5pm Pacific Time).
+* All projects will be featured on this site by April 6, 2020, and public voting will be open from Monday, June 1, 2020 (9am Pacific Time) through Monday, June 8, 2020 (5pm Pacific Time).
 * <em>Public vote</em>: The public will vote on all submissions to the grants challenge. The top 10 submissions in each goal category garnering the most votes will be finalists (50 total).
 * <em>Winner selection</em>: From the pool of 50 finalists, Goldhirsh Foundation staff and board will select two winners from each goal category (10 total).
 * Applications will be selected using the following criteria: impact on the LA2050 goal and metrics, overall quality of submission, innovation, feasibility, and collaborative spirit.
