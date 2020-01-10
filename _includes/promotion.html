@@ -56,23 +56,28 @@
       <p class="action">
         <a href="/entries/">Check out the entries!</a>
       </p>
+    </p>
+
+{% elsif site.phase == site.FINALISTS_ANNOUNCED %}
+
+    <p>
+      The finalists have been announced!
+      <span class="avoid-break">
+        <a href="/vote/">Public voting</a> begins on
+        <span class="avoid-break">
+          <strong>June 1, 2020</strong>.
+        </span>
+      </span>
+    </p>
+    <p class="action">
+      <a href="/finalists/">Check out the finalists!</a>
+    </p>
 
 {% elsif site.phase == site.VOTES_BEING_ACCEPTED %}
       <p>
         <a href="/vote/">Public voting</a> has started! 
         <span class="avoid-break">Vote by June 8, 2020.</span>
       </p>
-            
-      {% if page.layout == "project" %}
-      <p class="action">
-        <a href="/vote/form/?{{ page.category }}={{ page.organization_name | url_encode }}">Vote for this proposal</a>
-      </p>
-      {% else %}
-      <p class="action">
-        <a href="/entries/">Check out the entries!</a>
-      </p>
-      {% endif %}
-      <!--
 
       {% if page.layout == "project" and page.category %}
       <p class="action">
@@ -80,11 +85,9 @@
       </p>
       {% else %}
       <p class="action">
-        <a href="/entries/">Check out the entries!</a>
         <a href="/vote/form/">I’m ready to vote</a>
       </p>
       {% endif %}
-      -->
 
 {% elsif site.phase == site.VOTING_PERIOD_ENDED %}
 
@@ -99,22 +102,6 @@
       </p>
       <p class="action">
         <a href="{{ site.mailing_list_url }}">Get updates</a>
-      </p>
-
-{% elsif site.phase == site.FINALISTS_ANNOUNCED %}
-
-      <p>
-        The finalists have been announced!
-        <span class="avoid-break">
-          Winners will be announced on 
-          <span class="avoid-break">
-            <strong><mark>June 15, 2020</mark></strong>.
-          </span>
-        </span>
-      </p>
-      <p class="action">
-        <a href="/finalists/">Check out the finalists!</a>
-      </p>
 
 {% elsif site.phase == site.WINNERS_ANNOUNCED %}
 

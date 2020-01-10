@@ -126,7 +126,7 @@ stylesheets:
   {{ page.project_description }}
 </p>
 
-{% if site.phase == site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
+{% if is_finalist and site.phase == site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
 <p class="vote-action" style="margin-top: 3em;">
   <span style="display: block;
     position: absolute;
@@ -144,7 +144,7 @@ stylesheets:
   <br />
   <small style="font-size: 0.875em; font-weight: 500; line-height: 1.7142857143;"><a href="/vote/" style="color: inherit">Public voting</a> begins on <em>June 1, 2020.</em> <span class="avoid-break">You can cast five votes, one per <span class="avoid-break"><a href="/about/#goals" style="color: inherit">goal category</a>.</span></span></small>
 </p>
-{% elsif site.phase == site.VOTES_BEING_ACCEPTED %}
+{% elsif is_finalist and site.phase == site.VOTES_BEING_ACCEPTED %}
 <p class="vote-action">
   <span class="action">
     <a href="/vote/form/?{{ page.category }}={{ page.organization_name | url_encode }}">Vote for this proposal</a>

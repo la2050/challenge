@@ -90,7 +90,7 @@
 {% if page.finalists %}
 <p class="count">
   There are <strong>5</strong> finalists in the <strong class="category">{{ page.category }}</strong> category.<br /><br />
-  <small>These finalists are presented in alphabetical order, irrespective of votes.</small>
+  {% if site.finalists_chosen_by_public_vote %}<small>These finalists are presented in alphabetical order, irrespective of votes.</small>{% endif %}
 </p>
 {% elsif data_list.size <= 0 %}
 <p class="count">We’re eagerly awaiting more entries in the <strong class="category">{{ page.category }}</strong> category!</p>

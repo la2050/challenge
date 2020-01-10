@@ -94,7 +94,7 @@ main > h1:first-child::before {
 {% if site.phase >= site.FINALISTS_ANNOUNCED %}
 <h1>
   <span id="primary-headline">
-    Congratulations to the <a href="#projects" style="color: inherit; font-weight: inherit;">top 10 voted</a>{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong> category{% endif %}!<br />
+    Congratulations to the <a href="#projects" style="color: inherit; font-weight: inherit;">{% if site.finalists_chosen_by_public_vote %}top 10 voted{% else %}finalists{% endif %}</a>{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong> category{% endif %}!<br />
     <small style="font-style: normal;display: block; margin-top: 0.75em">
       <small style="letter-spacing: 0; font-style: normal;">
         Learn <strong style="font-weight: inherit; color: inherit;"><a href="/about/" style="color: inherit; font-weight: inherit;">about the challenge</a></strong>.

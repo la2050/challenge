@@ -13,6 +13,7 @@ vote_url: /vote/form/
 
 year: 2020
 show_early_entries: true
+finalists_chosen_by_public_vote: false
 
 image_host: 'https://challenge-static.la2050.org'
 
