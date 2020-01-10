@@ -2,54 +2,54 @@
 
 {% if site.phase == site.ENTRIES_BEING_ACCEPTED %}
 **![](/assets/images/timeline/strawberry/light.svg) Submission Period**
-: **February 3 - <span class="avoid-break">March 27, 2020</span>**
+: **{{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%B %-d" }}</span>**
 {% else %}
 ![](/assets/images/timeline/strawberry/light.svg) Submission Period
-: February 3 - <span class="avoid-break">March 27, 2020</span>
+: {{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%B %-d" }}</span>
 {% endif %}
 
 {% if site.phase == site.ENTRY_PERIOD_ENDED %}
 **![](/assets/images/timeline/strawberry/checkmark.svg) Moderation Period**
-: **<mark>March 27 - <span class="avoid-break">April 6, 2020</span></mark>**
+: **{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%B %-d" }}</span>**
 {% else %}
 ![](/assets/images/timeline/strawberry/checkmark.svg) Moderation Period
-: <mark>March 27 - <span class="avoid-break">April 6, 2020</span></mark>
+: {{ site.ENTRY_PERIOD_ENDED_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%B %-d" }}</span>
 {% endif %}
 
 
 {% if site.phase == site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
 ![](/assets/images/timeline/strawberry/clipboard.svg) Evaluation Period
-: <mark>April 6 - <span class="avoid-break">May 17, 2020</span></mark>
+: {{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.FINALISTS_ANNOUNCED_DATE | date: "%B %-d" }}</span>
 {% else %}
 ![](/assets/images/timeline/strawberry/clipboard.svg) Evaluation Period
-: <mark>April 6 - <span class="avoid-break">May 17, 2020</span></mark>
+: {{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.FINALISTS_ANNOUNCED_DATE | date: "%B %-d" }}</span>
 {% endif %}
 
 
 {% if site.phase == site.FINALISTS_ANNOUNCED %}
 **![](/assets/images/timeline/strawberry/speaker.svg) Finalists Announced**
-: **<mark>May 18, 2020</mark>**
+: **{{ site.FINALISTS_ANNOUNCED_DATE | date: "%B %-d" }}**
 {% else %}
 ![](/assets/images/timeline/strawberry/speaker.svg) Finalists Announced
-: <mark>May 18, 2020</mark>
+: {{ site.FINALISTS_ANNOUNCED_DATE | date: "%B %-d" }}
 {% endif %}
 
 
 {% if site.phase == site.VOTES_BEING_ACCEPTED %}
 **![](/assets/images/timeline/strawberry/vote.svg) Public Voting**
-: **June 1 - <span class="avoid-break">June 8, 2020</span>**
+: **{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.VOTING_PERIOD_ENDED_DATE | date: "%B %-d" }}</span>**
 {% else %}
 ![](/assets/images/timeline/strawberry/vote.svg) Public Voting
-: June 1 - <span class="avoid-break">June 8, 2020</span>
+: {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.VOTING_PERIOD_ENDED_DATE | date: "%B %-d" }}</span>
 {% endif %}
 
 
 {% if site.phase == site.WINNERS_ANNOUNCED %}
 **![](/assets/images/timeline/strawberry/ribbon.svg) Winners Announced**
-: **<mark>June 15, 2020</mark>**
+: **{{ site.WINNERS_ANNOUNCED_DATE | date: "%B %-d" }}**
 {% else %}
 ![](/assets/images/timeline/strawberry/ribbon.svg) Winners Announced
-: <mark>June 15, 2020</mark>
+: {{ site.WINNERS_ANNOUNCED_DATE | date: "%B %-d" }}
 {% endif %}
 
 

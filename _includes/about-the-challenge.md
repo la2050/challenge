@@ -9,19 +9,19 @@
   <span class="avoid-break">Grants Challenge</span>
 </h2>
 
-LA2050 is a community-guided initiative driving and tracking progress toward a shared vision for the future of Los Angeles. With the support of 30,000 Angelenos, we’ve outlined an aspirational vision centered on five goals and 60+ metrics tracked over time to evaluate how Los Angeles is faring. <br /><br /><strong>The My LA2050 Grants Challenge is an open call for ideas to make LA the best place to learn, create, play, connect, and live.<br /><br />A total of $1,000,000</strong> will be awarded among 10 organizations to implement their proposals. Each organization will receive a total of $100,000 and [partnership from LA2050](/about/#la2050-partnership) to support its efforts.
+LA2050 is a community-guided initiative driving and tracking progress toward a shared vision for the future of Los Angeles. With the support of 30,000 Angelenos, we’ve outlined an aspirational vision centered on five goals and 60+ metrics tracked over time to evaluate how Los Angeles is faring. <br /><br /><strong>The My LA2050 Grants Challenge is an open call for ideas to make LA the best place to learn, create, play, connect, and live.<br /><br />A total of $1,000,000</strong> will be awarded among 25 organizations to implement their proposals. <mark>Each organization will receive a total of $100,000</mark> and [partnership from LA2050](/about/#la2050-partnership) to support its efforts.
 
 <strong>Now, we're asking for your help to turn the [LA2050 goals and metrics](/about/#goals) into action.</strong>
 
 {% if site.phase == site.NEW_CHALLENGE_ANNOUNCED %}
 
-Starting Monday, <strong>February 3, 2020</strong> <small>(9am Pacific Time)</small>, you can submit your proposal on this website.
+Starting **{{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}** <small>(9am Pacific Time)</small>, you can submit your proposal on this website.
 
 Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
 
 {% elsif site.phase == site.ENTRIES_BEING_ACCEPTED %}
 
-<a href="{{ site.submission_url }}">Submit your idea</a> by Friday, **March 27, 2019** <small>(midnight, Pacific)</small>.
+<a href="{{ site.submission_url }}">Submit your idea</a> by **{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}** <small>(midnight, Pacific)</small>.
 
 Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
 
@@ -31,10 +31,10 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
   <em>The submission period is complete.</em>
 </p>
 <p>
-  Proposals will be showcased here by <strong>April 6, 2020</strong>. 
+  Proposals will be showcased here by <strong>{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%A, %B %-d, %Y" }}</strong>. 
   Voting begins on
   <span class="avoid-break">
-    <strong>June 1, 2020</strong>.
+    <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
   </span>
 </p>
 
@@ -47,7 +47,7 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
   <a href="/entries/">Check out the entries</a>.
   Voting begins on
   <span class="avoid-break">
-    <strong>June 1, 2020</strong>.
+    <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
   </span>
 </p>
 
@@ -57,7 +57,7 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
   <a href="/vote/">It’s time to vote</a>!
   Winners will be announced on 
   <span class="avoid-break">
-    <strong><mark>June 15, 2020</mark></strong>.
+    <strong>{{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
   </span>
 </p>
 
@@ -70,7 +70,7 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
   <a href="/entries/">Check out the entries</a>.
   Winners will be announced on 
   <span class="avoid-break">
-    <strong><mark>June 15, 2020</mark></strong>.
+    <strong>{{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
   </span>
 </p>
 
@@ -81,7 +81,7 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
   <a href="/finalists/">Check out the finalists</a>.
   Winners will be announced on 
   <span class="avoid-break">
-    <strong><mark>June 15, 2020</mark></strong>.
+    <strong>{{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
   </span>
 </p>
 
@@ -96,10 +96,10 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
 $1 million
 : in grants
 
-10
+25
 : organizations
 
-$100,000
+$10K - $100K
 : over one year
 </div>
 
@@ -138,7 +138,7 @@ Winners will be selected using the following criteria:
 
 {% if site.phase < site.VOTES_BEING_ACCEPTED %}
 
-Starting Wednesday, <strong>June 1, 2020</strong>, you can [vote for a proposal](/vote/) on this website.
+Starting <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong>, you can [vote for a proposal](/vote/) on this website.
 
 {% elsif site.phase == site.VOTES_BEING_ACCEPTED %}
 
@@ -146,7 +146,7 @@ Starting Wednesday, <strong>June 1, 2020</strong>, you can [vote for a proposal]
   <a href="/vote/">It’s time to vote</a>!
   Winners will be announced on 
   <span class="avoid-break">
-    <strong><mark>June 15, 2020</mark></strong>.
+    <strong>{{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
   </span>
 </p>
 
@@ -159,7 +159,7 @@ Starting Wednesday, <strong>June 1, 2020</strong>, you can [vote for a proposal]
   <a href="/entries/">Check out the entries</a>.
   Winners will be announced on 
   <span class="avoid-break">
-    <strong><mark>June 15, 2020</mark></strong>.
+    <strong>{{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
   </span>
 </p>
 
@@ -170,7 +170,7 @@ Starting Wednesday, <strong>June 1, 2020</strong>, you can [vote for a proposal]
   <a href="/finalists/">Check out the finalists</a>.
   Winners will be announced on 
   <span class="avoid-break">
-    <strong><mark>June 15, 2020</mark></strong>.
+    <strong>{{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
   </span>
 </p>
 

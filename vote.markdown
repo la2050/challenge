@@ -12,7 +12,7 @@ main_class: standard-layout
 
 {% if site.phase < site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
 
-Starting **June 1, 2020** (9am Pacific Time), you can vote for the entries on this website.<br />You can cast five votes, one per [goal category](/about/#goals).
+Starting **{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}** (9am Pacific Time), you can vote for the entries on this website.<br />You can cast five votes, one per [goal category](/about/#goals).
 
 <p class="action" markdown="1">
   <a href="{{ site.mailing_list_url }}">Get updates</a>
@@ -20,7 +20,7 @@ Starting **June 1, 2020** (9am Pacific Time), you can vote for the entries on th
 
 {% elsif site.phase == site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
 
-Starting **June 1, 2020** (9am Pacific Time), you can vote for the entries on this website.<br />You can cast five votes, one per [goal category](/about/#goals).
+Starting **{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}** (9am Pacific Time), you can vote for the entries on this website.<br />You can cast five votes, one per [goal category](/about/#goals).
 
 <p class="action" markdown="1">
   <a href="/entries/">Check out the entries!</a>
@@ -31,7 +31,7 @@ Starting **June 1, 2020** (9am Pacific Time), you can vote for the entries on th
 
 {% elsif site.phase == site.VOTES_BEING_ACCEPTED %}
 
-Vote by <strong>June 8, 2020</strong> (5pm Pacific Time).
+Vote by <strong>{{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}</strong> (5pm Pacific Time).
 <br />
 You can cast five votes, one per [goal category](/about/#goals).
 
@@ -50,7 +50,7 @@ Public voting is complete.
 <small>
   Winners will be announced on 
   <span class="avoid-break">
-    <strong><mark>June 15, 2020</mark></strong>.
+    <strong>{{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
   </span>
 </small>
 
@@ -65,7 +65,7 @@ The finalists have been announced!
 <small>
   Winners will be announced on 
   <span class="avoid-break">
-    <strong><mark>June 15, 2020</mark></strong>.
+    <strong>{{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
   </span>
 </small>
 
@@ -100,7 +100,7 @@ The winners will represent a diverse set of issues, strategies, and tactics. Win
 
 ### Rules
 
-* Voting begins on Monday, June 1, 2020 (9am Pacific Time) and closes Monday, June 8, 2020 (5pm Pacific Time).
+* Voting begins on {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} (9am Pacific Time) and closes {{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} (5pm Pacific Time).
 * Members of the public may vote once per goal category for a total of five votes.
 * Voters must be at least 14 years old and a US resident.
 * To participate in the My LA2050 Grants Challenge, voters must sign in with their mobile phone, email address, or Facebook account.

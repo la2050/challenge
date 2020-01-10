@@ -1,31 +1,18 @@
 {% if site.phase == site.NEW_CHALLENGE_ANNOUNCED %}
 
       <p>
-        Submissions open on February 3th!<br />
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4drDm6lKpmJudzHY8GYbXHvCszKoGuQUZsPR5TXc54OvDIQ/viewform">Learn more about the application process</a> at our office hours webinar on <strong>February 6, 2020</strong>
+        Submissions open on {{ site.ENTRIES_BEING_ACCEPTED_DATE | date: %B %-d, %Y" }}<br />
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4drDm6lKpmJudzHY8GYbXHvCszKoGuQUZsPR5TXc54OvDIQ/viewform">Learn more about the application process</a> at our office hours webinar on <strong>February 6</strong>
       </p>
       <p class="action">
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4drDm6lKpmJudzHY8GYbXHvCszKoGuQUZsPR5TXc54OvDIQ/viewform">Sign up</a>
       </p>
 
-      {% comment %}
-      <p>
-        Starting <strong>February 3, 2020</strong>, <span class="avoid-break">you can <a class="avoid-break" href="/submit/">submit your big idea.</a></span>
-        Voting begins on
-        <span class="avoid-break">
-          <strong>June 1, 2020</strong>.
-        </span>
-      </p>
-      <p class="action">
-        <a href="{{ site.mailing_list_url }}">Get updates</a>
-      </p>
-      {% endcomment %}
-
 {% elsif site.phase == site.ENTRIES_BEING_ACCEPTED %}
 
       <p>
         The submission period has started!
-        <span class="avoid-break"><a href="/submit/">Read the guidelines</a> and apply by <strong>March 27, 2020.</strong></span>
+        <span class="avoid-break"><a href="/submit/">Read the guidelines</a> and apply by <strong>{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}.</strong></span>
       </p>
       <p class="action">
         <a href="{{ site.submission_url }}">Submit your idea</a>
@@ -35,7 +22,7 @@
 
       <p>
         The submission period is complete.
-        <span class="avoid-break">All entries will be showcased here by <strong>April 6, 2020</strong>.</span>
+        <span class="avoid-break">All entries will be showcased here by <strong>{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%A, %B %-d, %Y" }}</strong>.</span>
       </p>
       <p class="action">
         <a href="{{ site.mailing_list_url }}">Get updates</a>
@@ -48,7 +35,7 @@
         <span class="avoid-break">
           <a href="/vote/">Public voting</a> begins on
           <span class="avoid-break">
-            <strong>June 1, 2020</strong>.
+            <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
           </span>
         </span>
       </p>
@@ -65,7 +52,7 @@
       <span class="avoid-break">
         <a href="/vote/">Public voting</a> begins on
         <span class="avoid-break">
-          <strong>June 1, 2020</strong>.
+          <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
         </span>
       </span>
     </p>
@@ -76,7 +63,7 @@
 {% elsif site.phase == site.VOTES_BEING_ACCEPTED %}
       <p>
         <a href="/vote/">Public voting</a> has started! 
-        <span class="avoid-break">Vote by June 8, 2020.</span>
+        <span class="avoid-break">Vote by {{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}.</span>
       </p>
 
       {% if page.layout == "project" and page.category %}
@@ -96,7 +83,7 @@
         <span class="avoid-break">
           Winners will be announced on 
           <span class="avoid-break">
-            <strong><mark>June 15, 2020</mark></strong>.
+            <strong>{{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
           </span>
         </span>
       </p>

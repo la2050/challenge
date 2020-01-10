@@ -95,7 +95,7 @@ It’s also possible that the link or code has expired. If this is the case, you
 ## What is the My LA2050 Grants Challenge?
 </summary>
 
-The My LA2050 Grants Challenge is an open call for ideas to make Los Angeles the best place to learn, create, play, connect, and live. A total of $1M will be awarded among 10 organizations—two per goal category—to implement their proposals. Each organization will receive a total of $100,000 over one year to support its efforts.
+The My LA2050 Grants Challenge is an open call for ideas to make Los Angeles the best place to learn, create, play, connect, and live. A total of $1M will be awarded among 25 organizations—five per goal category—to implement their proposals. <mark>Each organization will receive a total of $100,000 over one year to support its efforts.</mark>
 
 LA2050 will commit to a one-year partnership with the winners—leveraging its resources, assets, and networks to help the projects succeed. Together, the winning organizations, LA2050, and Angelenos will make progress for the region that will change the course of our future.
 

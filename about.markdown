@@ -27,9 +27,9 @@ And now we want your help to continue this work!
 
 ## About the My LA2050 Grants Challenge
 
-This is an open call for ideas to make Los Angeles the best place to learn, create, play, connect, and live. A total of $1M will be awarded among 10 organizations—two per goal category—to implement their ideas to turn inspiration into impact. Each organization will receive a total of $100,000 over one year to support its efforts.
+This is an open call for ideas to make Los Angeles the best place to learn, create, play, connect, and live. A total of $1M will be awarded among 25 organizations—five per goal category—to implement their ideas to turn inspiration into impact. <mark>Each organization will receive a total of $100,000 over one year to support its efforts.</mark>
 
-The proposals should aim to engage Angelenos to make a specific, tangible impact on one of the [LA2050 goals and metrics](/about/#goals) by 2020.
+The proposals should aim to engage Angelenos to make a specific, tangible impact on one of the [LA2050 goals and metrics](/about/#goals) by <mark>2020</mark>.
 
 LA2050 will commit to a one-year partnership, leveraging its resources, assets, and networks to help the projects succeed. Together, the winning organizations, LA2050, and Angelenos will create progress for the region that will change the course of our future.
 
