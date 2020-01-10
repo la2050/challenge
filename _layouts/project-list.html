@@ -13,7 +13,7 @@ stylesheets:
 
 {% if page.winners %}
 
-{% if site.phase == 8 %}
+{% if site.phase == site.WINNERS_ANNOUNCED %}
 <h1>
   <span>
     <strong>Congratulations to the winners!</strong><br />
@@ -91,7 +91,7 @@ main > h1:first-child::before {
 {% elsif page.finalists %}
 
 
-{% if site.phase >= 7 %}
+{% if site.phase >= site.FINALISTS_ANNOUNCED %}
 <h1>
   <span id="primary-headline">
     Congratulations to the <a href="#projects" style="color: inherit; font-weight: inherit;">top 10 voted</a>{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong> category{% endif %}!<br />
@@ -162,7 +162,7 @@ main > h1:first-child strong {
 
 
 {% comment %}
-{% if site.phase >= 7 %}
+{% if site.phase >= site.FINALISTS_ANNOUNCED %}
 <h1>
   <span style="max-width: 15em; display: block; margin-left: auto; margin-right: auto;" id="primary-headline">
     Congratulations to the <a href="#projects" style="color: inherit; font-weight: inherit;">finalists</a>{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong> category{% endif %}!<br />
@@ -240,7 +240,7 @@ main > h1:first-child::before {
 
 
 {% else %}
-  {% if site.phase >= 4 and site.phase <= 5 %}
+  {% if site.phase >= site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
     <h1>
       {% include city-illustration.html %}
       <span style="max-width: 23em; display: block; margin-left: auto; margin-right: auto;" id="primary-headline">
@@ -248,7 +248,7 @@ main > h1:first-child::before {
         make <span class="avoid-break">Los Angeles</span> the best place{% if page.category %}  to <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong>{% endif %}?<br /><br />
         <small style="font-style: normal;display: block;">
           <small style="letter-spacing: 0; font-style: normal;" class="avoid-break">
-            {% if site.phase == 5 %}
+            {% if site.phase == site.VOTES_BEING_ACCEPTED %}
               <strong style="font-weight: inherit; color: inherit;"><a href="/vote/" style="color: inherit; font-weight: inherit;">Public voting</a></strong> has started! <span class="avoid-break">Vote by <span class="avoid-break"><strong>June 8, 2020</strong>.</span></span>
             {% else %}
               <strong style="font-weight: inherit; color: inherit;"><a href="/vote/" style="color: inherit; font-weight: inherit;">Public voting</a></strong> begins on <span class="avoid-break"><strong>June 1, 2020</strong>.</span>
@@ -298,7 +298,7 @@ main > h1:first-child::before {
     </h1>
   {% else %}
     <h1>
-      {% if site.phase == 6 %}
+      {% if site.phase == site.VOTING_PERIOD_ENDED %}
       {% include city-illustration.html %}
       {% endif %}
       Entries{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong> category{% endif %}
@@ -318,19 +318,22 @@ main > h1:first-child::before {
 {% endif %}
 
 {% assign do_show_entries = false %}
-{% if site.phase >= 2 %}
-{% if site.phase >= 4 or site.show_early_entries == true %}
+
+{% if site.phase >= site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
   {% assign do_show_entries = true %}
 {% endif %}
+
+{% if site.phase >= site.ENTRIES_BEING_ACCEPTED and site.show_early_entries == true %}
+  {% assign do_show_entries = true %}
 {% endif %}
 
-{% if page.finalists and site.phase < 7 %}
+{% if page.finalists and site.phase < site.FINALISTS_ANNOUNCED %}
 
 <div class="introduction" markdown="1">
 The finalists will appear here soon!
 </div>
 
-{% elsif page.winners and site.phase < 8 %}
+{% elsif page.winners and site.phase < site.WINNERS_ANNOUNCED %}
 
 <div class="introduction" markdown="1">
 The winners will appear here on <strong><mark>June 15, 2020</mark></strong>.
@@ -354,7 +357,7 @@ The entries will appear here by <strong>April 6, 2020</strong>.
 
 
 {% comment %}
-{% if page.winners and site.phase == 8 %}
+{% if page.winners and site.phase == site.WINNERS_ANNOUNCED %}
 <div class="introduction" style="margin-top: 6em; margin-bottom: 6em;">
   <p>
     Congratulations to the winners of the My LA2050 Grants Challenge!<br />
@@ -532,7 +535,7 @@ The entries will appear here by <strong>April 6, 2020</strong>.
       {% unless page.finalists %}
       <p class="description">{{ data['project_description'] }}</p>
       {% endunless %}
-      {% if site.phase == 8 %}
+      {% if site.phase == site.WINNERS_ANNOUNCED %}
         {% if is_winner %}
         <p style="color: var(--primary-color-readability); font-style: italic; color: inherit; font-weight: normal; font-size: 0.875em">
           <small style="font-size: 0.75em;
@@ -550,7 +553,7 @@ text-transform: capitalize;" class="category"><span onclick="window.location.hre
           </p>
           {% endunless %}
         {% endif %}
-      {% elsif site.phase == 7 %}
+      {% elsif site.phase == site.FINALISTS_ANNOUNCED %}
         {% if is_finalist %}
           {% unless page.finalists %}
           <p style="color: var(--primary-color-readability); font-style: italic; color: inherit; font-weight: normal; font-size: 0.875em">

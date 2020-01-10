@@ -4,7 +4,7 @@ body_class: strawberry about-page
 main_class: standard-layout
 ---
 
-{% if site.phase >= 4 %}
+{% if site.phase >= site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
 
 {% capture about %}{% include about-the-challenge.md %}{% endcapture %}
 {{ about | markdownify }}

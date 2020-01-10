@@ -16,6 +16,17 @@ show_early_entries: true
 
 image_host: 'https://challenge-static.la2050.org'
 
+
+NEW_CHALLENGE_ANNOUNCED: 1
+ENTRIES_BEING_ACCEPTED: 2
+ENTRY_PERIOD_ENDED: 3
+ENTRIES_SHOWN_ON_THE_WEBSITE: 4
+VOTES_BEING_ACCEPTED: 5
+VOTING_PERIOD_ENDED: 6
+FINALISTS_ANNOUNCED: 7
+WINNERS_ANNOUNCED: 8
+
+
 # New challenge announced: 
 # January 27
 # phase: 1

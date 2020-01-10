@@ -10,7 +10,7 @@ main_class: standard-layout
 
 <div class="introduction" markdown="1">
 
-{% if site.phase < 4 %}
+{% if site.phase < site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
 
 Starting **June 1, 2020** (9am Pacific Time), you can vote for the entries on this website.<br />You can cast five votes, one per [goal category](/about/#goals).
 
@@ -18,7 +18,7 @@ Starting **June 1, 2020** (9am Pacific Time), you can vote for the entries on th
   <a href="{{ site.mailing_list_url }}">Get updates</a>
 </p>
 
-{% elsif site.phase == 4 %}
+{% elsif site.phase == site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
 
 Starting **June 1, 2020** (9am Pacific Time), you can vote for the entries on this website.<br />You can cast five votes, one per [goal category](/about/#goals).
 
@@ -29,7 +29,7 @@ Starting **June 1, 2020** (9am Pacific Time), you can vote for the entries on th
   <small style="font-size: 0.875em;">You can vote by pressing the “Vote for this proposal” button on any entry page.</small>
 </p>
 
-{% elsif site.phase == 5 %}
+{% elsif site.phase == site.VOTES_BEING_ACCEPTED %}
 
 Vote by <strong>June 8, 2020</strong> (5pm Pacific Time).
 <br />
@@ -43,7 +43,7 @@ You can cast five votes, one per [goal category](/about/#goals).
   <small style="font-size: 0.875em;">You can also visit the <a href="/vote/form/">voting form</a> directly.</small>
 </p>
 
-{% elsif site.phase == 6 %}
+{% elsif site.phase == site.VOTING_PERIOD_ENDED %}
 
 Public voting is complete.
 
@@ -58,7 +58,7 @@ Public voting is complete.
   <a href="/entries/">Check out the entries</a>
 </p>
 
-{% elsif site.phase == 7 %}
+{% elsif site.phase == site.FINALISTS_ANNOUNCED %}
 
 The finalists have been announced!
 
@@ -73,7 +73,7 @@ The finalists have been announced!
   <a href="/finalists/">Check out the finalists</a>
 </p>
 
-{% elsif site.phase == 8 %}
+{% elsif site.phase == site.WINNERS_ANNOUNCED %}
 
 The winners have been announced!
 
@@ -84,9 +84,6 @@ The winners have been announced!
 {% endif %}
 
 </div>
-
-
-{% if site.phase > 0 %}
 
 
 ### Help us choose our winners!
@@ -113,7 +110,4 @@ The winners will represent a diverse set of issues, strategies, and tactics. Win
 ### Questions
 
 If you have any questions about the information on this page, [please review our FAQs](/faqs) or send us an email at [connect@la2050.org](mailto:connect@la2050.org).
-
-
-{% endif %}
 

@@ -8,7 +8,7 @@ main_class: standard-layout
   Submit Your Proposal
 </h1>
 
-{% if site.phase < 2 %}
+{% if site.phase < site.ENTRIES_BEING_ACCEPTED %}
 
 <div class="introduction" markdown="1">
 
@@ -30,7 +30,7 @@ main_class: standard-layout
 
 </div>
 
-{% elsif site.phase == 2 %}
+{% elsif site.phase == site.ENTRIES_BEING_ACCEPTED %}
 
 <div class="introduction" markdown="1">
 
@@ -42,7 +42,7 @@ The submission period has started! Apply by <strong>March 27, 2020</strong> <sma
 
 </div>
 
-{% elsif site.phase == 3 %}
+{% elsif site.phase == site.ENTRY_PERIOD_ENDED %}
 
 <div class="introduction" markdown="1">
 
@@ -62,7 +62,7 @@ Voting begins on
 
 </div>
 
-{% elsif site.phase == 4 %}
+{% elsif site.phase == site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
 
 <div class="introduction" markdown="1">
 
@@ -81,7 +81,7 @@ Voting begins on
 
 </div>
 
-{% elsif site.phase == 5 %}
+{% elsif site.phase == site.VOTES_BEING_ACCEPTED %}
 
 <div class="introduction" markdown="1">
 
@@ -103,7 +103,7 @@ The submission period is complete.
 
 </div>
 
-{% elsif site.phase == 6 %}
+{% elsif site.phase == site.VOTING_PERIOD_ENDED %}
 
 <div class="introduction" markdown="1">
 
@@ -122,7 +122,7 @@ The submission period is complete.
 
 </div>
 
-{% elsif site.phase == 7 %}
+{% elsif site.phase == site.FINALISTS_ANNOUNCED %}
 
 <div class="introduction" markdown="1">
 
@@ -141,7 +141,7 @@ The finalists have been announced!
 
 </div>
 
-{% elsif site.phase == 8 %}
+{% elsif site.phase == site.WINNERS_ANNOUNCED %}
 
 <div class="introduction" markdown="1">
 
@@ -154,9 +154,6 @@ The winners have been announced!
 </div>
 
 {% endif %}
-
-
-{% if site.phase > 0 %}
 
 
 ### Resources
@@ -214,7 +211,7 @@ _What are the rules for submitting a proposal to the My LA2050 Grants Challenge?
 
 If you have any questions about the information on this page, [please review our FAQs](/faqs) or send us an email at [connect@la2050.org](mailto:connect@la2050.org).
 
-{% if site.phase == 1 %}
+{% if site.phase == site.NEW_CHALLENGE_ANNOUNCED %}
 
 * * *
 
@@ -236,7 +233,7 @@ If you have any questions about the information on this page, [please review our
 
 {% endif %}
 
-{% elsif site.phase == 2 %}
+{% elsif site.phase == site.ENTRIES_BEING_ACCEPTED %}
 
 * * *
 
@@ -252,5 +249,3 @@ The submission period has started! Apply by <strong>March 27, 2020</strong> <sma
 
 {% endif %}
 
-
-{% endif %}

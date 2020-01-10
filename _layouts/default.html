@@ -111,21 +111,21 @@
   {% assign redirect_to_random_finalist_page = false %}
   {% assign redirect_to_random_entry_page = false %}
 
-  {% if page.url == "/" and site.phase >= 8 %}
+  {% if page.url == "/" and site.phase >= site.WINNERS_ANNOUNCED %}
     {% assign redirect_to_winners_page = true %}
   {% endif %}
 
   {% if page.url == "/finalists/" %}
     {% assign redirect_to_random_finalist_page = true %}
   {% endif %}
-  {% if page.url == "/" and site.phase == 7 %}
+  {% if page.url == "/" and site.phase >= site.FINALISTS_ANNOUNCED %}
     {% assign redirect_to_random_finalist_page = true %}
   {% endif %}
 
   {% if page.url == "/entries/" %}
     {% assign redirect_to_random_entry_page = true %}
   {% endif %}
-  {% if page.url == "/" and site.phase >= 4 and site.phase <= 6 %}
+  {% if page.url == "/" and site.phase >= site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
     {% assign redirect_to_random_entry_page = true %}
   {% endif %}
 
@@ -199,7 +199,7 @@
 
 <body{% if page.body_class %} class="{{ page.body_class }}"{% elsif project_body_class %} class="{{ project_body_class }}"{% endif %}>
 
-  {% if page.show_promotion or site.phase >= 2 %}
+  {% if page.show_promotion or site.phase >= site.ENTRIES_BEING_ACCEPTED %}
   <section class="promotion">
     {% include promotion.html %}
   </section>

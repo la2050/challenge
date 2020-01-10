@@ -29,9 +29,9 @@ stylesheets:
 <p class="category">
   <a href="/{{ page.category }}/#projects" style="text-transform: none;">
     <span style="text-transform: uppercase;">{{ page.category }}</span>
-    {% if site.phase == 8 %}
+    {% if site.phase == site.WINNERS_ANNOUNCED %}
       {% if is_winner %} Winner {% include ribbon.svg %} {% elsif is_finalist %} Finalist {% endif %}
-    {% elsif site.phase == 7 %}
+    {% elsif site.phase == site.FINALISTS_ANNOUNCED %}
       {% if is_finalist %} Finalist {% endif %}
     {% endif %}
   </a>
@@ -126,7 +126,7 @@ stylesheets:
   {{ page.project_description }}
 </p>
 
-{% if site.phase == 4 %}
+{% if site.phase == site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
 <p class="vote-action" style="margin-top: 3em;">
   <span style="display: block;
     position: absolute;
@@ -144,7 +144,7 @@ stylesheets:
   <br />
   <small style="font-size: 0.875em; font-weight: 500; line-height: 1.7142857143;"><a href="/vote/" style="color: inherit">Public voting</a> begins on <em>June 1, 2020.</em> <span class="avoid-break">You can cast five votes, one per <span class="avoid-break"><a href="/about/#goals" style="color: inherit">goal category</a>.</span></span></small>
 </p>
-{% elsif site.phase == 5 %}
+{% elsif site.phase == site.VOTES_BEING_ACCEPTED %}
 <p class="vote-action">
   <span class="action">
     <a href="/vote/form/?{{ page.category }}={{ page.organization_name | url_encode }}">Vote for this proposal</a>
@@ -200,7 +200,7 @@ stylesheets:
 <h2>Love this idea?</h2>
 
 <ul class="action" style="max-width: none;">
-  <li {% if site.phase == 5 %}class="secondary"{% endif %}><a href="{{ link_newsletter_url }}">Stay updated</a></li>
+  <li {% if site.phase == site.VOTES_BEING_ACCEPTED %}class="secondary"{% endif %}><a href="{{ link_newsletter_url }}">Stay updated</a></li>
 </ul>
 </div>
 {% endif %}
@@ -350,7 +350,7 @@ stylesheets:
 {% if page.application_id %}
 {% unless page.is_test_data %}{% comment %}This if statement is temporary… only to avoid setting up comments for test entries{% endcomment %}
 
-{% if site.phase == 5 %}
+{% if site.phase == site.VOTES_BEING_ACCEPTED %}
 <hr />
 
 <p class="vote-action" style="grid-column: 2/-1;">

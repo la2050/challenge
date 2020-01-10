@@ -6,7 +6,7 @@ stylesheets:
   - "/assets/css/vote.css"
 ---
 
-{% if site.phase <= 4 and site.voting_test_mode != true %}
+{% if site.phase < site.VOTES_BEING_ACCEPTED and site.voting_test_mode != true %}
 
   <div class="introduction introduction-voting">
     <div>
@@ -18,7 +18,7 @@ stylesheets:
     </div>
   </div>
 
-{% elsif site.phase >= 6 and site.voting_test_mode != true %}
+{% elsif site.phase > site.VOTES_BEING_ACCEPTED and site.voting_test_mode != true %}
 
   <div class="introduction introduction-voting">
     <div>

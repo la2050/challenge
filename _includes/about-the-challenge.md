@@ -13,19 +13,19 @@ LA2050 is a community-guided initiative driving and tracking progress toward a s
 
 <strong>Now, we're asking for your help to turn the [LA2050 goals and metrics](/about/#goals) into action.</strong>
 
-{% if site.phase == 1 %}
+{% if site.phase == site.NEW_CHALLENGE_ANNOUNCED %}
 
 Starting Monday, <strong>February 3, 2020</strong> <small>(9am Pacific Time)</small>, you can submit your proposal on this website.
 
 Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
 
-{% elsif site.phase == 2 %}
+{% elsif site.phase == site.ENTRIES_BEING_ACCEPTED %}
 
 <a href="{{ site.submission_url }}">Submit your idea</a> by Friday, **March 27, 2019** <small>(midnight, Pacific)</small>.
 
 Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
 
-{% elsif site.phase == 3 %}
+{% elsif site.phase == site.ENTRY_PERIOD_ENDED %}
 
 <p>
   <em>The submission period is complete.</em>
@@ -38,7 +38,7 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
   </span>
 </p>
 
-{% elsif site.phase == 4 %}
+{% elsif site.phase == site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
 
 <p>
   <em>The submission period is complete.</em>
@@ -51,7 +51,7 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
   </span>
 </p>
 
-{% elsif site.phase == 5 %}
+{% elsif site.phase == site.VOTES_BEING_ACCEPTED %}
 
 <p>
   <a href="/vote/">It’s time to vote</a>!
@@ -61,7 +61,7 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
   </span>
 </p>
 
-{% elsif site.phase == 6 %}
+{% elsif site.phase == site.VOTING_PERIOD_ENDED %}
 
 <p>
   <em>The public voting period is complete.</em>
@@ -74,7 +74,7 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
   </span>
 </p>
 
-{% elsif site.phase == 7 %}
+{% elsif site.phase == site.FINALISTS_ANNOUNCED %}
 
 <p><em>The finalists have been announced!</em></p>
 <p>
@@ -85,7 +85,7 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
   </span>
 </p>
 
-{% elsif site.phase == 8 %}
+{% elsif site.phase == site.WINNERS_ANNOUNCED %}
 
 <p><em>The winners have been announced!</em></p>
 <p><a href="/winners/">Check out the winners</a></p>
@@ -136,11 +136,11 @@ Winners will be selected using the following criteria:
 * Ability to mobilize the LA community
 * Collaborative spirit
 
-{% if site.phase <= 4 %}
+{% if site.phase < site.VOTES_BEING_ACCEPTED %}
 
 Starting Wednesday, <strong>June 1, 2020</strong>, you can [vote for a proposal](/vote/) on this website.
 
-{% elsif site.phase == 5 %}
+{% elsif site.phase == site.VOTES_BEING_ACCEPTED %}
 
 <p>
   <a href="/vote/">It’s time to vote</a>!
@@ -150,7 +150,7 @@ Starting Wednesday, <strong>June 1, 2020</strong>, you can [vote for a proposal]
   </span>
 </p>
 
-{% elsif site.phase == 6 %}
+{% elsif site.phase == site.VOTING_PERIOD_ENDED %}
 
 <p>
   <em>The public voting period is complete.</em>
@@ -163,7 +163,7 @@ Starting Wednesday, <strong>June 1, 2020</strong>, you can [vote for a proposal]
   </span>
 </p>
 
-{% elsif site.phase == 7 %}
+{% elsif site.phase == site.FINALISTS_ANNOUNCED %}
 
 <p><em>The finalists have been announced!</em></p>
 <p>
@@ -174,7 +174,7 @@ Starting Wednesday, <strong>June 1, 2020</strong>, you can [vote for a proposal]
   </span>
 </p>
 
-{% elsif site.phase == 8 %}
+{% elsif site.phase == site.WINNERS_ANNOUNCED %}
 
 <p><em>The winners have been announced!</em></p>
 <p><a href="/winners/">Check out the winners</a></p>
