@@ -330,7 +330,7 @@ main > h1:first-child::before {
 {% if page.finalists and site.phase < site.FINALISTS_ANNOUNCED %}
 
 <div class="introduction" markdown="1">
-The finalists will appear here soon!
+The finalists will appear here on <strong>{{ site.FINALISTS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
 </div>
 
 {% elsif page.winners and site.phase < site.WINNERS_ANNOUNCED %}
