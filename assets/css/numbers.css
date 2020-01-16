@@ -38,7 +38,7 @@
     @media (min-width: 60em) {
       .numbers dl {
         display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
         max-width: none;
         margin-left: 0;
         margin-right: 0;
@@ -50,7 +50,8 @@
       }
       .numbers dt {
         grid-row: 1 / 2;
-        align-self: end;
+        /* align-self: end; */
+        align-self: stretch;
         border: 0.1875rem solid var(--strawberry-very-bright);
         border-left-width: 0;
         border-bottom-width: 0;

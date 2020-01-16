@@ -70,23 +70,24 @@
     text-align: left;
   }
   main > p + .timeline {
-    background-image: url(/assets/images/home/airplane.svg);
+/*     background-image: url(/assets/images/home/airplane.svg);
     background-size: 75em auto;
     background-position: 1.5em 0;
     background-repeat: no-repeat;
-    grid-column: 1 / -1;
+    grid-column: 1 / -1; */
+    padding-top: 0;
   }
-  @media (min-width: 40em) {
+/*   @media (min-width: 40em) {
     main > p + .timeline {
       background-position: 4.5em 0;
     }
-  }
+  } */
   main > .timeline h2 {
     margin-top: 1.5em;
     margin-bottom: 0.75em;
-    color: var(--strawberry);
     color: var(--lime);
     color: var(--banana);
+    color: var(--strawberry);
   }
   main > .timeline p strong {
     color: inherit;

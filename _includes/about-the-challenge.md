@@ -44,7 +44,28 @@
   <span class="avoid-break">Grants Challenge</span>
 </h2>
 
-LA2050 is a community-guided initiative driving and tracking progress toward a shared vision for the future of Los Angeles. With the support of 30,000 Angelenos, we’ve outlined an aspirational vision centered on five goals and 60+ metrics tracked over time to evaluate how Los Angeles is faring. <br /><br /><strong>The My LA2050 Grants Challenge is an open call for ideas to make LA the best place to learn, create, play, connect, and live.<br /><br />A total of $1,000,000</strong> will be awarded among 25 organizations to implement their proposals. <mark>Each organization will receive a total of $100,000</mark> and [partnership from LA2050](/about/#la2050-partnership) to support its efforts.
+LA2050 is a community-guided initiative driving and tracking progress toward a shared vision for the future of Los Angeles. With the support of 30,000 Angelenos, we’ve outlined an aspirational vision centered on five goals and 60+ metrics tracked over time to evaluate how Los Angeles is faring. <br /><br /><strong>The My LA2050 Grants Challenge is an open call for ideas to make LA the best place to learn, create, play, connect, and live.<br /><br />A total of $1,000,000</strong> will be awarded among 25 organizations to implement their proposals. Each organization will also receive a [partnership from LA2050](/about/#la2050-partnership) to support its efforts.
+
+**In each goal category, the awards will be…**
+
+<div class="numbers" markdown="1">
+$100K
+: 1st place
+
+$50K
+: 2nd place
+
+$25K
+: 3rd place
+
+$15K
+: 4th place
+
+$10K
+: 5th place
+</div>
+
+<br />
 
 <strong>Now, we're asking for your help to turn the [LA2050 goals and metrics](/about/#goals) into action.</strong>
 
@@ -127,33 +148,8 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
 
 {% endif %}
 
-<div class="numbers" markdown="1">
-$1 million
-: in grants
 
-25
-: organizations
-
-$10K - $100K
-: over one year
-</div>
-
-
-<section class="standard-section steps"><div markdown="1">
-
-<div><img src="/assets/images/steps/watering-can.svg" height="200" alt="" /></div>
-
-![](/assets/images/steps/1.svg?v={{ site.version }}) Step 1
-: You have an idea.
-
-![](/assets/images/steps/2.svg?v={{ site.version }}) Step 2
-: The LA2050 community rallies around it.
-
-![](/assets/images/steps/3.svg?v={{ site.version }}) Step 3
-: Together, we make LA the best place to live, learn, play, connect, and create.
-
-</div></section>
-
+<br />
 
 ## Winners Selection
 
@@ -219,7 +215,7 @@ Starting <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</
 
 <section class="standard-section timeline" id="dates"><div markdown="1">
 
-<h2 class="hidden-but-accessible">Timeline</h2>
+<h2>Timeline</h2>
 
 {% include timeline.html %}
 
