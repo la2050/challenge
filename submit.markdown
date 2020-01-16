@@ -180,6 +180,27 @@ From {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} (9am Pacific 
 
 View the [full timeline](/timeline).
 
+<div class="application-process">
+  <div>
+    <h4 id="application-process">Application Process</h4>
+
+    <ol>
+      <li>Submit proposal</li>
+      <li>Moderation period</li>
+      <li>Proposals on website</li>
+    </ol>
+
+    <h4 id="voting-process">Voting Process</h4>
+
+    <ol>
+      <li>Finalists announced</li>
+      <li>Vote on finalists</li>
+      <li>Winners announced</li>
+    </ol>
+  </div>
+</div>
+
+<br />
 
 ### To apply, organizations will:
 

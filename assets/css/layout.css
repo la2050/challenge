@@ -200,6 +200,18 @@
       .standard-layout > .standard-figure + .standard-section {
         margin-top: -6em;
       }
+
+      .application-process {
+        grid-column: 1/-1;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-column-gap: 3em;
+        grid-row-gap: 1.5em;
+        align-items: start;
+      }
+      .application-process > div {
+        grid-column: 1/-1;
+      }
     }
   }
 
