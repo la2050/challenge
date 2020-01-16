@@ -6,10 +6,10 @@
     background-color: rgb(237, 59, 136); /* @strawberry */
     color: rgb(255, 194, 51); /* @banana */
     text-transform: uppercase;
-    font-weight: 900; /* @black */
+    font-weight: 700;
     margin: 1.5em -1.5em 0;
     padding: 3em 1.5em;
-    letter-spacing: 1px;
+    letter-spacing: 0.05em;
   }
   @media (min-width: 40em) { /* @medium-size-screen */
     .application-process {

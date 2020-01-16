@@ -1,6 +1,6 @@
 <h1 style="padding-top: 0; padding-bottom: 0; display: grid;">
   {% include city.html %}
-  <span style="grid-column: 1/-1; grid-row: 1/-1; align-self: center; font-size: 5vw; z-index: 2;">What will you do to make LA <span class="avoid-break">the best place<span id="headline-goal" style="display: none"> to <strong>Live</strong></span>?</span></span>
+  <span style="grid-column: 1/-1; grid-row: 1/-1; align-self: center; font-size: 5vmax; z-index: 2;">What will you do to make LA the best place<span id="headline-goal" style="display: none"> to <strong>Live</strong></span>?</span>
   <script>
   (function() {
     const goals = [

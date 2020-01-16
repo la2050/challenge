@@ -476,7 +476,7 @@
     position: relative;
     z-index: 1;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 0.05em;
   }
   @media (min-width: 40em) { /* @medium-size-screen */
     main > h1:first-child {
