@@ -1,6 +1,6 @@
-<h1 style="padding-top: 0;">
+<h1 style="padding-top: 0; padding-bottom: 0; display: grid;">
   {% include city.html %}
-  What will you do to make LA the best place<span id="headline-goal" style="display: none"> to <strong>Live</strong></span>?
+  <span style="grid-column: 1/-1; grid-row: 1/-1; align-self: center; font-size: 5vw; z-index: 2;">What will you do to make LA <span class="avoid-break">the best place<span id="headline-goal" style="display: none"> to <strong>Live</strong></span>?</span></span>
   <script>
   (function() {
     const goals = [
@@ -24,6 +24,18 @@
     }
   })()
   </script>
+  <style>
+    main > h1:first-child::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.25);
+      background-image: none;
+    }
+  </style>
 </h1>
 
 <h2>

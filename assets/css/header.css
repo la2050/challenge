@@ -312,10 +312,11 @@
   header a,
   footer a {
     /*color: var(--snow);*/
-    font-weight: 700;
+    font-weight: 600;
     letter-spacing: 0.05em;
     text-decoration: none;
-    text-transform: uppercase
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
   }
 /*  footer a:hover,
   footer a:active,
@@ -475,6 +476,7 @@
     position: relative;
     z-index: 1;
     text-transform: uppercase;
+    letter-spacing: 2px;
   }
   @media (min-width: 40em) { /* @medium-size-screen */
     main > h1:first-child {

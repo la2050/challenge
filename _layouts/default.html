@@ -126,9 +126,6 @@
   {% if page.url == "/entries/" %}
     {% assign redirect_to_random_entry_page = true %}
   {% endif %}
-  {% if page.url == "/" and site.phase >= site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
-    {% assign redirect_to_random_entry_page = true %}
-  {% endif %}
 
   {% if redirect_to_winners_page %}
   <script>
