@@ -1,6 +1,6 @@
 <h1 style="padding-top: 0; padding-bottom: 0; display: grid;">
   {% include city.html %}
-  <span style="grid-column: 1/-1; grid-row: 1/-1; align-self: center; font-size: 5vmax; z-index: 2;">What will you do to make LA the best place<span id="headline-goal" style="display: none"> to <strong>Live</strong></span>?</span>
+  <span style="grid-column: 1/-1; grid-row: 1/-1; align-self: center; font-size: 5vmax; z-index: 2;">What will you do to make LA the best place<span id="headline-goal" style="display: none"> to <a href="/about/#goals" style="text-decoration: none"><strong style="color: inherit;">Live</strong></a></span>?</span>
   <script>
   (function() {
     const goals = [
@@ -10,15 +10,24 @@
       "Connect",
       "Live"
     ];
+    const colors = [
+      "blueberry",
+      "banana",
+      "strawberry",
+      "tangerine",
+      "lime"
+    ];
     // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
     function getRandomInt(max) {
       return Math.floor(Math.random() * Math.floor(max));
     }
     const goal = document.getElementById("headline-goal");
     if (goal) {
-      const goalText = goal.querySelector("strong");
+      const goalText = goal.querySelector("a");
       if (goalText) {
-        goalText.textContent = goals[getRandomInt(goals.length)];
+        let randomNumber = getRandomInt(goals.length);
+        goalText.textContent = goals[randomNumber];
+        goalText.style.color = `var(--${colors[randomNumber]})`;
         goal.style.display = null;
       }
     }
@@ -46,7 +55,7 @@
 
 LA2050 is a community-guided initiative driving and tracking progress toward a shared vision for the future of Los Angeles. With the support of 30,000 Angelenos, we’ve outlined an aspirational vision centered on five goals and 60+ metrics tracked over time to evaluate how Los Angeles is faring. <br /><br /><strong>The My LA2050 Grants Challenge is an open call for ideas to make LA the best place to learn, create, play, connect, and live.<br /><br />A total of $1,000,000</strong> will be awarded among 25 organizations to implement their proposals. Each organization will also receive a [partnership from LA2050](/about/#la2050-partnership) to support its efforts.
 
-**In each goal category, the awards will be…**
+In each of the five [goal categories](/about/#goals), the awards will be…
 
 <div class="numbers" markdown="1">
 $100K
