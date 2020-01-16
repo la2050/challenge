@@ -1,5 +1,5 @@
-<h1>
-  {% include city-illustration.html %}
+<h1 style="padding-top: 0;">
+  {% include city.html %}
   Tell us… how do you turn <strong>inspiration</strong> <span class="avoid-break">into <strong>impact</strong>?</span>
 </h1>
 

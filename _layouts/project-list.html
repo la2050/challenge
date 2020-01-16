@@ -242,7 +242,7 @@ main > h1:first-child::before {
 {% else %}
   {% if site.phase >= site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
     <h1>
-      {% include city-illustration.html %}
+      {% include city.html %}
       <span style="max-width: 23em; display: block; margin-left: auto; margin-right: auto;" id="primary-headline">
         Tell us… which of <a href="#projects" style="color: inherit; font-weight: inherit;">these proposals</a> will
         make <span class="avoid-break">Los Angeles</span> the best place{% if page.category %}  to <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong>{% endif %}?<br /><br />
@@ -299,7 +299,7 @@ main > h1:first-child::before {
   {% else %}
     <h1>
       {% if site.phase == site.VOTING_PERIOD_ENDED %}
-      {% include city-illustration.html %}
+      {% include city.html %}
       {% endif %}
       Entries{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong> category{% endif %}
       <small style="font-style: normal;display: block;">
