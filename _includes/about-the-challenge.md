@@ -1,8 +1,12 @@
 <h1 style="padding-top: 0; padding-bottom: 0; display: grid;">
   {% include city.html %}
-  <span style="grid-column: 1/-1; grid-row: 1/-1; align-self: center; font-size: 5vmax; z-index: 2;">What will you do to make LA the best place<span id="headline-goal" style="display: none"> to <a href="/about/#goals" style="text-decoration: none"><strong style="color: inherit;">Live</strong></a></span>?</span>
+  <span style="grid-column: 1/-1; grid-row: 1/-1; align-self: center; font-size: 5vmax; z-index: 2;">What will you do to<br />make LA the best place<span id="headline-goal" style="display: none"> to<br /><a href="/about/#goals" style="text-decoration: none"><strong style="color: inherit;">Live</strong></a></span>?</span>
   <script>
   (function() {
+    // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+    function getRandomInt(max) {
+      return Math.floor(Math.random() * Math.floor(max));
+    }
     const goals = [
       "Learn",
       "Create",
@@ -17,20 +21,22 @@
       "tangerine",
       "lime"
     ];
-    // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
-    function getRandomInt(max) {
-      return Math.floor(Math.random() * Math.floor(max));
-    }
-    const goal = document.getElementById("headline-goal");
-    if (goal) {
-      const goalText = goal.querySelector("a");
-      if (goalText) {
-        let randomNumber = getRandomInt(goals.length);
-        goalText.textContent = goals[randomNumber];
-        goalText.style.color = `var(--${colors[randomNumber]})`;
-        goal.style.display = null;
+    let cursor = getRandomInt(goals.length);
+    function update() {
+      const goal = document.getElementById("headline-goal");
+      if (goal) {
+        const goalText = goal.querySelector("a");
+        if (goalText) {
+          cursor++;
+          if (cursor >= goals.length) cursor = 0;
+          goalText.textContent = goals[cursor];
+          goalText.style.color = `var(--${colors[cursor]})`;
+          goal.style.display = null;
+        }
       }
     }
+    setInterval(update, 3000);
+    update();
   })()
   </script>
   <style>
