@@ -91,7 +91,7 @@ main > h1:first-child::before {
 {% elsif page.finalists %}
 
 
-{% if site.phase >= site.FINALISTS_ANNOUNCED %}
+{% if site.phase >= site.FINALISTS_ANNOUNCED and site.phase < site.VOTING_PERIOD_ENDED %}
 <h1 style="padding-top: 0; padding-bottom: 0; display: grid;">
   {% include city.html %}
   <span style="max-width: 23em; display: block; margin-left: auto; margin-right: auto; grid-column: 1/-1; grid-row: 1/-1; align-self: center; z-index: 2;" id="primary-headline">
@@ -164,7 +164,14 @@ main > h1:first-child::before {
   </style>
 </h1>
 {% else %}
-<h1><span>Finalists</span></h1>
+<h1 style="padding-top: 0;">
+  Finalists{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong> category{% endif %}
+  <small style="font-style: normal;display: block;">
+    <small style="letter-spacing: 0; font-style: normal;">
+      Learn <strong style="font-weight: inherit; color: inherit;"><a href="/about/" style="color: inherit; font-weight: inherit;">about the challenge</a></strong>.
+    </small>
+  </small>
+</h1>
 {% endif %}
 
 {% comment %}
