@@ -3,17 +3,18 @@
 {% assign navigation_items_count = 5 %}
 {% if site.phase >= site.ENTRIES_BEING_ACCEPTED %}
 {% if site.phase >= site.ENTRIES_SHOWN_ON_THE_WEBSITE or site.show_early_entries == true %}
-  {% assign navigation_items_count = 6 %}
+  {% assign navigation_items_count = 7 %}
 {% endif %}
 {% endif %}
 {% if site.phase >= site.FINALISTS_ANNOUNCED %}
-  {% assign navigation_items_count = 7 %}
+  {% assign navigation_items_count = 8 %}
 {% endif %}
 {% if site.phase >= site.WINNERS_ANNOUNCED %}
-  {% assign navigation_items_count = 8 %}
+  {% assign navigation_items_count = 9 %}
 {% endif %}
 <ul class="has-{{ navigation_items_count }}-items">
   <li {% if page.url == '/about/' %}     class="active" {% endif %}><a href="/about/">About</a></li>
+  <li {% if page.url == '/partners/' %}  class="active" {% endif %}><a href="/partners/">Partners</a></li>
   {% if site.phase >= site.WINNERS_ANNOUNCED %}
   <li {% if page.url == '/winners/' %}   class="active" {% endif %}><a href="/winners/">Winners</a></li>
   {% endif %}
