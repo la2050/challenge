@@ -1,6 +1,29 @@
 <h1 style="padding-top: 0;">
   {% include city.html %}
-  Tell us… how do you turn <strong>inspiration</strong> <span class="avoid-break">into <strong>impact</strong>?</span>
+  What will you do to make LA the best place<span id="headline-goal" style="display: none"> to <strong>Live</strong></span>?
+  <script>
+  (function() {
+    const goals = [
+      "Learn",
+      "Create",
+      "Play",
+      "Connect",
+      "Live"
+    ];
+    // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+    function getRandomInt(max) {
+      return Math.floor(Math.random() * Math.floor(max));
+    }
+    const goal = document.getElementById("headline-goal");
+    if (goal) {
+      const goalText = goal.querySelector("strong");
+      if (goalText) {
+        goalText.textContent = goals[getRandomInt(goals.length)];
+        goal.style.display = null;
+      }
+    }
+  })()
+  </script>
 </h1>
 
 <h2>

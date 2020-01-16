@@ -10,23 +10,23 @@ main_class: standard-layout
 
 <div class="introduction" markdown="1">
 
-{% if site.phase < site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
+{% if site.phase < site.FINALISTS_ANNOUNCED %}
 
-Starting **{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}** (9am Pacific Time), you can vote for the entries on this website.<br />You can cast five votes, one per [goal category](/about/#goals).
+Starting **{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}** (9am Pacific Time), you can vote for the finalists on this website.<br />You can cast five votes, one per [goal category](/about/#goals).
 
 <p class="action" markdown="1">
   <a href="{{ site.mailing_list_url }}">Get updates</a>
 </p>
 
-{% elsif site.phase == site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
+{% elsif site.phase == site.FINALISTS_ANNOUNCED %}
 
-Starting **{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}** (9am Pacific Time), you can vote for the entries on this website.<br />You can cast five votes, one per [goal category](/about/#goals).
+Starting **{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}** (9am Pacific Time), you can vote for the finalists on this website.<br />You can cast five votes, one per [goal category](/about/#goals).
 
 <p class="action" markdown="1">
-  <a href="/entries/">Check out the entries!</a>
+  <a href="/finalists/">Check out the finalists!</a>
 </p>
 <p style="font-size: inherit; margin-top: 2.25em;">
-  <small style="font-size: 0.875em;">You can vote by pressing the “Vote for this proposal” button on any entry page.</small>
+  <small style="font-size: 0.875em;">You can vote by pressing the “Vote for this proposal” button on any finalist page.</small>
 </p>
 
 {% elsif site.phase == site.VOTES_BEING_ACCEPTED %}
@@ -35,12 +35,11 @@ Vote by <strong>{{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}</st
 <br />
 You can cast five votes, one per [goal category](/about/#goals).
 
-<p class="action">
-  <a href="/entries/">Check out the entries!</a>
+<p class="action" markdown="1">
+  <a href="/finalists/">Check out the finalists!</a>
 </p>
 <p style="font-size: inherit; margin-top: 2.25em;">
-  <small style="font-size: 0.875em;">You can vote by pressing the “Vote for this proposal” button on any entry page.</small><br />
-  <small style="font-size: 0.875em;">You can also visit the <a href="/vote/form/">voting form</a> directly.</small>
+  <small style="font-size: 0.875em;">You can vote by pressing the “Vote for this proposal” button on any finalist page.</small>
 </p>
 
 {% elsif site.phase == site.VOTING_PERIOD_ENDED %}
@@ -54,9 +53,15 @@ Public voting is complete.
   </span>
 </small>
 
+{% if site.finalists_chosen_by_public_vote %}
 <p class="action" markdown="1">
   <a href="/entries/">Check out the entries</a>
 </p>
+{% else %}
+<p class="action" markdown="1">
+  <a href="/finalists/">Check out the finalists</a>
+</p>
+{% endif %}
 
 {% elsif site.phase == site.FINALISTS_ANNOUNCED %}
 

@@ -92,11 +92,24 @@ main > h1:first-child::before {
 
 
 {% if site.phase >= site.FINALISTS_ANNOUNCED %}
-<h1>
-  <span id="primary-headline">
+<h1 style="padding-top: 0;">
+  {% include city.html %}
+  <span style="max-width: 23em; display: block; margin-left: auto; margin-right: auto;" id="primary-headline">
+    {% if site.finalists_chosen_by_public_vote %}
     Congratulations to the <a href="#projects" style="color: inherit; font-weight: inherit;">{% if site.finalists_chosen_by_public_vote %}top 10 voted{% else %}finalists{% endif %}</a>{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong> category{% endif %}!<br />
-    <small style="font-style: normal;display: block; margin-top: 0.75em">
-      <small style="letter-spacing: 0; font-style: normal;">
+    {% else %}
+      Tell us… which of <a href="#projects" style="color: inherit; font-weight: inherit;">these proposals</a> will
+      make <span class="avoid-break">Los Angeles</span> the best place{% if page.category %}  to <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong>{% endif %}?<br /><br />
+    {% endif %}
+    <small style="font-style: normal;display: block;">
+      <small style="letter-spacing: 0; font-style: normal;" class="avoid-break">
+        {% if site.phase == site.VOTES_BEING_ACCEPTED %}
+          <strong style="font-weight: inherit; color: inherit;"><a href="/vote/" style="color: inherit; font-weight: inherit;">Public voting</a></strong> has started! <span class="avoid-break">Vote by <span class="avoid-break"><strong>{{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}</strong>.</span></span>
+        {% else %}
+          <strong style="font-weight: inherit; color: inherit;"><a href="/vote/" style="color: inherit; font-weight: inherit;">Public voting</a></strong> begins on <span class="avoid-break"><strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong>.</span>
+        {% endif %}
+      </small>
+      <small style="letter-spacing: 0; font-style: normal;" class="avoid-break">
         Learn <strong style="font-weight: inherit; color: inherit;"><a href="/about/" style="color: inherit; font-weight: inherit;">about the challenge</a></strong>.
       </small>
     </small>
@@ -141,6 +154,11 @@ main > h1:first-child::before {
 {% else %}
 <h1><span>Finalists</span></h1>
 {% endif %}
+
+{% comment %}
+
+Make headline background color transparent for finalists
+
 <style>
 
 main > h1:first-child {
@@ -159,6 +177,7 @@ main > h1:first-child strong {
 }
 
 </style>
+{% endcomment %}
 
 
 {% comment %}
@@ -241,63 +260,7 @@ main > h1:first-child::before {
 
 {% else %}
   {% if site.phase >= site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
-    <h1>
-      {% include city.html %}
-      <span style="max-width: 23em; display: block; margin-left: auto; margin-right: auto;" id="primary-headline">
-        Tell us… which of <a href="#projects" style="color: inherit; font-weight: inherit;">these proposals</a> will
-        make <span class="avoid-break">Los Angeles</span> the best place{% if page.category %}  to <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong>{% endif %}?<br /><br />
-        <small style="font-style: normal;display: block;">
-          <small style="letter-spacing: 0; font-style: normal;" class="avoid-break">
-            {% if site.phase == site.VOTES_BEING_ACCEPTED %}
-              <strong style="font-weight: inherit; color: inherit;"><a href="/vote/" style="color: inherit; font-weight: inherit;">Public voting</a></strong> has started! <span class="avoid-break">Vote by <span class="avoid-break"><strong>{{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}</strong>.</span></span>
-            {% else %}
-              <strong style="font-weight: inherit; color: inherit;"><a href="/vote/" style="color: inherit; font-weight: inherit;">Public voting</a></strong> begins on <span class="avoid-break"><strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong>.</span>
-            {% endif %}
-          </small>
-          <small style="letter-spacing: 0; font-style: normal;" class="avoid-break">
-            Learn <strong style="font-weight: inherit; color: inherit;"><a href="/about/" style="color: inherit; font-weight: inherit;">about the challenge</a></strong>.
-          </small>
-        </small>
-      </span>
-      <a href="#projects">
-        <svg aria-label="Entries" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="44.8" height="51.2">
-          <title>Entries</title>
-          <path fill="currentColor" d="M413.1 222.5l22.2 22.2c9.4 9.4 9.4 24.6 0 33.9L241 473c-9.4 9.4-24.6 9.4-33.9 0L12.7 278.6c-9.4-9.4-9.4-24.6 0-33.9l22.2-22.2c9.5-9.5 25-9.3 34.3.4L184 343.4V56c0-13.3 10.7-24 24-24h32c13.3 0 24 10.7 24 24v287.4l114.8-120.5c9.3-9.8 24.8-10 34.3-.4z" class=""></path>
-        </svg>
-      </a>
-      <script>
-      (function() {
-        try {
-          document.querySelectorAll(`a[href*="#projects"]`).forEach(projectsLink => {
-            projectsLink.addEventListener("click", function(e) {
-              let element = document.getElementById(projectsLink.getAttribute("href").replace("#", ""))
-              if (element && element.scrollIntoView) {
-                element.scrollIntoView({ behavior: 'smooth', block: 'start' })
-              }
-              e.preventDefault()
-            })
-          })
-        } catch(e) {}
-      })()
-      </script>
-      <script>
-      (function() {
-        try {
-          document.querySelectorAll(`a[href="/entries/"]`).forEach(projectsLink => {
-            projectsLink.addEventListener("click", function(e) {
-              let element = document.getElementById("primary-headline")
-              if (element && element.scrollIntoView) {
-                element.scrollIntoView({ behavior: 'smooth', block: 'start' })
-              }
-              e.preventDefault()
-            })
-          })
-        } catch(e) {}
-      })()
-      </script>
-    </h1>
-  {% else %}
-    <h1>
+    <h1 style="padding-top: 0;">
       {% if site.phase == site.VOTING_PERIOD_ENDED %}
       {% include city.html %}
       {% endif %}
