@@ -448,7 +448,7 @@ The entries will appear here by <strong>{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DAT
         </p>
         {% endcomment %}
         <p style="color: var(--primary-color); color: inherit; font-weight: normal; font-size: 0.875em;">
-          <strong class="category" style="text-decoration: none; text-transform: none; letter-spacing: 0;">{{ winner_award_place }}, {{ winner_award_amount }}&nbsp;{% include ribbon.svg %}</strong>
+          <span class="category" style="text-decoration: none; text-transform: none; letter-spacing: 0; font-weight: 400;"><strong style="color: var(--midnight)">{{ winner_award_place }}, </strong> <span style="font-weight: 600; color: var(--midnight)">{{ winner_award_amount }}</span>{% comment %}<br /><span style="text-transform: uppercase; font-weight: 700; letter-spacing: 0.05em;" onclick="window.location.href = '/{{ data['category']}}/#projects'; event.preventDefault()">{{ data['category'] }}</span> <span style="font-weight: 700; letter-spacing: 0.05em;">Winner</span>{% endcomment %} {% include ribbon.svg %}</span>
         </p>
         {% endif %}
         <h3>{{ data['title'] }}</h3>
@@ -479,7 +479,7 @@ The entries will appear here by <strong>{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DAT
       <p>
         <span>
           <span style="margin-right: 0.375em;">Share:</span>
-          <a href="https://twitter.com/share?url=https%3A%2F%2Fchallenge.la2050.org%2Fwinners%2F" onclick="window.location.href = 'https://twitter.com/share?text=' + encodeURIComponent('Congratulations to @{{ twitter | replace: "https://www.twitter.com/", "" | replace: "https://twitter.com/", "" | replace: "www.twitter.com/", "" | replace: "twitter.com/", "" | replace: "/", "" | replace: "@", "" }} for winning a grant in the 2020 My LA2050 Grants Challenge! Check out the other @LA2050 winners!') + '&url=https%3A%2F%2Fchallenge.la2050.org%2Fwinners%2F'; event.preventDefault()">
+          <a href="https://twitter.com/share?url=https%3A%2F%2Fchallenge.la2050.org%2Fwinners%2F" onclick="window.location.href = 'https://twitter.com/share?text=' + encodeURIComponent('Congratulations to @{{ twitter | replace: "https://www.twitter.com/", "" | replace: "https://twitter.com/", "" | replace: "www.twitter.com/", "" | replace: "twitter.com/", "" | replace: "/", "" | replace: "@", "" }} for winning a {{ winner_award_amount }} grant in the 2020 My LA2050 Grants Challenge! Check out the other @LA2050 winners!') + '&url=https%3A%2F%2Fchallenge.la2050.org%2Fwinners%2F'; event.preventDefault()">
             <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="vertical-align: middle; margin-left: 0.75em">
               <title>Twitter</title>
               <switch>
