@@ -287,7 +287,9 @@ main > h1:first-child::before {
 
 {% assign conditional_finalists_url = "" %}
 
-{% if page.finalists %}
+{% if page.winners %}
+{% assign conditional_finalists_url = "winners/" %}
+{% elsif page.finalists %}
 {% assign conditional_finalists_url = "finalists/" %}
 {% endif %}
 
@@ -351,6 +353,7 @@ The entries will appear here by <strong>{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DAT
 
 {% include project-navigation.html %}
 
+{% assign winner_award_rank = 1 %}
 
 <ul class="proposals {% if page.winners %}finalists{% endif %} {% if page.winners %}winners{% endif %}" id="project-list">
 
@@ -360,6 +363,23 @@ The entries will appear here by <strong>{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DAT
   {% for data in data_list %}
 
   {% assign do_show_item = false %}
+
+  {% if winner_award_rank == 1 %}
+    {% assign winner_award_place = "1st Place" %}
+    {% assign winner_award_amount = "$100K" %}
+  {% elsif winner_award_rank == 2 %}
+    {% assign winner_award_place = "2nd Place" %}
+    {% assign winner_award_amount = "$50K" %}
+  {% elsif winner_award_rank == 3 %}
+    {% assign winner_award_place = "3rd Place" %}
+    {% assign winner_award_amount = "$25K" %}
+  {% elsif winner_award_rank == 4 %}
+    {% assign winner_award_place = "4th Place" %}
+    {% assign winner_award_amount = "$15K" %}
+  {% elsif winner_award_rank == 5 %}
+    {% assign winner_award_place = "5th Place" %}
+    {% assign winner_award_amount = "$10K" %}
+  {% endif %}
 
   {% assign is_finalist = false %}
   {% for finalist in site.finalists %}
@@ -422,8 +442,13 @@ The entries will appear here by <strong>{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DAT
         </p>
         <h2 style="color: var(--primary-color); font-size: inherit;">LA2050 is proud to present…</h2>
         {% endcomment %}
+        {% comment %}
         <p style="color: var(--primary-color); color: inherit; font-weight: normal; font-size: 0.875em;">
           <strong class="category" style="text-decoration: none; text-transform: none;"><span style="text-transform: uppercase;" onclick="window.location.href = '/{{ data['category']}}/#projects'; event.preventDefault()">{{ data['category'] }}</span> {% if page.finalists %}Finalist{% elsif page.winners %}Winner {% include ribbon.svg %}{% endif %}</strong>
+        </p>
+        {% endcomment %}
+        <p style="color: var(--primary-color); color: inherit; font-weight: normal; font-size: 0.875em;">
+          <strong class="category" style="text-decoration: none; text-transform: none; letter-spacing: 0;">{{ winner_award_place }}, {{ winner_award_amount }}&nbsp;{% include ribbon.svg %}</strong>
         </p>
         {% endif %}
         <h3>{{ data['title'] }}</h3>
@@ -475,6 +500,16 @@ The entries will appear here by <strong>{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DAT
           </a>
         </span>
       </p>
+
+    {% if winner_award_rank == 1 %}
+      {% assign winner_award_rank = 2 %}
+    {% elsif winner_award_rank == 2 %}
+      {% assign winner_award_rank = 3 %}
+    {% elsif winner_award_rank == 3 %}
+      {% assign winner_award_rank = 4 %}
+    {% elsif winner_award_rank == 4 %}
+      {% assign winner_award_rank = 5 %}
+    {% endif %}
 
 {% endfor %}
 
@@ -858,7 +893,7 @@ text-transform: capitalize;" class="category"><span onclick="window.location.hre
 })();
 </script>
 
-{% unless page.is_search_results or page.finalists %}
+{% unless page.is_search_results or page.finalists or page.winners %}
 <script>
 (function() {
   if (!document.body.querySelector || !document.body.querySelectorAll) return

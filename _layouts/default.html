@@ -108,12 +108,15 @@
   <meta http-equiv="refresh" content="0; url={{ page.redirect }}" />
   {% endif %}
 
-  {% assign redirect_to_winners_page = false %}
+  {% assign redirect_to_random_winners_page = false %}
   {% assign redirect_to_random_finalist_page = false %}
   {% assign redirect_to_random_entry_page = false %}
 
+  {% if page.url == "/winners/" %}
+    {% assign redirect_to_random_winners_page = true %}
+  {% endif %}
   {% if page.url == "/" and site.phase >= site.WINNERS_ANNOUNCED %}
-    {% assign redirect_to_winners_page = true %}
+    {% assign redirect_to_random_winners_page = true %}
   {% endif %}
 
   {% if page.url == "/finalists/" %}
@@ -127,10 +130,22 @@
     {% assign redirect_to_random_entry_page = true %}
   {% endif %}
 
-  {% if redirect_to_winners_page %}
+  {% if redirect_to_random_winners_page %}
   <script>
   (function() {
-    window.location.href = '/winners/';
+    var links, random;
+
+    var categories = [
+      'learn',
+      'create',
+      'play',
+      'connect',
+      'live'
+    ];
+
+    random = Math.floor(Math.random() * categories.length) + 0;
+
+    window.location.href = '/' + categories[random] + '/winners/';
   })();
   </script>
   {% elsif redirect_to_random_finalist_page %}

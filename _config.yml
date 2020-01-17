@@ -169,49 +169,94 @@ finalists:
 
 winners:
 
-  # Learn:
+  # Learn
 
-  # 1) 9 Dots
+  # 1)
   - /2020/learn/9-dots/
 
-  # 2) Rise, Inc.
-  - /2020/learn/rise-inc/
+  # 2)
+  - /2020/learn/center-for-innovation-in-stem-education-cise/
+
+  # 3)
+  - /2020/learn/freedom-and-fashion/
+
+  # 4)
+  - /2020/learn/fulfillment-fund/
+
+  # 5)
+  - /2020/learn/gladeo/
 
 
-  # Create: 
+  # Create
 
-  # 1) Defy Ventures
+  # 1)
+  - /2020/create/bob-baker-marionette-theater/
+
+  # 2)
   - /2020/create/defy-ventures-inc/
 
-  # 2) Venice Community Housing
-  - /2020/create/venice-community-housing/
+  # 3)
+  - /2020/create/everybody-world/
+
+  # 4)
+  - /2020/create/homeboy-industries/
+
+  # 5)
+  - /2020/create/justice-for-my-sister-collective/
 
 
-  # Play:
+  # Play
 
-  # 1) Harlem Lacrosse
+  # 1)
+  - /2020/play/american-heart-association/
+
+  # 2)
+  - /2020/play/city-of-los-angeles-department-of-recreation-and-parks/
+
+  # 3)
   - /2020/play/harlem-lacrosse/
 
-  # 2) Natural History Museum
-  - /2020/play/natural-history-museum-of-los-angeles-county/
+  # 4)
+  - /2020/play/los-angeles-audubon-society/
+
+  # 5)
+  - /2020/play/los-angeles-dodgers-foundation/
 
 
-  # Connect:
+  # Connect
 
-  # 1) CASA
+  # 1)
+  - /2020/connect/breathe-california-of-los-angeles-county/
+
+  # 2)
+  - /2020/connect/c-it-productions-llc/
+
+  # 3)
   - /2020/connect/casa-of-los-angeles/
 
-  # 2) Rock the Vote
-  - /2020/connect/rock-the-vote/
+  # 4)
+  - /2020/connect/human-rights-foundation/
+
+  # 5)
+  - /2020/connect/investing-in-place/
 
 
-  # Live:
+  # Live
 
-  # 1) The Youth Movement Against Alzheimer's
-  - /2020/live/the-youth-movement-against-alzheimers/
+  # 1)
+  - /2020/live/cardborigami-inc/
 
-  # 2) La Plaza de Cultura Y Artes
+  # 2)
+  - /2020/live/green-girl-farms/
+
+  # 3)
+  - /2020/live/international-association-for-human-values/
+
+  # 4)
   - /2020/live/la-plaza-de-cultura-y-artes/
+
+  # 5)
+  - /2020/live/move-la/
 
 
 auth0_js_url: https://cdn.auth0.com/js/auth0/9.5.1/auth0.min.js
@@ -231,7 +276,7 @@ voting_test_mode: false
 voting_strict_mode: false
 
 # For cache busting
-version: 2.2.9
+version: 2.3.9
 
 
 permalink: pretty
