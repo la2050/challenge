@@ -17,7 +17,7 @@ stylesheets:
 <h1>
   <span>
     <strong>Congratulations to the winners!</strong><br />
-    <small style="font-style: normal;display: block;">
+    <small style="font-style: normal;display: block; text-transform: none;">
       <small style="letter-spacing: 0; font-style: normal;">
         Learn <strong style="font-weight: inherit; color: inherit;"><a href="/about/" style="color: inherit; font-weight: inherit;">about the challenge</a></strong>.
       </small>
@@ -101,7 +101,7 @@ main > h1:first-child::before {
       Tell us… which of <a href="#projects" style="color: inherit; font-weight: inherit;">these proposals</a> will
       make <span class="avoid-break">Los Angeles</span> the best place{% if page.category %}  to <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong>{% endif %}?<br /><br />
     {% endif %}
-    <small style="font-style: normal;display: block;">
+    <small style="font-style: normal;display: block; text-transform: none;">
       <small style="letter-spacing: 0; font-style: normal;" class="avoid-break">
         {% if site.phase == site.VOTES_BEING_ACCEPTED %}
           <strong style="font-weight: inherit; color: inherit;"><a href="/vote/" style="color: inherit; font-weight: inherit;">Public voting</a></strong> has started! <span class="avoid-break">Vote by <span class="avoid-break"><strong>{{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}</strong>.</span></span>
@@ -164,9 +164,9 @@ main > h1:first-child::before {
   </style>
 </h1>
 {% else %}
-<h1 style="padding-top: 0;">
+<h1>
   Finalists{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong> category{% endif %}
-  <small style="font-style: normal;display: block;">
+  <small style="font-style: normal;display: block; text-transform: none;">
     <small style="letter-spacing: 0; font-style: normal;">
       Learn <strong style="font-weight: inherit; color: inherit;"><a href="/about/" style="color: inherit; font-weight: inherit;">about the challenge</a></strong>.
     </small>
@@ -279,16 +279,8 @@ main > h1:first-child::before {
 
 {% else %}
   {% if site.phase >= site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
-    <h1 style="padding-top: 0;">
-      {% if site.phase == site.VOTING_PERIOD_ENDED %}
-      {% include city.html %}
-      {% endif %}
+    <h1>
       Entries{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong> category{% endif %}
-      <small style="font-style: normal;display: block;">
-        <small style="letter-spacing: 0; font-style: normal;">
-          Learn <strong style="font-weight: inherit; color: inherit;"><a href="/about/" style="color: inherit; font-weight: inherit;">about the challenge</a></strong>.
-        </small>
-      </small>
     </h1>
   {% endif %}
 {% endif %}

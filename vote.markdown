@@ -39,7 +39,8 @@ You can cast five votes, one per [goal category](/about/#goals).
   <a href="/finalists/">Check out the finalists!</a>
 </p>
 <p style="font-size: inherit; margin-top: 2.25em;">
-  <small style="font-size: 0.875em;">You can vote by pressing the “Vote for this proposal” button on any finalist page.</small>
+  <small style="font-size: 0.875em;">You can vote by pressing the “Vote for this proposal” button on any finalist page.</small><br />
+  <small style="font-size: 0.875em;">You can also visit the <a href="/vote/form/">voting form</a> directly.</small>
 </p>
 
 {% elsif site.phase == site.VOTING_PERIOD_ENDED %}
