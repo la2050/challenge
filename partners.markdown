@@ -5,7 +5,7 @@ main_class: standard-layout
 ---
 
 <h1>
-  Partners
+ The My LA2050 Grants Challenge would not be possible without the support of our incredible partner organizations.
 </h1>
 
 ## Our Partners
