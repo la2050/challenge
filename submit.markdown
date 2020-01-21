@@ -159,7 +159,7 @@ The winners have been announced!
 ### Resources
 
 * The grants challenge is all about making progress on our shared goals and metrics. Read about them [here](https://la2050.org/goals). 
-* We're holding office hours via webinar on February 13, February 27, and March 12 and one in-person information session on February 26. <a href="https://forms.gle/mM4rLE6RChcSwmM3A">Sign-up for an information session.</a>
+* We're holding office hours via webinar on February 13, February 27, and March 12 and in-person information sessions on February 26 and March 12. <a href="https://forms.gle/mM4rLE6RChcSwmM3A">Sign-up for a webinar or information session.</a>
 * Need inspiration? Browse proposals from past My LA2050 winners on the [My LA2050 Ideas Archive](https://archive.la2050.org/search/?keywords=winner). 
 * Ready to submit? Check out the [entry form](LINK)
 * Review the [scorecard](https://drive.google.com/open?id=1w1HC2gyusc7KvXIEaNeaZ7rRD_M6lno-) to see how your proposal will be evaluated
