@@ -159,7 +159,7 @@ The winners have been announced!
 ### Resources
 
 * The grants challenge is all about making progress on our shared goals and metrics. Read about them [here](https://la2050.org/goals). 
-* <a href="https://forms.gle/mM4rLE6RChcSwmM3A">Sign-up for an information session.</a> We will be holding office hours webinars on February 13th, February 27th, or March 12th and an in-person information session on February 26th.
+* <a href="https://forms.gle/mM4rLE6RChcSwmM3A">Sign-up for an information session.</a> We're holding office hours webinars on February 13, February 27, and March 12 and an in-person information session on February 26.
 * Need inspiration? Browse proposals from past My LA2050 winners on the [My LA2050 Ideas Archive](https://archive.la2050.org/search/?keywords=winner). 
 * Ready to submit? Check out the [entry form](LINK)
 * Review the [scorecard](LINK) to see how your proposal will be evaluated
@@ -172,11 +172,11 @@ The winners have been announced!
 
 ### Dates
 
-Apply between {{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} (9am Pacific Time) and {{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} (5pm, Pacific Time) on this website. 
+Apply between {{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} (9am Pacific Time) and {{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} (5pm Pacific Time) on this website. 
 
-Your application will go through a simple moderation process to ensure that it adheres to all challenge rules. Applications that make it through the initial vetting will be published on the My LA2050 Grants Challenge website on {{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%A, %B %-d, %Y" }} to allow the public to read about and engage with the proposals.
+Your application will go through a simple moderation process to ensure that it adheres to all challenge rules. Applications that make it through the initial vetting will be published on the My LA2050 Grants Challenge website on {{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%A, %B %-d, %Y" }} to allow the public to read about and engage with the proposals. Our external evaluation committee of community leaders, led by Social Venture Partners Los Angeles, will review and score applications to determine the five finalists in each goal category.
 
-From {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} (9am Pacific Time) through {{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} (5pm Pacific Time), all submissions will be voted on by the public. Public voting will surface 50 finalists - the top 10 submissions in each goal category. The Goldhirsh Foundation will then select two winners from each goal category, to be announced on {{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}.
+From {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} (9am Pacific Time) through {{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} (5pm Pacific Time) the 25 finalists will go to public vote. Public voting will determine the winners' final award level. First place in each category will receive $100,000, second: $50,000, third: $25,000, fourth: $15,000, and fifth: $10,000. The winners will be announced via the <a href="https://la2050.us6.list-manage.com/subscribe/post?u=81b6d7b4efb839b992bf7ae72&amp;id=b16f498212">LA2050 Newsletter</a> on {{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}.
 
 View the [full timeline](/timeline).
 
@@ -206,7 +206,7 @@ View the [full timeline](/timeline).
 
 * Outline how their proposal will make progress on the [LA2050 goals and metrics](/about/#goals), including clearly defining a core issue, the desired solution to address the issue, and intended outcome for the proposed activities.
 * Provide a plan that describes how the organization will advance the LA2050 goals and metrics.
-* Clearly articulate the strategies and tools that will be employed.
+* Clearly articulate the strategies and tools that will be employed to impact the target population.
 * Identify collaboration partners and their respective roles. Collaboration is highly encouraged!
 * Submit a detailed budget explaining how funds will be used across the one year grant period.
 * Detail any additional desired, non-financial assistance needed from LA2050 to make the project a success.
@@ -216,17 +216,18 @@ View the [full timeline](/timeline).
 _What are the rules for submitting a proposal to the My LA2050 Grants Challenge?_
 
 * The My LA2050 Grants Challenge is open for submissions from {{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} (9am Pacific Time) through {{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} (midnight, Pacific Time).
-* In order to submit a proposal, log-in and complete the application form.
+* In order to submit a proposal, log in and complete the application form.
 * US-based non-profit, for-profit, social enterprises, and government agencies with projects serving Los Angeles County are eligible to apply.
-* Winning projects must be completed, and the grant award must be expended within 12 months.
+* Winning projects must be completed, and the grant award must be expended, within 12 months.
 * Ongoing projects are eligible for submission.
 * Previous applicants and winners of LA2050 grant programs may reapply.
-* <mark>All projects will be featured on this site by {{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%A, %B %-d, %Y" }}, and public voting will be open from {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} (9am Pacific Time) through {{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} (5pm Pacific Time).</mark>
-* <mark><em>Public vote</em>: The public will vote on all submissions to the grants challenge. The top 10 submissions in each goal category garnering the most votes will be finalists (50 total).</mark>
-* <mark><em>Winner selection</em>: From the pool of 50 finalists, Goldhirsh Foundation staff and board will select two winners from each goal category (10 total).</mark>
-* Applications will be selected using the following criteria: impact on the LA2050 goal and metrics, overall quality of submission, innovation, feasibility, and collaborative spirit.
-* Winners of the My LA2050 Grants Challenge will be grantees of the Goldhirsh Foundation and will be required to participate in at least one check-in with an LA2050 team member per month.
-* [Read all the rules](http://la2050.s3-us-west-1.amazonaws.com/comfy/cms/files/135/files/original/2019GrantsChallengeRules.pdf)
+* All projects will be featured on this site by {{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%A, %B %-d, %Y" }}, and public voting will be open from {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} (9am Pacific Time) through {{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} (5pm Pacific Time).
+* <em>Evaluation</em>: Evaluation will take place between April 6, 2020 and May 18, 2020. The 25 finalists (five in each goal category) will be announced before voting begins on Monday, June 1 (9am Pacific Time)
+* Finalists will be selected using the following criteria: impact on chosen goals and metrics, feasibility of proposal, impact on people served, and overall application quality. 
+* <em>Voting</em>: Public voting will occur on this website between Monday, June 1 (9 am Pacific Time) and Monday, June 8 (5 pm Pacific Time). Voting will determine the grants awarded to the 25 finalists. First place in each goal category will receive $100,000, second: $50,000, third: $25,000, fourth: $15,000, and fifth: $10,000. 
+* Winners will represent a diversity of issues and activities.
+* Winners of the My LA2050 Grants Challenge will be grantees of the Goldhirsh Foundation and will be required to pcheck-in with LA2050 periodically throughout the grant period.
+* [Read all the rules](LINK)
 
 ### Questions
 
