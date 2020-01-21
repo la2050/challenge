@@ -72,7 +72,7 @@ For inspiration, you can check out submissions from previous winners at the [My 
 ## Can I submit more than one application?
 </summary>
 
-There can be multiple entries from the same organization, as long as the submissions are unique and in goal different categories. However, we would recommend consolidating your resources, collaborators, and supporters to submit one awesome proposal!
+There can be multiple entries from the same organization, as long as the submissions are unique and in different goal categories. However, we would recommend consolidating your resources, collaborators, and supporters to submit one awesome proposal!
 
 </details>
 
