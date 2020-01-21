@@ -8,7 +8,7 @@ main_class: standard-layout
   Partners
 </h1>
 
-## Our Partners.
+## Our Partners
 
 About partnerships
 
