@@ -35,7 +35,7 @@
         }
       }
     }
-    setInterval(update, 3000);
+    setInterval(update, 2000);
     update();
   })()
   </script>
