@@ -94,15 +94,22 @@ The winners have been announced!
 
 ### Help us choose our winners!
 
-**25 finalists** will be chosen by the evaluation committee, and the <span class="avoid-break">**5 winners** will be voted on by the public.</span>
+**25 finalists** will be selected by Social Venture Partners Los Angeles (our evaluation partner), and the <span class="avoid-break">final award levels will be determined through public vote.</span>
+
+All 25 finalists will be awarded a grant. In each category:
+* First place will receive $100,000
+* Second place will receive $50,000
+* Third place will receive $25,000
+* Fourth place will receive $15,000
+* Fifth place will receive $10,000
 
 The winners will represent a diverse set of issues, strategies, and tactics. Winners will be selected using the following criteria:
 
-* Impact on the [LA2050 goals and metrics](/about/#goals)
-* Overall quality of the application
-* Feasibility
-* Innovation
-* Collaborative spirit
+* Impact on chosen [LA2050 goals and metrics](/about/#goals)
+* Feasibility of proposal
+* Impact on people served
+* Overall application quality
+
 
 ### Rules
 
@@ -111,7 +118,7 @@ The winners will represent a diverse set of issues, strategies, and tactics. Win
 * Voters must be at least 14 years old and a US resident.
 * To participate in the My LA2050 Grants Challenge, voters must sign in with their mobile phone, email address, or Facebook account.
 * Voters signing in by phone will receive an SMS text message with a confirmation code to enter.
-* Voters signing in by email will be sent an email message with a link to press.
+* Voters signing in by email will be sent an email message with a confirmation link to press.
 
 ### Questions
 
