@@ -59,7 +59,7 @@
   <span class="avoid-break">Grants Challenge</span>
 </h2>
 
-LA2050 is a community-guided initiative driving and tracking progress toward a shared vision for the future of Los Angeles. With the support of 30,000 Angelenos, we’ve outlined an aspirational vision centered on five goals and 60+ metrics tracked over time to evaluate how Los Angeles is faring. <br /><br /><strong>The My LA2050 Grants Challenge is an open call for ideas to make LA the best place to learn, create, play, connect, and live.<br /><br />A total of $1,000,000</strong> will be awarded among 25 organizations to implement their proposals. Each organization will also receive a [partnership from LA2050](/about/#la2050-partnership) to support its efforts.
+LA2050 is a community-guided initiative driving and tracking progress toward a shared vision for the future of Los Angeles centered around five goals and tracked via 65+ regional progress metrics. <br /><br /><strong>The My LA2050 Grants Challenge is an open call for ideas to make LA the best place to learn, create, play, connect, and live.<br /><br />We need your help to turn the LA2050 goals and metrics into action.<br /><br />A total of $1,000,000</strong> will be awarded among 25 organizations to implement their proposals. Each organization will receive grant funds and [partnership from LA2050](/about/#la2050-partnership) to support its efforts.<br /><br />
 
 In each of the five [goal categories](/about/#goals), the awards will be…
 
@@ -92,7 +92,7 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
 
 {% elsif site.phase == site.ENTRIES_BEING_ACCEPTED %}
 
-<a href="{{ site.submission_url }}">Submit your idea</a> by **{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}** <small>(midnight, Pacific)</small>.
+<a href="{{ site.submission_url }}">Submit your idea</a> by **{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}** <small>(5 PM, Pacific Time)</small>.
 
 Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
 
@@ -170,21 +170,24 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
 
 Winners will be selected via a two-step process:
 
-**50 finalists will be selected by public vote**: The public will vote on all approved submissions to the grants challenge. Public vote will surface the top 10 finalists in each goal category.
+**25 finalists will be selected by an external evaluation committee made up of community leaders**: Our evaulation partner, Social Venture Partners Los Angeles, will review and score applications to determine five finalists in each goal category.
 
-**10 winning proposals will be selected by an internal jury**: Goldhirsh Foundation board and staff will select the winners from the 50 finalists. Two proposals in each goal category will be announced as the winners.
+Finalists will be selected using the following criteria:
 
-Winners will be selected using the following criteria:
+* Impact on chosen [LA2050 goals and metrics](/about/#goals)
+* Feasbility of proposal
+* Impact on people served
+* Overall application quality
 
-* Impact on the [LA2050 goals and metrics](/about/#goals)
-* Overall quality of the application
-* Feasibility
-* Ability to mobilize the LA community
-* Collaborative spirit
+Finalists will represent a diversity of issues and activities.
+
+**Award levels will be determined via public vote**: Voters will determine which organizations place first ($100,000), second ($50,000), third ($25,000), fourth ($15,000), and fifth ($10,000) in each category. All 25 finalists that participate in the voting stage will receive a grant.
+
+
 
 {% if site.phase < site.VOTES_BEING_ACCEPTED %}
 
-Starting <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong>, you can [vote for a proposal](/vote/) on this website.
+Starting <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong>, you can [vote for a proposal](/vote/) on this website. <a href="https://la2050.us6.list-manage.com/subscribe/post?u=81b6d7b4efb839b992bf7ae72&amp;id=b16f498212">Get notified when voting opens!</a>
 
 {% elsif site.phase == site.VOTES_BEING_ACCEPTED %}
 
