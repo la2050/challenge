@@ -226,8 +226,8 @@ _What are the rules for submitting a proposal to the My LA2050 Grants Challenge?
 * Finalists will be selected using the following criteria: impact on chosen goals and metrics, feasibility of proposal, impact on people served, and overall application quality. 
 * <em>Voting</em>: Public voting will occur on this website between Monday, June 1 (9 am Pacific Time) and Monday, June 8 (5 pm Pacific Time). Voting will determine the grants awarded to the 25 finalists. First place in each goal category will receive $100,000, second: $50,000, third: $25,000, fourth: $15,000, and fifth: $10,000. 
 * Winners will represent a diversity of issues and activities.
-* Winners of the My LA2050 Grants Challenge will be grantees of the Goldhirsh Foundation and will be required to pcheck-in with LA2050 periodically throughout the grant period.
-* [Read all the rules](LINK)
+* Winners of the My LA2050 Grants Challenge will be grantees of the Goldhirsh Foundation and will be required to check-in with LA2050 periodically throughout the grant period.
+* [Read all the rules](https://drive.google.com/open?id=1Z860fWUoUNokZ5nXo33HXcAp018LfoQf)
 
 ### Questions
 
