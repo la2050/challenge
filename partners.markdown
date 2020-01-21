@@ -5,12 +5,12 @@ main_class: standard-layout
 ---
 
 <h1>
- The My LA2050 Grants Challenge would not be possible without the support of our incredible partner organizations.
+ PARTNERS
 </h1>
 
 ## Our Partners
 
-About partnerships
+The My LA2050 Grants Challenge would not be possible without the support of our incredible partners.
 
 **2020 Evaluators: Social Venture Partners Los Angeles**
 
