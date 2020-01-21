@@ -13,16 +13,126 @@ stylesheets:
 <details class="faq" markdown="1">
 
 <summary markdown="1">
+## What is the My LA2050 Grants Challenge?
+</summary>
+
+The My LA2050 Grants Challenge is an open call for ideas to make Los Angeles the best place to learn, create, play, connect, and live. A total of $1M will be awarded among 25 organizations—five per goal category—to implement their proposals. <mark>Each organization will receive an award of between $10,000 to $100,000 over one year to support its efforts.</mark>
+
+LA2050 will also commit to a one-year partnership with the winners—leveraging its resources, assets, and networks to help the projects succeed. Together, the winning organizations, LA2050, and Angelenos will make progress for the region that will change the course of our future.
+
+</details>
+
+
+
+<details class="faq" markdown="1">
+
+<summary markdown="1">
+## What are the benefits of applying?
+</summary>
+
+Beyond the potential to receive a grant for your work, we believe that applying to the challenge will provide additional benefits including:
+
+* The opportunity to participate in a first-of-its-kind regional effort
+* Increased awareness and exposure via our public platform
+* Increased understanding of LA’s social impact landscape
+* The opportunity to cultivate and build new relationships with peers
+* The chance to build a coalition of committed Angelenos and organizations to support important work in LA
+* The opportunity to learn how to tell a compelling story about your organization’s impact
+* Inspiring the creation of videos, photos, tweets, and pithy messaging to promote your proposal
+* Visibility in front of other foundations and potential alternative funding sources. Past challenges have resulted in +$2.25M in grants from outside funders using the LA2050 platform for their grantmaking
+* 'Volunteer' and 'donate' buttons on each submission page to drive resources to your organization
+
+</details>
+
+
+
+<details class="faq" markdown="1">
+
+<summary markdown="1">
+## What kinds of projects are you looking to support?
+</summary>
+
+We’re open! But here are some ideas about what we’re looking for:
+
+* Bold efforts that will produce measurable wins for the LA region
+* A spirit of collaboration and desire to unify and amplify collective efforts
+* Clear focus on inclusion, diversity of voices, and equity
+* Efforts that not only produce positive results, but are also focused on increasing local engagement and civic participation
+* A desire to test new strategies
+
+For inspiration, you can check out submissions from previous winners at the [My LA2050 Ideas Archive](https://archive.la2050.org/search/?keywords=winner).
+
+</details>
+
+
+
+<details class="faq" markdown="1">
+
+<summary markdown="1">
+## Can I submit more than one application?
+</summary>
+
+There can be multiple entries from the same organization, as long as the submissions are unique and in goal different categories. However, we would recommend consolidating your resources, collaborators, and supporters to submit one awesome proposal!
+
+</details>
+
+
+
+<details class="faq" markdown="1">
+
+<summary markdown="1">
+## What are some tips for submitting ideas to the My LA2050 Grants Challenge?
+</summary>
+
+Collaborate. We are eager to see folks working together to improve Los Angeles.
+
+Think about impact. Be imaginative and audacious. We want to hear your most ambitious ideas – but we also want to know that your project is feasible, implementable, and that it could impact the [LA2050 goals and metrics](/about/#goals).
+
+Share how your proposal will impact the LA2050 goal you are focusing on. For example, if you’ve chosen the ‘Learn’ category, you might describe how your proposal will improve graduation rates; if you’ve chosen the ‘Connect’ category, you might explain how your proposal will increase voting rates or volunteerism.
+
+Be sure to explain why you think the strategy and methods are the best course of action for impacting the goal and metrics.
+
+Please include an image that represents your idea or organization. You’ll get the best results if you send us the highest resolution image you have. We recommend avoiding a lot of text or logos in your images, as we may have to crop them to fit our site. Images should be in JPEG, or PNG format.
+
+Videos can also help quickly articulate your project or your organization’s mission. To include a video, first upload the video to a place like [YouTube](https://www.youtube.com/) or [Vimeo](https://vimeo.com/), and then include the URL for the video with your application.
+
+Applicants should not expect to be able to revise their applications after the submission date.
+
+Your application goes through a moderation process, and will show up on the site if it is approved. If we have questions about your application, we will be in touch.
+
+Read [the application and scorecard](LINK) to get a more precise idea of what we want to see. 
+
+Check out the [LA2050 Goals](/about/#goals), the [LA2050 Report](https://la2050.s3-us-west-1.amazonaws.com/reports/1/pdfs/vision_for_a_successful_los_angeles.pdf), and our most recent Submissions Report for additional information.
+
+</details>
+
+
+
+<details class="faq" markdown="1">
+
+<summary markdown="1">
+## I have feedback on the LA2050 goals. How can I share that with you?
+</summary>
+
+We want your feedback! Email us at [connect@la2050.org](mailto:connect@la2050.org) with your feedback.
+
+We want Angelenos to see themselves as part of the solutions we need to improve our region. And we want to tap into the expertise of the organizations, agencies, and companies who have great ideas about how to boost engagement on local issues.
+
+</details>
+
+
+
+<details class="faq" markdown="1">
+
+<summary markdown="1">
 ## How do I vote?
 </summary>
 
 Visit [challenge.la2050.org](https://challenge.la2050.org) to start the voting process.
 
-
 <!--
-If you need additonal assistance, check out this [step-by-step guide](https://www.dropbox.com/s/tk93k2bk1rmqz17/Step-By-Step%20Voting%20Guide%20for%20the%202018%20My%20LA2050%20Activation%20Challenge%20%281%29.pdf?dl=0) on how to vote. 
+If you need additonal assistance, check out this [step-by-step guide](LINK) on how to vote. 
 -->
-
 
 </details>
 
@@ -89,115 +199,9 @@ It’s also possible that the link or code has expired. If this is the case, you
 </details>
 
 
-<details class="faq" markdown="1">
-
-<summary markdown="1">
-## What is the My LA2050 Grants Challenge?
-</summary>
-
-The My LA2050 Grants Challenge is an open call for ideas to make Los Angeles the best place to learn, create, play, connect, and live. A total of $1M will be awarded among 25 organizations—five per goal category—to implement their proposals. <mark>Each organization will receive an award of between $10,000 to $100,000 over one year to support its efforts.</mark>
-
-LA2050 will also commit to a one-year partnership with the winners—leveraging its resources, assets, and networks to help the projects succeed. Together, the winning organizations, LA2050, and Angelenos will make progress for the region that will change the course of our future.
-
-</details>
 
 
 
-<details class="faq" markdown="1">
-
-<summary markdown="1">
-## I have feedback on the LA2050 goals. How can I share that with you?
-</summary>
-
-We want your feedback! Email us at [connect@la2050.org](mailto:connect@la2050.org) with your feedback.
-
-We want Angelenos to see themselves as part of the solutions we need to improve our region. And we want to tap into the expertise of the organizations, agencies, and companies who have great ideas about how to boost engagement on local issues.
-
-</details>
-
-
-
-<details class="faq" markdown="1">
-
-<summary markdown="1">
-## Can I apply more than once in this grants challenge cycle?
-</summary>
-
-There can be multiple entries from the same organization, as long as the submissions are unique and in goal different categories. However, we would recommend consolidating your resources, collaborators, and supporters to submit one awesome proposal!
-
-</details>
-
-
-
-<details class="faq" markdown="1">
-
-<summary markdown="1">
-## What are the benefits of applying?
-</summary>
-
-Beyond the potential to receive a grant for your work, we believe that applying to the challenge will provide additional benefits including:
-
-* The opportunity to participate in a first-of-its-kind regional effort
-* Increased awareness and exposure via our public platform
-* Increased understanding of LA’s social impact landscape
-* The opportunity to cultivate and build new relationships with peers
-* The chance to build a coalition of committed Angelenos and organizations to support important work in LA
-* The opportunity to learn how to tell a compelling story about your organization’s impact
-* Inspiring the creation of videos, photos, tweets, and pithy messaging to promote your proposal
-* Visibility in front of other foundations and potential alternative funding sources. Past challenges have resulted in +$2.25M in grants from outside funders using the LA2050 platform for their grantmaking
-* 'Volunteer' and 'donate' buttons on each submission page to drive resources to your organization
-
-</details>
-
-
-
-<details class="faq" markdown="1">
-
-<summary markdown="1">
-## What kinds of projects are you looking to support?
-</summary>
-
-We’re open! But here are some ideas about what we’re looking for:
-
-* Bold efforts that will produce measurable wins for the LA region
-* A spirit of collaboration and desire to unify and amplify collective efforts
-* Clear focus on inclusion, diversity of voices, and equity
-* Efforts that not only produce positive results, but are also focused on increasing local engagement and civic participation
-* A desire to test new strategies
-
-For inspiration, you can check out submissions from previous winners at the [My LA2050 Ideas Archive](https://archive.la2050.org/search/?keywords=winner).
-
-</details>
-
-
-
-<details class="faq" markdown="1">
-
-<summary markdown="1">
-## What are some tips for submitting ideas to the My LA2050 Grants Challenge?
-</summary>
-
-Collaborate. We are eager to see folks working together to improve Los Angeles.
-
-Think about impact. Be imaginative and audacious. We want to hear your most ambitious ideas – but we also want to know that your project is feasible, implementable, and that it could impact the [LA2050 goals and metrics](/about/#goals).
-
-Share how your proposal will impact the LA2050 goal you are focusing on. For example, if you’ve chosen the ‘Learn’ category, you might describe how your proposal will improve graduation rates; if you’ve chosen the ‘Connect’ category, you might explain how your proposal will increase voting rates or volunteerism.
-
-Be sure to explain why you think the strategy and methods are the best course of action for impacting the goal and metrics.
-
-Please include an image that represents your idea or organization. You’ll get the best results if you send us the highest resolution image you have. We recommend avoiding a lot of text or logos in your images, as we may have to crop them to fit our site. Images should be in JPEG, or PNG format.
-
-Videos can also help quickly articulate your project or your organization’s mission. To include a video, first upload the video to a place like [YouTube](https://www.youtube.com/) or [Vimeo](https://vimeo.com/), and then include the URL for the video with your application.
-
-Applicants should not expect to be able to revise their applications after the submission date.
-
-Your application goes through a moderation process, and will show up on the site if it is approved. If we have questions about your application, we will be in touch.
-
-Read [the application and scorecard](LINK) to get a more precise idea of what we want to see. 
-
-Check out the [LA2050 Goals](/about/#goals), the [LA2050 Report](https://la2050.s3-us-west-1.amazonaws.com/reports/1/pdfs/vision_for_a_successful_los_angeles.pdf), and our most recent Submissions Report for additional information.
-
-</details>
 
 
 ## Send us your questions!
