@@ -100,7 +100,7 @@ Applicants should not expect to be able to revise their applications after the s
 
 Your application goes through a moderation process, and will show up on the site if it is approved. If we have questions about your application, we will be in touch.
 
-Read [the application and scorecard](LINK) to get a more precise idea of what we want to see. 
+Read [the application and scorecard](https://drive.google.com/drive/folders/11Wk6lF_aHEq4tljPPkvnNAZl07JrUjzX?usp=sharing) to get a more precise idea of what we want to see. 
 
 Check out the [LA2050 Goals](/about/#goals), the [LA2050 Report](https://la2050.s3-us-west-1.amazonaws.com/reports/1/pdfs/vision_for_a_successful_los_angeles.pdf), and our most recent Submissions Report for additional information.
 
