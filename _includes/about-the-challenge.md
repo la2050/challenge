@@ -59,7 +59,7 @@
   <span class="avoid-break">Grants Challenge</span>
 </h2>
 
-LA2050 is a community-guided initiative driving and tracking progress toward a shared vision for the future of Los Angeles centered around five goals and tracked via 65+ regional progress metrics. <br /><br /><strong>The My LA2050 Grants Challenge is an open call for ideas to make LA the best place to learn, create, play, connect, and live.<br /><br />We need your help to turn the LA2050 goals and metrics into action.<br /><br />A total of $1,000,000</strong> will be awarded among 25 organizations to implement their proposals. Each organization will receive grant funds and [partnership from LA2050](/about/#la2050-partnership) to support its efforts.<br /><br />
+LA2050 is a community-guided initiative driving and tracking progress toward a shared vision for the future of Los Angeles centered around five goals and tracked via 65+ regional progress metrics. <br /><br /><strong>The My LA2050 Grants Challenge is an open call for ideas to make LA the best place to learn, create, play, connect, and live.</strong><br /><br />We need your help to turn the LA2050 goals and metrics into action.<br /><br />A total of $1,000,000</strong> will be awarded among <strong>25 organizations</strong> to implement their proposals. Each organization will receive grant funds and [partnership from LA2050](/about/#la2050-partnership) to support its efforts.<br /><br />
 
 In each of the five [goal categories](/about/#goals), the awards will be…
 
@@ -126,6 +126,7 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
 
 <p>
   <a href="/vote/">It’s time to vote</a>!
+  
   Winners will be announced on 
   <span class="avoid-break">
     <strong>{{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
@@ -170,7 +171,7 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
 
 Winners will be selected via a two-step process:
 
-**25 finalists will be selected by an external evaluation committee made up of community leaders**: Our evaulation partner, Social Venture Partners Los Angeles, will review and score applications to determine five finalists in each goal category.
+**25 finalists will be selected by an external evaluation committee of community leaders, led by Social Venture Partners Los Angeles.** As our evaluation partner, SVPLA will review and score applications to determine five finalists in each goal category.
 
 Finalists will be selected using the following criteria:
 
@@ -181,7 +182,7 @@ Finalists will be selected using the following criteria:
 
 Finalists will represent a diversity of issues and activities.
 
-**Award levels will be determined via public vote**: Voters will determine which organizations place first ($100,000), second ($50,000), third ($25,000), fourth ($15,000), and fifth ($10,000) in each category. All 25 finalists that participate in the voting stage will receive a grant.
+**Award levels will be determined via public vote.** Voters will determine which organizations place first ($100,000), second ($50,000), third ($25,000), fourth ($15,000), and fifth ($10,000) in each category. All 25 finalists that participate in the voting stage will receive a grant.
 
 
 
