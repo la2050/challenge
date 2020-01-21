@@ -11,6 +11,6 @@ body_class: banana
 
 {% include timeline.html %}
 
-**25 finalists** will be chosen by the evaluation committee, and the <span class="avoid-break">**5 winners** will be voted on by the public.</span>
+**25 finalists** will be selected by our evaluation partner, Social Venture Partners Los Angeles, and the <span class="avoid-break">final award levels will be determined by public vote.</span>
 
 </div></div>
