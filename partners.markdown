@@ -18,7 +18,9 @@ This year,
 
 **Additional Funding and Prize Partners**
 
-Text
+* Annenberg Foundation
+
+* Second Home Hollywood
 
 **Outreach Partners**
 
