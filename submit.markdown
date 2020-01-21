@@ -34,7 +34,7 @@ main_class: standard-layout
 
 <div class="introduction" markdown="1">
 
-The submission period has started! Apply by <strong>{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}</strong> <small>(midnight, Pacific Time)</small>.
+Submissions are open! Apply by <strong>{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}</strong> <small>(5 pm, Pacific Time)</small>.
 
 <p class="action" markdown="1">
   <a href="{{ site.submission_url }}">Submit your idea</a>
@@ -89,7 +89,7 @@ The submission period is complete.
 
 <p style="max-width: 25em">
   <small>
-  Public voting has started!
+  Public voting is open!
   Voting ends on
   <span class="avoid-break">
     <strong>{{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
@@ -158,11 +158,11 @@ The winners have been announced!
 
 ### Resources
 
-* The grants challenge is all about making progress on our shared goals and metrics. Read about them [here](http://la2050.s3-us-west-1.amazonaws.com/reports/1/pdfs/vision_for_a_successful_los_angeles.pdf?1441226432). 
-* <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4drDm6lKpmJudzHY8GYbXHvCszKoGuQUZsPR5TXc54OvDIQ/viewform">Sign-up for our office hours webinar</a> on March 5th. 
+* The grants challenge is all about making progress on our shared goals and metrics. Read about them [here](https://la2050.org/goals). 
+* <a href="https://forms.gle/mM4rLE6RChcSwmM3A">Sign-up for an information session.</a> We will be holding office hours webinars on February 13th, February 27th, or March 12th and an in-person information session on February 26th.
 * Need inspiration? Browse proposals from past My LA2050 winners on the [My LA2050 Ideas Archive](https://archive.la2050.org/search/?keywords=winner). 
-* Ready to submit? Check out the [entry form](https://drive.google.com/drive/u/0/folders/13kEX-1p_OgnW8AdHK0Ie6SxCPAHe2Ci0)
-* Review the [scorecard](https://drive.google.com/drive/u/0/folders/13kEX-1p_OgnW8AdHK0Ie6SxCPAHe2Ci0) to see how your proposal will be evaluated
+* Ready to submit? Check out the [entry form](LINK)
+* Review the [scorecard](LINK) to see how your proposal will be evaluated
 
 {% comment %}
 * Check out all previous [My LA2050 Grants Challenge reports](https://la2050.org/reports) delineating best practices for getting out the vote, as well as trends and reported impact.
@@ -172,9 +172,9 @@ The winners have been announced!
 
 ### Dates
 
-Apply between {{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} (9am Pacific Time) and {{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} (midnight, Pacific Time) on this website. 
+Apply between {{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} (9am Pacific Time) and {{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} (5pm, Pacific Time) on this website. 
 
-Your application will go through a moderation process to ensure that it adheres to all challenge rules. Applications that make it through the initial vetting will be published on the My LA2050 Grants Challenge website on {{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%A, %B %-d, %Y" }} to allow the public to read about and engage with the proposals.
+Your application will go through a simple moderation process to ensure that it adheres to all challenge rules. Applications that make it through the initial vetting will be published on the My LA2050 Grants Challenge website on {{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%A, %B %-d, %Y" }} to allow the public to read about and engage with the proposals.
 
 From {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} (9am Pacific Time) through {{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} (5pm Pacific Time), all submissions will be voted on by the public. Public voting will surface 50 finalists - the top 10 submissions in each goal category. The Goldhirsh Foundation will then select two winners from each goal category, to be announced on {{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}.
 
