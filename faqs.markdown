@@ -95,9 +95,9 @@ It’s also possible that the link or code has expired. If this is the case, you
 ## What is the My LA2050 Grants Challenge?
 </summary>
 
-The My LA2050 Grants Challenge is an open call for ideas to make Los Angeles the best place to learn, create, play, connect, and live. A total of $1M will be awarded among 25 organizations—five per goal category—to implement their proposals. <mark>Each organization will receive a total of $100,000 over one year to support its efforts.</mark>
+The My LA2050 Grants Challenge is an open call for ideas to make Los Angeles the best place to learn, create, play, connect, and live. A total of $1M will be awarded among 25 organizations—five per goal category—to implement their proposals. <mark>Each organization will receive an award of between $10,000 to $100,000 over one year to support its efforts.</mark>
 
-LA2050 will commit to a one-year partnership with the winners—leveraging its resources, assets, and networks to help the projects succeed. Together, the winning organizations, LA2050, and Angelenos will make progress for the region that will change the course of our future.
+LA2050 will also commit to a one-year partnership with the winners—leveraging its resources, assets, and networks to help the projects succeed. Together, the winning organizations, LA2050, and Angelenos will make progress for the region that will change the course of our future.
 
 </details>
 
@@ -120,7 +120,7 @@ We want Angelenos to see themselves as part of the solutions we need to improve 
 <details class="faq" markdown="1">
 
 <summary markdown="1">
-## Can I apply more than once?
+## Can I apply more than once in this grants challenge cycle?
 </summary>
 
 There can be multiple entries from the same organization, as long as the submissions are unique and in goal different categories. However, we would recommend consolidating your resources, collaborators, and supporters to submit one awesome proposal!
@@ -193,7 +193,7 @@ Applicants should not expect to be able to revise their applications after the s
 
 Your application goes through a moderation process, and will show up on the site if it is approved. If we have questions about your application, we will be in touch.
 
-Read [the application and scorecard](https://drive.google.com/drive/folders/13kEX-1p_OgnW8AdHK0Ie6SxCPAHe2Ci0?usp=sharing) to get a more precise idea of what we want to see. 
+Read [the application and scorecard](LINK) to get a more precise idea of what we want to see. 
 
 Check out the [LA2050 Goals](/about/#goals), the [LA2050 Report](https://la2050.s3-us-west-1.amazonaws.com/reports/1/pdfs/vision_for_a_successful_los_angeles.pdf), and our most recent Submissions Report for additional information.
 
