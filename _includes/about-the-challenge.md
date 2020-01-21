@@ -92,7 +92,7 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
 
 {% elsif site.phase == site.ENTRIES_BEING_ACCEPTED %}
 
-<a href="{{ site.submission_url }}">Submit your idea</a> by **{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}** <small>(5 PM, Pacific Time)</small>.
+<a href="{{ site.submission_url }}">Submit your idea</a> by **{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}** <small>(5pm Pacific Time)</small>.
 
 Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
 
