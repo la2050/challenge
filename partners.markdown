@@ -8,21 +8,20 @@ main_class: standard-layout
   Partners
 </h1>
 
-## Each year, LA2050 partners with other like-minded organizations to enhance .
+## Our Partners.
 
 About partnerships
 
-## Our 2020 Evaluators: Social Venture Partners Los Angeles
+**2020 Evaluators: Social Venture Partners Los Angeles**
 
 This year, 
 
-## Additional Funding and Prize Partners
+**Additional Funding and Prize Partners**
 
 Text
 
-## Outreach Partners
+**Outreach Partners**
 
 We are grateful to the following organizations for their support in reaching out to diverse organizations in the LA area:
 
-* Community Partners
 * Los Angeles Cleantech Incubator
