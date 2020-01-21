@@ -170,7 +170,7 @@ The winners have been announced!
 {% endcomment %}
 
 
-### Dates
+### Dates and Details
 
 Apply between {{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} (9am Pacific Time) and {{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} (5pm Pacific Time) on this website. 
 
