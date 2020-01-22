@@ -14,11 +14,11 @@ The My LA2050 Grants Challenge would not be possible without the support of our 
 
 **Evaluation Partner: Social Venture Partners Los Angeles**
 
-This year, we've chosen Social Venture Partners Los Angeles (SVPLA) to serve as our external evaluation partner.
+This year, we've chosen Social Venture Partners Los Angeles (SVP) to serve as our external evaluation partner.
 
-SVPLA is a membership organization that connects community leaders to nonprofits to tackle Los Angeles' toughest challenges. SVPLA Partners - nonprofit professionals, business executives, and other local changemakers - donate their time, skills, money, and networks to amplify the most impactful efforts transforming our region. 
+SVP is a membership organization that connects community leaders to nonprofits to tackle Los Angeles' toughest challenges. SVP Partners - nonprofit professionals, business executives, and other local changemakers - donate their time, skills, money, and networks to amplify the most impactful efforts transforming our region. 
 
-SVPLA Partners will serve on evaluation teams to review and score applications, ultimately recommending finalists in each of the five goal categories - LIVE, LEARN, PLAY, CONNECT, and CREATE. The 25 finalists will then proceed to an online voting round, where public vote will determine the grant winners in each category. 
+SVP Partners will serve on evaluation teams to review and score applications, ultimately recommending finalists in each of the five goal categories - LIVE, LEARN, PLAY, CONNECT, and CREATE. The 25 finalists will then proceed to an online voting round, where public vote will determine the grant winners in each category. 
 
 
 **Additional Funding and Prize Partners**
