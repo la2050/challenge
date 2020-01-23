@@ -4,7 +4,7 @@ let gulp = require('gulp');
 
 // https://www.npmjs.com/package/gulp-image-resize
 let imageResize = require('gulp-image-resize');
-var imageOptim  = require('gulp-imageoptim');
+let imageOptim  = require('gulp-imageoptim');
 
 let parallel = require("concurrent-transform");
 let os = require("os");
@@ -67,10 +67,10 @@ function generateNext() { // https://hacks.mozilla.org/2015/05/es6-in-depth-dest
 }
 
 gulp.task("default", function() {
-  // sizesCursor = 0;
-  // sourceImagePath     = '../assets/images/home/original';
-  // generatedImagePath  = '../assets/images/home';
-  // generateNext();
+  sizesCursor = 0;
+  sourceImagePath     = '../assets/images/home/original';
+  generatedImagePath  = '../assets/images/home';
+  generateNext();
 
   // sizesCursor = 0;
   // sourceImagePath     = '../assets/images/goals/original';
