@@ -5,7 +5,7 @@ description: >-
   learn, create, play, connect, and live.
 image: https://challenge.la2050.org/assets/images/home/2048-wide/downtown.jpg
 
-mailing_list_url: {{ site.mailing_list_url }}
+mailing_list_url: https://la2050.us6.list-manage.com/subscribe/post?u=81b6d7b4efb839b992bf7ae72&amp;id=b16f498212
 office_hours_url: https://forms.gle/mM4rLE6RChcSwmM3A
 submission_url: https://challengela2050.smapply.io
 
@@ -13,7 +13,7 @@ submission_url: https://challengela2050.smapply.io
 vote_url: /vote/form/
 
 year: 2020
-show_early_entries: true
+show_early_entries: false
 finalists_chosen_by_public_vote: false
 
 image_host: https://challenge-static.la2050.org
@@ -30,13 +30,28 @@ WINNERS_ANNOUNCED: 8
 
 
 NEW_CHALLENGE_ANNOUNCED_DATE:      2020-01-27 12:00:00 -07:00
+# 9am
+
 ENTRIES_BEING_ACCEPTED_DATE:       2020-02-03 12:00:00 -07:00
+# 9am
+
 ENTRY_PERIOD_ENDED_DATE:           2020-03-27 12:00:00 -07:00
+# 5pm
+
 ENTRIES_SHOWN_ON_THE_WEBSITE_DATE: 2020-04-06 12:00:00 -07:00
+# 9am
+
 FINALISTS_ANNOUNCED_DATE:          2020-05-18 12:00:00 -07:00
+# 9am
+
 VOTES_BEING_ACCEPTED_DATE:         2020-06-01 12:00:00 -07:00
+# 9am
+
 VOTING_PERIOD_ENDED_DATE:          2020-06-08 12:00:00 -07:00
+# 5pm
+
 WINNERS_ANNOUNCED_DATE:            2020-06-15 12:00:00 -07:00
+# 9am
 
 
 # New challenge announced: 
@@ -277,7 +292,7 @@ voting_test_mode: false
 voting_strict_mode: false
 
 # For cache busting
-version: 3.0.1
+version: 3.0.2
 
 
 permalink: pretty

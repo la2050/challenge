@@ -169,11 +169,6 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
 
 <br />
 
-<figure class="standard-figure has-caption">
-  <img src="/assets/images/home/384-wide/lamas.jpg" srcset="/assets/images/home/384-wide/lamas.jpg 384w, /assets/images/home/512-wide/lamas.jpg 512w, /assets/images/home/768-wide/lamas.jpg 768w, /assets/images/home/1024-wide/lamas.jpg 1024w, /assets/images/home/1536-wide/lamas.jpg 1536w, /assets/images/home/2048-wide/lamas.jpg 2048w" sizes="100vw" alt="Photo of a group of people talking and sharing a meal, outdoors in a neighborhood" />
-  <figcaption class="caption"><span>Join us in working toward a better Los Angeles.</span><small>Photo by <a href="https://www.mas.la/">LA Más</a></small></figcaption>
-</figure>
-
 ## Winners Selection
 
 Winners will be selected via a two-step process:
