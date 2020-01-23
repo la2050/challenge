@@ -25,7 +25,7 @@ The My LA2050 Grants Challenge is possible because of the support of many incred
 
 This year, we are proud to have Social Venture Partners Los Angeles (SVP) to serve as our external evaluation partner.
 
-SVP is a membership organization that connects community leaders to nonprofits to tackle Los Angeles' toughest challenges. SVP members - nonprofit professionals, business executives, and other local changemakers - will serve on evaluation teams to review applications and recommend finalists in each of the five goal categories - LIVE, LEARN, PLAY, CONNECT, and CREATE. 
+SVP is a membership organization that connects community leaders to nonprofits to tackle Los Angeles' toughest challenges. All proposals are reviewed, scored, and evaluated by members of SVP.
 
 **Outreach Partners**
 
