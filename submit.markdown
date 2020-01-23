@@ -160,7 +160,7 @@ The winners have been announced!
 ### Resources
 
 * The grants challenge is all about making progress on our shared goals and metrics. Read about them [here](https://la2050.org/goals). 
-* We're holding office hours via webinar on February 13, February 27, and March 12. <a href="https://forms.gle/mM4rLE6RChcSwmM3A">Sign-up for a webinar here.</a>
+* We’re holding office hours via webinar on February 13, February 27, and March 12. <a href="{{ site.office_hours_url }}">Sign-up for a webinar here.</a>
 * Need inspiration? Browse proposals from past My LA2050 winners on the [My LA2050 Ideas Archive](https://archive.la2050.org/search/?keywords=winner). 
 * Ready to submit? Check out the [entry form](LINK)
 * Review the [scorecard](https://drive.google.com/open?id=1w1HC2gyusc7KvXIEaNeaZ7rRD_M6lno-) to see how your proposal will be evaluated
@@ -177,7 +177,7 @@ Apply between {{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} (9
 
 Your application will go through a simple moderation process to ensure that it adheres to all challenge rules. Applications that make it through the initial vetting will be published on the My LA2050 Grants Challenge website on {{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%A, %B %-d, %Y" }} to allow the public to read about and engage with the proposals. Our external evaluation committee of community leaders, led by Social Venture Partners Los Angeles, will review and score applications to determine five finalists in each goal category (a total of 25 finalists).
 
-From {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} (9am Pacific Time) through {{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} (5pm Pacific Time) the 25 finalists will move on to the public voting phase. Public vote will determine the winners' final award level. First place in each category will receive $100,000, second: $50,000, third: $25,000, fourth: $15,000, and fifth: $10,000. The winners will be announced via the <a href="https://la2050.us6.list-manage.com/subscribe/post?u=81b6d7b4efb839b992bf7ae72&amp;id=b16f498212">LA2050 Newsletter</a> on {{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}.
+From {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} (9am Pacific Time) through {{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} (5pm Pacific Time) the 25 finalists will move on to the public voting phase. Public vote will determine the winners' final award level. First place in each category will receive $100,000, second: $50,000, third: $25,000, fourth: $15,000, and fifth: $10,000. The winners will be announced via the <a href="{{ site.mailing_list_url }}">LA2050 Newsletter</a> on {{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}.
 
 View the [full timeline](/timeline).
 

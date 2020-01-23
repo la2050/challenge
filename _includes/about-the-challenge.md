@@ -90,7 +90,11 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
 
 {% elsif site.phase == site.ENTRIES_BEING_ACCEPTED %}
 
-<a href="{{ site.submission_url }}">Submit your idea</a> by **{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}** <small>(5pm Pacific Time)</small>.
+Submissions are open! Apply by <strong>{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}</strong> <small>(5 pm, Pacific Time)</small>.
+
+<p class="action">
+  <a href="{{ site.submission_url }}">Submit your idea</a>
+</p>
 
 Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
 
@@ -165,6 +169,11 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
 
 <br />
 
+<figure class="standard-figure has-caption">
+  <img src="/assets/images/home/384-wide/lamas.jpg" srcset="/assets/images/home/384-wide/lamas.jpg 384w, /assets/images/home/512-wide/lamas.jpg 512w, /assets/images/home/768-wide/lamas.jpg 768w, /assets/images/home/1024-wide/lamas.jpg 1024w, /assets/images/home/1536-wide/lamas.jpg 1536w, /assets/images/home/2048-wide/lamas.jpg 2048w" sizes="100vw" alt="LA Más" />
+  <figcaption class="caption"><span>Join us to harness our region’s civic activism for a better Los Angeles.</span></figcaption>
+</figure>
+
 ## Winners Selection
 
 Winners will be selected via a two-step process:
@@ -186,7 +195,7 @@ Finalists will represent a diversity of issues and activities.
 
 {% if site.phase < site.VOTES_BEING_ACCEPTED %}
 
-Starting <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong>, you can [vote for a proposal](/vote/) on this website. <a href="https://la2050.us6.list-manage.com/subscribe/post?u=81b6d7b4efb839b992bf7ae72&amp;id=b16f498212">Get notified when voting opens!</a>
+Starting <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong>, you can [vote for a proposal](/vote/) on this website. <a href="{{ site.mailing_list_url }}">Get notified when voting opens!</a>
 
 {% elsif site.phase == site.VOTES_BEING_ACCEPTED %}
 

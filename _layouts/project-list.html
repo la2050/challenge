@@ -278,11 +278,9 @@ main > h1:first-child::before {
 
 
 {% else %}
-  {% if site.phase >= site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
-    <h1>
-      Entries{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong> category{% endif %}
-    </h1>
-  {% endif %}
+  <h1>
+    Entries{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong> category{% endif %}
+  </h1>
 {% endif %}
 
 {% assign conditional_finalists_url = "" %}

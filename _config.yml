@@ -3,9 +3,10 @@ title: 2020 My LA2050 Grants Challenge
 description: >-
   The My LA2050 Grants Challenge is an open call for ideas to make LA the best place to
   learn, create, play, connect, and live.
-image: https://challenge.la2050.org/assets/images/city-illustration/square.png
+image: https://challenge.la2050.org/assets/images/home/2048-wide/downtown.jpg
 
-mailing_list_url: https://la2050.us6.list-manage.com/subscribe/post?u=81b6d7b4efb839b992bf7ae72&amp;id=b16f498212
+mailing_list_url: {{ site.mailing_list_url }}
+office_hours_url: https://forms.gle/mM4rLE6RChcSwmM3A
 submission_url: https://challengela2050.smapply.io
 
 # Our form:
@@ -15,7 +16,7 @@ year: 2020
 show_early_entries: true
 finalists_chosen_by_public_vote: false
 
-image_host: 'https://challenge-static.la2050.org'
+image_host: https://challenge-static.la2050.org
 
 
 NEW_CHALLENGE_ANNOUNCED: 1
@@ -276,7 +277,7 @@ voting_test_mode: false
 voting_strict_mode: false
 
 # For cache busting
-version: 2.3.9
+version: 3.0.1
 
 
 permalink: pretty

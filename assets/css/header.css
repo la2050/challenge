@@ -117,7 +117,7 @@
   }
 
 
-  @media (min-width: 70em) {
+  /* @media (min-width: 70em) {
     .promotion .action {
       display: inline-block;
       margin-top: -1.25em;
@@ -125,7 +125,7 @@
       margin-bottom: -1em;
       vertical-align: middle;
     }
-  }
+  } */
 
 
   body .header-figure.has-caption.has-caption-details .caption h1 {
