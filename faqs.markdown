@@ -39,7 +39,7 @@ Beyond the potential to receive a grant for your work, we believe that applying 
 * The chance to build a coalition of committed Angelenos and organizations to support important work in LA
 * The opportunity to learn how to tell a compelling story about your organization’s impact
 * Inspiring the creation of videos, photos, tweets, and pithy messaging to promote your proposal
-* Visibility in front of other foundations and potential alternative funding sources. Past challenges have resulted in +$2.25M in grants from outside funders using the LA2050 platform for their grantmaking
+* Visibility in front of other foundations and potential alternative funding sources. Past challenges have resulted in +$2.5M in grants from outside funders using the LA2050 platform for their grantmaking
 * 'Volunteer' and 'donate' buttons on each submission page to drive resources to your organization
 
 </details>
