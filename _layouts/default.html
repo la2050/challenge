@@ -244,6 +244,23 @@
   </header>
   <main {% if page.main_class %} class="{{ page.main_class }}"{% elsif layout.main_class %} class="{{ layout.main_class }}"{% endif %}>
     {{ content }}
+    {% if page.footer_image %}
+    <figure class="standard-figure has-caption">
+      <img src="/assets/images/home/384-wide/collaborates.jpg"
+           srcset="
+             /assets/images/home/384-wide/collaborates.jpg 384w,
+             /assets/images/home/512-wide/collaborates.jpg 512w,
+             /assets/images/home/768-wide/collaborates.jpg 768w,
+             /assets/images/home/1024-wide/collaborates.jpg 1024w,
+             /assets/images/home/1536-wide/collaborates.jpg 1536w,
+             /assets/images/home/2048-wide/collaborates.jpg 2048w"
+           sizes="100vw"
+           alt="A room filled with people listening to someone speaking" />
+      <figcaption class="caption">
+        We believe in the power of Angelenos
+      </figcaption>
+    </figure>
+    {% endif %}
   </main>
   <footer>
     {% include logotype.html %}

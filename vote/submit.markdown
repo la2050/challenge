@@ -3,6 +3,7 @@ title: Vote in the 2020 My LA2050 Grants Challenge
 canonical_url: /
 body_class: strawberry
 main_class: standard-layout
+footer_image: true
 ---
 
 {% if site.phase != site.VOTES_BEING_ACCEPTED and site.voting_test_mode != true %}

@@ -21,14 +21,12 @@
     min-height: 50vw;
     padding-bottom: 4.5em;
   }
+
+  /* SHIM: Avoid a space between the goals element and the footer on the about page */
+  main > .goals:last-child,
   main > .standard-figure:last-child,
   main > .standard-section:last-child {
-    margin-bottom: 0;
-  }
-  
-  /* SHIM: Avoid a space between the goals element and the footer on the about page */
-  .about-page main {
-    padding-bottom: 0;
+    margin-bottom: -4.5em;
   }
 
   .numbers + .standard-figure,

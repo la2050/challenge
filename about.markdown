@@ -2,6 +2,7 @@
 title: About the 2020 My LA2050 Grants Challenge
 body_class: strawberry about-page
 main_class: standard-layout
+footer_image: true
 ---
 
 {% if site.phase >= site.FINALISTS_ANNOUNCED %}

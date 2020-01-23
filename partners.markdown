@@ -2,6 +2,7 @@
 title: Partners of the 2020 My LA2050 Grants Challenge
 body_class: tangerine
 main_class: standard-layout
+footer_image: true
 ---
 
 <h1>
