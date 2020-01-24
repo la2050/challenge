@@ -15,17 +15,17 @@ The My LA2050 Grants Challenge is possible because of the support of many incred
 
 ### Lead Partners
 
-* ![The Goldhirsh Foundation](/assets/images/logos/goldhirsh-foundation.png)  
-  The Goldhirsh Foundation, providing $1,000,000 in grant funds
+[![The Goldhirsh Foundation](/assets/images/logos/goldhirsh-foundation.png)](https://goldhirshfoundation.org)
+: The Goldhirsh Foundation, providing $1,000,000 in grant funds
 
-* ![The Annenberg Foundation](/assets/images/logos/annenberg-foundation.png)  
-  The Annenberg Foundation, providing $50,000 in grant funds to support efforts in diversity, equity, and inclusion
+[![The Annenberg Foundation](/assets/images/logos/annenberg-foundation.png)](https://annenberg.org)
+: The Annenberg Foundation, providing $50,000 in grant funds to support efforts in diversity, equity, and inclusion
 
-* ![](/assets/images/logos/second-home.png)  
-  Second Home Hollywood, offering $60,000 in donated space for co-working, meeting, and events for select winning organizations
+[![Second Home](/assets/images/logos/second-home.png)](https://secondhome.io)
+: Second Home Hollywood, offering $60,000 in donated space for co-working, meeting, and events for select winning organizations
 
-* ![](/assets/images/logos/social-venture-partners.jpg)  
-  We are proud to have Social Venture Partners Los Angeles (SVP) to serve as our external evaluation partner. SVP is a membership organization that connects community leaders to nonprofits to tackle Los Angeles' toughest challenges. All proposals are reviewed, scored, and evaluated by members of SVP.
+[![Social Venture Partners Los Angeles](/assets/images/logos/social-venture-partners.jpg)](https://www.svpla.org/)
+: We are proud to have Social Venture Partners Los Angeles (SVP) to serve as our external evaluation partner. SVP is a membership organization that connects community leaders to nonprofits to tackle Los Angeles' toughest challenges. All proposals are reviewed, scored, and evaluated by members of SVP.
 
 ### Outreach Partners
 
