@@ -180,8 +180,11 @@
 .disabled .standard-layout > .standard-section + .standard-figure {
         margin-top: -7.5em; /* standard-section.bottom-margin + grid-row-gap = 6em + 1.5em = 7.5em */
       }
-      .standard-layout > .standard-section + .standard-figure {
+.disabled .standard-layout > .standard-section + .standard-figure {
         margin-top: -6em;
+      }
+      .standard-layout > .standard-section + .standard-figure {
+        margin-top: 0em;
       }
 
       .standard-layout > .activate-tag {

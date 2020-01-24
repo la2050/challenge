@@ -1,6 +1,10 @@
 
   /* =Numbers
   ----------------------------------------------- */
+  .numbers {
+    margin-top: 0em;
+    margin-bottom: 1.5em;
+  }
   .numbers dl {
     margin-top: 3em;
     margin-bottom: 3em;
