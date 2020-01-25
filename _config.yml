@@ -339,7 +339,7 @@ defaults:
 collections:
   '2019':
     output: true
-    permalink: /2020/:path/
+    permalink: /2019/:path/
   '2020':
     output: true
     permalink: /2020/:path/
