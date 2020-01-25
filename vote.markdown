@@ -13,7 +13,7 @@ footer_image: true
 
 {% if site.phase < site.FINALISTS_ANNOUNCED %}
 
-Starting **{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}** (9am Pacific Time), you can vote for the finalists on this website.<br />You can cast five votes, one per [goal category](/about/#goals).
+Starting **{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}** ({{ site.VOTES_BEING_ACCEPTED_TIME }}), you can vote for the finalists on this website.<br />You can cast five votes, one per [goal category](/about/#goals).
 
 <p class="action" markdown="1">
   <a href="{{ site.mailing_list_url }}">Get updates</a>
@@ -21,7 +21,7 @@ Starting **{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}** (9am 
 
 {% elsif site.phase == site.FINALISTS_ANNOUNCED %}
 
-Starting **{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}** (9am Pacific Time), you can vote for the finalists on this website.<br />You can cast five votes, one per [goal category](/about/#goals).
+Starting **{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}** ({{ site.VOTES_BEING_ACCEPTED_TIME }}), you can vote for the finalists on this website.<br />You can cast five votes, one per [goal category](/about/#goals).
 
 <p class="action" markdown="1">
   <a href="/finalists/">Check out the finalists!</a>
@@ -32,7 +32,7 @@ Starting **{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}** (9am 
 
 {% elsif site.phase == site.VOTES_BEING_ACCEPTED %}
 
-Vote by <strong>{{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}</strong> (5pm Pacific Time).
+Vote by <strong>{{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}</strong> ({{ site.VOTING_PERIOD_ENDED_TIME }}).
 <br />
 You can cast five votes, one per [goal category](/about/#goals).
 
@@ -114,7 +114,7 @@ The winners will represent a diverse set of issues, strategies, and tactics. Win
 
 ### Rules
 
-* Voting begins on {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} (9am Pacific Time) and closes {{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} (5pm Pacific Time).
+* Voting begins on {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} (site.VOTES_BEING_ACCEPTED_TIME) and closes {{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} (site.VOTING_PERIOD_ENDED_TIME).
 * Members of the public may vote once per goal category for a total of five votes.
 * Voters must be at least 14 years old and a US resident.
 * To participate in the My LA2050 Grants Challenge, voters must sign in with their mobile phone, email address, or Facebook account.

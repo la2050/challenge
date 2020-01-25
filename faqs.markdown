@@ -129,10 +129,10 @@ We want Angelenos to see themselves as part of the solutions we need to improve 
 ## How do I vote?
 </summary>
 
-Public voting will take place between June 1, 2020 (9am Pacific Time) and June 8, 2020 (5pm Pacific Time) on this website, [challenge.la2050.org](https://challenge.la2050.org).
+Public voting will take place between {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.VOTES_BEING_ACCEPTED_TIME }}) and {{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.VOTING_PERIOD_ENDED_TIME }}) on this website, [challenge.la2050.org](https://challenge.la2050.org).
 
 <!--
-If you need additonal assistance, check out this [step-by-step guide](LINK) on how to vote. 
+If you need additional assistance, check out this [step-by-step guide](LINK) on how to vote. 
 -->
 
 </details>

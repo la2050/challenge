@@ -86,13 +86,13 @@ $10K
 
 {% if site.phase == site.NEW_CHALLENGE_ANNOUNCED %}
 
-Starting **{{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}** <small>(9am Pacific Time)</small>, you can <a href="/submit/#guidelines">submit</a> your proposal on this website.
+Starting **{{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}** <small>({{ site.ENTRIES_BEING_ACCEPTED_TIME }})</small>, you can <a href="/submit/#guidelines">submit</a> your proposal on this website.
 
 Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
 
 {% elsif site.phase == site.ENTRIES_BEING_ACCEPTED %}
 
-Submissions are open! Apply by <strong>{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}</strong> <small>(5 pm, Pacific Time)</small>.
+Submissions are open! Apply by <strong>{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}</strong> <small>({{ site.ENTRY_PERIOD_ENDED_TIME }})</small>.
 
 <p class="action">
   <a href="{{ site.submission_url }}">Submit your idea</a>
