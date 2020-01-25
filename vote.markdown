@@ -114,7 +114,7 @@ The winners will represent a diverse set of issues, strategies, and tactics. Win
 
 ### Rules
 
-* Voting begins on {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} (site.VOTES_BEING_ACCEPTED_TIME) and closes {{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} (site.VOTING_PERIOD_ENDED_TIME).
+* Voting begins on {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.VOTES_BEING_ACCEPTED_TIME }}) and closes {{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.VOTING_PERIOD_ENDED_TIME }}).
 * Members of the public may vote once per goal category for a total of five votes.
 * Voters must be at least 14 years old and a US resident.
 * To participate in the My LA2050 Grants Challenge, voters must sign in with their mobile phone, email address, or Facebook account.
