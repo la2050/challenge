@@ -11,7 +11,7 @@ stylesheets:
 
 ## 2020 Partners
 
-The My LA2050 Grants Challenge is possible because of the support of many incredible partners from across Los Angeles.
+The My LA2050 Grants Challenge is possible because of the support of many partners from across Los Angeles.
 
 ### Lead Partners
 
@@ -31,16 +31,14 @@ The My LA2050 Grants Challenge is possible because of the support of many incred
 
 We are grateful to the following organizations who helped spread the word about this year’s challenge:
 
-* Los Angeles Cleantech Incubator (LACI)
+* [Los Angeles Cleantech Incubator (LACI)](https://laincubator.org/)
 
-* Young Nonprofit Professionals Network (YNPN)
+* [Young Nonprofit Professionals Network (YNPN)](https://www.ynpnla.org/)
 
-* Social and Environmental Entrepreneurs (SEE)
+* [Social and Environmental Entrepreneurs (SEE)](http://saveourplanet.org/)
 
-* Pledgeling
+* [Pledgeling](https://www.pledgeling.com/)
 
-* Second Home
+* [Second Home](https://secondhome.io)
 
-* Social Venture Partners
-
-* Community Partners
+* [Social Venture Partners](https://svpla.org/)
