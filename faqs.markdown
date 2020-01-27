@@ -28,6 +28,18 @@ LA2050 will also commit to a one-year partnership with the winners—leveraging 
 <details class="faq" markdown="1">
 
 <summary markdown="1">
+## What's new this year?
+</summary>
+
+The 2020 My LA2050 Grants Challenge is distinct from previous challenges in several ways:
+* Each of the 25 finalist organizations that participate in voting will receive a grant. First place in each goal category will receive $100,000, second: $50,000, third: $25,000, fourth: $15,000, and fifth: $10,000.
+* We've selected Social Venture Partners Los Angeles to serve as our [external evaluation partner](/partners). All proposals will be reviewed, scored, and evaluated by members of SVP.
+
+</details>
+
+<details class="faq" markdown="1">
+
+<summary markdown="1">
 ## What are the benefits of applying?
 </summary>
 
@@ -41,7 +53,8 @@ Beyond the potential to receive a grant for your work, we believe that applying 
 * The opportunity to learn how to tell a compelling story about your organization’s impact
 * Inspiring the creation of videos, photos, tweets, and pithy messaging to promote your proposal
 * Visibility in front of other foundations and potential alternative funding sources. Past challenges have resulted in +$2.5M in grants from outside funders using the LA2050 platform for their grantmaking
-* 'Volunteer' and 'donate' buttons on each submission page to drive resources to your organization
+* 'Volunteer' and 'Donate' buttons on each submission page to drive resources to your organization
+* A page on the [My LA2050 Ideas Archive site](archive.la2050.org), a database of all organizations that have applied to the My LA2050 Grants Challenge and their proposals
 
 </details>
 
