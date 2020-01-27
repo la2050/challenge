@@ -162,8 +162,8 @@ The winners have been announced!
 * The grants challenge is all about making progress on our shared goals and metrics. Read about them [here](https://la2050.org/goals). 
 * We’re holding office hours via webinar on February 13, February 27, and March 12. <a href="{{ site.office_hours_url }}">Sign-up for a webinar here.</a>
 * Need inspiration? Browse proposals from past My LA2050 winners on the [My LA2050 Ideas Archive](https://archive.la2050.org/search/?keywords=winner). 
-* Ready to submit? Check out the [entry form](LINK)
-* Review the [scorecard](https://drive.google.com/open?id=1w1HC2gyusc7KvXIEaNeaZ7rRD_M6lno-) to see how your proposal will be evaluated
+* Ready to submit? Check out the [entry form](https://challengela2050.smapply.io/).
+* Review the [scorecard](https://drive.google.com/open?id=1w1HC2gyusc7KvXIEaNeaZ7rRD_M6lno-) to see how your proposal will be evaluated.
 
 {% comment %}
 * Check out all previous [My LA2050 Grants Challenge reports](https://la2050.org/reports) delineating best practices for getting out the vote, as well as trends and reported impact.
@@ -217,7 +217,7 @@ View the [full timeline](/timeline).
 _What are the rules for submitting a proposal to the My LA2050 Grants Challenge?_
 
 * The My LA2050 Grants Challenge is open for submissions from {{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.ENTRIES_BEING_ACCEPTED_TIME }}) through {{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.ENTRY_PERIOD_ENDED_TIME }}).
-* In order to submit a proposal, [log in and complete the application form.](LINK)
+* In order to submit a proposal, [log in and complete the application form.](https://challengela2050.smapply.io/).
 * US-based non-profit, for-profit, social enterprises, and government agencies with projects serving Los Angeles County are eligible to apply.
 * Winning projects must be completed, and the grant award must be expended, within 12 months of receipt of funds.
 * New projects, as well as existing and ongoing projects are eligible for submission.
