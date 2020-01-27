@@ -16,7 +16,7 @@ The My LA2050 Grants Challenge is possible because of the support of many partne
 ### Lead Partners
 
 [![The Goldhirsh Foundation](/assets/images/logos/goldhirsh-foundation.png)](https://goldhirshfoundation.org)
-: The Goldhirsh Foundation, providing $1,000,000 in grant funds
+: The Goldhirsh Foundation, founder of the My LA2050 Grants Challenge, providing $1,000,000 in grant funds
 
 [![The Annenberg Foundation](/assets/images/logos/annenberg-foundation.png)](https://annenberg.org)
 : The Annenberg Foundation, providing $50,000 in grant funds to support efforts in diversity, equity, and inclusion
