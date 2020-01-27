@@ -180,11 +180,11 @@ Winners will be selected via a two-step process:
 Finalists will be selected using the following criteria:
 
 * Impact on chosen [LA2050 goals and metrics](/about/#goals)
-* Feasbility of proposal
+* Feasibility of proposal
 * Impact on people served
 * Overall application quality
 
-Finalists will represent a diversity of issues and activities.
+Finalists will represent a diversity of issues and activities. For more information, view the [full scorecard[(https://drive.google.com/drive/folders/11Wk6lF_aHEq4tljPPkvnNAZl07JrUjzX).
 
 **Award levels will be determined via public vote.** Voters will determine which organizations place first ($100,000), second ($50,000), third ($25,000), fourth ($15,000), and fifth ($10,000) in each category. All 25 finalists that participate in the voting stage will receive a grant.
 
