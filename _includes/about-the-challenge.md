@@ -63,7 +63,7 @@ LA2050 is a community-guided initiative driving and tracking progress toward a s
 
 We need your help to turn the LA2050 goals and metrics into action.
 
-<strong>A total of $1,000,000will be awarded among 25 organizations</strong> to implement their proposals. Each organization will receive grant funds and [partnership from LA2050](/about/#la2050-partnership) to support its efforts. Additional funding and prizes will be awarded by this year's [My LA2050 partners].(/partners)
+<strong>A total of $1,000,000 will be awarded among 25 organizations</strong> to implement their proposals. Each organization will receive grant funds and [partnership from LA2050](/about/#la2050-partnership) to support its efforts. Additional funding and prizes will be awarded by this year's [My LA2050 partners].(/partners)
 
 <p markdown="1" style="margin-top: 1.5em; margin-bottom: 0;">In each of the five [goal categories](/about/#goals), the awards will be…</p>
 
@@ -171,7 +171,7 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
 
 <br />
 
-## Winners Selection
+## Selection of Winners
 
 Winners will be selected via a two-step process:
 
@@ -186,7 +186,7 @@ Finalists will be selected using the following criteria:
 
 Finalists will represent a diversity of issues and activities. For more information, view the [full scorecard[(https://drive.google.com/drive/folders/11Wk6lF_aHEq4tljPPkvnNAZl07JrUjzX).
 
-**Award levels will be determined via public vote.** Voters will determine which organizations place first ($100,000), second ($50,000), third ($25,000), fourth ($15,000), and fifth ($10,000) in each category. All 25 finalists that participate in the voting stage will receive a grant.
+**Award levels will be determined via public vote.** Voters will determine which organizations place first ($100,000), second ($50,000), third ($25,000), fourth ($15,000), and fifth ($10,000) in each goal category. All 25 finalists that participate in the voting stage will receive a grant, with five grants distributed at each dollar amount (e.g., there will be five $100,000 winners).
 
 
 
