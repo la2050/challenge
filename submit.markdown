@@ -162,10 +162,11 @@ The winners have been announced!
 * The grants challenge is all about making progress on our shared goals and metrics. Read about them [here](https://la2050.org/goals). 
 * We’re holding office hours via webinar on February 13, February 27, and March 12. <a href="{{ site.office_hours_url }}">Sign-up for a webinar here.</a>
 * Need inspiration? Browse proposals from past My LA2050 winners on the [My LA2050 Ideas Archive](https://archive.la2050.org/search/?keywords=winner). 
-* Ready to submit? Check out the [entry form](https://challengela2050.smapply.io/).
+* Want to prepare to submit? Check out the [application, scorecard, and rules](https://drive.google.com/drive/folders/11Wk6lF_aHEq4tljPPkvnNAZl07JrUjzX). 
 * Review the [scorecard](https://drive.google.com/open?id=1w1HC2gyusc7KvXIEaNeaZ7rRD_M6lno-) to see how your proposal will be evaluated.
 
 {% comment %}
+* Ready to submit? Check out the [entry form](https://challengela2050.smapply.io/).
 * Check out all previous [My LA2050 Grants Challenge reports](https://la2050.org/reports) delineating best practices for getting out the vote, as well as trends and reported impact.
 * How have Angelenos activated in the past? Check out [these videos](https://www.facebook.com/LA2050/videos/vl.1855009431227001/1798255590244812/?type=1) on movements shaping LA. 
 {% endcomment %}
