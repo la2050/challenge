@@ -25,7 +25,7 @@ The My LA2050 Grants Challenge is possible because of the support of many partne
 : Second Home Hollywood, offering $60,000 in donated space for co-working, meeting, and events for select winning organizations
 
 [![Social Venture Partners Los Angeles](/assets/images/logos/social-venture-partners.jpg)](https://www.svpla.org/)
-: We are proud to have Social Venture Partners Los Angeles (SVP) to serve as our external evaluation partner. SVP is a membership organization that connects community leaders to nonprofits to tackle Los Angeles' toughest challenges. All proposals are reviewed, scored, and evaluated by members of SVP.
+: We are proud to have Social Venture Partners Los Angeles (SVP) as our external evaluation partner. SVP is a membership organization that connects community leaders to nonprofits to tackle Los Angeles' toughest challenges. All proposals are reviewed, scored, and evaluated by members of SVP.
 
 ### Outreach Partners
 
