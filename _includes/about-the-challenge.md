@@ -184,7 +184,7 @@ Finalists will be selected using the following criteria:
 * Impact on people served
 * Overall application quality
 
-Finalists will represent a diversity of issues and activities. For more information, view the [full scorecard[(https://drive.google.com/drive/folders/11Wk6lF_aHEq4tljPPkvnNAZl07JrUjzX).
+Finalists will represent a diversity of issues and activities. For more information, view the [full scorecard](https://drive.google.com/drive/folders/11Wk6lF_aHEq4tljPPkvnNAZl07JrUjzX).
 
 **Award levels will be determined via public vote.** Voters will determine which organizations place first ($100,000), second ($50,000), third ($25,000), fourth ($15,000), and fifth ($10,000) in each goal category. All 25 finalists that participate in the voting stage will receive a grant, with five grants distributed at each dollar amount (e.g., there will be five $100,000 winners).
 
