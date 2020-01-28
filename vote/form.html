@@ -1,24 +1,24 @@
 ---
-title: Vote in the 2019 My LA2050 Grants Challenge
+title: Vote in the 2020 My LA2050 Grants Challenge
 canonical_url: /
 body_class: blueberry
 stylesheets:
   - "/assets/css/vote.css"
 ---
 
-{% if site.phase <= 4 and site.voting_test_mode != true %}
+{% if site.phase < site.VOTES_BEING_ACCEPTED and site.voting_test_mode != true %}
 
   <div class="introduction introduction-voting">
     <div>
       <a href="/" class="logo">
         {% include logo.html %}
       </a>
-      <p>Voting begins on April 22, 2019 (9am Pacific Time).</p>
+      <p>Voting begins on {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.VOTES_BEING_ACCEPTED_TIME }}).</p>
       <p class="action"><a href="{{ site.mailing_list_url }}">Get updates</a></p>
     </div>
   </div>
 
-{% elsif site.phase >= 6 and site.voting_test_mode != true %}
+{% elsif site.phase > site.VOTES_BEING_ACCEPTED and site.voting_test_mode != true %}
 
   <div class="introduction introduction-voting">
     <div>

@@ -6,7 +6,7 @@ stylesheets:
   - "/assets/css/vote-survey.css"
 ---
 
-{% if site.phase != 5 and site.voting_test_mode != true %}
+{% if site.phase != site.VOTES_BEING_ACCEPTED and site.voting_test_mode != true %}
 
 # Oops!
 

@@ -117,7 +117,7 @@
   }
 
 
-  @media (min-width: 70em) {
+  /* @media (min-width: 70em) {
     .promotion .action {
       display: inline-block;
       margin-top: -1.25em;
@@ -125,7 +125,7 @@
       margin-bottom: -1em;
       vertical-align: middle;
     }
-  }
+  } */
 
 
   body .header-figure.has-caption.has-caption-details .caption h1 {
@@ -315,6 +315,8 @@
     font-weight: 600;
     letter-spacing: 0.05em;
     text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
   }
 /*  footer a:hover,
   footer a:active,
@@ -473,6 +475,8 @@
     max-width: none;
     position: relative;
     z-index: 1;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
   }
   @media (min-width: 40em) { /* @medium-size-screen */
     main > h1:first-child {

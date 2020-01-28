@@ -1,18 +1,19 @@
 ---
-title: Submit Your Proposal for the 2019 My LA2050 Grants Challenge
+title: Submit Your Proposal for the 2020 My LA2050 Grants Challenge
 body_class: lime
 main_class: standard-layout
+footer_image: true
 ---
 
 <h1>
   Submit Your Proposal
 </h1>
 
-{% if site.phase < 2 %}
+{% if site.phase < site.ENTRIES_BEING_ACCEPTED %}
 
 <div class="introduction" markdown="1">
 
-<p class="max-width: 23em">Starting <strong class="avoid-break">February 28, 2019</strong> <small class="avoid-break">(9am Pacific Time)</small>, <span class="avoid-break">you can submit your proposal on this website.</span></p>
+<p class="max-width: 23em">Starting <strong class="avoid-break">{{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong> <small class="avoid-break">({{ site.ENTRIES_BEING_ACCEPTED_TIME }})</small>, <span class="avoid-break">you can submit your proposal on this website.</span></p>
 
 {% if site.submission_url %}
 
@@ -30,11 +31,11 @@ main_class: standard-layout
 
 </div>
 
-{% elsif site.phase == 2 %}
+{% elsif site.phase == site.ENTRIES_BEING_ACCEPTED %}
 
 <div class="introduction" markdown="1">
 
-The submission period has started! Apply by <strong>March 29, 2019</strong> <small>(midnight, Pacific Time)</small>.
+Submissions are open! Apply by <strong>{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}</strong> <small>({{ site.ENTRY_PERIOD_ENDED_TIME }})</small>.
 
 <p class="action" markdown="1">
   <a href="{{ site.submission_url }}">Submit your idea</a>
@@ -42,17 +43,17 @@ The submission period has started! Apply by <strong>March 29, 2019</strong> <sma
 
 </div>
 
-{% elsif site.phase == 3 %}
+{% elsif site.phase == site.ENTRY_PERIOD_ENDED %}
 
 <div class="introduction" markdown="1">
 
 The submission period is complete.
 
 <small>
-Entries will be showcased here by <strong>April 15, 2019</strong>. 
+Entries will be showcased here by <strong>{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%A, %B %-d, %Y" }}</strong>. 
 Voting begins on
 <span class="avoid-break">
-  <strong>April 22, 2019</strong>.
+  <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
 </span>
 </small>
 
@@ -62,7 +63,7 @@ Voting begins on
 
 </div>
 
-{% elsif site.phase == 4 %}
+{% elsif site.phase == site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
 
 <div class="introduction" markdown="1">
 
@@ -71,7 +72,7 @@ The submission period is complete.
 <small>
 Voting begins on
 <span class="avoid-break">
-  <strong>April 22, 2019</strong>.
+  <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
 </span>
 </small>
 
@@ -81,7 +82,7 @@ Voting begins on
 
 </div>
 
-{% elsif site.phase == 5 %}
+{% elsif site.phase == site.VOTES_BEING_ACCEPTED %}
 
 <div class="introduction" markdown="1">
 
@@ -89,10 +90,10 @@ The submission period is complete.
 
 <p style="max-width: 25em">
   <small>
-  Public voting has started!
+  Public voting is open!
   Voting ends on
   <span class="avoid-break">
-    <strong>April 29, 2019</strong>.
+    <strong>{{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
   </span>
   </small>
 </p>
@@ -103,7 +104,7 @@ The submission period is complete.
 
 </div>
 
-{% elsif site.phase == 6 %}
+{% elsif site.phase == site.VOTING_PERIOD_ENDED %}
 
 <div class="introduction" markdown="1">
 
@@ -112,7 +113,7 @@ The submission period is complete.
 <small>
   Winners will be announced on 
   <span class="avoid-break">
-    <strong>June 4, 2019</strong>.
+    <strong>{{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
   </span>
 </small>
 
@@ -122,7 +123,7 @@ The submission period is complete.
 
 </div>
 
-{% elsif site.phase == 7 %}
+{% elsif site.phase == site.FINALISTS_ANNOUNCED %}
 
 <div class="introduction" markdown="1">
 
@@ -131,7 +132,7 @@ The finalists have been announced!
 <small>
   Winners will be announced on 
   <span class="avoid-break">
-    <strong>June 4, 2019</strong>.
+    <strong>{{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
   </span>
 </small>
 
@@ -141,7 +142,7 @@ The finalists have been announced!
 
 </div>
 
-{% elsif site.phase == 8 %}
+{% elsif site.phase == site.WINNERS_ANNOUNCED %}
 
 <div class="introduction" markdown="1">
 
@@ -156,16 +157,13 @@ The winners have been announced!
 {% endif %}
 
 
-{% if site.phase > 0 %}
-
-
 ### Resources
 
-* The grants challenge is all about making progress on our shared goals and metrics. Read about them [here](http://la2050.s3-us-west-1.amazonaws.com/reports/1/pdfs/vision_for_a_successful_los_angeles.pdf?1441226432). 
-* <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4drDm6lKpmJudzHY8GYbXHvCszKoGuQUZsPR5TXc54OvDIQ/viewform">Sign-up for our office hours webinar</a> on March 5th. 
+* The grants challenge is all about making progress on our shared goals and metrics. Read about them [here](https://la2050.org/goals). 
+* We’re holding office hours via webinar on February 13, February 27, and March 12. <a href="{{ site.office_hours_url }}">Sign-up for a webinar here.</a>
 * Need inspiration? Browse proposals from past My LA2050 winners on the [My LA2050 Ideas Archive](https://archive.la2050.org/search/?keywords=winner). 
-* Ready to submit? Check out the [entry form](https://drive.google.com/drive/u/0/folders/13kEX-1p_OgnW8AdHK0Ie6SxCPAHe2Ci0)
-* Review the [scorecard](https://drive.google.com/drive/u/0/folders/13kEX-1p_OgnW8AdHK0Ie6SxCPAHe2Ci0) to see how your proposal will be evaluated
+* Ready to submit? Check out the [entry form](https://challengela2050.smapply.io/).
+* Review the [scorecard](https://drive.google.com/open?id=1w1HC2gyusc7KvXIEaNeaZ7rRD_M6lno-) to see how your proposal will be evaluated.
 
 {% comment %}
 * Check out all previous [My LA2050 Grants Challenge reports](https://la2050.org/reports) delineating best practices for getting out the vote, as well as trends and reported impact.
@@ -173,22 +171,43 @@ The winners have been announced!
 {% endcomment %}
 
 
-### Dates
+### Dates and Details
 
-Apply between Thursday, February 28, 2019 (9am Pacific Time) and Friday, March 29, 2019 (midnight, Pacific Time) on this website. 
+Apply between {{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.ENTRIES_BEING_ACCEPTED_TIME }}) and {{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.ENTRY_PERIOD_ENDED_TIME }}) on this website. 
 
-Your application will go through a moderation process to ensure that it adheres to all challenge rules. Applications that make it through the initial vetting will be published on the My LA2050 Grants Challenge website on Monday, April 15, 2019 to allow the public to read about and engage with the proposals.
+Your application will go through a simple moderation process to ensure that it adheres to all challenge rules. Applications that make it through the initial vetting will be published on the My LA2050 Grants Challenge website on {{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%A, %B %-d, %Y" }} to allow the public to read about and engage with the proposals. Our external evaluation committee of community leaders, led by Social Venture Partners Los Angeles, will review and score applications to determine five finalists in each goal category (a total of 25 finalists).
 
-From Monday, April 22, 2019 (9am Pacific Time) through Monday, April 29, 2019 (5pm Pacific Time), all submissions will be voted on by the public. Public voting will surface 50 finalists - the top 10 submissions in each goal category. The Goldhirsh Foundation will then select two winners from each goal category, to be announced on Monday, June 4, 2019.
+From {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.VOTES_BEING_ACCEPTED_TIME }}) through {{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.VOTING_PERIOD_ENDED_TIME }}) the 25 finalists will move on to the public voting phase. Public vote will determine the winners' final award level. First place in each category will receive $100,000, second: $50,000, third: $25,000, fourth: $15,000, and fifth: $10,000. The winners will be announced via the <a href="{{ site.mailing_list_url }}">LA2050 Newsletter</a> on {{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}.
 
 View the [full timeline](/timeline).
 
+<div class="application-process">
+  <div>
+    <h4 id="application-process">Application Process</h4>
+
+    <ol>
+      <li>Submit proposal</li>
+      <li>Moderation period</li>
+      <li>Proposals on website</li>
+    </ol>
+
+    <h4 id="voting-process">Voting Process</h4>
+
+    <ol>
+      <li>Finalists announced</li>
+      <li>Vote on finalists</li>
+      <li>Winners announced</li>
+    </ol>
+  </div>
+</div>
+
+<br />
 
 ### To apply, organizations will:
 
 * Outline how their proposal will make progress on the [LA2050 goals and metrics](/about/#goals), including clearly defining a core issue, the desired solution to address the issue, and intended outcome for the proposed activities.
 * Provide a plan that describes how the organization will advance the LA2050 goals and metrics.
-* Clearly articulate the strategies and tools that will be employed.
+* Clearly articulate the strategies and tools that will be employed to impact the target population.
 * Identify collaboration partners and their respective roles. Collaboration is highly encouraged!
 * Submit a detailed budget explaining how funds will be used across the one year grant period.
 * Detail any additional desired, non-financial assistance needed from LA2050 to make the project a success.
@@ -197,30 +216,31 @@ View the [full timeline](/timeline).
 
 _What are the rules for submitting a proposal to the My LA2050 Grants Challenge?_
 
-* The My LA2050 Grants Challenge is open for submissions from Thursday, February 28, 2019 (9am Pacific Time) through Friday, March 29, 2019 (midnight, Pacific Time).
-* In order to submit a proposal, log-in and complete the application form.
+* The My LA2050 Grants Challenge is open for submissions from {{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.ENTRIES_BEING_ACCEPTED_TIME }}) through {{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.ENTRY_PERIOD_ENDED_TIME }}).
+* In order to submit a proposal, [log in and complete the application form.](https://challengela2050.smapply.io/).
 * US-based non-profit, for-profit, social enterprises, and government agencies with projects serving Los Angeles County are eligible to apply.
-* Winning projects must be completed, and the grant award must be expended within 12 months.
-* Ongoing projects are eligible for submission.
+* Winning projects must be completed, and the grant award must be expended, within 12 months of receipt of funds.
+* New projects, as well as existing and ongoing projects are eligible for submission.
 * Previous applicants and winners of LA2050 grant programs may reapply.
-* All projects will be featured on this site by April 15, 2019, and public voting will be open from Monday, April 22, 2019 (9am Pacific Time) through Monday, April 29, 2019 (5pm Pacific Time).
-* <em>Public vote</em>: The public will vote on all submissions to the grants challenge. The top 10 submissions in each goal category garnering the most votes will be finalists (50 total).
-* <em>Winner selection</em>: From the pool of 50 finalists, Goldhirsh Foundation staff and board will select two winners from each goal category (10 total).
-* Applications will be selected using the following criteria: impact on the LA2050 goal and metrics, overall quality of submission, innovation, feasibility, and collaborative spirit.
-* Winners of the My LA2050 Grants Challenge will be grantees of the Goldhirsh Foundation and will be required to participate in at least one check-in with an LA2050 team member per month.
-* [Read all the rules](http://la2050.s3-us-west-1.amazonaws.com/comfy/cms/files/135/files/original/2019GrantsChallengeRules.pdf)
+* All projects will be featured on this site by {{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%A, %B %-d, %Y" }}, and public voting will be open from {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.VOTES_BEING_ACCEPTED_TIME }}) through {{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.VOTING_PERIOD_ENDED_TIME }}).
+* <em>Evaluation</em>: Evaluation will take place between April 6, 2020 and May 18, 2020. The 25 finalists (five in each goal category) will be announced before voting begins on {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.VOTES_BEING_ACCEPTED_TIME }})
+* Finalists will be selected using the following criteria: impact on chosen goals and metrics, feasibility of proposal, impact on people served, and overall application quality. 
+* <em>Voting</em>: Public voting will occur on this website between {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.VOTES_BEING_ACCEPTED_TIME }}) and {{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.VOTING_PERIOD_ENDED_TIME }}). Voting will determine the grants awarded to the 25 finalists. First place in each goal category will receive $100,000, second: $50,000, third: $25,000, fourth: $15,000, and fifth: $10,000. 
+* Winners will represent a diversity of issues and activities.
+* Winners of the My LA2050 Grants Challenge will be grantees of the Goldhirsh Foundation and will be required to check-in with LA2050 periodically throughout the grant period.
+* [Read all the rules](https://drive.google.com/open?id=1Z860fWUoUNokZ5nXo33HXcAp018LfoQf)
 
 ### Questions
 
 If you have any questions about the information on this page, [please review our FAQs](/faqs) or send us an email at [connect@la2050.org](mailto:connect@la2050.org).
 
-{% if site.phase == 1 %}
+{% if site.phase == site.NEW_CHALLENGE_ANNOUNCED %}
 
 * * *
 
 <div class="introduction" markdown="1">
 
-<p class="max-width: 23em">Starting <strong class="avoid-break">February 28, 2019</strong> <small class="avoid-break">(9am Pacific Time)</small>, <span class="avoid-break">you can submit your proposal on this website.</span></p>
+<p class="max-width: 23em">Starting <strong class="avoid-break">{{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong> <small class="avoid-break">({{ site.ENTRIES_BEING_ACCEPTED_TIME }})</small>, <span class="avoid-break">you can submit your proposal on this website.</span></p>
 
 {% if site.submission_url %}
 
@@ -236,13 +256,13 @@ If you have any questions about the information on this page, [please review our
 
 {% endif %}
 
-{% elsif site.phase == 2 %}
+{% elsif site.phase == site.ENTRIES_BEING_ACCEPTED %}
 
 * * *
 
 <div class="introduction" markdown="1">
 
-The submission period has started! Apply by <strong>March 29, 2019</strong> <small>(midnight Pacific Time)</small>.
+The submission period has started! Apply by <strong>{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}</strong> <small>({{ site.ENTRY_PERIOD_ENDED_TIME }})</small>.
 
 <p class="action" markdown="1">
   <a href="{{ site.submission_url }}">Submit your idea</a>
@@ -252,5 +272,3 @@ The submission period has started! Apply by <strong>March 29, 2019</strong> <sma
 
 {% endif %}
 
-
-{% endif %}

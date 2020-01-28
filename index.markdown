@@ -1,7 +1,8 @@
 ---
-title: 2019 My LA2050 Grants Challenge
-body_class: blueberry home
+title: 2020 My LA2050 Grants Challenge
+body_class: strawberry home
 main_class: standard-layout
+footer_image: true
 show_promotion: true
 use_default_meta_description: true
 ---

@@ -34,6 +34,7 @@
   <link rel="stylesheet" href="/assets/css/introduction.css?v={{ site.version }}" />
   <link rel="stylesheet" href="/assets/css/goals.css?v={{ site.version }}" />
   <link rel="stylesheet" href="/assets/css/goals-navigation.css?v={{ site.version }}" />
+  <link rel="stylesheet" href="/assets/css/process.css?v={{ site.version }}" />
 
   {% if page.stylesheets %}
     {% assign stylesheets = page.stylesheets %}
@@ -107,32 +108,44 @@
   <meta http-equiv="refresh" content="0; url={{ page.redirect }}" />
   {% endif %}
 
-  {% assign redirect_to_winners_page = false %}
+  {% assign redirect_to_random_winners_page = false %}
   {% assign redirect_to_random_finalist_page = false %}
   {% assign redirect_to_random_entry_page = false %}
 
-  {% if page.url == "/" and site.phase >= 8 %}
-    {% assign redirect_to_winners_page = true %}
+  {% if page.url == "/winners/" %}
+    {% assign redirect_to_random_winners_page = true %}
+  {% endif %}
+  {% if page.url == "/" and site.phase >= site.WINNERS_ANNOUNCED %}
+    {% assign redirect_to_random_winners_page = true %}
   {% endif %}
 
   {% if page.url == "/finalists/" %}
     {% assign redirect_to_random_finalist_page = true %}
   {% endif %}
-  {% if page.url == "/" and site.phase == 7 %}
+  {% if page.url == "/" and site.phase >= site.FINALISTS_ANNOUNCED %}
     {% assign redirect_to_random_finalist_page = true %}
   {% endif %}
 
   {% if page.url == "/entries/" %}
     {% assign redirect_to_random_entry_page = true %}
   {% endif %}
-  {% if page.url == "/" and site.phase >= 4 and site.phase <= 6 %}
-    {% assign redirect_to_random_entry_page = true %}
-  {% endif %}
 
-  {% if redirect_to_winners_page %}
+  {% if redirect_to_random_winners_page %}
   <script>
   (function() {
-    window.location.href = '/winners/';
+    var links, random;
+
+    var categories = [
+      'learn',
+      'create',
+      'play',
+      'connect',
+      'live'
+    ];
+
+    random = Math.floor(Math.random() * categories.length) + 0;
+
+    window.location.href = '/' + categories[random] + '/winners/';
   })();
   </script>
   {% elsif redirect_to_random_finalist_page %}
@@ -199,7 +212,7 @@
 
 <body{% if page.body_class %} class="{{ page.body_class }}"{% elsif project_body_class %} class="{{ project_body_class }}"{% endif %}>
 
-  {% if page.show_promotion or site.phase >= 2 %}
+  {% if page.show_promotion or site.phase >= site.ENTRIES_BEING_ACCEPTED %}
   <section class="promotion">
     {% include promotion.html %}
   </section>
@@ -231,6 +244,15 @@
   </header>
   <main {% if page.main_class %} class="{{ page.main_class }}"{% elsif layout.main_class %} class="{{ layout.main_class }}"{% endif %}>
     {{ content }}
+    {% if page.footer_image %}
+    <figure class="standard-figure has-caption">
+      <img src="/assets/images/home/384-wide/lamas.jpg" srcset="/assets/images/home/384-wide/lamas.jpg 384w, /assets/images/home/512-wide/lamas.jpg 512w, /assets/images/home/768-wide/lamas.jpg 768w, /assets/images/home/1024-wide/lamas.jpg 1024w, /assets/images/home/1536-wide/lamas.jpg 1536w, /assets/images/home/2048-wide/lamas.jpg 2048w" sizes="100vw" alt="Photo of a group of people talking and sharing a meal, outdoors in a neighborhood" />
+      <figcaption class="caption">
+        <span>Join us in working toward a better Los Angeles.</span>
+        <small>Photo by <a href="https://archive.la2050.org/evolve-la-project-of-la-más/">LA Más</a></small>
+      </figcaption>
+    </figure>
+    {% endif %}
   </main>
   <footer>
     {% include logotype.html %}

@@ -1,0 +1,15 @@
+
+
+  /* =Partners
+  ----------------------------------------------- */
+  main dd + dt {
+    margin-top: 1.5em;
+  }
+  main dt img {
+    width: auto;
+    max-width: 100%;
+    height: 3em;
+  }
+  main dd {
+    margin-left: 0;
+  }

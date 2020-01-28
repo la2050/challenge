@@ -8,6 +8,15 @@
 {% assign data_list = data_list | where: "category", category %}
 {% for project in data_list %}
 
+{% assign is_finalist = false %}
+{% for finalist in site.finalists %}
+  {% if finalist == project.url %}
+    {% assign is_finalist = true %}
+  {% endif %}
+{% endfor %}
+
+{% if is_finalist == true %}
+
 <li>
 
   <a href="{{ project.url }}" target="_blank">
@@ -67,6 +76,7 @@
 
 </li>
 {% assign first_item = false %}
+{% endif %}
 {% endfor %}
 </ul>
 

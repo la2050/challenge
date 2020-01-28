@@ -1,31 +1,58 @@
-{% if site.phase == 2 %}
-**![](/assets/images/timeline/light.svg) Submission Period**
-: **February 28 - <span class="avoid-break">March 29, 2019</span>**
+
+
+{% if site.phase == site.ENTRIES_BEING_ACCEPTED %}
+**![](/assets/images/timeline/strawberry/light.svg) Submission Period**
+: **{{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%B %-d, %Y" }}</span>**
 {% else %}
-![](/assets/images/timeline/light.svg) Submission Period
-: February 28 - <span class="avoid-break">March 29, 2019</span>
+![](/assets/images/timeline/strawberry/light.svg) Submission Period
+: {{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%B %-d, %Y" }}</span>
 {% endif %}
 
-{% if site.phase == 4 %}
-**![](/assets/images/timeline/paper.svg) All Submissions Online**
-: **April 15, 2019**
+{% if site.phase == site.ENTRY_PERIOD_ENDED %}
+**![](/assets/images/timeline/strawberry/checkmark.svg) Moderation Period**
+: **{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%B %-d, %Y" }}</span>**
 {% else %}
-![](/assets/images/timeline/paper.svg) All Submissions Online
-: April 15, 2019
+![](/assets/images/timeline/strawberry/checkmark.svg) Moderation Period
+: {{ site.ENTRY_PERIOD_ENDED_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%B %-d, %Y" }}</span>
 {% endif %}
 
-{% if site.phase == 5 %}
-**![](/assets/images/timeline/vote.svg) Public Voting**
-: **April 22 - <span class="avoid-break">April 29, 2019</span>**
+
+{% if site.phase == site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
+**![](/assets/images/timeline/strawberry/clipboard.svg) Evaluation Period**
+: **{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.FINALISTS_ANNOUNCED_DATE | date: "%B %-d, %Y" }}</span>**
 {% else %}
-![](/assets/images/timeline/vote.svg) Public Voting
-: April 22 - <span class="avoid-break">April 29, 2019</span>
+![](/assets/images/timeline/strawberry/clipboard.svg) Evaluation Period
+: {{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.FINALISTS_ANNOUNCED_DATE | date: "%B %-d, %Y" }}</span>
 {% endif %}
 
-{% if site.phase == 8 %}
-**![](/assets/images/timeline/ribbon.svg) Winners Announced**
-: **June 4, 2019**
+
+{% if site.phase == site.FINALISTS_ANNOUNCED %}
+**![](/assets/images/timeline/strawberry/speaker.svg) Finalists Announced**
+: **{{ site.FINALISTS_ANNOUNCED_DATE | date: "%B %-d, %Y" }}**
 {% else %}
-![](/assets/images/timeline/ribbon.svg) Winners Announced
-: June 4, 2019
+![](/assets/images/timeline/strawberry/speaker.svg) Finalists Announced
+: {{ site.FINALISTS_ANNOUNCED_DATE | date: "%B %-d, %Y" }}
 {% endif %}
+
+
+{% if site.phase == site.VOTES_BEING_ACCEPTED %}
+**![](/assets/images/timeline/strawberry/vote.svg) Public Voting**
+: **{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.VOTING_PERIOD_ENDED_DATE | date: "%B %-d, %Y" }}</span>**
+{% else %}
+![](/assets/images/timeline/strawberry/vote.svg) Public Voting
+: {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.VOTING_PERIOD_ENDED_DATE | date: "%B %-d, %Y" }}</span>
+{% endif %}
+
+
+{% if site.phase == site.WINNERS_ANNOUNCED %}
+**![](/assets/images/timeline/strawberry/ribbon.svg) Winners Announced**
+: **{{ site.WINNERS_ANNOUNCED_DATE | date: "%B %-d, %Y" }}**
+{% else %}
+![](/assets/images/timeline/strawberry/ribbon.svg) Winners Announced
+: {{ site.WINNERS_ANNOUNCED_DATE | date: "%B %-d, %Y" }}
+{% endif %}
+
+
+
+
+

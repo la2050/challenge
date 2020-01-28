@@ -1,6 +1,7 @@
 ---
-title: Timeline for the 2019 My LA2050 Grants Challenge
+title: Timeline for the 2020 My LA2050 Grants Challenge
 body_class: banana
+footer_image: true
 ---
 
 <h1>
@@ -11,6 +12,6 @@ body_class: banana
 
 {% include timeline.html %}
 
-**50 finalists** will be chosen by public vote, and the <span class="avoid-break">**10 winners** will be chosen by the Goldhirsh Foundation.</span>
+**25 finalists** will be selected by our evaluation partner, Social Venture Partners Los Angeles, and the <span class="avoid-break">final award levels will be determined by public vote.</span>
 
 </div></div>

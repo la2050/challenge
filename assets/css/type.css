@@ -1,5 +1,4 @@
 
-
   /* =Type
   ----------------------------------------------- */
   body {
@@ -49,10 +48,10 @@
   h1, h2, h3, h4, h5, h6 {
     margin-top: 1.5rem;
     margin-bottom: 0.75rem;
-    font-weight: 600;
+    font-weight: 700;
   }
   strong {
-    font-weight: 600;
+    font-weight: 700;
   }
   hr {
     margin: 3em 0;
@@ -65,7 +64,7 @@
 
   h1 {
     margin-top: 3rem;
-    font-weight: 600;
+    font-weight: 700;
     font-size: 2em;
     font-size: calc(1vmax + 1.5em);
     line-height: 1.25;

@@ -6,7 +6,7 @@ stylesheets:
   - "/assets/css/vote-process.css"
 ---
 
-{% if site.phase != 5 and site.voting_test_mode != true %}
+{% if site.phase != site.VOTES_BEING_ACCEPTED and site.voting_test_mode != true %}
 
 # Oops!
 
@@ -23,10 +23,6 @@ You may want to visit our [home page](/) instead.
 <h1>Thanks for voting!</h1>
 
 Your votes have been received, and will help us choose the winners.
-
-<!--
-<small>The winners will be announced on <strong>June 4, 2019</strong>.</small>
--->
 
 <div style="max-width: none; text-align: center;" markdown="1" class="news">
 

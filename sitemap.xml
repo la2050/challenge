@@ -30,7 +30,7 @@ layout: null
     <loc>https://challenge.la2050.org/faqs/</loc>
   </url>
 
-{% if site.phase >= 8 %}
+{% if site.phase >= site.WINNERS_ANNOUNCED %}
 
 {% comment %}
 ######### Winners #########
@@ -41,7 +41,7 @@ layout: null
 
 {% endif %}
 
-{% if site.phase >= 7 %}
+{% if site.phase >= site.FINALISTS_ANNOUNCED %}
 
 {% comment %}
 ######### Finalists #########
@@ -67,8 +67,8 @@ layout: null
 
 {% endif %}
 
-{% if site.phase >= 2 %}
-{% if site.phase >= 4 or site.show_early_entries %}
+{% if site.phase >= site.ENTRIES_BEING_ACCEPTED %}
+{% if site.phase >= site.ENTRIES_SHOWN_ON_THE_WEBSITE or site.show_early_entries %}
 
 {% comment %}
 ######### Entries #########

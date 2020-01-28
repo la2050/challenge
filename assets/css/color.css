@@ -134,11 +134,11 @@
   }
 
   /* SHIM: Make the colors work a little differently on the home page */
-  .home.blueberry main {
-    --primary-color: var(--strawberry);
-    --primary-color-readability: var(--strawberry);
+  .home.strawberry main {
+    --primary-color: var(--blueberry);
+    --primary-color-readability: var(--blueberry);
   }
-  .home.blueberry main h1 {
+  .home.strawberry main h1 {
     --primary-color: var(--blueberry);
     --primary-color-readability: var(--blueberry);
   }

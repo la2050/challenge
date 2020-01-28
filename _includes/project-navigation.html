@@ -1,12 +1,9 @@
-{% unless page.winners %}
 
 <section class="goals" id="projects">
 
 <div class="navigation"><div markdown="1">
 
 <div class="options">
-
-{% unless page.winners %}
 
 <details open>
 <summary>
@@ -66,8 +63,6 @@
 {% endunless %}
 {% endcomment %}
 
-{% endunless %}
-
 <p class="browse"><strong>Browse</strong> by goal category</p>
 
 </div>
@@ -87,18 +82,22 @@
 
 {% if page.category %}
 
-{% if page.finalists %}
+{% if page.winners %}
 <p class="count">
-  There are <strong>10</strong> finalists in the <strong class="category">{{ page.category }}</strong> category.<br /><br />
-  <small>These finalists are presented in alphabetical order, irrespective of votes.</small>
+  There are <strong>5</strong> winners in the <strong class="category">{{ page.category }}</strong> category.
+</p>
+{% elsif page.finalists %}
+<p class="count">
+  There are <strong>5</strong> finalists in the <strong class="category">{{ page.category }}</strong> category.<br /><br />
+  {% if site.finalists_chosen_by_public_vote %}<small>These finalists are presented in alphabetical order, irrespective of votes.</small>{% endif %}
 </p>
 {% elsif data_list.size <= 0 %}
 <p class="count">We’re eagerly awaiting more entries in the <strong class="category">{{ page.category }}</strong> category!</p>
 {% else %}
 <p class="count">
   There are <strong>{{ data_list.size }}</strong> entries in the <strong class="category">{{ page.category }}</strong> category.
-  {% if site.show_early_entries == true and site.phase < 4 %}<br />
-  <small>Check back soon! More entries will be showcased on this page by <strong>April 15, 2019</strong>.</small>
+  {% if site.show_early_entries == true and site.phase < site.ENTRIES_SHOWN_ON_THE_WEBSITE %}<br />
+  <small>Check back soon! More entries will be showcased on this page by <strong>{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%A, %B %-d, %Y" }}</strong>.</small>
   {% endif %}
 </p>
 {% endif %}
@@ -114,8 +113,6 @@
 </div>
 
 </div></section>
-
-{% endunless %}
 
 {% if page.layout == 'project-list' %}
 <script>

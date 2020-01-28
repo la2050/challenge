@@ -1,10 +1,11 @@
 ---
-title: About the 2019 My LA2050 Grants Challenge
+title: About the 2020 My LA2050 Grants Challenge
 body_class: strawberry about-page
 main_class: standard-layout
+footer_image: true
 ---
 
-{% if site.phase >= 4 %}
+{% if site.phase >= site.FINALISTS_ANNOUNCED %}
 
 {% capture about %}{% include about-the-challenge.md %}{% endcapture %}
 {{ about | markdownify }}
@@ -19,23 +20,23 @@ main_class: standard-layout
 
 ## LA2050 is a community-guided initiative driving and tracking progress toward a shared vision for the future of Los Angeles.
 
-With the support of 30,000 Angelenos, we’ve outlined an [aspirational vision](https://la2050.s3-us-west-1.amazonaws.com/reports/1/pdfs/vision_for_a_successful_los_angeles.pdf) centered on [five goals](/about/#goals): to make Los Angeles the best place to learn, create, play, connect, and live by the year 2050. We’re also tracking our progress by evaluating [60+ metrics](https://www.la2050.org/metrics) that assess how Los Angeles is faring.
+With the support of 30,000 Angelenos, we’ve outlined an [aspirational vision](https://la2050.s3-us-west-1.amazonaws.com/reports/1/pdfs/vision_for_a_successful_los_angeles.pdf) centered on [five goals](/about/#goals): to make Los Angeles the best place to learn, create, play, connect, and live by the year 2050. We’re also tracking our progress by evaluating [65+ metrics](https://www.la2050.org/metrics) that assess how Los Angeles is faring.
 
-In 2013, we launched our first signature program, the My LA2050 Grants Challenge, to inspire action and move the needle on the goals and metrics. Through the grants challenge, 1100+ creative and innovative proposals were submitted to build a better LA. With the help of hundreds of thousands of individuals who voted on their favorite proposals, LA2050 granted more than $5M to almost [50 organizations](https://la2050.org/grantees) shaping a brighter future for Los Angeles.
+In 2013, we launched our first signature program, the My LA2050 Grants Challenge, to inspire action and move the needle on the goals and metrics. Through the grants challenge, 1300+ creative and innovative proposals were submitted to build a better LA. With the help of hundreds of thousands of individuals who voted on their favorite proposals, LA2050 granted more than $6M to more than [60 organizations](https://archive.la2050.org/search/?keywords=winner) shaping a brighter future for Los Angeles.
 
 And now we want your help to continue this work!
 
 ## About the My LA2050 Grants Challenge
 
-This is an open call for ideas to make Los Angeles the best place to learn, create, play, connect, and live. A total of $1M will be awarded among 10 organizations—two per goal category—to implement their ideas to turn inspiration into impact. Each organization will receive a total of $100,000 over one year to support its efforts.
+This is an open call for ideas to make Los Angeles the best place to learn, create, play, connect, and live. A total of $1M will be awarded among 25 organizations—five per goal category—to implement their ideas to turn inspiration into impact. Each organization will receive an award of between $10,000 to $100,000 to support its efforts.
 
-The proposals should aim to engage Angelenos to make a specific, tangible impact on one of the [LA2050 goals and metrics](/about/#goals) by 2020.
+The proposals should aim to engage Angelenos to make a specific, tangible impact on one of the [LA2050 goals and metrics](/about/#goals) over the next year.
 
-LA2050 will commit to a one-year partnership, leveraging its resources, assets, and networks to help the projects succeed. Together, the winning organizations, LA2050, and Angelenos will create progress for the region that will change the course of our future.
+LA2050 will also commit to a one-year partnership, leveraging its resources, assets, and networks to help the projects succeed. Together, the winning organizations, LA2050, and Angelenos will create progress for the region that will change the course of our future.
 
 ## LA2050 Partnership
 
-We want to work together! To partner, we plan to:
+We want to work together! For winning proposals, LA2050 will offer the following partnership opportunities:
 
 * Leverage the LA2050 community to support and participate in the project.
 * Offer communications assistance to build awareness and thought leadership, including authoring articles, op-eds, and blog posts.
@@ -75,7 +76,7 @@ With the support of 30,000 Angelenos we’ve outlined an aspirational vision cen
 
 Our region will offer opportunities for lifelong learning, allowing all residents to contribute their skills, talents, and abilities to society.
 
-By the year 2050, all Los Angeles students will have access to early education programs, every high school student will graduate and be college and career ready, and all parents will be engaged and empowered to direct their children’s learning. LA will capitalize on its concentration of higher education facilities to foster new businesses, advance research, and spur innovation. 
+By the year 2050, all Los Angeles students will have access to early education programs, every high school student will graduate college and career ready, and all parents will be engaged and empowered to direct their children’s learning. LA will capitalize on its concentration of higher education facilities to foster new businesses, advance research, and spur innovation. 
 
 </div>
 
@@ -83,16 +84,19 @@ By the year 2050, all Los Angeles students will have access to early education p
 
 #### Metrics
 
-* College completion
+* High school graduation rates
 * College matriculation rates
-* District-wide graduation rates
-* Proficiency in English & Language Arts and Math
-* Early education
-* Student education pipeline
-* Students' perceived sense of safety at and on the way to school
+* Community college completion
+* College graduates
+* Proficiency in English & Language Arts 
+* Profieciency in Science, Technology, Engineering, & Math (STEM)
+* Early education enrollment
+* Opportunity youth
 * Suspension and expulsion rates
-* Truancy rates in elementary and middle schools
-* Youth unemployment and underemployment
+* K-8 chronic absenteeism
+* Opportunity youth ("Disengaged youth" 16-24 not working or in school)
+* Arts education
+* Enrollment in afterschool programs
 
 </div>
 
@@ -118,20 +122,21 @@ By the year 2050, Los Angeles will continue to play host to the largest concentr
 
 #### Metrics
 
-* Arts establishments
-* Manufacturing activity
+* Arts establishments, installations, and exhibitions
 * Employment in the creative industries
-* Federal research grant funding
-* Gini coefficient
+* Employment in the tech industries
+* Manufacturing activity
+* Access to banks and financial institutions
+* Economic opportunities for the formerly incarcerated
+* Income inequality
 * Jobs per capita
-* Measures of cultural and global economic influence ("soft power")
+* Unemployment rate
 * Minority- and women-owned firms
-* High growth startups
-* Patents per capita
-* Percentage of graduates from local higher education institutions who remain in LA County five years after graduating
-* Recruiting and retention rates for local higher education institutions
-* Unemployment (and opportunities) for the formerly incarcerated
+* High-growth startups
+* Federal research grant funding
+* Patents
 * Venture capital investment
+* Global cultural and economic influence ("soft power")
 
 </div>
 
@@ -149,7 +154,7 @@ By the year 2050, Los Angeles will continue to play host to the largest concentr
 
 Our region will be a place where people of all ages have easy access to clean, safe, and sustainable venues to enjoy the natural environment, arts and cultural resources, and local beaches, waterways, and open space.
 
-By the year 2050, people of all ages will enjoy safe homes, safe neighborhoods, and safe places to play. Every neighborhood will provide its residents with vibrant park space, every child will have access to afterschool enrichment programs, and residents will love their neighborhoods.
+By the year 2050, people of all ages will enjoy safe homes, safe neighborhoods, and safe places to play. Every neighborhood will provide its residents with vibrant park space and residents will love their neighborhoods.
 
 </div>
 
@@ -158,13 +163,19 @@ By the year 2050, people of all ages will enjoy safe homes, safe neighborhoods, 
 #### Metrics
 
 * Access to open space and park facilities
-* Attendance at major league sporting events
-* Number (and quality) of informal spaces for play
-* Number of children enrolled in afterschool programs
-* Number of parks with intergenerational play opportunities
-* Number of residents with easy access to a "vibrant" park
-* Per capita crime rates
-* Perceived safety
+* Parks with intergenerational play opportunities
+* Easy access to a safe park
+* Walking and biking
+* Open streets gatherings
+* Perceived neighborhood safety
+* Students' sense of safety at and on the way to school
+* Youth sports participation
+* Prevalance of trauma and adverse childhood experiences
+* Gun-violence victims
+* Crime rates
+* Obesity
+
+
 
 </div>
 
@@ -180,7 +191,7 @@ By the year 2050, people of all ages will enjoy safe homes, safe neighborhoods, 
 
 <h3>Connect</h3>
 
-Our region will be a place where every resident has the opportunity to engage and interact with other Angelenos and are empowered to contribute meaningfully in civic processes.
+Our region will be a place where every resident has the opportunity to engage and interact with other Angelenos and is empowered to contribute meaningfully in civic processes.
 
 By the year 2050, Los Angeles will be the most civically engaged region in the U.S., with multiple online and offline platforms for residents to voice their opinions and influence elected officials, decision-makers, and local government. Our region’s voting rates and volunteerism will lead the nation, and an expanded network of transportation options will facilitate the easy flow of people and ideas.
 
@@ -190,19 +201,20 @@ By the year 2050, Los Angeles will be the most civically engaged region in the U
 
 #### Metrics
 
-* Access to free wifi
+* Internet access
 * Social & emotional support
-* Cultural events
-* Public/open streets gatherings
+* Public arts and cultural events
 * Government responsiveness to residents' needs
 * Travel time to work
-* Public transit riders
-* Participation in neighborhood councils
-* Rates of volunteerism
+* Public transit ridership
+* Neighborhood council participation
+* Volunteerism
 * Residential segregation
-* Total number of local social media friends and connections
-* Transit-accessible housing and employment (the share of housing units and percentage of jobs that are located within a half-mile of transit)
+* Transit-accessible housing and employment 
 * Voting rates
+* Disability access and inclusion
+* LGBTQ+ equity and inclusion
+* Immigrant integration
 
 </div>
 
@@ -218,9 +230,9 @@ By the year 2050, Los Angeles will be the most civically engaged region in the U
 
 <h3>Live</h3>
 
-Our region’s residents will have the economic means and cultural capital to lead active, healthy lives, and everyone benefits from a sustainable environment.
+Our region’s residents will have the economic means and cultural capital to lead active, healthy lives, and enjoy the benefits of a sustainable environment.
 
-By the year 2050, Los Angeles will have the nation’s lowest obesity rates and every neighborhood will have access to healthy, affordable food. Every family will be able to afford quality health care and housing. And no families will face environmental health hazards because of where they live or how much money they make.
+By the year 2050, Los Angeles will have the nation’s lowest poverty rate and every neighborhood will have access to healthy, affordable food. Every family will be able to afford quality health care and housing. And no families will face environmental health hazards because of where they live or how much money they make.
 
 </div>
 
@@ -229,20 +241,20 @@ By the year 2050, Los Angeles will have the nation’s lowest obesity rates and 
 #### Metrics
 
 * Access to healthy food
-* Housing affordability
-* Waterways
-* Exposure to air toxins
+* Food insecurity
 * Healthcare access
-* Self-sufficiency
-* Obesity
-* Local water
-* Resilient communities
-* Residents receiving coordinated healthcare services
-* Tree canopy cover
-* Prevalence of adverse childhood experiences
+* Access to mental health services
 * Homelessness
-* Mental illness
-* Walk/bike/transit score
+* Housing access and affordability
+* Water pollution
+* Local water
+* Water-use efficiency
+* Air quality
+* Renewable energy use
+* Tree canopy cover
+* Poverty rate
+* Resilient communities
+* Older adult well-being
 
 </div>
 
