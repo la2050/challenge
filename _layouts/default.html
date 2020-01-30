@@ -246,14 +246,51 @@
     {{ content }}
     {% if page.footer_image %}
     <figure class="standard-figure has-caption">
-      <img src="/assets/images/home/384-wide/lamas.jpg" srcset="/assets/images/home/384-wide/lamas.jpg 384w, /assets/images/home/512-wide/lamas.jpg 512w, /assets/images/home/768-wide/lamas.jpg 768w, /assets/images/home/1024-wide/lamas.jpg 1024w, /assets/images/home/1536-wide/lamas.jpg 1536w, /assets/images/home/2048-wide/lamas.jpg 2048w" sizes="100vw" alt="Photo of a group of people talking and sharing a meal, outdoors in a neighborhood" />
+      <img id="footer-photo" src="/assets/images/home/384-wide/lamas.jpg" srcset="/assets/images/home/384-wide/lamas.jpg 384w, /assets/images/home/512-wide/lamas.jpg 512w, /assets/images/home/768-wide/lamas.jpg 768w, /assets/images/home/1024-wide/lamas.jpg 1024w, /assets/images/home/1536-wide/lamas.jpg 1536w, /assets/images/home/2048-wide/lamas.jpg 2048w" sizes="100vw" alt="Photo of a group of people talking and sharing a meal, outdoors in a neighborhood" />
       <figcaption class="caption">
         <span>Join us in working toward a better Los Angeles.</span>
-        <small>Photo by <a href="https://archive.la2050.org/evolve-la-project-of-la-más/">LA Más</a></small>
+        <small id="footer-photo-credit">Photo by <a href="https://archive.la2050.org/evolve-la-project-of-la-más/">LA Más</a></small>
       </figcaption>
     </figure>
     {% endif %}
   </main>
+
+  {% if page.footer_image %}
+  <script src="https://archive.la2050.org/api/featured.js"></script>
+
+  <script>
+
+  (function() {
+    // https://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range#1527820
+    // Returns a random integer between min (inclusive) and max (inclusive)
+    function getRandomInt(min, max) {
+      return Math.floor(Math.random() * (max - min + 1)) + min;
+    }
+
+    var randomNumber = getRandomInt(0, featuredOrganizations.length - 1);
+
+    var featuredOrganization = featuredOrganizations[randomNumber]
+
+    console.log(featuredOrganization)
+
+    document.getElementById("footer-photo").alt = featuredOrganization.title;
+    document.getElementById("footer-photo").removeAttribute("srcset");
+    document.getElementById("footer-photo").removeAttribute("sizes");
+    document.getElementById("footer-photo").src = featuredOrganization.image;
+
+    var photoCredit = document.getElementById("footer-photo-credit");
+    if (photoCredit) {
+      var link = photoCredit.querySelector("a")
+      if (link) {
+        link.setAttribute("href", "https://archive.la2050.org" + featuredOrganization.url);
+        link.textContent = featuredOrganization.title;
+      }
+    }
+  })();
+
+  </script>
+  {% endif %}
+
   <footer>
     {% include logotype.html %}
     {% include navigation.html %}
