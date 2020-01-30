@@ -85,13 +85,12 @@ By the year 2050, all Los Angeles students will have access to early education p
 #### Metrics
 
 * High school graduation rates
-* College matriculation rates
+* College matriculation
 * Community college completion
 * College graduates
-* Proficiency in English & Language Arts 
-* Profieciency in Science, Technology, Engineering, & Math (STEM)
+* Proficiency in English Language Arts 
+* Proficiency in Science, Technology, Engineering, & Math (STEM)
 * Early education enrollment
-* Opportunity youth
 * Suspension and expulsion rates
 * K-8 chronic absenteeism
 * Opportunity youth ("Disengaged youth" 16-24 not working or in school)

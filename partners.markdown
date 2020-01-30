@@ -21,11 +21,11 @@ The My LA2050 Grants Challenge is possible because of the support of many partne
 [![The Annenberg Foundation](/assets/images/logos/annenberg-foundation.png)](https://annenberg.org)
 : The Annenberg Foundation, providing $50,000 in grant funds to support efforts in diversity, equity, and inclusion
 
-[![Second Home](/assets/images/logos/second-home.png)](https://secondhome.io)
+[![Second Home](/assets/images/logos/second-home.png)](https://secondhome.io/location/hollywood/?utm_medium=partner_email&utm_source=referral&utm_campaign=la2050)
 : Second Home Hollywood, offering $60,000 in donated space for co-working, meeting, and events for select winning organizations
 
 [![Social Venture Partners Los Angeles](/assets/images/logos/social-venture-partners.jpg)](https://www.svpla.org/)
-: We are proud to have Social Venture Partners Los Angeles (SVP) to serve as our external evaluation partner. SVP is a membership organization that connects community leaders to nonprofits to tackle Los Angeles' toughest challenges. All proposals are reviewed, scored, and evaluated by members of SVP.
+: We are proud to have Social Venture Partners Los Angeles (SVP) as our external evaluation partner. SVP is a membership organization that connects community leaders to nonprofits to tackle Los Angeles' toughest challenges. All proposals are reviewed, scored, and evaluated by members of SVP.
 
 ### Outreach Partners
 
@@ -39,6 +39,6 @@ We are grateful to the following organizations who helped spread the word about 
 
 * [Pledgeling](https://www.pledgeling.com/)
 
-* [Second Home](https://secondhome.io)
+* [Second Home](https://secondhome.io/location/hollywood/?utm_medium=partner_email&utm_source=referral&utm_campaign=la2050)
 
 * [Social Venture Partners](https://svpla.org/)
