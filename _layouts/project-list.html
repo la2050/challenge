@@ -303,21 +303,39 @@ main > h1:first-child::before {
 
 {% if page.finalists and site.phase < site.FINALISTS_ANNOUNCED %}
 
-<div class="introduction" markdown="1">
-The finalists will appear here on <strong>{{ site.FINALISTS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
-</div>
+{% if site.redirect_finalists_url %}
+  <script>
+    window.location.href = "{{ site.redirect_finalists_url }}";
+  </script>
+{% else %}
+  <div class="introduction" markdown="1">
+  The finalists will appear here on <strong>{{ site.FINALISTS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
+  </div>
+{% endif %}
 
 {% elsif page.winners and site.phase < site.WINNERS_ANNOUNCED %}
 
-<div class="introduction" markdown="1">
-The winners will appear here on <strong>{{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
-</div>
+{% if site.redirect_winners_url %}
+  <script>
+    window.location.href = "{{ site.redirect_winners_url }}";
+  </script>
+{% else %}
+  <div class="introduction" markdown="1">
+  The winners will appear here on <strong>{{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
+  </div>
+{% endif %}
 
 {% elsif do_show_entries == false %}
 
-<div class="introduction" markdown="1">
-The entries will appear here by <strong>{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%A, %B %-d, %Y" }}</strong>.
-</div>
+{% if site.redirect_entries_url %}
+  <script>
+    window.location.href = "{{ site.redirect_entries_url }}";
+  </script>
+{% else %}
+  <div class="introduction" markdown="1">
+  The entries will appear here by <strong>{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%A, %B %-d, %Y" }}</strong>.
+  </div>
+{% endif %}
 
 {% else %}
 

@@ -118,61 +118,88 @@
   {% if page.url == "/entries/" %}
     {% assign redirect_to_random_entry_page = true %}
   {% endif %}
-
+  
   {% if redirect_to_random_winners_page %}
-  <script>
-  (function() {
-    var links, random;
+    {% if site.redirect_winners_url and site.phase < site.WINNERS_ANNOUNCED %}
+      <script>
+        window.location.href = "{{ site.redirect_winners_url }}";
+      </script>
+    {% else %}
+      <script>
+      (function() {
+        var links, random;
 
-    var categories = [
-      'learn',
-      'create',
-      'play',
-      'connect',
-      'live'
-    ];
+        var categories = [
+          'learn',
+          'create',
+          'play',
+          'connect',
+          'live'
+        ];
 
-    random = Math.floor(Math.random() * categories.length) + 0;
+        random = Math.floor(Math.random() * categories.length) + 0;
 
-    window.location.href = '/' + categories[random] + '/winners/';
-  })();
-  </script>
+        window.location.href = '/' + categories[random] + '/winners/';
+      })();
+      </script>
+    {% endif %}
   {% elsif redirect_to_random_finalist_page %}
-  <script>
-  (function() {
-    var links, random;
+    {% if site.redirect_finalists_url and site.phase < site.FINALISTS_ANNOUNCED %}
+      <script>
+        window.location.href = "{{ site.redirect_finalists_url }}";
+      </script>
+    {% else %}
+      <script>
+      (function() {
+        var links, random;
 
-    var categories = [
-      'learn',
-      'create',
-      'play',
-      'connect',
-      'live'
-    ];
+        var categories = [
+          'learn',
+          'create',
+          'play',
+          'connect',
+          'live'
+        ];
 
-    random = Math.floor(Math.random() * categories.length) + 0;
+        random = Math.floor(Math.random() * categories.length) + 0;
 
-    window.location.href = '/' + categories[random] + '/finalists/';
-  })();
-  </script>
+        window.location.href = '/' + categories[random] + '/finalists/';
+      })();
+      </script>
+    {% endif %}
   {% elsif redirect_to_random_entry_page %}
-  <script>
-  (function() {
-    var links, random;
+    {% assign do_redirect_entries_url = false %}
+    {% if site.redirect_entries_url %}
+      {% if show_early_entries == false and site.phase < site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
+        {% assign do_redirect_entries_url = true %}
+      {% elsif site.phase < site.ENTRIES_BEING_ACCEPTED %}
+        {% assign do_redirect_entries_url = true %}
+      {% endif %}
+    {% endif %}
+    
+    {% if do_redirect_entries_url %}
+      <script>
+        window.location.href = "{{ site.redirect_entries_url }}";
+      </script>
+    {% else %}
+      <script>
+      (function() {
+        var links, random;
 
-    var categories = [
-      'learn',
-      'create',
-      'play',
-      'connect',
-      'live'
-    ];
+        var categories = [
+          'learn',
+          'create',
+          'play',
+          'connect',
+          'live'
+        ];
 
-    random = Math.floor(Math.random() * categories.length) + 0;
+        random = Math.floor(Math.random() * categories.length) + 0;
 
-    window.location.href = '/' + categories[random] + '/';
-  })();
-  </script>
+        window.location.href = '/' + categories[random] + '/';
+      })();
+      </script>
+    {% endif %}
   {% endif %}
 
   {% comment %}Open Graph: http://ogp.me{% endcomment %}
