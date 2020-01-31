@@ -13,7 +13,7 @@ footer_image: true
 
 <div class="introduction" markdown="1">
 
-<p class="max-width: 23em">Starting <strong class="avoid-break">{{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong> <small class="avoid-break">({{ site.ENTRIES_BEING_ACCEPTED_TIME }})</small>, <span class="avoid-break">you can submit your proposal on this website.</span></p>
+<p style="max-width: 23em">Starting <strong class="avoid-break">{{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong> <small class="avoid-break">({{ site.ENTRIES_BEING_ACCEPTED_TIME }})</small>, <span class="avoid-break">you can submit your proposal on this website.</span></p>
 
 {% if site.submission_url %}
 
@@ -166,7 +166,7 @@ The winners have been announced!
 * Review the [scorecard](https://drive.google.com/open?id=1w1HC2gyusc7KvXIEaNeaZ7rRD_M6lno-) to see how your proposal will be evaluated.
 
 {% comment %}
-* Ready to submit? Check out the [entry form](https://challengela2050.smapply.io/).
+* Ready to submit? Check out the [entry form]({{ site.submission_url }}).
 * Check out all previous [My LA2050 Grants Challenge reports](https://la2050.org/reports) delineating best practices for getting out the vote, as well as trends and reported impact.
 * How have Angelenos activated in the past? Check out [these videos](https://www.facebook.com/LA2050/videos/vl.1855009431227001/1798255590244812/?type=1) on movements shaping LA. 
 {% endcomment %}
@@ -218,7 +218,7 @@ View the [full timeline](/timeline).
 _What are the rules for submitting a proposal to the My LA2050 Grants Challenge?_
 
 * The My LA2050 Grants Challenge is open for submissions from {{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.ENTRIES_BEING_ACCEPTED_TIME }}) through {{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.ENTRY_PERIOD_ENDED_TIME }}).
-* In order to submit a proposal, [log in and complete the application form.](https://challengela2050.smapply.io/).
+* In order to submit a proposal, [log in and complete the application form.]({{ site.submission_url }}).
 * US-based non-profit, for-profit, social enterprises, and government agencies with projects serving Los Angeles County are eligible to apply.
 * Winning projects must be completed, and the grant award must be expended, within 12 months of receipt of funds.
 * New projects, as well as existing and ongoing projects are eligible for submission.
