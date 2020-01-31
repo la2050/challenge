@@ -44,6 +44,8 @@ We are grateful to the following organizations who helped spread the word about 
 
 * [Pledgeling](https://www.pledgeling.com/)
 
+* [The Mayor's Fund for Los Angeles](https://mayorsfundla.org/)
+
 * [Second Home](https://secondhome.io/location/hollywood/?utm_medium=partner_email&utm_source=referral&utm_campaign=la2050)
 
 * [Social Venture Partners](https://svpla.org/)
