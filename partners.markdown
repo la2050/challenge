@@ -21,10 +21,8 @@ The My LA2050 Grants Challenge is possible because of the support of many partne
 [![The Annenberg Foundation](/assets/images/partners/annenberg-foundation.png)](https://annenberg.org)
 : The Annenberg Foundation, providing $50,000 in grant funds to support efforts in diversity, equity, and inclusion
 
-{% comment %}
 [![Snap Foundation](/assets/images/partners/snap-foundation.png)](https://snapfoundation.org)
 : Snap Foundation’s mission is to develop pathways to the creative economy for underrepresented youth in Los Angeles.
-{% endcomment %}
 
 [![Second Home](/assets/images/partners/second-home.png)](https://secondhome.io/location/hollywood/?utm_medium=partner_email&utm_source=referral&utm_campaign=la2050)
 : Second Home Hollywood, offering $60,000 in donated space for co-working, meeting, and events for select winning organizations
