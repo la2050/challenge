@@ -13,7 +13,7 @@ footer_image: true
 
 <div class="introduction" markdown="1">
 
-<p style="max-width: 23em">Starting <strong class="avoid-break">{{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong> <small class="avoid-break">({{ site.ENTRIES_BEING_ACCEPTED_TIME }})</small>, <span class="avoid-break">you can submit your proposal on this website.</span></p>
+<p>Starting <strong class="avoid-break">{{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong> <small class="avoid-break">({{ site.ENTRIES_BEING_ACCEPTED_TIME }})</small>, <span class="avoid-break">you can submit your proposal on this website.</span></p>
 
 {% if site.submission_url %}
 
@@ -241,7 +241,7 @@ If you have any questions about the information on this page, [please review our
 
 <div class="introduction" markdown="1">
 
-<p class="max-width: 23em">Starting <strong class="avoid-break">{{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong> <small class="avoid-break">({{ site.ENTRIES_BEING_ACCEPTED_TIME }})</small>, <span class="avoid-break">you can submit your proposal on this website.</span></p>
+<p>Starting <strong class="avoid-break">{{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong> <small class="avoid-break">({{ site.ENTRIES_BEING_ACCEPTED_TIME }})</small>, <span class="avoid-break">you can submit your proposal on this website.</span></p>
 
 {% if site.submission_url %}
 
