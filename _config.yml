@@ -52,11 +52,11 @@ VOTING_PERIOD_ENDED_TIME:          5pm Pacific Time
 
 # New challenge announced: 
 # January 27
-phase: 1
+# phase: 1
 
 # Entries being accepted: 
 # February 3
-# phase: 2
+phase: 2
 
 # Early bird deadline:
 # March 1 ?
