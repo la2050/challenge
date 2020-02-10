@@ -31,7 +31,7 @@ LA2050 will also commit to a one-year partnership with the winners—leveraging 
 ## Does my organization qualify to participate in the My LA2050 Grants Challenge?
 </summary>
 
-Are you a registered nonprofit, for profit, or governmental organization? Does your work touch on ANY of [these metrics](/about/#goals)? Are you serving Los Angeles County? THEN YES, YOU QUALIFY! 
+Are you a registered nonprofit, for-profit, fiscally-sponsored, or governmental organization serving Los Angeles County? Does your work touch on ANY of [these metrics](/about/#goals)? THEN YES, YOU QUALIFY! 
 
 </details>
 
