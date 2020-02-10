@@ -87,7 +87,7 @@ We’re open! But here are some ideas about what we’re looking for:
 * Efforts that not only produce positive results, but are also focused on increasing local engagement and civic participation
 * A desire to test new strategies
 
-For inspiration, you can check out submissions from previous winners at the [My LA2050 Ideas Archive](https://archive.la2050.org/search/?keywords=winner).
+Both new and existing projects are eligible for submission. All winning projects must be completed, and the grant award must be expended, within 12 months of receipt of funds. For more inspiration, check out submissions from previous winners at the [My LA2050 Ideas Archive](https://archive.la2050.org/search/?keywords=winner).
 
 </details>
 
