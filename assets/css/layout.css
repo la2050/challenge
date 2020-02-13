@@ -219,6 +219,12 @@
 
   @supports (display: grid) {
     @media (min-width: 70em) and (max-width: 82.5em) { /* @wide-enough-for-header-grid */
+      header ul.has-7-items,
+      footer ul.has-7-items {
+        max-width: 25em;
+      }
+    }
+    @media (min-width: 70em) and (max-width: 82.5em) { /* @wide-enough-for-header-grid */
       header ul.has-8-items,
       footer ul.has-8-items {
         max-width: 25em;
