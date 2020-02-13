@@ -99,6 +99,49 @@ function getRandomInt(min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
+function getOrganizationType(type) {
+  console.log("getOrganizationType: " + type);
+  const organizationTypesMap = {
+    "for profit"
+    :"For profit business",
+
+    "for-profit organization"
+    :"For profit business",
+
+    "forprofit"
+    :"For profit business",
+
+    "government"
+    :"Government",
+
+    "individual"
+    :"Individual",
+
+    "non profit"
+    :"Nonprofit",
+
+    "non-profit"
+    :"Nonprofit",
+
+    "non-profit organization"
+    :"Nonprofit",
+
+    "other"
+    :"Other",
+
+    "social enterprise or b-corps"
+    :"Social enterprise or B-corps"
+  }
+
+  if (organizationTypesMap[type.toLowerCase()]) {
+    console.log("organizationTypesMap[type.toLowerCase()]: " + organizationTypesMap[type.toLowerCase()]);
+    return organizationTypesMap[type.toLowerCase()];
+  } else {
+    console.log("Unexpected organization type: " + type);
+    return type;
+  }
+}
+
 function mapAllColumnNames(data) {
   const columnNamesMap = {
     "Project Title"
@@ -325,6 +368,10 @@ function createMarkdownFile(data) {
   data.title = data.title.trim();
   data.organization_name = data.organization_name.trim().replace(/^åÊ/g, "").replace(/åÊ$/g, "");
 
+  data.organization_description = getOrganizationType(data.organization_description);
+
+  console.log("data.organization_description: " + data.organization_description);
+
   console.log('createMarkdownFile for ' + data.organization_name);
 
   // Page title
@@ -373,7 +420,7 @@ function createMarkdownFile(data) {
 
   metricsOtherColumns.forEach(name => {
     delete data[name];
-  })
+  });
 
   // let metrics_other = getArrayFromString(data[`4. Please select any other LA2050 goal categories your proposal will impact (v)`])
   //             .concat(getArrayFromString(data[`4. Please select any other LA2050 goal categories your proposal will impact (w)`]))
