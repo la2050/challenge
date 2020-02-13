@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '6102733805'
 title: NAVEL
 project_description: >-

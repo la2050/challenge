@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '3457936998'
 title: Flavors from Afar
 project_description: >-

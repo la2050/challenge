@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '788166680'
 title: Community STEPS
 project_description: >-

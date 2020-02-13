@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '5263421953'
 title: JOY FACTORY
 project_description: |-

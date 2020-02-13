@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '235304658'
 title: A Permanent Home for WCCW!
 project_description: >-

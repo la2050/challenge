@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '3462803702'
 title: Resiliency IN A BOX
 project_description: >-

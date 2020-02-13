@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '2343476170'
 title: 'Los Angeles Blockchain Lab, Education Center'
 project_description: >-

@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '3371609579'
 title: Adventure Play in the Parks & Play in our Everyday!
 project_description: >-

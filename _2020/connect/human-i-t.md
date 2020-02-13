@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '6267987182'
 title: Transforming E-Waste into Opportunity
 project_description: >-

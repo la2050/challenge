@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '4938841963'
 title: Renovate and Expand Outdoor Playground
 project_description: >-

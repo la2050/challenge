@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '553548550'
 title: Shared Harvest
 project_description: >-

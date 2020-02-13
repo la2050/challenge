@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '4232335349'
 title: 'Science, Technology, Education for the Next Generation'
 project_description: >-

@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '7136676533'
 title: LA 101 Guide
 project_description: >-

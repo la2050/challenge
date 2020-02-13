@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '359772778'
 title: Cal State LA's Civic & Social Innovation Group (CaSIG)
 project_description: >-

@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '9854077007'
 title: A Personal Invitation Project
 project_description: >-

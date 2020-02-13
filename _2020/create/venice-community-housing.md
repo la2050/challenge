@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '9856862494'
 title: Bring Art Back to Venice
 project_description: >-

@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '2881527409'
 title: Community Air Quality Monitoring
 project_description: >-

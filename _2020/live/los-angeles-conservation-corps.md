@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '5962365920'
 title: Food waste prevention program
 project_description: >-

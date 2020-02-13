@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '259958882'
 title: 3-D SPACE Stereoscopic Photography Workshop
 project_description: >-

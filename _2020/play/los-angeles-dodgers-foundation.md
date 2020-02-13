@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '4738345311'
 title: 'BIGGER THAN BASEBALL: Creating Major League Communities'
 project_description: >-

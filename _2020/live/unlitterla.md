@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '7887502234'
 title: UnlitterLA
 project_description: >-

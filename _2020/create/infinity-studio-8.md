@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '9156646738'
 title: Infinity Incubator
 project_description: >-

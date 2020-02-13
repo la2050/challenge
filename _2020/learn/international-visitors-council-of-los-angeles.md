@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '5948900161'
 title: IVCLA Go Global Classroom
 project_description: >-

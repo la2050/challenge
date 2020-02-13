@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '8106436422'
 title: The Los Angeles Regional Census Table
 project_description: >-

@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '1043077033'
 title: Free WiFi & Internet of Things Connectivity
 project_description: >-

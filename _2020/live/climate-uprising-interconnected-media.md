@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '211787470'
 title: Climate Uprising
 project_description: >-

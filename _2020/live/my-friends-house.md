@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '9194867800'
 title: Healthy Food and Healthy Cooking in South Los Angeles
 project_description: >-

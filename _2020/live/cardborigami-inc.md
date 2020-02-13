@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '1575645112'
 title: >-
   Pop-Up Sites for Overnight Temporary Shelter: Serving our homeless neighbors

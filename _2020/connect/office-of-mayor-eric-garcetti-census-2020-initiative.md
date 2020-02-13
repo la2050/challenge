@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '8335430885'
 title: Census 2020 Goodwill Ambassadors Program
 project_description: >-

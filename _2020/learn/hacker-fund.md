@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '4355004105'
 title: Compton Innovation Center
 project_description: >-

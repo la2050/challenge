@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '1763639149'
 title: Creative Play After School Programming
 project_description: >-

@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '3272777334'
 title: >-
   Students Take the Lead: Sparking Peer to Peer Voter Registration in High

@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '3611796446'
 title: LARB/USC Publishing Workshop
 project_description: >-

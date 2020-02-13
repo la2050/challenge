@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '8339703794'
 title: Calles Verdes
 project_description: >-

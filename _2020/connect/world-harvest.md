@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '8619125892'
 title: World Harvest - feeding families
 project_description: |-

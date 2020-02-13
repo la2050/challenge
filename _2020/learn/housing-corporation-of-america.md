@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '8687428777'
 title: Rocketeer Club
 project_description: >-

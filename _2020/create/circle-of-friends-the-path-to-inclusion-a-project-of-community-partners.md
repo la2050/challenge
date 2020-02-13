@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '2268248015'
 title: L'Atelier LA -Experience Fashionclusion
 project_description: >-

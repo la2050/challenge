@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '517826824'
 title: 'On Location: The Los Angeles Video Project'
 project_description: >-

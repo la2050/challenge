@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '8080525195'
 title: MRS HR Jobs Portal
 project_description: >-
