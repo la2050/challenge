@@ -722,6 +722,7 @@
     line-height: 1.25;
   }
   @media (min-width: 70em) {
+    .proposals.finalists .text .category,
     .proposals.finalists .organization {
       font-size: 1.5vmax;
       line-height: 1.25;
