@@ -97,18 +97,18 @@ The winners have been announced!
 </div>
 
 
-### Help us choose our winners!
+### Your votes determine our winners!
 
 **25 finalists** will be selected by Social Venture Partners Los Angeles (our evaluation partner), and the <span class="avoid-break">final award levels will be determined through public vote.</span>
 
-All 25 finalists will be awarded a grant. In each goal category:
+All 25 finalists will be awarded a grant. Voting will determine the size of the grants finalists receive, with the top voted in each category winning the first place grant. In each goal category:
 * First place winners will receive $100,000
 * Second place winners will receive $50,000
 * Third place winners will receive $25,000
 * Fourth place winners will receive $15,000
 * Fifth place winners will receive $10,000
 
-All 25 finalists that participate in the voting stage will receive a grant, with five grants distributed at each dollar amount (e.g., there will be five $100,000 winners, five $50,000 winners, and so on).
+All organizations that participate in the voting stage will receive a grant, with five grants distributed at each dollar amount (e.g., there will be five $100,000 winners, five $50,000 winners, and so on).
 
 The winners will represent a diverse set of issues, strategies, and tactics. Winners will be selected using the following criteria:
 

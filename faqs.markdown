@@ -28,6 +28,18 @@ LA2050 will also commit to a one-year partnership with the winners—leveraging 
 <details class="faq" markdown="1">
 
 <summary markdown="1">
+## Does my organization qualify to participate in the My LA2050 Grants Challenge?
+</summary>
+
+Are you a registered nonprofit, for-profit, fiscally-sponsored, or governmental organization serving Los Angeles County? Does your work touch on ANY of [these metrics](/about/#goals)? THEN YES, YOU QUALIFY! 
+
+</details>
+
+
+
+<details class="faq" markdown="1">
+
+<summary markdown="1">
 ## What's new this year?
 </summary>
 
@@ -75,7 +87,19 @@ We’re open! But here are some ideas about what we’re looking for:
 * Efforts that not only produce positive results, but are also focused on increasing local engagement and civic participation
 * A desire to test new strategies
 
-For inspiration, you can check out submissions from previous winners at the [My LA2050 Ideas Archive](https://archive.la2050.org/search/?keywords=winner).
+Both new and existing projects are eligible for submission. All winning projects must be completed, and the grant award must be expended, within 12 months of receipt of funds. For more inspiration, check out submissions from previous winners at the [My LA2050 Ideas Archive](https://archive.la2050.org/search/?keywords=winner).
+
+</details>
+
+
+
+<details class="faq" markdown="1">
+
+<summary markdown="1">
+## We are a small organization with a small social media following. How can we compete with larger organizations in voting?
+</summary>
+
+In general, we've seen both small and large organizations do well in the voting stage. It's less about the size of your list, and more about knowing how to correctly engage the audience you do have. If you do get to the voting stage, we provide EVERY finalist with a GOTV guide full of social media copy, graphics, and ideas for engaging your network. You don't need a large social media following to win votes. Ultimately, we've found that social media is only a small contributor to the outcome of voting. 
 
 </details>
 
