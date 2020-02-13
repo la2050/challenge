@@ -280,7 +280,7 @@ stylesheets:
 
 {% endif %}
 
-{% if page.application_id %}
+{% if page.application_id and page.year == site.year %}
 {% unless page.is_test_data %}{% comment %}This if statement is temporary… only to avoid setting up comments for test entries{% endcomment %}
 
 {% if site.phase == site.VOTES_BEING_ACCEPTED %}
