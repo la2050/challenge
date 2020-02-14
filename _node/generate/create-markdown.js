@@ -199,7 +199,7 @@ function mapAllColumnNames(data) {
     :"Please describe the mission of your organization.",
 
     "2. In one to three sentences, please succinctly describe the project or activities your organization would like support for:"
-    :"Please describe the project or activities your organization would like support for.",
+    :"project_description",
 
     "3. Please select the primary LA2050 goal your submission will impact:"
     :"Which LA2050 goal will your submission most impact?",
