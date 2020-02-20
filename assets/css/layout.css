@@ -131,7 +131,7 @@
       }
       .standard-layout > h1,
       .standard-layout > h1 + p,
-      .standard-layout > .numbers,
+      .standard-layout .numbers,
       .standard-layout > .introduction,
       .standard-layout > h1 + .action,
       .standard-layout > .goals,
@@ -145,7 +145,7 @@
         margin-top: 4.5em; /* usual margin - grid row gap = 6em - 1.5em = 4.5em */
         margin-bottom: 4.5em;
       }
-      .standard-layout > .numbers + .standard-section {
+      .standard-layout .numbers + .standard-section {
         margin-top: 1.5em;
       }
 
