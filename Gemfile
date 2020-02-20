@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-ruby "~> 2.6.2"
 
-# https://jekyllrb.com/news/2019/08/20/jekyll-4-0-0-released/
-gem "jekyll", "~> 4.0"
+# https://pages.github.com/versions/
+# ruby "2.5.3"
+gem "jekyll", "3.8.5"
