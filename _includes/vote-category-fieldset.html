@@ -18,8 +18,9 @@
 {% if is_finalist == true %}
 
 <li>
+  <label>
 
-  <a href="{{ project.url }}" target="_blank">
+  {% comment %}<a href="{{ project.url }}" target="_blank">{% endcomment %}
     {% capture image_filename %}{{ project.filename }}.jpg{% endcapture %}
     {% capture image_category %}{{ project.year }}/{{ project.category }}{% endcapture %}
     <span class="image">
@@ -53,9 +54,10 @@
       </div>
     </div>
     <span class="mask"></span>
+  {% comment %}
   </a>
+  {% endcomment %}
 
-  <label>
     <input type="radio" name="{{ category }}" value="{{ project.organization_name }}" />
 
     <span class="mask"></span>
