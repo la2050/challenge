@@ -12,6 +12,16 @@ https://challenge.la2050.org/
 * [Generating responsive images](#generating-responsive-images)
 * [Handy guides](#handy-guides)
 
+## Deployment status
+
+### staging-challenge.la2050.org
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1d2102d1-a835-49c8-8944-99458b7ba18b/deploy-status)](https://app.netlify.com/sites/staging-challenge-la2050/deploys)
+
+### challenge.la2050.org
+
+[github.com/la2050/archive/deployments](https://github.com/la2050/challenge/deployments)
+
 ## How to make changes
 
 The website is published with [GitHub Pages](https://pages.github.com) & [Netlify](https://www.netlify.com), and the files are generated with [Jekyll](http://jekyllrb.com).
