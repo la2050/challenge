@@ -20,7 +20,7 @@ https://challenge.la2050.org/
 
 ### challenge.la2050.org
 
-[github.com/la2050/archive/deployments](https://github.com/la2050/challenge/deployments)
+[github.com/la2050/challenge/deployments](https://github.com/la2050/challenge/deployments)
 
 ## How to make changes
 

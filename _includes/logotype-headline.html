@@ -1,0 +1,11 @@
+<h2>
+  {% if site.phase >= site.WINNERS_ANNOUNCED %}
+  <a href="/winners/">
+  {% elsif site.phase >= site.FINALISTS_ANNOUNCED %}
+  <a href="/finalists/">
+  {% else %}
+  <a href="/">
+  {% endif %}
+    {% include logotype.html %}
+  </a>
+</h2>
