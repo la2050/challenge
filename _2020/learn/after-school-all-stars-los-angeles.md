@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '8739557044'
 title: We Are Ready to Battle the HS Crisis
 project_description: >-

@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '4642779984'
 title: Green Together Collaborative - fighting climate change in Pacoima/Sun Valley
 project_description: >-

@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '9217843927'
 title: GoDigital! Digital Literacy Program
 project_description: >-

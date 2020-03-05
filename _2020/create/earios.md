@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '8711967679'
 title: Earios
 project_description: >-

@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '1730716684'
 title: 'The Heroic Journey: a School Curriculum to Prevent Bullying, Racism, Misogyny, and Homophobia through Early Emotional Education'
 project_description: >-

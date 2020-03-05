@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '2132049121'
 title: >-
   Inspiring Student Action to End Student Homelessness and Hunger in L.A.

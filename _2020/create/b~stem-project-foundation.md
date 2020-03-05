@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '2929529569'
 title: TEAM Collaborative
 project_description: >-

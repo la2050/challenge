@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '3614485814'
 title: LA Youth Civics in Action
 project_description: >-

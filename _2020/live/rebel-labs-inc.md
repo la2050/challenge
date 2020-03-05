@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '3516744136'
 title: >-
   #LAgrows: Building a Healthier Community Through Farm-to-Market-to-Table

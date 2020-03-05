@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '2656129923'
 title: Deedly - 8th Grade Curriculum
 project_description: >-

@@ -281,6 +281,14 @@
     }
   }
   @media (max-width: 70em) {
+    header ul.has-7-items,
+    footer ul.has-7-items {
+      max-width: 25em;
+      margin-left: auto !important;
+      margin-right: auto !important;
+    }
+  }
+  @media (max-width: 70em) {
     header ul.has-8-items,
     footer ul.has-8-items {
       max-width: 30em;

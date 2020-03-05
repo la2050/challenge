@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '2238752334'
 title: 'Vision 2020: A Plan to End Climate Change and Clean Southern California''s Air'
 project_description: >-

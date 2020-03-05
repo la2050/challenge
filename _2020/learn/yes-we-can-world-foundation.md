@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '6774962511'
 title: 'Yes We Can: Schools On Wheels'
 project_description: >-

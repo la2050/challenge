@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '6067926724'
 title: Novelly
 project_description: >-

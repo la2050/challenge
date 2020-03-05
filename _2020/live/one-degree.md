@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '3905455871'
 title: Empowering Angelenos to build a path out of poverty and thrive with One Degree
 project_description: >-

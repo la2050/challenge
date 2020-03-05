@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '4346064658'
 title: West Tenth - A Modern Main Street
 project_description: >-

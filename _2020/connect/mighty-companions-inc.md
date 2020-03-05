@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '1212399743'
 title: Making L.A. a Friendlier City
 project_description: >-

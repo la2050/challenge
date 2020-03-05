@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '985335523'
 title: 'Get Lit with Red Hen Press: Support LA Publishing'
 project_description: >-

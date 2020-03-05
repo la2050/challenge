@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '3342970055'
 title: City of Butterflies / Cuidad de Mariposas
 project_description: >-

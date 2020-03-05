@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '1507555477'
 title: >-
   Biotech Leaders Academy: Fostering a new generation of diverse biotech

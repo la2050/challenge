@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '2076741278'
 title: Team Rubicon Disaster Relief
 project_description: >-

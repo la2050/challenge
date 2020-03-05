@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '2616963597'
 title: Xavier's Place for Exceptional Children
 project_description: >-

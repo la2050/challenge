@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '7139155615'
 title: Count the Nation
 project_description: >-

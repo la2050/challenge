@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '4842573260'
 title: >-
   UCLA Depression Grand Challenge (UCLA DGC): Humanizing and Destigmatizing

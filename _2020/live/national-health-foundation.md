@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '8833460323'
 title: Youth Organizing for Better Health in Pico-Union
 project_description: >-

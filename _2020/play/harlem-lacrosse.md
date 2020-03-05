@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '4309899861'
 title: Harlem Lacrosse - Los Angeles
 project_description: >-

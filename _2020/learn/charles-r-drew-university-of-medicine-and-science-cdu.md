@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '7639564799'
 title: 'Science, Health, Football & Fun!'
 project_description: >-

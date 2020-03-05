@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '2725593509'
 title: YOU'RE GONNA WANNA EAT YOUR VEGGIES ROAD SHOW
 project_description: >-

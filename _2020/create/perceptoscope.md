@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '5405491769'
 title: 'Perceptoscope: Immersive Experiences for Public Spaces'
 project_description: >-

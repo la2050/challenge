@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '6064284584'
 title: Voter's Choice California - Los Angeles
 project_description: >-

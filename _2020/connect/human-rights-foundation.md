@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '5300848697'
 title: Art in Protest LA Residency
 project_description: >-

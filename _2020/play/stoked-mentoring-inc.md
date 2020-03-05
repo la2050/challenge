@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '595568860'
 title: STOKED Skate Club
 project_description: >-

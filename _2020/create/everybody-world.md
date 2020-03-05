@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '3684487524'
 title: CREATING CLOTHING FROM TRASH
 project_description: >-

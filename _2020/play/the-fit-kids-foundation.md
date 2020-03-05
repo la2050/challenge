@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '6048722610'
 title: Fit Kids LA
 project_description: >-

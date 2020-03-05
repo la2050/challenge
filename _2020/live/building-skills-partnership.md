@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '4590919037'
 title: Training LA's Low-wage Workers for Healthy Communities
 project_description: >-

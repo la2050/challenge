@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '7113770393'
 title: Skate-4-Education
 project_description: >-

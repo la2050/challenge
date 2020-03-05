@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '7011996197'
 title: Love Wall - Los Angeles
 project_description: >-

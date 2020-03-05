@@ -1,4 +1,5 @@
 ---
+is_test_data: true
 application_id: '1622351774'
 title: Ports to People Game
 project_description: >-
