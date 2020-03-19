@@ -40,6 +40,17 @@ Are you a registered nonprofit, for-profit, fiscally-sponsored, or governmental 
 <details class="faq" markdown="1">
 
 <summary markdown="1">
+## With all that’s going on around COVID-19, we’re worried our proposal might be affected. What should we do?
+</summary>
+We understand that submissions involving events, direct service, and other activities might be impacted by concerns surrounding COVID-19. Please apply assuming that all will return to normal (we certainly hope it does!), and in the event that it does not, we’ll work with you to adjust as needed.
+
+</details>
+
+
+
+<details class="faq" markdown="1">
+
+<summary markdown="1">
 ## What's new this year?
 </summary>
 
@@ -49,6 +60,19 @@ The 2020 My LA2050 Grants Challenge is distinct from previous challenges in seve
 * We recently refreshed our [LA2050 goals and metrics](/about/#goals) to ensure we're keeping up with the most pressing issues in our region. 
 
 </details>
+
+
+
+<details class="faq" markdown="1">
+
+<summary markdown="1">
+## Do you receive inquiries or answer questions about the challenge via telephone?
+</summary>
+Unfortunately, we do not take phone calls or meetings during this time due to the number of inquiries we receive. We are happy to answer your questions via email at connect@la2050.org.
+
+</details>
+
+
 
 <details class="faq" markdown="1">
 
@@ -96,10 +120,31 @@ Both new and existing projects are eligible for submission. All winning projects
 <details class="faq" markdown="1">
 
 <summary markdown="1">
+## Does the program have to serve all of Los Angeles (City or County)? 
+</summary>
+No! Your project may zero-in on a particular neighborhood, community, city, or region in Los Angeles County. It’s up to you.
+
+</details>
+
+
+
+<details class="faq" markdown="1">
+
+<summary markdown="1">
 ## We are a small organization with a small social media following. How can we compete with larger organizations in voting?
 </summary>
-
 In general, we've seen both small and large organizations do well in the voting stage. It's less about the size of your list, and more about knowing how to correctly engage the audience you do have. If you do get to the voting stage, we provide EVERY finalist with a GOTV guide full of social media copy, graphics, and ideas for engaging your network. You don't need a large social media following to win votes. Ultimately, we've found that social media is only a small contributor to the outcome of voting. 
+
+</details>
+
+
+
+<details class="faq" markdown="1">
+
+<summary markdown="1">
+## Are there examples of past winners somewhere?
+</summary>
+Yes, just head to our My LA2050 Ideas Archive! You can search by issue area or keyword. (Or click here to go directly to a page of previous winners).
 
 </details>
 
@@ -172,6 +217,17 @@ Public voting will take place between {{ site.VOTES_BEING_ACCEPTED_DATE | date: 
 <!--
 If you need additional assistance, check out this [step-by-step guide](LINK) on how to vote. 
 -->
+
+</details>
+
+
+<details class="faq" markdown="1">
+
+<summary markdown="1">
+## Will you be advertising to the general public about voting?
+</summary>
+
+Yes! We do all that we can to inform Angelenos about the My LA2050 Grants Challenge through social media, digital ads, our LA2050 newsletter, and more.
 
 </details>
 
