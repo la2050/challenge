@@ -57,7 +57,7 @@ VOTING_PERIOD_ENDED_TIME:          5pm Pacific Time
 
 # Entries being accepted: 
 # February 3
-phase: 2
+# phase: 2
 
 # Early bird deadline:
 # March 1 ?
@@ -65,7 +65,7 @@ phase: 2
 
 # Entry period ended: 
 # March 27
-# phase: 3
+phase: 3
 
 # Entries shown on the website: 
 # April 6
