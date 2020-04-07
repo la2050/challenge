@@ -12,6 +12,7 @@ ein: 80-0569162
 organization_name: The Urban Warehouse
 mailing_address_state: California
 mailing_address_zip: '90022'
+application_id: '102831235'
 organization_website: 'https://www.thegarageboardshops.com'
 organization_twitter: '@thegarageboardshop'
 organization_facebook: The Garage Board Shop
@@ -20,7 +21,6 @@ Please describe the mission of your organization.: >-
   Educating inner-city youth to value education through our after-school
   program; treating skateboarding as an academic incentive, & incorporating art
   activities.
-
 
   We exchange skateboarding gear when they meet specific education goals; using
   an active lifestyle as a backbone to success in education.
@@ -77,8 +77,6 @@ Please explain how you will define and measure success for your project.: >-
   design, social work and law degrees to just name a few.
 
 
-
-
   Ideally, we would like to expand the program to other underserved communities
   in the Los Angeles area.  We have a program that has proven effective and we
   can help replicate it in other areas.
@@ -105,6 +103,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: play
 filename: the-urban-warehouse
-order: 0
+order: 39
 
 ---

@@ -13,6 +13,7 @@ ein: 30-0591466
 organization_name: Refresh Youth Center
 mailing_address_state: California
 mailing_address_zip: '90712'
+application_id: '109487452'
 organization_website: 'https://www.refreshyouthcenter.org'
 organization_twitter: '@RycYouth'
 organization_facebook: 'https://www.facebook.com/Refresh-Youth-Center-209501842427600/'
@@ -68,11 +69,10 @@ Why is this project important to the work of your organization?: >-
   variety of ethnic and socioeconomic backgrounds, our team are positioned to
   make a dynamic and lasting impact within our L.A. communities through our
   programs. 
-Please explain how you will define and measure success for your project.: >+
+Please explain how you will define and measure success for your project.: >
   Through our programming we seek to achieve the following results:
 
-
-  *See an improvement in grades and group participation. The majority of the
+  •See an improvement in grades and group participation. The majority of the
   youth that enroll in our programs are dealing with neglect, suffering from
   abandonment, peer pressure (sexual activity, drug use, alcohol use, gang
   exposure, and bullying), single-parent homes being maintained by grandparents
@@ -81,23 +81,18 @@ Please explain how you will define and measure success for your project.: >+
   school, poverty/homelessness/hunger, and poor communication and acting in
   aggression towards others.
 
-
-  * Based on surveys distributed to students, parents, teachers and
+  • Based on surveys distributed to students, parents, teachers and
   administrators we want our students exiting our program to traverse into high
   school to have gained “essential life skills, an helpful ear to express
   themselves, self- confidence and self-efficacy, and feelings of safety and
   belongingness”.
 
-
-  * We obtain tangible results and find an increase in group sharing, leadership
+  • We obtain tangible results and find an increase in group sharing, leadership
   skills, self-accountability, and team support. 
 
-
-  * Los Angeles community members wanting to attend our special events which
-  promote ‰Û÷Life, Love, Hope, Beauty, Strength, Diversification and
-  Unification’ through “Artisans in Motion”. 
-
-
+  • Los Angeles community members wanting to attend our special events which
+  promote ‘Life, Love, Hope, Beauty, Strength, Diversification and Unification’
+  through “Artisans in Motion”. 
 
 
   Though our productions are catered towards families and groups of all ages and
@@ -111,7 +106,6 @@ Please explain how you will define and measure success for your project.: >+
   percent (34%) of the children in Los Angeles are poor, live in female-headed
   households and/or are Hispanic. Los Angeles County has been surveyed and found
   to have the highest density of poverty in the State of California. 
-
 Approximately how many people will be directly impacted by this proposal?: '800'
 Approximately how many people will be indirectly impacted by this proposal?: '2300'
 Please describe the broader impact of your proposal.: >-
@@ -119,8 +113,6 @@ Please describe the broader impact of your proposal.: >-
   youth, who will then participate in our special events, exhibiting their
   self-efficacy, team work, entrepreneurial, and STEAM capabilities as they host
   and engage with various community members throughout Los Angeles. 
-
-
 
 
   The end goal is for Artisans in Motion to promote collaboration and collective
@@ -138,8 +130,6 @@ Please list the organizations collaborating on this proposal.: >-
   provider (through the production of Dream North Entertainment)
 
 
-
-
   https://instagram.com/rmc_mobilestagetrailer?igshid=1wm6uhayfz2vk
 Which metrics will your submission impact?:
   - Arts education
@@ -151,6 +141,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: refresh-youth-center
-order: 0
+order: 119
 
 ---

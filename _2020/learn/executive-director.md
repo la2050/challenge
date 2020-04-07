@@ -1,0 +1,134 @@
+---
+title: EnCorps STEM Teachers in Los Angeles
+organization_description: Nonprofit
+project_video: 'https://www.youtube.com/watch?v=Nr64mAuelrM&t=10s'
+link_donate: 'https://encorps.org/donate/'
+link_volunteer: 'https://encorps.org/join/'
+link_newsletter: 'https://www.encorps.org/contact'
+mailing_address_city: Redondo Beach
+mailing_address_street: '608 Meyer Lane, Suite 204-B'
+ein: 38-3771471
+organization_name: Executive Director
+mailing_address_state: California
+mailing_address_zip: '90278'
+application_id: '95020281'
+organization_website: 'https://www.encorps.org'
+organization_twitter: '@EnCorps'
+organization_facebook: 'https://www.facebook.com/EnCorps/'
+organization_instagram: '@encorpsstemteachers'
+Please describe the mission of your organization.: >-
+  We are STEM professionals transforming classrooms by teaching in high needs
+  classrooms.
+project_description: >-
+  EnCorps has been working earnestly since 2007 to recruit the best and
+  brightest science, technology, engineering and mathematics (STEM)
+  professionals to teach in California, providing meaningful opportunities to
+  impact disadvantaged students. We believe all students deserve access to a
+  great STEM teacher, a great STEM education and all the opportunities that
+  those can provide. EnCorps educators are connecting students to real-world
+  math and science career and economic opportunities and transforming public
+  education statewide.
+Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
+In which areas of Los Angeles will you be directly working?:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - South Bay
+  - >-
+    LAUSD (please select only if you have a district-wide partnership or
+    project)
+In what stage of innovation is this project?: >-
+  Expand existing program (expanding and continuing ongoing successful projects
+  or programs)
+What is the need you’re responding to?: >-
+  Enduring STEM achievement, access and opportunity gaps continue to
+  disproportionately limit low-income and minority student opportunities In Los
+  Angeles. Access to quality STEM education can close these gaps, but Los
+  Angeles County has the greatest need statewide for qualified math and science
+  teachers. 
+
+
+  The percentage of underprepared teachers is the most significant predictor of
+  low achievement, particularly for students of color, yet districts continue to
+  hire under-credentialed teachers. Underprepared teachers have a 2-3 times
+  higher turnover rate than fully-credentialed teachers, which has a greater
+  disruptive effect on low-income students and students of color, who already
+  lag behind their white and Asian peers in math and science proficiency.  The
+  STEM teacher shortage exacerbates this achievement gap, and undermines efforts
+  to prepare a diverse future workforce with career-relevant STEM education.
+Why is this project important to the work of your organization?: >
+  EnCorps STEM TEachers is the only nonprofit in California recruiting and
+  placing STEM professionals as long-term educators for underrepresented
+  students in high-need schools. Fellows bring years of industry experience and
+  professional maturity to classrooms, and are career role models for
+  disadvantaged students. Our unique program model results in an EnCorps teacher
+  5+ year retention rate of 89%, compared to the national average of 50%.
+
+
+  Many efforts have been made to increase educational equity, decrease the
+  teacher shortage, and diversify the future STEM workforce, but no other
+  organization tackles all three issues with one cost-effective and long-term
+  solution. With experience in the public education and nonprofit sectors, we
+  continuously refine support strategies to be responsive to the changing
+  demands of teaching and learning.  EnCorps’ leadership has the experience,
+  broad knowledge of educational ecosystems, and the commitment to educational
+  equity to achieve our mission.
+Please explain how you will define and measure success for your project.: >
+  We define success by the number of trained and supported STEM teachers and
+  teacher candidates in our pipeline, their student impact and by the efficacy
+  of our educators in the classroom. To measure program successes, we track the
+  number of Fellows: recruited, in each phase of teacher preparation, those who
+  transition into teaching positions, the number of Teachers retained in their
+  positions each year and the number of students that they have taught. Surveys
+  measuring the efficacy of Fellows in the classroom are conducted each semester
+  with students and mentor teachers.
+
+
+  Executive and program staff review program implementation quarterly to assess
+  status against Key Performance Indicators, which are used to revise and
+  evaluate EnCorps’ recruitment strategies, levels of support for Fellows, and
+  professional development opportunities as preparation for full-time teaching.
+  EnCorps’ steady progress towards closing the gap of qualified STEM teachers,
+  and thereby addressing the STEM achievement gap of our state's most
+  disadvantaged students, is its ultimate indicator of success.
+
+
+  The EnCorps Fellowship has seen consistent success year after year, evidenced
+  by our growing Fellowship numbers, and by the impact Fellows have on their
+  students, as recently reported by their students and Host Teachers:  86% of
+  students experienced an increased level of academic achievement and 88% had a
+  better understanding of real-world connections with math and science due to
+  their EnCorps Guest Teacher.
+Approximately how many people will be directly impacted by this proposal?: '300'
+Approximately how many people will be indirectly impacted by this proposal?: '15000'
+Please describe the broader impact of your proposal.: >
+  The Fellowship serves middle and high school students, ages 11-18, in Title 1
+  schools where over 60% of students are low-income, as defined by qualifying
+  for free or reduced-price lunch. 77% of our students are of populations
+  traditionally underrepresented in higher education, 16% are English Language
+  Learners, and only 30% meet or exceed math proficiency standards.
+
+
+  On average, Fellows have been employed 17 years in STEM fields, 68% have a
+  Masters or Ph.D. in a STEM subject, and 48% report as people of color. EnCorps
+  Fellows have experience as engineers, principal research scientists, and data
+  architects,; and have worked in energy, engineering, banking and finance,
+  research, biotech, and pharmaceutical industries. 
+Which of LA2050’s resources will be of the most value to you?:
+  - Access to the LA2050 community
+  - Host public events or gatherings
+  - Communications support
+  - 'Office space for meetings, events, or for staff'
+  - 'Capacity, including staff'
+Please list the organizations collaborating on this proposal.: ''
+Which metrics will your submission impact?:
+  - Proficiency in STEM
+Are there any other LA2050 goal categories that your proposal will impact?: []
+year: 2020
+category: learn
+filename: executive-director
+order: 53
+
+---

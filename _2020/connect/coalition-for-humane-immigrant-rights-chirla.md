@@ -1,0 +1,116 @@
+---
+title: Immigrants Empowered = Lives Saved
+organization_description: Nonprofit
+project_video: 'https://www.youtube.com/watch?v=8blh_oWoZaE'
+link_donate: 'https://www.chirla.org/donate/'
+link_volunteer: n/a - same here
+link_newsletter: n/a - working on our new website - can share at a later time
+mailing_address_city: los angeles
+mailing_address_street: 2807 Alta St
+ein: 95-4421521
+organization_name: Coalition for Humane Immigrant Rights (CHIRLA)
+mailing_address_state: California
+mailing_address_zip: '90031'
+application_id: '111811439'
+organization_website: 'https://www.chirla.org'
+organization_twitter: '@CHIRLA'
+organization_facebook: 'https://www.facebook.com/chirlausa/'
+organization_instagram: '@chirla_org'
+Please describe the mission of your organization.: >-
+  CHIRLA’s mission is to achieve a just society fully inclusive of immigrants.
+  We are a California leader with national impact working for freedom of
+  mobility, human rights, and a true participatory democracy. CHIRLA educates,
+  legally protects, and advocates for immigrants to build their own power.
+project_description: >-
+  The Covid-19 crisis has exposed what we have known for decades:  millions of
+  immigrants and mixed-status families are among the most vulnerable in our
+  community.  Although they are essential workers that continue to work in our
+  ICUs, drive delivery trucks, and feed us from the farm fields, they are left
+  behind in this emergency.  CHIRLA needs support to be a life line for
+  immigrants in this crisis.  An LA2050 grant would allow us to advocate for the
+  needs of 1 in 4 Angelinos while informing and legally protecting them.
+Which LA2050 goal will your submission most impact?: LA is the best place to CONNECT
+In which areas of Los Angeles will you be directly working?:
+  - >-
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
+  - >-
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+In what stage of innovation is this project?: >-
+  Expand existing program (expanding and continuing ongoing successful projects
+  or programs)
+What is the need you’re responding to?: >-
+  As we all face the Coronavirus emergency, there is a truth we can not deny: 
+  millions of immigrants and mix-status families are among the most vulnerable
+  and overlooked in this crisis.  As COVID-19 continues to take its toll, we
+  must protect those most at-risk who are disproportionately affected due to
+  lack of healthcare, unemployment relief, and fear of immigration enforcement. 
+  Mixed legal status is common in immigrant households, which can hinder
+  families from seeking assistance due to fear of losing legal protections or
+  putting a family member at-risk. Undocumented immigrants working in sectors
+  hard-hit by the crisis may be ineligible for worker supports such as
+  disability, unemployment aid, or paid family leave. Those who face language
+  barriers, particularly seniors, need multilingual testing and treatment
+  information. Meanwhile, immigrants working in essential industries are risking
+  their lives, often without adequate healthcare, as they continue to serve the
+  community.
+Why is this project important to the work of your organization?: >-
+  Improving the lives of immigrants and their families is at the core of who we
+  are.  CHIRLA has been advocating for immigrant rights for 34 years,
+  spearheading grassroots organizing and power building initiatives across
+  California.  Guided by the vision and needs of our community, we have been
+  driving progressive social change for decades.  We were formed in response to
+  the Immigration Reform and Control Act (IRCA) of 1986 which made hiring
+  undocumented workers illegal, thus creating a situation ripe for worker
+  exploitation and abuse which continues in this crisis.  Since then, we have
+  been on the front lines defending our communities in the face of attacks and
+  family separation.  Our advocacy and education at various levels of government
+  reaches nationally driving systematic change improving the lives of millions. 
+  We have also earned a position as a trusted source of information and support
+  proving our communities with timely, in-language information for the critical
+  help they need.
+Please explain how you will define and measure success for your project.: >-
+  COVID-19 has exposed already existing gaps in our health, economic, and labor
+  sectors. It is imperative that CHIRLA continues to lead the way to ensure
+  equal justice for immigrants, particularly during this time of crisis. We
+  define success by continuing to work to inform, protect, and advocate for
+  immigrant communities as: (1) a multilingual information and benefits referral
+  hub connecting immigrants to essential services; (2) a trusted source of legal
+  advice and protections (3) a policy leader and catalyst for measures and
+  critical funding and programs that ensure immigrant and refugee communities
+  are included in the emergency response.  Our ultimate goal during this health
+  crisis is that lives are saved and that the health of immigrants is valued in
+  the same way as those with full citizenship status. 
+Approximately how many people will be directly impacted by this proposal?: '450000'
+Approximately how many people will be indirectly impacted by this proposal?: '10000000'
+Please describe the broader impact of your proposal.: >-
+  CHIRLA's work creatively engages and advocates for over 10 million immigrants
+  living in California.  Our existing infrastructure of 10 regional offices,
+  especially our headquarters in L.A., serve in great part the over 2 million
+  undocumented in the state.  We help a majority of the 19% of LA County
+  residents that are either undocumented or live with someone who is.  Of those
+  individuals, 12% are in occupations hardest-hit such as janitorial and food
+  services or in essential roles like farming, production and transportation. 
+  Supporting a pillar organization like CHIRLA will have incredible impact on
+  saving lives regardless of status, providing safety net resources to sustain
+  families, and empowering individuals to recover in the future. 
+Which of LA2050’s resources will be of the most value to you?:
+  - Access to the LA2050 community
+  - Host public events or gatherings
+  - Communications support
+  - 'Office space for meetings, events, or for staff'
+  - Strategy assistance and implementation
+Please list the organizations collaborating on this proposal.: ''
+Which metrics will your submission impact?:
+  - Government responsiveness to residents’ needs
+  - Immigrant integration
+  - Voting rates
+Are there any other LA2050 goal categories that your proposal will impact?:
+  - LA is the healthiest place to LIVE
+year: 2020
+category: connect
+filename: coalition-for-humane-immigrant-rights-chirla
+order: 25
+
+---
