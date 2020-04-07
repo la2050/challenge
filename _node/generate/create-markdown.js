@@ -77,6 +77,7 @@ function getArrayFromString(string) {
   string = string
     .replace('undefined:1', '')
     .replace("\"open spaces\"", "“open spaces”")
+    .replace("\"Disengaged youth\"", "“Disengaged youth”")
     .replace(/^"/g, '')  // Remove leading quote
     .replace(/"$/g, '')  // Remove trailing quote
     .replace(/', '/g, '", "') // Change single quotes into double quotes (since that’s require for valid JSON)
@@ -101,7 +102,7 @@ function getRandomInt(min, max) {
 }
 
 function getOrganizationType(type) {
-  console.log("getOrganizationType: " + type);
+  // console.log("getOrganizationType: " + type);
   const organizationTypesMap = {
     "for profit"
     :"For profit business",
@@ -135,10 +136,10 @@ function getOrganizationType(type) {
   }
 
   if (organizationTypesMap[type.toLowerCase()]) {
-    console.log("organizationTypesMap[type.toLowerCase()]: " + organizationTypesMap[type.toLowerCase()]);
+    // console.log("organizationTypesMap[type.toLowerCase()]: " + organizationTypesMap[type.toLowerCase()]);
     return organizationTypesMap[type.toLowerCase()];
   } else {
-    console.log("Unexpected organization type: " + type);
+    // console.log("Unexpected organization type: " + type);
     return type;
   }
 }
@@ -154,7 +155,7 @@ function mapAllColumnNames(data) {
     "Enter your video URL here:"
     :"project_video",
 
-    "Please share a direct link for people to donate to your organization:"
+    "Please share a direct link for people to donate to your organization: "
     :"link_donate",
 
     "Please share a direct link for people to sign up for volunteer opportunities:"
@@ -181,7 +182,7 @@ function mapAllColumnNames(data) {
     "Organization Details: | ZIP:"
     :"mailing_address_zip",
 
-    "Application id"
+    "# Applicants"
     : "application_id",
 
     "How can people reach your organization online? | Organization(s) website(s):"
@@ -213,7 +214,7 @@ function mapAllColumnNames(data) {
     //:"Which of the following CREATE metrics will your proposal impact?",
     :"create_metrics",
 
-    "4. Which of the following LEARN metrics will your proposal impact?"
+    "4. Which of the following LEARN metrics will your proposal impact? "
     //:"Which of the following LEARN metrics will your proposal impact?",
     :"learn_metrics",
 
@@ -225,10 +226,10 @@ function mapAllColumnNames(data) {
     //:"Which of the following PLAY metrics will your proposal impact?",
     :"play_metrics",
 
-    "5. Please select any other LA2050 goal categories your proposal will impact"
-    :"Are there any other LA2050 goal categories that your proposal will impact?",
+    // "5. Please select any other LA2050 goal categories your proposal will impact"
+    // :"Are there any other LA2050 goal categories that your proposal will impact?",
 
-    "6. In which areas of Los Angeles will you be directly working?"
+    "6. In which areas of Los Angeles will you be directly working? "
     :"In which areas of Los Angeles will you be directly working?",
 
     "7. In what stage of innovation is this project?"
@@ -237,22 +238,22 @@ function mapAllColumnNames(data) {
     "8a. What is the context for this project? What is the need you’re responding to?"
     :"What is the need you’re responding to?",
 
-    "8b. Why is this project important to the work of your organization? Why is your organization uniquely suited to take this on?"
+    "8b. Why is this project important to the work of your organization? Why is your organization uniquely suited to take this on? "
     :"Why is this project important to the work of your organization?",
 
     "9. Please explain how you will define and measure success for your project. What is your vision for success for this project?"
     :"Please explain how you will define and measure success for your project.",
 
-    "11. Approximately how many people will be‰Û_ | a. Directly impacted by this proposal? (#)"
+    "11. Approximately how many people will be… | a. Directly impacted by this proposal? (#)"
     :"Approximately how many people will be directly impacted by this proposal?",
 
-    "11. Approximately how many people will be‰Û_ | b. Indirectly impacted by this proposal? (#)"
+    "11. Approximately how many people will be… | b. Indirectly impacted by this proposal? (#)"
     :"Approximately how many people will be indirectly impacted by this proposal?",
 
     "12. Please describe the broader impact of your proposal. Depending on your proposal, you may want to include a description of its impact on the environment and physical space, its impact on policy, impact on the future of the city, a description of the population being served by this proposal, an explanation of the numbers provided in question 11, or other intangibles."
     :"Please describe the broader impact of your proposal.",
 
-    "15. LA2050 will serve as a partner on this project. Which of LA2050’s resources will be of the most value to you?"
+    "15. LA2050 will serve as a partner on this project. Which of LA2050’s resources will be of the most value to you? "
     :"Which of LA2050’s resources will be of the most value to you?",
 
     "Please list the organizations collaborating on this proposal:"
@@ -352,7 +353,7 @@ function mapAllColumnNames(data) {
 
 function createMarkdownFile(data) {
 
-  // if (data["Current stage"] !== "Voting Period") return;
+  if (data["Current stage"] !== "Moderation Process") return;
 
   mapAllColumnNames(data);
 
@@ -371,7 +372,7 @@ function createMarkdownFile(data) {
 
   data.organization_description = getOrganizationType(data.organization_description);
 
-  console.log("data.organization_description: " + data.organization_description);
+  // console.log("data.organization_description: " + data.organization_description);
 
   console.log('createMarkdownFile for ' + data.organization_name);
 
@@ -412,6 +413,14 @@ function createMarkdownFile(data) {
   ];
 
   const reducer = (accumulator, currentValue) => accumulator.concat(currentValue);
+  
+  if (filename == "the-urban-warehouse") {
+    console.log({answer: data["5. Please select any other LA2050 goal categories your proposal will impact (a)"]});
+      console.log(data["5. Please select any other LA2050 goal categories your proposal will impact (b)"]);
+        console.log(data["5. Please select any other LA2050 goal categories your proposal will impact (c)"]);
+          console.log(data["5. Please select any other LA2050 goal categories your proposal will impact (d)"]);
+            console.log(data["5. Please select any other LA2050 goal categories your proposal will impact (e)"]);
+  }
 
   let metrics_other = metricsOtherColumns
     .map(name => getArrayFromString(data[name]))
@@ -503,15 +512,17 @@ function createMarkdownFile(data) {
   // if (!data.project_image) data.project_image = '/assets/images/' + category + '/' + filename + '.jpg';
 
   let toDelete = [
+    `Decision:`,
+    'Current stage',
     `ABOUT YOU *  | Your name:`,
     `ABOUT YOU *  | Your phone number:`,
     `ABOUT YOU *  | Your email:`,
     `Has your organization previously applied for a My LA2050 grant? Check all that apply*:`,
     `How large is your organization?*`,
     `If yes, how many collaborators are involved in this proposal? `,
-    `Is this proposal a collaboration?`,
+    `Is this proposal a collaboration? `,
     `What is your organization‰Ûªs annual operating budget?*`,
-    `10. Please provide a timeline and description of the activities for this project (for the duration of the grant period - approx. July 2020 - July 2021; a high-level summary is sufficient).`,
+    `10. Please provide a timeline and description of the activities for this project (for the duration of the grant period - approx. July 2020 - July 2021; a high-level summary is sufficient). `,
     `13. Please include a line-item budget describing how you will use the grant funding to implement your project or activities. Please provide a budget assuming your organization wins the full $100,000 grant. `,
     `Has your organization previously applied for a My LA2050 grant? Check all that apply*`,
     `How can people reach these organizations online? | Organization(s) Facebook page(s):`,
@@ -562,6 +573,28 @@ function createMarkdownFile(data) {
   toDelete.forEach(name => {
     delete data[name];
   })
+
+//   for (let key of Object.keys(data)) {
+//     if (typeof(data[key]) !== "string") continue;
+//     data[key] = data[key].replace(/\\r\\n/g, `
+// `);
+//   }
+
+
+
+if (filename == "the-urban-warehouse") {
+  console.log(data["Please explain how you will define and measure success for your project."]);
+}
+
+  // for (let key of Object.keys(data)) {
+  //   if (typeof(data[key]) !== "string") continue;
+  // 
+  //   // if (data[key].startsWith(`"`) && data[key].endsWith(`"`)) {
+  //   //   console.log("Data start with a quote");
+  //   // }
+  //   // console.log(data[key]);
+  //   // data[key] = data[key].replace(/^"/g, "").replace(/"$/g, "");
+  // }
 
   // const applicationIDs = {
   //   'Los Angeles Conservation Corps': '5962365920',
@@ -684,5 +717,5 @@ function generateCollections(file_path) {
   return records;
 }
 
-generateCollections('../../_data/Entries in the 2020 My LA2050 Grants Challenge (test batch) - helloooooo_Feb 6 2020 12_16 PM (PST).csv');
+generateCollections('../../_data/all_data_Apr 6 2020 04_18 PM (PDT)-edited.csv');
 
