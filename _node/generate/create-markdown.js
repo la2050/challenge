@@ -5,6 +5,7 @@ let fs = require('fs');
 // let mkdirp = require('mkdirp');
 let parse = require('csv-parse/lib/sync');
 let yaml = require('js-yaml');
+let mkdirp = require("mkdirp");
 // let request = require("request");
 
 function changeNAtoEmpty(data) {
@@ -578,17 +579,22 @@ ${yaml.safeDump(data)}
 ---
 `
 
-  // mkdirp(writePath, function (err) {
-  //   if (err) {
-  //     console.error(err);
-  //   } else {
-      fs.writeFileSync(writePath + '/' +  filename + '.md', output, 'utf8', (err) => {
+  createFile({ writePath, filename, output });
+}
+
+function createFile({ writePath, filename, output }) {
+  mkdirp(writePath)
+    .then(made => {
+      // console.log(`made directories, starting with ${made}`
+      fs.writeFileSync(`${writePath}/${filename}.md`, output, 'utf8', (err) => {
         if (err) {
           console.log(err);
         }
       });
-  //   }
-  // });
+    })
+    .catch(error => {
+      throw error;
+    });
 }
 
 let orderCursors = {
