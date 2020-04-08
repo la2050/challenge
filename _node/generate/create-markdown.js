@@ -104,6 +104,9 @@ function getRandomInt(min, max) {
 function getOrganizationType(type) {
   // console.log("getOrganizationType: " + type);
   const organizationTypesMap = {
+    "Decision:"
+    :"decision",
+
     "for profit"
     :"For profit business",
 
@@ -181,9 +184,6 @@ function mapAllColumnNames(data) {
 
     "Organization Details: | ZIP:"
     :"mailing_address_zip",
-
-    "# Applicants"
-    : "application_id",
 
     "How can people reach your organization online? | Organization(s) website(s):"
     : "organization_website",
@@ -353,12 +353,16 @@ function mapAllColumnNames(data) {
 
 function createMarkdownFile(data) {
 
-  if (data["Current stage"] !== "Moderation Process") return;
+  if (data["Current stage"] !== "Moderation Process" ||
+      data["Decision:"]     !== "Approved") return;
 
+  data.application_id = getApplicationID(data) || "";
+  
   mapAllColumnNames(data);
 
   data = changeNAtoEmpty(data);
   data = addMailTo(data);
+  
 
   let filename = stringToURI(data.organization_name).replace(/^åê/g, "").replace(/åê$/g, "");
 
@@ -374,7 +378,7 @@ function createMarkdownFile(data) {
 
   // console.log("data.organization_description: " + data.organization_description);
 
-  console.log('createMarkdownFile for ' + data.organization_name);
+  // console.log('createMarkdownFile for ' + data.organization_name);
 
   // Page title
   //data.title = data.title + ' — My LA2050 Grants Challenge';
@@ -414,13 +418,13 @@ function createMarkdownFile(data) {
 
   const reducer = (accumulator, currentValue) => accumulator.concat(currentValue);
   
-  if (filename == "the-urban-warehouse") {
-    console.log({answer: data["5. Please select any other LA2050 goal categories your proposal will impact (a)"]});
-      console.log(data["5. Please select any other LA2050 goal categories your proposal will impact (b)"]);
-        console.log(data["5. Please select any other LA2050 goal categories your proposal will impact (c)"]);
-          console.log(data["5. Please select any other LA2050 goal categories your proposal will impact (d)"]);
-            console.log(data["5. Please select any other LA2050 goal categories your proposal will impact (e)"]);
-  }
+  // if (filename == "the-urban-warehouse") {
+  //   console.log({answer: data["5. Please select any other LA2050 goal categories your proposal will impact (a)"]});
+  //     console.log(data["5. Please select any other LA2050 goal categories your proposal will impact (b)"]);
+  //       console.log(data["5. Please select any other LA2050 goal categories your proposal will impact (c)"]);
+  //         console.log(data["5. Please select any other LA2050 goal categories your proposal will impact (d)"]);
+  //           console.log(data["5. Please select any other LA2050 goal categories your proposal will impact (e)"]);
+  // }
 
   let metrics_other = metricsOtherColumns
     .map(name => getArrayFromString(data[name]))
@@ -510,9 +514,11 @@ function createMarkdownFile(data) {
   data.order = orderCursors[data.category]++;
 
   // if (!data.project_image) data.project_image = '/assets/images/' + category + '/' + filename + '.jpg';
-
+  
+  
   let toDelete = [
-    `Decision:`,
+    '# Applicants',
+    'Decision:',
     'Current stage',
     `ABOUT YOU *  | Your name:`,
     `ABOUT YOU *  | Your phone number:`,
@@ -569,7 +575,8 @@ function createMarkdownFile(data) {
     // 'connect_other',
     // 'live_other'
   ];
-
+  
+  
   toDelete.forEach(name => {
     delete data[name];
   })
@@ -582,9 +589,9 @@ function createMarkdownFile(data) {
 
 
 
-if (filename == "the-urban-warehouse") {
-  console.log(data["Please explain how you will define and measure success for your project."]);
-}
+// if (filename == "the-urban-warehouse") {
+//   console.log(data["Please explain how you will define and measure success for your project."]);
+// }
 
   // for (let key of Object.keys(data)) {
   //   if (typeof(data[key]) !== "string") continue;
@@ -604,15 +611,27 @@ if (filename == "the-urban-warehouse") {
 
   // console.dir(data);
   let writePath = '../_' + data.year + '/' + data.category; // Example: _/2019/connect
+  
+  
+  while (data.application_id != "" && data.application_id.length < 10) {
+    data.application_id = `0${data.application_id}`;
+  }
+  data.application_id = String(data.application_id);
 
-  // https://www.npmjs.com/package/js-yaml#safedump-object---options-
-  let output =
+  try {
+    // if (!data.application_id) throw new Error("application_id is missing");
+    // https://www.npmjs.com/package/js-yaml#safedump-object---options-
+    let output =
 `---
 ${yaml.safeDump(data)}
 ---
 `
 
-  createFile({ writePath, filename, output });
+    createFile({ writePath, filename, output });
+  } catch (error) {
+    console.log("Couldn’t create file for: " + data.title);
+    console.error(error);
+  }
 }
 
 function createFile({ writePath, filename, output }) {
@@ -712,10 +731,44 @@ function generateCollections(file_path) {
 
   for (let index = 0; index < records.length; index++) {
     let data = fixDataCharacters(records[index]);
+    // console.log(`Current stage: ${data["Current stage"]}`);
+    // console.log(`Decision: ${data["Decision:"]}`);
     createMarkdownFile(data);
   }
   return records;
 }
 
+const recordsWithApplicationID = parse(fs.readFileSync('../../_data/application_id.csv', 'utf8'), {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
+function getApplicationID(data) {
+  let matches = [];
+  function alphaOnly(string) {
+    if (!string) return;
+    if (string === "Sprouts of Promise") string = "Sprouts of Promise Foundation";
+    if (string === "LIFT-LA") string = "LIFT-Los Angeles"; 
+    if (string === "Lauren Arevalo-Downes") string = "Lauren Arevalo";
+    return string.toLowerCase().replace(/[^a-z]/g, "");
+  }
+  for (let record of recordsWithApplicationID) {
+    // if (data["ABOUT YOU *  | Your name:"] === "Lauren Arevalo") {
+    //   console.log(alphaOnly(record["User"]));
+    //   console.log(alphaOnly(data["ABOUT YOU *  | Your name:"]));
+    // }
+    if (alphaOnly(record["Application"]) === alphaOnly(data["Organization Details: | Organization name: *"]) ||
+        alphaOnly(record["User"]) === alphaOnly(data["ABOUT YOU *  | Your name:"]) ||
+        alphaOnly(record["Email"]) === alphaOnly(data["ABOUT YOU *  | Your email:"])
+      ) {
+      matches.push(record["Application ID"]);
+    }
+  }
+  if (matches.length === 1) {
+    // console.log("Found one match: " + data["Organization Details: | Organization name: *"]);
+    return matches[0];
+  }
+  if (matches.length > 1) {
+    console.log("Found multiple matches for: " + data["Organization Details: | Organization name: *"]);
+  } else {
+    console.log("Couldn’t find application ID for: " + data["Organization Details: | Organization name: *"]);
+  }
+}
 generateCollections('../../_data/all_data_Apr 6 2020 04_18 PM (PDT)-edited.csv');
 

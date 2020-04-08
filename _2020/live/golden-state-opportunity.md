@@ -12,7 +12,9 @@ ein: 47-4325738
 organization_name: Golden State Opportunity
 mailing_address_state: California
 mailing_address_zip: '94104'
-organization_website: 'http://www.goldenstateopportunity.org; www.caleitic4me.org'
+organization_website:
+  - www.goldenstateopportunity.org
+  - www.caleitic4me.org
 organization_twitter: '@GSOpportunity'
 organization_facebook: 'https://www.facebook.com/CalEITC4Me/'
 organization_instagram: '@caleitc4me'

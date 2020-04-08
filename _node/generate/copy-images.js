@@ -64,21 +64,21 @@ function getMatchingFile(application_id) {
 }
 
 
-function getMatchingFileByOrganizationName(organization_name) {
-  
-  function alphaOnly(string) {
-    return string.toLowerCase().replace(/[^a-z]/g, "");
-  }
-  // console.dir(submissionFiles);
-  for (let index = 0; index < submissionFiles.length; index++) {
-    // console.log(submissionFiles[index]);
-    // console.log(organization_name);
-    if (alphaOnly(submissionFiles[index]).includes(alphaOnly(organization_name)) &&
-        !submissionFiles[index].includes('.pdf')) {
-        return submissionFiles[index];
-    }
-  }
-}
+// function getMatchingFileByOrganizationName(organization_name) {
+// 
+//   function alphaOnly(string) {
+//     return string.toLowerCase().replace(/[^a-z]/g, "");
+//   }
+//   // console.dir(submissionFiles);
+//   for (let index = 0; index < submissionFiles.length; index++) {
+//     // console.log(submissionFiles[index]);
+//     // console.log(organization_name);
+//     if (alphaOnly(submissionFiles[index]).includes(alphaOnly(organization_name)) &&
+//         !submissionFiles[index].includes('.pdf')) {
+//         return submissionFiles[index];
+//     }
+//   }
+// }
 
 
 function processFile(filename) {
@@ -91,9 +91,9 @@ function processFile(filename) {
 
   // Get the application ID
   // Look for the image folder that matches
-  // let fromFilePath = getMatchingFile(data.application_id);
+  let fromFilePath = getMatchingFile(data.application_id);
 
-  let fromFilePath = getMatchingFileByOrganizationName(data.organization_name);
+  // let fromFilePath = getMatchingFileByOrganizationName(data.organization_name);
 
   if (!fromFilePath) {
     console.log('couldn’t find a matching image file for: ' + filename + ' with application_id: ' + data.application_id);
@@ -186,7 +186,7 @@ function updateLocations(folder) {
 }
 
 
-let submissionFiles = getAllFilesFromFolder('../../_data/download-2020-title');
+let submissionFiles = getAllFilesFromFolder('../../_data/download-2020');
 
 updateLocations('../_2020/learn');
 updateLocations('../_2020/create');
