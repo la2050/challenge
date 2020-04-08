@@ -1,5 +1,5 @@
 ---
-application_id: ''
+application_id: '5606129496'
 title: The Music Center’s Dance DTLA
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=WZio7h1lrew&feature=youtu.be'

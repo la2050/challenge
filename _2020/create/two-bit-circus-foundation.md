@@ -1,5 +1,5 @@
 ---
-application_id: ''
+application_id: '8478266163'
 title: Play with Music
 organization_description: Nonprofit
 project_video: 'https://vimeo.com/233759980'
@@ -16,7 +16,7 @@ organization_website: 'http://twobitcircus.org/'
 organization_twitter: ''
 organization_facebook: 'https://www.facebook.com/twobitcircusorg/'
 organization_instagram: '@twobitcircusorg'
-Please describe the mission of your organization.: "Play with Music's mission is to connect underserved youth in LA with our creative industries\_to foster collaboration, creation & career paths."
+Please describe the mission of your organization.: "Play with Music's mission is to connect underserved youth in LA with our creative industries to foster collaboration, creation & career paths."
 project_description: >-
   We're ready to expand our in-school and after school programs to 4 more
   schools (2 semesters at each school). Each program brings 8-10 professional
