@@ -80,10 +80,10 @@ stylesheets:
 {% if page.project_video and page.project_video != '' %}
 <a href="{{ page.project_video }}" target="_blank" class="has-icon">
 {% else %}
-<a href="/assets/images/{{ page.year }}/{{ page.category }}/2048-wide/{{ page.filename }}.jpg">
+<a href="{{ site.image_host }}/assets/images/{{ page.year }}/{{ page.category }}/2048-wide/{{ page.filename }}.jpg">
 {% endif %}
 
-<img src="/assets/images/{{ page.year }}/{{ page.category }}/2048-wide/{{ page.filename }}.jpg" alt="" width="500" />
+<img src="{{ site.image_host }}/assets/images/{{ page.year }}/{{ page.category }}/2048-wide/{{ page.filename }}.jpg" alt="" width="500" />
 
 {% if page.project_video and page.project_video != '' %}
 <span class="icon play">
