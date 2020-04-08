@@ -1,4 +1,5 @@
 ---
+application_id: 0882593117
 title: Neighborhood Music School Community Performance Series
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=vbGS-2ot-z8'
@@ -12,7 +13,6 @@ ein: 95-6002180
 organization_name: Neighborhood Music School
 mailing_address_state: California
 mailing_address_zip: '90033'
-application_id: '90901693'
 organization_website: 'https://www.neighborhoodmusic.org'
 organization_twitter: '@nmsmusicla'
 organization_facebook: NMSMusicLA
@@ -127,6 +127,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: neighborhood-music-school
-order: 86
+order: 36
 
 ---

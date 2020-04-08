@@ -1,4 +1,5 @@
 ---
+application_id: '2319502895'
 title: After-School All-Stars Los Angeles CampUS
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=RP5-KOatsK4'
@@ -11,7 +12,6 @@ ein: 91-2162719
 organization_name: After-School All-Stars Los Angeles
 mailing_address_state: California
 mailing_address_zip: '90010'
-application_id: '112242692'
 organization_website: 'https://www.la-allstars.org'
 organization_twitter: '@ASASLosAngeles'
 organization_facebook: /ASASLosAngeles
@@ -109,6 +109,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: learn
 filename: after-school-all-stars-los-angeles
-order: 5
+order: 2
 
 ---

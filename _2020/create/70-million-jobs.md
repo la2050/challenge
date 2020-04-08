@@ -1,4 +1,5 @@
 ---
+application_id: '5431379690'
 title: Fair Chance Tech Apprenticeship Program
 organization_description: For profit business
 project_video: 'https://www.youtube.com/watch?v=cKNiRY8cxHk'
@@ -11,7 +12,6 @@ ein: 81-3520914
 organization_name: 70 Million Jobs
 mailing_address_state: California
 mailing_address_zip: '90036'
-application_id: '111053420'
 organization_website: 'https://www.70millionjobs.com'
 organization_twitter: '@70MillionJobs'
 organization_facebook: www.facebook.com/70millionjobs
@@ -115,6 +115,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: create
 filename: 70-million-jobs
-order: 2
+order: 1
 
 ---

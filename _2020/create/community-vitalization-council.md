@@ -1,4 +1,5 @@
 ---
+application_id: '5559975440'
 title: LA-Central American Business Initiative (LACBI)
 organization_description: Nonprofit
 project_video: ''
@@ -11,7 +12,6 @@ ein: 46-2629464
 organization_name: Community Vitalization Council
 mailing_address_state: California
 mailing_address_zip: '90094'
-application_id: '102598612'
 organization_website: 'https://www.iba.io'
 organization_twitter: '@intlbizaccel'
 organization_facebook: '@internationalbusinessaccelerator'
@@ -110,6 +110,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: community-vitalization-council
-order: 17
+order: 7
 
 ---

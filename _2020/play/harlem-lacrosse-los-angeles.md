@@ -1,4 +1,5 @@
 ---
+application_id: '6253597572'
 title: '"Keep Playing"'
 organization_description: Nonprofit
 project_video: 'https://youtu.be/Rn4QmRDytTk'
@@ -11,7 +12,6 @@ ein: 45-1634118
 organization_name: Harlem Lacrosse - Los Angeles
 mailing_address_state: California
 mailing_address_zip: '90043'
-application_id: '96152892'
 organization_website: 'https://www.harlemlacrosse.org'
 organization_twitter: '@harlemlacrosse @HLLAMarissa'
 organization_facebook: '@harlemlacrosseLA'
@@ -123,6 +123,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: play
 filename: harlem-lacrosse-los-angeles
-order: 16
+order: 8
 
 ---

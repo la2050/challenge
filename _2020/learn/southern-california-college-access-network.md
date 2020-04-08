@@ -1,4 +1,5 @@
 ---
+application_id: '4832733463'
 title: 'Project SOAR: Breaking the Cycle of Poverty Through Education'
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=gTjLEpMCLi0&feature=youtu.be'
@@ -11,7 +12,6 @@ ein: 95-4302067
 organization_name: Southern California College Access Network
 mailing_address_state: California
 mailing_address_zip: '90012'
-application_id: '94780558'
 organization_website: 'https://www.socalcan.org'
 organization_twitter: '@socalcan'
 organization_facebook: '@SouthernCaCAN'
@@ -99,6 +99,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: southern-california-college-access-network
-order: 133
+order: 62
 
 ---

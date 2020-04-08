@@ -1,4 +1,5 @@
 ---
+application_id: '2451957966'
 title: LA Homeless Outreach
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?time_continue=81&v=KLEaWKvuVhk&feature=emb_title'
@@ -11,7 +12,6 @@ ein: '611405121'
 organization_name: The Giving Spirit
 mailing_address_state: California
 mailing_address_zip: '90024'
-application_id: '110882561'
 organization_website: 'https://www.thegivingspirit.org/'
 organization_twitter: '@givingspirit'
 organization_facebook: 'https://www.facebook.com/TheGivingSpirit/'
@@ -129,6 +129,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: the-giving-spirit
-order: 121
+order: 50
 
 ---

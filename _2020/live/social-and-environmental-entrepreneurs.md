@@ -1,4 +1,5 @@
 ---
+application_id: '8358309503'
 title: Bringing LA's Green New Deal to Our Neighborhoods
 organization_description: A fiscally sponsored group
 project_video: ''
@@ -11,7 +12,6 @@ ein: 95-4116679
 organization_name: Social and Environmental Entrepreneurs
 mailing_address_state: California
 mailing_address_zip: '91302'
-application_id: '110991785'
 organization_website: 'https://www.ncsa.la'
 organization_twitter: '@LA_NCSA'
 organization_facebook: >-
@@ -100,6 +100,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: social-and-environmental-entrepreneurs
-order: 89
+order: 40
 
 ---

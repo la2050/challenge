@@ -1,4 +1,5 @@
 ---
+application_id: '1465056182'
 title: Center For Powerful Public Schools
 organization_description: Nonprofit
 project_video: ''
@@ -12,7 +13,6 @@ ein: 26-0326342
 organization_name: Center for Powerful Public Schools
 mailing_address_state: California
 mailing_address_zip: '90017'
-application_id: '93189423'
 organization_website: 'https://www.powerfuled.org'
 organization_twitter: '@4PowerfulEdOrg'
 organization_facebook: 'https://www.facebook.com/4PowerfulEdOrg/'
@@ -87,6 +87,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: center-for-powerful-public-schools
-order: 21
+order: 9
 
 ---

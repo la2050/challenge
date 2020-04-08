@@ -1,4 +1,5 @@
 ---
+application_id: '2174426796'
 title: >-
   An Inclusive, Next-Gen Digital Career Navigation Hub for LA’s Green Jobs
   (Presented by Gladeo and LACI)
@@ -14,7 +15,6 @@ ein: '472676458'
 organization_name: Gladeo
 mailing_address_state: California
 mailing_address_zip: '90405'
-application_id: '95520336'
 organization_website: 'https://www.gladeo.org'
 organization_twitter: '@gladeo_org'
 organization_facebook: 'https://www.facebook.com/gladeo.org/'
@@ -146,6 +146,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: gladeo
-order: 71
+order: 32
 
 ---

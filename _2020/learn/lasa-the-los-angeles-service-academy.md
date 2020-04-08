@@ -1,4 +1,5 @@
 ---
+application_id: '3486231591'
 title: Towards a Student-Led Future for Los Angeles
 organization_description: Nonprofit
 project_video: 'https://youtu.be/uGjAQ4LYDr8'
@@ -11,7 +12,6 @@ ein: 95-1642394
 organization_name: LASA - The Los Angeles Service Academy
 mailing_address_state: California
 mailing_address_zip: 90089-0034
-application_id: '96253800'
 organization_website: 'http://laserviceacademy.org'
 organization_twitter: '@LASA_ICW'
 organization_facebook: facebook.com/husc.icw
@@ -107,6 +107,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: lasa-the-los-angeles-service-academy
-order: 86
+order: 40
 
 ---

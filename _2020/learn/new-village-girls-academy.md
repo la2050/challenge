@@ -1,4 +1,5 @@
 ---
+application_id: '2462072314'
 title: New Village Girls Academy
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=8WxKq1YfXfc&feature=youtu.be'
@@ -11,7 +12,6 @@ ein: 59-3810480
 organization_name: New Village Girls Academy
 mailing_address_state: California
 mailing_address_zip: '90026'
-application_id: '110546134'
 organization_website: 'https://newvillagegirlsacademy.org/'
 organization_twitter: '@NewVillageGirls'
 organization_facebook: ''
@@ -142,6 +142,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: learn
 filename: new-village-girls-academy
-order: 103
+order: 48
 
 ---

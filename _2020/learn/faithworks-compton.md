@@ -1,4 +1,5 @@
 ---
+application_id: '4789091513'
 title: Algorithm & Flow
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=FCAcAS_Gc1k'
@@ -11,7 +12,6 @@ ein: 46-3612645
 organization_name: Faithworks Compton
 mailing_address_state: California
 mailing_address_zip: '90220'
-application_id: '112243046'
 organization_website: 'https://algorithmandflow.org/'
 organization_twitter: '@algorithmandflo'
 organization_facebook: 'https://www.facebook.com/algorithmandflow'
@@ -143,6 +143,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: faithworks-compton
-order: 56
+order: 26
 
 ---

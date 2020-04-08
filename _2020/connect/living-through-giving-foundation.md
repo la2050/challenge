@@ -1,4 +1,5 @@
 ---
+application_id: '3569438384'
 title: '#Hashtag Lunchbag across Los Angeles'
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=T-5okZ0MjYs'
@@ -11,7 +12,6 @@ ein: 80-0928421
 organization_name: Living Through Giving Foundation
 mailing_address_state: California
 mailing_address_zip: '90048'
-application_id: '102847123'
 organization_website: 'https://www.hashtaglunchbag.org'
 organization_twitter: ''
 organization_facebook: HashtagLunchbag
@@ -97,6 +97,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: connect
 filename: living-through-giving-foundation
-order: 79
+order: 32
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: '7831815787'
 title: Recovery from Homelessness to Self-Sufficiency
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/user/TMMvolunteer/videos?disable_polymer=1'
@@ -12,7 +13,6 @@ ein: 95-1691293
 organization_name: The Midnight Mission
 mailing_address_state: California
 mailing_address_zip: '91601'
-application_id: '111043679'
 organization_website: 'https://www.midnightmission.org'
 organization_twitter: '@midnightmission'
 organization_facebook: Themidnightmission
@@ -89,6 +89,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: the-midnight-mission
-order: 105
+order: 48
 
 ---

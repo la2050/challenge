@@ -1,4 +1,5 @@
 ---
+application_id: '9258433075'
 title: 'CicLAvia: Open Streets bring Healthier Connections'
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=UXHwcVl72_8'
@@ -11,7 +12,6 @@ ein: 27-3428380
 organization_name: CicLAvia
 mailing_address_state: California
 mailing_address_zip: '90013'
-application_id: '110290885'
 organization_website: 'https://www.ciclavia.org'
 organization_twitter: '@ciclavia'
 organization_facebook: facebook.com/ciclavia
@@ -106,6 +106,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: play
 filename: ciclavia
-order: 9
+order: 4
 
 ---

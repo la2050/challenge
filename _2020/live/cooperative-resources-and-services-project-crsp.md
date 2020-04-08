@@ -1,4 +1,5 @@
 ---
+application_id: '5985716411'
 title: LA Eco-Village Community Hub
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=3lp_G_1v3Cw'
@@ -11,7 +12,6 @@ ein: 95-3900435
 organization_name: Cooperative Resources and Services Project (CRSP)
 mailing_address_state: California
 mailing_address_zip: '90004'
-application_id: '112006349'
 organization_website: 'http://laecovillage.org/crsp/'
 organization_twitter: '@laecovillage'
 organization_facebook: 'https://www.facebook.com/laecovillage/'
@@ -106,6 +106,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: cooperative-resources-and-services-project-crsp
-order: 15
+order: 7
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: '1141986676'
 title: >-
   The Good Life Academy: Helping LA Teens Get the Support they Need to Live
   Their Best Life
@@ -13,7 +14,6 @@ ein: 82-1894269
 organization_name: Roots & Wings Institute of Social and Emotional Learning
 mailing_address_state: California
 mailing_address_zip: '90265'
-application_id: '110878922'
 organization_website: 'https://www.rootsnwings.org'
 organization_twitter: ''
 organization_facebook: 'https://www.facebook.com/rootsandwingsinstitute'
@@ -118,6 +118,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: roots-wings-institute-of-social-and-emotional-learning
-order: 77
+order: 36
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: '5206747294'
 title: Immigrants Empowered = Lives Saved
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=8blh_oWoZaE'
@@ -11,7 +12,6 @@ ein: 95-4421521
 organization_name: Coalition for Humane Immigrant Rights (CHIRLA)
 mailing_address_state: California
 mailing_address_zip: '90031'
-application_id: '111811439'
 organization_website: 'https://www.chirla.org'
 organization_twitter: '@CHIRLA'
 organization_facebook: 'https://www.facebook.com/chirlausa/'
@@ -111,6 +111,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: coalition-for-humane-immigrant-rights-chirla
-order: 25
+order: 11
 
 ---

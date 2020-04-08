@@ -1,4 +1,5 @@
 ---
+application_id: '9883127538'
 title: COOP Careers LA Expansion
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=PZgrcjDxPH0'
@@ -11,7 +12,6 @@ ein: 83-1457260
 organization_name: COOP Careers
 mailing_address_state: New York
 mailing_address_zip: '10036'
-application_id: '111623795'
 organization_website: 'https://www.coopcareers.org'
 organization_twitter: '@coop_cx'
 organization_facebook: 'https://www.facebook.com/cooperate.nyc'
@@ -147,6 +147,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: create
 filename: coop-careers
-order: 22
+order: 10
 
 ---

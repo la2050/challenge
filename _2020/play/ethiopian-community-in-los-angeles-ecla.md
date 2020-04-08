@@ -1,4 +1,5 @@
 ---
+application_id: 0834118024
 title: THE MARATHON PROJECT
 organization_description: Nonprofit
 project_video: ''
@@ -11,7 +12,6 @@ ein: '*********'
 organization_name: ETHIOPIAN COMMUNITY IN LOS ANGELES (ECLA)
 mailing_address_state: California
 mailing_address_zip: '90019'
-application_id: '110847023'
 organization_website: 'https://www.eclosangeles.org'
 organization_twitter: '@EthiopianLos'
 organization_facebook: Ethiopian Community Los Angeles - Nonprofit Organization
@@ -126,6 +126,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: play
 filename: ethiopian-community-in-los-angeles-ecla
-order: 15
+order: 7
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: '7527198279'
 title: Bigger than Baseball
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=bt1CM_Hy4vc'
@@ -11,7 +12,6 @@ ein: 95-4623022
 organization_name: Los Angeles Dodgers Foundation
 mailing_address_state: California
 mailing_address_zip: '90012'
-application_id: '103749373'
 organization_website: 'https://www.mlb.com/dodgers/community/foundation'
 organization_twitter: '@DodgersFdn'
 organization_facebook: 'https://www.facebook.com/LosAngelesDodgersFoundation/'
@@ -143,6 +143,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: play
 filename: los-angeles-dodgers-foundation
-order: 23
+order: 11
 
 ---

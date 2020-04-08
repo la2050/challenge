@@ -1,4 +1,5 @@
 ---
+application_id: '6458849630'
 title: Hollywood Food Coalition "Food Hub"
 organization_description: Nonprofit
 project_video: 'https://vimeo.com/310706884'
@@ -11,7 +12,6 @@ ein: 46-4079214
 organization_name: Hollywood Food Coalition
 mailing_address_state: California
 mailing_address_zip: '90048'
-application_id: '112025111'
 organization_website: 'https://www.hofoco.org'
 organization_twitter: '@hollywoodfoodco'
 organization_facebook: 'https://www.facebook.com/HoFoCo/'
@@ -141,6 +141,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: live
 filename: hollywood-food-coalition
-order: 37
+order: 18
 
 ---

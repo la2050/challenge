@@ -1,4 +1,5 @@
 ---
+application_id: '6301259073'
 title: 'CS Proficiency: Closing the Achievement Gap in Los Angeles'
 organization_description: Nonprofit
 project_video: 'https://vimeo.com/252264371'
@@ -12,7 +13,6 @@ ein: 45-2834070
 organization_name: 9 Dots
 mailing_address_state: California
 mailing_address_zip: '90038'
-application_id: '102073644'
 organization_website: 'https://www.9Dots.org'
 organization_twitter: '@9dotscommunity'
 organization_facebook: 'https://www.facebook.com/9dotscommunity/'
@@ -136,6 +136,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: learn
 filename: 9-dots
-order: 1
+order: 0
 
 ---

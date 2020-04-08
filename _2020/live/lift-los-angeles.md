@@ -1,4 +1,5 @@
 ---
+application_id: '1222192497'
 title: >-
   LIFT’s Family Goal Fund: Moving Money into the Hands of Families who Need it
   Most
@@ -13,7 +14,6 @@ ein: 52-2168409
 organization_name: LIFT-Los Angeles
 mailing_address_state: California
 mailing_address_zip: '90007'
-application_id: '96248258'
 organization_website: 'https://www.liftcommunities.org/'
 organization_twitter: '@LIFTCommunities'
 organization_facebook: '@LIFTCommunities'
@@ -138,6 +138,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: lift-los-angeles
-order: 55
+order: 25
 
 ---

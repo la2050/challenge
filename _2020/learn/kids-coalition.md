@@ -1,4 +1,5 @@
 ---
+application_id: '6590367481'
 title: Establishing a legal right to a high quality public education
 organization_description: A fiscally sponsored group
 project_video: ''
@@ -11,7 +12,6 @@ ein: 20-4562686
 organization_name: Kids Coalition
 mailing_address_state: California
 mailing_address_zip: '90210'
-application_id: '112043138'
 organization_website: >-
   https://twitter.com/KidsCoalition?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
 organization_twitter: '@kidscoalition'
@@ -131,6 +131,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: kids-coalition
-order: 80
+order: 37
 
 ---

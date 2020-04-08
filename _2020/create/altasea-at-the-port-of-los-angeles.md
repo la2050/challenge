@@ -1,4 +1,5 @@
 ---
+application_id: '2092163958'
 title: Be an Aquaculture Scientist
 organization_description: Nonprofit
 project_video: 'https://youtu.be/LcsK-VpGW0I'
@@ -11,7 +12,6 @@ ein: 46-3977904
 organization_name: AltaSea at the Port of Los Angeles
 mailing_address_state: California
 mailing_address_zip: '90731'
-application_id: '96434438'
 organization_website: 'https://www.altasea.org'
 organization_twitter: '@altaseaorg'
 organization_facebook: AltaSea
@@ -112,6 +112,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: altasea-at-the-port-of-los-angeles
-order: 7
+order: 3
 
 ---

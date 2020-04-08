@@ -1,4 +1,5 @@
 ---
+application_id: '5875127369'
 title: The Boys & Girls Clubs of Santa Monica Youth Development Programs
 organization_description: Nonprofit
 project_video: 'https://youtu.be/b9wQf3nZP3k'
@@ -11,7 +12,6 @@ ein: 95-1890706
 organization_name: The Boys & Girls Clubs of Santa Monica
 mailing_address_state: California
 mailing_address_zip: '90401'
-application_id: '108250245'
 organization_website: 'https://www.smbgc.org'
 organization_twitter: '@SMBGC'
 organization_facebook: 'https://www.facebook.com/smbgcfan'
@@ -114,6 +114,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: the-boys-girls-clubs-of-santa-monica
-order: 137
+order: 64
 
 ---

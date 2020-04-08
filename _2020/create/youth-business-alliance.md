@@ -1,4 +1,5 @@
 ---
+application_id: '3644476827'
 title: Career & Entrepreneurship Education for Youth
 organization_description: Nonprofit
 project_video: ''
@@ -11,7 +12,6 @@ ein: 462-067337
 organization_name: Youth Business Alliance
 mailing_address_state: California
 mailing_address_zip: '90017'
-application_id: '112239572'
 organization_website: 'https://www.youthbizalliance.org'
 organization_twitter: '@therealyba'
 organization_facebook: '@youthbusinessalliance'
@@ -121,6 +121,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: youth-business-alliance
-order: 94
+order: 40
 
 ---

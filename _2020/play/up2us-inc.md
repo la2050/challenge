@@ -1,4 +1,5 @@
 ---
+application_id: '5090573787'
 title: The Healing Power of Coaches
 organization_description: Nonprofit
 project_video: >
@@ -14,7 +15,6 @@ ein: 80-0535933
 organization_name: 'Up2Us, Inc.'
 mailing_address_state: New York
 mailing_address_zip: '10018'
-application_id: '112057646'
 organization_website: 'https://www.up2ussports.org'
 organization_twitter: '@up2ussports'
 organization_facebook: 'https://www.facebook.com/Up2UsSports/'
@@ -137,6 +137,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: play
 filename: up2us-inc
-order: 41
+order: 20
 
 ---

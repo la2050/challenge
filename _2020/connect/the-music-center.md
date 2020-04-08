@@ -1,4 +1,5 @@
 ---
+application_id: ''
 title: The Music Center’s Dance DTLA
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=WZio7h1lrew&feature=youtu.be'
@@ -11,7 +12,6 @@ ein: 95-2217011
 organization_name: The Music Center
 mailing_address_state: California
 mailing_address_zip: '90012'
-application_id: '91699816'
 organization_website: 'https://www.musiccenter.org'
 organization_twitter: '@musiccenterLA'
 organization_facebook: www.facebook.com/MusicCenterLA/
@@ -93,6 +93,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: the-music-center
-order: 123
+order: 51
 
 ---

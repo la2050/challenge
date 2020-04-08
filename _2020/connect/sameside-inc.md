@@ -1,4 +1,5 @@
 ---
+application_id: '7572304050'
 title: 'SameSide: Empower Events for Social Impact'
 organization_description: For profit business
 project_video: 'https://youtu.be/uou5PM_3L1I'
@@ -11,7 +12,6 @@ ein: 82-0608357
 organization_name: SameSide Inc
 mailing_address_state: California
 mailing_address_zip: '90028'
-application_id: '111443855'
 organization_website: 'https://www.onsameside.com'
 organization_twitter: '@onsameside'
 organization_facebook: 'https://www.facebook.com/onSameSide/'
@@ -131,6 +131,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: sameside-inc
-order: 101
+order: 42
 
 ---

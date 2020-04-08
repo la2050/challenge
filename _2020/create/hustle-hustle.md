@@ -1,4 +1,5 @@
 ---
+application_id: ''
 title: Reach Los Angeles
 organization_description: For profit business
 project_video: ''
@@ -11,7 +12,6 @@ ein: 83-2285136
 organization_name: Hustle & Hustle
 mailing_address_state: California
 mailing_address_zip: '90042'
-application_id: '110599801'
 organization_website: 'https://www.losangeleno.com'
 organization_twitter: '@losangeleno'
 organization_facebook: 'https://www.facebook.com/wearelosangeleno/'
@@ -111,6 +111,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: hustle-hustle
-order: 37
+order: 15
 
 ---

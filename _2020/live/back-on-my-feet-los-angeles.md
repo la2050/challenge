@@ -1,4 +1,5 @@
 ---
+application_id: '6400152146'
 title: Combatting Homelessness One Mile at a Time
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=5IH3d2WyvOY'
@@ -11,7 +12,6 @@ ein: 26-2109809
 organization_name: Back on My Feet Los Angeles
 mailing_address_state: California
 mailing_address_zip: '90245'
-application_id: '111246284'
 organization_website: 'https://backonmyfeet.org'
 organization_twitter: '@backonmyfeet'
 organization_facebook: 'https://www.facebook.com/BackonMyFeetLA/'
@@ -104,6 +104,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: back-on-my-feet-los-angeles
-order: 5
+order: 2
 
 ---

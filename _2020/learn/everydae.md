@@ -1,4 +1,5 @@
 ---
+application_id: '1211655788'
 title: 'Everydae: digital tutoring for everyone'
 organization_description: For profit business
 project_video: 'https://www.youtube.com/watch?v=HdEsYUUKqko&feature=youtu.be'
@@ -11,7 +12,6 @@ ein: 82-4639400
 organization_name: Everydae
 mailing_address_state: California
 mailing_address_zip: '90232'
-application_id: '112024316'
 organization_website: 'https://www.everydae.com'
 organization_twitter: '@everydae_me'
 organization_facebook: 'https://www.facebook.com/everydae/'
@@ -136,6 +136,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: learn
 filename: everydae
-order: 51
+order: 23
 
 ---

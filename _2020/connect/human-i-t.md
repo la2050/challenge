@@ -1,4 +1,5 @@
 ---
+application_id: 0264910508
 title: '#include'
 organization_description: Nonprofit
 project_video: ''
@@ -11,7 +12,6 @@ ein: 46-0773284
 organization_name: human-I-T
 mailing_address_state: California
 mailing_address_zip: '90746'
-application_id: '112243355'
 organization_website: 'https://www.human-i-t.org/'
 organization_twitter: '@human_i_t'
 organization_facebook: 'https://www.facebook.com/humanitofficial'
@@ -120,6 +120,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: connect
 filename: human-i-t
-order: 51
+order: 19
 
 ---

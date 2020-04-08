@@ -1,4 +1,5 @@
 ---
+application_id: '6536128674'
 title: LA COVID-19 Assessment and Response System (CARES)
 organization_description: Nonprofit
 project_video: ''
@@ -11,7 +12,6 @@ ein: 82-1699198
 organization_name: Inspiring Service
 mailing_address_state: Ohio
 mailing_address_zip: '45202'
-application_id: '112232108'
 organization_website: 'https://inspiringservice.org/'
 organization_twitter: ''
 organization_facebook: ''
@@ -110,6 +110,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: inspiring-service
-order: 59
+order: 23
 
 ---

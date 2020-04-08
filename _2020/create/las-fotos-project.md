@@ -1,4 +1,5 @@
 ---
+application_id: '1789502797'
 title: A Girl-Powered Foto Studio by Las Fotos Project
 organization_description: Nonprofit
 project_video: ''
@@ -12,7 +13,6 @@ ein: 95-4302067
 organization_name: Las Fotos Project
 mailing_address_state: California
 mailing_address_zip: '90012'
-application_id: '87890337'
 organization_website: 'https://www.lasfotosproject.org'
 organization_twitter: '@lasfotosproject'
 organization_facebook: www.facebook.com/lasfotosproject
@@ -118,6 +118,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: las-fotos-project
-order: 45
+order: 18
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: '2776157715'
 title: CHAMPS Charter High School of the Arts Takes the Show on the Road
 organization_description: Nonprofit
 project_video: ''
@@ -12,7 +13,6 @@ ein: 20-1863927
 organization_name: CHAMPS Charter High School of the Arts
 mailing_address_state: California
 mailing_address_zip: '91405'
-application_id: '112036223'
 organization_website: 'https://www.champscharter.org'
 organization_twitter: ChampsCharter
 organization_facebook: ChampsCharter
@@ -99,6 +99,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: champs-charter-high-school-of-the-arts
-order: 25
+order: 11
 
 ---

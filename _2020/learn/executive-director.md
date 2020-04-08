@@ -1,4 +1,5 @@
 ---
+application_id: '2250134777'
 title: EnCorps STEM Teachers in Los Angeles
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=Nr64mAuelrM&t=10s'
@@ -11,7 +12,6 @@ ein: 38-3771471
 organization_name: Executive Director
 mailing_address_state: California
 mailing_address_zip: '90278'
-application_id: '95020281'
 organization_website: 'https://www.encorps.org'
 organization_twitter: '@EnCorps'
 organization_facebook: 'https://www.facebook.com/EnCorps/'
@@ -129,6 +129,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: learn
 filename: executive-director
-order: 53
+order: 24
 
 ---

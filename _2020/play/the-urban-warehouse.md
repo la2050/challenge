@@ -1,4 +1,5 @@
 ---
+application_id: '2198658203'
 title: Skate-4-Education
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?time_continue=32&v=o51Q_P_8uBw&feature=emb_logo'
@@ -12,7 +13,6 @@ ein: 80-0569162
 organization_name: The Urban Warehouse
 mailing_address_state: California
 mailing_address_zip: '90022'
-application_id: '102831235'
 organization_website: 'https://www.thegarageboardshops.com'
 organization_twitter: '@thegarageboardshop'
 organization_facebook: The Garage Board Shop
@@ -103,6 +103,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: play
 filename: the-urban-warehouse
-order: 39
+order: 19
 
 ---

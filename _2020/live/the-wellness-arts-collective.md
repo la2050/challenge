@@ -1,4 +1,5 @@
 ---
+application_id: 0450866477
 title: Community Health + Wellness
 organization_description: For profit business
 project_video: ''
@@ -11,7 +12,6 @@ ein: 82-4916272
 organization_name: The Wellness Arts Collective
 mailing_address_state: California
 mailing_address_zip: '90065'
-application_id: '110601322'
 organization_website: 'https://www.thewellnessartscollective.com'
 organization_twitter: ''
 organization_facebook: 'https://www.facebook.com/thewellnessartscollective/'
@@ -109,6 +109,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: the-wellness-arts-collective
-order: 110
+order: 50
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: '7146150040'
 title: A New LA Story
 organization_description: A fiscally sponsored group
 project_video: ''
@@ -11,7 +12,6 @@ ein: 95-3888111
 organization_name: Kid City Hope Place
 mailing_address_state: California
 mailing_address_zip: '90015'
-application_id: '95841906'
 organization_website: 'https://www.kidcityhopeplace.org'
 organization_twitter: '@KidCityHopePl'
 organization_facebook: Kid City Hope Place
@@ -122,6 +122,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: kid-city-hope-place
-order: 67
+order: 27
 
 ---

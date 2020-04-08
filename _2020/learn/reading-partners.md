@@ -1,4 +1,5 @@
 ---
+application_id: '5311444813'
 title: >-
   Reading Partners LA: The Path to Fourth Grade Reading Proficiency for 1,000
   Children
@@ -14,7 +15,6 @@ ein: 77-0568469
 organization_name: Reading Partners
 mailing_address_state: California
 mailing_address_zip: '91107'
-application_id: '112238378'
 organization_website: 'https://www.readingpartners.org'
 organization_twitter: '@RPLosAngeles'
 organization_facebook: 'https://www.facebook.com/readingpartnersla'
@@ -126,6 +126,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: learn
 filename: reading-partners
-order: 114
+order: 54
 
 ---

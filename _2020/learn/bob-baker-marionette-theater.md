@@ -1,4 +1,5 @@
 ---
+application_id: '9162013764'
 title: The Academy of Puppetry and Allied Arts
 organization_description: Nonprofit
 project_video: |
@@ -13,7 +14,6 @@ ein: 83-0977614
 organization_name: Bob Baker Marionette Theater
 mailing_address_state: California
 mailing_address_zip: '90042'
-application_id: '97018639'
 organization_website: 'https://www.bobbakermarionettetheater.com'
 organization_twitter: ''
 organization_facebook: 'https://www.facebook.com/BobBakerMarionetteTheater/'
@@ -125,6 +125,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: bob-baker-marionette-theater
-order: 15
+order: 7
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: '6566379744'
 title: >-
   RYC After School & STEAM Summer Youth Development & Community Arts Programs
   for L.A.
@@ -13,7 +14,6 @@ ein: 30-0591466
 organization_name: Refresh Youth Center
 mailing_address_state: California
 mailing_address_zip: '90712'
-application_id: '109487452'
 organization_website: 'https://www.refreshyouthcenter.org'
 organization_twitter: '@RycYouth'
 organization_facebook: 'https://www.facebook.com/Refresh-Youth-Center-209501842427600/'
@@ -141,6 +141,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: refresh-youth-center
-order: 119
+order: 56
 
 ---

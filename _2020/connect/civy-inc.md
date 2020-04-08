@@ -1,4 +1,5 @@
 ---
+application_id: '8516103858'
 title: Civy - Civic Engagement Platform
 organization_description: For profit business
 project_video: 'https://youtu.be/WEjYEHhz41Q'
@@ -11,7 +12,6 @@ ein: 84-2843532
 organization_name: 'Civy, Inc.'
 mailing_address_state: California
 mailing_address_zip: '92685'
-application_id: '111993695'
 organization_website: 'https://www.civy.co'
 organization_twitter: '@civyengage'
 organization_facebook: 'https://www.facebook.com/civyengage'
@@ -136,6 +136,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: civy-inc
-order: 21
+order: 9
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: '7396377083'
 title: >-
   LA is the Best Place for Bookworms! Creating Lifelong Readers With Digital
   Media
@@ -13,7 +14,6 @@ ein: '954302067'
 organization_name: 'Book Club for Kids podcast, a project of Community Partners'
 mailing_address_state: California
 mailing_address_zip: '90016'
-application_id: '112023461'
 organization_website: 'https://www.bookclubforkids.org'
 organization_twitter: '@bookclubforkids'
 organization_facebook: Book Club for Kids
@@ -170,6 +170,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: book-club-for-kids-podcast-a-project-of-community-partners
-order: 17
+order: 8
 
 ---

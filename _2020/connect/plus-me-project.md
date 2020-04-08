@@ -1,4 +1,5 @@
 ---
+application_id: '2827935778'
 title: 'Our Stories Matter: Empowering LA To Connect Through Storytelling'
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=XvdrfZcPF_4'
@@ -11,7 +12,6 @@ ein: 46-3506663
 organization_name: PLUS ME Project
 mailing_address_state: California
 mailing_address_zip: '90065'
-application_id: '102802285'
 organization_website: 'https://www.theplusmeproject.org'
 organization_twitter: '@PLUSMEproject'
 organization_facebook: www.facebook.com/theplusmeproject
@@ -138,6 +138,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: connect
 filename: plus-me-project
-order: 95
+order: 39
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: '3546718522'
 title: CostsBeyondTuition.org
 organization_description: Social enterprise or B-corps
 project_video: ''
@@ -11,7 +12,6 @@ ein: 84-3826058
 organization_name: CostsBeyondTuition.org
 mailing_address_state: California
 mailing_address_zip: '91342'
-application_id: '112228733'
 organization_website: 'https://www.costsbeyondtuition.org'
 organization_twitter: '@CBTuition'
 organization_facebook: 'https://www.facebook.com/cbtuition.org'
@@ -122,6 +122,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: learn
 filename: costsbeyondtuition-org
-order: 40
+order: 18
 
 ---

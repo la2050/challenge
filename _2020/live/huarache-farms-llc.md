@@ -1,4 +1,5 @@
 ---
+application_id: '3707384291'
 title: 'Huarache Farms: Building Transparent Cooperative Backyard Farms'
 organization_description: For profit business
 project_video: 'https://www.youtube.com/watch?v=W6ETIiwqp2o&feature=emb_title'
@@ -11,7 +12,6 @@ ein: 84-4326686
 organization_name: Huarache Farms LLC
 mailing_address_state: California
 mailing_address_zip: '91024'
-application_id: '111462680'
 organization_website: 'https://www.huarachefarms.com'
 organization_twitter: '@huarachefarms'
 organization_facebook: ''
@@ -118,6 +118,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: huarache-farms-llc
-order: 41
+order: 19
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: ''
 title: The Why Project
 organization_description: Nonprofit
 project_video: ''
@@ -11,7 +12,6 @@ ein: 83-1856180
 organization_name: Novus Think Tank
 mailing_address_state: California
 mailing_address_zip: '90089'
-application_id: '112243241'
 organization_website: 'https://www.novusthinktank.org'
 organization_twitter: '@novusthinktank'
 organization_facebook: novusthinktank
@@ -115,6 +115,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: novus-think-tank
-order: 105
+order: 49
 
 ---

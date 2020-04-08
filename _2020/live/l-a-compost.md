@@ -1,4 +1,5 @@
 ---
+application_id: '9423745583'
 title: Community Scale Composting across L.A County
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=h_EdQZme3EI'
@@ -11,7 +12,6 @@ ein: 46-1134852
 organization_name: L.A. Compost
 mailing_address_state: California
 mailing_address_zip: '90065'
-application_id: '96431416'
 organization_website: 'https://www.lacompost.org'
 organization_twitter: '@lacompost'
 organization_facebook: 'https://www.facebook.com/L.A.CompostCA/'
@@ -122,6 +122,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: l-a-compost
-order: 51
+order: 24
 
 ---

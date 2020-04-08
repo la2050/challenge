@@ -1,4 +1,5 @@
 ---
+application_id: '3304665242'
 title: Nonviolence Ambassadors of LA
 organization_description: Nonprofit
 project_video: 'https://youtu.be/6p6Yu-Lq2Ss'
@@ -11,7 +12,6 @@ ein: 52-2178069
 organization_name: International Association for Human Values
 mailing_address_state: District of Columbia
 mailing_address_zip: '20009'
-application_id: '102772819'
 organization_website: 'https://us.iahv.org'
 organization_twitter: 'https://twitter.com/iahv?lang=en'
 organization_facebook: 'https://www.facebook.com/iahv/'
@@ -123,6 +123,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: international-association-for-human-values
-order: 45
+order: 21
 
 ---

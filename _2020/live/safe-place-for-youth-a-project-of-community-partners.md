@@ -1,4 +1,5 @@
 ---
+application_id: '2550019166'
 title: Safe Pods for Youth
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=pPnrKfFkHpg&feature=youtu.be'
@@ -11,7 +12,6 @@ ein: '954302067'
 organization_name: 'Safe Place for Youth, a project of Community Partners'
 mailing_address_state: California
 mailing_address_zip: '90291'
-application_id: '105932730'
 organization_website: 'http://www.safeplaceforyouth.org/'
 organization_twitter: '@safeplace4youth'
 organization_facebook: 'https://www.facebook.com/SafePlaceForYouth/'
@@ -119,6 +119,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: safe-place-for-youth-a-project-of-community-partners
-order: 83
+order: 39
 
 ---

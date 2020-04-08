@@ -1,4 +1,5 @@
 ---
+application_id: '6348146521'
 title: Arts2Work LA
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=aw9Fz_G45j8&feature=youtu.be'
@@ -11,7 +12,6 @@ ein: 13-3044606
 organization_name: The Alliance for Media Arts + Culture
 mailing_address_state: Washington
 mailing_address_zip: '99203'
-application_id: '96594958'
 organization_website: 'https://www.thealliance.media'
 organization_twitter: '@ALLIANCE_arts'
 organization_facebook: 'https://www.facebook.com/Alliancearts/'
@@ -139,6 +139,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: the-alliance-for-media-arts-culture
-order: 78
+order: 32
 
 ---

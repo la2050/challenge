@@ -1,4 +1,5 @@
 ---
+application_id: '7240212543'
 title: '#SelfiesforAll: Creating Public Art Together'
 organization_description: Nonprofit
 project_video: ''
@@ -13,7 +14,6 @@ ein: 95-4481955
 organization_name: Los Angeles Neighborhood Initiative (LANI)
 mailing_address_state: California
 mailing_address_zip: '90017'
-application_id: '111228041'
 organization_website: 'https://www.lani.org'
 organization_twitter: '@LANIorg'
 organization_facebook: /LANIorg
@@ -131,6 +131,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: play
 filename: los-angeles-neighborhood-initiative-lani
-order: 27
+order: 13
 
 ---

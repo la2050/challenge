@@ -1,4 +1,5 @@
 ---
+application_id: '2803915528'
 title: Using Stories to Create Community for Under-resourced Groups
 organization_description: Social enterprise or B-corps
 project_video: 'https://player.vimeo.com/video/296520711'
@@ -11,7 +12,6 @@ ein: 47-4307494
 organization_name: "LiteraTea\_(aka Join Our Story)"
 mailing_address_state: California
 mailing_address_zip: '91302'
-application_id: '111999620'
 organization_website: 'https://www.literatea.com'
 organization_twitter: ''
 organization_facebook: literateatime
@@ -134,6 +134,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: literatea-aka-join-our-story
-order: 77
+order: 31
 
 ---

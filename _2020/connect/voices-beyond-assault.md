@@ -1,4 +1,5 @@
 ---
+application_id: '7658940821'
 title: Beauty of Survival Project- Empowering Survivors of Sexual Assault
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=I1pab8m4hKU'
@@ -11,7 +12,6 @@ ein: 81-1869608
 organization_name: Voices Beyond Assault
 mailing_address_state: California
 mailing_address_zip: '90005'
-application_id: '111627050'
 organization_website: 'https://www.voicesbeyondassault.org'
 organization_twitter: '@voicesbeyond'
 organization_facebook: Voices Beyond Assault
@@ -101,6 +101,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: voices-beyond-assault
-order: 135
+order: 56
 
 ---

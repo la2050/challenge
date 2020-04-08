@@ -1,4 +1,5 @@
 ---
+application_id: '6255152249'
 title: Freedom and Fashion Program
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=LoCpt6S6dOs&t=49s'
@@ -11,7 +12,6 @@ ein: 38-3819269
 organization_name: Freedom and Fashion
 mailing_address_state: California
 mailing_address_zip: '91106'
-application_id: '102653839'
 organization_website: 'https://freedomandfashion.org/'
 organization_twitter: '@FreedomNFashion'
 organization_facebook: 'https://www.facebook.com/freedomandfashion/'
@@ -134,6 +134,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: freedom-and-fashion
-order: 61
+order: 28
 
 ---

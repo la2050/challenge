@@ -1,4 +1,5 @@
 ---
+application_id: '2798745061'
 title: Creating Positive Multigenerational Change through LA’s High Schoolers
 organization_description: Nonprofit
 project_video: >-
@@ -12,7 +13,6 @@ ein: 45-4005918
 organization_name: Ednovate
 mailing_address_state: California
 mailing_address_zip: '90071'
-application_id: '104569005'
 organization_website: 'https://www.ednovate.org/'
 organization_twitter: '@EdnovateSchools'
 organization_facebook: 'https://www.facebook.com/ednovateschools/'
@@ -145,6 +145,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: learn
 filename: ednovate
-order: 46
+order: 21
 
 ---

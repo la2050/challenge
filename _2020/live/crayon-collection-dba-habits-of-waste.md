@@ -1,4 +1,5 @@
 ---
+application_id: ''
 title: DrinkTap
 organization_description: Nonprofit
 project_video: 'https://www.facebook.com/watch/?v=622124998303716'
@@ -12,7 +13,6 @@ ein: 46-3314343
 organization_name: Crayon Collection dba Habits Of Waste
 mailing_address_state: California
 mailing_address_zip: '90049'
-application_id: '102662983'
 organization_website: 'https://www.habitsofwaste.org'
 organization_twitter: '@howchangers'
 organization_facebook: howchangers
@@ -145,6 +145,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: crayon-collection-dba-habits-of-waste
-order: 17
+order: 8
 
 ---

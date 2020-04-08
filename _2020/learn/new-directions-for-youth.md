@@ -1,4 +1,5 @@
 ---
+application_id: '9645499856'
 title: After School Program
 organization_description: Nonprofit
 project_video: 'https://ndfy.org/ndy-videos/'
@@ -11,7 +12,6 @@ ein: '952973008'
 organization_name: New Directions for Youth
 mailing_address_state: California
 mailing_address_zip: '91605'
-application_id: '112022189'
 organization_website: 'https://www.ndfy.org'
 organization_twitter: ''
 organization_facebook: new directions for youth
@@ -121,6 +121,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: new-directions-for-youth
-order: 99
+order: 46
 
 ---

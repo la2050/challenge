@@ -1,4 +1,5 @@
 ---
+application_id: '7850520637'
 title: 'Ava: A video game about space pirates and social situations'
 organization_description: For profit business
 project_video: 'https://vimeo.com/339652370'
@@ -12,7 +13,6 @@ ein: '832427289'
 organization_name: Social Cipher
 mailing_address_state: California
 mailing_address_zip: '90017'
-application_id: '106118136'
 organization_website: 'https://www.socialciphergame.com'
 organization_twitter: '@SocialCipher'
 organization_facebook: 'https://www.facebook.com/SocialCipherGame/'
@@ -116,6 +116,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: social-cipher
-order: 109
+order: 45
 
 ---

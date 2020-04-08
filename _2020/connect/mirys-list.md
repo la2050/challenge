@@ -1,4 +1,5 @@
 ---
+application_id: '8827290608'
 title: 'Welcome, Neighbor 2020'
 organization_description: Nonprofit
 project_video: 'https://youtu.be/pk8FW3byDRA'
@@ -11,7 +12,6 @@ ein: 95-4116679
 organization_name: Miry's List
 mailing_address_state: California
 mailing_address_zip: '91302'
-application_id: '96175262'
 organization_website: 'http://www.miryslist.org'
 organization_twitter: '@miryslist'
 organization_facebook: www.facebook.com/miryslist and facebook.com/newarrivalsupperclub
@@ -139,6 +139,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: connect
 filename: mirys-list
-order: 83
+order: 34
 
 ---

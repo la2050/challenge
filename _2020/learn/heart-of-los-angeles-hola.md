@@ -1,4 +1,5 @@
 ---
+application_id: '4390601037'
 title: Heart of Los Angeles’s (HOLA) Visual Arts Department
 organization_description: Nonprofit
 project_video: ''
@@ -11,7 +12,6 @@ ein: 95-4397418
 organization_name: Heart of Los Angeles (HOLA)
 mailing_address_state: California
 mailing_address_zip: '90075'
-application_id: '111798878'
 organization_website: 'https://www.heartofla.org'
 organization_twitter: '@heartofla'
 organization_facebook: 'https://www.facebook.com/heartoflosangeles/'
@@ -122,6 +122,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: heart-of-los-angeles-hola
-order: 75
+order: 34
 
 ---

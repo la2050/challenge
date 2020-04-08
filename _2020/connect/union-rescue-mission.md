@@ -1,4 +1,5 @@
 ---
+application_id: '4010019073'
 title: Every Child & Family Off the Streets
 organization_description: Nonprofit
 project_video: 'https://youtu.be/mz7eoc-SgMg'
@@ -11,7 +12,6 @@ ein: 95-1709293
 organization_name: Union Rescue Mission
 mailing_address_state: California
 mailing_address_zip: '90013'
-application_id: '110100079'
 organization_website: 'https://www.urm.org'
 organization_twitter: '@URM'
 organization_facebook: '@unionrescuemissionla'
@@ -98,6 +98,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: union-rescue-mission
-order: 129
+order: 53
 
 ---

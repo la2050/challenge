@@ -1,4 +1,5 @@
 ---
+application_id: '8872216059'
 title: 'Friendship Clubs: Building Community for ALL Children'
 organization_description: Nonprofit
 project_video: 'https://www.facebook.com/FFsouthbay/videos/557848731717532/'
@@ -11,7 +12,6 @@ ein: '208575157'
 organization_name: Friendship Foundation
 mailing_address_state: California
 mailing_address_zip: '90278'
-application_id: '111784868'
 organization_website: 'https://www.friendshipfoundation.com'
 organization_twitter: '@ffsouthbay'
 organization_facebook: 'https://www.facebook.com/FFsouthbay/'
@@ -76,6 +76,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: friendship-foundation
-order: 45
+order: 17
 
 ---

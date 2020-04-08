@@ -1,4 +1,5 @@
 ---
+application_id: '2870421753'
 title: 3D Knitted Medical Grade Masks
 organization_description: For profit business
 project_video: 'https://video.foxbusiness.com/v/6146374844001/#sp=show-clips'
@@ -14,7 +15,6 @@ ein: 81­1179538
 organization_name: Global Apparel Partners d/b/a Variant
 mailing_address_state: California
 mailing_address_zip: '90265'
-application_id: '112232972'
 organization_website: 'https://www.variantmalibu.com'
 organization_twitter: '@N/A'
 organization_facebook: ''
@@ -126,6 +126,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: create
 filename: global-apparel-partners-d-b-a-variant
-order: 31
+order: 12
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: '6230525810'
 title: Teen Talk
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=vQZAxJTruQ4'
@@ -11,7 +12,6 @@ ein: 95-1691009
 organization_name: Jewish Big Brothers Big Sisters of Los Angeles
 mailing_address_state: California
 mailing_address_zip: '90048'
-application_id: '112058261'
 organization_website: 'https://www.jbbbsla.org'
 organization_twitter: '@TeenTalkApp'
 organization_facebook: 'https://www.facebook.com/jbbbsla/'
@@ -103,6 +103,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: jewish-big-brothers-big-sisters-of-los-angeles
-order: 65
+order: 26
 
 ---

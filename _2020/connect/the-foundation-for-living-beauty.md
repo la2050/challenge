@@ -1,4 +1,5 @@
 ---
+application_id: '8555129066'
 title: Virtual programming
 organization_description: Nonprofit
 project_video: ''
@@ -11,7 +12,6 @@ ein: 20-2914212
 organization_name: The Foundation for Living Beauty
 mailing_address_state: California
 mailing_address_zip: '91101'
-application_id: '112015112'
 organization_website: 'https://www.livingbeauty.org'
 organization_twitter: '@livingbeautyorg'
 organization_facebook: 'https://www.facebook.com/foundationforlivingbeauty/'
@@ -114,6 +114,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: connect
 filename: the-foundation-for-living-beauty
-order: 119
+order: 49
 
 ---

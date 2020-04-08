@@ -1,4 +1,5 @@
 ---
+application_id: 0006072821
 title: The Urban Cyclists Collective
 organization_description: Nonprofit
 project_video: ''
@@ -11,7 +12,6 @@ ein: 27-1119835
 organization_name: East Side Riders Bike Club
 mailing_address_state: California
 mailing_address_zip: '90002'
-application_id: '100302697'
 organization_website: 'https://www.esrbc.org'
 organization_twitter: '@eastsideriders'
 organization_facebook: facebook.com/eastsideriders
@@ -95,6 +95,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: play
 filename: east-side-riders-bike-club
-order: 13
+order: 6
 
 ---

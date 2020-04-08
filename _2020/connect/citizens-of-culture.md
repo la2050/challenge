@@ -1,4 +1,5 @@
 ---
+application_id: '8703881156'
 title: Community Practice
 organization_description: Nonprofit
 project_video: 'https://vimeo.com/363956969'
@@ -11,7 +12,6 @@ ein: 82-1044989
 organization_name: Citizens Of Culture
 mailing_address_state: California
 mailing_address_zip: '90012'
-application_id: '96231160'
 organization_website: 'https://www.citizensofculture.com'
 organization_twitter: '@ctznsofculture'
 organization_facebook: 'https://www.facebook.com/CitizensOfCulture/'
@@ -137,6 +137,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: citizens-of-culture
-order: 19
+order: 8
 
 ---

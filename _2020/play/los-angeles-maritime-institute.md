@@ -1,4 +1,5 @@
 ---
+application_id: '8165696132'
 title: Ocean Adventure Together!
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=ZtLo4pVlVK4'
@@ -12,7 +13,6 @@ ein: 33-0515416
 organization_name: Los Angeles Maritime Institute
 mailing_address_state: California
 mailing_address_zip: '90731'
-application_id: '112231211'
 organization_website: 'https://www.lamitopsail.org'
 organization_twitter: '@lami_topsail'
 organization_facebook: 'https://www.facebook.com/lami.topsail'
@@ -103,6 +103,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: play
 filename: los-angeles-maritime-institute
-order: 25
+order: 12
 
 ---

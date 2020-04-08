@@ -1,4 +1,5 @@
 ---
+application_id: '8935601147'
 title: Open Spaces
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=ga9tL4gsO8M&feature=youtu.be'
@@ -11,7 +12,6 @@ ein: 83-3172348
 organization_name: Los Angeles Room & Board
 mailing_address_state: California
 mailing_address_zip: '91801'
-application_id: '111477005'
 organization_website: 'https://www.larnb.org'
 organization_twitter: '@LA_RoomAndBoard'
 organization_facebook: 'https://www.facebook.com/losangelesroomandboard/'
@@ -142,6 +142,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: los-angeles-room-board
-order: 57
+order: 26
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: '2184935223'
 title: WECARE Trauma-Informed Training
 organization_description: Nonprofit
 project_video: ''
@@ -11,7 +12,6 @@ ein: 95-4827367
 organization_name: CleanSlate
 mailing_address_state: California
 mailing_address_zip: '91766'
-application_id: '111626201'
 organization_website: 'https://www.cleanslate-la.org/'
 organization_twitter: '@cleanslatelaorg'
 organization_facebook: 'https://www.facebook.com/CleanSlateLA'
@@ -128,6 +128,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: cleanslate
-order: 9
+order: 4
 
 ---

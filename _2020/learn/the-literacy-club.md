@@ -1,4 +1,5 @@
 ---
+application_id: '4547232942'
 title: 'eeding Book Deserts™ One Book, One Child & One Community Book Box'
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=RbF2WjlaJE8'
@@ -11,7 +12,6 @@ ein: 47-3898927
 organization_name: The Literacy Club
 mailing_address_state: California
 mailing_address_zip: '91342'
-application_id: '112243703'
 organization_website: 'https://www.theliteracyclub.org'
 organization_twitter: '@theliteracyclub'
 organization_facebook: The Literacy Club
@@ -113,6 +113,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: the-literacy-club
-order: 139
+order: 65
 
 ---

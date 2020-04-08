@@ -1,4 +1,5 @@
 ---
+application_id: '7253158826'
 title: 'DTLA: From Underdog to Innovation Superhero'
 organization_description: Nonprofit
 project_video: 'https://vimeo.com/403879917'
@@ -11,7 +12,6 @@ ein: 82-1726203
 organization_name: Alliance for Southern California Innovation
 mailing_address_state: California
 mailing_address_zip: '91103'
-application_id: '112047488'
 organization_website: 'https://www.alliancesocal.org'
 organization_twitter: '@alliance_socal'
 organization_facebook: 'https://www.facebook.com/alliancesocal/'
@@ -144,6 +144,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: create
 filename: alliance-for-southern-california-innovation
-order: 4
+order: 2
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: '6408296487'
 title: >-
   Build Acceptance & Inclusion of Persons with Disabilities in LAUSD via Special
   Olympics Unified Champion Schools®
@@ -18,7 +19,6 @@ ein: 95-4538450
 organization_name: Special Olympics Southern California
 mailing_address_state: California
 mailing_address_zip: '90810'
-application_id: '110865422'
 organization_website: 'https://www.sosc.org'
 organization_twitter: 'https://twitter.com/sosocal'
 organization_facebook: 'https://www.facebook.com/soscsocal'
@@ -189,6 +189,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: special-olympics-southern-california
-order: 113
+order: 47
 
 ---

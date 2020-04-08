@@ -1,4 +1,5 @@
 ---
+application_id: '3380500768'
 title: L.A. Works Take Action Initiative
 organization_description: Nonprofit
 project_video: 'https://youtu.be/o1iZ3DzDLds'
@@ -11,7 +12,6 @@ ein: 95-4329727
 organization_name: L.A. Works
 mailing_address_state: California
 mailing_address_zip: '90065'
-application_id: '96301388'
 organization_website: 'https://www.laworks.com'
 organization_twitter: '@LAWorksNow'
 organization_facebook: '@laworks'
@@ -131,6 +131,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: l-a-works
-order: 70
+order: 29
 
 ---

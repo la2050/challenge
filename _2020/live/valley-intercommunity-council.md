@@ -1,4 +1,5 @@
 ---
+application_id: '2569668561'
 title: 'Live Better: Helping Low-Income Seniors Not Only Survive, But Thrive'
 organization_description: Nonprofit
 project_video: Not available.
@@ -12,7 +13,6 @@ ein: 95-2653387
 organization_name: Valley InterCommunity Council
 mailing_address_state: California
 mailing_address_zip: '91401'
-application_id: '110330263'
 organization_website: 'https://www.vic-la.org'
 organization_twitter: '@@sfvalleycouncil'
 organization_facebook: '@yourbridgetohelp'
@@ -140,6 +140,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: valley-intercommunity-council
-order: 120
+order: 54
 
 ---

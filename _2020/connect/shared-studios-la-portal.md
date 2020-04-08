@@ -1,4 +1,5 @@
 ---
+application_id: '3687258086'
 title: >-
   Social Distancing Together: Reflecting on life under COVID-19 and imagining a
   more vibrant and resilient LA
@@ -13,7 +14,6 @@ ein: '471773856'
 organization_name: Shared_Studios (LA_Portal)
 mailing_address_state: New York
 mailing_address_zip: '11205'
-application_id: '112244132'
 organization_website: 'https://www.sharedstudios.com'
 organization_twitter: '@sharedstudios'
 organization_facebook: www.facebook.com/sharedstudios/
@@ -156,6 +156,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: shared-studios-la-portal
-order: 103
+order: 43
 
 ---

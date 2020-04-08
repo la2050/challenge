@@ -1,4 +1,5 @@
 ---
+application_id: '5925816703'
 title: Leadership Development
 organization_description: Nonprofit
 project_video: not applicable
@@ -12,7 +13,6 @@ ein: 83-1265253
 organization_name: Nature for All
 mailing_address_state: California
 mailing_address_zip: '91776'
-application_id: '109928461'
 organization_website: 'https://lanatureforall.org/'
 organization_twitter: '@lanatureforall'
 organization_facebook: lanatureforall
@@ -111,6 +111,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: play
 filename: nature-for-all
-order: 31
+order: 15
 
 ---

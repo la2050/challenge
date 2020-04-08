@@ -1,4 +1,5 @@
 ---
+application_id: '5026106186'
 title: >-
   United Parents and Students: Strengthening Access to High-Quality Supermarkets
   in Low-Income Communities Across Los Angeles
@@ -13,7 +14,6 @@ ein: 81-3413763
 organization_name: United Parents and Students
 mailing_address_state: California
 mailing_address_zip: '90015'
-application_id: '109988251'
 organization_website: 'https://www.unitedparentsandstudents.org'
 organization_twitter: ''
 organization_facebook: www.facebook.com/UnitedParentsandStudents/
@@ -124,6 +124,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: united-parents-and-students
-order: 114
+order: 52
 
 ---

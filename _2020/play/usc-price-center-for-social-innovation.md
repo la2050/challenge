@@ -1,4 +1,5 @@
 ---
+application_id: '8298263104'
 title: Supporting Safe PLAY Through Neighborhood Data
 organization_description: Nonprofit
 project_video: >-
@@ -17,7 +18,6 @@ ein: 95-1642394
 organization_name: USC Price Center for Social Innovation
 mailing_address_state: California
 mailing_address_zip: '90089'
-application_id: '94994628'
 organization_website: 'https://www.socialinnovation.usc.edu/'
 organization_twitter: '@USCPriceCSI'
 organization_facebook: Facebook.com/PriceSocialInnovation
@@ -142,6 +142,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: play
 filename: usc-price-center-for-social-innovation
-order: 43
+order: 21
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: '9495192662'
 title: POPS the Club
 organization_description: Nonprofit
 project_video: 'https://vimeo.com/362880489'
@@ -11,7 +12,6 @@ ein: 46-4535915
 organization_name: POPS the Club
 mailing_address_state: California
 mailing_address_zip: '90295'
-application_id: '112053434'
 organization_website: 'https://popsclubs.org'
 organization_twitter: '@POPStheclub'
 organization_facebook: 'https://www.facebook.com/popstheclub/'
@@ -118,6 +118,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: play
 filename: pops-the-club
-order: 33
+order: 16
 
 ---

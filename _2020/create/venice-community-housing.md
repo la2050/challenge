@@ -1,4 +1,5 @@
 ---
+application_id: '9981861933'
 title: Empowering Community Through Cultural Creativity
 organization_description: Nonprofit
 project_video: 'https://youtu.be/uOI3pV1zIN8'
@@ -11,7 +12,6 @@ ein: 95-4200761
 organization_name: Venice Community Housing
 mailing_address_state: California
 mailing_address_zip: '90291'
-application_id: '102832198'
 organization_website: 'https://www.vchcorp.org/'
 organization_twitter: '@VCHC'
 organization_facebook: www.facebook.com/vchcorp/
@@ -136,6 +136,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: venice-community-housing
-order: 90
+order: 38
 
 ---

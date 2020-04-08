@@ -1,4 +1,5 @@
 ---
+application_id: '8781611449'
 title: 'ProjectArt LA: A Solution for Budget Cuts'
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=RFX2INXxf7M'
@@ -11,7 +12,6 @@ ein: 46-1518061
 organization_name: ProjectArt
 mailing_address_state: New York
 mailing_address_zip: '11201'
-application_id: '100291258'
 organization_website: 'https://www.projectart.org'
 organization_twitter: '@projectartusa'
 organization_facebook: '@projectartusa'
@@ -134,6 +134,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: projectart
-order: 111
+order: 52
 
 ---

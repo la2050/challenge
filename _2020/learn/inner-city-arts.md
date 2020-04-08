@@ -1,4 +1,5 @@
 ---
+application_id: '4132777242'
 title: 'Inner-City Arts: Virtual Arts Education Project'
 organization_description: Nonprofit
 project_video: 'https://youtu.be/tsIL2y-fEk4'
@@ -11,7 +12,6 @@ ein: 95-4239478
 organization_name: Inner-City Arts
 mailing_address_state: California
 mailing_address_zip: '90021'
-application_id: '91039943'
 organization_website: 'https://www.inner-cityarts.org'
 organization_twitter: '@InnerCityArts'
 organization_facebook: 'https://www.facebook.com/innercityartsLA/'
@@ -134,6 +134,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: inner-city-arts
-order: 77
+order: 35
 
 ---

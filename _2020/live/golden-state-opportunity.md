@@ -1,4 +1,5 @@
 ---
+application_id: '6203029591'
 title: Helping Angelenos Access Services and Thrive
 organization_description: Nonprofit
 project_video: 'https://vimeo.com/395775204'
@@ -11,7 +12,6 @@ ein: 47-4325738
 organization_name: Golden State Opportunity
 mailing_address_state: California
 mailing_address_zip: '94104'
-application_id: '112010093'
 organization_website: 'http://www.goldenstateopportunity.org; www.caleitic4me.org'
 organization_twitter: '@GSOpportunity'
 organization_facebook: 'https://www.facebook.com/CalEITC4Me/'
@@ -130,6 +130,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: golden-state-opportunity
-order: 31
+order: 15
 
 ---

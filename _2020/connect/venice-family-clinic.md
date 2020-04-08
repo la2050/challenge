@@ -1,4 +1,5 @@
 ---
+application_id: '8036124319'
 title: West L.A. Votes! — A Civic Engagement Initiative
 organization_description: Nonprofit
 project_video: ''
@@ -11,7 +12,6 @@ ein: 95-2769432
 organization_name: Venice Family Clinic
 mailing_address_state: California
 mailing_address_zip: '90291'
-application_id: '111002711'
 organization_website: 'https://venicefamilyclinic.org'
 organization_twitter: '@VeniceFamClinic'
 organization_facebook: 'https://www.facebook.com/venicefamilyclinic'
@@ -105,6 +105,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: venice-family-clinic
-order: 133
+order: 55
 
 ---

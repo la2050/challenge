@@ -1,4 +1,5 @@
 ---
+application_id: '9102462734'
 title: LA Homeless Resource Portal
 organization_description: Nonprofit
 project_video: ''
@@ -11,7 +12,6 @@ ein: 95-3510017
 organization_name: Information and Referral Federation of LA County (DBA 211 LA)
 mailing_address_state: California
 mailing_address_zip: '91776'
-application_id: '112228487'
 organization_website: 'https://www.211la.org'
 organization_twitter: '@211LACounty'
 organization_facebook: 211 LA County
@@ -126,6 +126,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: information-and-referral-federation-of-la-county-dba-211-la
-order: 43
+order: 20
 
 ---

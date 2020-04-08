@@ -1,4 +1,5 @@
 ---
+application_id: '1309257008'
 title: >-
   Help ReDiscover Center establish one of the largest Youth Makerspace
   Facilities in the entire country!
@@ -13,7 +14,6 @@ ein: 20-0192617
 organization_name: reDiscover Center
 mailing_address_state: California
 mailing_address_zip: '90066'
-application_id: '111006269'
 organization_website: 'https://www.rediscovercenter.org'
 organization_twitter: '@reDiscoverCtr'
 organization_facebook: 'https://www.facebook.com/reDiscoverCenter/'
@@ -140,6 +140,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: rediscover-center
-order: 117
+order: 55
 
 ---

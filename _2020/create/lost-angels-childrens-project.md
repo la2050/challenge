@@ -1,4 +1,5 @@
 ---
+application_id: '5972568233'
 title: Good Life Manufacturing
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/channel/UCOvrKOyEN7EM1xugQ88v1HQ'
@@ -11,7 +12,6 @@ ein: '473384907'
 organization_name: Lost Angels Children's Project
 mailing_address_state: California
 mailing_address_zip: '93534'
-application_id: '102358623'
 organization_website: 'https://www.lostangelscp.org'
 organization_twitter: '@LostAngelsCP'
 organization_facebook: '@lostangelscp'
@@ -89,6 +89,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: lost-angels-childrens-project
-order: 50
+order: 21
 
 ---

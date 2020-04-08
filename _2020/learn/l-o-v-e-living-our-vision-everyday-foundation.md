@@ -1,4 +1,5 @@
 ---
+application_id: '4454087793'
 title: Sanctuary of Love Resource and Referral Center
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=DMkHhdGTyYQ&t=7s'
@@ -11,7 +12,6 @@ ein: 45-4825361
 organization_name: L.O.V.E. Living Our Vision Everyday Foundation
 mailing_address_state: California
 mailing_address_zip: '91423'
-application_id: '112237274'
 organization_website: 'https://www.lovefoundation.net'
 organization_twitter: '@lovefoun'
 organization_facebook: lovefoundationlosangeles
@@ -165,6 +165,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: l-o-v-e-living-our-vision-everyday-foundation
-order: 83
+order: 38
 
 ---

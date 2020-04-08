@@ -1,4 +1,5 @@
 ---
+application_id: '7295369665'
 title: The Art Can Save Lives
 organization_description: Nonprofit
 project_video: ''
@@ -12,7 +13,6 @@ ein: '320477979'
 organization_name: LASTing Impressions Center
 mailing_address_state: California
 mailing_address_zip: '90305'
-application_id: '112057847'
 organization_website: 'https://lastingimpressionscenter.org/'
 organization_twitter: '@lastingimpressionscenter'
 organization_facebook: 'https://www.facebook.com/LastingImpressionsCenter/'
@@ -92,6 +92,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: lasting-impressions-center
-order: 75
+order: 30
 
 ---

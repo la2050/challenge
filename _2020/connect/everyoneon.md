@@ -1,4 +1,5 @@
 ---
+application_id: '4317873115'
 title: Connected & Empowered Communities (CEC)
 organization_description: Nonprofit
 project_video: ''
@@ -11,7 +12,6 @@ ein: 45-4868462
 organization_name: EveryoneOn
 mailing_address_state: District of Columbia
 mailing_address_zip: '20002'
-application_id: '112006364'
 organization_website: 'https://www.everyoneon.org'
 organization_twitter: '@Everyone_On'
 organization_facebook: EveryoneOn
@@ -131,6 +131,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: connect
 filename: everyoneon
-order: 39
+order: 14
 
 ---

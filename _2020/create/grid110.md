@@ -1,4 +1,5 @@
 ---
+application_id: '7847632664'
 title: Grid110 South LA
 organization_description: Nonprofit
 project_video: ''
@@ -11,7 +12,6 @@ ein: 47-4318779
 organization_name: Grid110
 mailing_address_state: California
 mailing_address_zip: '90017'
-application_id: '96442486'
 organization_website: 'https://www.grid110.org'
 organization_twitter: '@grid110'
 organization_facebook: 'https://www.facebook.com/grid110'
@@ -123,6 +123,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: grid110
-order: 33
+order: 13
 
 ---

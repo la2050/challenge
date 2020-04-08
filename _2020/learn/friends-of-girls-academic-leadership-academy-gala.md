@@ -1,4 +1,5 @@
 ---
+application_id: '9819766393'
 title: 'GALA: Girls in STEM'
 organization_description: Nonprofit
 project_video: ''
@@ -13,7 +14,6 @@ ein: 81-2014188
 organization_name: Friends of Girls Academic Leadership Academy (GALA)
 mailing_address_state: California
 mailing_address_zip: '90019'
-application_id: '111461111'
 organization_website: 'https://www.GALAcademy.org'
 organization_twitter: '@GALAcademy'
 organization_facebook: '@GALAcademy'
@@ -70,6 +70,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: friends-of-girls-academic-leadership-academy-gala
-order: 63
+order: 29
 
 ---

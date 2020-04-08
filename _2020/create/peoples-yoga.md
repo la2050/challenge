@@ -1,4 +1,5 @@
 ---
+application_id: '2177852973'
 title: Empower the Next Generation of Community Yoga Leaders!
 organization_description: For profit business
 project_video: 'https://www.youtube.com/watch?v=uLznHlM2bfo'
@@ -11,7 +12,6 @@ ein: 46-4603342
 organization_name: People's Yoga
 mailing_address_state: California
 mailing_address_zip: '90022'
-application_id: '112228379'
 organization_website: 'https://www.peoplesyoga.org'
 organization_twitter: ''
 organization_facebook: 'https://www.facebook.com/PeoplesYogaStudio/'
@@ -122,6 +122,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: create
 filename: peoples-yoga
-order: 61
+order: 26
 
 ---

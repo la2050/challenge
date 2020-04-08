@@ -1,4 +1,5 @@
 ---
+application_id: '9514335657'
 title: 'Entrepreneurship in Every School: Los Angeles'
 organization_description: Nonprofit
 project_video: 'https://vimeo.com/337562053'
@@ -11,7 +12,6 @@ ein: 13-3408731
 organization_name: 'Network for Teaching Entrepreneurship, Los Angeles (NFTE LA)'
 mailing_address_state: California
 mailing_address_zip: '91203'
-application_id: '111031040'
 organization_website: 'https://www.nfte.com/la'
 organization_twitter: '@nftegreaterla'
 organization_facebook: 'https://www.facebook.com/NFTELA/'
@@ -96,6 +96,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: network-for-teaching-entrepreneurship-los-angeles-nfte-la
-order: 97
+order: 45
 
 ---

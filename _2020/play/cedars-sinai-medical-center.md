@@ -1,4 +1,5 @@
 ---
+application_id: ''
 title: 'ShineLA: Transforming the way Angelenos feel, move, and connect in our city'
 organization_description: Nonprofit
 project_video: 'https://cedars.box.com/s/gshbn6tw7tpqaki6v65mtabsu24rhl44'
@@ -14,7 +15,6 @@ ein: 95-1644600
 organization_name: Cedars Sinai Medical Center
 mailing_address_state: California
 mailing_address_zip: '90048'
-application_id: '110283082'
 organization_website: >-
   https://www.https://www.cedars-sinai.org/research/departments-institutes/cancer/community/health-equity.html
 organization_twitter: '@CSCancerCare'
@@ -120,6 +120,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: play
 filename: cedars-sinai-medical-center
-order: 6
+order: 3
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: ''
 title: Latino Lens Incubators
 organization_description: Nonprofit
 project_video: ''
@@ -11,7 +12,6 @@ ein: '134198479'
 organization_name: National Association of Latino Independent Producers (NALIP)
 mailing_address_state: California
 mailing_address_zip: '90034'
-application_id: '102659056'
 organization_website: 'https://www.nalip.org'
 organization_twitter: '@nalip_org'
 organization_facebook: facebook.com/nalip
@@ -138,6 +138,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: national-association-of-latino-independent-producers-nalip
-order: 57
+order: 24
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: '5774774037'
 title: Harmony Project Music Program
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=CFmvaxXFwqU'
@@ -12,7 +13,6 @@ ein: 95-4856236
 organization_name: Harmony Project
 mailing_address_state: California
 mailing_address_zip: '90010'
-application_id: '91725562'
 organization_website: 'https://www.harmony-project.org'
 organization_twitter: '@HarmonyProject'
 organization_facebook: 'https://www.facebook.com/HarmonyProjectLA/'
@@ -131,6 +131,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: play
 filename: harmony-project
-order: 19
+order: 9
 
 ---

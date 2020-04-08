@@ -1,4 +1,5 @@
 ---
+application_id: '7675873186'
 title: Free Arts for Abused or At-Risk Children
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=YO7SaqJLzsM&feature=emb_logo'
@@ -11,7 +12,6 @@ ein: '953252001'
 organization_name: Free Arts
 mailing_address_state: California
 mailing_address_zip: '90045'
-application_id: '111250430'
 organization_website: 'https://www.freearts.org'
 organization_twitter: '@FreeArtsLA'
 organization_facebook: FreeArtsLA/
@@ -90,6 +90,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: free-arts
-order: 43
+order: 16
 
 ---

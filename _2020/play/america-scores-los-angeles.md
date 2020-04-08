@@ -1,4 +1,5 @@
 ---
+application_id: ''
 title: Literacy in Action
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=Ngn_5CDLQDU'
@@ -11,7 +12,6 @@ ein: 65-1163540
 organization_name: America SCORES Los Angeles
 mailing_address_state: California
 mailing_address_zip: '90034'
-application_id: '110868071'
 organization_website: 'https://www.lascores.org/'
 organization_twitter: '@LAScores'
 organization_facebook: 'https://www.facebook.com/LA-SCORES-11578716019/'
@@ -115,6 +115,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: play
 filename: america-scores-los-angeles
-order: 1
+order: 0
 
 ---

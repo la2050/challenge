@@ -1,4 +1,5 @@
 ---
+application_id: '3451410244'
 title: Future Ready
 organization_description: Nonprofit
 project_video: ''
@@ -11,7 +12,6 @@ ein: 95-4419365
 organization_name: West Valley Boys & Girls Club
 mailing_address_state: California
 mailing_address_zip: '91303'
-application_id: '105938439'
 organization_website: 'https://www.wvbgc.org'
 organization_twitter: '@wvbgc'
 organization_facebook: 'https://www.facebook.com/wvbgc/'
@@ -94,6 +94,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: west-valley-boys-girls-club
-order: 157
+order: 73
 
 ---

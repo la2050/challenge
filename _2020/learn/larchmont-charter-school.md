@@ -1,4 +1,5 @@
 ---
+application_id: '8610574510'
 title: REAL SCHOOL for LA Kids
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=GjY2oTPnxak'
@@ -18,7 +19,6 @@ ein: 57-1206928
 organization_name: Larchmont Charter School
 mailing_address_state: California
 mailing_address_zip: '90004'
-application_id: '96440756'
 organization_website: 'https://www.LarchmontCharter.org'
 organization_twitter: '@LarchmontSchool'
 organization_facebook: 'https://www.facebook.com/LarchmontSchool/'
@@ -134,6 +134,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: larchmont-charter-school
-order: 85
+order: 39
 
 ---

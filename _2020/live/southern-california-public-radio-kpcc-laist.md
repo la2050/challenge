@@ -1,4 +1,5 @@
 ---
+application_id: '3497990999'
 title: How To New LA
 organization_description: Nonprofit
 project_video: 'https://www.facebook.com/theLAist/videos/755113678352809/'
@@ -12,7 +13,6 @@ ein: 95-4765734
 organization_name: Southern California Public Radio/KPCC/LAist
 mailing_address_state: California
 mailing_address_zip: '91105'
-application_id: '98328195'
 organization_website: 'https://www.laist.com, www.scpr.org'
 organization_twitter: '@LAist, @KPCC'
 organization_facebook: 'https://www.facebook.com/theLAist/, https://www.facebook.com/kpcc/'
@@ -101,6 +101,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: southern-california-public-radio-kpcc-laist
-order: 91
+order: 41
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: 0554870441
 title: Fighting Social Inequality For College Students
 organization_description: Nonprofit
 project_video: ''
@@ -17,7 +18,6 @@ ein: '951642394'
 organization_name: University of Southern California
 mailing_address_state: California
 mailing_address_zip: 90089-0035
-application_id: '108244026'
 organization_website: 'http://cpf.usc.edu'
 organization_twitter: '@uscpolfuture'
 organization_facebook: facebook.com/uscpolfuture
@@ -117,6 +117,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: university-of-southern-california
-order: 88
+order: 37
 
 ---

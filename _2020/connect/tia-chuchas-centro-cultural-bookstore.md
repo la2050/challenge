@@ -1,4 +1,5 @@
 ---
+application_id: '4087626314'
 title: >-
   Indigenous In Us: Embracing Ancestral Knowledge and Sharing the Beauty of
   Practice
@@ -13,7 +14,6 @@ ein: 47-0919488
 organization_name: Tia Chucha's Centro Cultural & Bookstore
 mailing_address_state: California
 mailing_address_zip: '91342'
-application_id: '110292793'
 organization_website: 'https://www.tiachucha.org'
 organization_twitter: '@TiaChucha'
 organization_facebook: 'https://www.facebook.com/TiaChuchasCentroCultural/'
@@ -116,6 +116,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: tia-chuchas-centro-cultural-bookstore
-order: 125
+order: 52
 
 ---

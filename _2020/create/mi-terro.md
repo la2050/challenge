@@ -1,4 +1,5 @@
 ---
+application_id: '8286348431'
 title: Mi Terro Food Waste
 organization_description: For profit business
 project_video: 'https://youtu.be/Z8dU0mKXJoQ'
@@ -11,7 +12,6 @@ ein: 83-2207962
 organization_name: Mi Terro
 mailing_address_state: California
 mailing_address_zip: '91748'
-application_id: '102639085'
 organization_website: 'https://www.miterro.com'
 organization_twitter: '@mi_terro'
 organization_facebook: 'https://www.facebook.com/miterro.fashion'
@@ -86,6 +86,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: mi-terro
-order: 53
+order: 22
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: '6826309575'
 title: Urban $marts LA
 organization_description: For profit business
 project_video: 'https://www.youtube.com/watch?v=c3ewF4Voc1M'
@@ -11,7 +12,6 @@ ein: 20-5305608
 organization_name: Renovation Planners
 mailing_address_state: California
 mailing_address_zip: '90230'
-application_id: '110313058'
 organization_website: 'https://www.renplan.com and https://www.monicadhiggins.com'
 organization_twitter: '@monicadhiggins'
 organization_facebook: '@monicadhiggins'
@@ -134,6 +134,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: renovation-planners
-order: 75
+order: 35
 
 ---

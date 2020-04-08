@@ -1,4 +1,5 @@
 ---
+application_id: '2892563613'
 title: Modern Band Los Angeles County
 organization_description: Nonprofit
 project_video: 'https://youtu.be/5lEwOLdfC28'
@@ -11,7 +12,6 @@ ein: 94-3396568
 organization_name: Little Kids Rock
 mailing_address_state: New Jersey
 mailing_address_zip: '7044'
-application_id: '87641286'
 organization_website: 'https://www.littlekidsrock.org/'
 organization_twitter: '@littlekidsrock'
 organization_facebook: Little Kids Rock
@@ -141,6 +141,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: little-kids-rock
-order: 89
+order: 41
 
 ---

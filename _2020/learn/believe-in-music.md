@@ -1,4 +1,5 @@
 ---
+application_id: '3106274781'
 title: Believe In Music
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=KtLDaStOSl8#action=share'
@@ -11,7 +12,6 @@ ein: 47-5384551
 organization_name: Believe In Music
 mailing_address_state: Maryland
 mailing_address_zip: '21202'
-application_id: '112241261'
 organization_website: 'http://webelieveinmusic.com/'
 organization_twitter: '@believeinmusic5'
 organization_facebook: 'https://www.facebook.com/believehon'
@@ -112,6 +112,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: believe-in-music
-order: 13
+order: 6
 
 ---

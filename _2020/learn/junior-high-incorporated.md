@@ -1,13 +1,13 @@
 ---
+application_id: '2339915893'
 title: Money Makers
 organization_description: Nonprofit
-project_video: https://www.youtube.com/watch?v=rvDwGhfCDgg&t=8s
-# project_video: >
-#  https://www.youtube.com/watch?v=rvDwGhfCDgg&t=8s <==Fundraising video for
-#  2018
-#
-#  https://www.youtube.com/watch?v=U1EjeCYeACQ&t=63s <==Fundraising video for
-#  2017
+project_video: >
+  https://www.youtube.com/watch?v=rvDwGhfCDgg&t=8s <---Fundraising video for
+  2018
+
+  https://www.youtube.com/watch?v=U1EjeCYeACQ&t=63s <---Fundraising video for
+  2017
 link_donate: juniorhighla.com/donate
 link_volunteer: juniorhighla.com/volunteers
 link_newsletter: juniorhighla.com/newsletter
@@ -17,7 +17,6 @@ ein: 81-2071394
 organization_name: 'Junior High, Incorporated'
 mailing_address_state: California
 mailing_address_zip: '90028'
-application_id: '98665763'
 organization_website: 'https://www.juniorhighla.com'
 organization_twitter: '@juniorhighla'
 organization_facebook: 'https://www.facebook.com/jrhilosangeles'
@@ -125,6 +124,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: junior-high-incorporated
-order: 79
+order: 36
 
 ---

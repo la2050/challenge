@@ -1,4 +1,5 @@
 ---
+application_id: 0203758817
 title: Los Angeles Investigative Reporting
 organization_description: Nonprofit
 project_video: ''
@@ -11,7 +12,6 @@ ein: 94-2282759
 organization_name: Mother Jones
 mailing_address_state: California
 mailing_address_zip: '94108'
-application_id: '112017029'
 organization_website: 'https://www.motherjones.com'
 organization_twitter: '@motherjones'
 organization_facebook: 'https://www.facebook.com/motherjones/'
@@ -126,6 +126,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: mother-jones
-order: 58
+order: 27
 
 ---

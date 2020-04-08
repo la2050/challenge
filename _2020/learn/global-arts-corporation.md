@@ -1,4 +1,5 @@
 ---
+application_id: '6812960741'
 title: >-
   Global Arts Professional Development Series: The Use of Teacher Development to
   Increase Student Success
@@ -13,7 +14,6 @@ ein: 83-4028238
 organization_name: Global Arts Corporation
 mailing_address_state: California
 mailing_address_zip: '90042'
-application_id: '110859983'
 organization_website: 'https://www.GlobalArtsCo.org'
 organization_twitter: '@GlobalArtsLA'
 organization_facebook: 'https://www.facebook.com/globalartsla'
@@ -124,6 +124,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: learn
 filename: global-arts-corporation
-order: 73
+order: 33
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: '9646712579'
 title: Expanding Healthcare Access for All
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=8wQ6wEC4oFE'
@@ -11,7 +12,6 @@ ein: '952539105'
 organization_name: Saban Community Clinic
 mailing_address_state: California
 mailing_address_zip: '90048'
-application_id: '110880251'
 organization_website: 'https://www.sabancommunityclinic.org'
 organization_twitter: '@sabanclinic'
 organization_facebook: facebook/SabanClinic
@@ -141,6 +141,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: saban-community-clinic
-order: 79
+order: 37
 
 ---

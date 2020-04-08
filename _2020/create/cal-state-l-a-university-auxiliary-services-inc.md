@@ -1,4 +1,5 @@
 ---
+application_id: '5924104134'
 title: Expanding High-Growth Inclusive Bioentrepreneurship
 organization_description: Nonprofit
 project_video: 'https://vimeo.com/252942546'
@@ -11,7 +12,6 @@ ein: 95-4016653
 organization_name: 'Cal State L.A. University Auxiliary Services, Inc.'
 mailing_address_state: California
 mailing_address_zip: '90032'
-application_id: '97936646'
 organization_website: 'https://labiospace.calstatela.edu/'
 organization_twitter: '@LABioSpace'
 organization_facebook: 'https://www.facebook.com/CalStateLA/'
@@ -108,6 +108,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: cal-state-l-a-university-auxiliary-services-inc
-order: 11
+order: 4
 
 ---

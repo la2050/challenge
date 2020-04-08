@@ -1,4 +1,5 @@
 ---
+application_id: '1957887424'
 title: 'Knowing is Half the Battle: How Well are We Preparing Students for Careers?'
 organization_description: Nonprofit
 project_video: ''
@@ -11,7 +12,6 @@ ein: '210307257'
 organization_name: The Los Angeles Coalition
 mailing_address_state: California
 mailing_address_zip: '90071'
-application_id: '96281490'
 organization_website: 'https://www.thelacoalition.com/'
 organization_twitter: ''
 organization_facebook: ''
@@ -133,6 +133,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: the-los-angeles-coalition
-order: 141
+order: 66
 
 ---

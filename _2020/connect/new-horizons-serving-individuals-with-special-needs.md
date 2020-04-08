@@ -1,4 +1,5 @@
 ---
+application_id: '1541169265'
 title: Bold Futures through New Horizons
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=4mMV9H8aNx4'
@@ -11,7 +12,6 @@ ein: 95-1862084
 organization_name: 'New Horizons: Serving Individuals with Special Needs'
 mailing_address_state: California
 mailing_address_zip: '91343'
-application_id: '91764704'
 organization_website: 'https://www.newhorizons-sfv.org'
 organization_twitter: '@newhorizonssfv'
 organization_facebook: facebook.com/newhorizonssfv
@@ -95,6 +95,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: new-horizons-serving-individuals-with-special-needs
-order: 89
+order: 37
 
 ---

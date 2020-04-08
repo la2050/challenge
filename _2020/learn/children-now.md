@@ -1,4 +1,5 @@
 ---
+application_id: '5921243525'
 title: Improving Educational Outcomes for Foster Youth in LA County
 organization_description: Nonprofit
 project_video: ''
@@ -11,7 +12,6 @@ ein: '943059243'
 organization_name: Children Now
 mailing_address_state: California
 mailing_address_zip: '90015'
-application_id: '91774526'
 organization_website: 'https://www.childrennow.org'
 organization_twitter: '@childrennow'
 organization_facebook: 'https://www.facebook.com/childrennow/'
@@ -123,6 +123,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: learn
 filename: children-now
-order: 28
+order: 13
 
 ---

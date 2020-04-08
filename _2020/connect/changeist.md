@@ -1,4 +1,5 @@
 ---
+application_id: '1699002525'
 title: 'Changeist: Young people engaging in community'
 organization_description: A fiscally sponsored group
 project_video: 'https://youtu.be/CVDTqmullRM'
@@ -11,7 +12,6 @@ ein: 95-4302067
 organization_name: Changeist
 mailing_address_state: California
 mailing_address_zip: '90012'
-application_id: '112227050'
 organization_website: 'https://changeist.org'
 organization_twitter: '@changeistLA'
 organization_facebook: 'https://www.facebook.com/changeistLA'
@@ -133,6 +133,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: changeist
-order: 16
+order: 7
 
 ---

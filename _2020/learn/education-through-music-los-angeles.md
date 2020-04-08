@@ -1,4 +1,5 @@
 ---
+application_id: '5860070297'
 title: In-School Music Education Program for Low-Income Schools
 organization_description: Nonprofit
 project_video: 'https://youtu.be/rE3bBTwyI5I'
@@ -11,7 +12,6 @@ ein: 87-0776958
 organization_name: Education Through Music-Los Angeles
 mailing_address_state: California
 mailing_address_zip: '91505'
-application_id: '100193446'
 organization_website: 'https://www.etmla.org'
 organization_twitter: '@etmlosangeles'
 organization_facebook: '@etmla'
@@ -94,6 +94,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: education-through-music-los-angeles
-order: 49
+order: 22
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: '9562062426'
 title: >-
   ALZ Sucks®: Providing Support for LGBTQ+ People with Alzheimer’s Disease and
   their Families
@@ -13,7 +14,6 @@ ein: 95-3718119
 organization_name: Alzheimer's Los Angeles
 mailing_address_state: California
 mailing_address_zip: '90010'
-application_id: '111807728'
 organization_website: 'https://www.alzheimersla.org'
 organization_twitter: '@AlzheimersLA'
 organization_facebook: www.facebook.com/AlzheimersLA
@@ -93,6 +93,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: live
 filename: alzheimers-los-angeles
-order: 3
+order: 1
 
 ---

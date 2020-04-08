@@ -1,4 +1,5 @@
 ---
+application_id: '7035625300'
 title: Insight in Action
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=k7ktiIA4ms4'
@@ -11,7 +12,6 @@ ein: 84-1713927
 organization_name: InsightLA
 mailing_address_state: California
 mailing_address_zip: '90406'
-application_id: '111250970'
 organization_website: 'https://www.insightla.org'
 organization_twitter: ''
 organization_facebook: InsightLA Meditation
@@ -127,6 +127,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: connect
 filename: insightla
-order: 57
+order: 22
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: '4860908242'
 title: Report for Los Angeles
 organization_description: Nonprofit
 project_video: 'https://vimeo.com/359341182'
@@ -11,7 +12,6 @@ ein: 46-0908502
 organization_name: 'The GroundTruth Project, home of Report for America'
 mailing_address_state: Massachusetts
 mailing_address_zip: '2135'
-application_id: '108598369'
 organization_website: 'http://www.reportforamerica.org'
 organization_twitter: '@report4america'
 organization_facebook: 'https://www.facebook.com/Report4America/'
@@ -151,6 +151,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: the-groundtruth-project-home-of-report-for-america
-order: 101
+order: 46
 
 ---

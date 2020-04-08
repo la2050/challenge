@@ -1,4 +1,5 @@
 ---
+application_id: '6718565765'
 title: 100 Murals for Peace
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=VZHHv0ZYPpQ'
@@ -11,7 +12,6 @@ ein: 46-5331980
 organization_name: Arts Bridging the Gap
 mailing_address_state: California
 mailing_address_zip: '90046'
-application_id: '93636656'
 organization_website: 'https://www.artsbridgingthegap.org'
 organization_twitter: '@artsbridgegap'
 organization_facebook: 'https://www.facebook.com/artsbridgingthegap/'
@@ -120,6 +120,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: arts-bridging-the-gap
-order: 5
+order: 2
 
 ---

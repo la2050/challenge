@@ -1,4 +1,5 @@
 ---
+application_id: '8256636473'
 title: United Friends Scholars Program
 organization_description: Nonprofit
 project_video: 'https://vimeo.com/340266148'
@@ -13,7 +14,6 @@ ein: 95-3665186
 organization_name: United Friends of the Children
 mailing_address_state: California
 mailing_address_zip: '90017'
-application_id: '110989502'
 organization_website: 'https://www.unitedfriends.org'
 organization_twitter: '@unitedfriends'
 organization_facebook: 'https://www.facebook.com/UnitedFriendsLA/'
@@ -100,6 +100,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: united-friends-of-the-children
-order: 155
+order: 72
 
 ---

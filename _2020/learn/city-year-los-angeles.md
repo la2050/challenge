@@ -1,4 +1,5 @@
 ---
+application_id: '4814835196'
 title: City Year Inglewood USD Expansion
 organization_description: Nonprofit
 project_video: >-
@@ -14,7 +15,6 @@ ein: 22-2882549
 organization_name: City Year Los Angeles
 mailing_address_state: California
 mailing_address_zip: '90014'
-application_id: '102330954'
 organization_website: 'https://www.cityyear.org/losangeles'
 organization_twitter: '@CityYearLA'
 organization_facebook: 'https://www.facebook.com/City-Year-Los-Angeles-473497739805451/'
@@ -125,6 +125,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: learn
 filename: city-year-los-angeles
-order: 32
+order: 14
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: '9668728593'
 title: Mobile Recreation Program
 organization_description: Government
 project_video: ''
@@ -11,7 +12,6 @@ ein: 95-6000735
 organization_name: City of Los Angeles Department of Recreation and Parks
 mailing_address_state: California
 mailing_address_zip: '91387'
-application_id: '96639132'
 organization_website: 'https://www.laparks.org'
 organization_twitter: '@LACityParks'
 organization_facebook: facebook.com/LACityParks/
@@ -105,6 +105,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: play
 filename: city-of-los-angeles-department-of-recreation-and-parks
-order: 10
+order: 5
 
 ---

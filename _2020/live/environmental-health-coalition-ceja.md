@@ -1,4 +1,5 @@
 ---
+application_id: '2396710116'
 title: Regenerate California
 organization_description: A fiscally sponsored group
 project_video: ''
@@ -15,7 +16,6 @@ ein: 95-3798792
 organization_name: Environmental Health Coalition / CEJA
 mailing_address_state: California
 mailing_address_zip: '91950'
-application_id: '111626774'
 organization_website: 'https://regeneratecalifornia.org'
 organization_twitter: '@RegenerateCA'
 organization_facebook: 'https://www.facebook.com/RegenerateCA'
@@ -144,6 +144,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: live
 filename: environmental-health-coalition-ceja
-order: 23
+order: 11
 
 ---

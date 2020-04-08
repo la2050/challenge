@@ -1,4 +1,5 @@
 ---
+application_id: '3084846733'
 title: The Sustainable Communities Initiative
 organization_description: Nonprofit
 project_video: 'https://youtu.be/oSaBRzMSn4Y'
@@ -11,7 +12,6 @@ ein: 95-3938955
 organization_name: Neighborhood Housing Services of Los Angeles County
 mailing_address_state: California
 mailing_address_zip: '90010'
-application_id: '96293664'
 organization_website: 'https://www.nhslacounty.org'
 organization_twitter: '@nhslacounty'
 organization_facebook: 'https://www.facebook.com/NHSLAC/'
@@ -96,6 +96,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: live
 filename: neighborhood-housing-services-of-los-angeles-county
-order: 65
+order: 30
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: '3895425088'
 title: Dance Arts Foundation Workshop Series
 organization_description: Nonprofit
 project_video: 'https://youtu.be/siynb3bMTjw'
@@ -11,7 +12,6 @@ ein: '822723598'
 organization_name: Dance Arts Foundation
 mailing_address_state: California
 mailing_address_zip: '91413'
-application_id: '105904230'
 organization_website: 'https://www.danceartsfoundation.org/'
 organization_twitter: ''
 organization_facebook: ''
@@ -100,6 +100,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: dance-arts-foundation
-order: 45
+order: 20
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: '9467551903'
 title: >-
   High School Diploma Program and Reentry Services for Justice System Impacted
   Youth
@@ -13,7 +14,6 @@ ein: 33-0705045
 organization_name: New Earth
 mailing_address_state: California
 mailing_address_zip: '90230'
-application_id: '94746911'
 organization_website: 'https://newearthlife.org/'
 organization_twitter: '@NewEarthLife'
 organization_facebook: 'https://www.facebook.com/newearthlife'
@@ -103,6 +103,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: new-earth
-order: 101
+order: 47
 
 ---

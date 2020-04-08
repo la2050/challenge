@@ -1,4 +1,5 @@
 ---
+application_id: '1444531487'
 title: Dream Center Crisis Relief
 organization_description: For profit business
 project_video: 'https://vimeo.com/368838289'
@@ -11,7 +12,6 @@ ein: 41-2269686
 organization_name: The Dream Center Foundation
 mailing_address_state: California
 mailing_address_zip: '90026'
-application_id: '112232564'
 organization_website: 'https://www.dreamcenter.org/relief/'
 organization_twitter: '@LADreamCenter'
 organization_facebook: 'https://www.facebook.com/LADreamCenter/'
@@ -115,6 +115,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: the-dream-center-foundation
-order: 99
+order: 45
 
 ---

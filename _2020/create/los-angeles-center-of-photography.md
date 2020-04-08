@@ -1,4 +1,5 @@
 ---
+application_id: '1552570556'
 title: LA Photo Hub
 organization_description: Nonprofit
 project_video: 'https://www.facebook.com/115251826399/videos/375048366374397/'
@@ -12,7 +13,6 @@ ein: 46-3133016
 organization_name: Los Angeles Center of Photography
 mailing_address_state: California
 mailing_address_zip: '90016'
-application_id: '94637691'
 organization_website: 'https://www.lacphoto.org'
 organization_twitter: '@lacenterofphoto'
 organization_facebook: losangelescenterofphotography
@@ -180,6 +180,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: los-angeles-center-of-photography
-order: 47
+order: 19
 
 ---

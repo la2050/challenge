@@ -1,4 +1,5 @@
 ---
+application_id: '8794237252'
 title: Quarterly Hygiene Kit Builds Events to benefit our Unhoused Neighbors
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=iHoQoadeTcE'
@@ -11,7 +12,6 @@ ein: 82-3554233
 organization_name: resisterhoodLA
 mailing_address_state: California
 mailing_address_zip: '91602'
-application_id: '109489768'
 organization_website: 'https://www.resisterhoodLA.org'
 organization_twitter: '@resisterhoodLA'
 organization_facebook: facebook.com/resisterhoodLA
@@ -132,6 +132,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: resisterhoodla
-order: 99
+order: 41
 
 ---

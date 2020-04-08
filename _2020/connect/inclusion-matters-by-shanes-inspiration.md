@@ -1,4 +1,5 @@
 ---
+application_id: 0746662836
 title: Connect LA Families!
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=_gA-xpFX-PA'
@@ -11,7 +12,6 @@ ein: 95-4760497
 organization_name: Inclusion Matters By Shane's Inspiration
 mailing_address_state: California
 mailing_address_zip: '91411'
-application_id: '112230860'
 organization_website: 'https://www.inclusionmatters.org'
 organization_twitter: '@ShanesPlay'
 organization_facebook: www.facebook.com/InclusionMattersbyShanesInspiration
@@ -101,6 +101,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: inclusion-matters-by-shanes-inspiration
-order: 53
+order: 20
 
 ---

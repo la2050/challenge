@@ -1,4 +1,5 @@
 ---
+application_id: '9072034216'
 title: Community Arts Programming & Outreach (CAPO) Project
 organization_description: Nonprofit
 project_video: >-
@@ -13,7 +14,6 @@ ein: 7-0998581
 organization_name: Jail Guitar Doors
 mailing_address_state: California
 mailing_address_zip: '90046'
-application_id: '112052918'
 organization_website: 'https://www.jailguitardoors.org'
 organization_twitter: '@JailGuitarDoors'
 organization_facebook: 'https://www.facebook.com/JailGuitarDoors/'
@@ -97,6 +97,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: play
 filename: jail-guitar-doors
-order: 20
+order: 10
 
 ---

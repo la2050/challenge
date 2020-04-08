@@ -1,4 +1,5 @@
 ---
+application_id: '6721970914'
 title: 'MatriArt: Heart of the Land and People'
 organization_description: For profit business
 project_video: 'https://www.youtube.com/watch?v=tYMhHDqpozI&feature=youtu.be'
@@ -12,7 +13,6 @@ ein: 82-2666828
 organization_name: Indigenous Circle of Wellness So'oh Shinálí Sister Project
 mailing_address_state: California
 mailing_address_zip: '90040'
-application_id: '112242911'
 organization_website: 'https://www.icowellness.com'
 organization_twitter: '@icowellness'
 organization_facebook: '@indigenouscircleofwellness'
@@ -119,6 +119,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: indigenous-circle-of-wellness-sooh-shinálí-sister-project
-order: 55
+order: 21
 
 ---

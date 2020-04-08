@@ -1,4 +1,5 @@
 ---
+application_id: '7479897991'
 title: Community STEPS
 organization_description: Nonprofit
 project_video: 'https://youtu.be/zNhHdSGl9Bc'
@@ -13,7 +14,6 @@ ein: 13-5613797
 organization_name: American Heart Association
 mailing_address_state: California
 mailing_address_zip: '90017'
-application_id: '91445000'
 organization_website: 'https://www.heart.org'
 organization_twitter: '@AmericanHeartLA'
 organization_facebook: AmericanHeartLA
@@ -108,6 +108,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: play
 filename: american-heart-association
-order: 2
+order: 1
 
 ---

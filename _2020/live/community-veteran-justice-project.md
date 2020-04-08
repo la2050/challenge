@@ -1,4 +1,5 @@
 ---
+application_id: '5164888589'
 title: Community Veteran Justice Project
 organization_description: Nonprofit
 project_video: 'https://youtu.be/Uq0hgFgxqCk'
@@ -11,7 +12,6 @@ ein: 95-4302067
 organization_name: Community Veteran Justice Project
 mailing_address_state: California
 mailing_address_zip: '90012'
-application_id: '102829567'
 organization_website: 'https://www.cvjp.org'
 organization_twitter: ''
 organization_facebook: 'https://www.facebook.com/CVJProject/'
@@ -118,6 +118,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: community-veteran-justice-project
-order: 12
+order: 6
 
 ---

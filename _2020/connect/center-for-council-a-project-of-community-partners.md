@@ -1,4 +1,5 @@
 ---
+application_id: '1781469727'
 title: Circle Up Los Angeles (C-U-LA)
 organization_description: Nonprofit
 project_video: 'https://youtu.be/vi5kqeGwAJc'
@@ -11,7 +12,6 @@ ein: '954302067'
 organization_name: 'Center for Council, a project of Community Partners'
 mailing_address_state: California
 mailing_address_zip: '90029'
-application_id: '111415262'
 organization_website: 'https://www.centerforcouncil.org'
 organization_twitter: '@center4council'
 organization_facebook: '@centerforcouncil'
@@ -122,6 +122,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: connect
 filename: center-for-council-a-project-of-community-partners
-order: 15
+order: 6
 
 ---

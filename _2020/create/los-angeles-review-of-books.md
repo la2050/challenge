@@ -1,4 +1,5 @@
 ---
+application_id: '6829199879'
 title: Los Angeles Review of Books Publishing Workshop
 organization_description: Nonprofit
 project_video: 'https://youtu.be/bT1LqoeupZg'
@@ -11,7 +12,6 @@ ein: '900977045'
 organization_name: Los Angeles Review of Books
 mailing_address_state: California
 mailing_address_zip: '90028'
-application_id: '98260867'
 organization_website: 'https://www.lareviewofbooks.org'
 organization_twitter: '@lareviewofbooks'
 organization_facebook: 'https://www.facebook.com/lareviewbooks/'
@@ -124,6 +124,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: los-angeles-review-of-books
-order: 49
+order: 20
 
 ---

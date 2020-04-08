@@ -1,4 +1,5 @@
 ---
+application_id: '8756619725'
 title: Create a Residential Garden District in Los Angeles
 organization_description: Social enterprise or B-corps
 project_video: 'https://www.youtube.com/watch?v=bAmD2VAFSos&t='
@@ -11,7 +12,6 @@ ein: 85-0603986
 organization_name: Crop Swap LA
 mailing_address_state: California
 mailing_address_zip: '90016'
-application_id: '112056575'
 organization_website: 'https://www.cropswapla.com'
 organization_twitter: ''
 organization_facebook: 'https://www.facebook.com/jamiah.e.hargins'
@@ -127,6 +127,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: crop-swap-la
-order: 19
+order: 9
 
 ---

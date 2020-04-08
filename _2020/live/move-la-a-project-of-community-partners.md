@@ -1,4 +1,5 @@
 ---
+application_id: '2767565995'
 title: Boulevards of Opportunity for Affordable Housing
 organization_description: Nonprofit
 project_video: ''
@@ -11,7 +12,6 @@ ein: 95-4302067
 organization_name: 'Move LA, a project of Community Partners'
 mailing_address_state: California
 mailing_address_zip: '90012'
-application_id: '96189106'
 organization_website: 'https://www.movela.org'
 organization_twitter: '@movelatransit'
 organization_facebook: www.facebook.com/movelatransit
@@ -121,6 +121,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: move-la-a-project-of-community-partners
-order: 61
+order: 28
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: '3976645744'
 title: >-
   LA Plaza Cocina- the nation’s first museum and teaching kitchen dedicated to
   Mexican Cuisine
@@ -20,7 +21,6 @@ ein: '753059288'
 organization_name: LA Plaza De Cultura y Artes
 mailing_address_state: California
 mailing_address_zip: '90012'
-application_id: '97944727'
 organization_website: 'https://www.lapca.org'
 organization_twitter: '@LAPlazaLA'
 organization_facebook: 'https://www.facebook.com/LAPlazaLA/'
@@ -130,6 +130,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: la-plaza-de-cultura-y-artes
-order: 39
+order: 16
 
 ---

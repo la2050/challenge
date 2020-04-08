@@ -1,4 +1,5 @@
 ---
+application_id: '2381726988'
 title: Whose Streets? Our Streets!
 organization_description: Nonprofit
 project_video: ''
@@ -11,7 +12,6 @@ ein: 95-4302067
 organization_name: "Investing in Place\_a Project of Community Partners"
 mailing_address_state: California
 mailing_address_zip: '90017'
-application_id: '96436694'
 organization_website: 'https://investinginplace.org'
 organization_twitter: '@InvestinPlace'
 organization_facebook: 'https://www.facebook.com/investinginplace/'
@@ -120,6 +120,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: investing-in-place-a-project-of-community-partners
-order: 63
+order: 25
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: '3519765724'
 title: Get Lit – Words Ignite Online Curriculum
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=YpqO9tmttuI'
@@ -12,7 +13,6 @@ ein: 26-4644018
 organization_name: Get Lit - Words Ignite
 mailing_address_state: California
 mailing_address_zip: 90057-3251
-application_id: '99453706'
 organization_website: 'https://www.getlit.org'
 organization_twitter: '@getlitpoet'
 organization_facebook: www.facebook.com/getlitpoet
@@ -117,6 +117,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: learn
 filename: get-lit-words-ignite
-order: 68
+order: 31
 
 ---

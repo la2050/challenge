@@ -1,4 +1,5 @@
 ---
+application_id: '8913199770'
 title: 'A place to live, a place to work, a place to belong.'
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=KvR6qKB0wF4'
@@ -11,7 +12,6 @@ ein: 95-4849998
 organization_name: Kingdom Causes Bellflower
 mailing_address_state: California
 mailing_address_zip: '90706'
-application_id: '105867579'
 organization_website: 'https://www.kcbellflower.org'
 organization_twitter: '@kc_bellflower'
 organization_facebook: www.facebook.com/KingdomCausesBellflower
@@ -121,6 +121,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: kingdom-causes-bellflower
-order: 49
+order: 23
 
 ---

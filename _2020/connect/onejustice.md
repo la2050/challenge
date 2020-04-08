@@ -1,4 +1,5 @@
 ---
+application_id: 0358567206
 title: Los Angeles Asylum Legal Clinic and Resource Fairs Collaborative
 organization_description: Nonprofit
 project_video: ''
@@ -14,7 +15,6 @@ ein: 94-2589423
 organization_name: OneJustice
 mailing_address_state: California
 mailing_address_zip: '90017'
-application_id: '111227462'
 organization_website: 'https://onejustice.org/'
 organization_twitter: '@ImmProBono'
 organization_facebook: 'https://www.facebook.com/OneJustice'
@@ -114,6 +114,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: onejustice
-order: 93
+order: 38
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: '3087725281'
 title: Operation Emancipation
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=e9ikziXqgxE'
@@ -12,7 +13,6 @@ ein: 90-0761009
 organization_name: The RightWay Foundation
 mailing_address_state: California
 mailing_address_zip: '90008'
-application_id: '110286193'
 organization_website: 'https://www.therightwayfoundation.org'
 organization_twitter: '@TheRightWay'
 organization_facebook: therightwayfoundation
@@ -162,6 +162,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: the-rightway-foundation
-order: 82
+order: 34
 
 ---

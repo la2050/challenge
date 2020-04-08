@@ -1,4 +1,5 @@
 ---
+application_id: '4407972982'
 title: The LA Healthy Building Alliance
 organization_description: Nonprofit
 project_video: ''
@@ -11,7 +12,6 @@ ein: 75-3041444
 organization_name: U.S. Green Building Council-Los Angeles
 mailing_address_state: California
 mailing_address_zip: '90013'
-application_id: '111418658'
 organization_website: 'https://usgbc-la.org/'
 organization_twitter: '@usgbcla'
 organization_facebook: 'https://www.facebook.com/USGBCLA/'
@@ -123,6 +123,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: live
 filename: u-s-green-building-council-los-angeles
-order: 112
+order: 51
 
 ---

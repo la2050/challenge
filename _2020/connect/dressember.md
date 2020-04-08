@@ -1,4 +1,5 @@
 ---
+application_id: '8300574518'
 title: Building a Legion of Advocates
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=SptiCjcLGvM'
@@ -11,7 +12,6 @@ ein: '#46-4704743'
 organization_name: Dressember
 mailing_address_state: California
 mailing_address_zip: '90021'
-application_id: '111024890'
 organization_website: 'https://www.dressember.org'
 organization_twitter: '@dressember'
 organization_facebook: 'https://www.facebook.com/officialdressember/'
@@ -129,6 +129,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: dressember
-order: 33
+order: 13
 
 ---

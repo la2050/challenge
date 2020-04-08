@@ -1,4 +1,5 @@
 ---
+application_id: '3441268344'
 title: License to Open LA (LOLA)
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=Gimorufn6NQ'
@@ -12,7 +13,6 @@ ein: 84-4569232
 organization_name: The LEAGUE of EXPERIENTIAL & IMMERSIVE ARTISTS (LEIA)
 mailing_address_state: California
 mailing_address_zip: '90012'
-application_id: '112226534'
 organization_website: 'http://www.leia.design/'
 organization_twitter: '@noproscenium'
 organization_facebook: 'https://www.facebook.com/noproscenium/'
@@ -153,6 +153,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: the-league-of-experiential-immersive-artists-leia
-order: 80
+order: 33
 
 ---

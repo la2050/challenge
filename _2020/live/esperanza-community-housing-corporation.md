@@ -1,4 +1,5 @@
 ---
+application_id: '5165424441'
 title: Esperanza’s Promotores de Salud (Community Health Promoters)
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=2Zc1pOHYQSQ&feature=youtu.be'
@@ -11,7 +12,6 @@ ein: '954230345'
 organization_name: Esperanza Community Housing Corporation
 mailing_address_state: California
 mailing_address_zip: '90007'
-application_id: '94571976'
 organization_website: 'https://www.esperanzacommunityhousing.org/'
 organization_twitter: '@EsperanzaCHC'
 organization_facebook: Esperanza Community Housing Corporation
@@ -91,6 +91,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: esperanza-community-housing-corporation
-order: 24
+order: 12
 
 ---

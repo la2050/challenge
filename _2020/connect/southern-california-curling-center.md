@@ -1,4 +1,5 @@
 ---
+application_id: '5155068743'
 title: Connect With Curling
 organization_description: For profit business
 project_video: 'https://www.youtube.com/watch?v=K47LrYGa2yw&feature=emb_title'
@@ -11,7 +12,6 @@ ein: 83-3750306
 organization_name: Southern California Curling Center
 mailing_address_state: California
 mailing_address_zip: '90058'
-application_id: '112238573'
 organization_website: 'https://www.curling.la'
 organization_twitter: '@curling_la'
 organization_facebook: '@curling.la'
@@ -111,6 +111,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: southern-california-curling-center
-order: 111
+order: 46
 
 ---

@@ -1,4 +1,5 @@
 ---
+application_id: '8674045583'
 title: Scaling Student Advocacy to End Campus Hunger and Homelessness
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=FvvyUmG90WM&feature=youtu.be'
@@ -11,7 +12,6 @@ ein: 82-1876815
 organization_name: "Rise,\_Inc."
 mailing_address_state: California
 mailing_address_zip: '90036'
-application_id: '102805267'
 organization_website: 'https://www.risefree.org'
 organization_twitter: '@risefreeorg'
 organization_facebook: 'https://www.facebook.com/RiseFreeOrg/'
@@ -149,6 +149,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: learn
 filename: rise-inc
-order: 121
+order: 57
 
 ---

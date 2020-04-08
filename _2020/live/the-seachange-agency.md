@@ -1,4 +1,5 @@
 ---
+application_id: '3223116155'
 title: Stand Up for the Ocean
 organization_description: Nonprofit
 project_video: ''
@@ -11,7 +12,6 @@ ein: '452639830'
 organization_name: The SeaChange Agency
 mailing_address_state: California
 mailing_address_zip: '90291'
-application_id: '111050903'
 organization_website: 'https://www.theseachangeagency.org'
 organization_twitter: '@SeaChangeagent'
 organization_facebook: '@theseachangeagency'
@@ -101,6 +101,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: live
 filename: the-seachange-agency
-order: 107
+order: 49
 
 ---

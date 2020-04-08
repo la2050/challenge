@@ -1,4 +1,5 @@
 ---
+application_id: '4212725313'
 title: chyp's PhotoVoice
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/channel/UCdFgmm64TIVrd03yhHq8sIg'
@@ -11,7 +12,6 @@ ein: 20-3381529
 organization_name: Creative Healing for Youth in Pain
 mailing_address_state: California
 mailing_address_zip: '91436'
-application_id: '111810794'
 organization_website: 'https://www.mychyp.org'
 organization_twitter: '@my_chyp'
 organization_facebook: Creative Healing for Youth in Pain
@@ -125,6 +125,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: creative-healing-for-youth-in-pain
-order: 31
+order: 12
 
 ---

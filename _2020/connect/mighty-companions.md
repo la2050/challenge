@@ -1,4 +1,5 @@
 ---
+application_id: '6967338403'
 title: Making L.A. a Friendlier City
 organization_description: Nonprofit
 project_video: 'https://youtu.be/GI3Yzm5CKsk'
@@ -13,7 +14,6 @@ ein: '954255679'
 organization_name: Mighty Companions
 mailing_address_state: California
 mailing_address_zip: '90069'
-application_id: '102364629'
 organization_website: 'https://suespeaks.org/'
 organization_twitter: '@_SUESpeaks'
 organization_facebook: 'https://www.facebook.com/SUESpeaksSearchingforUnityinEverything/'
@@ -104,6 +104,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: mighty-companions
-order: 80
+order: 33
 
 ---

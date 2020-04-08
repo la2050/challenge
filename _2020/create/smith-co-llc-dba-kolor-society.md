@@ -1,4 +1,5 @@
 ---
+application_id: 0621074269
 title: Kolor Mastermind
 organization_description: For profit business
 project_video: 'https://vimeo.com/403832541'
@@ -11,7 +12,6 @@ ein: 81-4566646
 organization_name: Smith & Co. LLC dba Kolor Society
 mailing_address_state: California
 mailing_address_zip: '90045'
-application_id: '112009793'
 organization_website: 'https://wwwwww.kolorsociety.com'
 organization_twitter: '@N/A'
 organization_facebook: www.facebook.com/kolorsociety
@@ -103,6 +103,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: create
 filename: smith-co-llc-dba-kolor-society
-order: 72
+order: 31
 
 ---

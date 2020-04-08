@@ -1,4 +1,5 @@
 ---
+application_id: '8347876394'
 title: Leimert Park Village Festival Series
 organization_description: Nonprofit
 project_video: ''
@@ -11,7 +12,6 @@ ein: 95-4379560
 organization_name: International Eye LA
 mailing_address_state: California
 mailing_address_zip: '90045'
-application_id: '98075081'
 organization_website: 'https://www.internationalEyeLA.org'
 organization_twitter: '@internationalEyeLA'
 organization_facebook: www.facebook.com/marikelinternational
@@ -134,6 +134,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: international-eye-la
-order: 61
+order: 24
 
 ---

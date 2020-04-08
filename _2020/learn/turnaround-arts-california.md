@@ -1,4 +1,5 @@
 ---
+application_id: '8349407454'
 title: 'Turnaround Arts: CA Los Angeles School Partnerships'
 organization_description: Nonprofit
 project_video: 'https://vimeo.com/312808905'
@@ -11,7 +12,6 @@ ein: 47-2446628
 organization_name: 'Turnaround Arts: California'
 mailing_address_state: California
 mailing_address_zip: '90066'
-application_id: '111229988'
 organization_website: 'https://www.turnaroundartsca.org'
 organization_twitter: '@TurnarndArtsCA'
 organization_facebook: 'https://www.facebook.com/TurnaroundArtsCA/'
@@ -105,6 +105,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: learn
 filename: turnaround-arts-california
-order: 151
+order: 70
 
 ---

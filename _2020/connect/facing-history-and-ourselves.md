@@ -1,4 +1,5 @@
 ---
+application_id: '3034556946'
 title: Facing History LA
 organization_description: Nonprofit
 project_video: |
@@ -12,7 +13,6 @@ ein: 04-2761636
 organization_name: Facing History and Ourselves
 mailing_address_state: California
 mailing_address_zip: '90017'
-application_id: '100981748'
 organization_website: 'https://www.facinghistory.org'
 organization_twitter: '@FacingHistoryLA'
 organization_facebook: facebook.com/FacingHistory
@@ -128,6 +128,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: facing-history-and-ourselves
-order: 41
+order: 15
 
 ---
