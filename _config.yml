@@ -20,7 +20,8 @@ redirect_winners_url: https://archive.la2050.org/search/?keywords=%222019+winner
 redirect_finalists_url: https://archive.la2050.org/search/?keywords=%222019+finalist%22
 redirect_entries_url: https://archive.la2050.org/search/?keywords=2019
 
-image_host: https://challenge-static.la2050.org
+image_host: https://challenge.la2050.org
+# image_host: https://challenge-static.la2050.org
 
 
 NEW_CHALLENGE_ANNOUNCED: 1
