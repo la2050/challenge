@@ -1,6 +1,6 @@
 ---
 application_id: '4547232942'
-title: 'eeding Book Deserts™ One Book, One Child & One Community Book Box'
+title: 'Seeding Book Deserts™ One Book, One Child & One Community Book Box'
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=RbF2WjlaJE8'
 link_donate: 'https://the-literacy-club.square.site/'
