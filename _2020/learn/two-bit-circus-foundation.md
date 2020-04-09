@@ -2,8 +2,7 @@
 application_id: '5704897650'
 title: 'STEAM Lab Makerspace: Learn, Create, Play!'
 organization_description: Nonprofit
-project_video: |
-  : http://twobitcircus.org/TBCF2050.mp4
+project_video: http://twobitcircus.org/TBCF2050.mp4
 link_donate: 'http://www.info@twobitcircus.org'
 link_volunteer: 'http://www.info@twobitcircus.org'
 link_newsletter: 'http://www.info@twobitcircus.org'

@@ -2,7 +2,7 @@
 application_id: '3601133887'
 title: S.T.E.A.M. Collective
 organization_description: Nonprofit
-project_video: N/A - Due to COVID-19 we had to cancel the recording of our project video.
+# project_video: N/A - Due to COVID-19 we had to cancel the recording of our project video.
 link_donate: www.donorbox.org/hackerfund
 link_volunteer: bit.ly/volunteer-steamcollective
 link_newsletter: www.hacker.fund
