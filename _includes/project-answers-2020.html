@@ -42,9 +42,15 @@
 
 <div class="numbers">
   <dl style="grid-template-columns: 1fr 1fr; margin-top: 0;">
-    <dt>{{ page["Approximately how many people will be directly impacted by this proposal?"] }}</dt>
+    <dt>
+      {% assign direct_impact = page["Approximately how many people will be directly impacted by this proposal?"] %}
+      {% include number-with-commas.html number=direct_impact %}
+    </dt>
     <dd>Direct impact</dd>
-    <dt>{{ page["Approximately how many people will be indirectly impacted by this proposal?"] }}</dt>
+    <dt>
+      {% assign indirect_impact = page["Approximately how many people will be indirectly impacted by this proposal?"] %}
+      {% include number-with-commas.html number=indirect_impact %}
+    </dt>
     <dd>Indirect impact</dd>
   </dl>
 </div>
