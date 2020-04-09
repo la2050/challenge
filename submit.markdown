@@ -50,7 +50,7 @@ Submissions are open! Apply by <strong>{{ site.ENTRY_PERIOD_ENDED_DATE | date: "
 The submission period is complete.
 
 <small>
-All entries will be showcased here by <strong>{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%A, %B %-d, %Y" }}</strong>. 
+All proposals will be showcased here by <strong>{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%A, %B %-d, %Y" }}</strong>. 
 Voting begins on
 <span class="avoid-break">
   <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
@@ -77,7 +77,7 @@ Voting begins on
 </small>
 
 <p class="action" markdown="1">
-  <a href="/entries/">Check out the entries</a>
+  <a href="/entries/">Check out the proposals</a>
 </p>
 
 </div>
@@ -99,7 +99,7 @@ The submission period is complete.
 </p>
 
 <p class="action" markdown="1">
-  <a href="/entries/">Check out the entries</a>
+  <a href="/entries/">Check out the proposals</a>
 </p>
 
 </div>
@@ -118,7 +118,7 @@ The submission period is complete.
 </small>
 
 <p class="action" markdown="1">
-  <a href="/entries/">Check out the entries</a>
+  <a href="/entries/">Check out the proposals</a>
 </p>
 
 </div>

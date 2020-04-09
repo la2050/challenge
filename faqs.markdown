@@ -156,7 +156,7 @@ Yes, just head to our My LA2050 Ideas Archive! You can search by issue area or k
 ## Can I submit more than one application?
 </summary>
 
-There can be multiple entries from the same organization, as long as the submissions are unique and in different goal categories. However, we would recommend consolidating your resources, collaborators, and supporters to submit one awesome proposal!
+There can be multiple proposals from the same organization, as long as the submissions are unique and in different goal categories. However, we would recommend consolidating your resources, collaborators, and supporters to submit one awesome proposal!
 
 </details>
 
@@ -239,7 +239,7 @@ Yes! We do all that we can to inform Angelenos about the My LA2050 Grants Challe
 ## How many times can I vote?
 </summary>
 
-You can only vote once per goal category, for a total of 5 votes. It is not required that you use all 5 of your votes, but we encourage you to do so! If you'd like to read up on entries you’re less familiar with before you vote, we have all of the [submissions](/entries/) posted and available.
+You can only vote once per goal category, for a total of 5 votes. It is not required that you use all 5 of your votes, but we encourage you to do so! If you'd like to read up on proposals you’re less familiar with before you vote, we have all of the [submissions](/entries/) posted and available.
 
 </details>
 

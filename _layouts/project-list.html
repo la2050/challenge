@@ -279,7 +279,7 @@ main > h1:first-child::before {
 
 {% else %}
   <h1>
-    Entries{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong> category{% endif %}
+    Proposals{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong> category{% endif %}
   </h1>
 {% endif %}
 
@@ -333,7 +333,7 @@ main > h1:first-child::before {
   </script>
 {% else %}
   <div class="introduction" markdown="1">
-  The entries will appear here by <strong>{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%A, %B %-d, %Y" }}</strong>.
+  The proposals will appear here by <strong>{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%A, %B %-d, %Y" }}</strong>.
   </div>
 {% endif %}
 
