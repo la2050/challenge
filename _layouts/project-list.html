@@ -438,13 +438,13 @@ main > h1:first-child::before {
         {% capture image_filename %}{{ data.filename }}.jpg{% endcapture %}
         {% capture image_category %}{{ data.year }}/{{ data.category }}{% endcapture %}
         <img
-          src="{{ site.image_host }}/assets/images/{{ image_category }}/512-wide/{{ image_filename }}"
-          srcset="{{ site.image_host }}/assets/images/{{ image_category }}/384-wide/{{ image_filename }} 384w, 
-                  {{ site.image_host }}/assets/images/{{ image_category }}/512-wide/{{ image_filename }} 512w, 
-                  {{ site.image_host }}/assets/images/{{ image_category }}/768-wide/{{ image_filename }} 768w, 
-                  {{ site.image_host }}/assets/images/{{ image_category }}/1024-wide/{{ image_filename }} 1024w, 
-                  {{ site.image_host }}/assets/images/{{ image_category }}/1536-wide/{{ image_filename }} 1536w, 
-                  {{ site.image_host }}/assets/images/{{ image_category }}/2048-wide/{{ image_filename }} 2048w" 
+          src="{{ site.image_host }}/{{ image_category }}/512-wide/{{ image_filename }}"
+          srcset="{{ site.image_host }}/{{ image_category }}/384-wide/{{ image_filename }} 384w, 
+                  {{ site.image_host }}/{{ image_category }}/512-wide/{{ image_filename }} 512w, 
+                  {{ site.image_host }}/{{ image_category }}/768-wide/{{ image_filename }} 768w, 
+                  {{ site.image_host }}/{{ image_category }}/1024-wide/{{ image_filename }} 1024w, 
+                  {{ site.image_host }}/{{ image_category }}/1536-wide/{{ image_filename }} 1536w, 
+                  {{ site.image_host }}/{{ image_category }}/2048-wide/{{ image_filename }} 2048w" 
           sizes="(min-width: 60em) 50vw, 100vw"
           width="500"
           alt="" />
@@ -542,13 +542,13 @@ main > h1:first-child::before {
 
         <img
           src="/assets/images/blank.png"
-          data-src="{{ site.image_host }}/assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_filename }}"
-          data-srcset="{{ site.image_host }}/assets/images/{{ image_category }}/384-wide-with-aspect-10-8/{{ image_filename }} 384w, 
-                       {{ site.image_host }}/assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_filename }} 512w, 
-                       {{ site.image_host }}/assets/images/{{ image_category }}/768-wide-with-aspect-10-8/{{ image_filename }} 768w, 
-                       {{ site.image_host }}/assets/images/{{ image_category }}/1024-wide-with-aspect-10-8/{{ image_filename }} 1024w, 
-                       {{ site.image_host }}/assets/images/{{ image_category }}/1536-wide-with-aspect-10-8/{{ image_filename }} 1536w, 
-                       {{ site.image_host }}/assets/images/{{ image_category }}/2048-wide-with-aspect-10-8/{{ image_filename }} 2048w"
+          data-src="{{ site.image_host }}/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_filename }}"
+          data-srcset="{{ site.image_host }}/{{ image_category }}/384-wide-with-aspect-10-8/{{ image_filename }} 384w, 
+                       {{ site.image_host }}/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_filename }} 512w, 
+                       {{ site.image_host }}/{{ image_category }}/768-wide-with-aspect-10-8/{{ image_filename }} 768w, 
+                       {{ site.image_host }}/{{ image_category }}/1024-wide-with-aspect-10-8/{{ image_filename }} 1024w, 
+                       {{ site.image_host }}/{{ image_category }}/1536-wide-with-aspect-10-8/{{ image_filename }} 1536w, 
+                       {{ site.image_host }}/{{ image_category }}/2048-wide-with-aspect-10-8/{{ image_filename }} 2048w"
           sizes="(min-width: 45em) 20em, 100vw"
           width="500"
           alt="" />

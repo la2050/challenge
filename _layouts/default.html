@@ -85,7 +85,7 @@
 
 
   {% if page.filename and page.filename != '' and page.category and page.category != '' and page.year and page.year != '' %}
-  <meta property="og:image" content="{{ site.image_host }}/assets/images/{{ page.year }}/{{ page.category }}/2048-wide/{{ page.filename }}.jpg" />
+  <meta property="og:image" content="{{ site.image_host }}/{{ page.year }}/{{ page.category }}/2048-wide/{{ page.filename }}.jpg" />
   {% elsif page.image %}
   <meta property="og:image" content="{{ page.image }}" />
   {% elsif site.image %}
