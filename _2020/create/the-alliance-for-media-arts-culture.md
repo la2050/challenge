@@ -1,0 +1,144 @@
+---
+application_id: '6348146521'
+title: Arts2Work LA
+organization_description: Nonprofit
+project_video: 'https://www.youtube.com/watch?v=aw9Fz_G45j8&feature=youtu.be'
+link_donate: 'http://www.thealliance.media/join/'
+link_volunteer: ''
+link_newsletter: 'https://arts2work.media/'
+mailing_address_city: Spokane
+mailing_address_street: '1919 South Syringa Road, http://www.thealliance.media/'
+ein: 13-3044606
+organization_name: The Alliance for Media Arts + Culture
+mailing_address_state: Washington
+mailing_address_zip: '99203'
+organization_website: 'https://www.thealliance.media'
+organization_twitter: '@ALLIANCE_arts'
+organization_facebook: 'https://www.facebook.com/Alliancearts/'
+organization_instagram: '@alliance_arts'
+Please describe the mission of your organization.: >
+  The Alliance for Media Arts + Culture facilitates collaboration, innovation
+  and cultural impact for the media arts field. The Alliance is a network of
+  networks; we embolden creative media organizations + artists and connect them
+  with the world.
+project_description: >-
+  The Alliance seeks funding to pilot Arts2Work LA, a new creative workforce
+  program for those most often marginalized from opportunity. It includes the
+  very first federally-registered Apprenticeship Program in Media Arts,
+  Mentorship + Equity/Inclusion training for employers, and access to new
+  subsidies and grants available only through Registered Apprenticeship. We
+  intend to pilot the Arts2Work LA program with 12 creative, low-income young
+  people, showcasing this revolutionary blueprint and new model of reform for
+  the digital generation.
+Which LA2050 goal will your submission most impact?: LA is the best place to CREATE
+In which areas of Los Angeles will you be directly working?:
+  - >-
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
+  - >-
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
+What is the need you’re responding to?: >-
+  Arts2Work is a jobs program for storytellers; we are building a world where
+  #oscarssowhite is a thing of the past, and the power of the #metoo movement
+  has led to a new generation of women leaders in media. There is no reason that
+  construction workers get paid real wages and benefits while they learn on the
+  job, and creative work in the media industry is based on internships designed
+  for those who can afford to work for free. Digital content producers and
+  editors are in high demand while companies and institutions are making new
+  commitments to diversity in front of and behind the camera -- with little
+  experience in actually achieving a diverse, inclusive workforce. There is
+  growing awareness of the dearth of young producers and editors of color in
+  Hollywood, as well as other marginalized groups across the industry. The need
+  for mentored training for low-income creative workers as well as support for
+  employers in this critical reshaping of the industry has never been greater. 
+Why is this project important to the work of your organization?: >-
+  The Alliance has been a leading media industry member organization for 40
+  years. Since its founding in California, The Alliance has worked to raise the
+  profile and influence of the media arts field on behalf of independent
+  producers, community media organizations, universities, and creative
+  institutions. Arts2Work is mission-critical for The Alliance; it is one of the
+  core new ways we are providing access to innovation, collaboration and
+  cultural impact. We are uniquely suited to deliver this program because we
+  built it from an idea, we hold relationships across the industry that can
+  serve Los Angeles, and we believe in its potential to be a new model of
+  systemic change. Our partners in LA are ready – from West LA College to Better
+  Youth to Venice Arts and Ghetto Film School, our certified training centers
+  are ready and working. Coronavirus has decimated our industry, and Arts2Work
+  can help build us back with federal workforce investments and incentives for
+  industry partners.
+Please explain how you will define and measure success for your project.: >-
+  Our vision for success for Arts2Work LA includes building a strong foundation
+  for a bold new ecosystem where low-income youth, black and brown artists,
+  women, LGBTQ & disabled communities have equal access to sustainable, living
+  wage careers in the media industry. 
+
+
+  The key indicators of success of Arts2Work LA will be revealed in
+  creative/technical skills development, certification and living wage job
+  placement for Apprentices, and response to Equity/Inclusion + Mentorship
+  training for Employers. We will be measuring participation and assessing the
+  outcomes 
+
+  both during and beyond the grant period -- because impact takes time to
+  measure. We will work with local partners to track quantitative measurements
+  reflecting a changing creative culture. A sample of these metrics include:
+   
+  # of Apprentices & Employers engaged 
+
+  # of New Apprentice applications
+
+  # of Apprentices Adobe-certified
+
+  # of Apprentices staying out of prison
+
+  # of Apprentices growing their bank accounts
+
+  # of Apprentices going to college
+
+  # of Apprentices starting creative businesses 
+
+  # of Employers promoting Registered Apprentices
+
+  # of Employers providing on-the-job Training
+
+  # of Employers embedding Apprenticeship into annual reporting and profit
+  models
+
+
+  The biggest impact we can have is to create the conditions in Los Angeles
+  where those most often excluded have new and lasting access to living wage
+  creative careers. 
+Approximately how many people will be directly impacted by this proposal?: '525'
+Approximately how many people will be indirectly impacted by this proposal?: '3000'
+Please describe the broader impact of your proposal.: >
+  Arts2Work is a systems-change initiative. More than a jobs program for
+  under-represented, above-the-line creative workers, Arts2Work is designed to
+  empower innovation and equity in business, creative entrepreneurship &
+  community resilience. Through Arts2Work, Los Angeles media employers are now
+  eligible for federal and state workforce and Registered Apprenticeship funding
+  and incentives that have never before been available to them to build their
+  businesses and invest in their communities. Arts2Work Alumni become part of a
+  network that includes lifelong learning, grants for creative projects,
+  mentorship, and entrepreneurship training. Beyond the grant period, Arts2Work
+  can support LA with a sustainable, inclusive model of creative change.
+Which of LA2050’s resources will be of the most value to you?:
+  - Access to the LA2050 community
+  - Host public events or gatherings
+  - Strategy assistance and implementation
+Please list the organizations collaborating on this proposal.: |-
+  Venice Arts
+  Better Youth  
+Which metrics will your submission impact?:
+  - Employment in the creative industries
+  - Income inequality
+  - Minority- and women-owned businesses
+Are there any other LA2050 goal categories that your proposal will impact?:
+  - LA is the best place to LEARN
+year: 2020
+category: create
+filename: the-alliance-for-media-arts-culture
+order: 32
+
+---

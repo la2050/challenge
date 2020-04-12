@@ -1,0 +1,120 @@
+---
+application_id: '9789623614'
+title: 'Eviction Prevention Tool, During Coronavirus and Beyond'
+organization_description: Nonprofit
+project_video: ''
+link_donate: 'https://saje.nationbuilder.com/donate'
+link_volunteer: 'https://tinyurl.com/sajevolunteer'
+link_newsletter: ''
+mailing_address_city: Los Angeles
+mailing_address_street: 152 West 32nd Street
+ein: 93-1226092
+organization_name: "Strategic Actions for a Just Economy\_(SAJE)"
+mailing_address_state: California
+mailing_address_zip: '90007'
+organization_website: 'https://www.saje.net'
+organization_twitter: '@saje_shiftpower'
+organization_facebook: strategicactions
+organization_instagram: ''
+Please describe the mission of your organization.: >-
+  SAJE (Strategic Actions for a Just Economy) works towards the creation of a
+  society where economic benefits/opportunities are equitably distributed, where
+  communities are stable, and where workers and tenants have the same rights,
+  stature, and decision-making power as corporations/property owners.
+project_description: >-
+  This project will prevent homelessness caused by illegal evictions by
+  connecting tenants at risk of displacement to newly-available eviction
+  prevention resources. The new LA County Eviction Defense program provides
+  low-income tenants access to a free lawyer for eviction cases. SAJE and
+  JustFix will create an online tool that links eligible tenants to these
+  resources and conduct an outreach/education campaign informing tenants. In the
+  coronavirus era, online resources are critical to making essential services
+  available to the most vulnerable.
+Which LA2050 goal will your submission most impact?: LA is the best place to LIVE
+In which areas of Los Angeles will you be directly working?:
+  - South LA
+  - >-
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
+  - >-
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
+What is the need you’re responding to?: >-
+  Avoiding eviction helps prevent homelessness and ensures that tenants do not
+  have to leave their homes just so landlords can reap higher profits. LA
+  County’s new Eviction Defense Program rolls out tenant protections, including
+  legal counsel, to five Los Angeles zip codes this summer. The new eviction
+  prevention resources will increase tenants’ ability to remain in their current
+  home and reduce homelessness. In the coronavirus era, keeping people in their
+  homes is more than ever a matter of life and death. Residents need to be
+  informed of the rights and services available to them by a trusted source.
+  SAJE is a trusted source in South LA and helps convene the Right to Counsel
+  Coalition, a broad network across LA County. With easy-to-access technology,
+  SAJE and JustFix aim to create an online resource for tenants to access the
+  information and referrals they need to exercise their rights in a moment when
+  in-person support and screening are challenged by the need for physical
+  distancing.
+Why is this project important to the work of your organization?: >-
+  SAJE helps lead the LA Right to Counsel coalition and supports the coalition
+  organizing in support of the recent rent stabilization ordinance in the
+  County. In response to the coronavirus, SAJE helped lead efforts to ensure
+  tenants gain protections from displacement to prevent further public health
+  challenges. SAJE’s work on OWN IT! (https://www.ownit.la/) similarly leveraged
+  technology to help enhance code enforcement capabilities with LA County and
+  reduce slum living conditions. Paired with tenant-friendly policies,
+  technology can be a powerful tool to connect individuals at risk of eviction.
+  SAJE will build on the success of OWN IT! and the experience of JustFix’s
+  right to counsel website. JustFix built a first-of-its-kind screening tool for
+  Right to Counsel in NYC, helping connect 4,000+ tenants with free legal
+  representation in just the first year. The technology can be paired with a
+  variety of community organizing campaigns SAJE is engaged in locally and
+  countywide.
+Please explain how you will define and measure success for your project.: >-
+  SAJE envisions that this project will complement its current actions on
+  tenants rights and equitable development in LA and similar efforts by groups
+  across LA County. Through the existing Tenant Action Clinics and outreach
+  efforts, including partnerships with broad coalitions and LA County, SAJE will
+  educate tenants on their right to legal counsel for eviction issues. Success
+  in this project would be the launch of a user-friendly web-based tool to help
+  tenants navigate the complexities of the phased roll-out process and an
+  outreach campaign to ensure the target population is aware of and able to use
+  eviction defense resources. Success will be measured by the completion and
+  publication of the website and by the active use of the tool by tenants in LA
+  County. 
+
+  Because this project complements SAJE’s current work, it is scalable and can
+  be adjusted to grow with a larger budget. The right to counsel website can be
+  woven into SAJE’s current efforts and communications with coalition members,
+  but a larger amount of funding would enable SAJE to take additional actions
+  that ensure the widespread knowledge and use of the website in the initial
+  areas to receive access to this legal counsel.
+Approximately how many people will be directly impacted by this proposal?: '10000'
+Approximately how many people will be indirectly impacted by this proposal?: '118901'
+Please describe the broader impact of your proposal.: >-
+  This proposal aligns with a nationwide movement to ensure tenants have a right
+  to counsel in eviction cases. While there is a right to counsel in criminal
+  cases, there is no comparative legal right in civil cases. Other cities,
+  including New York City, are enacting right to counsel protections for
+  tenants. SAJE’s proven track record at addressing slum housing conditions and
+  helping tenants to better advocate for themselves will allow LA neighborhoods
+  to determine their own future as the city grows. Increased legal
+  representation will help prevent displacement, reduce homelessness, and allow
+  more tenants to remain in their homes and continue to influence the future of
+  their communities.
+Which of LA2050’s resources will be of the most value to you?:
+  - Access to the LA2050 community
+  - Host public events or gatherings
+  - Communications support
+  - Strategy assistance and implementation
+Please list the organizations collaborating on this proposal.: JustFix
+Which metrics will your submission impact?:
+  - Housing affordability
+  - Homelessness
+Are there any other LA2050 goal categories that your proposal will impact?: []
+year: 2020
+category: live
+filename: strategic-actions-for-a-just-economy-saje
+order: 43
+
+---

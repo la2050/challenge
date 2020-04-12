@@ -1,135 +1,139 @@
 ---
-is_test_data: true
-application_id: '6159893583'
-title: 'Get Coding: Building a CS Educational Pipeline for Underserved Students'
-project_description: >-
-  9 Dots is seeking a $100,000 LA2050 grant to support a high quality K-6
-  computer science (CS) education for 6500 elementary school students and to
-  provide CS instructional training to over 200 teachers at 25 Title I
-  elementary schools. Our goal is to provide local underserved students with a
-  complete K-6 CS educational pipeline, from unplugged activities in
-  Kindergarten to an introduction to JavaScript (the language of professional
-  coders) as early as the 5th grade.
-organization_name: 9 Dots
-organization_description: Non-profit organization
+application_id: '6301259073'
+title: 'CS Proficiency: Closing the Achievement Gap in Los Angeles'
+organization_description: Nonprofit
 project_video: 'https://vimeo.com/252264371'
-link_newsletter: 'https://www.9dots.org/'
+link_donate: >-
+  https://secure.squarespace.com/checkout/donate?donatePageId=5a3af57b085229aa04ebe5f0
+link_volunteer: 'https://www.9dots.org/get-involved'
+link_newsletter: 'https://www.9dots.org/get-involved'
+mailing_address_city: Los Angeles
+mailing_address_street: 931 N. Highland Avenue
+ein: 45-2834070
+organization_name: 9 Dots
+mailing_address_state: California
+mailing_address_zip: '90038'
 organization_website: 'https://www.9Dots.org'
 organization_twitter: '@9dotscommunity'
 organization_facebook: 'https://www.facebook.com/9dotscommunity/'
 organization_instagram: '@9dotscommunity'
-link_donate: >-
-  https://secure.squarespace.com/checkout/donate?donatePageId=5a3af57b085229aa04ebe5f0
-link_volunteer: 'https://www.9dots.org/'
-organization_activity: >-
-  At 9 Dots, we are a community of educators, researchers, and engineers
-  committed to bringing an exceptional computer science to all students,
-  particularly those from underserved communities.
-project_proposal_description: >-
-  Carla is a first-generation American from a Honduran family who began taking 9
-  Dots coding classes in her local elementary school. Initially, she thought
-  that coding was not for her. “At first, I was intimidated, I thought only a
-  genius or some guy at NASA can do things like this,” she said. 9 Dots Coding
-  Coordinators worked alongside her teacher to help Carla work through our
-  curriculum and develop a “debugging mindset,” which accepts that getting stuck
-  is a normal part of the learning process and to teach her problem solving
-  strategies for identifying errors and making her code work. She quickly got
-  over her fear of making mistakes and learned to work collaboratively with her
-  peers to find solutions. Carla believes that her experience learning coding
-  and debugging in elementary school has helped her in math, but notes that it
-  has also helped her to gain confidence in herself as she progresses along the
-  path of her education. Now in 7th grade, Carla believes she has many options
-  she might pursue in the future; she is interested in a career in architecture,
-  or in coding, or maybe even at NASA. But her experience with 9 Dots has also
-  interested her in becoming a CS educator, “I’d like to give other kids the
-  same chance I had.”
-project_areas:
-  - LAUSD
-  - Compton Unified Schools District (CUSD)
-project_la2050_community_resources:
-  - Access to LA2050 community
+Please describe the mission of your organization.: >-
+  9 Dots' mission is to provide transformative computer science education for
+  every student, especially those from underserved communities. We believe in
+  creating learning environments that engage and empower every student, foster
+  joy, and promote fearlessness in problem solving. 
+project_description: >-
+  Coding builds computational thinking and problem solving skills that are
+  critical in STEM learning across subject areas yet there is no common standard
+  for measuring K-6 coding proficiency. 9 Dots seeks a $100,000 grant to support
+  our Get Coding program and close the achievement gap with significant CS
+  learning outcomes for underserved students, while developing and applying more
+  meaningful definitions and measurements for proficiency, including mastery of
+  core coding concepts, difficulty levels, and underlying problem solving
+  processes.
+Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
+In which areas of Los Angeles will you be directly working?:
+  - Central LA
+  - East LA
+  - South LA
   - >-
-    Host public events on the topic your organization’s issue area (e.g. access
-    to capital, education reform, clean energy, etc.) 
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
   - >-
-    Communications support, including traditional media, social media, and
-    LA2050 newsletter
-  - Publicity/awareness
-  - 'Capacity, including staff'
-  - Strategy assistance and implementation
-project_innovation_stage: Expand existing program (expanding and continuing ongoing successful projects)
-project_collaborators: ''
-project_measure: >-
-  9 Dots defines success for this project as 1) completing K-6 CS education
-  pathways in at least 10 of our partner schools; 2) “graduating” 100 local
-  teachers as independent and effective coding instructors; and 3) achieving a
-  90% grade level coding proficiency rate for all students served.
-   
-   
-   
-   9 Dots tracks the numbers of students, teachers, and schools that we serve to assess the scale of our impact while gathering quantitative and qualitative data to assess program outcomes. Student proficiency rates are measured through 9 Dots’ Independent Coding Challenge (ICC). The ICC assessment is administered after the completion of content lessons before students begin to work on classroom projects. It includes up to 12 coding challenges based on the previous lessons, and tagged for both the coding and the problem solving skills required to complete them. 
-   
-   
-   
-   9 Dots surveys teachers after every quarterly PDW, using Net Promoter Score (NPS) and Customer Satisfaction (CSAT) indicators to analyze results on 1) how likely teachers are to recommend our program to a colleague, and 2) how satisfied teachers are with their Coding Coordinator. Educator progress towards independent teaching or “graduation” is assessed collaboratively with teachers and administrators based on a range of indicators including comfort with using tech in the classroomÍ¾ classroom managementÍ¾ and lesson preparedness.
-ein: 45-2834070
-mailing_address_street: 931 N. Highland Avenue
-mailing_address_city: Los Angeles
-mailing_address_state: California
-mailing_address_zip: '90038'
-project_proposal_best_place: |-
-  a. Program strategy:
-   
-   Get Coding provides local Title I elementary schools with everything they need to offer fun and rigorous coding classes that prepare young students for future educational and professional opportunities in STEM and a wide range of other fields. Teachers are central to our strategy. 9 Dots Coding Coordinators work side by side with teachers at all levels of prior CS experience to assist in planning, setting up, and delivering each coding class. Coding Coordinators model best practices in CS instruction, conduct quarterly professional development workshops, and provide office hours for additional CS content knowledge or technical support until every teacher is ready to teach CS independently.
-   
-   
-   
-   b. Population served:
-   
-   Get Coding is currently being implemented in 21 Title 1 K-6 partner Los Angeles (LAUSD) and Compton Unified (CUSD) schools, reaching 5000 students and 186 teachers. Nearly 25% of LAUSD and 36% of CUSD students are English Language Learners, compared to the state average of 21.4%. The average Free and Reduced Price Meal (FRPM) rate across the 21 schools we serve is 88%, and the average student racial demographics are as follows: 14.5% African AmericanÍ¾ .35% American Indian or Alaska NativeÍ¾ 2.4% Asian/Pacific IslanderÍ¾ 76% Hispanic / LatinoÍ¾ 5% White/Caucasian, and 1.75% Other. 47% of students are boys and 53% are girls.
-   
-   
-   
-   c. Timeline:
-   
-   9 Dots will serve an estimated 6500 students and 200 teachers in at least 25 Title I K-6 schools in the 2019-20 school year. Get Coding is structured as a one-hour weekly class, taught over 30 weeks. In addition to supporting teachers and students as they progress through our original coding curriculum, 9 Dots Coding Coordinators work with teachers and school administrators to host community events and showcases that help build a culture of awareness and CS participation for families in Los Angeles low-income communities. 
-   
-   
-   
-   With some variance by district and by school, the timeline for the Get Coding program is as follows:
-   
-   
-   
-   2019
-   
-   July- Summer Conference: a three-day educator engagement and professional development workshop (PDW 1) for current and new teacher onboarding
-   
-   August- Coding Coordinators join classrooms 
-   
-   September- PDW 2, National Coding week/family events
-   
-   October/November- Independent Coding Challenge (ICC) 1 (see project success measures)
-   
-   December - PDW 3, Hour of Code/family events 
-   
-   
-   
-   2020
-   
-   February/March- PDW 4, ICC 2
-   
-   June- Classroom coding projects and family showcases
-   
-   
-   
-   d. Measurable progress towards LA2050 goals:
-   
-   9 Dots Get Coding program meets LA 2050 LEARN goals by making an early CS education pipeline accessible for up to 6500 K-6 students in Los Angeles low-income communities, preparing them for future educational success and 21st century careers, while creating at least three community event opportunities for parent and family engagement in our schools.
-category_metrics:
-  - 'Students’ immersion in Science, Technology, Engineering, and Math content'
-  - Student education pipeline
-category_other: []
-year: 2019
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+  - >-
+    LAUSD (please select only if you have a district-wide partnership or
+    project)
+  - CUSD
+In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
+What is the need you’re responding to?: >-
+  An early foundation in CS and coding is a “new basic” skill set “necessary for
+  economic opportunity and social mobility” (CS for All, 2016) but coding is
+  increasingly recognized for its ability to develop student problem solving
+  skills, applicable across STEM domains. Researchers at UC Davis have concluded
+  that K-12 CS education can help address California’s achievement gap in math
+  (Cheng, 2016). This gap is especially significant for students of color in Los
+  Angeles (LAUSD) and Compton Unified (CUSD) schools, where only 20% & 17% of
+  African American 6th grade students met the 2018 SBA Math standards.
+
+
+  9 Dots is dedicated to CS education equity for low income students, girls, and
+  students of color. This means going beyond CS “exposure” to close both the
+  access and the achievement gap for underrepresented students by demonstrating
+  meaningful student outcomes. California adopted K-12 CS standards in 2018, but
+  there are still no standardized K-6  CS proficiency measures (Code.org, 2017).
+Why is this project important to the work of your organization?: >-
+  9 Dots’ Get Coding program serves 22 LAUSD and CUSD Title I schools with K-6
+  CS education, from unplugged activities to an introduction to JavaScript and
+  other professional coding languages. Our original, standards aligned
+  curriculum is accessible via our online Platform which is designed to capture
+  basic student proficiency, interest, and motivation data, delivering key
+  learning insights into every classroom.
+
+
+  9 Dots also conducts formal research. Funded by the National Science
+  Foundation and in collaboration with UCLA, our current project is “Programming
+  as a Context for Making Problem Solving Visible: An Equity Focused K-5
+  Research Practice Partnership.” Classroom observations and interviews have
+  revealed the central role of problem solving in how teachers conceptualize and
+  value coding. In response to our findings, 9 Dots has begun to
+  “operationalize” the problem solving process more explicitly, developing
+  curriculum challenge “tags” associated with core coding concepts and skills.
+Please explain how you will define and measure success for your project.: >-
+  9 Dots currently measures proficiency by tracking students’ successful
+  completion of challenges in our curriculum and in our Level Up Challenge
+  assessments, with a 75% rating considered proficient. Our goal is to define
+  and measure our proficiency score to better represent learning achievements in
+  terms of a) specific attainments of coding skills with defined difficulty
+  levels, but also b) measurable demonstration of the computational and problem
+  solving skills set out in each lesson’s scope & sequence and applicable across
+  STEM domains. 
+
+
+  By tagging each coding challenge for specific concepts, difficulty level, and
+  problem solving strategy, we will have the capacity to run complex proficiency
+  analyses on student completion data and gain profound insights into what our
+  students are learning. Core coding concepts include Loops, Functions,
+  Conditionals, and Sequencing. Difficulty measures include coding skill
+  complexity but also the approach the student is required to take, i.e. is the
+  problem highly scaffolded or is it open ended, requiring students to apply
+  what they have learned to create their own solution. Problem solving processes
+  necessary to complete each challenge may include Pattern Recognition,
+  Abstracting, Decomposing, Refactoring, and Debugging.
+
+
+  Our vision for success is one where every student in Los Angeles has access to
+  a transformative CS education with measurable outcomes. We envision rigorous
+  and joyful coding classrooms where students who have previously fallen behind
+  or felt they did not belong in a STEM class are engaged; can demonstrate
+  achievements that extend across subjects; and become creative and fearless
+  learners who can persevere when facing difficult problems.
+Approximately how many people will be directly impacted by this proposal?: '8320'
+Approximately how many people will be indirectly impacted by this proposal?: '10420'
+Please describe the broader impact of your proposal.: >-
+  9 Dots’ project will provide a model for a more rigorous definition of K-6 CS
+  proficiency. Our hope is to increase understanding of not only how to measure
+  proficiency in a meaningful way but what to measure in order to capture
+  progress towards cognitive skills development that can help close the STEM
+  achievement gap for underrepresented students.
+
+
+  The first of the Standards for Mathematical Practice, “Make sense of problems
+  and persevere in solving them” is highly aligned with learning outcomes
+  associated with debugging. Capturing and extracting student debugging and
+  problem solving proficiency at our partner schools will allow us to initiate
+  longitudinal explorations of possible correlations with SBA Math problem
+  solving area performance.
+Which of LA2050’s resources will be of the most value to you?:
+  - Access to the LA2050 community
+  - Host public events or gatherings
+  - Communications support
+Please list the organizations collaborating on this proposal.: ''
+Which metrics will your submission impact?:
+  - Proficiency in STEM
+Are there any other LA2050 goal categories that your proposal will impact?: []
+year: 2020
 category: learn
 filename: 9-dots
 order: 0

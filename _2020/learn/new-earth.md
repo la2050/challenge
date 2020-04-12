@@ -1,116 +1,108 @@
 ---
-is_test_data: true
-application_id: '3960545862'
-title: Caught You Doing Good
-project_description: >-
-  "Caught You Doing Good" is a New Earth campaign to reward New Earth students
-  for positive behavior and help them to resist negative influences from their
-  neighborhood. Students will be rewarded for their positive behavior with gifts
-  and cash awards to provide meaningful incentives for positive behavior and
-  desperately needed resources for poor families. We intend to change their
-  mindsets from their concern of "being caught" by law enforcement to "being
-  caught" and recognized for good work.
-organization_name: New Earth
-organization_description: Non-profit organization
-project_video: 'https://youtu.be/aVYDRtqjIKg'
-link_newsletter: 'https://newearthlife.org/contact/'
-organization_website: 'https://www.newearthlife.org'
-organization_twitter: '@NewEarthLife'
-organization_facebook: www.facebook.com/newearthlife
-organization_instagram: '@newearthlife'
+application_id: '9467551903'
+title: >-
+  High School Diploma Program and Reentry Services for Justice System Impacted
+  Youth
+organization_description: Nonprofit
+project_video: ''
 link_donate: 'https://newearthlife.org/donate/'
 link_volunteer: 'https://newearthlife.org/get-involved/'
-organization_activity: >-
-  We provide arts, educational, and vocational programs for juvenile
-  justice-involved youth to transform their lives, move toward positive,
-  healthier life choices, and realize their full potential.
-project_proposal_description: >-
-  Check out the attached video that profiles two of our youth, Jaylin Robinson
-  and Geegee Potts, who have used the services from New Earth to turnaround
-  their lives: 
-   
-   https://www.youtube.com/watch?time_continue=1&v=aQ4fHAOklRQ
-project_areas:
-  - South LA
+link_newsletter: 'https://newearthlife.org/contact/'
+mailing_address_city: Culver City
+mailing_address_street: '6001 Bristol Pkwy #200'
+ein: 33-0705045
+organization_name: New Earth
+mailing_address_state: California
+mailing_address_zip: '90230'
+organization_website: 'https://newearthlife.org/'
+organization_twitter: '@NewEarthLife'
+organization_facebook: 'https://www.facebook.com/newearthlife'
+organization_instagram: '@newearthlife'
+Please describe the mission of your organization.: >-
+  New Earth provides mentor-based arts, educational, and vocational programs
+  that empower juvenile justice and system involved youth ages 13-25 to
+  transform their lives, move toward positive, healthier life choices, and
+  realize their full potential as contributing members of our community.
+project_description: >-
+  As the leading LA County youth reentry organization, New Earth supports
+  system-impacted youth to earn their high school diploma while accessing
+  reentry services. New Earth provides a fully accredited charter high school
+  diploma program, integrating trauma-informed wrap-around services with high
+  school education to serve the complex needs of our students. Through
+  transformative education, arts programming, wrap-around services, and social
+  enterprise job training, New Earth invests in the limitless potential of LA’s
+  underserved youth!  
+Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
+In which areas of Los Angeles will you be directly working?:
   - Westside
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-project_la2050_community_resources:
-  - Access to LA2050 community
-  - >-
-    Host public events on the topic your organization’s issue area (e.g. access
-    to capital, education reform, clean energy, etc.) 
-  - Publicity/awareness
-project_innovation_stage: Pilot project (testing a new idea on a small scale to prove feasibility)
-project_collaborators: ''
-project_measure: >-
-  Success will be defined by the impact on the mindset and behavior of New
-  Earth's students. We expect to see this in hard measures such as student
-  attendance, peer referrals, task-orientation, completion of work assignments,
-  participation in after-school activities, and so forth. We will ultimately
-  measure success for this project as an accelerator of New Earth's culture and
-  values.
-ein: 33-0705045
-mailing_address_street: '6001 Bristol Parkway, Suite 200'
-mailing_address_city: Culver City
-mailing_address_state: California
-mailing_address_zip: '90230'
-project_proposal_best_place: |-
-  Program Execution 
-   
-   The "Caught You Doing Good" campaign will provide cash and gift rewards to New Earth youth for making good decisions in their lives. This will include activities such as working hard on their education, resisting gang-involvement, helping others, making meaningful progress towards a personal goal, and being a good person. We are trying to counter the continuous pressure our students face to engage in unhealthy behavior. 
-   
-   
-   
-   Committees consisting of New Earth clinical workers, teachers, and program staff will meet regularly to ensure that "Caught You Doing Good" awards are distributed fairly and foster a positive culture. There will be two committees: one for the New Earth Arts and Leadership Center (NEALC) and another for the Residential Career Training Center in Calabasas. 
-   
-   
-   
-   Population
-   
-   New Earth serves formerly incarcerated youth, youth on probation, foster youth, and other in-risk youth. This population is almost exclusively low-income (nearly all qualify for free or reduced-price lunch) and nearly all are African-American and Latino. They are at high risk for entering or (reentering) the juvenile justice system annually. To date, 54% have been African American, 43% are Latino, 2% are Asian and 1% are White. 65% are male and 35% are female. New Earth youth come from communities characterized by high concentrations of poverty, violence, and gang activity. System-involved youth have complex social-emotional, academic and mental health-related needs, which our programs help to address. Most New Earth students arrive with some high school credits from one or several high schools as well as credits from LACOE schools. However, despite this, their levels of literacy and numeracy can be quite low. 
-   
-   
-   
-   Timeline 
-   
-   June 4 -- receive word from LA2050 
-   
-   July -- Develop staff committees and establish clear policies, budget, tracking mechanism, and communications for this campaign
-   
-   August -- Provide first awards to youth, continue to do so on a weekly basis through end of school year in May 2020
-   
-   Early 2020 -- If program is successful, solicit philanthropic funding to continue the program after completion of LA2050 funds 
-   
-   
-   
-   LA2050 Goals
-   
-   New Earth works with students who have dropped out of or been expelled from the traditional school system. New Earth helps students earn a high school diploma by providing a non-traditional academic environment, wraparound services, and love to enable our students to achieve their goals. New Earth will help LA2050 make measurable progress in several goal areas: 
-   
-   - Students' perceived sense of safety at and on the way to school 
-   
-   - Suspension and expulsion rates 
-   
-   - Youth unemployment and underemployment 
-   
-   
-   
-   In addition, New Earth also impacts the following PLAY metrics: 
-   
-   - Per capita crime rates 
-   
-   - Perceived safety
-category_metrics:
-  - Students’ perceived sense of safety at and on the way to school
-  - Suspension and expulsion rates
-  - Youth unemployment and underemployment
-category_other:
-  - LA is the best place to PLAY
-year: 2019
+In what stage of innovation is this project?: >-
+  Expand existing program (expanding and continuing ongoing successful projects
+  or programs)
+What is the need you’re responding to?: >-
+  Los Angeles County’s juvenile justice system is the largest in the nation,
+  with over 6,000 youth incarcerated or on probation on any given day.
+  Justice-involved youth come largely from communities with high concentrations
+  of poverty, violence, and gang activity. Upon release, youth return to their
+  neighborhoods with few resources to help them successfully reintegrate into
+  society. Over 70% of youth who come to New Earth have been involved with the
+  juvenile justice system, over 50% are still on probation, and nearly 75% have
+  dropped out or been expelled from traditional schools. Most students arrive
+  with some high school credits from one or more schools, and/or credits from
+  juvenile court schools. Still, literacy levels can be quite low. New Earth’s
+  trauma-informed wrap-around model provides a space where students can earn
+  their high school diploma in a safe and caring environment, while also
+  receiving case management, mentorship, job training, and mental health
+  support. 
+Why is this project important to the work of your organization?: >-
+  New Earth is leading the way for juvenile justice in Los Angeles. For over 16
+  years, New Earth has provided creative arts education for youth in juvenile
+  detention. In 2015, New Earth opened the first and only youth reentry center
+  in LA County to provide wrap-around services and full reentry support. Today,
+  New Earth is the only organization actively providing programming both inside
+  the county’s juvenile detention facilities, as well as community-based reentry
+  services upon release. New Earth also partners with the Culver City PD to
+  divert minors prior to arrest, effectively preventing them from ever entering
+  the justice system.
+
+
+  New Earth’s track record of serving youth in LA County is unrivaled, serving
+  as many as 1500 youth each year. The revolving doors of incarceration can be
+  hard to escape, but New Earth is committed to reducing youth recidivism rates.
+  At least 93% of youth served by New Earth remain free from re-incarceration
+  (compared to the county average of just 30%).
+Please explain how you will define and measure success for your project.: "New Earth provides vital access to trauma-informed individualized educational programming for system-impacted (foster care, juvenile justice, and/or homeless) youth. New Earth’s program design allows for independent study and individualized education plans, in conjunction with necessary wrap-around reentry services to set youth on a path to succeed and thrive. \n\nSuccess of New Earth’s program is based upon the following metrics: \n•\tAt least 80 youth will participate in New Earth’s charter high school program during the grant period, accessing educational support + clinical case management and wrap-around reentry services \n•\tAt least 60 young people ages 13-18 will be diverted to New Earth’s after school diversion programs preventing them from EVER entering the juvenile justice system\n•\tAt least 125 incarcerated youth will participate in New Earth’s arts and education programming in juvenile detention\n•\t85%+ of seniors will graduate with their High School Diploma\n•\t95%+ of youth served will report that New Earth’s programs made a positive impact on their lives, evidenced by improved reading and writing skills and enhanced self-confidence and life skills\n•\t99%+ of youth who participate in New Earth’s post-release programs will successfully transition back into the community, as evidenced by obtaining a high school diploma or employment\n•\t93%+ of youth served will remain free from re-incarceration "
+Approximately how many people will be directly impacted by this proposal?: '80'
+Approximately how many people will be indirectly impacted by this proposal?: '300'
+Please describe the broader impact of your proposal.: >-
+  System-impacted youth know how to let their resilience carry them through
+  trying times, but still may face more barriers to success than traditional
+  students. New Earth’s programs encourage young people to take ownership of
+  their learning experience, exposing youth to skills that increase success in
+  academics, social settings, and professional careers. 
+
+  Jaylin, a high school graduate who initially enrolled in New Earth’s programs
+  while incarcerated, shares, “I was at-risk of being homeless and about to turn
+  to crime to make ends meet. I had been going in and out of jail, which
+  impacted my family in a big way. New Earth’s program changed my life. It
+  helped prepare me for the future and see that there is something I’m working
+  toward in life.”
+Which of LA2050’s resources will be of the most value to you?:
+  - Access to the LA2050 community
+  - Communications support
+  - 'Capacity, including staff'
+Please list the organizations collaborating on this proposal.: ''
+Which metrics will your submission impact?:
+  - Arts education
+  - High school graduation rates
+  - Opportunity youth (“Disengaged youth” 16-24 not working or in school)
+Are there any other LA2050 goal categories that your proposal will impact?:
+  - LA is the best place to CREATE
+year: 2020
 category: learn
 filename: new-earth
-order: 23
+order: 47
 
 ---

@@ -5,31 +5,31 @@ layout: null
 {% assign data_list = data_collection.docs %}
 
 finalists:
-{% assign next_data_list = data_list | where: "category", "learn" | sample: 10 %}
+{% assign next_data_list = data_list | where: "category", "learn" | sample: 5 %}
   # Learn
 {% for project in next_data_list %}
   # {{ forloop.index }})
   - {{ project.url }}
 {% endfor %}
-{% assign next_data_list = data_list | where: "category", "create" | sample: 10 %}
+{% assign next_data_list = data_list | where: "category", "create" | sample: 5 %}
   # Create
 {% for project in next_data_list %}
   # {{ forloop.index }})
   - {{ project.url }}
 {% endfor %}
-{% assign next_data_list = data_list | where: "category", "play" | sample: 10 %}
+{% assign next_data_list = data_list | where: "category", "play" | sample: 5 %}
   # Play
 {% for project in next_data_list %}
   # {{ forloop.index }})
   - {{ project.url }}
 {% endfor %}
-{% assign next_data_list = data_list | where: "category", "connect" | sample: 10 %}
+{% assign next_data_list = data_list | where: "category", "connect" | sample: 5 %}
   # Connect
 {% for project in next_data_list %}
   # {{ forloop.index }})
   - {{ project.url }}
 {% endfor %}
-{% assign next_data_list = data_list | where: "category", "live" | sample: 10 %}
+{% assign next_data_list = data_list | where: "category", "live" | sample: 5 %}
   # Live
 {% for project in next_data_list %}
   # {{ forloop.index }})

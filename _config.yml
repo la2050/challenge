@@ -20,7 +20,7 @@ redirect_winners_url: https://archive.la2050.org/search/?keywords=%222019+winner
 redirect_finalists_url: https://archive.la2050.org/search/?keywords=%222019+finalist%22
 redirect_entries_url: https://archive.la2050.org/search/?keywords=2019
 
-image_host: https://challenge-static.la2050.org
+image_host: "https://images.la2050.org/challenge"
 
 
 NEW_CHALLENGE_ANNOUNCED: 1
@@ -93,91 +93,91 @@ finalists:
   # Learn
 
   # 1)
-  - /2020/learn/9-dots/
-
-  # 2)
-  - /2020/learn/center-for-innovation-in-stem-education-cise/
-
-  # 3)
   - /2020/learn/freedom-and-fashion/
 
+  # 2)
+  - /2020/learn/the-music-center/
+
+  # 3)
+  - /2020/learn/everydae/
+
   # 4)
-  - /2020/learn/fulfillment-fund/
+  - /2020/learn/cheshire-moon/
 
   # 5)
-  - /2020/learn/gladeo/
+  - /2020/learn/center-for-powerful-public-schools/
 
 
   # Create
 
   # 1)
-  - /2020/create/bob-baker-marionette-theater/
+  - /2020/create/codemarket/
 
   # 2)
-  - /2020/create/defy-ventures-inc/
+  - /2020/create/hustle-hustle/
 
   # 3)
-  - /2020/create/everybody-world/
+  - /2020/create/grid110/
 
   # 4)
-  - /2020/create/homeboy-industries/
+  - /2020/create/convergence-creative-solutions/
 
   # 5)
-  - /2020/create/justice-for-my-sister-collective/
+  - /2020/create/youth-business-alliance/
 
 
   # Play
 
   # 1)
-  - /2020/play/american-heart-association/
+  - /2020/play/up2us-inc/
 
   # 2)
-  - /2020/play/city-of-los-angeles-department-of-recreation-and-parks/
+  - /2020/play/usc-price-center-for-social-innovation/
 
   # 3)
-  - /2020/play/harlem-lacrosse/
+  - /2020/play/harlem-lacrosse-los-angeles/
 
   # 4)
-  - /2020/play/los-angeles-audubon-society/
+  - /2020/play/los-angeles-neighborhood-initiative-lani/
 
   # 5)
-  - /2020/play/los-angeles-dodgers-foundation/
+  - /2020/play/los-angeles-maritime-institute/
 
 
   # Connect
 
   # 1)
-  - /2020/connect/breathe-california-of-los-angeles-county/
+  - /2020/connect/inclusion-matters-by-shanes-inspiration/
 
   # 2)
-  - /2020/connect/c-it-productions-llc/
+  - /2020/connect/the-music-center/
 
   # 3)
-  - /2020/connect/casa-of-los-angeles/
+  - /2020/connect/resisterhoodla/
 
   # 4)
-  - /2020/connect/human-rights-foundation/
+  - /2020/connect/arts-bridging-the-gap/
 
   # 5)
-  - /2020/connect/investing-in-place/
+  - /2020/connect/citizens-of-culture/
 
 
   # Live
 
   # 1)
-  - /2020/live/cardborigami-inc/
+  - /2020/live/united-parents-and-students/
 
   # 2)
-  - /2020/live/green-girl-farms/
+  - /2020/live/strategic-actions-for-a-just-economy-saje/
 
   # 3)
-  - /2020/live/international-association-for-human-values/
+  - /2020/live/sprouts-of-promise-foundation/
 
   # 4)
-  - /2020/live/la-plaza-de-cultura-y-artes/
+  - /2020/live/the-heart-touch-project/
 
   # 5)
-  - /2020/live/move-la/
+  - /2020/live/los-angeles-room-board/
 
 
 winners:
@@ -185,91 +185,91 @@ winners:
   # Learn
 
   # 1)
-  - /2020/learn/9-dots/
-
-  # 2)
-  - /2020/learn/center-for-innovation-in-stem-education-cise/
-
-  # 3)
   - /2020/learn/freedom-and-fashion/
 
+  # 2)
+  - /2020/learn/the-music-center/
+
+  # 3)
+  - /2020/learn/everydae/
+
   # 4)
-  - /2020/learn/fulfillment-fund/
+  - /2020/learn/cheshire-moon/
 
   # 5)
-  - /2020/learn/gladeo/
+  - /2020/learn/center-for-powerful-public-schools/
 
 
   # Create
 
   # 1)
-  - /2020/create/bob-baker-marionette-theater/
+  - /2020/create/codemarket/
 
   # 2)
-  - /2020/create/defy-ventures-inc/
+  - /2020/create/hustle-hustle/
 
   # 3)
-  - /2020/create/everybody-world/
+  - /2020/create/grid110/
 
   # 4)
-  - /2020/create/homeboy-industries/
+  - /2020/create/convergence-creative-solutions/
 
   # 5)
-  - /2020/create/justice-for-my-sister-collective/
+  - /2020/create/youth-business-alliance/
 
 
   # Play
 
   # 1)
-  - /2020/play/american-heart-association/
+  - /2020/play/up2us-inc/
 
   # 2)
-  - /2020/play/city-of-los-angeles-department-of-recreation-and-parks/
+  - /2020/play/usc-price-center-for-social-innovation/
 
   # 3)
-  - /2020/play/harlem-lacrosse/
+  - /2020/play/harlem-lacrosse-los-angeles/
 
   # 4)
-  - /2020/play/los-angeles-audubon-society/
+  - /2020/play/los-angeles-neighborhood-initiative-lani/
 
   # 5)
-  - /2020/play/los-angeles-dodgers-foundation/
+  - /2020/play/los-angeles-maritime-institute/
 
 
   # Connect
 
   # 1)
-  - /2020/connect/breathe-california-of-los-angeles-county/
+  - /2020/connect/inclusion-matters-by-shanes-inspiration/
 
   # 2)
-  - /2020/connect/c-it-productions-llc/
+  - /2020/connect/the-music-center/
 
   # 3)
-  - /2020/connect/casa-of-los-angeles/
+  - /2020/connect/resisterhoodla/
 
   # 4)
-  - /2020/connect/human-rights-foundation/
+  - /2020/connect/arts-bridging-the-gap/
 
   # 5)
-  - /2020/connect/investing-in-place/
+  - /2020/connect/citizens-of-culture/
 
 
   # Live
 
   # 1)
-  - /2020/live/cardborigami-inc/
+  - /2020/live/united-parents-and-students/
 
   # 2)
-  - /2020/live/green-girl-farms/
+  - /2020/live/strategic-actions-for-a-just-economy-saje/
 
   # 3)
-  - /2020/live/international-association-for-human-values/
+  - /2020/live/sprouts-of-promise-foundation/
 
   # 4)
-  - /2020/live/la-plaza-de-cultura-y-artes/
+  - /2020/live/the-heart-touch-project/
 
   # 5)
-  - /2020/live/move-la/
+  - /2020/live/los-angeles-room-board/
 
 
 auth0_js_url: https://cdn.auth0.com/js/auth0/9.5.1/auth0.min.js

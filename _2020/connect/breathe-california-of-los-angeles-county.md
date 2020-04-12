@@ -1,128 +1,99 @@
 ---
-is_test_data: true
-application_id: '2779120900'
+application_id: '4047307909'
 title: Blue Sky LA
-project_description: >-
-  BREATHE LA is seeking support for Blue Sky LA, an air quality improvement
-  program fueled by volunteer projects to help us clean our air by the 2028
-  Olympics. We’ll engage residents through monthly volunteer opportunities,
-  track effectiveness by identifying the number of people participating in each
-  event, and quantify reductions in harmful emissions via a digital platform.
-  Our goals are to engage residents, promote collaboration, and establish LA as
-  the global leader in reducing air pollution.
+organization_description: Nonprofit
+project_video: 'https://www.youtube.com/watch?v=RZyT1dc1ziw&app=desktop'
+link_donate: 'https://www.breathela.org/ways-to-give/'
+link_volunteer: 'https://www.breathela.org/volunteer/'
+link_newsletter: 'https://visitor.r20.constantcontact.com'
+mailing_address_city: Los Angeles
+mailing_address_street: '5858 Wilshire Blvd., Suite 300'
+ein: 95-1641451
 organization_name: BREATHE California of Los Angeles County
-organization_description: Non-profit organization
-project_video: 'https://youtu.be/YKG-ePiDpdk'
-link_newsletter: >-
-  https://visitor.r20.constantcontact.com/d.jsp?llr=49v7stbab&p=oi&m=1101242718047&sit=p4gis9hbb&f=b47968ec-3559-41ba-9eec-de9d122ee053
+mailing_address_state: California
+mailing_address_zip: '90036'
 organization_website: 'https://www.breathela.org'
-organization_twitter: '@breathelac'
-organization_facebook: '@breathelac'
-organization_instagram: '@breathelac'
-link_donate: 'https://breathela.org/donate/'
-link_volunteer: 'https://breathela.org/volunteer/'
-organization_activity: >-
+organization_twitter: '@BREATHELAC'
+organization_facebook: '@BREATHELAC'
+organization_instagram: '@BREATHELAC'
+Please describe the mission of your organization.: >-
   The mission of BREATHE California of Los Angeles County (BREATHE LA) is to
   promote clean air and healthy lungs through research, education, advocacy, and
-  technology.
-project_proposal_description: >-
-  Each of our team members, at all levels or our organization, has a personal
-  story about how they have been inspired to protect each breath we take.
-  Through education, advocacy, and ongoing research, we promote clean air
-  because it is fundamental to leading a healthy human life. 
-   
-   
-   
-   Steve Bryson, a BREATHE LA Board Member, gives both his time and financial support to our organization. Steve’s dedication to improving lung health is inspired by his father’s lifelong battle with severe asthma. His father’s asthma not only impacted his life as a child, but also affected his adult life when he came to live with Steve and his family during his worst struggles with a progressive disease. This personal experience galvanized Steve’s belief in BREATHE LA’s mission and serves as inspiration for our work. 
-   
-   
-   
-   One of our Health Educators recently shared a story about a student in one of our Long Beach after-school programs, O24U®. Giselle, a 7th grader at the Olive Vista Middle School in Sylmar, excitedly told the group, “I made the non-toxic cleaner with water and vinegar. Not a lot of people know about it. We can influence other people to make a cleaner, so it won’t harm your body.” The ability to raise awareness, make connections, share knowledge, and improve well-being all came together in this simple reflection of what was learned in an after-school program. It validated the numerous factors and tools our Health Educators consider when developing curricula and creating meaningful activities for students.
-   
-   
-   
-   Marc Carrel, BREATHE LA’s President and CEO, worked for nearly a decade leading government relations, community affairs, and environmental justice programs at the South Coast Air Quality Management District (SCAQMD), Southern California’s regional clean air agency. Despite his extensive experience in the field, Marc’s inspiration comes from his family. He is the father of three active daughters with asthma and has personally seen how air pollution on bad air days trigger asthma attacks in his children. Each day he comes to work inspired to develop more ways to support clean air and healthy lungs because he is personally invested in reducing air pollution so that everyone can breathe clean air.
-project_areas:
+  technology.  Our vision is to eliminate the causes of lung disease and reduce
+  the suffering of those afflicted by chronic respiratory conditions.
+project_description: >-
+  Angelenos are tired of breathing in the worst air in the nation. Blue Sky LA
+  is an air quality improvement program fueled by volunteer projects that result
+  in cleaner air for our County by the 2028 Olympics. Leading residents CONNECT
+  through monthly volunteer opportunities, tracking the number of people
+  participating in each event, and quantifying reductions in harmful emissions,
+  Blue Sky LA will engage residents, promote collaboration, and establish LA
+  County as the global leader in reducing air pollution so Angelenos may breathe
+  easier.
+Which LA2050 goal will your submission most impact?: LA is the best place to CONNECT
+In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-project_la2050_community_resources:
-  - Access to LA2050 community
-  - >-
-    Host public events on the topic your organization’s issue area (e.g. access
-    to capital, education reform, clean energy, etc.) 
-  - >-
-    Communications support, including traditional media, social media, and
-    LA2050 newsletter
-  - Publicity/awareness
-  - 'Capacity, including staff'
-  - Strategy assistance and implementation
-project_innovation_stage: >-
-  Lateral application (testing feasibility of a proven action/solution to a new
-  issue or sector)
-project_collaborators:
-  - Climate Cents
-project_measure: >-
-  In year 1 of Blue Sky LA, we will define success by meeting the following
-  goals:
-   
-   1. Engage 1,200 volunteers during year one through partnerships with community-based organizations.
-   
-   2. Provide 12 community-based educational sessions per year about air pollution.
-   
-   3. Reduce greenhouse gases by 3,000,000 pounds per year.
-   
-   4. Plant 200 trees per year.
-   
-   5. Create 5 urban gardens per year.
-   
-   6. Convert 100 drivers to biking through signed pledges annually.
-ein: 95-1641451
-mailing_address_street: 5858 Wilshire Blvd. Suite 300
-mailing_address_city: Los Angeles
-mailing_address_state: California
-mailing_address_zip: '90036'
-project_proposal_best_place: >-
-  More than 10 million people in Los Angeles County breathe in harmful air
-  pollution. Eighty-eight percent is from transportation-related sources. We
-  know that exposure to ambient air pollution can lead to reduced lung function,
+In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
+What is the need you’re responding to?: >-
+  Blue Sky LA addresses a startling statistic facing residents of Southern
+  California:  more than 10 million people in Los Angeles County breathe in
+  harmful air pollution. Eighty-eight percent is from transportation-related
+  sources. Exposure to ambient air pollution can lead to reduced lung function,
   respiratory infections, aggravated asthma, COPD, bronchitis, lung cancer, and
   kidney failure. It has also been linked to decreased cognitive function,
   depression, anxiety, weaker bones, impacts on children in utero, decreased
-  fertility in men, and premature death. 
-   
-   
-   
-   BREATHE LA, along with partnering non-profit Climate Cents, will create a roadmap of “citizen-driven” projects that will help to achieve reduction in air pollution, improve the environment for Angelenos, and showcase how collaboration can effect change as we prepare to host the 2028 Olympics and Paralympics. 
-   
-   
-   
-   Engaging Volunteers: Blue Sky LA will use social media and email blasts to organize local projects through our community-based partners. Potential volunteers can learn where and how to get involved based on their interests and specific community needs. Projects may include tree planting; establishing urban gardens and parks; installing cool roofs; focusing collective action on telecommuting, biking, or using public transportation; composting; or developing other green programs that our residents prioritize. Each month, Blue Sky LA will present a community engagement activity. People can sign up to volunteer via community-based organizations, social media, and email blasts. We will also recruit volunteers through our financial sponsors, elected officials, media organizations, and government agencies. 
-   
-   
-   
-   Visual Tracking: Blue Sky LA will create and manage an interactive map to show the locations of current volunteer opportunities, number of registered volunteers, and each project’s potential impact on air pollution. 
-   
-   
-   
-   Reporting: Climate Cents will develop a digital platform that is compatible on all web browsers and mobile devices. Following project completion, the dashboard will track each project’s benefit to air quality, the total number of participants, and how much money was raised. Every donor, volunteer, and community partner will be able to share what he or she did to improve the air quality in the region. This is how motivation builds and change is mobilized. 
-   
-   
-   
-   Population: While Blue Sky LA is a county-wide initiative, we will particularly target vulnerable populations from disadvantaged Southern California communities to improve their awareness, environment, and health. 
-   
-   
-   
-   Timeline: Blue Sky LA plans to begin monthly programs in 2019 and accomplish stated annual goals by the end of a one-year timeframe. 
-   
-   
-   
-   Measurable Progress: We estimate that we will have access to more than 3,000 potential volunteers through our community partners. Our goal is to recruit a minimum of 1,000 volunteers during our first year, exceeding the national rate of volunteerism of 25 percent.
-category_metrics:
-  - Rates of volunteerism
-category_other:
+  fertility in men, and premature death.  
+
+  Los Angeles is known for our diversity, our welcoming communities, and our
+  sunshine. Our commitment to reducing our carbon footprint will serve as a
+  model for the world as we prepare to host the 2028 Summer Olympics and Para
+  Olympics.  Let’s CONNECT Angelenos to improve our environment and lung health.
+Why is this project important to the work of your organization?: >-
+  BREATHE LA educates underserved populations across Southern California about
+  lung and environmental health. In 2019, we reached 11,000+ students at 100+
+  school sites with our after-school programs; provided asthma and vaping
+  prevention programs to 1,300+ families; lung health screenings and support for
+  nearly 1,000 adults; and provided educational sessions about air quality,
+  access to clean technology and improved environmental sustainability to 5,000+
+  people.
+
+  Each member of our 19 person staff has a story to share about why they are
+  passionate about clean air and healthy lungs.  Marc Carrel, our President and
+  CEO, gets his inspiration from his three active daughters who have asthma. He
+  knows how air pollution can trigger asthma attacks on bad air days and each
+  day he comes to work joined by staff committed to developing more ways to
+  advance lung health research, create innovative programs to improve air
+  quality, and advocate for equitable reduction in exposure to pollution.
+Please explain how you will define and measure success for your project.: "BREATHE LA will define success by the number of volunteers we engage, the number of community-based educational programs we offer, and the amount of greenhouse gases we eliminate through our “citizen-driven” projects. We will measure this success through the following projected project outcomes for year one:\n\n1.\tEngage 1,200 volunteers during year one through partnerships with community-based organizations.\n2.\tProvide 12 community-based educational sessions per year about air pollution.\n3.\tReduce greenhouse gases by 3,000,000 pounds per year.\n4.\tPlant 200 trees per year.\n5.\tCreate 5 urban gardens per year.\n6.\tIncrease public transportation users by 100 individuals.\n\nOur LA2050 vision is to showcase how community collaboration can effect change toward reduced air pollution in Los Angeles County in advance of our hosting the 2028 Olympics and Paralympics.  \n\nOur program goals for Blue Sky LA goals include continuing to increase awareness about the importance of  air pollution reduction through community education, reducing asthma emergency room visits that result from poor air quality, decreasing vehicle emissions, and increasing awareness about innovative clean technology and environmentally friendly products."
+Approximately how many people will be directly impacted by this proposal?: '1200'
+Approximately how many people will be indirectly impacted by this proposal?: '10000000'
+Please describe the broader impact of your proposal.: >-
+  BREATHE LA will achieve broader goals of improving lung health (reducing NOx,
+  PM2.5, and VOCs), improved public health and quality of life (reducing asthma
+  emergency room visits due to air quality), and greater access to clean
+  technology (increasing awareness about innovative and environmentally-friendly
+  technologies and incentive/rebate programs for energy efficient auto and home
+  solutions). Blue Sky LA will not only make the Los Angeles community
+  healthier, but also serve as a model for other California communities and
+  beyond.
+Which of LA2050’s resources will be of the most value to you?:
+  - Access to the LA2050 community
+  - Host public events or gatherings
+  - Communications support
+  - 'Office space for meetings, events, or for staff'
+  - 'Capacity, including staff'
+  - Strategy assistance and implementation
+Please list the organizations collaborating on this proposal.: |-
+  California State University Northridge
+  Climate Cents
+Which metrics will your submission impact?:
+  - Public transit ridership
+  - Volunteerism
+Are there any other LA2050 goal categories that your proposal will impact?:
   - LA is the healthiest place to LIVE
-year: 2019
+year: 2020
 category: connect
 filename: breathe-california-of-los-angeles-county
 order: 3

@@ -33,27 +33,33 @@
 {% endif %}
 
 <h3>What is the need you’re responding to?</h3>
-{{ page["What is the need you’re responding to?"] }}
+{{ page["What is the need you’re responding to?"] | markdownify }}
 
 <h3>Why is this project important to the work of your organization?</h3>
-{{ page["Why is this project important to the work of your organization?"] }}
+{{ page["Why is this project important to the work of your organization?"] | markdownify }}
 
 <h3>Approximately how many people will be impacted by this proposal?</h3>
 
 <div class="numbers">
   <dl style="grid-template-columns: 1fr 1fr; margin-top: 0;">
-    <dt>{{ page["Approximately how many people will be directly impacted by this proposal?"] }}</dt>
+    <dt>
+      {% assign direct_impact = page["Approximately how many people will be directly impacted by this proposal?"] %}
+      {% include number-with-commas.html number=direct_impact %}
+    </dt>
     <dd>Direct impact</dd>
-    <dt>{{ page["Approximately how many people will be indirectly impacted by this proposal?"] }}</dt>
+    <dt>
+      {% assign indirect_impact = page["Approximately how many people will be indirectly impacted by this proposal?"] %}
+      {% include number-with-commas.html number=indirect_impact %}
+    </dt>
     <dd>Indirect impact</dd>
   </dl>
 </div>
 
 <h3>Please describe the broader impact of your proposal.</h3>
-{{ page["Please describe the broader impact of your proposal."] }}
+{{ page["Please describe the broader impact of your proposal."] | markdownify }}
 
 <h3>Please explain how you will define and measure success for your project.</h3>
-{{ page["Please explain how you will define and measure success for your project."] }}
+{{ page["Please explain how you will define and measure success for your project."] | markdownify }}
 
 <h3>Which of the <span style="text-transform: uppercase;">{{ page.category }}</span> metrics will your submission impact?​</h3>
 <ul>

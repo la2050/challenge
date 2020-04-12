@@ -1,158 +1,151 @@
 ---
-is_test_data: true
-application_id: '4893891936'
+application_id: '2174426796'
 title: >-
-  If You Can See It, You Can Be It: Inspiring LA’s Youth With 24 Videos
-  Featuring LA’s Diverse Tech and Digital Marketing Talent
-project_description: >-
-  “If you can see it, you can be it." Gladeo will produce 24 inspirational
-  career videos and career pathway profiles of diverse professionals at LA’s top
-  tech & digital marketing companies, expanding our library of career content on
-  Gladeo.org, our free “ Virtual Career Day” platform which has served over 1
-  million students. The content is created with our Gladeo League, our
-  work-placed learning internship program which trains/mentors first-gen media
-  creators from LA’s community college system.
-organization_name: Gladeo
-organization_description: Non-profit organization
-project_video: 'https://www.youtube.com/watch?v=3s6Kqtxj7U0'
+  An Inclusive, Next-Gen Digital Career Navigation Hub for LA’s Green Jobs
+  (Presented by Gladeo and LACI)
+organization_description: Nonprofit
+project_video: 'https://spark.adobe.com/video/MScYie5OKN2OW'
+link_donate: 'https://gladeo.org/give-gladeo'
+link_volunteer: 'https://gladeo.org/get-involved'
 link_newsletter: >-
   https://gladeo.us11.list-manage.com/subscribe/post?u=98c3d0005a0fe89639eaebaa5&id=df2c256ed9
-organization_website: 'https://gladeo.org'
+mailing_address_city: Santa Monica
+mailing_address_street: 3110 Main Street Building C
+ein: '472676458'
+organization_name: Gladeo
+mailing_address_state: California
+mailing_address_zip: '90405'
+organization_website: 'https://www.gladeo.org'
 organization_twitter: '@gladeo_org'
 organization_facebook: 'https://www.facebook.com/gladeo.org/'
 organization_instagram: '@gladeo_org'
-link_donate: 'https://gladeo.org/give-gladeo'
-link_volunteer: 'https://gladeo.org/get-involved'
-organization_activity: >-
-  Gladeo is dedicated to bridging the belief, information, and network gaps that
-  often prevent historically underrepresented and underserved youth from
-  accessing and thriving in careers.
-project_proposal_description: >-
-  Not only does Gladeo.org help the students that directly use the platform
-  online but it is also a resource for youth development and community-based
-  nonprofits in LA County and around the country to supplement and amplify their
-  impact. Here’s a testimonial from one of our partners: 
-   
-   
-   
-   “The reason Gladeo is so important to us is because through Gladeo’s career exploration workshop and free “Virtual Career Day”platform, they are able to paint a picture of what it means to dream boldly and never let circumstances hinder their career and education aspirations. Many of our students come from a low socioeconomic background. Their parents’ English is minimal. There aren’t too many books in the house. Both parents (if living with both parents) work full time. They relocate frequently because of income instability. These factors justify their way of having “survival mentality” and with that mindset, education or the future isn’t something they often think about. “That’s for the other kids from the suburbs.” Gladeo sets the tone for CLH in that these kids are instilled within them the confidence to dream big and to step out of their fears. Gladeo’s workshop and free online career platform which provide very practical tools to achieving specific career dreams helps our students step out of the ambiguity of "it’s too much work", to the practicalities of “I can do it one step at a time”. Every student who graduated from our first year cohort is now attending college. CLH and Gladeo played a HUGE role in that.” Steven Yu, Executive Director, Connect Lincoln Heights (CLH)
-   
-    
-   
-   Connect Lincoln Heights (CLH) is a youth development non-profit that connects Lincoln Heights HS students with mentors who are living out their career aspirations, provide the platform for mentorship to take place through monthly personal development workshops, develop a community service project that addresses a need in their community utilizing the profession of their mentor.
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Antelope Valley
+Please describe the mission of your organization.: >-
+  Gladeo’s inclusive, next-gen career exploration platform prepares learners for
+  the future of work by providing free, online access to high-quality career
+  guidance for upwardly-mobile middle- & high-skill careers. We’re building a
+  more inclusive, equitable, and prepared workforce of the future.
+project_description: >-
+  Our project is to partner with the Los Angeles Cleantech Incubator (LACI) to
+  build out a “Green Careers in Los Angeles” section for Gladeo’s existing free,
+  online, youth-friendly career exploration platform, which is already being
+  used by thousands of learners in LA. This new microsite will serve as both a
+  “Virtual Career Day” as well as a digital information hub for “green career”
+  pathway information, educational and training program finder, and job
+  recruiting portal for opportunities in one of the fastest-growing industries
+  in Los Angeles.
+Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
+In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-  - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
-project_la2050_community_resources:
-  - Access to LA2050 community
-  - >-
-    Host public events on the topic your organization’s issue area (e.g. access
-    to capital, education reform, clean energy, etc.) 
-  - >-
-    Communications support, including traditional media, social media, and
-    LA2050 newsletter
-  - Publicity/awareness
+In what stage of innovation is this project?: >-
+  Applying a proven model or solution to a new issue or sector (e.g, using a job
+  recruiting software or strategy to match clients to supportive housing sites,
+  applying demonstrated strategies from advocating for college affordability to
+  advocating for housing affordability and homelessness, etc.)
+What is the need you’re responding to?: >-
+  Data shows that the major barriers to fulfilling the promise of green jobs are
+  not lack of training programs or skilled workforce, but rather a time-delay
+  skills mismatch (i.e., a rapidly changing industry’s workforce needs outpacing
+  program development and recruitment timelines) primarily due to the lack of
+  connection between quality career training programs with employers who will
+  eventually hire trainees. Leveraging its unique assets as a nonprofit
+  cleantech incubator, LACI closes the loop in workforce development for the
+  burgeoning green economy by providing continuity from identification of
+  real-world demand for workforce skills to training and job placement. Together
+  with LACI, Gladeo’s new learner-facing microsite for “Green Careers in Los
+  Angeles” will serve as a valuable platform for communicating timely,
+  industry-vetted information directly with learners in a way that’s
+  cost-effective, sustainable, and adaptable to the long-term needs of a
+  continuously changing industry.
+Why is this project important to the work of your organization?: >-
+  Our project possesses significant cost effectiveness and outsized impact
+  potential because it leverages Gladeo’s existing career exploration platform
+  (www.gladeo.org), an existing user base, and an extensive library of career
+  content which highlights the broad spectrum of career pathways and diverse
+  professionals in Los Angeles. Our team is experienced in tech product
+  development, human-centered UX design, and video and digital content. Our team
+  is also experienced engaging with stakeholders across the public and private
+  sectors including employers, trade unions, K-14 education, workforce training,
+  and government career centers. Together with the team at LACI and our combined
+  working relationships with Los Angeles-based K-14 school districts, workforce
+  career centers, and job training programs like Job Corps, we will achieve
+  system-wide distribution of our free resource across the LA region, ensuring
+  that we reach our target audience efficiently and effectively.
+Please explain how you will define and measure success for your project.: >-
+  Outcome #1 (Awareness): To expand career awareness for low-income and
+  first-generation students to “green career” paths in the LA region.
+
+  Outputs: # of new visitors/subscribers, # of video views, # of Spotlight
+  interviews read, # of Career Profiles read, Time on Site, # of Career and
+  Industry follows
+
+  Outcomes: (through online user surveys)
+
+  Short-Term: Did Gladeo introduce you to a green career path you previously had
+  little or no knowledge about? Did Gladeo help you decide to pursue a green
+  career?
+
+
+  Outcome #2 (Training): To expand access to quality information about green
+  careers and skills. To increase enrollment in employer-vetted local community
+  college programs, workforce training programs, and apprenticeships.
+
+  Outputs: # of Click Thrus (and Conversions when trackable) to educational
+  programs, CTE programs, meetup events, internship/job postings, apprenticeship
+  programs, online courses. (We will also gather 2nd party data from our
+  partners)
+
+  Outcomes:
+
+  Did Gladeo help you learn about what education or training you needed to
+  pursue your green career? If yes, have you enrolled in an education or
+  training program? Which one?
+
+
+  Outcome #3 (Employment): To increase job placement rate of newly-trained
+  entry-level workers.
+
+  Outputs: # of Click Thrus to internship/job postings, apprenticeships.
+
+  Outcomes: (Through Gladeo user surveys, profile updates, and program reviews)
+
+  Short-Term: Upon completion (or within 6 months) of your training program, did
+  you gain employment in a green job that you otherwise would not have been
+  qualified for? 
+Approximately how many people will be directly impacted by this proposal?: '75000'
+Approximately how many people will be indirectly impacted by this proposal?: '500000'
+Please describe the broader impact of your proposal.: >-
+  Our project will help fulfill the promise that “green jobs” will rebuild the
+  stock of solid middle-class jobs in America. Our regional microsite “Green
+  Careers in Los Angeles” will serve as a model for future regional green job
+  microsites across the U.S., as well as for other industries facing similar
+  kinds of workforce challenges.
+
+
+  With inclusivity at the core of our design and distribution principles, our
+  project will ensure that low-income and underrepresented learners have
+  equitable access to and the best chance of success in green career paths.
+  Entering the workforce with a level of job readiness will reduce attrition and
+  increase job performance, which thereby contributes to productivity,
+  efficiency and economic growth.
+Which of LA2050’s resources will be of the most value to you?:
+  - Access to the LA2050 community
+  - Host public events or gatherings
+  - Communications support
+  - 'Office space for meetings, events, or for staff'
   - 'Capacity, including staff'
   - Strategy assistance and implementation
-project_innovation_stage: Expand existing program (expanding and continuing ongoing successful projects)
-project_collaborators:
-  - Bixel Exchange of the LA Chamber of Commerce
-  - Dentsu Aegis Network
-project_measure: >-
-  There are 2 programs working in synergy so we will define and measure success
-  separately for each program involved in this project. We will conduct students
-  surveys after completion of the Gladeo League program and 5 days after sign up
-  on the online platform. 
-   
-   
-   
-   1. Inspirational and Educational Multimedia Content on Gladeo.org (for community college students). Success means:
-   
-   - Gladeo.org introduced you to a career or industry that you previously had little or no knowledge about.
-   
-   - Gladeo.org’s career quiz matched you with at least one career that seems interesting to you.
-   
-   - Gladeo.org gave you tangible advice and action steps to pursue the careers you are interested in.
-   
-   - Gladeo.org helped you decide on a college major and/or help you decide on courses you should take.
-   
-   - Gladeo.org increased your motivation to graduate from community college and take next steps in pursuing your dream career.
-   
-   - Gladeo.org increased your hope for your future.
-   
-   
-   
-   2. Gladeo League work-placed learning program (for community college students). Success means: 
-   
-   - Completed 4 solid projects which you can add to your portfolio/reel to show you have demonstrable experience in your field of interest.
-   
-   - Gained contacts in your field of interest and at least 1 solid reference.
-   
-   - Gained valuable experience in your media field of interest.
-   
-   - Improved “power” skills like communication, resourcefulness, problem solving, flexibility, critical thinking, teamwork and time management?
-   
-   - Prepared you to work in a professional environment with strict deadlines and high quality expectations.
-   
-   - Increased marketability to get your first job in media/entertainment.
-ein: 47-2676458
-mailing_address_street: '3110 Main Street, Building C'
-mailing_address_city: Santa Monica
-mailing_address_state: California
-mailing_address_zip: '90405'
-project_proposal_best_place: |-
-  Project Execution and Timeline
-   
-   - Gladeo League Recruitment (4 weeks): Work with the career services department of LA’s community colleges to select 12 interns to join our Gladeo League: 8 Video Producers, 4 Reporters 
-   
-   - Gladeo League Training (3-4 weeks): They will be mentored by LA professionals working in broadcast journalism and film/video production. From Spectrum News 1, Twentieth Century Fox/Disney, KTLA and Dentsu Aegis Network. 
-   
-   - Content to be created: 24 Inspirational Career videos, 24 Accompanying Comprehensive Career Profiles
-   
-   - Pre-Production (4-6 weeks): Our partner, LA Chamber of Commerce Bixel Exchange will recruit, vet, and coordinate the 24 interviewees for the videos and career profiles we are producing. To prepare the interviewees, Gladeo will send out pre-interview questionnaires and schedule pre-interview calls in advance of interview day. 
-   
-   - Production (3 months): Gladeo League interns with our staff will shoot and conduct on-camera interviews of four professionals in various roles at each of the six companies.
-   
-   - Post-Production (3 months): Gladeo League members will edit the videos and profiles with the help of Gladeo’s professional staff and mentors. 
-   
-   - Distribution to LA/OC college and high school students: Gladeo and our collaborative partner, the LA Chamber of Commerce Bixel Exchange, will present the new videos and online resources to the school partners (19 community colleges, 30 high schools) through their email newsletter, social media, and workshops.
-   
-   - We also hope to work with LA2050 to distribute our free resources to the youth non-profit partners in their network. 
-   
-   
-   
-   A 2014 report from the Public Policy Institute of California predicts that by 2025, California will have an estimated 2.5 million unfilled jobs that will require at least some postsecondary education, with Information Technology slated to be the fastest growing sector. In addition, African American and Hispanic tech workers combined make up just 5% of the tech workforce. Students of increased socio-economic status are many times gifted with career orientation early in their youth. Students of lower economic means fail to benefit from career orientation from their parents or community. So how do they aspire to and pursue careers they’ve never heard of? Our project aims to bridge the following gaps at scale: 
-   
-   
-   
-   - Information gap: What careers exist? What do they entail and what are the education and steps necessary to get your foot in the door? 
-   
-   - Belief gap: How many underrepresented minorities are not pursuing careers in the technology sector because they don’t see or know anyone who looks like them doing it or because they’ve been told they are not as capable? 
-   
-   
-   
-   We are working to create a world where hope and opportunity are not limited by the lack of career role models, awareness, or information. LA is a city of full of diversity, in both its people and its industry. Now, let’s see our diverse people work in all of our diverse industries!
-category_metrics:
-  - College and community college completion rates
-  - Youth unemployment and underemployment
-  - Student education pipeline
-category_other:
-  - LA is the best place to CREATE
-year: 2019
+Please list the organizations collaborating on this proposal.: LACI - Los Angeles Cleantech Incubator
+Which metrics will your submission impact?:
+  - College matriculation
+  - High school graduation rates
+  - Community college completion
+Are there any other LA2050 goal categories that your proposal will impact?:
+  - LA is the best place to CONNECT
+year: 2020
 category: learn
 filename: gladeo
-order: 13
+order: 32
 
 ---

@@ -1,0 +1,128 @@
+---
+application_id: '7847632664'
+title: Grid110 South LA
+organization_description: Nonprofit
+project_video: ''
+link_donate: ''
+link_volunteer: ''
+link_newsletter: ''
+mailing_address_city: Los Angeles
+mailing_address_street: '800 Wilshire Blvd, Suite 200'
+ein: 47-4318779
+organization_name: Grid110
+mailing_address_state: California
+mailing_address_zip: '90017'
+organization_website: 'https://www.grid110.org'
+organization_twitter: '@grid110'
+organization_facebook: 'https://www.facebook.com/grid110'
+organization_instagram: '@grid110'
+Please describe the mission of your organization.: >-
+  Our mission is to foster the most thriving, inviting & inclusive community for
+  entrepreneurs in Los Angeles. Our work impacts individuals who are often
+  overlooked by traditional entrepreneurial ecosystems. That’s what drives us to
+  make the entrepreneurial path more equitable, inclusive & accessible.
+project_description: >-
+  Grid110 provides free accelerator programs (no cost/no equity taken) to early
+  stage founders in Los Angeles, connecting them to a growing community of
+  fellow entrepreneurs, expert mentorship, and critical resources. We’re
+  expanding programs into South Los Angeles, which is primarily Black & Latinx.
+  Given the mere fraction of funding/loans allocated to women and people of
+  color particularly, it’s imperative that support be prioritized to
+  historically marginalized communities in an effort to level the playing field
+  for economic mobility.
+Which LA2050 goal will your submission most impact?: LA is the best place to CREATE
+In which areas of Los Angeles will you be directly working?:
+  - South LA
+In what stage of innovation is this project?: >-
+  Expand existing program (expanding and continuing ongoing successful projects
+  or programs)
+What is the need you’re responding to?: >-
+  73% of LA residents identify as a person of color, but our startup ecosystem
+  does not reflect that. The path to success as a startup founder is starkly
+  homogenous and typically attributed to access to networks, capital and
+  critical resources that marginalized communities have been locked out of.
+  We’re working to level the playing field and create a pathway that is more
+  accessible and inclusive through our program and community development.
+
+
+  South LA is home to ~20% of Los Angeles residents, where
+
+  96% identify as Black or Latinx. We see tech and entrepreneurship as keys to
+  economic mobility. Our proposed plans include launching our core programs
+  South LA to support the entrepreneurs in the area, in partnership with local
+  community organizations and key stakeholders. In an effort to impact as many
+  entrepreneurs as possible, our goal is to reach 1,000 entrepreneurs/year
+  through not only these core programs, but also events, advisor hours and
+  workshops that will be open to the public.
+Why is this project important to the work of your organization?: >-
+  Now in our 6th year as an organization, we have supported 146 companies
+  through our core programs and thousands of entrepreneurs through free events,
+  workshops and office hours. 69% of our companies are led by a female founder
+  and 63% are led by a founder of color. They have gone on to raise $18M+ in
+  funding and created 80+ local jobs.
+
+
+  Grid110 was founded with the desire to build community where we felt one
+  didn’t exist and to foster a more inclusive ecosystem for entrepreneurs to
+  thrive. This mindset is embraced by every aspect of our community, from our
+  team to our entrepreneurs to our partners. Additionally, our programs are
+  free: no cost, no equity taken. Our mission and unique model have enabled us
+  to attract and support a community of founders whether their company is
+  venture scale or sustainable growth, tech or non-tech, for profit or
+  non-profit. As a result, we’ve supported over 140 companies, with 69% led by
+  female founders and 60% led by founders of color.
+Please explain how you will define and measure success for your project.: >-
+  Key metrics for success that we track would be:
+
+  • # of companies supported through the programs and completion rate
+
+  • # of entrepreneurs supported through events, advisor hours and workshops
+
+  • Business starts
+
+  • Funding obtained
+
+  • Revenue growth
+
+  • Jobs created
+
+
+  Our vision for success is to build a thriving, dynamic and inclusive
+  entrepreneurship community in South LA. To increase our impact and support of
+  companies year by year. To enable more entrepreneurs to get the access to
+  resources, capital, mentorship and community that they need, regardless of
+  where they are in the lifecycle of building their business. Traditional
+  business coaching programs exist through the Business Source Centers and
+  one-off events through various community organizations. We want to bring all
+  of these entities together through collaboration - not competition - in order
+  to create multiple touch points for the business community.
+Approximately how many people will be directly impacted by this proposal?: '1000'
+Approximately how many people will be indirectly impacted by this proposal?: '3500'
+Please describe the broader impact of your proposal.: >-
+  Our core programs aim to support 30-40 companies over the course of the year,
+  plus 1000 additional entrepreneurs through educational events, office hours,
+  and other community building activities. The South LA region has very limited
+  resources for tech/tech enabled businesses, which we believe have the ability
+  to be economic equalizers. By providing mentorship, community, support, access
+  to funding and other key resources, we believe we can empower entrepreneurs to
+  create sustainable businesses, new jobs and generational wealth. The success
+  of these companies will create bring capital infusion into the area. We
+  anticipate that for each entrepreneur directly served, we will be able to
+  impact 3.5 additional people (staff, family, community).
+Which of LA2050’s resources will be of the most value to you?:
+  - Access to the LA2050 community
+  - Communications support
+Please list the organizations collaborating on this proposal.: ''
+Which metrics will your submission impact?:
+  - Minority- and women-owned businesses
+  - High-growth startups
+  - Venture capital investment
+Are there any other LA2050 goal categories that your proposal will impact?:
+  - LA is the best place to LEARN
+  - LA is the best place to CONNECT
+year: 2020
+category: create
+filename: grid110
+order: 13
+
+---

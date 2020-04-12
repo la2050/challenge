@@ -1,168 +1,114 @@
 ---
-is_test_data: true
-application_id: '8739557044'
-title: We Are Ready to Battle the HS Crisis
-project_description: >-
-  WAR curriculum teaches students: how to succeed in high school; their high
-  school options; how to study, plan, and stay organized; how to take notes; an
-  introduction to college applications and college campuses; how to build a
-  resume; and numerous career options matching the education requirements. The
-  culmination, CampUs will allow students to attend a 5 day camp that focuses on
-  high school success, the importance of college, college applications,
-  leadership skills, and career panels.
-organization_name: 'After-School All-Stars, Los Angeles'
-organization_description: Non-profit organization
-project_video: 'https://youtu.be/t3QQPi2pnEU'
-link_newsletter: ''
+application_id: '2319502895'
+title: After-School All-Stars Los Angeles CampUS
+organization_description: Nonprofit
+project_video: 'https://www.youtube.com/watch?v=RP5-KOatsK4'
+link_donate: la-allstars.configio.com/ShoppingCart.aspx?com=moneyrequest&id=28
+link_volunteer: la-allstars.org/volunteer
+link_newsletter: la-allstars.org/join-our-newsletter
+mailing_address_city: Los Angeles
+mailing_address_street: 3450 Wilshire Blvd. Suite 550
+ein: 91-2162719
+organization_name: After-School All-Stars Los Angeles
+mailing_address_state: California
+mailing_address_zip: '90010'
 organization_website: 'https://www.la-allstars.org'
 organization_twitter: '@ASASLosAngeles'
-organization_facebook: asaslosangeles
+organization_facebook: /ASASLosAngeles
 organization_instagram: '@asaslosangeles'
-link_donate: ''
-link_volunteer: ''
-organization_activity: >-
-  ASASLA mission is to educate, enlighten and inspire students by providing
-  opportunities for their success, while cultivating students' self-esteem,
-  leadership and to help build healthier communities.
-project_proposal_description: >-
-  ASAS-LA is able to provide high quality afterschool programming that helps to
-  prepare our students to succeed in school and in life. The W.A.R. curriculum
-  helps 8th graders gain knowledge and prepare themselves for what to expect in
-  high school and college and impacts our current students and former students
-  in positive ways. Being 10 years old and in a new school was scary. She would
-  walk through the gray hallways everyday alone. This girl could be any new 6th
-  grader in a middle school in Los Angeles. But she wasn’t just any girl. Ivonne
-  Gonzalez attended Griffith Steam Magnet School as a student. Her 2 parents
-  worked long hours. Ivonne would walk the streets of East LA by herself to get
-  home after-school. There were no adults home when she opened her front door.
-  She would make herself a snack, do her homework and get ready for bed before
-  her parents returned home. Ivonne would complete her homework but much of the
-  work would be incorrect. She became frustrated and even more isolated because
-  she felt like she was disappointing her parents. During parent conferences,
-  her teachers suggested that she join the after-school program provided at the
-  school. This was her turning point. Ivonne discovered she had a true passion,
-  music. Her mentor, Jose, would work with her academically and musically every
-  afternoon. Ivonne participated in the We Are Ready program after-school. She
-  began to research the different pathways that would give her a great education
-  as well as continue to allow her to pursue her passion of music. She never
-  really had anyone talk to her about high school or college. The W.A.R. program
-  empowered her and because of it she was able to decide what high school she
-  wanted to go to that would align with her future career. Ivonne sites her
-  attendance at CampUs (ASAS-LA’s high school/college readiness summer camp) as
-  the inspiration to become a student mentor in our W.A.R. program after she
-  graduated. Ivonne went on to receive the Bill Gates Foundation Scholarship and
-  attended Yale University for her undergraduate degree. She continues to return
-  to CampUs as a Counselor and educate students in all the areas she was unaware
-  of before entering the program.
-project_areas:
+Please describe the mission of your organization.: >-
+  The mission of After-School All-Stars Los Angeles is to educate, enlighten,
+  and inspire young people by providing exciting and dynamic opportunities for
+  their success, while cultivating students' self-esteem, leadership and respect
+  for one another to help build healthier communities. 
+project_description: >-
+  CampUS is an innovative summer program to prepare incoming 9th graders for
+  success and an experience in college life. Students spend a week with a
+  hands-on true college experience on a local college campus. They move into the
+  dorms, eat in the cafeterias and take classes in college lecture halls.
+  Through this immersive program, students are offered exciting courses on how
+  to succeed in high school, and what to expect when start their college career.
+Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
+In which areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Fernando Valley
   - South LA
   - Westside
-  - South Bay
-  - LAUSD
-project_la2050_community_resources:
-  - Access to LA2050 community
   - >-
-    Host public events on the topic your organization’s issue area (e.g. access
-    to capital, education reform, clean energy, etc.) 
-  - >-
-    Communications support, including traditional media, social media, and
-    LA2050 newsletter
-  - Publicity/awareness
+    LAUSD (please select only if you have a district-wide partnership or
+    project)
+In what stage of innovation is this project?: >-
+  Expand existing program (expanding and continuing ongoing successful projects
+  or programs)
+What is the need you’re responding to?: >
+  CampUS & We Are Ready address serious needs in the community by preparing
+  students for success in high school and beyond. While national graduation
+  rates rise, youth of color are still notably absent from college & the
+  workplace. Our students are in demographic groups most likely to drop out, or
+  leave school unprepared for the workforce. An issue in our community is youth
+  disconnection (students who are not enrolled in school or are unemployed). A
+  report finds that 11% of white youth ages 16-24 are disconnected, while rates
+  among African American youth are 22.5% & Hispanic youth are 18.5% (Burd-Sharps
+  & Lewis, 2012). Our programs help students transition to high school while
+  making connections between academic and professional success, college
+  planning, career exploration, and mentoring. We Are Ready allows for early
+  intervention by targeting middle-schoolers & strives to inspire students for
+  the rigors of high school & CampUS provides that hands-on experience at the
+  end of the year. 
+Why is this project important to the work of your organization?: >-
+  For the past ten years, CampUS has created a worthwhile and memorable
+  experience for our students entering high school. What makes the team at
+  ASAS-LA unique is that staff members typically come from the neighborhoods
+  where we serve our students. This allows a familiarity between students and
+  staff that breaks down barriers are creates a trusting and meaningful
+  relationship. Additionally, most CampUS participants return as junior and
+  regular camp counselors. This shows that our students are committed to our
+  programs and their communities by giving back as mentors. 
+Please explain how you will define and measure success for your project.: >-
+  Our vision for our All-Stars is that they grow up safe and healthy, graduate
+  high school and go on to college, find careers they love and give back to
+  their communities. We achieve this by identifying and fueling our students’
+  individual passions and by tailoring their interests to academic support,
+  enrichment, and health and fitness activities. With CampUS, we create a
+  week-long exceptional opportunity where students enter high school with a
+  strong foundation that will allow them to succeed.
+
+  We measure success against outcomes using three primary data sources: pre and
+  post student surveys; school and district data sharing; and participation
+  tracking through Cityspan. We measure our progress toward these goals by
+  examining the following outputs and outcomes. Last school year, 88% of
+  participants in the We Are Ready program improved their goal orientation,
+  increasing their development of both immediate and long-term life goals.
+Approximately how many people will be directly impacted by this proposal?: '140'
+Approximately how many people will be indirectly impacted by this proposal?: '6100'
+Please describe the broader impact of your proposal.: >-
+  Students who attend CampUS will have an impact on the future of the city by
+  taking the skills they have learned to role model to their peers, act as
+  mentors for younger students, and enter into college or the workforce better
+  prepared than before. As mentioned, our students come from neighborhoods that
+  pose challenges for them on many levels from food insecurity, to lack of
+  access to technology, and areas that may have a high incidence of violence.
+  Our students time and time again report that they are appreciative of the work
+  of ASAS-LA because of the programs and also because of our caring staff who
+  are dedicated to their success. Having programs like ASAS-LA ensure that the
+  future of Los Angeles will be as bright as our students. 
+Which of LA2050’s resources will be of the most value to you?:
+  - Access to the LA2050 community
+  - Host public events or gatherings
+  - Communications support
+  - 'Office space for meetings, events, or for staff'
   - 'Capacity, including staff'
   - Strategy assistance and implementation
-project_innovation_stage: Expand existing program (expanding and continuing ongoing successful projects)
-project_collaborators: ''
-project_measure: >-
-  It is the goal of After-School All-Stars, Los Angeles for all of our students
-  to grow up safe and healthy, graduate high school and go on to college, find
-  careers they love and give back to their communities. We measure our progress
-  toward these goals by examining the following outputs and outcomes:
-   
-   
-   
-   Output 1: Students will regularly attend school
-   
-   Outcome 1: 85% of W.A.R. participants will attend school for at least 90% of days
-   
-   
-   
-   Output 2: Students will be academically engaged with high self-efficacy
-   
-   Outcome 2: 75% of W.A.R. participants will agree that they can do well in school even if it's challenging
-   
-   
-   
-   Output 3: Students will move toward on-time high school graduation
-   
-   Outcome 3: 100% of participants will achieve on-time grade promotion
-   
-   
-   
-   Output 4: Students will develop career aspirations
-   
-   Outcome 4: 75% of CEO participants will demonstrate confidence in their ability to understand and navigate career pathways
-   
-   
-   
-   We measure success against the outcomes above using three primary data sources: pre and post student surveys; school and district data sharing; and participation tracking through Cityspan.
-   
-   
-   
-   Pre and Post Student Surveys: Surveys are administered in the first and last two weeks of the program year by the Programs team and sent to the National Research and Evaluation team. The National Research and Evaluation team compiles, cleans, and analyzes the data. They then provide actionable, data informed feedback to chapters and sites, which chapters then use to inform and improve programs going forward. Each summer, pre and post survey data is analyzed to examine both group and individual-level changes, as well as provide an end-of-year snapshot of student strengths and areas of growth.
-   
-   
-   
-   School and District Data Sharing: ASAS-LA engages in data-sharing with school and district partners in order to obtain information on attendance, and on-time grade promotion of participants, suspensions/behavioral referrals, and other relevant data. Data is cleaned, compiled, and analyzed by the National Research and Evaluation team, with analyses examining both within year and year over year changes.
-   
-   
-   
-   Cityspan: In seeking to ensure that we continually improve our programming, ASAS-LA developed a feedback loop system tied to our attendance tracking system. We utilize Cityspan, a nationally-recognized customizable database system, to collect data on dosage levels per program, demographic information on students in our programs, and attendance rates.
-ein: 91-2162719
-mailing_address_street: 3450 Wilshire Blvd. Suite 550
-mailing_address_city: Los Angeles
-mailing_address_state: California
-mailing_address_zip: '90010'
-project_proposal_best_place: >-
-  We Are Ready program prepares youth in need for high school, college, and
-  careers. According to research from the Everyone Graduates Center, middle
-  schoolers with low attendance (less than 80%), poor behavior (three or more
-  negative behavior marks), or course failure in math or English have only a 15%
-  chance of graduating high school. WR helps to reverse this trend by
-  solidifying students’ connections between school and the possibilities for
-  their futures, leading them to understand the importance of their education.
-  We then give them the tools to be successful in the classroom so that they can
-  achieve their goals. We engage students through the following components: 
-   
-   --CAREER EXPOSURE (September-December): ASAS-LA begins with lessons on self-awareness and self-identity, helping students explore their personality characteristics, leadership style, passions, and what defines them. Students use this information to explore a minimum of 6 careers per student. During this process, they research: what people in the profession do; qualities, and skills needed; education required; what programs/institutions could help them prepare for this career; average salary; working conditions; benefits offered; future outlook for this career; and what steps they must personally take to prepare for this career. 
-   
-   --HIGH SCHOOL READINESS (January-April): Students plan for their future beginning with high school. They design their 4-year plans based on the discoveries they made in their career choices. We help them ensure that their high school offers classes that are directly linked to the careers they researched. Students also learn about studying and note taking skills. Based on the careers and their research, students further research what steps they will need to take after high school to prepare themselves. Students learn the basics of creating a resume and participate in mock interviews. 
-   
-   --CampUs(June): WAR culminates with a week-long summer program, CampUs, which takes place on a college campus and gives students an extra push as they enter high school. CampUs helps students examine connections between academic and career success while exploring college and career paths. Students live in the dorms for a week, learn about how to apply to college, and take daily classes on how to be successful in school and in the workforce. 
-   
-   1. Students will move toward on-time high school graduation.
-   
-   2. Students will regularly attend school.
-   
-   3. Students will be academically engaged with high self-efficacy.
-   
-   4. Students will understand the value of staying in school.
-   
-   5. Students will feel comfortable at school.
-   
-   6. Students will believe they can become better.
-category_metrics:
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Suspension and expulsion rates
-category_other:
-  - LA is the best place to PLAY
-  - LA is the best place to CONNECT
-year: 2019
+Please list the organizations collaborating on this proposal.: ''
+Which metrics will your submission impact?:
+  - Enrollment in afterschool programs
+  - College matriculation
+  - High school graduation rates
+Are there any other LA2050 goal categories that your proposal will impact?: []
+year: 2020
 category: learn
 filename: after-school-all-stars-los-angeles
-order: 1
+order: 2
 
 ---

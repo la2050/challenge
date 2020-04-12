@@ -64,24 +64,43 @@ function getMatchingFile(application_id) {
 }
 
 
+// function getMatchingFileByOrganizationName(organization_name) {
+// 
+//   function alphaOnly(string) {
+//     return string.toLowerCase().replace(/[^a-z]/g, "");
+//   }
+//   // console.dir(submissionFiles);
+//   for (let index = 0; index < submissionFiles.length; index++) {
+//     // console.log(submissionFiles[index]);
+//     // console.log(organization_name);
+//     if (alphaOnly(submissionFiles[index]).includes(alphaOnly(organization_name)) &&
+//         !submissionFiles[index].includes('.pdf')) {
+//         return submissionFiles[index];
+//     }
+//   }
+// }
+
+
 function processFile(filename) {
 
   // Load the contents of the file
   let data = loadMarkdown(filename).yaml;
   if (!data) return;
-
+    
   // console.log('data.application_id: ' + data.application_id);
 
   // Get the application ID
   // Look for the image folder that matches
   let fromFilePath = getMatchingFile(data.application_id);
 
+  // let fromFilePath = getMatchingFileByOrganizationName(data.organization_name);
+
   if (!fromFilePath) {
     console.log('couldn’t find a matching image file for: ' + filename + ' with application_id: ' + data.application_id);
     return;
   }
 
-  console.log('found a matching file: ' + fromFilePath);
+  // console.log('found a matching file: ' + fromFilePath);
 
   let imageExtension = fromFilePath.split('.')[fromFilePath.split('.').length - 1];
 
@@ -89,25 +108,44 @@ function processFile(filename) {
   let writePath = `../assets/images/${data.year}/${data.category}/original`;
   let toFilename = `${data.filename}.${imageExtension}`;
 
-  console.log(`writePath: ${writePath}`);
-  console.log(`toFilename: ${toFilename}`);
+  // console.log(`writePath: ${writePath}`);
+  // console.log(`toFilename: ${toFilename}`);
 
   // https://stackoverflow.com/questions/4980243/how-to-copy-a-file#11334246
 
   let encoding = 'binary';
   let content = fs.readFileSync(fromFilePath, encoding);
   
-  mkdirp(writePath, function (err) {
-    if (err) {
-      console.error(err);
-    } else {
-      fs.writeFileSync(writePath + '/' + toFilename, content, encoding, (err) => {
+  
+  createImageFile({ writePath, filename: toFilename, output: content, encoding });
+  
+  // mkdirp(writePath, function (err) {
+  //   if (err) {
+  //     console.error(err);
+  //   } else {
+  //     fs.writeFileSync(writePath + '/' + toFilename, content, encoding, (err) => {
+  //       if (err) {
+  //         console.log(err);
+  //       }
+  //     });
+  //   }
+  // });
+}
+
+
+function createImageFile({ writePath, filename, output, encoding = 'utf8' }) {
+  mkdirp(writePath)
+    .then(made => {
+      // console.log(`made directories, starting with ${made}`
+      fs.writeFileSync(`${writePath}/${filename}`, output, encoding, (err) => {
         if (err) {
           console.log(err);
         }
       });
-    }
-  });
+    })
+    .catch(error => {
+      throw error;
+    });
 }
 
 
@@ -148,10 +186,10 @@ function updateLocations(folder) {
 }
 
 
-let submissionFiles = getAllFilesFromFolder('../../_data/download__26BKVKfpFShKfRMnbZgRQmCkfDWngt');
+let submissionFiles = getAllFilesFromFolder('../../_data/download-2020');
 
-updateLocations('../_2019/learn');
-updateLocations('../_2019/create');
-updateLocations('../_2019/play');
-updateLocations('../_2019/connect');
-updateLocations('../_2019/live');
+updateLocations('../_2020/learn');
+updateLocations('../_2020/create');
+updateLocations('../_2020/play');
+updateLocations('../_2020/connect');
+updateLocations('../_2020/live');

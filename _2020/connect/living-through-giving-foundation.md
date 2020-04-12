@@ -1,140 +1,102 @@
 ---
-is_test_data: true
-application_id: '7011996197'
-title: Love Wall - Los Angeles
-project_description: >-
-  In an effort to further connect, unite, and inspire humanity the
-  #HashtagLunchbag initiative, and Living Through Giving organization at large,
-  seek to create a digital “love wall” to share messages for people experiencing
-  homelessness and community members at large. Messages will rotate, and each
-  message will be featured for roughly 60 seconds at a time, throughout one
-  month.
-organization_name: Living Through Giving Foundation
-organization_description: Non-profit organization
-project_video: >-
-  https://www.nbclosangeles.com/news/local/_HashtagLunchbag_Los-Angeles-507743072.html
-link_newsletter: 'https://www.hashtaglunchbag.org/'
-organization_website: 'https://www.hashtaglunchbag.org'
-organization_twitter: '@HashtagLunchbag'
-organization_facebook: 'https://www.facebook.com/hashtaglunchbag/'
-organization_instagram: '@#HashtagLunchbag'
+application_id: '3569438384'
+title: '#Hashtag Lunchbag across Los Angeles'
+organization_description: Nonprofit
+project_video: 'https://www.youtube.com/watch?v=T-5okZ0MjYs'
 link_donate: 'https://www.hashtaglunchbag.org/donate'
-link_volunteer: 'https://www.hashtaglunchbag.org/get-involved'
-organization_activity: >-
-  #HashtagLunchbag is committed to ending homelessness, increasing community, &
-  fostering connections, dedicated to empowering and inspiring humanity to
-  mobilize giving, through the use of social media.
-project_proposal_description: >-
-  #HashtagLunchbag was spontaneously established on December 25, 2012. A group
-  of friends in a Los Angeles apartment were struggling to find an innovative
-  and synergistically meaning manner in which to support fellow Angelenos
-  experiencing homelessness. After a few failed community outreach attempts, the
-  groups of friends decided to create a unique giving experience.The group of
-  friends went to their local grocery store and bought enough food to prepare
-  100 lunches. The friends connected with each other on a different level, while
-  having the time of their lives! Through this jovial and meaningful effort, the
-  friends connected with their communities on a different level as well. The
-  group’s first distribution was near the Santa Monica Pier and Venice
-  Boardwalk; the group connected with various individuals experiencing
-  homelessness and hunger. The friends shared the meals they prepared and
-  received insight into the experiences of their homeless neighbors. After the
-  initial experience, the friends sought to share this experience with more of
-  their friends — by repeating and expanding their efforts. Through social media
-  platforms, the group tagged photos of their experiences with #HashtagLunchbag
-  as an ode to hashtags and their efforts. Thus, the advocacy campaign and
-  outreach project that is #HashtagLunchbag was initiated. They decided to
-  repeat their #HashtagLunchbag efforts in January 2013. As the impact
-  increased, the scope and goal of #HashtagLunchbag expanded. Eventually,
-  #HashtagLunchbag set a goal of making 1,000 meals. 100 people arrived to
-  support the effort, and 1,000 meals were successfully made and distributed.
-  Additionally, group members added love notes of encouragement to each meal to
-  further acknowledge the fellow humans the group members were feeding and
-  connecting with, to remind their fellow Angelenos that they were visible and
-  important community members. 
-   
-   
-   
-   The efforts have exponentially expanded to include over 35 chapters across the US and Asia. The organization has also had one-time events in various countries in Europe and Africa. The model has garnered the attention and support of multiple media and news outlets, thereby furthering the organization’s awareness and reach.
-project_areas:
+link_volunteer: 'https://www.hashtaglunchbag.org/join-an-event'
+link_newsletter: ''
+mailing_address_city: Los Angeles
+mailing_address_street: '8544 Burton Way, #401'
+ein: 80-0928421
+organization_name: Living Through Giving Foundation
+mailing_address_state: California
+mailing_address_zip: '90048'
+organization_website: 'https://www.hashtaglunchbag.org'
+organization_twitter: ''
+organization_facebook: HashtagLunchbag
+organization_instagram: '@hashtaglunchbag'
+Please describe the mission of your organization.: >-
+  Hashtag Lunchbag, a program of the Living Through Giving Foundation, is a
+  humanitarian movement, connecting people through organized acts of love. 
+  Volunteers prepare & distribute meals for people experiencing homelessness,
+  feeding both the recipient and volunteers' drive to do kind acts for others.
+project_description: >-
+  Hashtag Lunchbag is seeking support in order to grow the movement across Los
+  Angeles, helping to increase the number of meals provided, in neighborhoods
+  across the city, building a greater awareness among a diverse group of
+  volunteers, with a more extended geographical outreach.
+Which LA2050 goal will your submission most impact?: LA is the best place to CONNECT
+In which areas of Los Angeles will you be directly working?:
   - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
   - Westside
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-project_la2050_community_resources:
-  - Access to LA2050 community
-  - >-
-    Communications support, including traditional media, social media, and
-    LA2050 newsletter
-  - Publicity/awareness
-  - 'Capacity, including staff'
-project_innovation_stage: Research (identifying / understanding the problem)
-project_collaborators: ''
-project_measure: >-
-  Through social media, we will be able to gauge the engagement of users.
-  Additionally, we will be able to track how many lunches are donated, and how
-  many messages of love are submitted, based on the data we will receive from
-  the custom designed application.
-   
-   As an organization, we will be analyzing messages, as many will be inspired by the writers’ past, or life events they’ve experienced. The number of lunches purchased is a quantitative measure, while the content is qualitative.
-ein: 80-0928421
-mailing_address_street: '7250 Melrose Ave, Ste. 1'
-mailing_address_city: Los Angeles
-mailing_address_state: California
-mailing_address_zip: '90046'
-project_proposal_best_place: >-
-  #HashtagLunchbag would like support from the LA2050 initiative to expand the
-  reach of their love, via a digital “love wall” installation, that will rotate
-  through various communities within Los Angeles County. #HashtagLunchbag
-  proposes that the “love wall” will remain in each community for a period of 3
-  connective months. The Love Wall will be strategically installed in protected
-  areas, for large projections on buildings and throughout neighborhoods across
-  Los Angeles County. In the tradition of the “love notes” placed in lunchbags
-  during our #HashtagLunchbag events, people across Los Angeles County, and
-  beyond, can upload love notes to the digital wall via an app. The user is
-  given the chance to purchase lunch for someone experiencing homelessness, from
-  afar, while spreading their message far & wide, through the wall projection,
-  for a fee of $3 per note.
-   
-   
-   
-   Phases:
-   
-   App & digital wall development (2 months)
-   
-   Community Partners & Business Collaboration
-   
-   Social Media Marketing
-   
-   
-   
-   Information about the population being served â€¨
-   
-   On any given day in Los Angeles County, there are approximately 53,000 people experiencing homelessness. The Love Wall strives to impact the mitigation of homelessness & serve a multitude of populations including, but not limited to, Angelenos experiencing homelessness; Angelenos looking to engage & connect with fellow community members, & serve fellow Angelenos experiencing homelessness; tourists visiting Los Angeles, who would like to further connect with & serve the Los Angeles community. The #HashtagLunchbag Love Wall lunch building experience will perpetuate further service driven activism & action oriented love, whether or not it is through the #HashtagLunchbag program. 
-   
-   
-   
-   A timeline of activities 
-   
-   The development of the application will be roughly 6 weeks, with the first installation to take place within 2 weeks following the completion of the application. We anticipate establishing locations for the wall to be temporarily installed, for three months at a time, beginning 6 months before the first official installation. We will be 18 months out for planning, so that locations have adequate time for preparation, and that the wall location calendar remains clear and organized.
-   
-   
-   
-   How the project will make measurable progress towards making LA the best place to â€¨CONNECT:
-   
-   The #HashtagLunchbag Love Wall is an extension of the Living Through Giving foundation’s mission to not only make a positive change, but to also promote and further a positive culture. Los Angeles will be the first city to house a moveable wall of love, connecting people via both technology and social media, providing organized acts of love. Through social media, the #HashtagLunchbag Love Wall will be able to gauge the impact and interest of users via their reactions, levels of participation, and sustained engagement, such as social media sharing, social media liking, repeat Love Wall visits to the same community rotation or to a different one.
-category_metrics:
-  - Attendance at public/open streets gatherings
-  - Rates of volunteerism
-  - Total number of local social media friends and connections Angelenos have
-category_other: []
-year: 2019
+In what stage of innovation is this project?: >-
+  Expand existing program (expanding and continuing ongoing successful projects
+  or programs)
+What is the need you’re responding to?: >-
+  There are 60,000 people experiencing homelessness throughout the County of Los
+  Angeles, and upwards of 32,000 people experiencing homelessness in the City of
+  Los Angeles. The Living Through Giving Foundation is committed to reaching all
+  60,000 Angelenos experiencing homelessness via our #HashtagLunchbag program. 
+  #HashtagLunchbag hosts a monthly event in which we build and provide
+  nutritious meals and notes of encouragement to fellow Angelenos experiencing
+  homelessness, and connect residents of the city to volunteer opportunities.
+  The monthly #HashtagLunchbag events and by request corporate activations
+  strengthen and connect the Angeleno community. In addition to addressing food
+  insecurity and providing meals to people experiencing homelessness; the
+  program also inspires volunteers to learn more about the social crisis of
+  homelessness, raises awareness on solutions to address food insecurity and
+  homelessness, and motivates volunteers to serve. #HashtagLunchbag connects all
+  Angelenos.
+Why is this project important to the work of your organization?: >-
+  #HashtagLunchbag is nearing its 8th year of connecting Angelenos from across
+  the Los Angeles metropolitan area at monthly events.  On average, the
+  organization creates and distributes approximately 1,600 meals to people
+  experiencing homelessness, via single day events hosted each month.  We seek
+  to increase our impact and expand our capabilities by increasing the number of
+  meals and number of events, in order to reach a wider demographic and square
+  mileage. Our meals are currently distributed around Skid Row. If selected to
+  receive funding, we will expand our distribution area to include Central LA
+  and the Westside. #HashtagLunchbag is uniquely suited to take this on because
+  our programs have a proven service delivery model and sustainable impact.
+  #HashtagLunchbag seeks to increase its service capabilities to meet the rising
+  need to address food insecurity throughout Los Angeles, especially for people
+  experiencing homelessness.
+Please explain how you will define and measure success for your project.: >-
+  At each event, we maintain records of the number of meals distributed, the
+  number of volunteers who participate, and the amount of donations received to
+  help cover the cost of food and supplies.  In Los Angeles, on average, we
+  create and distribute approximately 1,600 meals with the support of 150
+  volunteers each month. Our social media networks reach tens of thousands of
+  individuals who engage with us.  Many folks have expressed interest in joining
+  events, with the hope that meals would be distributed in areas near their own
+  homes, such as beach cities, mid city, Hollywood, Koreatown, and around
+  downtown Los Angeles.
+Approximately how many people will be directly impacted by this proposal?: '50000'
+Approximately how many people will be indirectly impacted by this proposal?: '4500'
+Please describe the broader impact of your proposal.: >-
+  Our impact is to address food insecurity, feed a large number of people
+  experiencing homelessness in the LA area, and connect LA residents through a
+  fun and interactive experience. Collectively, #HashtagLunchbag inspires and
+  empowers the community to further implement their service driven mindset and
+  increase their community impact of giving forward in their lives, outside of
+  our events.  We seek to bring awareness to our community, to inspire fellow
+  Angelenos to live with a standard of good, unique in its own right. 
+Which of LA2050’s resources will be of the most value to you?:
+  - Access to the LA2050 community
+  - Host public events or gatherings
+Please list the organizations collaborating on this proposal.: ''
+Which metrics will your submission impact?:
+  - Social and emotional support
+  - Public arts and cultural events
+  - Volunteerism
+Are there any other LA2050 goal categories that your proposal will impact?: []
+year: 2020
 category: connect
 filename: living-through-giving-foundation
-order: 20
+order: 32
 
 ---

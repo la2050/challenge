@@ -1,150 +1,151 @@
 ---
-is_test_data: true
-application_id: '9173236266'
-title: Santa Monica Early Childhood Lab School
-project_description: >-
-  While Santa Monica College (SMC) contributes to the Los Angeles learning
-  community in many different ways, the College is seeking specific support for
-  the Santa Monica Early Childhood Lab School. The Lab School is a collaborative
-  initiative on the part of SMC and the City of Santa Monica that will prepare
-  community college students for careers in early care and education while
-  providing high quality child care services to SMC students and other families
-  in the west Los Angeles area.
-organization_name: Santa Monica College
-organization_description: Government
-project_video: 'http://www.smc.edu/AcademicPrograms/ECE/Pages/Videos-.aspx'
+application_id: '4437588117'
+title: Meal Project
+organization_description: Nonprofit
+project_video: ''
+link_donate: 'https://santamonicacollegefoundation.org/'
+link_volunteer: 'mailto:foundation@smc.edu'
 link_newsletter: 'https://www.smc.edu/smcinfocus/pages/subscribe2.aspx'
-# link_newsletter:
-#   - http://www.smc.edu/SMCInFocus/Pages/Newsletter.aspx (the newsletter)
-#   - https://www.smc.edu/smcinfocus/pages/subscribe2.aspx (to subscribe) 
-organization_website: 'https://www.smc.edu'
-organization_twitter: '@smc.edu'
-organization_facebook: SantaMonicaCollegeOfficial
-organization_instagram: '@smcedu'
-link_donate: >-
-  https://santamonicacollegefoundation.org/santa-monica-early-childhood-lab-school.php
-link_volunteer: 'http://www.smc.edu/AcademicPrograms/ECE/Pages/default.aspx'
-organization_activity: >-
-  Santa Monica College is an educational leader and innovator in west Los
-  Angeles that fosters personal and intellectual exploration while students
-  learn to contribute to the local and global community.
-project_proposal_description: >-
-  Each year, Santa Monica College compiles a number of student stories that
-  speak to the powerful impact that their experiences at Santa Monica College
-  have had on both their personal and professional lives. One such student is
-  Dina, former SMC ECE major who transferred to California State University,
-  Northridge, and completed her Bachelor of Arts degree in Education. Although
-  she attended classes for early childhood education and indicated a goal to
-  work directly in the field, she found a second passion in early childhood
-  advocacy and is now working as the Chief of Staff for Councilwoman Jeannine
-  Pearce in the City of Long Beach, District 2. Later this year, she will be
-  announcing her candidacy for the school board. Dina attributes her interest in
-  political activism and early childhood policy to SMC’s ECE faculty, who
-  involved her in numerous local and state level ECE policy campaigns in her
-  time here at SMC. She was a shy and soft-spoken student and she said that she
-  was able to find her voice as a result of her amazing ECE professors support. 
-   
-   
-   
-   On the child care side, there is great anticipation of having high quality, full-time infant, toddler and preschool care and education. For example, the many workers who have jobs in Santa Monica’s hotels and other hospitality related businesses, look forward to having a trusted program for their children near their jobs. The local union representing hotel workers has expressed how helpful the Early Childhood Lab School will be when it opens in fall 2020 and beyond. Furthermore, there is interest among the Lab School advisory committee for the Lab School to serve not only as a model for other communities but to share its knowledge and expertise throughout the region, and in fact Growing Place has already begun inviting other educators and policymakers into its facility for networking and sharing.
-project_areas:
-  - Westside
-project_la2050_community_resources:
-  - Access to LA2050 community
-  - >-
-    Host public events on the topic your organization’s issue area (e.g. access
-    to capital, education reform, clean energy, etc.) 
-  - >-
-    Communications support, including traditional media, social media, and
-    LA2050 newsletter
-  - Publicity/awareness
-  - Assessment of Impact Countywide
-project_innovation_stage: Expand existing program (expanding and continuing ongoing successful projects)
-project_collaborators:
-  - City of Santa Monica
-  - RAND Corporation
-  - Santa Monica College Foundation
-  - Growing Place
-project_measure: >-
-  This project will work to improve student success at both the early childhood
-  level as well as the community college level. Specifically, this project will
-  increase the number of young children and families with access to high quality
-  early care and learning services. The Lab School will support Santa Monica’s
-  Learn + Thrive strategic goal to ensure that all Santa Monica children are
-  ready for kindergarten. It will achieve this goal by providing direct care to
-  children, but also by training early care professionals who will find
-  employment in the field and positively impact children and families not
-  directly served by the Lab School. To assess the impact of this project on
-  this outcome, SMC will work with its partners to collect the following data:
-   
-   
-   
-   1) Number of children served directly by the Lab School, including socio-economic demographics of these children;
-   
-   2) Readiness for kindergarten as these children transition;
-   
-   3) Number of community college students who complete the program and enter the workforce;
-   
-   4) Number of young children cared for by program graduates by geographic location and socio-economic data; and
-   
-   5) Impact of program graduates on the care of young children in their places of employment, which may be assessed through parent/employer satisfaction surveys, child success data, and readiness for kindergarten.
-   
-   
-   
-   This project will also strengthen community college student success, focusing on completion. Santa Monica College offers one of the most successful early childhood education programs in the state, and this partnership with the City of Santa Monica to offer a Lab School in the community will only improve the program’s reputation. While the program enjoys a relatively high student success rate with more than 80% of students on average successfully completing their coursework each semester, there is a significant equity gap among student groups. The Lab School will help address these equity gaps by providing students with mentoring, support, observation, and hands-on training with early care professionals who are among the best in their field. The inclusion of culturally responsive, equity minded curriculum that connects theory with practice will help ensure that both community college students and low-income children and families, particularly those traditionally underrepresented in quality educational experiences at both the pre-school and postsecondary education level, obtain the skills and resources they need to be successful. To assess the impact of this project on this outcome, SMC will work with its partners to collect the following data:
-   
-   
-   
-   1) Number of community college students enrolled in the program each semester by socio-economic demographics;
-   
-   2) Number of community college students who participate in on-site activities in the Lab School by activity and demographic groups;
-   
-   3) Student success data for community college students by demographic groups, including course retention, successful course completion, program persistence, and program completion; and
-   
-   4) Number of students who complete a Certificate of Achievement and/or an Associate’s degree, earn or renew a child development permit, and/or transfer to a baccalaureate program within 6 years by student demographic groups;
-   
-   5) Student satisfaction with the Lab School experience.
-   
-   
-   
-   In the first year of the Lab School, the Lab School advisory committee will review this data on a semester basis to facilitate timely review and revision as the data indicates. However, as the Lab School enters the 2021-2022 academic year, program assessment will occur on an annual basis.
-ein: 95-2767537
-mailing_address_street: 1900 Pico Blvd.
 mailing_address_city: Santa Monica
+mailing_address_street: 1900 Pico Blvd
+ein: 95-6047779
+organization_name: Santa Monica College
 mailing_address_state: California
-mailing_address_zip: 90405-1628
-project_proposal_best_place: >-
-  The Santa Monica Early Childhood Lab School is the coming together of two
-  distinct visions. First, the Lab School offers an opportunity for the City of
-  Santa Monica to develop an innovative public-private partnership that delivers
-  outstanding early care and learning to the children and families of Santa
-  Monica and other Westside neighborhoods. Second, the Lab School advances the
-  vision of SMC to provide a training site for its nationally accredited Early
-  Childhood Education Program that will allow students to practice what they
-  learn in class and apply it in a real world setting under the guidance of
-  highly qualified and well-trained early care and learning professionals. These
-  students will then positively impact early care and learning services
-  throughout Los Angeles as they complete their courses and return to their
-  communities. 
-   
-   
-   
-   In 2012, the two organizations approved an agreement to build a college-managed center on land owned by the city in downtown Santa Monica, breaking ground in Spring 2018. SMC expects to open the facility in Fall 2020 and reach full operational status by January 2021, enrolling children from 12 weeks to age 5. SMC selected Growing Place, a nationally accredited non-profit child care provider to oversee the child care program. SMC and Growing Place staff and teachers will collaborate to align and strengthen their respective curricula and best practices, incorporating the principles and practices of Reggio Emilia to offer creative indoor and outdoor programming, including music, art, dramatic play, STEM, woodworking, and gardening to engage young children in education.
-   
-   
-   
-   This project will serve two distinct groups, including SMC students pursuing careers in early care and education and families in need of early care and education services. SMC’s ECE program enrolls more than 900 students annually. More than 70% of students represent underserved ethnic and racial groups, while more than 50% qualify for state and federal financial aid. The Lab School will serve up to 110 children annually who reflect the diversity of Los Angeles County. The Lab School will set aside a minimum of 15 percent of its slots for low- to middle-income families, including SMC student families and families who work in Santa Monica but may not live there, providing tuition assistance as necessary. 
-   
-   
-   
-   This project will address two distinct LA2050 metrices. First, the project will increase access to high quality early care and learning services by providing full-day, full-year early care and education services, including high demand infant care. Second, the Lab School will increase college completion rates by providing students with a highly creative, innovative, and supportive learning environment where they can actively apply their skills and interests. At least 90% of students will complete their personal program goals within six years, including certificate/degree completion, child development permit attainment/renewal, and/or transfer.
-category_metrics:
-  - College and community college completion rates
-  - Enrollment in early care and education programs
-category_other: []
-year: 2019
+mailing_address_zip: '90405'
+organization_website: 'https://www.smc.edu'
+organization_twitter: '@SMC_edu'
+organization_facebook: 'https://www.facebook.com/SantaMonicaCollegeOfficial/'
+organization_instagram: '@smcedu'
+Please describe the mission of your organization.: >-
+  Santa Monica College (SMC) is a leader and innovator in learning and
+  achievement. SMC provides a world-class education emanating from its core
+  values: open dialogue, intellectual inquiry, academic integrity, ethical
+  behavior, democratic processes, global awareness, and sustainability. 
+project_description: >-
+  The ability to afford food is a known barrier to low-income college students’
+  persistence and degree completion. Santa Monica College is stepping up to help
+  solve this Los Angeles-wide problem made worse by the COVID-19 crisis. Ninety
+  percent of SMC’s 31,500 students live outside of Santa Monica boundaries and
+  54% of SMC students have been identified as food insecure in a highly regarded
+  2019 research report. SMC Foundation will extend our piloted Meal Project
+  program to provide fresh and nutritious meals free to vulnerable students. 
+Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
+In which areas of Los Angeles will you be directly working?:
+  - Westside
+  - >-
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
+  - >-
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+In what stage of innovation is this project?: >-
+  Expand existing program (expanding and continuing ongoing successful projects
+  or programs)
+What is the need you’re responding to?: >-
+  Today’s college students are at risk of not completing degrees due to the
+  pressure to choose between food and textbooks (or rent). The markers of food
+  insecurity are evident in Santa Monica College students: 54% are unable to
+  purchase enough groceries, and 21% revealed they have lost weight recently
+  because they did not have enough money for food, according to the #RealCollege
+  Report, based on an anonymous national survey conducted by Temple University
+  researchers. It is also well-documented that degree completion rates are
+  higher once students are no longer food insecure.  
+
+
+  SMC Students:
+
+  90% live outside of the Santa Monica area. 
+
+  75% qualify for financial aid 
+
+  73% are racially minoritized 
+
+  52% are first-generation college students 
+
+
+  SMC data:
+  http://www.smc.edu/ACG/InstitutionalResearch/SiteAssets/Pages/Report-Respository/RC2018_SchoolReports_SantaMonicaCollege.pdf  
+
+
+  National data:
+  https://hope4college.com/wp-content/uploads/2019/04/HOPE_realcollege_National_report_digital.pdf 
+Why is this project important to the work of your organization?: >-
+  SMC Foundation is well-positioned to scale the Meal Project and create a
+  roadmap for other organizations. Launched in 2017, the SMC Foundation piloted
+  the Meal Project providing nutritious meals to our most critically needy
+  students. In early 2020, the Foundation opened the Everytable Lounge, a unique
+  partnership with social enterprise, where in lieu of charging rent, the
+  company pays in meals. Between 500-800 meals per week are distributed to food
+  insecure students. Shortly thereafter, COVID-19 caused thousands of students
+  to lose jobs and all classes moved to a digital learning format. SMC
+  Foundation responded immediately and pivoted to direct-to-student home
+  delivery services. In 2019, 54% of SMC students were food insecure. During the
+  2020-21 academic year, the Meal Project endeavors to serve students remotely
+  who were previously identified as food insecure as well as students newly
+  affected by the fallout of COVID-19 and its ongoing economic impact. 
+Please explain how you will define and measure success for your project.: >-
+  Food is a human right. As such, SMC Foundation envisions a future in which the
+  possibility of food assistance will be in every prospective and new students’
+  scope when they dare to dream about attending college. We want all students
+  who think they can’t participate in college due to their struggles to keep a
+  roof over their heads and food in their stomachs to know that food access is
+  not going to be a stressor. Free tuition and textbooks are provided to
+  students in need through SMC’s Promise Program (free tuition and textbooks for
+  first-time freshmen for their first two years). 
+
+
+  Success indicators: 
+
+  Increase in student responsiveness to messaging about meal programs from
+  staff. 
+
+  Increase in the number of students screened for food insecurity.* 
+
+  Increase in the number of at-risk students who enroll in the free meal
+  program. 
+
+  Increase in enrollment of low-income students at SMC. 
+
+  Increase in degree completion and transfer rates among low-income students. 
+
+
+  A template and roadmap shared with and replicable by other organizations and
+  higher education institutions. SMC was asked to present its program at the
+  California Higher Education Basic Needs Alliance conference in February 2020.
+
+
+  * Due to resource limitations, students are currently identified through their
+  participation in special programs such as Dreamers, Guardian Scholars (current
+  and former foster youth), Veterans Resource Center, the Latino Center, Black
+  Collegians, single parents, Center for Students with Disabilities, as such.
+Approximately how many people will be directly impacted by this proposal?: '3000'
+Approximately how many people will be indirectly impacted by this proposal?: '16740'
+Please describe the broader impact of your proposal.: >-
+  At the intersection of food security and higher education, the impact reaches
+  far and wide – housing, employment, economic development, and health and
+  wellbeing. Santa Monica College is investing heavily as an institution in the
+  principals of #RealCollege, an emerging national movement that is redefining
+  what it means to be a student-ready college, and driving changes based on the
+  understanding that food and housing security are essential conditions of
+  learning. SMC’s students are drawn from nearly 200 high schools in greater Los
+  Angeles, with 90% residing across the Los Angeles County basin. As such, we
+  see ourselves and the Meal Project as an incubator to create a roadmap
+  benefiting other organizations and policy development. 
+Which of LA2050’s resources will be of the most value to you?:
+  - Access to the LA2050 community
+  - Host public events or gatherings
+  - Communications support
+Please list the organizations collaborating on this proposal.: |
+  Everytable 
+Which metrics will your submission impact?:
+  - College graduates
+  - College matriculation
+  - Community college completion
+Are there any other LA2050 goal categories that your proposal will impact?:
+  - LA is the healthiest place to LIVE
+year: 2020
 category: learn
 filename: santa-monica-college
-order: 27
+order: 59
 
 ---
