@@ -138,6 +138,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: national-association-of-latino-independent-producers-nalip
-order: 24
+order: 23
 
 ---
