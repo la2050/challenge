@@ -2,7 +2,7 @@
 application_id: '2451957966'
 title: LA Homeless Outreach
 organization_description: Nonprofit
-project_video: 'https://www.youtube.com/watch?time_continue=81&v=KLEaWKvuVhk&feature=emb_title'
+project_video: 'https://www.youtube.com/watch?v=KLEaWKvuVhk'
 link_donate: 'https://www.thegivingspirit.org/donate'
 link_volunteer: 'https://www.thegivingspirit.org/volunteer'
 link_newsletter: ''

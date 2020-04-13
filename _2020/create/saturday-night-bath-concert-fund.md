@@ -5,10 +5,10 @@ title: >-
   presentation, at 3 continuation high schools that provide inspiration for
   at-risk youth in the Los Angeles area.
 organization_description: Nonprofit
-project_video: >-
-  https://www.youtube.com/channel/UC9L6uZBJ0SsUykSMWH_WNFg
-
-  https://www.youtube.com/channel/UC6D_OkKuyLkAdFlzjNVtmvg/videos?view_as=subscriber
+# project_video: >-
+#   https://www.youtube.com/channel/UC9L6uZBJ0SsUykSMWH_WNFg
+#
+#   https://www.youtube.com/channel/UC6D_OkKuyLkAdFlzjNVtmvg/videos?view_as=subscriber
 link_donate: 'http://saturdaynightbath.org/itinerary/'
 link_volunteer: ''
 link_newsletter: ''
