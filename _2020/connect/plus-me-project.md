@@ -1,121 +1,143 @@
 ---
-is_test_data: true
-application_id: '1177667274'
-title: >-
-  Every Story Matters: Training 1,000 Volunteers To Share Their Stories With The
-  Youth of Los Angeles
-project_description: >-
-  PLUS ME Project will recruit and train 1,000 individuals to share their
-  stories with youth throughout Los Angeles. Through our partnerships with
-  various school districts and charter organizations, we will bring our
-  volunteers into hundreds of classrooms throughout the city to inspire the next
-  generation through the power of storytelling. Together, we will help connect
-  1,000 relatable role models through our training sessions with over 25,000
-  students in one year.
+application_id: '2827935778'
+title: 'Our Stories Matter: Empowering LA To Connect Through Storytelling'
+organization_description: Nonprofit
+project_video: 'https://www.youtube.com/watch?v=XvdrfZcPF_4'
+link_donate: 'http://kindest.com/campaign/storytellers-plusme'
+link_volunteer: 'https://www.theplusmeproject.org/volunteer'
+link_newsletter: 'http://eepurl.com/guoidP'
+mailing_address_city: Los Angeles
+mailing_address_street: 2519 West Avenue 30
+ein: 46-3506663
 organization_name: PLUS ME Project
-organization_description: Non-profit organization
-project_video: 'https://www.youtube.com/watch?v=HZDzQsPU4no'
-link_newsletter: www.theplusmeproject.org
+mailing_address_state: California
+mailing_address_zip: '90065'
 organization_website: 'https://www.theplusmeproject.org'
 organization_twitter: '@PLUSMEproject'
 organization_facebook: www.facebook.com/theplusmeproject
 organization_instagram: '@theplusmeproject'
-link_donate: www.theplusmeproject.org/donate
-link_volunteer: www.theplusmeproject.org/contact
-organization_activity: >-
+Please describe the mission of your organization.: >-
   PLUS ME Project believes everyone has a story that matters. We are a community
-  partner dedicated to empowering youth to build their confidence by teaching
-  the art of storytelling.
-project_proposal_description: >-
-  PLUS ME Project was launched by former Los Angeles Unified School District
-  (LAUSD) graduate, Richard Reyes, in July of 2013. While earning his Bachelor
-  of Arts degree in Critical Theory/Social Justice from Occidental College, he
-  began sharing his journey of becoming the first in his family to attend
-  college with local middle and high school students. After visiting over 70
-  schools, speaking to over 12,500 students, and conducting research in the
-  nonprofit landscape of student-centered motivational speaking programs, the
-  need was clear. A narrative-based outreach program to students could satisfy a
-  great need in Los Angeles. Thus, PLUS ME was formed. 
-   
-   
-   
-   PLUS ME Project has built partnerships with dozens of school districts, charter organizations, after-school programs, and other nonprofit organizations who serve youth in Los Angeles County. Since inception, we have positively impacted the lives of over 80,000 students from over 250 underserved middle and high schools throughout Southern California.
-   
-   
-   
-   This past year on GivingTuesday we launched our 100 Volunteers. 100 Stories. campaign that recruited and trained 100 volunteers to share their stories with students throughout LA at 7 LAUSD schools. This experience brought so many wonderful individuals together to share their stories and we received amazing feedback from the volunteers and students. With this success, we are inspired to continue to grow this element of our work and provide more opportunities for individuals to learn how to put their stories together and inspire the youth of LA.
-project_areas:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - LAUSD
-project_la2050_community_resources:
-  - Access to LA2050 community
+  partner dedicated to empowering middle and high school youth to increase their
+  confidence for college, career, and community advancement by teaching the art
+  of storytelling.
+project_description: >-
+  PLUS ME Project will empower LA by providing the opportunity to CONNECT
+  through the art of storytelling. Our team will recruit diverse adult
+  volunteers and coordinate classroom visits throughout LA for them to share
+  their stories with middle and high school students. We will host monthly story
+  building training sessions for our volunteers and organize quarterly
+  storytelling mixers where volunteers, students, and the public will have the
+  opportunity to interact, inspire, and listen to each other's stories.
+Which LA2050 goal will your submission most impact?: LA is the best place to CONNECT
+In which areas of Los Angeles will you be directly working?:
   - >-
-    Communications support, including traditional media, social media, and
-    LA2050 newsletter
-  - Publicity/awareness
-  - 'Capacity, including staff'
-project_innovation_stage: Post-pilot (testing an expansion of concept after initially successful pilot)
-project_collaborators: ''
-project_measure: >-
-  Every volunteer will complete a series of surveys to gauge the impact of our
-  work through pre, post, and 6-month follow up surveys. We plan to address the
-  following:
-   
-   
-   
-   Volunteer Engagement
-   
-   Social and Emotional Support
-   
-   Storytelling Experience
-   
-   Community Built Through Experience
-   
-   Total Number of Local Social Media Friends
-ein: 46-3506663
-mailing_address_street: 2519 West Avenue 30
-mailing_address_city: Los Angeles
-mailing_address_state: California
-mailing_address_zip: '90065'
-project_proposal_best_place: >-
-  PLUS ME Project will help make LA the best place to connect by providing
-  meaningful volunteer opportunities for our diverse community to participate in
-  through the art of storytelling. 
-   
-   
-   
-   Our team will recruit and train 1,000 individuals throughout the city to share their personal narratives with youth throughout LA. These relatable role model volunteers will participate in a 2-hour training that will provide them with the tools and support to help build their own stories and connect with their fellow participants. Throughout the training, volunteers will have the opportunity to share their stories with each other and foster meaningful connections. Once trained, they will be scheduled to present their story at one of our partner schools.
-   
-   
-   
-   Recruitment for this project will begin in July through various outreach and social media efforts. Our marketing will drive interested volunteers to our website to learn more about the opportunity and sign up for an upcoming training session. We will host weekly trainings starting in August that will take place at our multiple Cross Campus office locations in Downtown LA, Pasadena, El Segundo, Santa Monica, and Beverly Hills. Throughout the year, our trainings will take place in the evenings and on weekends at different locations to accommodate our diverse volunteer community. 
-   
-   
-   
-   At our training, participants will receive one of our 'My Story Matters' journals to support them in discovering, developing, and articulating their own stories. Our volunteers will reflect and highlight some of the important characters, settings, struggles, accomplishments, and lessons that impacted them from their lives. These activities and conversations will allow participants to connect with each other, piece together their important stories, and offer social and emotional support.
-   
-   
-   
-   At the end of our training, volunteers will have the opportunity to finalize the 10 - 15 minute story that they will share with students. Volunteers will be required to submit their story to our team before they present to ensure it is appropriate and completed. 
-   
-   
-   
-   Once their story has been approved, each volunteer will submit their availability and our team will schedule them to visit a local middle or high school in LA to share their story with a classroom of students during the school year. This opportunity will allow them to share their life experiences with students and connect with them directly. Students will have the opportunity to ask them questions and learn from their lived experiences. 
-   
-   
-   
-   This project will serve a diverse population of volunteers and students. Everyone will have the opportunity to apply to become a volunteer and every school will have the opportunity to apply to receive some of our volunteer guest speakers at their sites. Through this experience, we will make measurable progress towards making LA the best place to connect by using our stories to bring us all together because everyone has a story that matters.
-category_metrics:
-  - Adults getting sufficient social & emotional support
-  - Rates of volunteerism
-  - Total number of local social media friends and connections Angelenos have
-category_other: []
-year: 2019
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+In what stage of innovation is this project?: >-
+  Expand existing program (expanding and continuing ongoing successful projects
+  or programs)
+What is the need you’re responding to?: >-
+  Human connection is a necessity. Unfortunately, loneliness rates are on the
+  rise. According to Cigna in 2020, at least 61% of adults in America feel
+  disconnected, isolated, or alone.
+
+
+  We believe the best way to respond to this dilemma is to embrace the art of
+  storytelling and help LA connect with each other through their own stories. We
+  have more in common than we realize. We are resilient beings. That's why, we
+  believe it is important for us to provide space and resources to help humans
+  inspire each other with their own wisdom. 
+
+
+  By mobilizing hundreds of volunteers in our communities to craft their stories
+  and share them with youth throughout our city, we are providing the
+  opportunity for adults to share their life experiences and teenagers the
+  opportunity to learn and connect with new positive role models. 
+
+
+  Our goal is to ensure more adults and teens in LA feel less alone by unlocking
+  the power within their own stories and empowering them to share their
+  resiliency with each other.
+Why is this project important to the work of your organization?: >-
+  PLUS ME Project has become an industry leading organization in LA known for
+  helping youth and adults realize their stories matter. Since 2013, PLUS ME has
+  impacted over 90,000 students throughout the city with inspirational
+  storytelling programming. Our organization has built curriculum and resources
+  that are used by over 15,000 students and adults annually. 
+
+
+  Since 2017, each year PLUS ME has successfully completed our 100 Volunteers,
+  100 Stories campaign by recruiting, training, and scheduling 100 volunteers to
+  share their stories with youth throughout LA on one day. Over the past 3
+  years, this initiative has strengthened, grown interest, and impacted
+  thousands.
+
+
+  With our previous success, our goal is to expand upon everything we have
+  learned from the past three years and implement a new model that connects,
+  inspires, and empowers thousands throughout our city. We strongly believe that
+  everyone has a story that matters and we want to use this project to help
+  ensure LA realizes it.
+Please explain how you will define and measure success for your project.: >-
+  Our vision for success is for more people in LA to feel connected by
+  increasing their social and emotional support through storytelling and for
+  them to feel empowered by choosing to volunteer and share their stories with
+  youth. The project will create a powerful ripple effect which will be both
+  seen and felt.
+
+
+  We will measure our success by asking all of our volunteers, students, and
+  community attendees to complete a survey or interview to help us gauge the
+  impact of our three metrics. Overall, we want LA to feel (1) more empowered by
+  increasing volunteerism rates, (2) more engaged by providing access to social
+  and emotional support, and (3) more connected by meeting new Angelenos at
+  public art and cultural events.
+
+
+  By the end of June 2021, we will have successfully accomplished the following:
+
+  At least 500 adults volunteers will have participated in storytelling training
+  and shared their stories with middle and high school youth throughout LA.
+
+  At least 10,000 students will learn about the powerful art of storytelling and
+  engage with inspirational role models.
+
+  At least 500 people will have attended our free, public storytelling events
+  and connected with fellow Angelenos.
+
+
+  These experiences can help people feel united and less alone. Our success will
+  be demonstrated through the data we receive and with a video showing how our
+  project helped make LA a better place to CONNECT. 
+Approximately how many people will be directly impacted by this proposal?: '500'
+Approximately how many people will be indirectly impacted by this proposal?: '11000'
+Please describe the broader impact of your proposal.: >-
+  Our city will need immense social support and our residents will be yearning
+  for motivational connection after this social distancing period ends. Our
+  proposal will impact the future of our city by not only increasing rates of
+  adult volunteerism across LA, but also by connecting and motivating thousands
+  of individuals from multiple generations through their stories.
+
+
+  The storytelling celebration events that we will host across our city will
+  bring together our volunteer storytellers, middle and high school youth, and
+  any guest who wishes to attend. These events will remind us how resilient,
+  empathetic, and diverse we are as a city - inspiring a ripple effect that will
+  create deeper connections, less isolation, and remind us that we matter.
+Which of LA2050’s resources will be of the most value to you?:
+  - Access to the LA2050 community
+  - Host public events or gatherings
+  - Strategy assistance and implementation
+Please list the organizations collaborating on this proposal.: GEAR UP 4 LA
+Which metrics will your submission impact?:
+  - Social and emotional support
+  - Public arts and cultural events
+  - Volunteerism
+Are there any other LA2050 goal categories that your proposal will impact?: []
+year: 2020
 category: connect
 filename: plus-me-project
-order: 28
+order: 43
 
 ---

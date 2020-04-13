@@ -1,166 +1,115 @@
 ---
-is_test_data: true
-application_id: '2608898038'
-title: LA Connect 2050
-project_description: >-
-  Support is needed to create and launch LA Connect 2050, a comprehensive
-  community-wide volunteer guide to empower more Angelenos to easily find their
-  meaningful ways to help (volunteer) in this region. This beautiful,
-  mobile-friendly and frictionless platform is based on a successful suite of
-  technology developed to inspire, empower and engage more people in
-  volunteerism. Our platforms are now active in Ohio and Nevada and are being
-  developed for other communities from coast to coast.
+application_id: '6536128674'
+title: LA COVID-19 Assessment and Response System (CARES)
+organization_description: Nonprofit
+project_video: ''
+link_donate: ''
+link_volunteer: ''
+link_newsletter: ''
+mailing_address_city: Cincinnati
+mailing_address_street: '1776 Mentor Ave., Suite 200'
+ein: 82-1699198
 organization_name: Inspiring Service
-organization_description: Non-profit organization
-project_video: 'https://vimeo.com/327368094'
-link_newsletter: 'https://inspiringservice.org/newsletter'
-organization_website: 'https://inspiringservice.org'
-organization_twitter: '@InspiringSvc'
-organization_facebook: 'https://www.facebook.com/InspiringService/'
-organization_instagram: '@inspiringservice'
-link_donate: 'https://www.paypal.com/us/fundraiser/charity/2828570'
-link_volunteer: 'https://cincinnaticares.org/listing-item/cincinnati-cares/'
-organization_activity: >-
-  Our mission is to inspire and empower people and organizations to engage in
-  volunteering that improves and strengthens communities and themselves. We
-  strengthen volunteer ecosystems with technology.
-project_proposal_description: >-
-  This is a story of a Los Angeles-born entrepreneur who created some of the
-  world’s most important computer-aided design software and is now putting that
-  genius to work trying to fix one of the world’s biggest absurdities. Nearly 25
-  years ago, entrepreneur Craig Young started a foundation after achieving
-  tremendous success in the software industry. One of his firms had become the
-  leading outside supplier to Apple’s Claris software subsidiary. The foundation
-  grew in 1998 after he sold his most lucrative company to a Cincinnati firm.
-  Young and his wife, Mary Beth, whose kids then were 6-, 4- and 3-years-old,
-  began to take an active interest in philanthropy, supporting organizations
-  impacting quality of life, such as UNICEF, WWF, the American Red Cross, United
-  Way and Salvation Army. As the kids grew older, themes began to emerge --
-  helping people who don’t have opportunities in life, humanitarian causes and
-  improving quality of life for all. Every year, the Youngs would provide their
-  kids with poker chips and information about various causes and let the kids
-  place their chips on the cause brochures they had gathered as a way of
-  choosing where the family’s philanthropy would go. The family also embarked on
-  hands-on philanthropy. As the kids grew older, they challenged their dad to
-  merge his business, technology and volunteering interests. Young became a
-  board member of a number of local and national organizations, exposing him to
-  another significant volunteer activity. Along with partners, Young in 2007
-  created UGIVE.ORG, a nonprofit aimed at catalyzing, exciting and empowering
-  the next generation of volunteers. The program expanded to high school and
-  college campuses in 22 states when it was merged with the Muhammad Ali Center.
-  In 2010, Young's son, Michael, a USC grad, created myActions, which with
-  Young's and Michael's friends' help became the leading student-powered college
-  network for sharing sustainable and socially responsible actions. Young became
-  concerned about the systems supporting volunteers, leading in 2017 to the
-  creation of 501(c)(3) Inspiring Service, which turned its attention to
-  creating technology platforms that would better connect volunteers to ways to
-  help in the community where they live.
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Antelope Valley
+mailing_address_state: Ohio
+mailing_address_zip: '45202'
+organization_website: 'https://inspiringservice.org/'
+organization_twitter: ''
+organization_facebook: ''
+organization_instagram: ''
+Please describe the mission of your organization.: >-
+  We provide innovative solutions for challenging times. The tools we’ve been
+  creating for over three years to rebuild volunteerism in the community we call
+  home are now available to rebuild volunteerism in every community impacted by
+  COVID-19.
+project_description: >-
+  The COVID-19 pandemic, trite now to be calling it a disaster of historic
+  proportions, is different in yet another way. Typically, when disasters occur,
+  thousands of volunteers descend to relieve the pain. Not this time. But there
+  is hope. And because of our work, people are not helpless. Using innovative
+  technology tools, we've turned our volunteer ecosystem-building platforms into
+  an assessment, response and recovery tool for the entire Los Angeles social
+  sector. In a single site in real time, Los Angeles will know who, where and
+  how to help.
+Which LA2050 goal will your submission most impact?: LA is the best place to CONNECT
+In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-  - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
-  - LAUSD
-project_la2050_community_resources:
-  - Access to LA2050 community
-  - >-
-    Host public events on the topic your organization’s issue area (e.g. access
-    to capital, education reform, clean energy, etc.) 
-  - >-
-    Communications support, including traditional media, social media, and
-    LA2050 newsletter
-  - Publicity/awareness
+In what stage of innovation is this project?: >-
+  Expand existing program (expanding and continuing ongoing successful projects
+  or programs)
+What is the need you’re responding to?: >-
+  The Greater Los Angeles region is ranked 46th out of 50 states in the number
+  of adults volunteering at 24 percent. Our mission is to provide communities
+  with the modern technology tools they need to rebuild volunteer ecosystems,
+  and in normal times (not during a pandemic), our tools are making a dramatic
+  difference in the who, what, where, when and how of volunteer engagement in
+  communities. The coronavirus pandemic has changed how volunteers can engage
+  with nonprofits. As a result, we have created a toolkit -- the COVID-19
+  Assessment and Response System or CARES -- embedded as part of our platform
+  that helps every nonprofit community assess, respond and recover from the
+  horrific impact of COVID-19. This pandemic has been a triple-whammy on
+  nonprofits -- hitting them hard in their main fundraising or performance
+  season with the cancelation of numerous events, reductions in service-delivery
+  revenue and the final big impact is the removal of most volunteers from their
+  business model.
+Why is this project important to the work of your organization?: >-
+  CARES helps us rebuild a volunteer ecosystem, devastated by COVID-19's
+  impacts. First, each nonprofit can share data about how they have been
+  impacted by COVID-19. The data can be put into context with a story. Both the
+  stories and data are maintained in real time to show the impact of COVID-19 on
+  individual organizations, causes, sectors and an entire community's social
+  sector. A second phase is using the tool to recruit prospective volunteers to
+  COVID-19-friendly ways to help now. A lot of people are looking to help, but
+  until now have felt helpless in finding online, remote or socially distant
+  safe ways to help. In the third phase of the approach, residents can use the
+  tool to give to nonprofits or campaigns within a community to help the sector
+  recover. We are a nonprofit technology firm that has rebuilt the Cincinnati
+  volunteer ecosystem. Our success in Cincinnati has led to other communities
+  deploying our platforms. We're pleased to get to work in America's second
+  largest city.
+Please explain how you will define and measure success for your project.: >-
+  Beginning April 3, success looks like helping Los Angelenos find their way to
+  help. Less than 1 in 4 Greater Los Angeles residents volunteers. Our 2050 goal
+  would be to lift Los Angeles to one of the nation's best, increasing the
+  percentage of adults volunteering to close to 50 percent. In the short-term,
+  success looks like CARES becoming a key barometer for the health of the
+  region's social sector. The tool will help the region understand both the
+  impact from COVID-19 as well as the aggregate of the community's response. We
+  start with 150 organizations on the platform, and the goal would be to engage
+  all 12,000 volunteer-engaging organizations in the region.
+Approximately how many people will be directly impacted by this proposal?: '4000000'
+Approximately how many people will be indirectly impacted by this proposal?: '13000000'
+Please describe the broader impact of your proposal.: >-
+  Building -- or rebuilding, due to the COVID-19 crisis -- the volunteer
+  ecosystem in Los Angeles is a capacity building effort that impacts the entire
+  region's social sector. The social sector in Los Angeles includes more than
+  12,000 volunteer-engaging nonprofits who directly impact more than 4 million
+  people -- employees, clients and volunteers -- while having an indirect impact
+  on the entire population of 13 million. A healthy volunteer ecosystem
+  positively impacts all causes, including the most difficult social issues,
+  from homelessness to equitable education. The implementation of CARES will
+  immediately give policymakers insight into COVID-19's impact on the social
+  sector, helping to determine the future of critically scarce resources.
+Which of LA2050’s resources will be of the most value to you?:
+  - Access to the LA2050 community
+  - Host public events or gatherings
+  - Communications support
   - 'Capacity, including staff'
   - Strategy assistance and implementation
-  - Potentially provide office space for one or two staff
-project_innovation_stage: Expand existing program (expanding and continuing ongoing successful projects)
-project_collaborators: ''
-project_measure: >-
-  Our measures are your measures, and our connections to the region make this a
-  personal passion that clearly defines our view that failure of this launch is
-  not an option. As mentioned elsewhere, Craig Young was born in Los Angeles and
-  his family connections (aunts, uncles and cousins) make this work a homecoming
-  for him and his family. His mother and father met at and graduated from
-  Hollywood High. His grandparents lived and died in Los Angeles. As a result of
-  these long family ties as well as Craig’s business interests elsewhere in
-  California during his earlier years in business, Craig maintains a broad
-  network of family, friends and colleagues working and living in the Southern
-  California region. Also as mentioned, Craig’s son, Michael, graduated from the
-  University of Southern California, as did his older son and father. The
-  combination of family and business ties to this region makes this a more
-  personal desire to help the region than any of the other communities we serve.
-   
-   
-   
-   The LA2050 goal calls for Los Angeles to lead the nation in voting and volunteerism rates. Research demonstrates strong ties between increased volunteerism and increased voter rates, so we see ourselves helping with voting rates as well as our core goal of helping to get 60 percent of Greater Los Angeles residents volunteering vs. 24.1 percent now. Our most defining metric is when a potential volunteer contacts an organization, a unit of a measure we call a referral. We actively monitor referrals to identify trends, monitor site usage and evaluate the effectiveness of our marketing campaigns. We can even tell when the organizations who receive our referrals aren’t responding, another factor in volunteer fatigue we hope to alleviate. Significant growth in referrals along with implementing change management in the way nonprofits engage volunteers will be the key drivers behind defining success as we move forward.
-ein: 82-1699198
-mailing_address_street: '1776 Mentor Ave, Suite 200'
-mailing_address_city: Cincinnati
-mailing_address_state: Ohio
-mailing_address_zip: '45212'
-project_proposal_best_place: >-
-  Our project is the creation of a digital community-wide volunteer guide (CVG),
-  LA Connect 2050, tentatively located at LAConnect2050.org. This guide will be
-  patterned after our successful CVGs in Ohio and Nevada, where our platforms
-  have become the most popular places for citizens of those respective regions
-  to find ways to help (volunteer). Based on our other successes, we project LA
-  Connect 2050 would, after 24 months of operation, have helped tens of
-  thousands of citizens of Los Angeles County find their way to help, many of
-  whom would otherwise have given up due to the lack of a comprehensive guide in
-  the region. As awareness and confidence in the platform builds based on
-  marketing and staff support from LA2050, we would expect the citizen
-  connections to grow substantially in the second full year, and continue to
-  grow annually for the next 10 years and subsequent two decades. Based on this
-  growth in helping Greater Los Angeles residents find their way to help,
-  LAConnect2050.org will ensure the rise of the Los Angeles region's volunteer
-  rates from the current 2.48 million (24.1 percent of the current 10 million+
-  population) to more than 8.78 million (65 percent of the projected 13.5
-  million population) by 2050. This achieves one of LA2050’s major measurable
-  metrics. Volumes of research credit greater volunteerism with increased voting
-  rates and better social and emotional status of participating citizens, for
-  which LA Connect 2050 will also contribute to improving. Critical to the
-  success of the platform will be its comprehension in all geographies,
-  capturing all volunteer-engaging organizations in Los Angeles County. Most
-  volunteer-engaging organizations in the region -- we estimate there are
-  roughly 8,000-10,000 -- will welcome the opportunity to be part of the guide
-  because it will be free. And our online forms make it easy for them to do so.
-  But it will be important to invest resources to ensure that all organizations
-  are represented, regardless of the organization’s ability to create a profile.
-  Key to our success will be high-quality content. One of the first steps to
-  achieve comprehension is to develop partnerships and cooperation from the
-  dozens of nonprofit organizing coalitions -- community foundations, United
-  Ways, chambers of commerce and other similar bodies who can provide quick
-  access and verification that the vast majority of nonprofits they work with
-  gets communication and direction on how to be part of the CVG. We estimate the
-  timeline to get to 75 percent comprehension is about one year. With funding
-  this summer, the site can go live this fall. Our platform supports all aspects
-  of volunteerism, from hands-on work to skills-based to board level, across all
-  causes -- creating a one-stop shop for the region. An ongoing communication
-  schedule with all nonprofits organized by cause on a monthly basis ensures
-  that the platform's information and the ways for which they are seeking help
-  always remains up-to-date.
-category_metrics:
-  - Adults getting sufficient social & emotional support
-  - Rates of volunteerism
-  - Voting rates
-category_other:
+Please list the organizations collaborating on this proposal.: ''
+Which metrics will your submission impact?:
+  - Social and emotional support
+  - Government responsiveness to residents’ needs
+  - Volunteerism
+Are there any other LA2050 goal categories that your proposal will impact?:
   - LA is the best place to LEARN
   - LA is the best place to CREATE
   - LA is the best place to PLAY
   - LA is the healthiest place to LIVE
-year: 2019
+year: 2020
 category: connect
 filename: inspiring-service
-order: 15
+order: 26
 
 ---

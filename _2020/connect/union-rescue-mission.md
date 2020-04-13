@@ -1,165 +1,103 @@
 ---
-is_test_data: true
-application_id: '894405790'
-title: Every Family Off the Streets
-project_description: >-
-  We will connect families to housing and services and motivate Angelenos to get
-  every family off the streets of Los Angeles. This project will connect 1,500
-  families experiencing homelessness to housing and services. It will empower
-  35,000 Angelenos to volunteer and become active participants in the fight to
-  end homelessness. We believe that together we can transform lives and help
-  make LA the best place to connect.
+application_id: '4010019073'
+title: Every Child & Family Off the Streets
+organization_description: Nonprofit
+project_video: 'https://youtu.be/mz7eoc-SgMg'
+link_donate: 'https://urm.org/n/donate-8'
+link_volunteer: 'https://urm.org/get-involved/volunteer/'
+link_newsletter: 'https://urm.org/solution/'
+mailing_address_city: Los Angeles
+mailing_address_street: 545 South San Pedro Street
+ein: 95-1709293
 organization_name: Union Rescue Mission
-organization_description: Non-profit organization
-project_video: ''
-link_newsletter: 'https://urm.org/urm-email-updates/'
+mailing_address_state: California
+mailing_address_zip: '90013'
 organization_website: 'https://www.urm.org'
 organization_twitter: '@URM'
 organization_facebook: '@unionrescuemissionla'
 organization_instagram: '@unionrescuemission'
-link_donate: 'https://urm.org/n/donate-8/'
-link_volunteer: 'https://urm.org/get-involved/volunteer/'
-organization_activity: >-
-  Union Rescue Mission provides life-transforming programs to break the cycle of
-  homelessness for men, women, children and families throughout Los Angeles
-  County.
-project_proposal_description: >-
-  Union Rescue Mission's work is motivated by the greatest crisis in Los
-  Angeles: 52,000 people experiencing homelessness - 40% being women and
-  children. Our work is fueled and inspired by the mothers we serve, whose
-  strength and resiliency empower us to make sure every family is off the
-  streets.
-   
-   
-   
-   "Me and my four children, for three weeks, were living on the streets of Los Angeles with no resources, with nowhere to go. That was the most challenging period of my life."
-   
-   
-   
-   A few years ago, Angela was evicted from her apartment in Los Angeles due to mismanagement. For three weeks she and her four children stayed in motels, slept on buses, trains and anywhere they could find to simply stay out of the cold. "That was the biggest challenge of my life. For a mom not to be able to provide a roof over her kids' head. But I had to keep striving, and I had to be strong." One night, while sleeping at Union Station, a group of police officers offered to help. They brought her to Union Rescue Mission. 
-   
-   
-   
-   After four months of living at the downtown emergency shelter, they were transferred to Hope Gardens Family Center, "a land of hope," recalls Angela, "I found serenity here, I found my healing." Through the recovery program, Angela was able to heal from past traumas of domestic violence, financial crisis, and broken relationships. Her kids returned to school and have the chance to live in a healthy, nurturing environment that every child deserves. "When I look at my kids now, I see happiness, I see contentment," Angela says. 
-   
-   
-   
-   After graduating from the program, Angela enrolled in the apprenticeship program at Hope Gardens and has a desire to help women and children recover from domestic violence. She is currently training for full-time employment and continues to live at Hope Gardens with her children.
-   
-   
-   
-   We hope that Angela's story inspires the citizens of Los Angeles to advocate for and support the most vulnerable women and children in our city.
-project_areas:
+Please describe the mission of your organization.: >-
+  Union Rescue Mission provides life-transforming programs to end homelessness
+  for men, women, children and families throughout Los Angeles County. 
+project_description: >-
+  This project will connect families experiencing homelessness to housing and
+  will inspire Angelenos to help get every family off the streets of Los
+  Angeles. Activities will connect families to housing and services. It will aim
+  to encourage Angelenos to volunteer and become active participants in the
+  fight to end homelessness. We believe that together we can transform lives and
+  help make LA the best place to connect, live, and raise a family. 
+Which LA2050 goal will your submission most impact?: LA is the best place to CONNECT
+In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-project_la2050_community_resources:
-  - Access to LA2050 community
-  - >-
-    Host public events on the topic your organization’s issue area (e.g. access
-    to capital, education reform, clean energy, etc.) 
-  - >-
-    Communications support, including traditional media, social media, and
-    LA2050 newsletter
-  - Publicity/awareness
-  - 'Capacity, including staff'
-  - Strategy assistance and implementation
-project_innovation_stage: Expand existing program (expanding and continuing ongoing successful projects)
-project_collaborators: ''
-project_measure: >-
-  As we work to end homelessness for 1,500 families and engage 35,000
-  volunteers, we will track the following measurement to gauge success:
-   
-   
-   
-   - Serve 1,500 families with emergency and transitional housing
-   
-   - Maintain an 80% success rate for transitioning families into permanent housing
-   
-   - Engage over 35,000 volunteers
-   
-   - Rally a team of 50 young professionals to become activists in ending homelessness
-   
-   - Mobilize 2,000 volunteers for URM's "Walk to End Homelessness"
-   
-   
-   
-   In order to boost volunteerism, we will reach:
-   
-   - 7,000+ Instagram followers
-   
-   - 7,000+ Twitter followers
-   
-   - 23,000 Facebook users
-   
-   - 9,600+ listeners on KKLA's "Stories from Skid Row"
-   
-   - 4,500 Youtube subscribers
-ein: 95-1709239
-mailing_address_street: 545 S San Pedro St
-mailing_address_city: Los Angeles
-mailing_address_state: California
-mailing_address_zip: '90013'
-project_proposal_best_place: >-
-  Union Rescue Mission wants to team up with the communities of Los Angeles to
-  help get every family off the streets. Over the next year, we will end
-  homelessness for 1,500 families and motivate 35,000 Angelenos to service. Our
-  strategies for this project include:
-   
-   
-   
-   CONNECT families to housing:
-   
-   - Provide families with emergency food, shelter, and medical care for up to 90 days
-   
-   - Transition families into one of our bridge housing locations for up to 2 years
-   
-   - Partner with local services to help families secure affordable housing
-   
-   
-   
-   CONNECT Angelenos to volunteerism:
-   
-   - Mobilize volunteers for URM’s annual “Walk to End Homelessness” 5K to raise 
-   
-    awareness and over $1 million in funds
-   
-   - Recruit and train a robust team of volunteers to serve at URM and throughout the city
-   
-   - Inspire volunteers to become activists in their own communities by participating in
-   
-    neighborhood council meetings, town halls, and community events
-   
-   - Engage a team of young professionals in L.A to volunteer, raise funds and become digital
-   
-    activists in the fight to end homelessness
-   
-   
-   
-   In order to make LA the best place to CONNECT, we will track the following measurements to gauge our success:
-   
-   - The number of families in URM's family program
-   
-   - The number of families transitioning into permanent housing
-   
-   - The number of social media impressions
-   
-   - The number of subscribers on Youtube and URM's podcast
-   
-   - The number of volunteers serving at URM
-   
-   
-   
-   We want to make sure that every family is off the streets but we can't do this alone. We NEED the communities of Los Angeles to help us end family homelessness in our city. URM's priority is connecting caring citizens and local communities with opportunities for service. It gives all of us the chance to work together to transform Los Angeles into a place where everyone deserves to thrive.
-category_metrics:
-  - Adults getting sufficient social & emotional support
-  - Attendance at public/open streets gatherings
-  - Rates of volunteerism
-category_other:
+In what stage of innovation is this project?: >-
+  Expand existing program (expanding and continuing ongoing successful projects
+  or programs)
+What is the need you’re responding to?: >+
+  URM is responding to the 58,936 people experiencing homelessness in LA County,
+  8,799 of which are family members. Los Angeles now has the largest homeless
+  population in the Country, with numbers increasing annually. 
+
+
+  In addition, COVID-19 is having a devastating impact on the homeless
+  population. URM is on the frontlines of the response – operating a team of
+  frontline responders. We have in place a emergency measures to ensure access
+  to medical care, compassionate support, and quarantine services during these
+  challenging times. Staff are working overtime – overwhelmed by the scope of
+  this situation.
+
+
+  We want to inspire Angelenos to take action and provide opportunities for
+  people to get involved with being part of COVID-19 recovery and the solution
+  to homelessness in Los Angeles. By 2050, we want there to be no child or
+  family living on the streets of Los Angeles. Strategies for achieving this
+  include CONNECTING families to housing and CONNECTING Angelenos to
+  volunteerism. 
+
+Why is this project important to the work of your organization?: >
+  URM is the only shelter on Skid Row that serves families. 
+
+
+  URM maintains a commitment to never turn away a woman, child or family.  
+
+
+  Leading the fight on Skid Row against COVID-19, URM is keeping its doors open,
+  providing access to medical care in partnership with the LA Health Department,
+  and increasing meals service by 33% to keep up with the increasing needs of
+  the community and the economic fallout as jobs, homes, livelihoods are lost. 
+
+
+  URM’s new Angeles House Facility will provide transitional housing to 80+
+  families by 2021
+
+  URM was the first rescue mission on Skid Row to open its doors to women in the
+  1980s, expanding to include families in the 1990s. Each year, more than 450
+  families are connected to housing and services.
+
+
+  URM opened Hope Gardens Family Center in 2007, a transitional housing facility
+  which has helped end homelessness for more than 1,300 families. 
+
+
+  URM opened an emergency Sprung Structure in 2019 to expand capacity to serve
+  more women. 
+Please explain how you will define and measure success for your project.: "Annual measurements tracked to gauge progress:\n\n•\tKeep doors open during COVID-19 crisis, to continue to serve rising numbers of people/families experiencing homelessness on the streets of Skid Row\n•\tEnd homelessness for more families – through the provision of emergency housing for families on Skid Row.\n•\tConnect families to transitional housing at Hope Garden Family Center\n•\tEngage over 31,000 volunteers to serve through all URM programs\n•\tMobilize volunteers through online fundraisers including the URM Walk to End Homelessness and Annual Angels of Hope Gala\n\nIn order to boost volunteerism, we will reach: \n•\t9,082 Instagram followers\n•\t8,028 Twitter followers\n•\t26,000 Facebook users\n•\t9,600 listeners on KKLA’s Stories from Skid Row\n•\t9,170 YouTube subscribers.\n"
+Approximately how many people will be directly impacted by this proposal?: '6000'
+Approximately how many people will be indirectly impacted by this proposal?: '10000000'
+Please describe the broader impact of your proposal.: "This proposal will:\n\n•\tProvide critical services, medical care and support to help stem the overwhelming impact that COVID-19 is having on men, women, children and families experiencing homelessness\n\n•\tProvide housing for families experiencing homelessness and struggling during the aftermath of the COVID-19 crisis\n\n•\tHeighten awareness of the problem of homelessness and inspire Angelenos to take action, to change their city, and end family homelessness once and for all with the help of #LoveLikeaHero Campaign\n\n"
+Which of LA2050’s resources will be of the most value to you?:
+  - Access to the LA2050 community
+Please list the organizations collaborating on this proposal.: ''
+Which metrics will your submission impact?:
+  - Social and emotional support
+  - Volunteerism
+  - Transit-accessible housing and employment
+Are there any other LA2050 goal categories that your proposal will impact?:
   - LA is the healthiest place to LIVE
-year: 2019
+year: 2020
 category: connect
 filename: union-rescue-mission
-order: 37
+order: 58
 
 ---

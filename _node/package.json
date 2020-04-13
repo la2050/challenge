@@ -19,7 +19,8 @@
     "gulp-image-resize": "^0.13.1",
     "gulp-imageoptim": "^1.0.9",
     "inline-css": "^2.6.1",
-    "js-yaml": "^3.13.1"
+    "js-yaml": "^3.13.1",
+    "mkdirp": "^1.0.4"
   },
   "disabled-scripts": {
     "test:cypress": "cypress open",

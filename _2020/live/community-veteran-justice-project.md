@@ -1,123 +1,123 @@
 ---
-is_test_data: true
-application_id: '3959830371'
-title: CVJP College Veteran Resource Centers Pilot Project
-project_description: >-
-  CVJP would like support to expand to college Veteran Resource Centers (VRCs)
-  covering LA County. This expansion would allow veteran work-study students to
-  become CVJ workers at individual VRCs, increasing staff to provide supervision
-  and perform follow-up on cases. CVJP will be able to intervene with more vets
-  and connect them with comprehensive services across LA County that allow them
-  to seek college, entrepreneurship, home buying, healthy families, and overall
-  wellness opportunities.
-organization_name: Community Veteran Justice Project
-organization_description: Non-profit organization
-project_video: 'https://www.youtube.com/watch?v=vPNFx-Q67s8'
+application_id: '5164888589'
+title: Community Veteran Justice Project
+organization_description: Nonprofit
+project_video: 'https://youtu.be/Uq0hgFgxqCk'
+link_donate: 'https://www.cvjp.org/donate'
+link_volunteer: 'https://www.cvjp.org/get-involved'
 link_newsletter: ''
+mailing_address_city: Los Angeles
+mailing_address_street: '1000 N. Alameda St., Suite 240'
+ein: 95-4302067
+organization_name: Community Veteran Justice Project
+mailing_address_state: California
+mailing_address_zip: '90012'
 organization_website: 'https://www.cvjp.org'
 organization_twitter: ''
-organization_facebook: 'https://www.facebook.com/CVJProject'
+organization_facebook: 'https://www.facebook.com/CVJProject/'
 organization_instagram: ''
-link_donate: >-
-  //www.paypal.com/donate/?token=rVzh02U5afvYxL9wVq0NeOqtwwjf8StMhzgjihand6hw0J1xPJXyj_DRvsVEV_SGOHWaE0&country.x=US&locale.x=
-link_volunteer: 'https://www.cvjp.org/get-involved'
-organization_activity: >-
-  CVJP helps military and veterans get alternative sentencing and diversion, by
-  setting them up with mental health treatment for their underlying conditions
-  and connecting them with essential services.
-project_proposal_description: >-
-  What inspired CVJP's creation was the knowledge that the CA veteran criminal
-  statutes were not being used. Instead, the Veteran Treatment Court (VTC)
-  model, which was very restrictive and did not help the vast majority of
-  military veterans was being used. In LA, there were only five VTCs. CVJP was
-  created to address this limitation, fill the gap, and inform that the statutes
-  can turn any criminal courtroom into a VTC that serves this board population
-  better. We are able to serve all military/veteran personnel intervening as
-  soon as their initial arrest, seeking alternative sentencing/sealed records
-  for felonies (PC 1170.9), diversion/case dismissal for misdemeanors (PC
-  1001.80), in all 24 courthouses across LA County & connecting them to vital
-  services.
-   
-   
-   
-   Since our initial creation in October 2017, CVJP has amassed over 350 cases. Each of our clients is unique, but most share common themes, and they deal with similar hardships on a daily basis. For instance, Mark W., a Lt. Colonel in the US Army who was also an emergency room doctor, came to CVJP with a criminal charge and a suspended medical license. Mark had grown up in South Central LA and had pushed himself so hard to become a doctor and Lt. Colonel. However, Mark’s two deployments had left him with a severe case of PTSD, and upon knowledge of an upcoming third deployment, his anxiety and stress got the best of him. He ended up vandalizing his wife’s car in a fit of rage, ultimately being awarded an "other than honorable" (OTH) discharge, and got his medical license suspended. These events followed him for years and resulted in Mark living off of food stamps, and unable to practice medicine. No entity would help him.
-   
-   
-   
-   After CVJP was introduced to Mark’s case, our organization worked with him one-on-one, arranging for a discharge upgrade, and was able to get his medical license reinstated. Mark is now well on the road to getting his life back on track. He is getting the mental health support he needs and is active in his church and community. He is also working full time, in a healthy, loving relationship and has strong bonds with his children. Mark greatly appreciates all the work CVJP has done for him and is an active supporter to this day.
-project_areas:
+Please describe the mission of your organization.: >-
+  CVJP helps veterans by breaking the cycle of incarceration via early
+  intervention and by promoting the use of under-utilized California veteran
+  alternative sentencing statutes. While helping our clients with their criminal
+  cases, we also connect them to community support and mental health services.
+project_description: >-
+  This grant will allow us to expand assistance to LA area Veterans and their
+  families by ensuring our Veteran clients receive the maximum benefit from the
+  California Veteran alternative sentencing statutes.  We will enhance our
+  outreach to ensure maximum awareness among veterans who are in legal trouble
+  while enhancing our educational programs for California defense attorneys.
+  These attorneys often need assistance in applying the statues that were
+  specifically designed to help break the cycle of veteran incarceration,
+  homelessness, and suicide.
+Which LA2050 goal will your submission most impact?: LA is the best place to LIVE
+In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-project_la2050_community_resources:
-  - >-
-    Host public events on the topic your organization’s issue area (e.g. access
-    to capital, education reform, clean energy, etc.) 
-  - >-
-    Communications support, including traditional media, social media, and
-    LA2050 newsletter
-  - Publicity/awareness
+In what stage of innovation is this project?: >-
+  Expand existing program (expanding and continuing ongoing successful projects
+  or programs)
+What is the need you’re responding to?: >-
+  While the assistance we provide to Veterans involved in LA County’s justice
+  system is significant, we reach only a fraction of those eligible. Annually,
+  approximately 10,000 service members transition home into LA County, but many
+  struggle to adjust to civilian life. PTSD and other stresses have devastating
+  effects on this population. 20 American heroes take their lives daily, only 3
+  are under the care of the VA; rates of veteran drug abuse and homelessness in
+  LA Country are just as unacceptable. PTSD and mental health conditions are
+  closely linked to legal problems for veterans, but the military has instilled
+  a culture of not asking for help. Unfavorable legal outcomes for Veterans in
+  LA County are a strong indicator of future problems and a downward spiral for
+  this population. California legislators recognized these issues and
+  implemented strong alternative sentencing statutes of which veterans are
+  largely unaware and defense attorneys are often ill-prepared to implement. 
+Why is this project important to the work of your organization?: >-
+  We are uniquely suited to take on the issue of breaking the chain of veteran
+  incarceration, homeless and substance abuse because we are an up and running
+  organization providing these services every day here in LA Country.  We have
+  helped more than 640 Veterans seek diversion and alternative sentencing under
+  the California statutes while also connecting Vets to other essential
+  services.  Our reach is extensive with 17 local College Veteran Resources
+  Center partners referring their student Veterans. We train hundreds of
+  court-appointed and private attorneys to gain favorable outcomes, keeping our
+  Vets out of the worst part of our legal system. This leverage among these
+  influential groups is key to our success as we have been able to reach Vets in
+  need and the attorney advocates, but we are also straining under this growth. 
+  Our dedication of purpose will allow this proven model to expand to meet the
+  growing need – for the benefit of the Vet and the entire community.
+Please explain how you will define and measure success for your project.: >-
+  We define success by the number of Veterans we help navigate the complex LA
+  Country criminal justice system, while referring then to vital mental health
+  services. During our first year (10/17-10/18), we averaged helping 10 Veterans
+  per month. This average grew to approx. 20 per month over the next 9 months
+  and now averages about 38 per month.  Clearly the growth trajectory is
+  accelerating and unsustainable without additional funding. We will measure
+  success by maintaining growth at a rate where we will be able to consistently
+  provide help to at least 50 Veterans per month. An additional measure of our
+  success will be achieving the goal of making training available to the more
+  than 1,000 LA country court-appointed attorneys and the many private attorneys
+  on proper usage of the California diversion and alternative sentencing
+  statutes.  We also have set a goal to automate our website, intake forms,
+  referral process and to establish an automated process to identify the most
+  at-risk Veterans so that these individuals can be provided extra assistance,
+  especially rapid referral to mental health services, and to better leverage
+  our limited staff resources to meet our goal of helping an average of 50
+  Veterans and Veteran families each month. Other successes are difficult to
+  quantify especially relating to helping Veterans who are at major and
+  immediate risk of major negative life events, but are nevertheless a critical
+  component of the services we provide.
+Approximately how many people will be directly impacted by this proposal?: '360000'
+Approximately how many people will be indirectly impacted by this proposal?: '10000000'
+Please describe the broader impact of your proposal.: >-
+  Veterans are not only a distinct group but our friends and neighbors. LA
+  County has more veterans than any other county in California, with about
+  330,000.  Our veterans are 6 times more likely to commit suicide, up to 30%
+  have experienced PTSD, and Veteran unemployment is 34% higher than the
+  population. These numbers are even more dramatic for combat veterans. 
+  Research proves it is the military service that has caused the disparity
+  compared to the general population. Breaking the cycle of incarceration,
+  homelessness, substance abuse and the deterioration of veteran family units is
+  not only needed to benefit our communities, it pays a debt that is owed to
+  these brave men and women who served our country in its time of need. 
+Which of LA2050’s resources will be of the most value to you?:
+  - Access to the LA2050 community
+  - Host public events or gatherings
+  - Communications support
+  - 'Office space for meetings, events, or for staff'
   - 'Capacity, including staff'
   - Strategy assistance and implementation
-project_innovation_stage: Pilot project (testing a new idea on a small scale to prove feasibility)
-project_collaborators: ''
-project_measure: >-
-  At CVJP we define and measure success with a number of different metrics.
-  First, we define success by the number of veteran cases we are able to take
-  on, and how many staff we have on our team to assist these clients. In the
-  upcoming year with this project, this metric will be measured with: how many
-  college VRCs we are able to successfully implement the CVJ project at, the
-  increase in number of cases from each VRC site, the increase in the number of
-  clients who successfully obtain either diversion or alternative sentencing
-  (showing how successful we are in helping our clients meet the California
-  veteran statutes), the increase in total number of services we are able to
-  connect our clients with, and the increase in CVJP staff that is able to be
-  sufficiently trained to do more sophisticated follow up work on cases. 
-   
-   
-   
-   We will also be defining success based on the increase in CVJP’s visibility, notoriety, and reputation. Primarily, this is because the more well-known CVJP becomes, the more well known the California veteran criminal statutes will become, and eventually the more veterans that will be helped. This metric will be measured with: the ability to attend/be invited to more events and presentations, the number of articles published either by CVJP staff or mentioning CVJP, news events focusing on CVJP projects, and all various means of media publication mentioning CVJP (e.g., social media, print, TV, radio). In addition, we would also measure this area to be successful, if there is a consistent increase in the number of testimonials from clients and defense attorneys that may be added to our organization’s website.
-ein: 95-4302067
-mailing_address_street: '1000 N. Alameda St., Suite 240'
-mailing_address_city: Los Angeles
-mailing_address_state: California
-mailing_address_zip: '90012'
-project_proposal_best_place: >-
-  CVJP will implement the VRC pilot project within Region 7 colleges by
-  coordinating with VRC Directors and designated VA work-study students who will
-  become CVJ workers at their individual VRCs. We will utilize live webinar
-  training, site-specific internal protocols, as well as provide necessary
-  materials, supervision for all VRC work, and handle all follow-up/tracking. In
-  coordination with the VRCs, we will conduct a coordinated outreach campaign to
-  ensure all their veterans students know about our services. 
-   
-   
-   
-   This capacity building and outreach effort will dramatically increase our organization’s caseload, and require us to hire a full-time Staff Attorney and part-time Project Coordinator (PC). Having a Staff Attorney will allow CVJP the ability to recruit law clerks, who can then help supervise the increased caseload. Our PC will coordinate the implementation of the VRC pilot project. Both staff members will help implement our Strategic Funding Plan, as well as our Development Growth Program to ensure that both the project and the positions will be sustainable.
-   
-   
-   
-   CVJP aims to serve all military members, past and present. This includes active-duty military, reservists, National Guard, and veterans of all discharge statuses. The VRC pilot project will be key in connecting with our youngest veterans (Iraq and Afghanistan), arguably those who need it most of all, due to their multiple tours of combat. Unfortunately, this population has extreme apprehension when it comes to admitting they may be suffering from mental illness. By informing these clients about the CA vet criminal statutes’ mental health treatment requirement, we provide a catalyst that inspires them to finally seek the help they need, changing their life's trajectory.
-   
-   
-   
-   CVJP aims to begin training VRC work-study students by the end of April 2019. We are currently discussing with the Directors how to devise an implementation plan that will partner with the colleges on a semester by semester basis, working around student schedules. 
-   
-   
-   
-   CVJP is looking to make measurable progress by expanding our ability to intervene and provide one-on-one support with as many military and veteran clients as possible. The primary way that we will measure progress with this pilot project is by tracking the VRCs that are added to act as physical sites for CVJ workers. We can also track the added quantity of clients that are brought in by these VRCs. CVJP can track the added events, presentations, training & funds that each new staff member contributes, to get a measurable reading of how much our organization’s growth has been increased. Each of these measures allows more military veterans to get all the services they need, as well as help them achieve alternative sentencing, diversion, and dismissal of criminal cases. CVJP is helping our clients get their lives and their families lives on track to thrive, live well and prosper, and thus will help Los Angeles become the best place to LIVE.
-category_metrics:
-  - Rates of mental illness
-  - Resilient communities
-  - Residents receiving coordinated healthcare services
-category_other:
+Please list the organizations collaborating on this proposal.: ''
+Which metrics will your submission impact?:
+  - Poverty rate
+  - Access to mental health services
+  - Homelessness
+Are there any other LA2050 goal categories that your proposal will impact?:
   - LA is the best place to LEARN
-  - LA is the best place to CREATE
-  - LA is the best place to PLAY
   - LA is the healthiest place to CONNECT
-year: 2019
+year: 2020
 category: live
 filename: community-veteran-justice-project
-order: 4
+order: 6
 
 ---

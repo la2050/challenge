@@ -61,7 +61,7 @@ Public voting is complete.
 
 {% if site.finalists_chosen_by_public_vote %}
 <p class="action" markdown="1">
-  <a href="/entries/">Check out the entries</a>
+  <a href="/entries/">Check out the proposals</a>
 </p>
 {% else %}
 <p class="action" markdown="1">

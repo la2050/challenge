@@ -67,10 +67,10 @@ function generateNext() { // https://hacks.mozilla.org/2015/05/es6-in-depth-dest
 }
 
 gulp.task("default", function() {
-  sizesCursor = 0;
-  sourceImagePath     = '../assets/images/home/original';
-  generatedImagePath  = '../assets/images/home';
-  generateNext();
+  // sizesCursor = 0;
+  // sourceImagePath     = '../assets/images/home/original';
+  // generatedImagePath  = '../assets/images/home';
+  // generateNext();
 
   // sizesCursor = 0;
   // sourceImagePath     = '../assets/images/goals/original';
@@ -83,27 +83,27 @@ gulp.task("default", function() {
   // generateNext();
 
   // sizesCursor = 0;
-  // sourceImagePath     = '../assets/images/2019/learn/original';
-  // generatedImagePath  = '../assets/images/2019/learn';
+  // sourceImagePath     = '../assets/images/2020/learn/original';
+  // generatedImagePath  = '../assets/images/2020/learn';
   // generateNext();
 
   // sizesCursor = 0;
-  // sourceImagePath     = '../assets/images/2019/create/original';
-  // generatedImagePath  = '../assets/images/2019/create';
+  // sourceImagePath     = '../assets/images/2020/create/original';
+  // generatedImagePath  = '../assets/images/2020/create';
   // generateNext();
-
+  // 
+  sizesCursor = 0;
+  sourceImagePath     = '../assets/images/2020/play/original';
+  generatedImagePath  = '../assets/images/2020/play';
+  generateNext();
+  // 
   // sizesCursor = 0;
-  // sourceImagePath     = '../assets/images/2019/play/original';
-  // generatedImagePath  = '../assets/images/2019/play';
+  // sourceImagePath     = '../assets/images/2020/connect/original';
+  // generatedImagePath  = '../assets/images/2020/connect';
   // generateNext();
-
+  // 
   // sizesCursor = 0;
-  // sourceImagePath     = '../assets/images/2019/connect/original';
-  // generatedImagePath  = '../assets/images/2019/connect';
-  // generateNext();
-
-  // sizesCursor = 0;
-  // sourceImagePath     = '../assets/images/2019/live/original';
-  // generatedImagePath  = '../assets/images/2019/live';
+  // sourceImagePath     = '../assets/images/2020/live/original';
+  // generatedImagePath  = '../assets/images/2020/live';
   // generateNext();
 });

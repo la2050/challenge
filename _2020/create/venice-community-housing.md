@@ -1,133 +1,141 @@
 ---
-is_test_data: true
-application_id: '9856862494'
-title: Bring Art Back to Venice
-project_description: >-
-  Venice Community Housing (VCH) kindly requests support for its art
-  installation project, an activity of the organization’s Arts Community
-  Collective (ArtsC2), in order to bridge the gap between art & architecture as
-  it relates to affordable housing. The project is a manifestation of this
-  purpose, as VCH works to add mural paintings and art installations to its
-  permanent supportive housing & affordable housing properties.
-organization_name: Venice Community Housing
-organization_description: Non-profit organization
-project_video: 'https://youtu.be/QKx0BHD91SA'
-link_newsletter: >-
-  https://visitor.r20.constantcontact.com/manage/optin?v=001XydcUt-Tcv52rxFfyTVB2OjzZWZhOX83AyPcD7_kSMEQ8brlkLTUeZNCplkrGi1g4bwdr-kgCMKXwUSPpf1jHRLsmphDVcoyAasbX65kW7t78LqaIYYa7pVipP1fIPQPjHQZLR-EehZgCtph0JuTC94i4AYTF7JM
-organization_website: 'http://www.vchcorp.org'
-organization_twitter: '@VCHC'
-organization_facebook: 'https://www.facebook.com/vchcorp/'
-organization_instagram: '@vchcorp'
-link_donate: 'http://www.vchcorp.org/donate/'
-link_volunteer: 'http://www.vchcorp.org/volunteer/'
-organization_activity: >-
-  To reduce homelessness, maximize affordable housing, empower low-income
-  people, provide social services, & advocate for policy that strengthens the
-  economic, racial & cultural diversity of Venice.
-project_proposal_description: >-
-  Tito is a longtime resident at VCH’s 200 Lincoln Blvd. property, a supportive
-  housing development for formerly chronically homeless individuals. Tito has
-  lived in Venice since 1963 when Venice was a much different place than it is
-  now. While Venice is gentrifying at a rapid rate, Tito says this is not a new
-  fight. In the ’80s-‘90s he saw many friends and family members evicted from
-  their homes. Tito advocated for affordable housing in the ‘90s by attending
-  marches and demonstrations. At the same time, Tito faced his own struggles
-  with drug addiction. He recounted his trips to county rehabilitation
-  facilities, with relapses in between, recalling that the final time he went to
-  rehab and got clean, “I was surprised I wasn’t dead already.” As Tito
-  struggled with his sobriety, he also found himself living on the street. He
-  described these conditions as leaving him to feel “not even like a human
-  being.” 
-   
-   
-   
-   In 2005, Tito was connected to VCH and secured permanent supportive housing. He admitted that he has “survivors’ guilt”, because there are so many people still on the street suffering — many who are people he grew up with in Venice and has known since childhood. Tito said he feels incredible grateful for his housing, even for the simple things like a place to wash dishes and take a shower.
-   
-   
-   
-   Tito is also a well-known Venice artist. He knew he had artistic talent since in elementary school, and recalls creating finger paintings of cowboys that he saw on television. Tito went on to be a multimedia artist as an adult. He laments that Venice is not the artist community it once was, as most artists have been pushed out because of soaring housing costs. As a result, he feels “the flavor of Venice has become bland.” He notes that while there are some artists here in Venice, many are not true Venetians, but rather wealthier people coming from other parts of LA. 
-   
-   
-   
-   Tito’s is one of the faces that will be featured on VCH’s first mural on Lincoln Blvd— Tito’s home for the last 14 years. As a longtime resident of Venice and tenant with VCH, and an artist with a unique look and style, Tito was an obvious choice for someone VCH wants to honor and memorialize through public art.
-project_areas:
-  - Westside
-project_la2050_community_resources:
-  - Access to LA2050 community
-  - >-
-    Host public events on the topic your organization’s issue area (e.g. access
-    to capital, education reform, clean energy, etc.) 
-  - >-
-    Communications support, including traditional media, social media, and
-    LA2050 newsletter
-  - Publicity/awareness
-project_innovation_stage: Pilot project (testing a new idea on a small scale to prove feasibility)
-project_collaborators:
-  - 'Ivo Vergara, artist'
-  - 'Henry Lipkis, artist'
-  - Safe Place For Youth (SPY)
-  - Venice Arts Council
-  - 18th Street Arts
-  - Beyond Baroque
-  - AmeriCorps
-project_measure: >-
-  Success will be defined by creating art installations on 4 of VCH’s properties
-  by summer of 2020. VCH will measure this by monitoring that the hired artists
-  complete their projects in the given timeframe, that each project has 2
-  community engagement meetings prior to beginning the art installation, and by
-  gaining at least 300 supporters for its supportive and affordable housing
-  developments, as measured by the submission of support letters. 
-   
-   
-   
-   VCH will also measure the success of each event by developing a set of “Lesson’s Learned” at the completion of each installation. This will provide insight on what worked, what didn’t work and what can be improved on in order to make the next art installation even better.
-ein: 95-4200761
-mailing_address_street: 720 Rose Ave.
+application_id: '9981861933'
+title: Empowering Community Through Cultural Creativity
+organization_description: Nonprofit
+project_video: 'https://youtu.be/uOI3pV1zIN8'
+link_donate: 'https://www.vchcorp.org/donate/'
+link_volunteer: 'https://www.vchcorp.org/volunteer/'
+link_newsletter: 'https://www.vchcorp.org/'
 mailing_address_city: Venice
+mailing_address_street: 200 Lincoln Blvd.
+ein: 95-4200761
+organization_name: Venice Community Housing
 mailing_address_state: California
 mailing_address_zip: '90291'
-project_proposal_best_place: >-
-  ArtsC2 consists of VCH staff, tenants, local artist, and volunteers, who will
-  manage this project. ArtsC2 will further VCH’s advocacy strategies by
-  incorporating art projects into existing and new housing developments. VCH
-  tenants and program participants will give feedback on design and participate
-  in the creation of art. Through art installations, ArtsC2 hopes to highlight
-  that the formerly homeless who now live in supportive housing care about their
-  homes and take pride in contributing to their community. 
-   
-   
-   
-   Participants of Venice YouthBuild, one of VCH’s programs, will also assist with art installations. YouthBuild provides 18-24 youth from low-income and underserved backgrounds with education, job training, and leadership development. All participants are AmeriCorps members and their work on this project will count towards their required AmeriCorps hours. 
-   
-   
-   
-   ArtsC2 includes external committee members, many of whom come from other organizations, such as Beyond Baroque, 18th Street Arts, and Venice Arts Council. A Request for Qualifications (RFQ) will be the primary tool to identify and hire local artists. Other tactics include inviting community members to participate in creating art and hosting unveiling celebrations at the completion of each project. Community engagement strategies include building relationships with artists and art organizations, hosting tenant meetings to get feedback on art concepts, and canvasing in surrounding neighborhoods with information about the projects. 
-   
-   
-   
-   VCH’s first mural will take place at a building that includes housing for 13 formerly chronically homeless individuals. VCH hired artist Ivo Vergara, who has created a design that features portraits of Venice natives, community activists, and VCH tenants. 
-   
-   
-   
-   VCH serves over 1,300 individuals annually. This includes homeless and low-income adults, youth, and children living in the communities of Venice, Mar Vista and Del Rey. 100% of those served by VCH are low-income. More than 30% of current tenants have experienced homelessness prior to residing with VCH. Public art installations will also serve the greater community and the nearly 30,000 tourist who visit Venice Beach on a daily basis (City of LA Dept. of Rec. and Parks). 
-   
-   
-   
-   VCH’s first mural will begin mid-April. The timeline for art installations on 4 additional buildings will be as follows: May: Distribute RFQ and compile list of potential artists. July: Finalize artist selection and begin community engagement for Project #1 at 4215 Centinela Ave. Aug — Sept.: Artist creates installation and unveiling party. Oct. - Dec: Repeat process for Project #2, at 102 Navy St. Feb-April: Repeat preparation process for Project #3, at 4429 Inglewood Blvd. May-July: Repeat preparation process for Project #4, at 920 Sixth Ave.
-   
-   
-   
-   VCH will work towards the following goals: Add additional members to ArtsC2; Complete art installations on schedule; Identify and gather at least 300 permanent and affordable housing supporters.
-category_metrics:
+organization_website: 'https://www.vchcorp.org/'
+organization_twitter: '@VCHC'
+organization_facebook: www.facebook.com/vchcorp/
+organization_instagram: '@vchcorp'
+Please describe the mission of your organization.: >-
+  Venice Community Housing works to reduce homelessness, maximize affordable
+  housing, empower low income constituents, provide social services and advocate
+  for public policy that protects and strengthens the economic, racial and
+  cultural diversity of Venice & other neighborhoods on the Westside of LA.
+project_description: >-
+  VCH kindly requests support for its art installation project, an activity of
+  the organization’s Arts Community Collective (ArtsC2) committee. ArtsC2's
+  purpose is to implement visual arts within Venice and provide a valuable
+  cultural opportunity for VCH tenants, Venice residents, and surrounding
+  communities. The art installation project is a manifestation of this purpose,
+  as VCH strives to add public art installations (i.e. murals, sculptures,
+  landscape design, etc.) to its permanent supportive housing and affordable
+  housing properties. 
+Which LA2050 goal will your submission most impact?: LA is the best place to CREATE
+In which areas of Los Angeles will you be directly working?:
+  - Westside
+In what stage of innovation is this project?: >-
+  Expand existing program (expanding and continuing ongoing successful projects
+  or programs)
+What is the need you’re responding to?: >-
+  VCH is honored to be a past LA2050 recipient and watch four murals come to
+  life. Tenants at each mural site have been engaged, as their voices are lifted
+  through art. They feel empowered and proud of their homes. Because tenant
+  feedback has been so positive, VCH wants to bring art to more buildings. 
+
+
+  Many talented artists submitted applications. While VCH could only hire four
+  lead artists, we want to utilize more of the talent in that pool, as well as
+  grow the base of artists. This group will be invaluable as VCH continues the
+  development of Reese Davidson Community (RDC) - 140 units of affordable and
+  supportive housing, 25% of which will be for low-income artists. RDC will also
+  have a community arts center and spaces for public art. VCH aims to eventually
+  create art installations on every property it owns, making art a meaningful
+  part of every Venetian’s life. The continuation of this project moves VCH into
+  a broader role as cultural provider, improving public and common space.  
+Why is this project important to the work of your organization?: >-
+  In addition to providing housing and services, VCH works to sustain the
+  diversity of Venice and to address interests of low-income residents through
+  advocacy at the local, state, and national levels. Through volunteer
+  engagement, community organizing, and collaboration, VCH leverages its
+  connections to achieve lasting change for more people. By building strong
+  community leaders, VCH supports their efforts to speak for themselves and
+  create change. This foundation in grassroots community organizing puts VCH in
+  an excellent position to expand its advocacy work into the arts realm. 
+
+
+  VCH’s art installation project is developed, managed and executed by ArtsC2.
+  ArtsC2 has both internal VCH staff members and external members. External
+  members include VCH tenants, local artists, and community members, so that
+  experts in art inform the decision making process, and those who were formerly
+  unhoused make sure the process is inclusive and reflective of marginalized
+  populations.
+Please explain how you will define and measure success for your project.: >-
+  The following goals have been established for ArtsC2’s 2020-2021 art
+  installation project:
+
+
+  1) Complete four art installations on schedule, as outlaid in project
+  timeline.
+
+  2) Install an interactive children's art station at VCH’s Westminster TLC,
+  which provides short-term housing to families who are experiencing
+  homelessness. TLC provides temporary housing and supportive services while
+  families identify options for permanent housing. The 32-bed building has room
+  for up to eight families. The interactive art station will be a space where
+  children living on-site can draw and create together.
+
+  3) Add 25 new artists and artist apprentices to pool of candidates via the
+  previously established RFP process.
+
+  4) Identify affordable housing supporters through community engagement and
+  arts events.
+
+  5) Create 12 temporary employment opportunities for the community – one lead
+  artist, one artist apprentice, and one community liaison at each four art
+  installation sites. 
+
+
+  Success will be defined by creating art installations on four of VCH’s
+  properties and an interactive children’s art station at TLC by summer of 2021.
+  VCH will measure this by monitoring that the hired artists complete their
+  projects in the given time frame, that each project has two community
+  engagement meetings prior to beginning the art installation, and by gaining
+  new supporters for housing developments in VCH’s pipeline, as measured by the
+  submission of support letters. 
+Approximately how many people will be directly impacted by this proposal?: '300'
+Approximately how many people will be indirectly impacted by this proposal?: '40000'
+Please describe the broader impact of your proposal.: >-
+  Research shows correlation between murals and social/cultural/economic
+  benefits, as well as positive impacts on mental health (opticosdesign.com).
+  According to PolicyLink, public art initiatives have been identified as an
+  advancement strategy for economic development of populations at risk of
+  displacement as a result of gentrification. 
+
+
+  Low-income communities and communities of color have long used art to survive
+  racism. Through art, oppressed communities tell stories that promote healing.
+  Public art acts as a megaphone for marginalized people to extend their voice
+  and demand equity. VCH has found all of this to be true - murals promote a
+  sense of identity, belonging, and welcoming in low-income buildings. 
+Which of LA2050’s resources will be of the most value to you?:
+  - Access to the LA2050 community
+  - Host public events or gatherings
+  - Communications support
+Please list the organizations collaborating on this proposal.: >-
+  Safe Place For Youth, Beyond Baroque, Venice Arts Council, Venice Art Crawl,
+  Venice Mar Vista Arts District, and 18th Street Arts Center.
+Which metrics will your submission impact?:
+  - 'Arts establishments, instillations, and exhibitions'
   - Employment in the creative industries
-  - Arts establishments per capita
-  - Measures of cultural and global economic influence (“soft power”)
-category_other:
+  - Income inequality
+Are there any other LA2050 goal categories that your proposal will impact?:
+  - LA is the best place to LEARN
+  - LA is the best place to PLAY
   - LA is the best place to CONNECT
   - LA is the healthiest place to LIVE
-year: 2019
+year: 2020
 category: create
 filename: venice-community-housing
-order: 28
+order: 44
 
 ---

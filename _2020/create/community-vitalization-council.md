@@ -1,225 +1,115 @@
 ---
-is_test_data: true
-application_id: '3304431990'
-title: Catapulting LA's Small Businesses Into Global Markets
-project_description: >-
-  The International Business Accelerator has worked with more than 30 companies
-  (60% women founders and nearly 50% minority owned). We have found that a major
-  obstacle for companies to export are requirements for large (container load)
-  shipments and the IBA has developed a strategy and series of incentives to
-  address this problem. In conjunction with LMU, we will work with 20 LA county
-  companies in two cohorts with the goal to create $1 million in new revenue, 20
-  direct jobs and 60 indirect jobs.
-organization_name: Community Vitalization Council
-organization_description: Non-profit organization
-project_video: 'https://www.youtube.com/watch?v=9KQbRTk5Hcc'
-link_newsletter: ''
-organization_website: 'https://www.iba.io'
-organization_twitter: '@IntlBizAccel'
-organization_facebook: International Business Accelerator
-organization_instagram: International Business Accelerator
+application_id: '5559975440'
+title: LA-Central American Business Initiative (LACBI)
+organization_description: Nonprofit
+project_video: ''
 link_donate: ''
 link_volunteer: ''
-organization_activity: >-
-  The Community Vitalization Council promotes community level economic vitality
-  and jobs. The International Business Accelerator, a program of Civic 180,
-  supports SMEs to expand into global markets
-project_proposal_description: >-
-  Over the years we’ve witnessed a recurring and frustrating speedbump for small
-  manufactures. The founder diligently prepares a global export strategy,
-  solidifies the supply chain, prepares for regulatory compliance, creates
-  foreign interest, runs the numbers and…BAM…that first order comes in. 
-   
-   
-   
-   Using a real-life example from our accelerator, Mary M had local momentum and ready to take on the world, literally and figuratively. Her breakfast and healthy snack products were selling locally, boasted great packaging and branding and our curriculum had her prepared.
-   
-    
-   
-   Until she received an initial purchase order from China for multiple 40’ x 8’ container loads. As a small manufacturer, she couldn’t afford staff and materials to manufacture such an order. She remained focused on the local market and eventually closed the business to take a job to provide insurance for her family. 
-   
-   
-   
-   The program we’ve created eliminates this situation for small business owners like Mary M. . 
-   
-   By focusing on smaller international B2C shipments, small manufacturers like Mary M benefit in three way. First, they keep manufacturing costs stable. Second, they minimize duties and tariffs through special federal programs. Third, they maximize profit margin by selling at full retail pricing.
-   
-   
-   
-   We unshackle the small business owner/manufacturer from burdensome capital requirements by focusing on global B2C.
-   
-   
-   
-   Add this to the IBA's export accelerator curriculum and network of experts like KPMG for cross-border tax and accounting guidance, global IP attorneys, funding experts and more. 
-   
-   Our My LA2050 backed program mitigates and removes the burden of a startup selling overseas by enabling maximum profit via small shipments and the know-how to export efficiently, compliantly and profitably. 
-   
-   
-   
-   Most importantly, this program ensures owners like Mary M will never be haunted by the what-ifs of unrealized growth and profits.
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Antelope Valley
+link_newsletter: ''
+mailing_address_city: Playa Vista
+mailing_address_street: '12920 Runway Rd #130'
+ein: 46-2629464
+organization_name: Community Vitalization Council
+mailing_address_state: California
+mailing_address_zip: '90094'
+organization_website: 'https://www.iba.io'
+organization_twitter: '@intlbizaccel'
+organization_facebook: '@internationalbusinessaccelerator'
+organization_instagram: '@iba.io'
+Please describe the mission of your organization.: >-
+  The Community Vitalization Council (CiViC180) promotes community level
+  economic vitality and jobs by  supporting the growth of small businesses.
+  CiViC180’s signature program, the International Business Accelerator (IBA),
+  helps businesses launch into global markets.
+project_description: >-
+  The IBA LA-Central American Business Initiative (LACABI) enables LA
+  entrepreneurs of Central American heritage to build businesses and jobs
+  through trade with companies in Central America. LACABI provides online
+  training and person-to-person coaching using proven IBA methodology and taps
+  into the IBA network of accelerators in that region. The program will work
+  with 40 companies, creating 100 direct and 250 indirect jobs.
+Which LA2050 goal will your submission most impact?: LA is the best place to CREATE
+In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-project_la2050_community_resources:
-  - Access to LA2050 community
-  - >-
-    Host public events on the topic your organization’s issue area (e.g. access
-    to capital, education reform, clean energy, etc.) 
-  - >-
-    Communications support, including traditional media, social media, and
-    LA2050 newsletter
-  - Publicity/awareness
-project_innovation_stage: Post-pilot (testing an expansion of concept after initially successful pilot)
-project_collaborators:
-  - Loyola Marymount University College of Business Administration - confirmed
-project_measure: >-
-  For three chosen metrics (manufacturing, women/minority owned businesses and
-  high-growth startups):
-   
-   
-   
-   -- Train 20 companies in the 12 week program (six workshops, follow-up coaching, integrating incentives) We continue to work with the companies after the 12 week program.
-   
-   
-   
-   -- Companies will on average start/increase revenues from global sales by $50,000. The goal for the project is to generate at least $1million in global sales from LA County companies.
-   
-   
-   
-   -- The 20 companies will on average create one additional direct job. That will create 20 FTEs during the first year.
-   
-   
-   
-   -- Based on current ratios for non-durable manufacturing jobs in LA County, we estimate that the 20 direct jobs will generate an additional 60 indirect jobs.
-   
-   
-   
-   For the Learn category -- College completions
-   
-   
-   
-   8 interns trained in international business entrepreneurship. This will giver the students first-hand experience in specifics of doing international business that are not covered in international business programs.
-   
-   
-   
-   LMU & the IBA are dedicated to meet the following LA2050 goals of:
-   
-   
-   
-   -- Making LA County the nation's leader in minority, women, and veteran-owned businesses. IBA graduates are currently 50% women and minority-owned businesses. 
-   
-   
-   
-   -- Manufacturing firms in LA County will account for six percent of all establishments countywide, employing 18 percent of the workforce. We do this by not only boosting exports and sales, but fortifying the business for rapid growth.
-   
-   
-   
-   -- Los Angeles will nearly double the share of high-growth startups to five percent of the top 5,000 firms nationwide. The IBA and LMU are committed to leveraging the LA205 grant into a perpetual acceleration program for create and accelerator our region's small manufacturers. 
-   
-   
-   
-   LMU and the IBA will remain vigilant of meeting other LA2050 Goals such as recruiting and retention rates for higher educational institutions, keeping college graduates in LA County for five years, help founders secure patents and venture capital, increase jobs per capita, including programs helping the formerly incarcerated. The LA205 Grant will enable us to attract federal funding for our mission as we have done, using a recent example, for a 2018 backathon done in conjunction with the USC Marshall School of Business.
-ein: 46-2629464
-mailing_address_street: '9100 S. Sepulveda Blvd., Suite 208, Los Angeles, CA 90045'
-mailing_address_city: Irvine
-mailing_address_state: California
-mailing_address_zip: '92604'
-project_proposal_best_place: |-
-  PROGRAM EXECUTION
-   
-   
-   
-   The "Going Global through Small Shipments" program draws on the methodology and curriculum of the existing IBA Export Accelerator. The twelve week program has six workshops led by IBA staff and industry experts. The topics include:
-   
-   * Creating a global company and resources for exporters,
-   
-   * Cross-cultural awareness and negotiating strategies,
-   
-   * Product readiness (standards, identifying barriers to entry, landed-cost value),
-   
-   * Tax, accounting, finance and funding strategies,
-   
-   * Legal issues (contracts, intellectual property, HR),
-   
-   * Market entry strategy,
-   
-   
-   
-   After each workshop, a business coach will work with each company to translate the content into business practices. At the same time, an intern will work with each company to develop a research report tailored for the company's product for a specific country. With the business coach, each company will develop an export strategy for initial sales and future market development.
-   
-   
-   
-   As the program progresses, the company will be connected to specific resources and incentives, including logistics providers, de minimis export software tracking, market research resources, agents or distributors in other countries, website design and global marketing analysis. The companies will also be connected to federal programs (US Commercial Service, SBA export finance and EXIM Bank insurance) and California export grant programs (STEP).
-   
-   
-   
-   At the end of the program, the companies will present their companies at a Demo Day to an audience of potential customers, industry experts and angel/vc investors.
-   
-   
-   
-   The IBA will look to LA 2050 to get the word to LA SMEs that exporting helps the community.
-   
-   
-   
-   POPULATION SERVED
-   
-   
-   
-   This program is aimed at LA County small business owners that currently are making a product suitable for export. Of the 350,000 SMEs in LA County region, only 12% currently export. Why don't more become involved in global trade? SMEs most frequently cite concerns about risk and paperwork. Those concerns are even greater for women and minority owned businesses. The IBA directly addresses those concerns through its training and coaching process. 
-   
-   
-   
-   From its very first cohort, the IBA has made a special effort to reach out to women and minority owned businesses. 60% of the companies the IBA has worked with have women founders and nearly 50% are minority-owned. In recruiting for the two cohorts, we will aim for similar broad diversity to include women, minority and immigrant owned businesses.
-   
-   
-   
-   TIMELINE
-   
-   
-   
-   July-Aug: Recruit and select First Cohort of 10, hire interns, 
-   
-   Sep-Nov: First Cohort twelve-week Export Accelerator Program and Demo Day
-   
-   Dec: Evaluation of First Cohort
-   
-   Dec-Jan: Recruit Second Cohort
-   
-   Feb-April: Second Cohort Export Accelerator Program & Demo Day
-   
-   May: Evaluation of overall program
-   
-   
-   
-   Metrics: $1M + 80 jobs
-   
-   
-   
-   New global sales -- average of $50,000 per company X 20 companies or $1 million total
-   
-   New direct jobs -- 20
-   
-   New indirect jobs -- 60
-   
-   Students trained -- 8
-category_metrics:
-  - Manufacturing activity
-  - Minority- and women-owned firms
-  - Number of high-growth startups
-category_other:
+In what stage of innovation is this project?: >-
+  Expand existing program (expanding and continuing ongoing successful projects
+  or programs)
+What is the need you’re responding to?: >
+  There are approximately 650,000 Central Americans living in Los Angeles
+  County. A first wave arrived here as refugees from a result of the civil wars
+  in the 1980s.  Many of those initial refugees were given temporary protected
+  status but the Trump Administration has threatened to deport those in TPS
+  starting next year.  Further waves of immigrants came after natural disasters
+  and more recently fleeing gang violence. Most arrive with little formal
+  education and remain among the poorest ethnic groups in LA County.
+
+
+  The Central America culture has traditionally supported entrepreneurism,
+  although due to the hurdles to establishing businesses and accessing credit in
+  the region, most are solopreneurs.
+
+
+  Like many immigrants and their children born here, the best path up the
+  economic ladder is to start your own business. The LACABI creates upward
+  mobility for the Central American immigrants and their children by enabling
+  them to create and expand their own international businesses.
+Why is this project important to the work of your organization?: >
+  First, we have the know-how and capacity 
+
+
+  Civic 180, through its International Business Accelerator program, has already
+  worked with almost 40 LA companies to expand into global markets. We have
+  recently created a bilingual online training course which will enable us to
+  reach entrepreneurs at their homes on their schedules. 
+
+
+  Second, we know Central America.
+
+
+  The IBA already has established connections through its ScaleUp LA-LatAm
+  initiative with business incubators and accelerators throughout Central
+  America. The IBA staff working have fluent Spanish and the Civic180
+  founder/CEO ran business programs at the US Embassy in El Salvador.
+
+
+  Third, we know Los Angeles County.
+
+
+  We have run in-person cohorts at Long Beach City College, LAX Coastal Chamber
+  and USC Business School. We will be working closely with Loyola Marymount
+  Business School with its Personal Initiative training program. Most
+  importantly, a majority of our participants are women and minority founders.
+Please explain how you will define and measure success for your project.: "Vision for success:\n\nWe are confident LACABI will be the catalyst to create a thriving small-business cluster for Central American community. The participants in this program, with their intimate knowledge of products available and tastes in both Los Angeles and Central America are in the best position to find these opportunities – from tech products to traditional ethnic food specialties.\n\nOur metrics for success will be:\n•\tNumber of participating companies (goal: 40)\n•\tNew sales created: $2 million\n•\tJobs created by participating companies (goal: 100 direct and estimated 250 indirect)\n"
+Approximately how many people will be directly impacted by this proposal?: '100'
+Approximately how many people will be indirectly impacted by this proposal?: '250'
+Please describe the broader impact of your proposal.: >-
+  The LACABI will provide needed job creation, as LA recovers from the COVID
+  crash. The connections exist between those of Central American heritage in Los
+  Angeles and families in the region. This project creates jobs by linking the
+  two groups through trade. The typical multiplier used for job creation is 2.5
+  for each new enterprise (We are assuming $50,000 in additional sales on
+  average per company. Also, for service companies, the multiplier is that for
+  every direct job created, it will generate 2.5 indirect jobs. This project
+  will create a group of successful entrepreneurs who can branch out into other
+  business opportunities and inspire others in the Central American community.  
+Which of LA2050’s resources will be of the most value to you?:
+  - Access to the LA2050 community
+  - Host public events or gatherings
+  - Communications support
+Please list the organizations collaborating on this proposal.: |-
+  Loyola Marymount
+  USC Blackstone Launch Pad
+Which metrics will your submission impact?:
+  - Global cultural and economic influence (“soft power”)
+  - Minority- and women-owned businesses
+  - High-growth startups
+Are there any other LA2050 goal categories that your proposal will impact?:
   - LA is the best place to LEARN
-year: 2019
+year: 2020
 category: create
 filename: community-vitalization-council
-order: 5
+order: 8
 
 ---

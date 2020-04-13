@@ -1,129 +1,129 @@
 ---
-is_test_data: true
-application_id: '3611796446'
-title: LARB/USC Publishing Workshop
-project_description: >-
-  Our Publishing Workshop is committed to recruiting and training
-  underrepresented students looking to start careers in publishing. We increase
-  access to an industry traditionally centered in New York City and built on
-  unpaid internships, legacy connections, and workshops that offer little to no
-  financial aid. By contrast, we work to ensure that all qualified participants
-  can participate regardless of their finances. We concentrate especially on
-  building the publishing industry here in LA.
-organization_name: Los Angeles Review of Books
-organization_description: Non-profit organization
-project_video: 'https://www.youtube.com/watch?v=mblPvTBTug4'
-link_newsletter: 'https://lareviewofbooks.org/newsletter'
-organization_website: 
-  - 'https://www.lareviewofbooks.org'
-  - 'http://thepublishingworkshop.com'
-organization_twitter: '@LAReviewofBooks'
-organization_facebook: 'https://www.facebook.com/losangelesreview/'
-organization_instagram: '@lareviewofbooks'
+application_id: '6829199879'
+title: Los Angeles Review of Books Publishing Workshop
+organization_description: Nonprofit
+project_video: 'https://youtu.be/bT1LqoeupZg'
 link_donate: 'https://lareviewofbooks.org/donate'
 link_volunteer: 'https://lareviewofbooks.org/get-involved'
-organization_activity: >-
-  LARB is dedicated to promoting and disseminating rigorous, incisive, and
-  engaging writing on literature and the arts, and to increasing access to and
-  diversifying the cultural conversation.
-project_proposal_description: >-
-  Our Publishing Workshop has made a difference in many lives, helped place its
-  graduates at the Hill Nadell Agency, Les Figues Press, Red Hen Press, Prospect
-  Park Books, and Amazon Books, and has helped found Podcast Review, Soap Ear,
-  BookSwell (an LA literary calendar and community forum), Tint, The Los Angeles
-  Press (a press for women), and a number of other journals and publishing
-  houses. Outcaste Press is a publishing house we helped develop in 2017.
-  Earlier this year founder Varsha Ayyar reflected, “I am a triple Dalit: a
-  feminist in a highly misogynist country, an ‘untouchable’ in a deeply
-  hierarchical society, and a Brown woman from the Global South,” and “LARB
-  embraced me, my proposal, my dream.” With the help and encouragement of the
-  LARB/USC Publishing Workshop, Varsha’s dream of building the first anti-caste
-  feminist press based out of India became fully realized as one of LARB Books’
-  very first imprints. Outcaste is the first international Dalit feminist press
-  committed to promoting anti-caste principles worldwide and to bringing global
-  attention to Dalit women’s writings. 
-   
-   
-   
-   We at LARB have likewise helped jump-start and sustain the careers of many hundreds of local writers and artists who have written for us and who we have featured in our pages. As an organization, LARB has grown from a tiny operation in our founder’s basement and a simple idea—that the world needed to find a replacement for the dying newspaper-based book review—to one of the handful most important reviews of books and culture today, with an audience in virtually every country in the world. We have received congratulatory messages and accolades from people as different as Justice Ruth Bader Ginsberg, Cameron Diaz, Alain Badiou, Tom Hanks, David Lynch, Lena Dunham, and professors at Yale and UC Berkeley law schools; organizations like the National Book Critics Circle, the Columbia Journalism Review, and the NEA; periodicals like Forbes, Chronicle of Higher Education, The New Yorker, New Republic, LA Times, NY Times, Slate, and others; and authors Margaret Atwood, Salman Rushdie, James Ellroy, Ta-Nahisi Coates, Joyce Carol Oates, Pico Iyer, John Green, Juan Felipe Herrera, and many others.
-project_areas:
-  - Central LA
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-  - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
-project_la2050_community_resources:
-  - >-
-    Communications support, including traditional media, social media, and
-    LA2050 newsletter
-  - Publicity/awareness
-project_innovation_stage: Expand existing program (expanding and continuing ongoing successful projects)
-project_collaborators:
-  - University of Southern California
-project_measure: >-
-  To gauge the impact of the grant and program on the literary community, we
-  will track the job placement of our all of our alumni, as we have for the past
-  two years, through faculty outreach, networking events, surveys, and our
-  alumni newsletter. All 60 students we anticipate admitting in 2019 will be
-  invited to participate in written or video exit surveys upon completion of the
-  program. LARB will also evaluate program planning and efficacy overall through
-  quarterly performance evaluations by LARB leadership of program staff;
-  student, speaker, and faculty surveys assessing the program and personnel; and
-  program review by an outside observer, our USC faculty liaison, David St.
-  John. As of this year, the Publishing Workshop has hosted over 110 visiting
-  speakers and panelists, trained 101 total students and provided the resources
-  and support for eleven ongoing publishing projects founded, run and sustained
-  by the students themselves. We plan to incubate 8-10 new projects in 2019,
-  bringing our total output to roughly 20 new literary ventures, and will
-  continue to keep track of and promote all successful publications that come
-  out of the workshop. This year, with a larger student pool and expanded
-  curriculum, we expect to help usher even more innovative, cuttingedge
-  publications and publishing enterprises into the world.
-ein: 90-0977045
-mailing_address_street: '6671 Sunset Blvd., Suite 1521'
+link_newsletter: 'https://lareviewofbooks.org/newsletter'
 mailing_address_city: Los Angeles
+mailing_address_street: '6671 Sunset Blvd., Suite 1521'
+ein: '900977045'
+organization_name: Los Angeles Review of Books
 mailing_address_state: California
 mailing_address_zip: '90028'
-project_proposal_best_place: >-
-  The LARB/USC Publishing Workshop is a three-week course on book, magazine, and
-  online publishing, followed by a five-week Project Incubator. We are dedicated
-  to increasing access to a creative industry traditionally based on the East
-  Coast. Comparable courses focus primarily on New York, provide scant financial
-  aid, and replicate the troubling homogeneity of the industry at large. (The
-  Columbia Publishing Course, for example, was 85% white in 2016.) LARB
-  celebrates West Coast publishing and awarded scholarships to 89% of our 2018
-  cohort, half of whom are people of color. Maintaining this commitment requires
-  constant fundraising and outreach. LARB has worked primarily with local
-  universities and foundations to create 16 full scholarships this year; we have
-  unmet need for another 30.
-   
-   
-   
-   The Workshop features 50+ leaders in publishing from the LA Times, Jack Jones Literary Arts, Buzzfeed, Coffee House, UC Press, local presses, big New York houses, and academics studying digital culture, and more; a visit to a local press; and seminars in everything from designing books to building budgets. We will also host the inaugural Little Literary Book Fair, a one-day, public celebration of many exciting, diverse local presses, such as Kaya, Tia Chucha, Tsehai, and World Stage. We match our Incubator Fellows with industry mentors who guide the development of their proposed ventures. We have helped launch projects such as Tint, dedicated to ESL writers; BookSwell; and Outcaste Books, an Indian anti-caste feminist press.
-   
-   
-   
-   LARB works with alumni year-round, even as we prepare for a new cohort of fellows. 
-   
-   
-   
-   In the fall, we revise the curriculum and marketing materials; reach out to universities for recruitment and scholarships; and apply for grants. In the winter, our application portal, ads, and social media campaigns go live, and we visit local colleges. By April, we review applications, determine financial aid, and finalize enrollment, speakers, and the schedule. In July, we welcome 50-60 participants, most of whom are in their 20s and 30s, to our program. The majority are local, but we also welcome participants from all over the country and world. 
-   
-   
-   
-   LARB reaches 7 million readers in 170 countries. Using our global influence to celebrate the LA cultural scene is central to our mission. Amplifying the creative opportunities LA affords, the Workshop will increase employment in creative industries, minority- and women-owned firms, arts establishments, and LA’s soft power globally. In addition to our course, we offer an extensive directory, local networking events, a biweekly newsletter with job listings, and continued mentorship. The percentage of local students that remain after graduating will also increase through the tools and networks we provide. UCI has even reported that our collaboration has assisted with recruitment for their doctoral programs. More impact is discussed in the next section.
-category_metrics:
+organization_website: 'https://www.lareviewofbooks.org'
+organization_twitter: '@lareviewofbooks'
+organization_facebook: 'https://www.facebook.com/lareviewbooks/'
+organization_instagram: '@lareviewofbooks'
+Please describe the mission of your organization.: >-
+  The Los Angeles Review of Books promotes and disseminates rigorous and
+  engaging writing on literature and the arts. A vibrant, multimedia platform,
+  LARB covers, represents, and shapes today’s cultural landscape in a manner
+  that reflects Los Angeles's catholicity of taste and embrace of diversity.
+project_description: >-
+  The LARB Publishing Workshop is a three-week intensive summer course offering
+  students a comprehensive overview of how the publishing industry works and
+  where it is heading. Our curriculum and program of speakers reflect LARB’s
+  commitment to innovation, inclusivity, and independent literary production,
+  featuring students and leading professionals from wide-ranging backgrounds and
+  a robust scholarship program. Our goal is to train a new, diverse, and
+  forward-thinking generation of publishing professionals here in Los Angeles.
+Which LA2050 goal will your submission most impact?: LA is the best place to CREATE
+In which areas of Los Angeles will you be directly working?:
+  - Central LA
+In what stage of innovation is this project?: >-
+  Expand existing program (expanding and continuing ongoing successful projects
+  or programs)
+What is the need you’re responding to?: >-
+  The publishing industry shapes the stories we read and determines whose
+  stories we encounter. As a result, its acute lack of diversity—predominantly
+  white (76%), straight (81%), and non-disabled (89%)—raises concerns about not
+  only its hiring practices, but also its cultural gatekeeping. Recent literary
+  controversies have borne out such concerns, highlighting troubling blindspots
+  in how publishers treat authors of color and stories about people of color. 
+
+
+  At LARB, we see the lack of diversity within publishing as partly a function
+  of its traditionally high financial bar of entry. Publishing, centered largely
+  in New York City, has historically been built on unpaid internships or
+  underpaid jobs, legacy connections, and expensive programs that offer little
+  to no financial aid. We created the Publishing Workshop to train and support
+  talented students regardless of their finances or location, and, in doing so,
+  to highlight the innovative work of independent publishers here in LA. 
+Why is this project important to the work of your organization?: >-
+  Democratizing access to the smart, vibrant exchange of ideas is the
+  cornerstone of LARB. Our flagship magazine gives voice to more socially and
+  intellectually diverse writers than the legacy outlets. We provide free online
+  content to six million readers annually in all 50 states and 200+ countries.
+  Our civic arts programs, the Publishing Workshop and the Little Literary Fair
+  (LITLIT), were created to advance the next generation of writers, editors, and
+  publishers with the same commitment to access and creative exchange in mind.
+
+  LARB is uniquely situated to offer the Publishing Workshop because of our
+  professional relationships and the extensive network of community support we
+  have established over the years. We welcome 60 leading publishing
+  professionals from all over the industry every year and offer 90% of students
+  financial aid through the support of LARB’s readers, eight university
+  partnerships, individual sponsors, and grant funders including the LA
+  Department of Arts and Culture.
+Please explain how you will define and measure success for your project.: >-
+  Success to us means:
+
+  —Meeting admitted fellows’ need for tuition assistance. We measure this
+  through a review process where we evaluate statements of need and finances,
+  and work with students, donors, and institutional partners on a case-by-case
+  basis to establish funding packages that make attendance possible. 
+
+
+  —Seeing our fellows flourish in publishing jobs. Through a biweekly
+  newsletter, monthly events, and comprehensive directory, we continue to
+  support our students and celebrate their career achievements as they’ve gone
+  on to work at places such as Jack Jones Literary Arts, Palgrave Macmillan,
+  Prospect Park Books, Stanford University Press, W.W. Norton, and many more.
+
+
+  —Helping fellows launch new creative ventures in publishing. Through our
+  project incubator programs and tailored workshops on entrepreneurship, we’ve
+  fostered nearly two dozen magazines, publishing houses, websites, workshops,
+  and residencies, both in the U.S. and abroad.
+
+
+  —Building a diverse and supportive community within the publishing industry.
+  Through the application process, we’ve learned that they’ve joined us from all
+  over the U.S. and nine other countries; half are people of color (versus 15%
+  in similar programs); and many can only attend through varying levels of
+  financial assistance. By maintaining our alumni network, we know that they’ve
+  gone on to work together on projects, find jobs and mentorship with our
+  speakers and faculty, and a few have even returned to staff the Publishing
+  Workshop itself. 
+Approximately how many people will be directly impacted by this proposal?: '60'
+Approximately how many people will be indirectly impacted by this proposal?: '120000'
+Please describe the broader impact of your proposal.: >-
+  Our emphasis is on creating access for students underrepresented in the
+  publishing industry and amplifying the work of independent publishers. Fellows
+  that we train this year will go on to be the next generation of publishing
+  professionals and leaders both in LA and across the country. If an average of
+  75% of this year's cohort go on to careers in publishing, we estimate that in
+  the course of their careers they will have a hand in the careers of 120,000+
+  writers, and countless readers across the globe. As editors, agents,
+  publicists, designers, and marketers, LARB Publishing Workshop Fellows will
+  enter a rapidly changing field and shape its future into one that is
+  inclusive, diverse, and reflective of the world we live in.
+Which of LA2050’s resources will be of the most value to you?:
+  - Access to the LA2050 community
+  - Host public events or gatherings
+  - Communications support
+Please list the organizations collaborating on this proposal.: ''
+Which metrics will your submission impact?:
+  - 'Arts establishments, instillations, and exhibitions'
   - Employment in the creative industries
-  - Minority- and women-owned firms
-  - Arts establishments per capita
-category_other:
+  - Minority- and women-owned businesses
+Are there any other LA2050 goal categories that your proposal will impact?:
   - LA is the best place to LEARN
-  - LA is the best place to CONNECT
-year: 2019
+year: 2020
 category: create
 filename: los-angeles-review-of-books
-order: 18
+order: 23
 
 ---

@@ -5,6 +5,7 @@ let fs = require('fs');
 // let mkdirp = require('mkdirp');
 let parse = require('csv-parse/lib/sync');
 let yaml = require('js-yaml');
+let mkdirp = require("mkdirp");
 // let request = require("request");
 
 function changeNAtoEmpty(data) {
@@ -76,6 +77,7 @@ function getArrayFromString(string) {
   string = string
     .replace('undefined:1', '')
     .replace("\"open spaces\"", "“open spaces”")
+    .replace("\"Disengaged youth\"", "“Disengaged youth”")
     .replace(/^"/g, '')  // Remove leading quote
     .replace(/"$/g, '')  // Remove trailing quote
     .replace(/', '/g, '", "') // Change single quotes into double quotes (since that’s require for valid JSON)
@@ -100,8 +102,11 @@ function getRandomInt(min, max) {
 }
 
 function getOrganizationType(type) {
-  console.log("getOrganizationType: " + type);
+  // console.log("getOrganizationType: " + type);
   const organizationTypesMap = {
+    "Decision:"
+    :"decision",
+
     "for profit"
     :"For profit business",
 
@@ -134,16 +139,19 @@ function getOrganizationType(type) {
   }
 
   if (organizationTypesMap[type.toLowerCase()]) {
-    console.log("organizationTypesMap[type.toLowerCase()]: " + organizationTypesMap[type.toLowerCase()]);
+    // console.log("organizationTypesMap[type.toLowerCase()]: " + organizationTypesMap[type.toLowerCase()]);
     return organizationTypesMap[type.toLowerCase()];
   } else {
-    console.log("Unexpected organization type: " + type);
+    // console.log("Unexpected organization type: " + type);
     return type;
   }
 }
 
 function mapAllColumnNames(data) {
   const columnNamesMap = {
+    'Application id':
+    'application_id',
+
     "Project Title"
     :"title",
 
@@ -153,7 +161,7 @@ function mapAllColumnNames(data) {
     "Enter your video URL here:"
     :"project_video",
 
-    "Please share a direct link for people to donate to your organization:"
+    "Please share a direct link for people to donate to your organization: "
     :"link_donate",
 
     "Please share a direct link for people to sign up for volunteer opportunities:"
@@ -179,9 +187,6 @@ function mapAllColumnNames(data) {
 
     "Organization Details: | ZIP:"
     :"mailing_address_zip",
-
-    "Application id"
-    : "application_id",
 
     "How can people reach your organization online? | Organization(s) website(s):"
     : "organization_website",
@@ -212,7 +217,7 @@ function mapAllColumnNames(data) {
     //:"Which of the following CREATE metrics will your proposal impact?",
     :"create_metrics",
 
-    "4. Which of the following LEARN metrics will your proposal impact?"
+    "4. Which of the following LEARN metrics will your proposal impact? "
     //:"Which of the following LEARN metrics will your proposal impact?",
     :"learn_metrics",
 
@@ -224,10 +229,10 @@ function mapAllColumnNames(data) {
     //:"Which of the following PLAY metrics will your proposal impact?",
     :"play_metrics",
 
-    "5. Please select any other LA2050 goal categories your proposal will impact"
-    :"Are there any other LA2050 goal categories that your proposal will impact?",
+    // "5. Please select any other LA2050 goal categories your proposal will impact"
+    // :"Are there any other LA2050 goal categories that your proposal will impact?",
 
-    "6. In which areas of Los Angeles will you be directly working?"
+    "6. In which areas of Los Angeles will you be directly working? "
     :"In which areas of Los Angeles will you be directly working?",
 
     "7. In what stage of innovation is this project?"
@@ -236,22 +241,22 @@ function mapAllColumnNames(data) {
     "8a. What is the context for this project? What is the need you’re responding to?"
     :"What is the need you’re responding to?",
 
-    "8b. Why is this project important to the work of your organization? Why is your organization uniquely suited to take this on?"
+    "8b. Why is this project important to the work of your organization? Why is your organization uniquely suited to take this on? "
     :"Why is this project important to the work of your organization?",
 
     "9. Please explain how you will define and measure success for your project. What is your vision for success for this project?"
     :"Please explain how you will define and measure success for your project.",
 
-    "11. Approximately how many people will be‰Û_ | a. Directly impacted by this proposal? (#)"
+    "11. Approximately how many people will be… | a. Directly impacted by this proposal? (#)"
     :"Approximately how many people will be directly impacted by this proposal?",
 
-    "11. Approximately how many people will be‰Û_ | b. Indirectly impacted by this proposal? (#)"
+    "11. Approximately how many people will be… | b. Indirectly impacted by this proposal? (#)"
     :"Approximately how many people will be indirectly impacted by this proposal?",
 
     "12. Please describe the broader impact of your proposal. Depending on your proposal, you may want to include a description of its impact on the environment and physical space, its impact on policy, impact on the future of the city, a description of the population being served by this proposal, an explanation of the numbers provided in question 11, or other intangibles."
     :"Please describe the broader impact of your proposal.",
 
-    "15. LA2050 will serve as a partner on this project. Which of LA2050’s resources will be of the most value to you?"
+    "15. LA2050 will serve as a partner on this project. Which of LA2050’s resources will be of the most value to you? "
     :"Which of LA2050’s resources will be of the most value to you?",
 
     "Please list the organizations collaborating on this proposal:"
@@ -351,12 +356,16 @@ function mapAllColumnNames(data) {
 
 function createMarkdownFile(data) {
 
-  // if (data["Current stage"] !== "Voting Period") return;
+  if (data["Current stage"] !== "Moderation Process" ||
+      data["Decision:"]     !== "Approved") return;
+
+  // data.application_id = getApplicationID(data) || "";
 
   mapAllColumnNames(data);
 
   data = changeNAtoEmpty(data);
   data = addMailTo(data);
+  
 
   let filename = stringToURI(data.organization_name).replace(/^åê/g, "").replace(/åê$/g, "");
 
@@ -370,9 +379,9 @@ function createMarkdownFile(data) {
 
   data.organization_description = getOrganizationType(data.organization_description);
 
-  console.log("data.organization_description: " + data.organization_description);
+  // console.log("data.organization_description: " + data.organization_description);
 
-  console.log('createMarkdownFile for ' + data.organization_name);
+  // console.log('createMarkdownFile for ' + data.organization_name);
 
   // Page title
   //data.title = data.title + ' — My LA2050 Grants Challenge';
@@ -411,6 +420,14 @@ function createMarkdownFile(data) {
   ];
 
   const reducer = (accumulator, currentValue) => accumulator.concat(currentValue);
+  
+  // if (filename == "the-urban-warehouse") {
+  //   console.log({answer: data["5. Please select any other LA2050 goal categories your proposal will impact (a)"]});
+  //     console.log(data["5. Please select any other LA2050 goal categories your proposal will impact (b)"]);
+  //       console.log(data["5. Please select any other LA2050 goal categories your proposal will impact (c)"]);
+  //         console.log(data["5. Please select any other LA2050 goal categories your proposal will impact (d)"]);
+  //           console.log(data["5. Please select any other LA2050 goal categories your proposal will impact (e)"]);
+  // }
 
   let metrics_other = metricsOtherColumns
     .map(name => getArrayFromString(data[name]))
@@ -500,17 +517,21 @@ function createMarkdownFile(data) {
   data.order = orderCursors[data.category]++;
 
   // if (!data.project_image) data.project_image = '/assets/images/' + category + '/' + filename + '.jpg';
-
+  
+  
   let toDelete = [
+    '# Applicants',
+    'Decision:',
+    'Current stage',
     `ABOUT YOU *  | Your name:`,
     `ABOUT YOU *  | Your phone number:`,
     `ABOUT YOU *  | Your email:`,
     `Has your organization previously applied for a My LA2050 grant? Check all that apply*:`,
     `How large is your organization?*`,
     `If yes, how many collaborators are involved in this proposal? `,
-    `Is this proposal a collaboration?`,
+    `Is this proposal a collaboration? `,
     `What is your organization‰Ûªs annual operating budget?*`,
-    `10. Please provide a timeline and description of the activities for this project (for the duration of the grant period - approx. July 2020 - July 2021; a high-level summary is sufficient).`,
+    `10. Please provide a timeline and description of the activities for this project (for the duration of the grant period - approx. July 2020 - July 2021; a high-level summary is sufficient). `,
     `13. Please include a line-item budget describing how you will use the grant funding to implement your project or activities. Please provide a budget assuming your organization wins the full $100,000 grant. `,
     `Has your organization previously applied for a My LA2050 grant? Check all that apply*`,
     `How can people reach these organizations online? | Organization(s) Facebook page(s):`,
@@ -557,10 +578,33 @@ function createMarkdownFile(data) {
     // 'connect_other',
     // 'live_other'
   ];
-
+  
+  
   toDelete.forEach(name => {
     delete data[name];
   })
+
+//   for (let key of Object.keys(data)) {
+//     if (typeof(data[key]) !== "string") continue;
+//     data[key] = data[key].replace(/\\r\\n/g, `
+// `);
+//   }
+
+
+
+// if (filename == "the-urban-warehouse") {
+//   console.log(data["Please explain how you will define and measure success for your project."]);
+// }
+
+  // for (let key of Object.keys(data)) {
+  //   if (typeof(data[key]) !== "string") continue;
+  // 
+  //   // if (data[key].startsWith(`"`) && data[key].endsWith(`"`)) {
+  //   //   console.log("Data start with a quote");
+  //   // }
+  //   // console.log(data[key]);
+  //   // data[key] = data[key].replace(/^"/g, "").replace(/"$/g, "");
+  // }
 
   // const applicationIDs = {
   //   'Los Angeles Conservation Corps': '5962365920',
@@ -570,25 +614,42 @@ function createMarkdownFile(data) {
 
   // console.dir(data);
   let writePath = '../_' + data.year + '/' + data.category; // Example: _/2019/connect
+  
+  
+  while (data.application_id != "" && data.application_id.length < 10) {
+    data.application_id = `0${data.application_id}`;
+  }
+  data.application_id = String(data.application_id);
 
-  // https://www.npmjs.com/package/js-yaml#safedump-object---options-
-  let output =
+  try {
+    // if (!data.application_id) throw new Error("application_id is missing");
+    // https://www.npmjs.com/package/js-yaml#safedump-object---options-
+    let output =
 `---
 ${yaml.safeDump(data)}
 ---
 `
 
-  // mkdirp(writePath, function (err) {
-  //   if (err) {
-  //     console.error(err);
-  //   } else {
-      fs.writeFileSync(writePath + '/' +  filename + '.md', output, 'utf8', (err) => {
+    createFile({ writePath, filename, output });
+  } catch (error) {
+    console.log("Couldn’t create file for: " + data.title);
+    console.error(error);
+  }
+}
+
+function createFile({ writePath, filename, output }) {
+  mkdirp(writePath)
+    .then(made => {
+      // console.log(`made directories, starting with ${made}`
+      fs.writeFileSync(`${writePath}/${filename}.md`, output, 'utf8', (err) => {
         if (err) {
           console.log(err);
         }
       });
-  //   }
-  // });
+    })
+    .catch(error => {
+      throw error;
+    });
 }
 
 let orderCursors = {
@@ -673,10 +734,44 @@ function generateCollections(file_path) {
 
   for (let index = 0; index < records.length; index++) {
     let data = fixDataCharacters(records[index]);
+    // console.log(`Current stage: ${data["Current stage"]}`);
+    // console.log(`Decision: ${data["Decision:"]}`);
     createMarkdownFile(data);
   }
   return records;
 }
 
-generateCollections('../../_data/Entries in the 2020 My LA2050 Grants Challenge (test batch) - helloooooo_Feb 6 2020 12_16 PM (PST).csv');
+const recordsWithApplicationID = parse(fs.readFileSync('../../_data/application_id.csv', 'utf8'), {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
+function getApplicationID(data) {
+  let matches = [];
+  function alphaOnly(string) {
+    if (!string) return;
+    if (string === "Sprouts of Promise") string = "Sprouts of Promise Foundation";
+    if (string === "LIFT-LA") string = "LIFT-Los Angeles"; 
+    if (string === "Lauren Arevalo-Downes") string = "Lauren Arevalo";
+    return string.toLowerCase().replace(/[^a-z]/g, "");
+  }
+  for (let record of recordsWithApplicationID) {
+    // if (data["ABOUT YOU *  | Your name:"] === "Lauren Arevalo") {
+    //   console.log(alphaOnly(record["User"]));
+    //   console.log(alphaOnly(data["ABOUT YOU *  | Your name:"]));
+    // }
+    if (alphaOnly(record["Application"]) === alphaOnly(data["Organization Details: | Organization name: *"]) ||
+        alphaOnly(record["User"]) === alphaOnly(data["ABOUT YOU *  | Your name:"]) ||
+        alphaOnly(record["Email"]) === alphaOnly(data["ABOUT YOU *  | Your email:"])
+      ) {
+      matches.push(record["Application ID"]);
+    }
+  }
+  if (matches.length === 1) {
+    // console.log("Found one match: " + data["Organization Details: | Organization name: *"]);
+    return matches[0];
+  }
+  if (matches.length > 1) {
+    console.log("Found multiple matches for: " + data["Organization Details: | Organization name: *"]);
+  } else {
+    console.log("Couldn’t find application ID for: " + data["Organization Details: | Organization name: *"]);
+  }
+}
+generateCollections('../../_data/2020 Challenge Proposals, from SM Apply, with Decision and ID - forjim_Apr 12 2020 06_49 PM (PDT).csv');
 

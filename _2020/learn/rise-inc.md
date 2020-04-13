@@ -1,154 +1,154 @@
 ---
-is_test_data: true
-application_id: '2132049121'
-title: >-
-  Inspiring Student Action to End Student Homelessness and Hunger in L.A.
-  Through Awareness and Coordinated Services Integration
-project_description: >-
-  Even with significant financial aid, many college students in Los Angeles are
-  without stable shelter (20% of community college students) or food insecure.
-  The inability to cover basic needs has decreased graduation rates,
-  overwhelmingly affecting students from low and middle income families. Rise
-  will raise awareness and utilization of the housing and food programs
-  available to students and drive additional resources to address these issues,
-  ultimately increasing higher education accessibility.
-organization_name: 'Rise, Inc.'
-organization_description: Non-profit organization
-project_video: >-
-  https://www.facebook.com/RiseFreeOrg/videos/299798094036117/UzpfSTIxMjY4MTA5MjU5MjU2OTo1MjU2NjYzNTEyOTQwNDA/
-link_newsletter: 'https://risefree.org/go/join/'
-organization_website: 'https://www.risefree.org'
-organization_twitter: '@risefreeorg'
-organization_facebook: www.facebook.com/RiseFreeOrg/
-organization_instagram: '@risefreeorg'
+application_id: '8674045583'
+title: Scaling Student Advocacy to End Campus Hunger and Homelessness
+organization_description: Nonprofit
+project_video: 'https://www.youtube.com/watch?v=FvvyUmG90WM&feature=youtu.be'
 link_donate: 'https://risefree.org/go/donate/'
 link_volunteer: 'https://risefree.org/go/get-involved/'
-organization_activity: >-
-  Rise is a student-led nonprofit working to ensure that all students can earn a
-  higher education by advocating for policies that make public higher education
-  free.
-project_proposal_description: >-
-  In 2018, Rise’s students led an unprecedented campaign to stop tuition hikes
-  at the CSU (3.8% prospective hike) and UC (2.5% prospective hike) that were
-  previously approved by each system’s governing board and would have affected
-  over 700,000 students.
-   
-   
-   
-   Between January and June of 2018, Rise led more than 15 lobbying trips for students to participate in legislative hearings and meet directly with state legislators to demand more state funding for public higher education. 
-   
-   
-   
-   One of those students was Sadia Khan. Sadia is the daughter of Pakistani immigrants, and comes from what she describes as a “very low-income background." Her father worked as a farm laborer to provide for the family, and more than anything wanted his children to receive an education. When her father died from a terminal illness during her 1st semester at San Bernardino Valley College, Sadia knew she had to keep her promise to her dad to get a higher education. Unfortunately, a year later, Sadia was raped and became pregnant, forcing her to take time off from school so that she could give birth to her son.
-   
-   
-   
-   Finally, in the spring of 2017, Sadia was accepted to Berkeley as a 3rd-year transfer student. A holdup with her FAFSA left Sadia, a single parent, homeless and struggling to afford food. For the first 2 weeks of the semester, she slept on the floor of her friend’s 8-person, off-campus house and went to the food bank on campus for her meals. Overwhelmed by the stress of her financial insecurity, Sadia finally took out a $6,000 personal loan.
-   
-   
-   
-   Along with 15 to 20 other Berkeley students, Sadia rode a bus to the Sacramento Capitol building in March 2018 to attend a public hearing for the 2018-2019 education budget proposals. In her testimony, Sadia ran through her experiences since arriving on campus: struggling to afford food and housing and taking out loans just to cover the expenses her financial aid would have been allocated to had it not been delayed.
-   
-   
-   
-   By June of 2018, the tuition increases slated for the CSU and UC systems were taken off the table after Rise students like Sadia showed up together to personally share with legislators the increased burden it would place on them. 
-   
-   
-   
-   This is how Rise harnesses student power to create change.
-project_areas:
+link_newsletter: 'https://risefree.org/go/get-involved/'
+mailing_address_city: Los Angeles
+mailing_address_street: PO Box 361580
+ein: 82-1876815
+organization_name: "Rise,\_Inc."
+mailing_address_state: California
+mailing_address_zip: '90036'
+organization_website: 'https://www.risefree.org'
+organization_twitter: '@risefreeorg'
+organization_facebook: 'https://www.facebook.com/RiseFreeOrg/'
+organization_instagram: '@risefreeorg'
+Please describe the mission of your organization.: >-
+  Rise is a student-led nonprofit organization advocating for policies that make
+  public higher education free and accessible to all.
+project_description: >-
+  Rise is building an online training program to teach college students how to
+  address student hunger and homelessness on their campus. We will prepare 40
+  student organizing fellows--predominantly students of color and students from
+  low-income backgrounds--to train 25 students each to advocate for solutions to
+  campus hunger and homelessness. Rise’s digital curriculum and training program
+  will enable students to lead campaigns even if their campuses do not reopen
+  during the grant period because of the coronavirus.
+Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
+In which areas of Los Angeles will you be directly working?:
+  - Central LA
+  - East LA
+  - South LA
+  - Westside
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-project_la2050_community_resources:
-  - Access to LA2050 community
-  - >-
-    Host public events on the topic your organization’s issue area (e.g. access
-    to capital, education reform, clean energy, etc.) 
-  - >-
-    Communications support, including traditional media, social media, and
-    LA2050 newsletter
-  - Publicity/awareness
-project_innovation_stage: >-
-  Lateral application (testing feasibility of a proven action/solution to a new
-  issue or sector)
-project_collaborators: ''
-project_measure: >-
-  Rise’s mission is to make higher education accessible to all - and the first
-  step of this mission is to ensure that students’ basic needs, food and
-  shelter, are met. Solving for these basic needs will allow students from low
-  and middle-income families to focus on their education as opposed to simply
-  surviving. It will take some time to see increased college matriculation and
-  graduation rates, but in the first two years of the project, we will define
-  and measure success through:
-   
-   
-   
-   I) Identifying the current resources available to students in Los Angeles that address student homelessness and food insecurity
-   
-   
-   
-   II) Increasing student awareness of the resources available to them through on campus student training, organizing, events and activations. The number of student training and organizing meetings and events and activations at local community colleges/universities will be measured, as will the number of participants.
-   
-   
-   
-   III) Increasing enrollment in available programs (ex. CalFresh) and increasing utilization of available resources (ex. food pantries) through coordinated services integration. Enrollment and utilization numbers will be measured as will partnerships with service providers.
-   
-   
-   
-   In years one and two, we will collect baseline data to help us measure these outcomes. In years three through five, we will engage an external researcher to conduct a comprehensive evaluation of the activities and outcomes of the campaign and assess the effectiveness of the project.
-ein: '821876815'
-mailing_address_street: PO Box 361580
-mailing_address_city: Los Angeles
-mailing_address_state: California
-mailing_address_zip: '90036'
-project_proposal_best_place: >-
-  Rise’s campaign to end student homelessness and hunger in Los Angeles will
-  engage local community college and university students and community-based
-  service providers to take meaningful action with the ultimate goal of making
-  higher education in Los Angeles accessible to all.
-   
-   
-   
-   To the detriment of California's students, college tuition has increased exponentially since the 1980s. However, surprisingly, the greatest expense for students across the state’s higher education system isn’t tuition — it’s housing and other living costs. According to a survey recently published by researchers at the Wisconsin HOPE Lab, more than a third of college students lack stable housing and don't always have enough to eat. 
-   
-   
-   
-   To make matters worse, there is a large disparity in the financial aid given out by community colleges versus universities - the lower the tuition cost, the lower the financial aid that is granted. Because community college students are less likely to seek and qualify for federal loans, and many community colleges don’t offer them — students (and their families) are forced to come up with the remainder of the funds through work or other resources. This makes the effective cost of a community college education higher than for those who attend state colleges and universities.
-   
-   
-   
-   Given the many obstacles facing students from low and middle-income backgrounds (in addition to a full college course-load), oftentimes students are unaware of the resources available to them or discouraged by the applications processes (e.g. CalFresh, affordable housing).
-   
-   
-   
-   Rise’s “Homework not Homelessness” / “Homework not Hunger” campaign will address the student homelessness and food insecurity crises by 1) raising awareness of the resources available to students through on campus and community organizing efforts, 2) creating programs to facilitate easier application processes (ex. CalFresh) and greater utilization of resources via partnerships (ex. local food banks). The campaign will increase students’ awareness and utilization of resources, positively impacting college matriculation and graduation rates due to the increased accessibility of higher education, especially for students from low and middle-income families.
-   
-   
-   
-   Our campaign leverages our unique expertise in building winning student-led advocacy campaigns with a relentless focus on inspiring supporters and building coalitions. 
-   
-   
-   
-   Targeting: Rise identifies “pressure points” and mobilizes students’ advocacy efforts accordingly. 
-   
-   
-   
-   Inspiration: Rise inspires students and supporters through positive, aspirational messaging. 
-   
-   
-   
-   Coalitions: Rise expands our reach through partnerships with student groups. Our growing coalition represents more than 250,000 students at 55 colleges within California Community Colleges, California State Universities, and the University of California system.
-category_metrics:
-  - College and community college completion rates
-  - College matriculation rates
-category_other: []
-year: 2019
+In what stage of innovation is this project?: >-
+  Expand existing program (expanding and continuing ongoing successful projects
+  or programs)
+What is the need you’re responding to?: >-
+  As many as 1 in 5 Los Angeles Community College students experiences
+  homelessness, and 2 in 3 face food insecurity according to 2016 research from
+  the Hope Center for College, Community, and Justice. Rise’s own survey
+  research from March 2020 suggests that the coronavirus outbreak has
+  exacerbated this basic needs crisis by causing unexpected layoffs and campus
+  closures. This project will build on the basic needs advocacy campaigns Rise
+  launched on 4 college campuses with 25 student organizers in 2019 through the
+  LA2050 Grants Challenge. To meet the growing demand for basic needs programs,
+  as well as students’ overwhelming desire to participate in this advocacy, Rise
+  plans to lead an online advocacy course in 2020. In partnership with existing
+  student organizations, we will train 1,000 or more students to scale our
+  campaign to end student hunger and homelessness in Los Angeles. 
+Why is this project important to the work of your organization?: >-
+  Rise is the leading student advocacy organization dedicated to college
+  affordability. Our work is dedicated not only to the idea that all students
+  deserve to be healthy and safely housed on their path to graduation, but also
+  that student advocates are best positioned to lead this change. 
+
+
+  Outside of LA2050, Rise has led campaigns to make 2 years of community college
+  tuition-free in California and stop tuition hikes at the California State
+  University and University of California systems. However, if students in Los
+  Angeles continue to struggle with food and housing needs on a large scale,
+  those wins and policy changes will not deliver on their full potential to help
+  all students. This project is essential to fulfilling the promise of those
+  policy victories by ensuring that when we tell students that “community
+  college is free,” they know that also means they will be free from hunger and
+  homelessness on their path to graduation. 
+Please explain how you will define and measure success for your project.: >-
+  This project will succeed if we scale our LA2050 Advocacy Corps across 20 or
+  more campuses and institutionalize them with a sustainable growth model (e.g.,
+  creating partnerships with existing campus organizations that receive funding
+  as a registered student organization). This approach is crucial because Rise’s
+  first year building the LA2050 Advocacy Corps has underscored the need for
+  multi-year advocacy. Our strategy informs the metrics we have selected for
+  this project: 
+
+
+  I) Leading a high quality online advocacy course measured through pre and post
+  surveys. 
+
+
+  II) Teaching 40 student organizing fellows to lead basic needs advocacy
+  trainings via our online curriculum, measuring quality through pre and post
+  surveys of their trainees. 
+
+
+  III) Increasing the number of campuses with basic needs advocacy campaigns
+  from 4 in ‘19-’20 to 20 in ‘20-’21.
+
+
+  IV) Building a network of 1,000 student advocates through partnerships. These
+  student advocates will be trained by our student organizing fellows to carry
+  out our basic needs advocacy campaigns digitally and/or on campus.
+
+
+  V) Engaging 20,000 students in advocacy actions. In 2019, the average number
+  of students engaged by Rise’s LA2050 Advocacy Corps on any campus was ~1,000.
+  This number refers to the number of students who have taken an advocacy action
+  with Rise (e.g., signing a petition, showing up to an event, or sharing their
+  story). Applying this metric to the 2020-2021 program, Rise’s indirect reach
+  from advocacy will be at least 20,000 students (1,000 students X 20
+  campuses).  
+
+
+  VI) Measuring increases in students' access to nonprofit or public benefits
+  using data provided by campuses where Rise has an established campaign (e.g.,
+  a new food pantry at Los Angeles Trade Tech College serves 300% more students
+  by becoming permanent and full-time). 
+
+
+  When campuses deliver on the changes students advocate for, the resulting
+  increases in food and housing security among students will increase college
+  matriculation and college completion in Los Angeles. 
+Approximately how many people will be directly impacted by this proposal?: '1040'
+Approximately how many people will be indirectly impacted by this proposal?: '20000'
+Please describe the broader impact of your proposal.: >
+  Our proposal will:
+
+  - Benefit low-income communities and communities of color: If these
+  communities can access basic needs resources, they will be more likely to
+  enroll in and graduate from college, creating a more equitable higher
+  education system in Los Angeles.
+
+  - Destigmatize student hunger and homelessness: By changing the cultural
+  perception of hunger and homelessness, we are creating a safe place for
+  students to come forward and seek help, as opposed to feeling shame and
+  isolation. 
+
+  - Highlight institutional responsibility and action: Our advocacy puts
+  pressure on higher education institutions to stay true to their commitment to
+  student learning by investing resources in the basic needs that students
+  require to graduate. 
+Which of LA2050’s resources will be of the most value to you?:
+  - Access to the LA2050 community
+  - Host public events or gatherings
+  - Communications support
+  - 'Office space for meetings, events, or for staff'
+Please list the organizations collaborating on this proposal.: ''
+Which metrics will your submission impact?:
+  - College matriculation
+  - Community college completion
+Are there any other LA2050 goal categories that your proposal will impact?: []
+year: 2020
 category: learn
 filename: rise-inc
-order: 26
+order: 60
 
 ---

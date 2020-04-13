@@ -121,7 +121,7 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
   <em>The submission period is complete.</em>
 </p>
 <p>
-  <a href="/entries/">Check out the entries</a>.
+  <a href="/entries/">Check out the proposals</a>.
   Voting begins on
   <span class="avoid-break">
     <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
@@ -145,7 +145,7 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
   <em>The public voting period is complete.</em>
 </p>
 <p>
-  <a href="/entries/">Check out the entries</a>.
+  <a href="/entries/">Check out the proposals</a>.
   Winners will be announced on 
   <span class="avoid-break">
     <strong>{{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
@@ -212,7 +212,7 @@ Starting <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</
   <em>The public voting period is complete.</em>
 </p>
 <p>
-  <a href="/entries/">Check out the entries</a>.
+  <a href="/entries/">Check out the proposals</a>.
   Winners will be announced on 
   <span class="avoid-break">
     <strong>{{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.

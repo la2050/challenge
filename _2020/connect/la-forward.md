@@ -1,156 +1,139 @@
 ---
-is_test_data: true
-application_id: '7136676533'
-title: LA 101 Guide
-project_description: >-
-  Building on the success of our own ballot guides and the national Indivisible
-  Guide, we’ll create the LA 101 Guide and make the center of a 10-month
-  campaign to convey how local government really works and how you can make a
-  difference. It’ll cover key elected and appointed officials, the main levers
-  of powers, how can average citizens make an impact, and more. It’ll be
-  available through multiple languages and media, including an interactive
-  website and serialized social media posts.
-organization_name: LA Forward
-organization_description: Non-profit organization
+application_id: '7521434661'
+title: The LA 101 Guide to Local Government and Civic Engagement
+organization_description: A fiscally sponsored group
 project_video: ''
-link_newsletter: 'https://www.losangelesforward.org/'
+link_donate: secure.actblue.com/donate/laforward
+link_volunteer: losangelesforward.org/get-involved-in-rapid-response
+link_newsletter: losangelesforward.org/newsletter
+mailing_address_city: Los Angeles
+mailing_address_street: '3660 Wilshire Boulevard, Suite 602'
+ein: '954781974'
+organization_name: LA Forward
+mailing_address_state: California
+mailing_address_zip: '90010'
 organization_website: 'https://www.LosAngelesForward.org'
 organization_twitter: '@LosAngelesFwd'
 organization_facebook: 'https://www.facebook.com/losangelesforward'
 organization_instagram: '@LAForward'
-link_donate: 'https://secure.actblue.com/donate/laforward'
-link_volunteer: 'https://www.losangelesforward.org/'
-organization_activity: >-
-  LA Forward activates a rising generation of Angelenos to join social justice
-  movements that are striving to transform Los Angeles into a fair, flourishing
-  place for everyone.
-project_proposal_description: >-
-  LA Forward is rooted in the belief that all our lives are linked, wherever we
-  reside and work in our county. We rise and fall together. So we believe in
-  bringing people together to collectively shift the systems that have held us
-  back and produced injustice.
-   
-   
-   
-   Ben and Jessica’s story illuminates how that works in practice. Living on the Westside and raising two small children, they’d been civically disconnected before 2016. Working for a solar energy company and a UCLA autism clinic, they’d assumed things were on track to get better nationally and locally. Their only form of civic engagement was voting in major elections. And while they used LA Forward’s ballot guide for local and state propositions, their attention was on national issues. 
-   
-   
-   
-   Jolted by the 2016 election, they knew they wanted to get involved but they didn’t know how. After a few frustrating attempts at involvement with local chapters of national groups, they came to a LA Forward house party about Civics101 and decided to become LA Forward members. At first, they felt like they didn’t know what they were doing. But they were glad for the community, including people with more civic experience. They went from attending marches to registering voters at marches to actually empowering the parents of their kids’ classmates to gathering hundreds signatures for a key ballot initiatives. They joined LA Forward’s core leadership team and lead our coalition-based work to decriminalize street vending statewide and actually build homes for the homeless.
-   
-   
-   
-   They found a sense of purpose and community. They were empowered to educate and organize their friends, co-workers, and fellow parents. One result of this new engagement was to help people like Marisol, a street vendor and activist in Boyle Heights, to finally be able to earn a living without fear of harassment and deportation, to know there was a chance her son’s school might be fully funded, that her homeless neighbors would finally have a roof over their heads and a bed to sleep in. Even though LA’s great geographical and social distance still separates these families—they haven’t met in person and may never do so—their lives have been intertwined for good, to their mutual benefit.
-   
-   
-   
-   *Names have been changed
-project_areas:
+Please describe the mission of your organization.: >-
+  LA Forward breaks down barriers to civic participation and makes local
+  government accessible to everyday people, not just political insiders and
+  lobbyists. We provide Angelenos with resources and training to turn their
+  frustration into constructive action and organizing to make LA a better place.
+project_description: >-
+  LA 101 is an interactive guide and campaign to help you understand how local
+  government really works, and how you can make a difference with your friends
+  and neighbors. It will cover major local elected and appointed officials and
+  what they do, city and county departments and how they impact your life, the
+  fundamentals of advocacy and organizing, and more. Our goal is for every
+  Angeleno to have the knowledge, tools, and confidence they need to become
+  active in their communities and advocate for an LA that is fair and
+  flourishing for everyone.
+Which LA2050 goal will your submission most impact?: LA is the best place to CONNECT
+In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-project_la2050_community_resources:
-  - Access to LA2050 community
-  - >-
-    Host public events on the topic your organization’s issue area (e.g. access
-    to capital, education reform, clean energy, etc.) 
-  - >-
-    Communications support, including traditional media, social media, and
-    LA2050 newsletter
-  - Publicity/awareness
-  - 'Capacity, including staff'
-  - Strategy assistance and implementation
-project_innovation_stage: Post-pilot (testing an expansion of concept after initially successful pilot)
-project_collaborators:
-  - LA Voice
-project_measure: >-
-  The goal of the LA 101 guide is to make Los Angeles a more civically engaged
-  place by giving people the knowledge to participate in civic life.
-   
-   
-   
-   To succeed, at a minimum, our project will need to reach hundreds of thousands of Angelenos. We will carefully measure how many people see the guide—through tracking traffic to the website, video views, social media engagement, and downloads, as well as the number of people who attend workshops. Our goal is that those people will mirror LA’s geographic and demographic diversity.
-   
-   
-   
-   The ultimate definition of success is the extent to which the LA101 guide can increase civic engagement—how many people are sending in comments on pending policies, calling elected officials, showing up to council hearings, meeting with the staff of elected offices, joining neighborhood councils, volunteering with advocacy groups, voting and getting their friends to vote, especially on local candidates and measures.
-   
-   
-   
-   It’s difficult to assess causation in a place as large as Los Angeles but we will create surveys to ask workshop and online participants about their behavior and that of their social circles to see how it changes from before their contact with the guide to a year later.
-ein: '954781974'
-mailing_address_street: '3660 Wilshire Boulevard, Suite 602'
-mailing_address_city: Los Angeles
-mailing_address_state: California
-mailing_address_zip: '90010'
-project_proposal_best_place: >-
-  LA101 builds on our experience creating guides to ballot propositions in the
-  last four local elections (reaching 100,000 people), producing a podcast about
-  major local issues (30,000 downloads) and hosting a dozen workshops on LA 101
-  for Indivisible-style groups and classes at a Silver Lake community center.
-   
-   
-   
-   We envision LA101 as a tool that empowers Angelenos to join a conversation with elected officials, decision-makers, and local government over the policies that will determine the future of our region. 
-   
-   
-   
-   Without knowledge of how local government works, there’s no possibility of impacting it. By illuminating the workings of the city, the guide and workshops will pave the way for greater involvement. When Angelenos learn effective ways to voice their views, they’ll have the confidence and know-how necessary not only to participate in local elections, but to do the mundane and crucial civic work of calling elected officials, showing up to council hearings, meeting with government staffers, joining neighborhood councils, and volunteering with advocacy organizations.
-   
-   
-   
-   Our Plan
-   
-   
-   
-   Instead of dropping the entire guide at once, we’ll release it in installments starting with the most basic information and moving to increasingly detailed and sophisticated sections on the workings of local government. This approach, inspired by the agile software development model, will allow us to produce results quickly and to adjust our ongoing work in response to feedback. It will also provide multiple opportunities to garner public attention.
-   
-   
-   
-   LA101 will cover:
-   
-   * Major elected and appointed officials and what they do
-   
-   * The different city departments, what they’re responsible for, and how they impact your life
-   
-   * How the public can effectively weigh in throughout the process including how to reach elected officials, the art of public comments and lobby visits, fundamentals of building relationships and coalitions
-   
-   * And much more...
-   
-   
-   
-   We envision the guide’s main home as an interactive website that lets people use the guide however they prefer—whether that’s getting a quick answer to one question or gaining a comprehensive understanding of the local governmental system from A to Z. 
-   
-   
-   
-   Installments will also be rolled out as serialized social media posts, and we’ll create a Vox-style video about the first installment to publicize the guide. To reach an audience that matches LA’s diversity we will collaborate with a wide variety of community groups in our network to hold workshops across the county. We’ll hire a grassroots, community-focused PR firm to pitch stories on LA101 to regional, neighborhood, and ethnic media. 
-   
-   
-   
-   Timeline:
-   
-   
-   
-   Jun-Aug'19: Contract outreach lead, researchers, writers, and designers, recruit community partners & develop first content chunks
-   
-   
-   
-   Sep-Dec'19: Release first installments of LA 101 accompanied by PR, press & community outreach. Host first 10 workshops in communities around LA
-   
-   
-   
-   Jan-May'20: Release one installment per month & host monthly workshops
-category_metrics:
+In what stage of innovation is this project?: >-
+  Expand existing program (expanding and continuing ongoing successful projects
+  or programs)
+What is the need you’re responding to?: >-
+  LA County is home to the largest, most powerful local government in the U.S.
+  by far. We have more people than 42 states and a larger budget than over 180
+  nations. The County and City of LA have immense influence over nearly every
+  aspect of our daily lives, and yet few Angelenos know the name of their local
+  representatives, much less what they do. That leaves influence over local
+  government to a small minority of insiders and special interest groups. That’s
+  the bad news.
+
+
+  The good news is that there has been a groundswell of interest in politics and
+  activism since 2016, and LA is on the cusp of a once-in-a-generation
+  opportunity to transform from one of America’s least civically engaged metro
+  areas to one of the most. Tens of thousands of Angelenos are invested in
+  national politics for the first time, but remain overwhelmed by the prospect
+  of getting involved locally. The LA 101 guide will help convert that energy
+  into powerful local organizing to transform our city.
+Why is this project important to the work of your organization?: >-
+  LA’s electeds and policies should reflect the people they serve, and LA 101
+  can help make that happen. The project is led by experienced local advocates
+  with a track record of reaching, teaching, and mobilizing Angelenos at the
+  grassroots and grasstops levels.
+
+
+  Since 2016, LA Forward has published impactful guides on local issues and
+  elections that have reached well over 100,000 people. We’ve hosted dozens of
+  civic education events and in-person LA 101 workshops. And in March 2020, we
+  helped form and lead the Healthy LA Coalition of over 250+ local groups
+  responding to the COVID-19 crisis and advocating for pressing policies needed
+  to protect Angelenos.
+
+
+  As a partner, Inclusive Action for the City (formerly LURN) brings people
+  together to build strong, local economies through advocacy and transformative
+  economic development initiatives. They have been a leading voice for economic
+  justice since 2008, and a leader in the successful citywide effort to legalize
+  and protect street vending.
+Please explain how you will define and measure success for your project.: >-
+  The goal of LA 101 is to support the people of LA in taking control of the
+  systems and policies that shape their lives. In the short term, that means
+  providing resources that lower barriers to entry for those who want to take
+  their first steps into local activism and civic engagement. 
+
+
+  In the medium to long term, our vision is for LA to transform from one of the
+  nation’s least civically engaged places to one of its most. That means higher
+  voter turnout and participation in local elections, and high levels of
+  participation in the workings of City Council and county government, in
+  community groups and neighborhood councils, mutual aid networks, and more. 
+
+
+  We will measure how many people see and meaningfully engage with the guide, as
+  well as those who attend workshops and events. It’s vital to us that those
+  engaging with LA 101 mirror LA’s incredible diversity, and we will work with
+  our partners to make sure the guide is reaching and resonating with
+  communities across LA — especially those that are unable to vote in elections
+  and participate through other avenues.
+
+
+  The ultimate definition of success is the extent to which the LA 101 guide can
+  increase civic engagement: how many people are commenting on pending policies,
+  calling elected officials or meeting with their staffs, volunteering with
+  advocacy groups, and voting and getting their friends to vote. We will survey
+  workshop and online participants about their behavior to see how it changes
+  based on their contact with LA 101.
+Approximately how many people will be directly impacted by this proposal?: '50000'
+Approximately how many people will be indirectly impacted by this proposal?: '500000'
+Please describe the broader impact of your proposal.: >-
+  We expect the LA 101 campaign to have a lasting impact on local policies,
+  civic engagement, and the future of the region. By illuminating the workings
+  of the city and county, the LA 101 guide and workshops will pave the way for
+  greater public involvement. When Angelenos learn effective ways to voice their
+  views, they gain the confidence and know-how to do the crucial civic work of
+  calling elected officials, showing up to council hearings, meeting with
+  government staffers, joining neighborhood councils, and participating in local
+  elections. Ultimately, the result we are working toward is a local government
+  that is dramatically more representative of — and responsive to — the people
+  it serves.
+Which of LA2050’s resources will be of the most value to you?:
+  - Access to the LA2050 community
+  - Host public events or gatherings
+  - Communications support
+Please list the organizations collaborating on this proposal.: Inclusive Action for the City
+Which metrics will your submission impact?:
   - Government responsiveness to residents’ needs
-  - Participation in neighborhood councils
+  - Neighborhood council participation
   - Voting rates
-category_other: []
-year: 2019
+Are there any other LA2050 goal categories that your proposal will impact?:
+  - LA is the best place to LEARN
+  - LA is the healthiest place to LIVE
+year: 2020
 category: connect
 filename: la-forward
-order: 18
+order: 33
 
 ---

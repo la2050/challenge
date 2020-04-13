@@ -80,10 +80,10 @@ stylesheets:
 {% if page.project_video and page.project_video != '' %}
 <a href="{{ page.project_video }}" target="_blank" class="has-icon">
 {% else %}
-<a href="/assets/images/{{ page.year }}/{{ page.category }}/2048-wide/{{ page.filename }}.jpg">
+<a href="{{ site.image_host }}/{{ page.year }}/{{ page.category }}/2048-wide/{{ page.filename }}.jpg">
 {% endif %}
 
-<img src="/assets/images/{{ page.year }}/{{ page.category }}/2048-wide/{{ page.filename }}.jpg" alt="" width="500" />
+<img src="{{ site.image_host }}/{{ page.year }}/{{ page.category }}/2048-wide/{{ page.filename }}.jpg" alt="" width="500" />
 
 {% if page.project_video and page.project_video != '' %}
 <span class="icon play">
@@ -353,13 +353,13 @@ stylesheets:
         {% capture image_filename %}{{ data.filename }}.jpg{% endcapture %}
         {% capture image_category %}{{ data.year }}/{{ data.category }}{% endcapture %}
         <img
-          src="{{ site.image_host }}/assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_filename }}"
-          srcset="{{ site.image_host }}/assets/images/{{ image_category }}/384-wide-with-aspect-10-8/{{ image_filename }} 384w,
-                  {{ site.image_host }}/assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_filename }} 512w,
-                  {{ site.image_host }}/assets/images/{{ image_category }}/768-wide-with-aspect-10-8/{{ image_filename }} 768w,
-                  {{ site.image_host }}/assets/images/{{ image_category }}/1024-wide-with-aspect-10-8/{{ image_filename }} 1024w,
-                  {{ site.image_host }}/assets/images/{{ image_category }}/1536-wide-with-aspect-10-8/{{ image_filename }} 1536w,
-                  {{ site.image_host }}/assets/images/{{ image_category }}/2048-wide-with-aspect-10-8/{{ image_filename }} 2048w"
+          src="{{ site.image_host }}/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_filename }}"
+          srcset="{{ site.image_host }}/{{ image_category }}/384-wide-with-aspect-10-8/{{ image_filename }} 384w,
+                  {{ site.image_host }}/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_filename }} 512w,
+                  {{ site.image_host }}/{{ image_category }}/768-wide-with-aspect-10-8/{{ image_filename }} 768w,
+                  {{ site.image_host }}/{{ image_category }}/1024-wide-with-aspect-10-8/{{ image_filename }} 1024w,
+                  {{ site.image_host }}/{{ image_category }}/1536-wide-with-aspect-10-8/{{ image_filename }} 1536w,
+                  {{ site.image_host }}/{{ image_category }}/2048-wide-with-aspect-10-8/{{ image_filename }} 2048w"
           sizes="(min-width: 50em) 40em, 100vw"
           width="500"
           alt="" />
@@ -394,13 +394,13 @@ stylesheets:
         {% capture image_filename %}{{ data.filename }}.jpg{% endcapture %}
         {% capture image_category %}{{ data.year }}/{{ data.category }}{% endcapture %}
         <img
-          src="{{ site.image_host }}/assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_filename }}"
-          srcset="{{ site.image_host }}/assets/images/{{ image_category }}/384-wide-with-aspect-10-8/{{ image_filename }} 384w,
-                  {{ site.image_host }}/assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_filename }} 512w,
-                  {{ site.image_host }}/assets/images/{{ image_category }}/768-wide-with-aspect-10-8/{{ image_filename }} 768w,
-                  {{ site.image_host }}/assets/images/{{ image_category }}/1024-wide-with-aspect-10-8/{{ image_filename }} 1024w,
-                  {{ site.image_host }}/assets/images/{{ image_category }}/1536-wide-with-aspect-10-8/{{ image_filename }} 1536w,
-                  {{ site.image_host }}/assets/images/{{ image_category }}/2048-wide-with-aspect-10-8/{{ image_filename }} 2048w"
+          src="{{ site.image_host }}/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_filename }}"
+          srcset="{{ site.image_host }}/{{ image_category }}/384-wide-with-aspect-10-8/{{ image_filename }} 384w,
+                  {{ site.image_host }}/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_filename }} 512w,
+                  {{ site.image_host }}/{{ image_category }}/768-wide-with-aspect-10-8/{{ image_filename }} 768w,
+                  {{ site.image_host }}/{{ image_category }}/1024-wide-with-aspect-10-8/{{ image_filename }} 1024w,
+                  {{ site.image_host }}/{{ image_category }}/1536-wide-with-aspect-10-8/{{ image_filename }} 1536w,
+                  {{ site.image_host }}/{{ image_category }}/2048-wide-with-aspect-10-8/{{ image_filename }} 2048w"
           sizes="(min-width: 50em) 40em, 100vw"
           width="500"
           alt="" />

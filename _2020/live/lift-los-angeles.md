@@ -1,138 +1,143 @@
 ---
-is_test_data: true
-application_id: '7085646086'
+application_id: '1222192497'
 title: >-
-  One Emergency Away: LIFTing Los Angeles Out of Poverty and Preventing
-  Homelessness
-project_description: >-
-  Los Angeles has one of the highest rates of homelessness in the U.S. and even
-  more families teetering on the brink who are just one emergency away from
-  crisis. In fact, many of our hardworking parents and caregivers (“members”)
-  were homeless or would be homeless without our services. Through career and
-  financial coaching that builds financial capabilities and career skills,
-  social connections, and personal well-being, LIFT is able to empower these
-  families with the tools they need to thrive.
+  LIFT’s Family Goal Fund: Moving Money into the Hands of Families who Need it
+  Most
+organization_description: Nonprofit
+project_video: 'https://drive.google.com/file/d/1KwP-HdWEZFW_Be8a7Y44BEweDRgG9-90/view'
+link_donate: 'https://www.liftcommunities.org/donate/'
+link_volunteer: 'https://www.liftcommunities.org/get-involved/volunteer/'
+link_newsletter: 'https://www.liftcommunities.org/stay-connected/'
+mailing_address_city: Los Angeles
+mailing_address_street: 1910 Magnolia Blvd
+ein: 52-2168409
 organization_name: LIFT-Los Angeles
-organization_description: Non-profit organization
-project_video: ''
-link_newsletter: 'https://www.liftcommunities.org/get-involved/'
+mailing_address_state: California
+mailing_address_zip: '90007'
 organization_website: 'https://www.liftcommunities.org/'
 organization_twitter: '@LIFTCommunities'
 organization_facebook: '@LIFTCommunities'
-organization_instagram: '@LIFTCommunities'
-link_donate: 'https://www.liftcommunities.org/get-involved/ways-to-give/'
-link_volunteer: 'https://www.liftcommunities.org/get-involved/volunteer/'
-organization_activity: >-
-  LIFT-LA empowers low-income parents of young children to break the cycle of
-  poverty through one-on-one career and financial coaching. We believe all
-  families should have an equal chance to thrive.
-project_proposal_description: >-
-  When Irma joined LIFT in 2017, she was $5,500 in debt and had no job, savings,
-  or stable housing for her husband, and two young children, Beatriz (age 2) and
-  Max (age 1). Due to a lack of affordable childcare, Irma was also unable to
-  seek full-time employment. With only one parent’s full-time income, the young
-  family was experiencing toxic stress, at times unable to afford enough food.
-   
-   
-   
-   At LIFT, Irma and her coach worked together on a step-by-step plan to meet Irma's family where they were at, leveraging LIFT's wraparound services to provide the immediate supports she and her family needed to stay out of poverty and ensure they could afford to remain safely housed. Irma's coach referred her to food bank resources and helped her create a budget. Irma also enrolled in LIFT's Lending Circles and our community partner's EARN-SaverLife program, financial products that would help improve her credit score and encourage savings. Irma used the $150 in direct cash assistance she received every three months from the LIFT Family Goal Fund program to build her savings and pay down her debt. Since first joining LIFT, Irma has paid down almost $4,000 in debt and successfully increased her credit score by 99 points!
-   
-   
-   
-   Irma’s coach also connected her to quality childcare assistance so she could begin to look for a job. Irma participated in LIFT’s Mother’s Day Careers Workshop, which provided resume support, practice with mock interviews to learn interview skills, and tips on how to dress for success in the workplace. We are proud to share that Irma found a full-time position within two weeks of beginning to interview!
-   
-   
-   
-   LIFT's ability to provide comprehensive, personalized wraparound services helped Irma ultimately improve her financial, emotional, and social well-being and pass on these healthy financial habits to her husband and her children. In Irma’s own words, “LIFT means FAMILY to me. I have a savings account, a full-time job, and childcare because of LIFT. LIFT has helped me to feel empowered, improved my confidence, and boosted my self-esteem.”
-project_areas:
+organization_instagram: liftcommunities
+Please describe the mission of your organization.: >-
+  LIFT-LA empowers families to break the cycle of poverty through one-on-one
+  financial, educational and career coaching. We believe all families should
+  have an equal chance to thrive. That is why we put cash into the hands of our
+  members and trust them to spend it on what they need most.
+project_description: >-
+  LIFT’s Family Goal Fund is designed to help parents build a small buffer. Not
+  just in times of crisis like COVID-19, but to withstand the daily stressors
+  that come with living in poverty and accelerate their progress towards
+  long-term goals. As parents persist through LIFT’s coaching program, they
+  receive $150 every three months that they can spend in any way they see fit—
+  be it making a rental payment, starting an emergency savings fund, or paying
+  for a vocational licensing exam on their path to a higher paying job.
+Which LA2050 goal will your submission most impact?: LA is the best place to LIVE
+In which areas of Los Angeles will you be directly working?:
+  - Central LA
   - >-
-    County of Los Angeles (please select only if your project has a countywide
+    City of Los Angeles (please select only if your project has a citywide
     benefit)
-project_la2050_community_resources:
-  - Access to LA2050 community
-  - >-
-    Host public events on the topic your organization’s issue area (e.g. access
-    to capital, education reform, clean energy, etc.) 
-  - >-
-    Communications support, including traditional media, social media, and
-    LA2050 newsletter
-  - Publicity/awareness
-project_innovation_stage: Expand existing program (expanding and continuing ongoing successful projects)
-project_collaborators: ''
-project_measure: >-
-  To measure our program’s impact and the progress parents are making, we
-  collect data in three ways. First, LIFT uses Salesforce as our case management
-  system to aggregate demographic data, progress towards goals, and track
-  increased income/decreased debt. Second, LIFT administers four externally
-  validated surveys every quarter to track social connections, self-efficacy,
-  perceived stress, and financial well-being. Lastly, parents receive a feedback
-  survey after every individual meeting to track program delivery satisfaction.
-  LIFT compiles monthly workbooks using data collected to assess progress
-  against a number of indicators (including personal, social, and financial
-  metrics). Regular meetings between regional program leaders and LIFT’s
-  National Program Team open opportunities for the cross-pollination of ideas
-  and exchange of real-time learnings, allowing us to emerge with services that
-  deliver greater impact. The flexibility of our case management system also
-  allows for rapid, seamless adaptations as our program evolves so that we can
-  better understand the progress our members are making and how to tailor our
-  program to member needs. 
-   
-   
-   
-   In terms of member progress, LIFT will define success using the following metrics:
-   
-   - LIFT will serve 400 families 
-   
-   - 80% of families who attend 4 or more meetings will report progress on 1 of 3 key measures demonstrating family economic security & well-being: 
-   
-   - 45% of families who attend 4 or more meetings will increase income 
-   
-   - 55% of families who attend 4 or more meetings will improve net savings & debt 
-   
-   - 50% of families who attend 4 or more meetings will persist or improve in education
-ein: 52-2168409
-mailing_address_street: 1910 Magnolia Avenue
-mailing_address_city: Los Angeles
-mailing_address_state: California
-mailing_address_zip: '90007'
-project_proposal_best_place: >-
-  Today, the poverty rate in Los Angeles is 21.5%, significantly higher than the
-  U.S. average of 13.4%. Los Angeles County holds nearly 10% of the country’s
-  homeless population, and almost half of the people experiencing homelessness
-  for the first time this year cited loss of employment or financial strain as
-  the primary cause. Families arrive at our offices in the Pico-Union
-  neighborhood (where one in three individuals live below the poverty line) with
-  an average annual income of $18,000 and an employment rate of 30%. Over 90% of
-  these families, who we call members, struggle to make ends meet, facing
-  multiple barriers to moving out of poverty such as limited job skills and a
-  lack of childcare, strong supports, and social networks. While there is no
-  “typical” LIFT-LA member, 98% of our members identify as people of color, and
-  over 80% identify as Latinx, meaning that their journey out of poverty is
-  complicated by racial bias, language barriers, and wage gaps. Additionally,
-  many of our members are single parents, often single mothers, who struggle to
-  balance work, education, and childcare—teetering on the brink of homelessness.
-   
-   
-   
-   LIFT’s program directly serve members, empowering parents of young children to build greater self-sufficiency. Members work with a rigorously-trained Master of Social Work student coach to develop personalized goal plans, working together over a two-year period to set and achieve S.M.A.R.T. career and financial goals to help keep them out of homelessness and away from poverty. Through career coaching, members connect with employers in high-growth fields, accessing soft job skills such as resume writing and hard field-specific skills and training opportunities.
-   
-   
-   
-   We know, though, that these skills alone are not enough to keep families out of homelessness. Poverty is isolating and many families lack a social support system to turn to in times of need. That is why coaches establish trusting relationships with members to pursue goals and build confidence. In fact, last year 85% of members reported that LIFT’s services helped bolster their personal well-being. Through workshops and member-focused social events such as our annual Holiday Fiesta, members create stronger community and social ties with each other by sharing resources and building social capital. 
-   
-    
-   
-   LIFT wants all people to have access to everything L.A. has to offer. That is why our holistic model empowers parents with the tools they need to overcome the toxic stress associated with chronic scarcity, which has lifelong impacts on whole families: lowered executive functioning skills, shorter lifespans, and higher risk for disease. Last year, 61% of members reported reduced stress and 90% of members made meaningful financial progress in which the average income increase was $625/month, or $7,500 a year. For a struggling family, that amount of money can have real, lasting impacts on housing and job stability, proving that LIFT’s program has truly lasting outcomes.
-category_metrics:
-  - Number of households below the self-sufficiency standard
-  - Rates of homelessness
+In what stage of innovation is this project?: >-
+  Expand existing program (expanding and continuing ongoing successful projects
+  or programs)
+What is the need you’re responding to?: >-
+  Los Angeles County holds nearly 10% of the country’s homelessness population
+  and has a poverty rate of 21.5%, significantly higher than the U.S. average of
+  13.4%. Families arrive at LIFT’s office in the Pico Union neighborhood (where
+  one in three families live below the poverty line) with an average annual
+  income of $18,000 and an employment rate of 32%, often just one financial
+  emergency away from homelessness.
+
+
+  According to a recent study, four out of 10 Americans would not be able to
+  cover $400 in unexpected expenses without selling something or going into
+  debt. Which means that Americans need access to financial slack now, in times
+  of crisis like COVID-19, and on an ongoing basis.
+
+
+  LIFT’s model helps parents achieve financial stability and well-being through
+  personalized wraparound supports, including one-on-one financial and career
+  coaching, workshops, and resources that will support them in increasing
+  savings and income, decreasing debt, and securing family-sustaining
+  employment.
+Why is this project important to the work of your organization?: >
+  For more than 20 years LIFT has partnered with over 100,000 families on their
+  paths out of poverty. We know from experience that parents are motivated,
+  resilient, and thrive when they have access to the same things we all need to
+  succeed—a financial cushion to weather emergencies, social networks that offer
+  opportunities, and personal supports that give you the confidence to get
+  through hard times.
+
+
+  Recognizing that parents know what they need most to succeed but often don’t
+  have the luxury of investing in themselves, LIFT began piloting cash transfer
+  programs in 2015. After testing matched savings, restricted use, and
+  reimbursement models, we formalized our Family Goal Fund in 2018. Combined
+  with our coaching program, LIFT’s model offers a powerful tool in breaking the
+  cycle of poverty. Of the 400 families we serve each year, 95% report
+  improvements in economic security, 95% report improved personal well-being and
+  99% of our members feel that they can turn to LIFT in a time of need.
+Please explain how you will define and measure success for your project.: >
+  LIFT will measure success using the following metrics:
+
+  -90% of committed members will persist or progress in employment, finances, or
+  education; 
+
+  -50% will persist or progress in employment; 
+
+  -70% will persist or progress in finances (i.e. increase savings, decrease
+  debt, increase credit score, save money each month, make minimum debt payments
+  each month, complete a Finances goal); and 
+
+  -50% will persist or progress in education 
+
+
+  Our vision for the Family Goal Fund is that families are entrusted with
+  regular injections of cash in order to provide much needed stability and
+  ensure long-term security. Even the most motivated parents are vulnerable to
+  getting knocked off track by seemingly small financial shocks which trigger a
+  cascade of challenges that are hard to recover from. LIFT’s Family Goal Fund
+  provides a concrete safety net based on implicit trust. Parents want to give
+  their children a better life than their own, and they can and should be
+  trusted to make smart decisions to get it done.
+
+
+  Christina’s story embodies our vision for success. Christina came to LIFT
+  three years ago looking for connections to food and clothing support for her
+  children. Though she did not have the legal right to work, she was able to set
+  and achieve goals in LIFT’s program. Since then, she went back to school, got
+  a job, started her own construction company, and became a homeowner. Access to
+  LIFT’s Goal Fund was pivotal in helping her stay on course, rebound in crisis,
+  and make her dreams a reality.
+Approximately how many people will be directly impacted by this proposal?: '400'
+Approximately how many people will be indirectly impacted by this proposal?: '1600'
+Please describe the broader impact of your proposal.: >-
+  LIFT can share key lessons that have clear policy implications. 1) We can
+  trust parents. If given access to funds—and the right to choose how to spend
+  it—our data show that parents spend on what they need most. 2) Fewer
+  restrictions, more results. Offering more cash and cash-like supports (WIC,
+  SNAP), not less, is the most effective way of reducing child poverty. However,
+  burdensome eligibility criteria and enrollment procedures and the “benefits
+  cliff” prevent families from accessing what they need. 3) More bang for your
+  (public) buck. Research shows that increasing families’ incomes during a
+  child’s earliest years leads to better long-term academic performance, health
+  outcomes, and employment for their children. These outcomes save money.
+Which of LA2050’s resources will be of the most value to you?:
+  - Access to the LA2050 community
+  - Host public events or gatherings
+  - Communications support
+  - 'Office space for meetings, events, or for staff'
+  - Strategy assistance and implementation
+Please list the organizations collaborating on this proposal.: ''
+Which metrics will your submission impact?:
+  - Poverty rate
   - Resilient communities
-category_other:
-  - LA is the best place to LEARN
+  - Homelessness
+Are there any other LA2050 goal categories that your proposal will impact?:
   - LA is the healthiest place to CONNECT
-year: 2019
+year: 2020
 category: live
 filename: lift-los-angeles
-order: 13
+order: 26
 
 ---
