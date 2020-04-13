@@ -70,6 +70,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: friends-of-girls-academic-leadership-academy-gala
-order: 29
+order: 31
 
 ---

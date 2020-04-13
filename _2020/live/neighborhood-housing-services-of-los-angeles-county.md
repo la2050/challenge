@@ -96,6 +96,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: live
 filename: neighborhood-housing-services-of-los-angeles-county
-order: 30
+order: 32
 
 ---
