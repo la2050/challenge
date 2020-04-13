@@ -39,6 +39,8 @@
 <h3>Why is this project important to the work of your organization?</h3>
 {{ page["Why is this project important to the work of your organization?"] | markdownify }}
 
+{% if page["Approximately how many people will be directly impacted by this proposal?"] != "" and
+      page["Approximately how many people will be indirectly impacted by this proposal?"] != "" %}
 <h3>Approximately how many people will be impacted by this proposal?</h3>
 
 <div class="numbers">
@@ -55,6 +57,33 @@
     <dd>Indirect impact</dd>
   </dl>
 </div>
+
+{% elsif page["Approximately how many people will be directly impacted by this proposal?"] != "" %}
+<h3>Approximately how many people will be impacted by this proposal?</h3>
+
+<div class="numbers">
+  <dl style="grid-template-columns: 1fr; margin-top: 0;">
+    <dt>
+      {% assign direct_impact = page["Approximately how many people will be directly impacted by this proposal?"] %}
+      {% include number-with-commas.html number=direct_impact %}
+    </dt>
+    <dd>Direct impact</dd>
+  </dl>
+</div>
+
+{% elsif page["Approximately how many people will be indirectly impacted by this proposal?"] != "" %}
+<h3>Approximately how many people will be impacted by this proposal?</h3>
+
+<div class="numbers">
+  <dl style="grid-template-columns: 1fr; margin-top: 0;">
+    <dt>
+      {% assign indirect_impact = page["Approximately how many people will be indirectly impacted by this proposal?"] %}
+      {% include number-with-commas.html number=indirect_impact %}
+    </dt>
+    <dd>Indirect impact</dd>
+  </dl>
+</div>
+{% endif %}
 
 <h3>Please describe the broader impact of your proposal.</h3>
 {{ page["Please describe the broader impact of your proposal."] | markdownify }}
