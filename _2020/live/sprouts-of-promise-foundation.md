@@ -2,7 +2,7 @@
 application_id: '3854583563'
 title: LA Farmers' Market Coalition
 organization_description: Nonprofit
-project_video: ''
+project_video: 'https://www.youtube.com/watch?v=Qj_nYgaNo2I&feature=youtu.be'
 link_donate: 'https://www.farmermark.com/donate'
 link_volunteer: 'http://www.farmermark.com/volunteer'
 link_newsletter: >-
