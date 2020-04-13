@@ -1,14 +1,14 @@
 ---
 application_id: '4383605037'
 title: SoCal 350
-organization_description: 'A fiscally sponsored group'
+organization_description: A fiscally sponsored group
 project_video: 'https://youtu.be/Ls3O4ukDFTQ'
 link_donate: 'https://socal350.org/'
 link_volunteer: 'https://socal350.org/'
 link_newsletter: 'https://socal350.org/'
 mailing_address_city: Calabasas
-mailing_address_street: '23532 Calabasas Road Suite A'
-ein: '95-4116679'
+mailing_address_street: 23532 Calabasas Road Suite A
+ein: 95-4116679
 organization_name: SoCal 350
 mailing_address_state: California
 mailing_address_zip: '91302'
@@ -83,17 +83,17 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
   - Communications support
-  - Office space for meetings, events, or for staff 
+  - 'Office space for meetings, events, or for staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?: 
+Which metrics will your submission impact?:
   - Air quality
   - Renewable energy use
-Are there any other LA2050 goal categories that your proposal will impact?: 
+Are there any other LA2050 goal categories that your proposal will impact?:
   - LA is the best place to LEARN
-  - LA is the best place to PLAY 
+  - LA is the best place to PLAY
 year: 2020
 category: live
 filename: socal-350
-order: 0
+order: 42
 
 ---

@@ -137,6 +137,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: citizens-of-culture
-order: 8
+order: 9
 
 ---

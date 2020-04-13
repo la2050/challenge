@@ -1,14 +1,14 @@
 ---
 application_id: '3302299041'
 title: Voices/Voces
-organization_description: 'A fiscally sponsored group'
+organization_description: A fiscally sponsored group
 project_video: ''
 link_donate: 'https://boyleheightsbeat.com/how-to-support/'
 link_volunteer: 'https://boyleheightsbeat.com/contribute/'
 link_newsletter: ''
 mailing_address_city: Boyle Heights
 mailing_address_street: '2016 E. 1st Street #33219'
-ein: '95-4116679'
+ein: 95-4116679
 organization_name: Boyle Heights Beat/Radio Pulso
 mailing_address_state: California
 mailing_address_zip: '90033'
@@ -125,25 +125,25 @@ Please describe the broader impact of your proposal.: >-
 
   Through storytelling, residents are able to connect with, uplift each other
   and give voice to the issues facing the community. 
-Which of LA2050’s resources will be of the most value to you?: 
+Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
   - Communications support
-  - Office space for meetings, events, or for staff
-  - Capacity, including staff
-  - Strategy assistance and implementation 
+  - 'Office space for meetings, events, or for staff'
+  - 'Capacity, including staff'
+  - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?: 
+Which metrics will your submission impact?:
   - Social and emotional support
   - Government responsiveness to residents’ needs
-  - Immigrant integration 
+  - Immigrant integration
 Are there any other LA2050 goal categories that your proposal will impact?:
   - LA is the best place to LEARN
   - LA is the best place to CREATE
-  - LA is the healthiest place to LIVE 
+  - LA is the healthiest place to LIVE
 year: 2020
 category: connect
 filename: boyle-heights-beat-radio-pulso
-order: 0
+order: 3
 
 ---
