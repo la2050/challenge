@@ -122,6 +122,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: connect
 filename: center-for-council-a-project-of-community-partners
-order: 6
+order: 7
 
 ---
