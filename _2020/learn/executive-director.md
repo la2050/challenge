@@ -9,7 +9,7 @@ link_newsletter: 'https://www.encorps.org/contact'
 mailing_address_city: Redondo Beach
 mailing_address_street: '608 Meyer Lane, Suite 204-B'
 ein: 38-3771471
-organization_name: Executive Director
+organization_name: EnCorps STEM Teachers
 mailing_address_state: California
 mailing_address_zip: '90278'
 organization_website: 'https://www.encorps.org'
