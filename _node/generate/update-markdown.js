@@ -305,8 +305,8 @@ function updateMarkdownFiles(folder) {
   }
 }
 
-updateMarkdownFiles('../_2019/learn');
-updateMarkdownFiles('../_2019/create');
-updateMarkdownFiles('../_2019/play');
-updateMarkdownFiles('../_2019/connect');
-updateMarkdownFiles('../_2019/live');
+updateMarkdownFiles('../_2020/learn');
+updateMarkdownFiles('../_2020/create');
+updateMarkdownFiles('../_2020/play');
+updateMarkdownFiles('../_2020/connect');
+updateMarkdownFiles('../_2020/live');

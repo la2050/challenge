@@ -21,6 +21,7 @@
 {{
   page["In what stage of innovation is this project?"]
     | replace: "(expanding and continuing ongoing successful projects or programs)", ""
+    | replace: "(testing or implementing a new idea)", ""
 }}
 
 {% if page["Please list the organizations collaborating on this proposal."].size > 0 %}

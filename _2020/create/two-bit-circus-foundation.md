@@ -16,7 +16,9 @@ organization_website: 'http://twobitcircus.org/'
 organization_twitter: ''
 organization_facebook: 'https://www.facebook.com/twobitcircusorg/'
 organization_instagram: '@twobitcircusorg'
-Please describe the mission of your organization.: "Play with Music's mission is to connect underserved youth in LA with our creative industries to foster collaboration, creation & career paths."
+Please describe the mission of your organization.: >-
+  Play with Music's mission is to connect underserved youth in LA with our
+  creative industries to foster collaboration, creation & career paths.
 project_description: >-
   We're ready to expand our in-school and after school programs to 4 more
   schools (2 semesters at each school). Each program brings 8-10 professional
@@ -109,6 +111,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: two-bit-circus-foundation
-order: 36
+order: 35
 
 ---

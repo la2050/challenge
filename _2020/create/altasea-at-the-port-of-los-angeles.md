@@ -16,11 +16,10 @@ organization_website: 'https://www.altasea.org'
 organization_twitter: '@altaseaorg'
 organization_facebook: AltaSea
 organization_instagram: '@AltaSea'
-Please describe the mission of your organization.: |2+
-                Ocean-related education is a vital component of AltaSea’s mission to accelerate   
-                scientific collaboration, facilitate job creation, and inspire the next generation for a  
-                more sustainable ocean. 
-
+Please describe the mission of your organization.: >-
+  Ocean-related education is a vital component of AltaSea’s mission to
+  accelerate    scientific collaboration, facilitate job creation, and inspire
+  the next generation for a   more sustainable ocean. 
 project_description: >-
   The underrepresentation of minority students in ocean-related STEM fields is a
   disadvantage for the US and its growing STEM workforce needs. AltaSea and

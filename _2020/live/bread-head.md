@@ -2,10 +2,6 @@
 application_id: '3478101701'
 title: 'Bread Head Youth Ambassadors: Building a Resilient Community'
 organization_description: Nonprofit
-# project_video: >-
-#  Bread Head is a young organization, and we have been working to create a
-#  YouTube video that represents us.  However due to the COVID-19 pandemic, our
-#  video project is delayed.
 link_donate: 'https://www.paypal.me/breadheadvenice'
 link_volunteer: 'http://www.breadhead.org/get-involved.html'
 link_newsletter: 'http://www.breadhead.org/get-involved.html'
