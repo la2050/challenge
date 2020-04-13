@@ -4,12 +4,13 @@ title: >-
   Build Acceptance & Inclusion of Persons with Disabilities in LAUSD via Special
   Olympics Unified Champion Schools®
 organization_description: Nonprofit
-project_video: >-
-  https://www.espn.com/video/clip?id=26897431 Warren High School earns top-5
-  banner recognition Neil Everett and Michelle Kwan help honor inclusive culture
-
-
-  https://vimeo.com/268122724 Unified Champion Schools: Manifesto 
+project_video: https://www.espn.com/video/clip?id=26897431
+# project_video: >-
+#   https://www.espn.com/video/clip?id=26897431 Warren High School earns top-5
+#   banner recognition Neil Everett and Michelle Kwan help honor inclusive culture
+# 
+# 
+#   https://vimeo.com/268122724 Unified Champion Schools: Manifesto 
 link_donate: 'https://give.specialolympics.org/page/contribute/southerncalifornia19'
 link_volunteer: 'https://www.sosc.org/volunteer'
 link_newsletter: 'https://sosc.org/login?tab=1'

@@ -2,10 +2,11 @@
 application_id: '5090573787'
 title: The Healing Power of Coaches
 organization_description: Nonprofit
-project_video: >
-  https://www.youtube.com/watch?v=XKvGfSt9jAg
-
-  https://www.facebook.com/Up2UsSports/videos/coaching-greatness-in-girls/418963248943258/
+project_video: https://www.youtube.com/watch?v=XKvGfSt9jAg
+# project_video: >
+#  https://www.youtube.com/watch?v=XKvGfSt9jAg
+#
+#  https://www.facebook.com/Up2UsSports/videos/coaching-greatness-in-girls/418963248943258/
 link_donate: 'https://www.classy.org/give/267656/#!/donation/checkout'
 link_volunteer: www.up2ussports.org
 link_newsletter: www.up2ussports.org

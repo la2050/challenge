@@ -2,13 +2,14 @@
 application_id: '6312416431'
 title: The Urban Homestead Radio Podcast
 organization_description: Nonprofit
-project_video: >-
-  LA2050: Pitch Vid:  https://www.youtube.com/watch?v=4AX9xC9kg-I
-
-
-
-  Oprah: 
-  http://www.oprah.com/own-oprahshow/living-green-in-pasadena-with-the-dervaes-family-video#ixzz41HjyNHRK
+project_video: https://www.youtube.com/watch?v=4AX9xC9kg-I
+# project_video: >-
+#   LA2050: Pitch Vid:  https://www.youtube.com/watch?v=4AX9xC9kg-I
+# 
+# 
+# 
+#   Oprah: 
+#   http://www.oprah.com/own-oprahshow/living-green-in-pasadena-with-the-dervaes-family-video#ixzz41HjyNHRK
 link_donate: 'http://urbanhomestead.org/donations/form/'
 link_volunteer: 'http://urbanhomestead.org/volunteer-program/'
 link_newsletter: 'https://www.facebook.com/urbanhomestead'

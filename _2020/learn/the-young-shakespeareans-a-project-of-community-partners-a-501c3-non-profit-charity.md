@@ -2,11 +2,12 @@
 application_id: '8477243904'
 title: The Young Shakespeareans (TYS)
 organization_description: A fiscally sponsored group
-project_video: |-
-  A Taste of TYS   https://vimeo.com/364542438.       
-  R & JThe Program in Action    https://vimeo.com/240442550
-  “A Midsummer Night’s Dream. https://vimeo.com/314435685
-           
+project_video: https://vimeo.com/364542438
+# project_video: |-
+#  A Taste of TYS   https://vimeo.com/364542438.       
+#  R & JThe Program in Action    https://vimeo.com/240442550
+#  “A Midsummer Night’s Dream. https://vimeo.com/314435685
+#           
 link_donate: 'https://theyoungshakespeareans.networkforgood.com/'
 link_volunteer: 'https://www.theyoungshakespeareans.com/volunteer'
 link_newsletter: 'https://www.theyoungshakespeareans.com/news'

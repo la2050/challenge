@@ -2,13 +2,14 @@
 application_id: '8298263104'
 title: Supporting Safe PLAY Through Neighborhood Data
 organization_description: Nonprofit
-project_video: >-
-  https://www.youtube.com/watch?time_continue=13&v=6iKW4H-17BA&feature=emb_title 
-
-
-  Note: The video on this page was produced in 2018 to celebrate the 1-year
-  Anniversary of NDSC. As a result, much of the data is outdated, but valuable
-  information regarding the nature of the project is still included.
+project_video: https://www.youtube.com/watch?v=6iKW4H-17BA 
+# project_video: >-
+#   https://www.youtube.com/watch?time_continue=13&v=6iKW4H-17BA&feature=emb_title 
+# 
+# 
+#   Note: The video on this page was produced in 2018 to celebrate the 1-year
+#   Anniversary of NDSC. As a result, much of the data is outdated, but valuable
+#   information regarding the nature of the project is still included.
 link_donate: ''
 link_volunteer: ''
 link_newsletter: 'https://socialinnovation.usc.edu/'
