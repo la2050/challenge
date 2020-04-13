@@ -126,6 +126,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: create
 filename: global-apparel-partners-d-b-a-variant
-order: 12
+order: 15
 
 ---
