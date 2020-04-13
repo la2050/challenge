@@ -85,9 +85,12 @@ Please describe the broader impact of your proposal.: >
   loans and healthcare, urban agriculture, and workforce development.
 Which of LA2050’s resources will be of the most value to you?:
   - Strategy assistance and implementation
-Please list the organizations collaborating on this proposal.: >-
-  Alma Backyard Farms, Pacific Coast Regional SBDC, Metro CDC, Watts Health
-  Foundation, City of Compton
+Please list the organizations collaborating on this proposal.:
+  - Alma Backyard Farms
+  - Pacific Coast Regional SBDC
+  - Metro CDC
+  - Watts Health Foundation
+  - City of Compton
 Which metrics will your submission impact?:
   - Food insecurity
   - Housing affordability

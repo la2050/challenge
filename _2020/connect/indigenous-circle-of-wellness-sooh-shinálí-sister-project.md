@@ -108,9 +108,10 @@ Please describe the broader impact of your proposal.: >-
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
-Please list the organizations collaborating on this proposal.: >-
-  American Indian Community Council, Pukuu Cultural Community Services, Tribal
-  TANF and United American Indian Involvement
+Please list the organizations collaborating on this proposal.:
+  - American Indian Community Council
+  - Pukuu Cultural Community Services
+  - Tribal TANF and United American Indian Involvement
 Which metrics will your submission impact?:
   - Social and emotional support
   - Public arts and cultural events

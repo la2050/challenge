@@ -121,9 +121,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
   - Communications support
-Please list the organizations collaborating on this proposal.: >-
-  Safe Place For Youth, Beyond Baroque, Venice Arts Council, Venice Art Crawl,
-  Venice Mar Vista Arts District, and 18th Street Arts Center.
+Please list the organizations collaborating on this proposal.:
+  - Safe Place For Youth
+  - Beyond Baroque
+  - Venice Arts Council
+  - Venice Art Crawl
+  - Venice Mar Vista Arts District
+  - 18th Street Arts Center
 Which metrics will your submission impact?:
   - 'Arts establishments, instillations, and exhibitions'
   - Employment in the creative industries

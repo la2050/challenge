@@ -132,15 +132,25 @@ Please describe the broader impact of your proposal.: >+
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Strategy assistance and implementation
-Please list the organizations collaborating on this proposal.: >-
-  St. Anne's Maternity Home, New Village Girls Academy, LAUSD, McAlister High
-  School for Teen Mothers (3 Campuses, LAUSD), Riley High School for Teen
-  Mothers (3 Campuses LAUSD), Cooperative Agencies Resources for Education (CARE
-  - 115 campuses in California), Meet Bridget, Juno Collaborative, Educational
-  Talent Search (USC), Riordan Fellows and Scholars Programs (UCLA), Numerous
-  high schools throughout Los Angeles County, Pathways L.A., Women's
-  Professional Development Groups and individual women at leading L.A.
-  companies, including, Capital Group, Google and Apple.   
+Please list the organizations collaborating on this proposal.:
+  - St. Anne's Maternity Home
+  - New Village Girls Academy
+  - LAUSD
+  - McAlister High School for Teen Mothers (3 Campuses
+  - LAUSD)
+  - Riley High School for Teen Mothers (3 Campuses LAUSD)
+  - >-
+    Cooperative Agencies Resources for Education (CARE - 115 campuses in
+    California)
+  - Meet Bridget
+  - Juno Collaborative
+  - Educational Talent Search (USC)
+  - Riordan Fellows and Scholars Programs (UCLA)
+  - Numerous high schools throughout Los Angeles County
+  - Pathways L.A.
+  - >-
+    Women's Professional Development Groups and individual women at leading L.A.
+    companies, including Capital Group, Google and Apple.
 Which metrics will your submission impact?:
   - College graduates
   - College matriculation

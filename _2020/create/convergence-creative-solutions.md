@@ -105,7 +105,9 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - 'Office space for meetings, events, or for staff'
   - Strategy assistance and implementation
-Please list the organizations collaborating on this proposal.: 'Puppet Master Marketing, Freeborn Productions'
+Please list the organizations collaborating on this proposal.:
+  - Puppet Master Marketing
+  - Freeborn Productions
 Which metrics will your submission impact?:
   - Employment in the tech industries
   - Employment in the creative industries

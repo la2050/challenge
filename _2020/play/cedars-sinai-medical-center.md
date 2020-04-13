@@ -107,9 +107,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
   - Strategy assistance and implementation
-Please list the organizations collaborating on this proposal.: >-
-  City of Los Angeles Department of Recreation and Parks, Stanford University,
-  Arts Center, Discovery Cube, Garmin
+Please list the organizations collaborating on this proposal.:
+  - City of Los Angeles Department of Recreation and Parks
+  - Stanford University
+  - Arts Center
+  - Discovery Cube
+  - Garmin
 Which metrics will your submission impact?:
   - Youth sports participation
   - Easy access to a safe park

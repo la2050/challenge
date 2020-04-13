@@ -137,13 +137,15 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - 'Office space for meetings, events, or for staff'
   - 'Capacity, including staff'
-Please list the organizations collaborating on this proposal.: >-
-  1) California Association of Microenterprise Organizations, 2) Opportunity
-  Fund, 3) Local Initiatives Support Corporation - Los Angeles (LISC LA), 4)
-  Initiative for a Competitive Inner City (ICIC), 5) CDC Small Business Finance
-  Los Angeles, 6)  Pacific Asian Consortium in Employment (PACE LA), 7)  West
-  Angeles Community Development Corporation (West LA CDC), 8) Small Business
-  Development Center (SBDC), El Camino
+Please list the organizations collaborating on this proposal.:
+  - California Association of Microenterprise Organizations
+  - Opportunity Fund
+  - Local Initiatives Support Corporation - Los Angeles (LISC LA)
+  - Initiative for a Competitive Inner City (ICIC)
+  - CDC Small Business Finance Los Angeles
+  - Pacific Asian Consortium in Employment (PACE LA)
+  - West Angeles Community Development Corporation (West LA CDC)
+  - Small Business Development Center (SBDC), El Camino
 Which metrics will your submission impact?:
   - Income inequality
   - Minority- and women-owned businesses
