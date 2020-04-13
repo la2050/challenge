@@ -65,11 +65,11 @@ VOTING_PERIOD_ENDED_TIME:          5pm Pacific Time
 
 # Entry period ended: 
 # April 3
-phase: 3
+# phase: 3
 
 # Entries shown on the website: 
 # April 13
-# phase: 4
+phase: 4
 
 # Finalists announced: 
 # May 25
