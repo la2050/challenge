@@ -149,6 +149,9 @@ function getOrganizationType(type) {
 
 function mapAllColumnNames(data) {
   const columnNamesMap = {
+    'Application id':
+    'application_id',
+
     "Project Title"
     :"title",
 
@@ -356,8 +359,8 @@ function createMarkdownFile(data) {
   if (data["Current stage"] !== "Moderation Process" ||
       data["Decision:"]     !== "Approved") return;
 
-  data.application_id = getApplicationID(data) || "";
-  
+  // data.application_id = getApplicationID(data) || "";
+
   mapAllColumnNames(data);
 
   data = changeNAtoEmpty(data);
@@ -770,5 +773,5 @@ function getApplicationID(data) {
     console.log("Couldn’t find application ID for: " + data["Organization Details: | Organization name: *"]);
   }
 }
-generateCollections('../../_data/all_data_Apr 6 2020 04_18 PM (PDT)-edited.csv');
+generateCollections('../../_data/2020 Challenge Proposals, from SM Apply, with Decision and ID - forjim_Apr 12 2020 06_49 PM (PDT).csv');
 
