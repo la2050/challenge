@@ -104,12 +104,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - 'Capacity, including staff'
   - Strategy assistance and implementation
-Please list the organizations collaborating on this proposal.: |
-  ACT-LA 
-  CicLAvia 
-  Investing in Place 
-  Los Angeles County Bicycle Coalition 
-  Move LA
+Please list the organizations collaborating on this proposal.:
+  - ACT-LA
+  - CicLAvia
+  - Investing in Place
+  - Los Angeles County Bicycle Coalition
+  - Move LA
 Which metrics will your submission impact?:
   - Government responsiveness to residents’ needs
   - Public transit ridership

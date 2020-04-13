@@ -95,12 +95,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Communications support
   - Strategy assistance and implementation
-Please list the organizations collaborating on this proposal.: |-
-  Hollywood Curling
-  Triumph Foundation
-  Angel City Sports
-  Scotweek
-  We are working on a number of other organizations as well.
+Please list the organizations collaborating on this proposal.:
+  - Hollywood Curling
+  - Triumph Foundation
+  - Angel City Sports
+  - Scotweek
+  - We are working on a number of other organizations as well.
 Which metrics will your submission impact?:
   - Social and emotional support
   - Volunteerism

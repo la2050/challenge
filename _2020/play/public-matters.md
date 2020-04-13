@@ -124,10 +124,10 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - 'Office space for meetings, events, or for staff'
   - Network building
-Please list the organizations collaborating on this proposal.: |
-  Los Angeles Walks
-  USC Kid Watch
-  Individual Faculty at the University of Southern California
+Please list the organizations collaborating on this proposal.:
+  - Los Angeles Walks
+  - USC Kid Watch
+  - Individual Faculty at the University of Southern California
 Which metrics will your submission impact?:
   - Walking and biking
   - Prevalence of trauma and adverse childhood experiences

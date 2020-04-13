@@ -111,11 +111,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Communications support
   - Strategy assistance and implementation
-Please list the organizations collaborating on this proposal.: |-
-  SkySource Resilience Lab
-  San Pedro High School Olguin Campus
-  AltaSea
-  Beautify Earth
+Please list the organizations collaborating on this proposal.:
+  - SkySource Resilience Lab
+  - San Pedro High School Olguin Campus
+  - AltaSea
+  - Beautify Earth
 Which metrics will your submission impact?:
   - Access to healthy food
   - Local water

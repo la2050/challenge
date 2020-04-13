@@ -127,9 +127,9 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
   - Strategy assistance and implementation
-Please list the organizations collaborating on this proposal.: |-
-  Venice Arts
-  Better Youth  
+Please list the organizations collaborating on this proposal.:
+  - Venice Arts
+  - Better Youth
 Which metrics will your submission impact?:
   - Employment in the creative industries
   - Income inequality

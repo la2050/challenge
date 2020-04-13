@@ -122,23 +122,17 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
   - 'Capacity, including staff'
-Please list the organizations collaborating on this proposal.: >-
-  Alexander Hamilton High School
-
-  Alliance Alice M. Baxter College Ready High School
-
-  Alliance Collins College Ready High School Ambassador School of Global
-  Leadership
-
-  Boys Academic Leadership Academy
-
-  New Open World Academy
-
-  School for the Visual Arts and Humanities
-
-  UCLA Community School
-
-  SoCal CAN
+Please list the organizations collaborating on this proposal.:
+  - Alexander Hamilton High School
+  - Alliance Alice M. Baxter College Ready High School
+  - >-
+    Alliance Collins College Ready High School Ambassador School of Global
+    Leadership
+  - Boys Academic Leadership Academy
+  - New Open World Academy
+  - School for the Visual Arts and Humanities
+  - UCLA Community School
+  - SoCal CAN
 Which metrics will your submission impact?:
   - College graduates
   - College matriculation

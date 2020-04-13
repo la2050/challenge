@@ -117,10 +117,10 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
   - Strategy assistance and implementation
-Please list the organizations collaborating on this proposal.: |-
-  LA Family Housing
-  California State University Northridge
-  Pierce College
+Please list the organizations collaborating on this proposal.:
+  - LA Family Housing
+  - California State University Northridge
+  - Pierce College
 Which metrics will your submission impact?:
   - Housing affordability
   - Resilient communities

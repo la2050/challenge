@@ -121,9 +121,9 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Office space for meetings, events, or for staff'
   - 'Capacity, including staff'
   - Strategy assistance and implementation
-Please list the organizations collaborating on this proposal.: |-
-  Larchmont Charter School
-  City Charter Schools
+Please list the organizations collaborating on this proposal.:
+  - Larchmont Charter School
+  - City Charter Schools
 Which metrics will your submission impact?:
   - Arts education
   - Student proficiency in English & Language Arts

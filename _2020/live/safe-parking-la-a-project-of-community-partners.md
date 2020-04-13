@@ -95,11 +95,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - 'Capacity, including staff'
   - Strategy assistance and implementation
-Please list the organizations collaborating on this proposal.: |-
-  Palms Neighborhood Council
-  Del Rey Neighborhood Council
-  United Neighborhoods Neighborhood Council
-  Wilshire Center Koreatown Neighborhood Council
+Please list the organizations collaborating on this proposal.:
+  - Palms Neighborhood Council
+  - Del Rey Neighborhood Council
+  - United Neighborhoods Neighborhood Council
+  - Wilshire Center Koreatown Neighborhood Council
 Which metrics will your submission impact?:
   - Homelessness
 Are there any other LA2050 goal categories that your proposal will impact?:

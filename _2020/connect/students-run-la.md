@@ -129,14 +129,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Communications support
   - 'Capacity, including staff'
-Please list the organizations collaborating on this proposal.: >-
-  The Civics Center
-
-
-  ///
-
-  The legal name for Students Run LA is Students Run America. We operate under a
-  dba.
+Please list the organizations collaborating on this proposal.:
+  - The Civics Center
+  - ///
+  - >-
+    The legal name for Students Run LA is Students Run America. We operate under
+    a dba.
 Which metrics will your submission impact?:
   - Volunteerism
   - Voting rates

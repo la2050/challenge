@@ -119,11 +119,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
   - Accounting and financial guidance
-Please list the organizations collaborating on this proposal.: |-
-  People for Mobility Justice, 
-  Bikerowave, 
-  Cahuenga Branch Library (Los Angeles Public Library), 
-  Los Angeles LGBT Center (Children, Youth & Family Services) 
+Please list the organizations collaborating on this proposal.:
+  - 'People for Mobility Justice,'
+  - 'Bikerowave,'
+  - 'Cahuenga Branch Library (Los Angeles Public Library),'
+  - 'Los Angeles LGBT Center (Children, Youth & Family Services)'
 Which metrics will your submission impact?:
   - Walking and biking
   - Obesity

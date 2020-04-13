@@ -146,11 +146,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
   - 'Broader network to assist with sustainability of project and research '
-Please list the organizations collaborating on this proposal.: |-
-  Providence Saint John’s Child and Family Development Center (Lead agency)
-  Santa Monica Boys and Girls Club at Mar Vista Gardens Public Housing
-  The Rand Corporation
-  The Sierra Club
+Please list the organizations collaborating on this proposal.:
+  - Providence Saint John’s Child and Family Development Center (Lead agency)
+  - Santa Monica Boys and Girls Club at Mar Vista Gardens Public Housing
+  - The Rand Corporation
+  - The Sierra Club
 Which metrics will your submission impact?:
   - Poverty rate
   - Resilient communities

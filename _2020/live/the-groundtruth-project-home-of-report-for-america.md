@@ -137,10 +137,10 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Communications support
   - 'Office space for meetings, events, or for staff'
-Please list the organizations collaborating on this proposal.: |-
-  Spectrum News 1, Los Angeles, CA
-  Long Beach Post, Long Beach, CA
-  Voice of OC, Santa Ana, CA
+Please list the organizations collaborating on this proposal.:
+  - 'Spectrum News 1, Los Angeles, CA'
+  - 'Long Beach Post, Long Beach, CA'
+  - 'Voice of OC, Santa Ana, CA'
 Which metrics will your submission impact?:
   - Housing affordability
   - Poverty rate

@@ -98,10 +98,10 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Communications support
   - Strategy assistance and implementation
-Please list the organizations collaborating on this proposal.: |-
-  Two Bit Circus Foundation
-  Play with Music Program
-  Green Dot Public Schools
+Please list the organizations collaborating on this proposal.:
+  - Two Bit Circus Foundation
+  - Play with Music Program
+  - Green Dot Public Schools
 Which metrics will your submission impact?:
   - Employment in the creative industries
   - Global cultural and economic influence (“soft power”)

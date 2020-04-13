@@ -125,12 +125,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
   - Strategy assistance and implementation
-Please list the organizations collaborating on this proposal.: >-
-  Remix Music Combine Green Dot Public Schools youth program and mobile arts
-  provider (through the production of Dream North Entertainment)
-
-
-  https://instagram.com/rmc_mobilestagetrailer?igshid=1wm6uhayfz2vk
+Please list the organizations collaborating on this proposal.:
+  - >-
+    Remix Music Combine Green Dot Public Schools youth program and mobile arts
+    provider (through the production of Dream North Entertainment)
+  - 'https://instagram.com/rmc_mobilestagetrailer?igshid=1wm6uhayfz2vk'
 Which metrics will your submission impact?:
   - Arts education
   - Enrollment in afterschool programs

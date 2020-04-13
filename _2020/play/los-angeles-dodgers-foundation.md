@@ -122,16 +122,16 @@ Please describe the broader impact of your proposal.: >-
   school lunch.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
-Please list the organizations collaborating on this proposal.: |-
-  Kershaw’s Challenge
-  City of Compton
-  The Annenberg Foundation
-  San Manuel Band of Mission Indians
-  LA84 Foundation
-  Security Benefit
-  The Leon Lowenstein Foundation
-  Office of Supervisor Mark Ridley-Thomas
-  The Water Buffalo Club
+Please list the organizations collaborating on this proposal.:
+  - Kershaw’s Challenge
+  - City of Compton
+  - The Annenberg Foundation
+  - San Manuel Band of Mission Indians
+  - LA84 Foundation
+  - Security Benefit
+  - The Leon Lowenstein Foundation
+  - Office of Supervisor Mark Ridley-Thomas
+  - The Water Buffalo Club
 Which metrics will your submission impact?:
   - Youth sports participation
   - Access to open space and park facilities

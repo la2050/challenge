@@ -119,10 +119,10 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - 'Office space for meetings, events, or for staff'
   - 'Capacity, including staff'
-Please list the organizations collaborating on this proposal.: |
-  Everyone In - United Way
-  LA Councilmember David Ryu, District 4
-  Audubon Society at Debs Park
+Please list the organizations collaborating on this proposal.:
+  - Everyone In - United Way
+  - 'LA Councilmember David Ryu, District 4'
+  - Audubon Society at Debs Park
 Which metrics will your submission impact?:
   - Volunteerism
 Are there any other LA2050 goal categories that your proposal will impact?:

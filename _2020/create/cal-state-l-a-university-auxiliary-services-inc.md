@@ -91,14 +91,14 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
   - Other funding partnerships
-Please list the organizations collaborating on this proposal.: |-
-  Biocom Institute
-  Los Angeles Cleantech Incubator (LACI)
-  City of Los Angeles
-  LA Bioscience Hub
-  County of Los Angeles
-  CSU
-  East Los Angeles College  
+Please list the organizations collaborating on this proposal.:
+  - Biocom Institute
+  - Los Angeles Cleantech Incubator (LACI)
+  - City of Los Angeles
+  - LA Bioscience Hub
+  - County of Los Angeles
+  - CSU
+  - East Los Angeles College
 Which metrics will your submission impact?:
   - Jobs per capita
   - Minority- and women-owned businesses

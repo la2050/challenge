@@ -102,9 +102,9 @@ Please describe the broader impact of your proposal.: >-
 Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Communications support
-Please list the organizations collaborating on this proposal.: |-
-  1. Esperanza Immigrant Rights Project 
-  2. Central American Resource Center (CARECEN)
+Please list the organizations collaborating on this proposal.:
+  - Esperanza Immigrant Rights Project
+  - Central American Resource Center (CARECEN)
 Which metrics will your submission impact?:
   - Volunteerism
   - Immigrant integration

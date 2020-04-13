@@ -135,8 +135,8 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
   - Communications support
-Please list the organizations collaborating on this proposal.: |
-  Everytable 
+Please list the organizations collaborating on this proposal.:
+  - Everytable
 Which metrics will your submission impact?:
   - College graduates
   - College matriculation

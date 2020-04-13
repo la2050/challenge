@@ -33,7 +33,10 @@ project_description: >-
   specific themes or community issues. Stories will be collected and archived as
   a means to create further dialogues and grow networks 
 Which LA2050 goal will your submission most impact?: LA is the best place to CONNECT
-In which areas of Los Angeles will you be directly working?: []
+In which areas of Los Angeles will you be directly working?: 
+  - East LA
+  - City of Los Angeles (please select only if your project has a citywide benefit)
+  - Boyle Heights 
 In what stage of innovation is this project?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs) 
