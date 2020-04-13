@@ -106,6 +106,25 @@ Please explain how you will define and measure success for your project.: >-
 Approximately how many people will be directly impacted by this proposal?: '1200'
 Approximately how many people will be indirectly impacted by this proposal?: '75000'
 Please describe the broader impact of your proposal.: "Neighborhood Resiliency Garden hubs provide tools for LA communities to use in case of natural and manmade disasters, plus healthy spaces to be enjoyed by people on a daily basis.\_\n\nThese gardens provide local food to promote healthy eating, community bonding, and green jobs. Using the WEDEW to recycle green waste into clean water, energy, and biochar, sequesters carbon emissions as well as repurposes waste into important resources.\_\n\_\nWith each container also a canvas for public art, plus educational programming associated with the activation and maintenance of the gardens, NRGs will inspire students of all ages.\n\nEasily scalable, NRGs have the potential to create a network of healthy and sustainable green spaces throughout LA county."
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Unycyn Civic Arts will administer the Neighborhood Resiliency Garden project.
+
+
+  San Pedro High School’s Olguin Campus will provide the location for the WEDEW
+  and productive use for the biochar, including STEM education programming, and
+  long-term maintenance of the WEDEW.
+
+
+  The SkySource Resilience Lab will provide the WEDEW components and assemble
+  them using a repurposed shipping container at AltaSea.
+
+
+  AltaSea will provide the space for assembly, recycled shipping container and
+  community outreach, including an Open House during the building process.
+
+
+  Beautify Earth will coordinate with artists and the community to paint the
+  shipping container with water resiliency themed murals approved by the school.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

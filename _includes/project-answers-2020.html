@@ -33,6 +33,12 @@
 </ul>
 {% endif %}
 
+{% if page["If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project."] and
+      page["If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project."] != "" %}
+<h3>If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.</h3>
+{{ page["If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project."] | markdownify }}
+{% endif %}
+
 <h3>What is the need you’re responding to?</h3>
 {{ page["What is the need you’re responding to?"] | markdownify }}
 

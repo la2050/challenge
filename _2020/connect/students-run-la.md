@@ -124,6 +124,20 @@ Please describe the broader impact of your proposal.: >-
   capacity to make change, and register themselves and their friends to vote.
   Together, we can transform youth voting culture from one of apathy to
   inspired, active engagement this year and for years to come.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  In addition to training for the Marathon, students participate in SRLA Cares,
+  an initiative that empowers them to give back to their community through
+  social, environmental, and community awareness projects. Each group is
+  encouraged to engage their classmates to maximize their efforts in food
+  drives, holiday toy collections, energy education, and more.
+
+
+  With this infrastructure in place, students have a platform to learn about
+  another way to support their community - voting. As a partner, TCC brings the
+  necessary training and support for students. By collaborating with SRLA,
+  students are introduced to TCC through an organization they trust. TCC can
+  then work with this historically difficult to engage population, ultimately
+  supporting LA2050's civic engagement goal.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
@@ -144,6 +158,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: students-run-la
-order: 53
+order: 55
 
 ---

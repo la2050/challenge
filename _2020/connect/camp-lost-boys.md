@@ -90,6 +90,16 @@ Please describe the broader impact of your proposal.: >-
 
   This experience not only transforms the men, but it transforms their
   subsequent communities. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Intentional Man Project will focus on cross promotion to engage men of all
+  kinds. Camp Lost Boys currently serves trans men exclusively and Intentional
+  Man Project serves trans and cisgender men. It is our aim to bring men of all
+  experience together and IMP will do this through its broader reach. 
+
+
+  In programming for events and gatherings, Camp Lost Boys will provide chat
+  leaders and experts from the trans male perspective and Intentional Man
+  Project will provide leaders that are cisgender. 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
@@ -108,6 +118,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: camp-lost-boys
-order: 6
+order: 5
 
 ---

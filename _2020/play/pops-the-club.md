@@ -105,6 +105,18 @@ Please describe the broader impact of your proposal.: >-
   loved ones to heal and reframe the stigma about incarceration. Expanding this
   dialogue to include the general public is critical to helping both vulnerable
   populations have a successful chance to rejoin their communities.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  POPS and Defy will combine elements their existing programs to create a
+  collaborative project aimed at healing the pain of the prison system amongst
+  currently and formerly incarcerated people and their family members. Through
+  workshops and community events, our efforts will culminate in 1) an anthology
+  of writing and artwork created both in POPS Clubs and in our collaborative
+  workshops; 2) a community and in-prison performance; and 3) a video featuring
+  members of each of our organizations performing their work and speaking about
+  the impact of our PLAY together. Project outcomes will be increased
+  well-being, confidence and support in of POPS students, Defy members as well
+  as altering community members’ negative perceptions of those impacted by the
+  criminal justice system.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

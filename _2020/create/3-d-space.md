@@ -88,6 +88,20 @@ Please describe the broader impact of your proposal.: >-
   manner, and potentially spawn a publicly accessible network of digital
   stereoscopic images that can be shared among institutions and with the public
   at large.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  There is no specific collaborative partner for this project. 3-D SPACE is the
+  singular applicant for this grant. Funds will not be disbursed to any
+  partners.
+
+
+  In the past, 3-D SPACE has collaborated creatively with organizations
+  throughout the Los Angeles arts and education sectors, including the Los
+  Angeles Central Library, Columbia Memorial Space Center, LA Filmforum, the
+  Velaslavasay Panorama, the Echo Park Film Center, Captured Aural Phantasy
+  Theater, Monsterpalooza, Heritage Square Museum, the Academy of Motion Picture
+  Arts and Sciences, and the LA 3-D Club, as well as other arts and science
+  organizations, museums, galleries, libraries, and schools. When funded, this
+  project will offer multiple collaborative opportunities with these and others.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

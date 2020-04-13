@@ -136,6 +136,16 @@ Please describe the broader impact of your proposal.: >-
   building connections and community among Angelenos across lines of race,
   class, and neighborhood, we will create a movement that can prevent a health
   emergency from metastasizing into a social and economic crisis.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  This proposal is not technically a collaboration, but LA Forward’s work in
+  this area — and all others — is done in partnership with many organizations
+  and coalitions. LA Forward has been a leader in organizing and coordinating
+  the Healthy LA Coalition, which is a network of more than 250 organizations
+  that have come together in an unprecedented way to respond to the COVID-19
+  crisis. We considered applying as a coalition, but the leadership may expand
+  beyond us and a few other initial organizations, and at this stage we thought
+  it would be simpler for each leading organization to resource their work in
+  their own way.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
@@ -153,6 +163,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: la-forward
-order: 25
+order: 26
 
 ---

@@ -153,6 +153,23 @@ Please describe the broader impact of your proposal.: >-
   will directly participate in podcast tapings with another Angelenos; 1800 in
   the audience at live events. Additionally, we estimate the number of downloads
   of LA2050 podcast episodes to top 420,000.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Access Books has been building school libraries in Southern California for
+  decades. They are assisting us to identify public schools that would like us
+  to record on campus with their students. We will be providing books to
+  students and school libraries.
+
+
+  The LA Public Library (LAPL) has approved Book Club for Kids to tape episodes
+  at branches across the city under their “performer” program. They’ve also
+  distributed Book Club for Kids bookmarks and will distribute a new LA2020 “LA
+  is the Best Place for Bookworms!” bookmark. LAPL also helped publicize our
+  recent taping at the Studio City branch on its website, on social media, and
+  with printed materials.
+
+
+  Cal Poly Pomona researchers will study how the podcast can influence reading
+  habits, using surveys and focus groups, sharing findings.. 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

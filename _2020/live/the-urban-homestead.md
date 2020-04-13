@@ -119,6 +119,23 @@ Please describe the broader impact of your proposal.: >
   on our Youtube channel with the launch of the podcast episode video releases. 
   That impact would justify the production of a live and syndicated radio
   show.  
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Pasadena Media is a non-profit organization that facilitates, promotes and
+  produces public service television programming on behalf of Pasadena’s four
+  public and community access channels.
+
+
+  Late last year Pasadena Media opened Studio B, a turnkey state-of-the-art
+  podcasting studio.  Exec. Producer of the Urban Homestead Radio Podcast, David
+  Lawrence, is a community television producer at Pasadena Media and host of tv
+  series Museum Rat on the Arroyo Channel.  David has already been trained and
+  certified in the studio.
+
+
+  For three years, the Dervaes’ siblings who run TUH have hosted the show while
+  wearing all the production hats.  Because the information is so valuable, and
+  given in such a loving simple tone from a renowned authority, the show already
+  sees thousands of downloads each week.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support

@@ -77,6 +77,13 @@ Please describe the broader impact of your proposal.: >-
   actively managed for the general population, why can the marginalized
   populations which visit food pantries benefit from food choices matched to
   their medically determined needs.   
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Even though we are not initiating this project as a formal collaboration, we
+  may be working with several partners.  Dignity Health - California Hospital
+  Medical Center has provided us with nurses for our screening clinics.  We are
+  expanding out collaboration with WellCare Health Plans.  Los Angele County
+  Department of Public Health will be a potential partner.   Public Health
+  Programs at USC and UCLA will also be potential partners.   
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
@@ -91,6 +98,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: live
 filename: my-friends-house-inc
-order: 30
+order: 31
 
 ---

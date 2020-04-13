@@ -98,6 +98,20 @@ Please describe the broader impact of your proposal.: >-
   importer of seafood products and grows only 5% of the seafood we consume. The
   aquaculture demonstration site will support a Blue Economy workforce pathway
   creating local jobs necessary to farming bivalves and kelp. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+  The youth that Sharefest serves are students who face high barriers including
+  personal and systemic negative self-image. Sharefest’s role will be best
+  served as the liaison between AltaSea and the students. This will include
+  co-teaching the workshops, maintaining a rapport with each student identifying
+  individual needs and motivating each to see themselves as scientists. 
+
+
+  Our Underwater Robotics instructor is a retired science and engineering
+  California credentialed high school teacher who also leads a local underwater
+  robotic competitive team. He has previously taught the course and he wrote the
+  NGSS approved curriculum. Cabrillo Marine Aquarium educators wrote our NGSS
+  approved aquaculture curriculum, teaches our aquaculture workshops and serve
+  as mentors in the aquatic nursery lab.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support

@@ -87,6 +87,12 @@ Please describe the broader impact of your proposal.: >+
   the will. Moving us to a camaraderie where we would work together is the
   greatest impact the project could have.
 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >+
+  Although at this time there are no collaborators, I want to answer this
+  question because my project will be heavily dependent on collaboration. I will
+  recruit widely for organizations in Los Angeles to be collaborators who get
+  the word about the project out to their constituents.
+
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support

@@ -142,6 +142,22 @@ Please describe the broader impact of your proposal.: >-
 
   We note that a review of 35 studies from 6 countries (Tillman et al., 2018)
   showed that nature positively impacts mental health in children and teens. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+  -Boys and Girls Club will partner with CFDC on outings.  Since 1944, BCG has
+  been giving youth what they need to succeed, currently serving 4,000+ youth
+  ages 6-18 in 128 LA zip codes by providing a safe and nurturing environment. 
+
+
+  -RAND Corp, a nonprofit nonpartisan research group, will be the research
+  partner for the project. Rand helps improve policy and decision making through
+  research and analysis, developing solutions to public policy challenges
+  throughout the world. Each year, more than 5 million research products are
+  downloaded from RAND.org by policymakers, academics, and the general public. 
+
+
+  -Sierra Club’s Inspiring Connections Outdoors will be providing
+  training/technical assistance to CFDC staff.  ICO provides youth with
+  opportunities and resources to explore the outdoors. 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
@@ -160,6 +176,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: providence-saint-johns-child-and-family-development-center
-order: 35
+order: 36
 
 ---

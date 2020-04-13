@@ -91,6 +91,9 @@ Please describe the broader impact of your proposal.: >-
   from homelessness to equitable education. The implementation of CARES will
   immediately give policymakers insight into COVID-19's impact on the social
   sector, helping to determine the future of critically scarce resources.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  We will closely with MFLA on communication with nonprofit partners and the
+  region in order to make the platform a success.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

@@ -83,6 +83,24 @@ Please describe the broader impact of your proposal.: >
   food options and have suffered educational disparities.  SCI is expanding
   opportunity by offering financial and business education, low cost, affordable
   loans and healthcare, urban agriculture, and workforce development.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+  •Metro CDC: personal development classes to assist formerly incarcerated
+  individuals and at-risk youth to navigate obstacles that can block success
+
+  •Pacific Coast Regional SBDC: SBA certified Community Advantage lender, CDFI,
+  and SBDC who provides technical assistance, training and 1:1 business
+  consulting for entrepreneurs and growing businesses with onsite business
+  incubator
+
+  •Watts Health Foundation as a FQHC provides access to behavioral health,
+  trauma, alcohol and drug abuse counseling, and wellness checks
+
+  •City of Compton will provide infrastructure upgrades along with public safety
+  and planning that support affordable housing, commercial development, and
+  transit improvements
+
+  •Alma Backyard Farms: urban agribusiness training for area residents and
+  provides families with healthy foods 
 Which of LA2050’s resources will be of the most value to you?:
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.:
@@ -99,6 +117,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: live
 filename: neighborhood-housing-services-of-los-angeles-county
-order: 31
+order: 32
 
 ---

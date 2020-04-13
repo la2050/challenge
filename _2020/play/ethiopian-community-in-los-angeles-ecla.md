@@ -108,6 +108,18 @@ Please describe the broader impact of your proposal.: >-
   statistical outcomes recorded in the fight against various mental, diabetes,
   obesity, high blood pressure & other related illness levels in the city of Los
   Angeles for a 1 year period (before & after effects).
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  The Marathon Project is indeed a collaborative proposal, unilaterally
+  spearheaded by Iyob Tessema & his organization: LA ENDURANCE SPORTING GROUP.
+  Reporting to the Ethiopian Community in Los Angeles (ECLA), he is tasked with
+  comprehensively planning, directing, and otherwise managing all three phases
+  of this project: Introductory, Implementation & Conclusion. ECLA will assist
+  with any/all collaborative efforts with other African and African-American
+  Communities, but Iyob & his group are solely responsible for building and
+  maintaining newly formed relationships, and in all mutually beneficial work
+  efforts. Needless to say, Iyob & his group will also act as trainers, coaches,
+  mentors & guidance counselors to the 50-100 directly preparing, and ultimately
+  participating in the 2021 LA Marathon.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

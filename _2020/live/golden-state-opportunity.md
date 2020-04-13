@@ -115,6 +115,14 @@ Please describe the broader impact of your proposal.: >-
   particularly on children’s developing brains. This is especially important for
   people of color—the primary community GSO serves—who have historically endured
   the most inequitable economic conditions.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  We are not submitting a collaborative proposal; we will, however, be providing
+  subgrants to a number of partner organizations to help conduct outreach and
+  provide free tax preparation and other services. In order to reach low-income
+  Angelenos from throughout the county and from diverse communities, we work
+  with community-based organizations who are trusted messengers for our target
+  audiences, as well as school districts who can help us reach their families.
+  Our projected budget includes $304,000 for these community grants.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

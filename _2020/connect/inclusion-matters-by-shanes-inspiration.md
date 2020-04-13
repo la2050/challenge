@@ -82,6 +82,18 @@ Please describe the broader impact of your proposal.: >-
   impairments, and most of the students that participate in our programs are
   classified as having moderate to severe disabilities. Of the children we work
   with, 80% of them attend Title 1, which is an indicator of poverty.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  We have a 20-year track record of building strong partners that support social
+  inclusion for Los Angeles’ diverse communities. Mike Shull, General Manager of
+  Los Angeles Department of Recreation and Parks, has been a powerful partner,
+  helping to support the development of inclusive playgrounds since 1998. LAUSD
+  has partnered with our education program since 2002, connecting us to more
+  than 250 schools. Organizations such as Best Start, First 5 LA, regional
+  centers, Exceptional Children’s Foundation, Head Start, CHLA, and many more
+  have connected families to both gather input into the design of the
+  playgrounds and participate in our programs. We will utilize these existing
+  partnerships to identify sustainable grantees for Connect Families LA to scale
+  up inclusion for our families.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support

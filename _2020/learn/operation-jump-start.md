@@ -79,6 +79,18 @@ Please describe the broader impact of your proposal.: >
   of them choose to live in Los Angeles County.  Upon graduation they become
   active members and leaders of our community. An investment in OJS is an
   investment in the future of Los Angeles.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Although we are not applying for a collaboration grant, OJS believes that
+  collaboration is key to providing the best services while maximizing our
+  resources. We have long standing partnerships with the Long Beach Unified
+  School District and The City of Long Beach. For over 10 years, we have
+  partnered with California State Universities at Long Beach, Dominguez Hills
+  and Northridge who provide us with the master’s level social work interns that
+  provide our mental health services, in 2014 Simmons College became a partner
+  in this program. For more than a decade, we have been active in the Southern
+  California College Access Network (SO CAL CAN). Since 2016, in partnership
+  with All Ways Up, we have secured VISTA volunteers each year to assist us
+  within our development and program departments.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

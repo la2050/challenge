@@ -99,6 +99,12 @@ Please describe the broader impact of your proposal.: >-
   programming with your current reach to secure 3,000 festival attendees.  That
   is 6,000 Angelenos directly affected.  Our marketing automations, SEO, and
   keyword strategies will allow us to exponentially grow that reach by 20. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Puppet Master Marketing and Freeborn Productions in collaboration with
+  Convergence, work as the service verticals that will allow for Convergence to
+  scale as an operation.  By collectively building infrastructure, partnership
+  reach, brand integrations, virtual and live event activations we will reach a
+  more extensive scope of audiences and individuals.  
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

@@ -116,6 +116,51 @@ Please describe the broader impact of your proposal.: >
   Fellows have experience as engineers, principal research scientists, and data
   architects,; and have worked in energy, engineering, banking and finance,
   research, biotech, and pharmaceutical industries. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+  We are not submitting a collaborative proposal, but we do partner with
+  multiple public schools in Los Angeles. EnCorps has MOUs with the following
+  schools in Los Angeles:
+
+
+  Alliance Alice M. Baxter College-Ready HS
+
+  Alliance Health Services Academy 
+
+  Alliance Marine Innovation & Technology 6-12 Complex
+
+  Alliance Tennenbaum Family Technology HS
+
+  Bright Star Secondary
+
+  Canoga Park HS
+
+  Collegiate Charter HS
+
+  Dymally  HS
+
+  Edwin Markham Middle School 
+
+  George Washington Carver Middle School
+
+  Hollenbeck Middle School
+
+  John Muir  HS
+
+  Jordan HS
+
+  Lennox Math, Science, and Technology Academy
+
+  Lennox Middle School
+
+  STEM Academy of Hollywood
+
+  Synergy Quantum Academy 
+
+  Synergy Kinetic Academy
+
+  Stevenson College and Career Preparatory Middle School 
+
+  William Workman HS
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

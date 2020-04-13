@@ -116,6 +116,26 @@ Please describe the broader impact of your proposal.: >
   heighten awareness of current social issues, foster collaboration and
   celebrate our survivors’ stories of overcoming, inspiring 600 community
   members.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+  Our mission-aligned partner organizations are providing communications support
+  for Freedom & Fashion programming, space for program activities, and access to
+  interested participants. They will provide the location and students for us to
+  teach. 
+
+
+  We will partner with CAST LA, which is a Los Angeles–based nonprofit
+  organization that is working to put an end to modern slavery and human
+  trafficking through comprehensive, life-transforming services to survivors and
+  a platform to advocate for groundbreaking policies and legislation.
+
+
+  We'll also partner with The Hoving Home which house and serve women ages 18
+  and over who have been impacted by domestic violence, trafficking, drug
+  addiction, etc.
+
+
+  We work with our partners to administer surveys to evaluate program
+  participant’s experience. 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

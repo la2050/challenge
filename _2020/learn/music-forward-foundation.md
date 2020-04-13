@@ -135,6 +135,14 @@ Please describe the broader impact of your proposal.: >-
   we focus our recruitment on those currently underrepresented in the music
   industry (students of color, women, and from low-income households) through
   our network of partners, schools and community-based organizations.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Collaborations with LA City EWWD and ReLAY, a CSU5 initiative headquartered at
+  California State University, Northridge, will help increase our ability to
+  recruit youth and assess impact. Music Forward will bring programs focusing on
+  work readiness, career exploration, and job skills training for the music
+  industry to EWWD YouthSource Centers. Additionally, ReLAY will help us build
+  research on the barriers to access in the music industry and implement
+  initiatives to break down these barriers.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support

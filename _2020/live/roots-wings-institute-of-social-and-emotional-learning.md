@@ -106,6 +106,13 @@ Please describe the broader impact of your proposal.: >
   to provide social emotional learning (SEL) curriculum which is linked to
   improved: academic achievement, graduation rates, employment prospects,
   teacher retention, college and career-ready skills, school climate and safety.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Roots & Wings is the sole applicant for this proposal and will partner with
+  the Los Angeles Unified School District to provide access to The Good Life
+  Academy online therapy, text therapy and psychology curriculum to students and
+  parents within the district. We understand that schools are the center of
+  teens’ universe and through collaboration with the school district we can have
+  the greatest impact on our community. 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
@@ -118,6 +125,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: roots-wings-institute-of-social-and-emotional-learning
-order: 37
+order: 38
 
 ---

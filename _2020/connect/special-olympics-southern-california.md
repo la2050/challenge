@@ -167,6 +167,41 @@ Please describe the broader impact of your proposal.: >-
   us at:
 
   https://www.generationunified.org/.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Each participating Special Olympics Unified Champion Schools® will:
+
+
+  Agree to “Standard Expectations of Unified School Champions®.”
+
+
+  Provide school-based Liaison to work with SOSC to:
+
+
+  i.   develop UCS Annual Work Plan;
+
+  ii.  ensure agreed upon activities are being conducted on campus;
+
+  iii. identify and engage 2+ student youth leaders (preferably one with
+  intellectual disabilities and one without);
+
+  iv. monitor and ensure grant funds used appropriately;
+
+  v.  submit regular participation data;
+
+  vi. encourage and support UCS activities on campus; and 
+
+  vii.participate in evaluations.
+
+
+  Provide team rosters.
+
+
+  Ensure 1+ adult/UCS school participate in the free online Coaching Unified
+  Sports Course (NFHSLearn.com).
+
+
+  Ensure each student participant is recognized as any other student-athlete on
+  campus.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
@@ -190,6 +225,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: special-olympics-southern-california
-order: 52
+order: 53
 
 ---

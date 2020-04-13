@@ -101,6 +101,18 @@ Please describe the broader impact of your proposal.: >-
   who could benefit from them most. Bringing awareness to indigenous and native
   communities in the Northeast San Fernando Valley and brings cultural equity
   and inclusion to the forefront of the diverse LA demographic. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Pukúu Cultural Community Services, a non-profit based in San Fernando, is
+  joining Tia Chuchas as a partner to provide health, wellness, & cultural
+  empowerment to our communities via providing venue space, joint programming, &
+  facilitating intercultural dialogue. Pukúu’s Cultural Advocacy, Resiliency &
+  Empowerment Program (CARE) prioritizes cultural engagement as a means to help
+  shape our youth, enhance cultural identity, utilize various artforms & medium
+  in creative ways, improve mental, physical, & emotional health indicators,
+  reduce disparities, improve socialization and overall skill-sets, & improve
+  confidence/mastery of various disciplines, such as, but not limited to
+  storytelling, dance, music, and beading. Pukúu utilizes California Native
+  traditional lifeways and pan-Indian artforms.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
@@ -116,6 +128,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: tia-chuchas-centro-cultural-bookstore
-order: 57
+order: 59
 
 ---

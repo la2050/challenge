@@ -132,6 +132,19 @@ Please describe the broader impact of your proposal.: >
   services, providing entrepreneurs seamless access to the wealth of LA County’s
   capital, human and technical resources at the right time on their business
   journey.    
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+  CAMEO, the fiscal sponsor for Entrepreneurship Advantage has been in operation
+  for over 25 years. CAMEO will leverage their experience creating 
+  entrepreneurial ecosystems, building the capacity of nonprofits and advocating
+  for small business owners to ensure that Entrepreneurship Advantage continues
+  to make a sustainable impact in their community.  In addition,
+  Entrepreneurship Advantage will work with CAMEO to raise funding and develop
+  income generating activities.   
+
+
+  Partner organizations participating in the Steering Committee will provide
+  guidance to EA and will share their knowledge and expertise on the ground to
+  better connect more resources to more small businesses in LA County.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support

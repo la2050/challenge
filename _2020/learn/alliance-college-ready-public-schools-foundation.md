@@ -109,6 +109,18 @@ Please describe the broader impact of your proposal.: >-
   school leaders, and parents who are collectively invested in scholars’ safety
   and wellbeing, and who will benefit from scholars’ increased ability to
   discuss and regulate their emotional responses to stressors. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  The Alliance Foundation is serving as lead applicant for this proposal, with
+  project implementation being carried out by Alliance College-Ready Public
+  Schools. Existing solely to strengthen community support of and investment in
+  Alliance schools, the Alliance Foundation, a separate legal entity with no
+  overlapping board members or staff, works in tandem with Alliance to ensure
+  that excellent educational opportunities exist for scholars and families that
+  live in communities where traditional institutions have failed them. While
+  distinct 501(c)(3) entities, both organizations are working in fidelity to the
+  charge established by Alliance’s founders more than 15 years ago—to provide
+  support for scholars and families who deserve access to an exceptional public
+  education.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support

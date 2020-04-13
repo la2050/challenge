@@ -139,6 +139,17 @@ Please describe the broader impact of your proposal.: >-
 
   Policy Impact: We will crowdsource stories, ideas, and policy recommendations
   that articulate how LA residents envision the future of the city. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Shared_Studios is not applying with another organization but will work
+  directly with LA-based organizations to co-author and co-create hyperlocal
+  programming with local arts and civic organizations. These cultural
+  connections are designed to showcase local organizations and community groups
+  and connect residents to similar groups around the world. Past site partners
+  for the LA_Portal have included Grand Park, the Los Angeles Law Library, CSU
+  Dominguez Hills School of Art + Design, Mercado La Paloma, and Community
+  Services Unlimited. We have also developed onsite relationships and
+  partnerships nurtured on a block-by-block basis, most often programmed in
+  concert with people we meet onsite.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
@@ -156,6 +167,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: shared-studios-la-portal
-order: 48
+order: 49
 
 ---

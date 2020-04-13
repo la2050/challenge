@@ -115,6 +115,16 @@ Please describe the broader impact of your proposal.: >
   multicultural curriculum; ensure inclusion of marginalized individuals and
   reduce punitive measures by implementing restorative practices. 
    
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Both Larchmont and City Charters operate relationship-and-diversity-centered,
+  educational models. They have previously partnered to expand access to this
+  model in the educational field and their collaboration has won support from
+  the Walton Family Foundation and others. Much work lies ahead.  Leaders Amy
+  Held, Executive Director, Larchmont Charter School, and Valerie Braimah,
+  Executive Director, City Charter Schools plan to divide the work of this
+  project equally between themselves and their respective staffs. They plan for
+  a 50-50 split of the financial resources and the workload. Theirs is a
+  successful, tested collaboration with important, wide-reaching results. 
 Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Communications support

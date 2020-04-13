@@ -113,6 +113,13 @@ Please describe the broader impact of your proposal.: >-
 
   Our program empowers knitwear manufacturers to produce globally, and
   distribute locally.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  XponentialWorks is a venture investment, corporate advisory and product
+  development company, specializing in Artificial Intelligence, digital
+  manufacturing, 3D printing, robotics, and the digital transformation of
+  traditional businesses.  We are utilizing their ecosystem to help raise
+  awareness, speed development of the project, and to share the free program
+  files we have created for knit machines.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support

@@ -93,6 +93,17 @@ Please describe the broader impact of your proposal.: >-
   youth of South LA. We are breaking down socio-economic barriers, cycles of
   poverty, the creativity deficit, the tech literacy gap and the injustice of
   unequal access to opportunities and creative jobs. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Play with Music brings the content and expertise of the creative program
+  (bringing artists to work with students, the curriculum itself, field trips
+  and internship opportunities, etc). Green Dot Public Schools is our
+  educational administrative partner that Play with Music has worked with since
+  2015. We'll work together to create and meet metrics of success and expand our
+  existing programs to reach more students at more schools. The Two Bit Circus
+  Foundation is Play with Music's newest partner, who not only brings passion
+  and expertise in bringing STEAM education programs to schools and spaces, but
+  also the highest level of administrative and operations experience and
+  personnel needed to scale Play with Music to 4 more schools.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
@@ -111,6 +122,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: two-bit-circus-foundation
-order: 42
+order: 43
 
 ---

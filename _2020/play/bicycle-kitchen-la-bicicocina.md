@@ -115,6 +115,18 @@ Please describe the broader impact of your proposal.: >-
   motorized vehicle traffic throughout Los Angeles. These benefits would have
   substantial social, economic, and environmental impacts, and pave the way
   towards a better version of the city we all love and call home.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  People for Mobility Justice - This organization will teach the bicycle safety
+  classes.
+
+  Bikerowave - We will source additional necessary bicycle hardware from this
+  not-for-profit organization.
+
+  Cahuenga Branch Library (Los Angeles Public Library) - This library branch
+  will help us find program participants.
+
+  Los Angeles LGBT Center (Children, Youth & Family Services) - This center will
+  help us find program participants.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support

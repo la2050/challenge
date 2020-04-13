@@ -106,6 +106,18 @@ Please describe the broader impact of your proposal.: >-
   or visit family or friends without driving.  This will reduce air pollution
   and GHG emissions and help make our cities safer, more equitable and
   sustainable.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  MLA is partnering with a company called UrbanFootprint, to provide graphic GIS
+  mapping and evaluative services that can help determine the potential for
+  housing and transit ridership using various development scenarios along
+  boulevards of opportunity. UrbanFootprint was founded by two acclaimed
+  industry professionals, Peter Calthorpe and Joe DiStefano to help cities and
+  businesses tackle the biggest planning, mobility, and market challenges of the
+  21st century. The State of California has partnered with UrbanFootprint to
+  provide the software to more than 500 cities, counties, and regional agencies.
+
+  We will use this software to facilitate community development assessments at
+  our symposiums and reports to focus attention on two boulevards.  
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
@@ -121,6 +133,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: move-la-a-project-of-community-partners
-order: 29
+order: 30
 
 ---

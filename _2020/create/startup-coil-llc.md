@@ -82,6 +82,14 @@ Please describe the broader impact of your proposal.: >-
 
   L.A. can and will be the city of the future, and that starts by keeping our
   innovators here and giving them a chance to succeed.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Startup Coil is the largest startup, entrepreneurship, and technology
+  community in Southern California.
+
+
+  V ONE Inc provides the software platform, tools, and developers to make sure
+  every project in the accelerator has the resources required to launch a fully
+  functional mobile app by the end of the program.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
@@ -100,6 +108,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: startup-coil-llc
-order: 37
+order: 38
 
 ---

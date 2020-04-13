@@ -85,6 +85,9 @@ Please describe the broader impact of your proposal.: >+
 
 
 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Road to Artdom will be providing staff personnel and art supplies to support
+  this program.
 Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Communications support

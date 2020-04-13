@@ -4,7 +4,7 @@ title: Bigger than Baseball
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=bt1CM_Hy4vc'
 link_donate: 'https://www.mlb.com/dodgers/community/foundation/support/donation'
-link_volunteer: Not applicable.
+link_volunteer: ''
 link_newsletter: 'https://www.mlb.com/dodgers/forms/ladf-newsletter-registration'
 mailing_address_city: Los Angeles
 mailing_address_street: 1000 Vin Scully Ave
@@ -120,6 +120,23 @@ Please describe the broader impact of your proposal.: >-
   Roughly 28,000 youth live in Compton (29% of residents; 66.8% Latino, 30.4%
   Black/African American). More than 91% of students receive free or reduced
   school lunch.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Kershaw’s Challenge will sponsor the Fitness and Training Zones, which include
+  an outdoor training area, two enclosed batting cages and bullpens, infield
+  practice area, and outdoor fitness equipment to engage the community to visit
+  the park.
+
+
+  The City of Compton will support these Dodgers Dreamfields as part of
+  Compton’s 2020 citywide beautification initiative to encourage youth to play
+  baseball/softball in their neighborhood.
+
+
+  The Annenberg Foundation, San Manuel Band of Mission Indians, LA84 Foundation,
+  Security Benefit, The Leon Lowenstein Foundation, Office of Supervisor Mark
+  Ridley-Thomas, and The Water Buffalo Club have committed funding for this
+  project, bringing about a renewed energy to the sustainability and revival of
+  Compton, a neighborhood that has been historically neglected.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
 Please list the organizations collaborating on this proposal.:

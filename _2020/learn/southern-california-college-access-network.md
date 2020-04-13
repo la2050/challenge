@@ -83,6 +83,15 @@ Please describe the broader impact of your proposal.: >-
   down the road. Our work has also piqued the interest of state policymakers. Of
   course, our primary focus is LA and ensuring the most vulnerable Angelenos the
   right to a postsecondary education and pathway out of poverty. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+  Over the last three years, SoCal CAN and HACLA have developed a
+  highly-effective partnership to make Project SOAR available on five housing
+  sites. SoCal CAN bears all responsibility for project implementation, data
+  tracking, and reporting. HACLA’s role has been to: (1) provide space free of
+  charge on each public housing site to serve as the college center; (2) promote
+  Project SOAR to residents via robocalls, leaflets and community boards; and
+  (3) connect Project SOAR staff to other service providers that are delivering
+  important wrap-around services. 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support

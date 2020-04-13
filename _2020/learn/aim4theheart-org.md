@@ -109,6 +109,13 @@ Please describe the broader impact of your proposal.: >-
   accessible assists in relieving the angst that many of us are feeling and will
   have a positive impact on our mental health as we move through these uncertain
   times. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Convergence & Freeborn Productions, in collaboration with Aim 4 the Heart,
+  work as the for-profit vertical that will allow for Aim 4 the Heart to scale
+  as a non-profit organization. We will be building out the infrastructure,
+  county broad reach, brand integration & donations, live event actions, and
+  volunteers to scale what has already successfully worked, to a more extensive
+  scope of audiences and individuals. 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

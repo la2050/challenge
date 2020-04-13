@@ -103,6 +103,18 @@ Please describe the broader impact of your proposal.: >-
   Ultimately, Our goal is to transform the culture of LA. ShineLA envisions a
   city that embraces physical activity at all levels and celebrates all cultures
   as it embarks on this transformation.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  RAP: Our most important partner, together we will increase the engagement of
+  youth in physical activity and use of RAP facilities and programs. We are
+  working with RAP staff at every level, including Mayor Garcetti’s office.
+  Stanford University: Working with Dr. Abby King, Professor of Health
+  Research/Policy to implement the ‘citizen science’ approach. Arts Center:
+  Working with ArtCenter to develop a digital ecosystem that encompasses imagery
+  and storytelling components, to disseminate messages in culturally inclusive
+  and accessible way. Discovery Cube: ShineLA will develop educational
+  activities to be featured in the Discovery Cube e.g. exhibit on the science of
+  physical activity/ sport.  Garmin: Working with Garmin technology to provide
+  wearable fitness trackers to ShineLA participants. 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support

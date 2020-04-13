@@ -90,6 +90,23 @@ Please describe the broader impact of your proposal.: >-
   a common activity is a first step to bridging many of the social gaps we find
   ourselves with. While total number of people we reach will be in the hundreds,
   not thousands, the effect will be more impactful for those we do reach.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+  Hollywood Curling is our primary partner, assisting in curling instruction and
+  equipment.
+
+  Triumph Foundation and Angel City Sports are our wheelchair/adaptive sports
+  partners. We’ve worked with them for a number of years, including on ice
+  wheelchair clinics with Triumph Foundation.
+
+  LA84 has been a supporter of curling for a number of years and we plan to
+  expand our youth offerings with their assistance.
+
+  Scotweek is a celebration of Scottish culture which will assist in our
+  marketing.
+
+  We are working on other partners to add to the programming, including
+  organizations that work with veterans, individuals and families experiencing
+  homelessness, and the LGBTQ+ community. 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
@@ -111,6 +128,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: southern-california-curling-center
-order: 51
+order: 52
 
 ---

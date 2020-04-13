@@ -113,6 +113,17 @@ Please describe the broader impact of your proposal.: >-
   could affect millions of lives in the aggregate: those who find homes off of
   the streets; those who will be able to breathe clean air; and those who will
   have access to a better education. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  These are the nonprofit and civic partners we have to-date in each of our
+  three issues, with each providing expertise and in-kind support as follows:
+
+  • Homelessness
+     • Everyone In/United Way: Content leader for topics and speakers
+     • Councilmember David Ryu, District 4: In-kind space, logistical support, city awards
+  • Climate Change
+     • Audubon Center at Debs Park: topic experts, logistical support
+  • Equity in Education
+     • TBD
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

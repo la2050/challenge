@@ -122,6 +122,11 @@ Please describe the broader impact of your proposal.: >
   Long-term partnerships with Los Angeles Trade Tech College and Los Angeles
   Valley College will result in robust monitoring and create a pipeline for
   those seeking job opportunities and training in the sciences.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Los Angeles Trade Technical College and Los Angeles Valley College will serve
+  as project partners and subcontractors.  Students from partner schools will be
+  hired and trained to carry out some of the objectives of this work (e.g.,
+  monitoring and analysis).  Each student will receive payment for their work. 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

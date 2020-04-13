@@ -108,6 +108,13 @@ Please describe the broader impact of your proposal.: >+
   environment. We hope to encourage a positive relationship with nature and spur
   our youth to action in protecting our oceans. 
 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  We are not submitting a collaborative proposal per se but we do have partners
+  lined up to help us should we receive funding. We will hire surf instructors
+  from Mighty Underdogs to administer the surf teaching. We will also hire a
+  consultant from Roots & Wings to administer the program communication training
+  at the beginning of the summer. Lifeguards and CPR trainers will be hired
+  through LA County.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

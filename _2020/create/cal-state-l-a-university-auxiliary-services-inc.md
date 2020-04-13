@@ -87,6 +87,18 @@ Please describe the broader impact of your proposal.: >
   business expertise to the East Los Angeles region, virtually. Experts from the
   major world biotech hubs such as Boston and San Francisco can train and mentor
   our local startups, making entrepreneurship truly inclusive. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Biocom Institute and the Los Angeles Cleantech Incubator will work with LA
+  BioSpace to help train and educate the LA BioStart Fellows, with Leadership
+  and Business Fundamentals Suites of the training program, respectively. LA
+  Bioscience Hub and Biocom will help promote our program to entrepreneurs in
+  the Los Angeles region. The City and County of Los Angeles have provided
+  significant support to LA BioSpace construction and programming in the past
+  and will continue as partners going forward. We will work with our neighboring
+  Cal State University campuses (i.e., Northridge, Long Beach, Pomona, and
+  Dominguez Hills) and community college partners (East Los Angeles College and
+  Pasadena City College) to encourage their students to participate in the LA
+  BioStart program.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support

@@ -99,6 +99,51 @@ Please describe the broader impact of your proposal.: >-
   asylum seekers have their fair day in court, efficient pro bono services can
   build capacity. Mobilizing volunteers and law students exponentially increases
   access to legal assistance for asylum seekers and their families.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Esperanza Immigrant Rights Project has 4 years of experience hosting 150+
+  asylum clinics. Esperanza's role would be to provide: 
+
+  Staff to supervise the clinics
+
+  Training for volunteers
+
+  Client materials
+
+  Continued support for clinic participants throughout their cases
+
+
+  Central American Resource Center's role would be to provide:
+
+  Logistical Support/Overhead Costs
+
+  Space to host the clinics 
+
+  Printing/copies 
+
+  Office Supplies 
+
+  Internet
+
+  Equipment (laptops, projector, speakers)
+
+  Food/snacks
+
+  Supervising Attorney 
+
+  Legal Volunteers
+
+  Outreach to Asylum seekers
+
+  Outreach to Non Profit service providers + Relationship Building   
+
+
+  OneJustice's role would be to manage:
+
+  Volunteer recruitment
+
+  Design virtual platform
+
+  Project & grant management
 Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Communications support
@@ -114,6 +159,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: onejustice
-order: 43
+order: 44
 
 ---

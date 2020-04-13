@@ -109,6 +109,12 @@ Please describe the broader impact of your proposal.: >-
   of these companies will create bring capital infusion into the area. We
   anticipate that for each entrepreneur directly served, we will be able to
   impact 3.5 additional people (staff, family, community).
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  We believe strongly in the power of community partners and would not be where
+  we are today without them. We currently have several formal and informal
+  established partnerships (Office of Mayor Eric Garcetti being our primary
+  partner) as well as several in discussions for South LA, but we are submitting
+  this proposal as an individual organization. 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support

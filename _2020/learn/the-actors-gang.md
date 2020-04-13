@@ -94,6 +94,13 @@ Please explain how you will define and measure success for your project.: >
 Approximately how many people will be directly impacted by this proposal?: '75'
 Approximately how many people will be indirectly impacted by this proposal?: '2430'
 Please describe the broader impact of your proposal.: "In LAUSD there are 41 continuation high schools with an enrollment of 2,430 students. TAG-ED currently has the resources to offer programming in two of those schools. Having PROOF of the positive impact of programming will theoretically change the way resources and programs are delivered to this population impacting the students, their families and the community.\n\n“Overall school culture has improved; students who do not relate positively or have had positive relationships in school have been able to cultivate an improved school experience while participating in the workshops.” \n-\tWanda Helton Robinson, Principal, Whitney Young Continuation High School\n"
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  TAG has a long-standing relationship with administrators and teachers at Boyle
+  Heights Continuation High School. In addition, TAG has already had
+  conversations with LAUSD Arts Education Branch and WestEd. Both are on board
+  to cooperate in this effort. LAUSD-AEB has agreed to make data available to
+  WestEd for research purposes. WestEd has indicated the interest and ability to
+  conduct a one-year intensive study. 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
 Please list the organizations collaborating on this proposal.:

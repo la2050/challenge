@@ -123,6 +123,32 @@ Please describe the broader impact of your proposal.: >-
   community to connect with other regions and attract more investment to the
   area. This program will crank the flywheel to generate momentum for a
   community that has the assets to meaningfully transform the region.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  The Alliance recruited and engaged diverse volunteer leaders that represent
+  key stakeholder groups and that will strengthen DTLA’s startup community:
+   
+  Stewart Easterby, Partner, Greycroft (investor)
+
+  Glen Allison, COO, Honey (startup)
+
+  Jamie Sullivan, Director of Corporate Affairs, Soylent (startup)
+
+  Jasson Crockett, Policy Manager, LA Mayor's Office (government)
+
+  Rubén Flores-Saaib, Associate Director, USC Stevens (university)
+
+  Maria Anguiano, SVP, Strategy & Planning, ASU + UC Regent (university)
+
+  Miki Reynolds, Executive Director, Grid 110 (community)
+
+  Jim Winett, EIR, LACI (community)
+
+  Todd Terrazas, Executive Director, AILA (community)
+
+  Nick Griffin, Executive Director, Downtown Center Business Improvement
+  District (corporate)
+
+  Michael Shilstone, Director, Central City Association (corporate)
 Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Communications support

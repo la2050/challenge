@@ -120,6 +120,18 @@ Please describe the broader impact of your proposal.: >-
   to provide programs to a changing generation of seniors; continue building
   bridges within our community to foster peace, harmony and unity, as seniors
   break bread together, nourish their bodies & spirits, and break down walls. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  VIC has 265 volunteers & a vast network of collaborative partners: 1) food
+  providers/caterers supply nutritious meals daily; 2) numerous nonprofit human
+  service organizations & govt agencies comprise our Continuum of Care who refer
+  seniors; 3) nonprofits/individuals who partner in provision of evidence-based
+  programs (eg, A Matter of Balance, UCLA Memory Training, Arthritis Fdn’s
+  Exercise Program & Walk with Ease Program); 4) funders like City of LA Dept.
+  of Aging, LA Rec & Parks who make possible our 4 Centers—safe places providing
+  nutrition, social, education, fitness, and recreation; 5) other partners: LA
+  City/County, UCLA/USC/CSUN, Partners In Care Fdn, El Nido, NCOA, AARP, MOW
+  America, MOWCA, Eisner Fdn, AthemBlueCross, Providence Healthcare Hospitals,
+  local/state/federal govts, more.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
@@ -140,6 +152,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: valley-intercommunity-council
-order: 58
+order: 59
 
 ---

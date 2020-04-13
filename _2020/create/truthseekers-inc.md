@@ -143,6 +143,18 @@ Please describe the broader impact of your proposal.: >-
   We will empower individuals to experience deeper connection and understanding
   of different cultures through the lens of Los Angeles, as they discovery and
   feature artists from around the world.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  PharcydeTV ~ Studio & Facilities Maintenance, Hardware & Software Engineers,
+  etc.
+
+
+  Truthseekers ~ Student Outreach & Training Program, Music Investment Budget,
+  Satellite Studio Costs at Dorsey High School & headquarters, Online Music Art
+  Workshops, Art Supplies
+
+
+  Dank Radio ~  Guest Wellness Teacher/Content Curation Production Gear & Costs,
+  Music Costs, Satellite Studio Costs
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
@@ -158,6 +170,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: truthseekers-inc
-order: 41
+order: 42
 
 ---

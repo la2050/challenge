@@ -2,7 +2,7 @@
 application_id: '5925816703'
 title: Leadership Development
 organization_description: Nonprofit
-project_video: not applicable
+project_video: ''
 link_donate: 'https://lanatureforall.org/donate/'
 link_volunteer: 'https://lanatureforall.org/what-we-do/programs/leadershipdevelopment/'
 link_newsletter: >-

@@ -94,6 +94,19 @@ Please describe the broader impact of your proposal.: >-
   every direct job created, it will generate 2.5 indirect jobs. This project
   will create a group of successful entrepreneurs who can branch out into other
   business opportunities and inspire others in the Central American community.  
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+  Loyola Marymount University – The Center for International Business Education
+  (CIBE) has received a $1 million grant from the US Dept. of Education. The LMU
+  faculty will provide technical expertise, including its Personal Initiative
+  business training program and resources from the College of Business
+  Administration’s Kiesner Center for Entrepreneurship . It will also serve as a
+  resource for recruiting interns.
+
+
+  USC –The Blackstone LaunchPad at USC will serve as a portal to the University
+  for technical expertise and for interns. For example, the LaunchPad can
+  connect participants needing expertise with blockchain applications to expert
+  faculty in the Viterbi School of Engineering.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

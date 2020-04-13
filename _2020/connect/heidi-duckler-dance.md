@@ -113,6 +113,18 @@ Please describe the broader impact of your proposal.: >-
   will bring music and movement therapy directly to individuals marginalized by
   homelessness. We will also work with Ninth Street Elementary, a local school,
   to produce a series of Teaching Artist-led workshops. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  HDD will work with the LA Fashion District Business Improvement District
+  (BID); local businesses and property owners; SLATE-Z; local and State
+  government; Ninth Street Elementary; and other local nonprofit partners to
+  ensure that the unique “maker” culture of the existing community can remain
+  and residents are not displaced. These relationships developed when we moved
+  our headquarters in the Bendix Building in the Fashion District four years
+  ago. To introduce ourselves to the community, we visited local shops with a
+  boombox and danced in them. The owners, workers, and patrons not only accepted
+  and appreciated this effort, but they danced with us. We are proud to have a
+  number of Statements of Support from businesses and property owners who are
+  excited to participate in Los Angeles Street.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support

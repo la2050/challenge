@@ -104,6 +104,20 @@ Please describe the broader impact of your proposal.: >-
   multiple interconnected roots of social problems in our neighborhoods. It
   calls for collaborative, comprehensive and sustained efforts to transform
   these underlying conditions through participation. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+  One Voice works now as a partner serving our students, as they look for
+  guidance selecting a college, community college, or trade school upon high
+  school graduation. Their Scholars Program prepares and supports 150 low-income
+  students from Los Angeles for college success through professional college
+  advisement, personal counseling, college essay instruction, SAT preparation
+  courses, application and testing fees, emergency funds, and “wraparound”
+  services available to each Scholar and each Scholars’ family. to graduate from
+  college. 
+
+
+  As a testament to their commitment, 100% of their Scholars are admitted to
+  four-year colleges, 95% graduate from college, and over 30% go on to graduate
+  school.
 Which of LA2050’s resources will be of the most value to you?:
   - Communications support
 Please list the organizations collaborating on this proposal.: One Voice

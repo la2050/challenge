@@ -117,6 +117,18 @@ Please describe the broader impact of your proposal.: >-
   Public art acts as a megaphone for marginalized people to extend their voice
   and demand equity. VCH has found all of this to be true - murals promote a
   sense of identity, belonging, and welcoming in low-income buildings. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  The organizations listed as partners on this proposal are members of the
+  ArtsC2 external committee. The external members include VCH tenants, VCH
+  program participants, local artists, and interested community members.
+  Including external committee allows ArtC2 to gain the support of the community
+  and obtain advice and assistance in areas in which we may not have experience.
+  Many of the external committee members come from other nonprofits and art
+  organizations, making ArtC2 a truly collaborative effort. The internal and
+  external members meet to discuss items such as the distribution and review of
+  Request for Qualification submissions and artist selection for the
+  installations. Representatives from these arts organizations also assist with
+  interviewing potential artists.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
@@ -140,6 +152,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: venice-community-housing
-order: 44
+order: 45
 
 ---

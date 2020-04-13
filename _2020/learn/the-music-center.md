@@ -143,6 +143,16 @@ Please describe the broader impact of your proposal.: >-
   greatest barriers that people with disabilities encounter – that is, barriers
   enforced by those who do not understand their needs – bridging differences and
   creating a culture of empathy and understanding.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  LAUSD and LACOE are active collaborators in the overall planning and
+  conception of the festival, including selecting the festival’s theme. Both
+  partners also reach out to all schools in their district about the festival
+  opportunity and provide staff and volunteers to work at VSAF. Additionally,
+  LAUSD provides bus funding for schools performing at VSAF and contributes to
+  design and mounting of the student art exhibit. LACOE funds a select number of
+  teaching artist residencies in schools connected to the festival, as well as
+  bus funding for the residency schools and collaboration on the VSAF curriculum
+  that goes out to all participating schools.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
