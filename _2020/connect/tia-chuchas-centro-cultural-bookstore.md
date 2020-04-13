@@ -4,7 +4,7 @@ title: >-
   Indigenous In Us: Embracing Ancestral Knowledge and Sharing the Beauty of
   Practice
 organization_description: Nonprofit
-project_video: 'https://www.youtube.com/watch?v=Z1NfpgcMpso'
+project_video: 'https://www.youtube.com/watch?v=YWa2YtXvSAE'
 link_donate: 'https://www.tiachucha.org/donate'
 link_volunteer: 'https://www.tiachucha.org/volunteer_tiachucha'
 link_newsletter: ''
