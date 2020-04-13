@@ -102,24 +102,24 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - 'Capacity, including staff'
   - Strategy assistance and implementation
-Please list the organizations collaborating on this proposal.: |-
-  Culinary Art School Tijuana
-  Hacienda Guadalupe Vinicola, Valle de Guadalupe
-  Pedro Poncelis Jr. Sommelier
-  Humberto Raygoza- The Chori-Man
-  Maite Gomez Rejon- Artbites
-  Jocelyn Ramirez- Todo Verde
-  Gilberto Cetina- Chichen Itza / Holbox
-  Oscar Ochoa- El Machete Salsas
-  Deysi Serrano- Milpa Grille
-  Bret and Lucy Thompson- Pez Cantina
-  Jaime Martin del Campo and Ramiro Arvizu- La Casita Mexicana
-  Ricardo Ortega- Kernel of Truth Organics
-  El Molino Pujol- CDMX
-  Masala y Maiz- CDMX
-  Ivan Vasquez- Madre!
-  Dora Herrera- Yucas
-  Lopez Family- La Guelaguetza
+Please list the organizations collaborating on this proposal.:
+  - Culinary Art School Tijuana
+  - 'Hacienda Guadalupe Vinicola, Valle de Guadalupe'
+  - Pedro Poncelis Jr. Sommelier
+  - Humberto Raygoza- The Chori-Man
+  - Maite Gomez Rejon- Artbites
+  - Jocelyn Ramirez- Todo Verde
+  - Gilberto Cetina- Chichen Itza / Holbox
+  - Oscar Ochoa- El Machete Salsas
+  - Deysi Serrano- Milpa Grille
+  - Bret and Lucy Thompson- Pez Cantina
+  - Jaime Martin del Campo and Ramiro Arvizu- La Casita Mexicana
+  - Ricardo Ortega- Kernel of Truth Organics
+  - El Molino Pujol- CDMX
+  - Masala y Maiz- CDMX
+  - Ivan Vasquez- Madre!
+  - Dora Herrera- Yucas
+  - Lopez Family- La Guelaguetza
 Which metrics will your submission impact?:
   - 'Arts establishments, instillations, and exhibitions'
   - Global cultural and economic influence (“soft power”)

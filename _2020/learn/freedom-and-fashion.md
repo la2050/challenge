@@ -123,10 +123,9 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Office space for meetings, events, or for staff'
   - 'Capacity, including staff'
   - Strategy assistance and implementation
-Please list the organizations collaborating on this proposal.: |-
-  The Hoving Home
-
-  CAST LA
+Please list the organizations collaborating on this proposal.:
+  - The Hoving Home
+  - CAST LA
 Which metrics will your submission impact?:
   - Arts education
 Are there any other LA2050 goal categories that your proposal will impact?:

@@ -121,11 +121,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
   - Tech Support
-Please list the organizations collaborating on this proposal.: |-
-  1. Safe Place for Youth (SPY)
-  2. UCLA Center for Community Learning (UCLA CCL)
-  3. Venice Community Housing (VCH)
-  4. Department of Mental Health (DMH) 
+Please list the organizations collaborating on this proposal.:
+  - Safe Place for Youth (SPY)
+  - UCLA Center for Community Learning (UCLA CCL)
+  - Venice Community Housing (VCH)
+  - Department of Mental Health (DMH)
 Which metrics will your submission impact?:
   - Food insecurity
   - Resilient communities

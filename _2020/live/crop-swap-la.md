@@ -110,14 +110,14 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
   - 'Political influence on policies that could improve gardening '
-Please list the organizations collaborating on this proposal.: |-
-  Partnerships Lined Up include:
-  Erin Riley with Hope Gardens (vegetable and native garden installations)
-  Mike Garcia with Enviroscape (rainwater catchment installations)
-  Crop Swap LA (maintenance and distribution)
-  Chrysalis (part time labor and reentry support)
-  Tree People (orchard installations)
-  City Plants (seedlings)
+Please list the organizations collaborating on this proposal.:
+  - 'Partnerships Lined Up include:'
+  - Erin Riley with Hope Gardens (vegetable and native garden installations)
+  - Mike Garcia with Enviroscape (rainwater catchment installations)
+  - Crop Swap LA (maintenance and distribution)
+  - Chrysalis (part time labor and reentry support)
+  - Tree People (orchard installations)
+  - City Plants (seedlings)
 Which metrics will your submission impact?:
   - Access to healthy food
   - Water-use efficiency

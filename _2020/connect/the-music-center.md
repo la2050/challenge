@@ -82,7 +82,25 @@ Please describe the broader impact of your proposal.: >-
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
-Please list the organizations collaborating on this proposal.: "We anticipate the return of the following Dance DTLA teaching artist-partners (listed alongside the length of their tenure with The Music Center):\n1.\tRick Dominguez (aka DJ Rick) – Line Dance & Two Step, 12+ years;\n2.\tLeslie Ferreira – Salsa, Bachata, and Cumbia, 10+ years;\n3.\tFransini Giraldo – Samba, 8+ years;\n4.\tIlona Glinarsky – Argentine Tango, 10+ years;\n5.\tBrandon Juezan – Hip-Hop and Funk, one year; \n6.\tChuck Maa – K-Pop, one year;\n7.\tAchinta S. McDaniel – Bollywood, 12+ years;\n8.\tAndrew Vaca – Disco, 80’s and 90s, 13+ years.\n\nIn addition, we expect collaboration in the form of financial support from past funders such as Bank of America and the Korean Cultural Center. We are also bringing civic partners including the League of Women’s Voters and the Los Angeles County Registrar in order to supplement our dance engagements with voter registration and voting informational booths."
+Please list the organizations collaborating on this proposal.:
+  - >-
+    We anticipate the return of the following Dance DTLA teaching
+    artist-partners (listed alongside the length of their tenure with The Music
+    Center):
+  - 'Rick Dominguez (aka DJ Rick) – Line Dance & Two Step, 12+ years;'
+  - 'Leslie Ferreira – Salsa, Bachata, and Cumbia, 10+ years;'
+  - 'Fransini Giraldo – Samba, 8+ years;'
+  - 'Ilona Glinarsky – Argentine Tango, 10+ years;'
+  - 'Brandon Juezan – Hip-Hop and Funk, one year;'
+  - 'Chuck Maa – K-Pop, one year;'
+  - 'Achinta S. McDaniel – Bollywood, 12+ years;'
+  - 'Andrew Vaca – Disco, 80’s and 90s, 13+ years.'
+  - >-
+    In addition, we expect collaboration in the form of financial support from
+    past funders such as Bank of America and the Korean Cultural Center. We are
+    also bringing civic partners including the League of Women’s Voters and the
+    Los Angeles County Registrar in order to supplement our dance engagements
+    with voter registration and voting informational booths.
 Which metrics will your submission impact?:
   - Public arts and cultural events
   - Voting rates

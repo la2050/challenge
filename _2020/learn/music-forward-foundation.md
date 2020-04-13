@@ -139,10 +139,10 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
   - Strategy assistance and implementation
-Please list the organizations collaborating on this proposal.: |-
-  ReLAY (Reconnecting Los Angeles Youth)
-  Economic & Workforce Development Department (EWDD)
-  City of Los Angeles
+Please list the organizations collaborating on this proposal.:
+  - ReLAY (Reconnecting Los Angeles Youth)
+  - Economic & Workforce Development Department (EWDD)
+  - City of Los Angeles
 Which metrics will your submission impact?:
   - Arts education
   - Opportunity youth (“Disengaged youth” 16-24 not working or in school)

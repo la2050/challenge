@@ -90,10 +90,10 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - 'Capacity, including staff'
   - Strategy assistance and implementation
-Please list the organizations collaborating on this proposal.: |2-
-   - Urban Soil / Tierra Urbana (USTU)
-   - Beverly-Vermont Community Land Trust (BVCLT)
-   - Bresee Foundation
+Please list the organizations collaborating on this proposal.:
+  - Urban Soil / Tierra Urbana (USTU)
+  - Beverly-Vermont Community Land Trust (BVCLT)
+  - Bresee Foundation
 Which metrics will your submission impact?:
   - Access to healthy food
   - Local water

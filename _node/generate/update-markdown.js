@@ -164,10 +164,29 @@ let orderCursors = {
 }
 
 function processFile(filename) {
+  let changed = false;
 
   // Load the contents of the file
   let data = loadMarkdown(filename);
   if (!data) return;
+
+  console.log(data.yaml['Please list the organizations collaborating on this proposal.']);
+  if (data.yaml['Please list the organizations collaborating on this proposal.'] &&
+      data.yaml['Please list the organizations collaborating on this proposal.'] != "") {
+    const items = data.yaml['Please list the organizations collaborating on this proposal.'].split(/\n/)
+    if (items.length > 1) {
+      data.yaml['Please list the organizations collaborating on this proposal.'] = items.map(item => {
+        return item.trim()
+          .replace(/^\-[\s]*/g, "")
+          .replace(/^\*[\s]*/g, "")
+          .replace(/^[0-9]\.[\s]*/g, "")
+          .replace(/^\•[\s]*/g, "")
+          .replace(/^\.[\s]*/g, "")
+      }).filter(item => item != "");
+      changed = true;
+    }
+  }
+  console.log(data.yaml['Please list the organizations collaborating on this proposal.']);
 
   // data.yaml.is_test_data = true;
 
@@ -269,7 +288,7 @@ function processFile(filename) {
 
   data.yaml.order = orderCursors[data.yaml.category]++;
 
-  saveMarkdown(filename, data);
+  if (changed) saveMarkdown(filename, data);
 }
 
 // https://stackoverflow.com/questions/20822273/best-way-to-get-folder-and-file-list-in-javascript#21459809

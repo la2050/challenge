@@ -125,17 +125,14 @@ Please describe the broader impact of your proposal.: >-
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
-Please list the organizations collaborating on this proposal.: >-
-  - Lead applicant: California Environmental Justice Alliance (CEJA)
-
+Please list the organizations collaborating on this proposal.:
+  - 'Lead applicant: California Environmental Justice Alliance (CEJA)'
   - Central Coast Alliance United for a Sustainable Economy (CAUSE)
-
   - Communities for a Better Environment (CBE)
-
   - Community Center for Action and Environmental Justice (CCAEJ)
-
-  - Sierra Club’s My Generation Campaign, fiscally sponsored by Sierra Club
-  Foundation
+  - >-
+    Sierra Club’s My Generation Campaign, fiscally sponsored by Sierra Club
+    Foundation
 Which metrics will your submission impact?:
   - Air quality
   - Renewable energy use

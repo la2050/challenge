@@ -127,16 +127,16 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Communications support
   - 'Capacity, including staff'
-Please list the organizations collaborating on this proposal.: |-
-  Greycroft
-  Honey
-  Soylent
-  Los Angeles Mayor’s Office
-  Grid110
-  Los Angeles CIeantech Incubator (LACI)
-  AI LA
-  Downtown Center Business Improvement District
-  Central City Association (CCA)
+Please list the organizations collaborating on this proposal.:
+  - Greycroft
+  - Honey
+  - Soylent
+  - Los Angeles Mayor’s Office
+  - Grid110
+  - Los Angeles CIeantech Incubator (LACI)
+  - AI LA
+  - Downtown Center Business Improvement District
+  - Central City Association (CCA)
 Which metrics will your submission impact?:
   - Global cultural and economic influence (“soft power”)
   - High-growth startups

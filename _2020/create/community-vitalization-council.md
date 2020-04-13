@@ -98,9 +98,9 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
   - Communications support
-Please list the organizations collaborating on this proposal.: |-
-  Loyola Marymount
-  USC Blackstone Launch Pad
+Please list the organizations collaborating on this proposal.:
+  - Loyola Marymount
+  - USC Blackstone Launch Pad
 Which metrics will your submission impact?:
   - Global cultural and economic influence (“soft power”)
   - Minority- and women-owned businesses

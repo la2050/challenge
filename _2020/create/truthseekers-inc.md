@@ -147,9 +147,9 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
   - Communications support
-Please list the organizations collaborating on this proposal.: |-
-  PharcydeTV
-  Dank Radio
+Please list the organizations collaborating on this proposal.:
+  - PharcydeTV
+  - Dank Radio
 Which metrics will your submission impact?:
   - Employment in the creative industries
 Are there any other LA2050 goal categories that your proposal will impact?:

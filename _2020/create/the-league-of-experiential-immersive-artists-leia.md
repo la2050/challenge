@@ -134,15 +134,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Office space for meetings, events, or for staff'
   - 'Capacity, including staff'
   - Strategy assistance and implementation
-Please list the organizations collaborating on this proposal.: >
-  The HERE Institute; HERE Festival & Summit
-
-
-  The City of LA’s Department of Cultural Affairs is a co-sponsor
-
-
-  Think Tank Gallery and Tanner Blackman are consultants and programming
-  directors
+Please list the organizations collaborating on this proposal.:
+  - The HERE Institute; HERE Festival & Summit
+  - The City of LA’s Department of Cultural Affairs is a co-sponsor
+  - >-
+    Think Tank Gallery and Tanner Blackman are consultants and programming
+    directors
 Which metrics will your submission impact?:
   - 'Arts establishments, instillations, and exhibitions'
   - Employment in the creative industries

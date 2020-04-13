@@ -83,21 +83,17 @@ Please describe the broader impact of your proposal.: >-
   increasing health, safety, and a sense of unity in the communities.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
-Please list the organizations collaborating on this proposal.: >-
-  - Community Safety Partnership of the 77th Division of the Los Angeles Police
-  Department
-
+Please list the organizations collaborating on this proposal.:
+  - >-
+    Community Safety Partnership of the 77th Division of the Los Angeles Police
+    Department
   - The LA Department of Recreation and Parks (Jackie Tatum Harvard Park)
-
   - The LA Department of Recreation and Parks (South Park)
-
-  - The Economic Empowerment Congress Central Area Neighborhood Development
-  Council
-
+  - >-
+    The Economic Empowerment Congress Central Area Neighborhood Development
+    Council
   - The District Music Group
-
   - The offices of the 8th Council District (Marqueece Harris-Dawson)
-
   - The offices of the 9th Council District (Curren Price)
 Which metrics will your submission impact?:
   - Access to open space and park facilities

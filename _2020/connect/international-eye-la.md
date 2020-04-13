@@ -117,10 +117,10 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - 'Capacity, including staff'
   - Strategy assistance and implementation
-Please list the organizations collaborating on this proposal.: |-
-  Black Arts Los Angeles (Moza Cooper) Juneteenth Heritage Festival 
-  Ideal Chalk ( Gloria Ing and David London ) Leimert Park Chalk Walk Festival
-  Belize Caye Fest  (Patric Barrow)
+Please list the organizations collaborating on this proposal.:
+  - Black Arts Los Angeles (Moza Cooper) Juneteenth Heritage Festival
+  - Ideal Chalk ( Gloria Ing and David London ) Leimert Park Chalk Walk Festival
+  - Belize Caye Fest  (Patric Barrow)
 Which metrics will your submission impact?:
   - Social and emotional support
   - Public arts and cultural events

@@ -106,33 +106,33 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Office space for meetings, events, or for staff'
   - 'Capacity, including staff'
   - Strategy assistance and implementation
-Please list the organizations collaborating on this proposal.: |-
-  Alexandria House
-  Blessed Sacrament
-  Carson Victory Outreach
-  Cochran Baptist Church
-  Downtown Victory Outreach
-  Dream Center
-  Eagle Rock Victory Outreach
-  Reseda Victory Outreach
-  San Fernando Valley Rescue Mission
-  SELAH
-  Hollywood Silvercrest Senior Housing
-  Trinity Lutheran Church
-  Van Ness Recovery House
-  Village Family Services
-  NBC
-  Paramount
-  Fox/ABC (Modern Family)
-  Fox/ABC (Fresh off the Boat)
-  Canyon Partners
-  Panda Express
-  Sprinkles
-  Coffee Commisary
-  Lawry's Prime Rib
-  Canter's Deli
-  Whole Foods
-  Trader Joe's
+Please list the organizations collaborating on this proposal.:
+  - Alexandria House
+  - Blessed Sacrament
+  - Carson Victory Outreach
+  - Cochran Baptist Church
+  - Downtown Victory Outreach
+  - Dream Center
+  - Eagle Rock Victory Outreach
+  - Reseda Victory Outreach
+  - San Fernando Valley Rescue Mission
+  - SELAH
+  - Hollywood Silvercrest Senior Housing
+  - Trinity Lutheran Church
+  - Van Ness Recovery House
+  - Village Family Services
+  - NBC
+  - Paramount
+  - Fox/ABC (Modern Family)
+  - Fox/ABC (Fresh off the Boat)
+  - Canyon Partners
+  - Panda Express
+  - Sprinkles
+  - Coffee Commisary
+  - Lawry's Prime Rib
+  - Canter's Deli
+  - Whole Foods
+  - Trader Joe's
 Which metrics will your submission impact?:
   - Access to healthy food
   - Food insecurity

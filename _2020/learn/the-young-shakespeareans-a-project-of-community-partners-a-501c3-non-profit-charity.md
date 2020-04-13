@@ -2,12 +2,7 @@
 application_id: '8477243904'
 title: The Young Shakespeareans (TYS)
 organization_description: A fiscally sponsored group
-project_video: https://vimeo.com/364542438
-# project_video: |-
-#  A Taste of TYS   https://vimeo.com/364542438.       
-#  R & JThe Program in Action    https://vimeo.com/240442550
-#  “A Midsummer Night’s Dream. https://vimeo.com/314435685
-#           
+project_video: 'https://vimeo.com/364542438'
 link_donate: 'https://theyoungshakespeareans.networkforgood.com/'
 link_volunteer: 'https://www.theyoungshakespeareans.com/volunteer'
 link_newsletter: 'https://www.theyoungshakespeareans.com/news'
@@ -106,22 +101,14 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Office space for meetings, events, or for staff'
   - 'Capacity, including staff'
   - Strategy assistance and implementation
-Please list the organizations collaborating on this proposal.: >
-  Partner Schools:
-
-
-  •  Nevin Avenue Elementary School, 1569 E. 32nd St, Los Angeles CA 90011
-   https://nevines-lausd-ca.schoolloop.com/
-
-  •. West Vernon Avenue Elementary School, 4312 S Grand Ave, Los Angeles CA
-  90037
-
-  http://westvernon-lausd-ca.schoolloop.com/
-
-
-  •. John Adams Middle School, 151 W. 30th St., Los Angeles, CA 90007
-
-  https://adamsms-lausd-ca.schoolloop.com/
+Please list the organizations collaborating on this proposal.:
+  - 'Partner Schools:'
+  - 'Nevin Avenue Elementary School, 1569 E. 32nd St, Los Angeles CA 90011'
+  - 'https://nevines-lausd-ca.schoolloop.com/'
+  - 'West Vernon Avenue Elementary School, 4312 S Grand Ave, Los Angeles CA 90037'
+  - 'http://westvernon-lausd-ca.schoolloop.com/'
+  - 'John Adams Middle School, 151 W. 30th St., Los Angeles, CA 90007'
+  - 'https://adamsms-lausd-ca.schoolloop.com/'
 Which metrics will your submission impact?:
   - Arts education
   - Enrollment in afterschool programs

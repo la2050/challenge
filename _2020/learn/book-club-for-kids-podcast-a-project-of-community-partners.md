@@ -159,10 +159,10 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - 'Capacity, including staff'
   - Strategy assistance and implementation
-Please list the organizations collaborating on this proposal.: |-
-  LA Public Library
-  Access Books
-  Cal Poly Pomona College of Education and Integrative Studies
+Please list the organizations collaborating on this proposal.:
+  - LA Public Library
+  - Access Books
+  - Cal Poly Pomona College of Education and Integrative Studies
 Which metrics will your submission impact?:
   - Student proficiency in English & Language Arts
 Are there any other LA2050 goal categories that your proposal will impact?:

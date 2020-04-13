@@ -116,14 +116,14 @@ Please describe the broader impact of your proposal.: >-
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
-Please list the organizations collaborating on this proposal.: |-
-  LA Fashion District BID
-  SLATE - Z
-  Urban Voices Project (Arts Organization)
-  AYAN (Property owner & community organization)
-  Santee Village (Property owner)
-  Werkartz (Art spaces)
-  Senator Holly J. Mitchell (Government partner)
+Please list the organizations collaborating on this proposal.:
+  - LA Fashion District BID
+  - SLATE - Z
+  - Urban Voices Project (Arts Organization)
+  - AYAN (Property owner & community organization)
+  - Santee Village (Property owner)
+  - Werkartz (Art spaces)
+  - Senator Holly J. Mitchell (Government partner)
 Which metrics will your submission impact?:
   - Public arts and cultural events
   - Immigrant integration

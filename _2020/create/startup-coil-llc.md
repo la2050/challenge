@@ -86,14 +86,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
   - Communications support
-Please list the organizations collaborating on this proposal.: |-
-  Version One Accelerator is a joint venture of:
-
-  Startup Coil, LLC
-
-  and
-
-  V ONE, Inc.
+Please list the organizations collaborating on this proposal.:
+  - 'Version One Accelerator is a joint venture of:'
+  - 'Startup Coil, LLC'
+  - and
+  - 'V ONE, Inc.'
 Which metrics will your submission impact?:
   - Minority- and women-owned businesses
   - High-growth startups
