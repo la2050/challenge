@@ -92,6 +92,18 @@ Please describe the broader impact of your proposal.: >-
   CAP works in a complicated community and we do one thing: support students
   through college success. We are a thread in a web of local supports, and our
   shared efforts are amplified by collaboration and student voice.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  PUSD is CAP’s once and future partner in supporting students’ college
+  aspirations. CAP particularly partners with PasadenaLEARNs, PUSD’s after
+  school program, and the two alternative high schools to provide our signature
+  drop-in programs. Collaborations with PUSD’s Linked Learning Academies and
+  with John Muir High School Early College Magnet help us to engage more deeply
+  with teachers and students during the school day. While PUSD invests funds in
+  its partnership with CAP in addition to providing in-kind access to rooms and
+  other resources, these funds have stagnated or in some cases decreased over
+  the past few years even as our collaborative efforts have grown. CAP seeks to
+  buttress PUSD’s diminished resources and ensure that our collaboration can
+  continue to grow and deepen.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support

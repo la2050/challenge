@@ -113,6 +113,18 @@ Please describe the broader impact of your proposal.: >-
   Expansion of this program increases opportunities to discover barriers
   experienced at systems that touch the lives of our community, and empowers
   people with lived experience to collaborate and find solutions.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  We know that collaboration is key to building community resilience. Our
+  partnerships with SPY and VCH help us recruit Ambassadors for employment and
+  assist members in maintaining stable housing. In this way, we strengthen
+  pathways to employment for YouthBuild graduates and residents of the Roots to
+  Grow housing project. UCLA CCL will work with us to engage city-wide colleges
+  in the areas of food justice, housing insecurity, and job training. Finally,
+  our partnership with DMH allows Ambassadors to survey service providers about
+  members' experiences surrounding accessibility, staff-to-peer communication,
+  and healing-centered engagement. After evaluation, Ambassadors communicate
+  with DMH staff about gaps in services and collaborate to find innovative
+  solutions. 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

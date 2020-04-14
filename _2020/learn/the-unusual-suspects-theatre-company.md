@@ -120,6 +120,30 @@ Please describe the broader impact of your proposal.: >-
   teach roughly 3,000 students during their careers, while the 250+ faculty &
   staff we might empower via on-site professional development will multiply our
   impact, benefitting entire campus communities and their future students.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  While US does not have collaborative partners who receive funding from US for
+  this project, we do work closely with our school site administrators and
+  classroom teachers to effectively serve our VAST students. Our partnering
+  LAUSD schools for this project include:
+
+
+  David Starr Jordan High School
+
+  San Fernando High School
+
+  Hollenbeck Middle School*
+
+  Markham Middle School
+
+
+  All four LAUSD schools are Title 1, indicating a majority of students who live
+  below the poverty line; US acts as the sole theatre-arts programming at each
+  campus. We strategically offer our VAST Enrichment Program in classrooms that
+  include a high proportion of special education and/or ELL students, as well as
+  classrooms that exclusively serve these student populations.
+
+
+  *New VAST site to be funded by this project
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support

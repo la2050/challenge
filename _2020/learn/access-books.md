@@ -75,6 +75,7 @@ Please describe the broader impact of your proposal.: >-
   children, regardless of their socio-economic status, can do well in school,
   graduate, compete for higher paying jobs, go on to college, and become leaders
   in their communities
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': 20 different schools - not selected yet.
 Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Communications support

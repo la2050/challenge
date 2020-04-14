@@ -102,15 +102,55 @@ function getArrayFromString(string) {
 function getArrayFromDelimitedString(string) {
   if (!string) return []
 
-  let commaArray = string.split(',').map(item => item.trim()).filter(item => item != '');
+  function trimArrayItem(item) {
+    return item.trim()
+      .replace(/^\-[\s]*/g, "")
+      .replace(/^\*[\s]*/g, "")
+      .replace(/^[0-9]\.[\s]*/g, "")
+      .replace(/^\•[\s]*/g, "")
+      .replace(/^\.[\s]*/g, "")
+  }
 
-  let lineReturnArray = string.split('\n').map(item => item.trim()).filter(item => item != '');
+  let commaArray = string.split(',').map(item => trimArrayItem(item)).filter(item => item != '');
 
-  let array = (commaArray.length > lineReturnArray.length) ? commaArray : lineReturnArray;
+  let semicolonArray = string.split(';').map(item => trimArrayItem(item)).filter(item => item != '');
+
+  let lineReturnArray = string.split('\n').map(item => trimArrayItem(item)).filter(item => item != '');
+
+  let array;
+  if (commaArray.length > lineReturnArray.length &&
+      commaArray.length > semicolonArray.length) {
+    array = commaArray;
+  }
+  if (semicolonArray.length > lineReturnArray.length &&
+      semicolonArray.length > commaArray.length) {
+    array = semicolonArray;
+  }
+  if (lineReturnArray.length > semicolonArray.length &&
+      lineReturnArray.length > commaArray.length) {
+    array = lineReturnArray;
+  }
   
   // Trim the whitespace, and leaving out empty items
   return array;
 }
+
+// function getArrayFromDelimitedString2020(string) {
+//   if (string &&
+//       string != "") {
+//     const items = string.split(/\n/)
+//     if (items.length > 1) {
+//       return items.map(item => {
+//         return item.trim()
+//           .replace(/^\-[\s]*/g, "")
+//           .replace(/^\*[\s]*/g, "")
+//           .replace(/^[0-9]\.[\s]*/g, "")
+//           .replace(/^\•[\s]*/g, "")
+//           .replace(/^\.[\s]*/g, "")
+//       }).filter(item => item != "");
+//     }
+//   }
+// }
 
 function convertStringsToJSON(data) {
   console.log('before: ' + data.category_metrics);
@@ -170,23 +210,16 @@ function processFile(filename) {
   let data = loadMarkdown(filename);
   if (!data) return;
 
-  console.log(data.yaml['Please list the organizations collaborating on this proposal.']);
-  if (data.yaml['Please list the organizations collaborating on this proposal.'] &&
-      data.yaml['Please list the organizations collaborating on this proposal.'] != "") {
-    const items = data.yaml['Please list the organizations collaborating on this proposal.'].split(/\n/)
-    if (items.length > 1) {
-      data.yaml['Please list the organizations collaborating on this proposal.'] = items.map(item => {
-        return item.trim()
-          .replace(/^\-[\s]*/g, "")
-          .replace(/^\*[\s]*/g, "")
-          .replace(/^[0-9]\.[\s]*/g, "")
-          .replace(/^\•[\s]*/g, "")
-          .replace(/^\.[\s]*/g, "")
-      }).filter(item => item != "");
-      changed = true;
-    }
+  if (data.yaml['Please list the organizations collaborating on this proposal.'].includes(",")) {
+    console.log(data.yaml['Please list the organizations collaborating on this proposal.'])
+    
+    data.yaml['Please list the organizations collaborating on this proposal.'] =
+     getArrayFromDelimitedString(data.yaml['Please list the organizations collaborating on this proposal.']);
+
+     changed = true;
+
+   console.log(data.yaml['Please list the organizations collaborating on this proposal.'])   
   }
-  console.log(data.yaml['Please list the organizations collaborating on this proposal.']);
 
   // data.yaml.is_test_data = true;
 

@@ -112,6 +112,27 @@ Please describe the broader impact of your proposal.: >-
   African derived cultures and traditions. Curating a Festival Series provides
   structure, marketability  and  a way to support, market and re-imagine Leimert
   Park Village as a safe and exciting destination.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Patrick Barrow  of  Belize Caye Fest brings 30 years of production experience
+  and  deep reach into the Belizean and Central American communities.
+
+
+  Ken Gibson of Black History Month Festival brings promotion skills, social
+  media and connection to the Caribbean community.
+
+
+  Windsor Valcinus, Producer of Haitian Heritage Festival, brings event planning
+  and sponsorship development expertise.
+
+
+  Moza Cooper and Anthony Jolly of Juneteenth Heritage Festival bring strong
+  international and entertainment connections and are seasoned producers as
+  well.
+
+
+  Mychal Horn, producer of Playground, is a Millennial marketing specialist who
+  works with various groups in the Village including 'We Love Leimert' and will
+  add Millennial participation to the team.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

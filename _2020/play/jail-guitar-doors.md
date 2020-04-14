@@ -84,6 +84,20 @@ Please describe the broader impact of your proposal.: >
   the skills to step into these jobs, prepares youth for employment.  Coupled
   with mentor support, participants are in the unique position to gain a
   toe-hold in an industry for which they have developed a passion.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+  AIYN and JGD-USA have partnered for the past five years to bring music
+  programs to youth in juvenile justice facilities.  While this work has been
+  impactful, youth in these programs have expressed a deep desire to continue
+  their art-learning experiences beyond their detention. 
+
+  AIYN and JGD-USA are expanding their existing relationship to close these gaps
+  to better these youth for successful return to their families and communities.
+
+
+  JGD-USA will be responsible for the development and delivery of CAPO
+  art-learning activities, and daily operation of the program.  Leveraging its
+  relationships with juvenile reentry resources, AIYN will be the primary
+  connector between system-engaged youth with CAPO.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

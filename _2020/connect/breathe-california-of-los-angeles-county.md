@@ -78,6 +78,21 @@ Please describe the broader impact of your proposal.: >-
   solutions). Blue Sky LA will not only make the Los Angeles community
   healthier, but also serve as a model for other California communities and
   beyond.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  BREATHE LA will collaborate with both California State University, Northridge
+  (CSUN) and Climate Cents on this project.  CSUN will provide students who will
+  help to plan, implement, and evaluate volunteer-based community activities
+  that reduce community air pollution. Climate Cents will help to build and
+  maintain a digital platform to track volunteers and air quality improvement
+  progress. 
+
+
+  BREATHE LA also works regularly with 250 community partners. These
+  organizations include schools, parent organizations, senior citizen groups and
+  faith-based groups. We use our community partner database to identify which
+  organizations align with our projects based on the specific needs or a
+  population or geography.  These relationships will be used to recruit
+  volunteers for our Blue Sky LA events.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
@@ -96,6 +111,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: breathe-california-of-los-angeles-county
-order: 4
+order: 3
 
 ---

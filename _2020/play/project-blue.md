@@ -103,6 +103,18 @@ Please describe the broader impact of your proposal.: >-
   long-term engagement in young people’s lives with partnerships that can create
   consistent and safe environments where kids can develop purpose and
   resilience.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  We’re grateful to partner with the LAPD CSP division on our program model. As
+  part of their mandate, officers assigned to the CSP are encouraged to work
+  with existing local youth outreach programs or create their own, where there
+  is a need or interest. Through these programs, officers can actively and
+  directly build relationships with youth, and the community as a whole, through
+  coaching and mentorship. However, due to funding constraints, CSP programs
+  often struggle to provide enough resources for all participating youth, such
+  as equipment, registration costs and academic supplies, which creates
+  challenges for officers to focus on running the actual program. Through our
+  partnership, we ensure each program receives the resources they need so they
+  can create the biggest possible impact.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

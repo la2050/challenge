@@ -104,6 +104,14 @@ Please describe the broader impact of your proposal.: >-
   quality. A study in Santa Barbara suggests CA could reach 8% of its greenhouse
   gas reduction goals by installing front yard gardens, helping neighbors
   nearby. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': |-
+  Partnerships Lined Up
+  Erin Riley with Hope Gardens (vegetable and native garden installations)
+  Mike Garcia with Enviroscape (rainwater catchment installations)
+  Crop Swap LA (administration and distribution)
+  Chrysalis (reentry citizen gardeners)
+  Tree People (advising role: orchard installations)
+  City Plants (advising role: seedlings)
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

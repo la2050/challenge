@@ -106,6 +106,17 @@ Please describe the broader impact of your proposal.: >-
 
   The Museum of Social Justice is located on the plaza Olvera, and has 40-50K
   visitors annually. Most visitors are Latinx families and school groups. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  As the fiscal sponsor of both Kid City and the Museum of Social Justice, the
+  Urban Foundation handles most administrative duties. Kid City will recruit,
+  train, and supervise communications personnel, story circle facilitators, and
+  other event coordination. Christy Illescas (F&M 2019) serves as Kid City
+  program coordinator. The Museum's Assistant Curator, Domenica Castillo (UCLA
+  2015) will serve as the liaison with artists, curators, and the museum's
+  exhibitions, as well as provide some administrative support for exhibits,
+  janitorial for before and after story circle events. Both Christy and Domenica
+  are also first-generation college graduates, and representative of similar
+  communities as facilitators and program participants.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support

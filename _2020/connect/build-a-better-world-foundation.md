@@ -90,6 +90,15 @@ Please describe the broader impact of your proposal.: >-
   The concert event will provide a platform for community and spiritual leaders
   to speak about the importance and need to unite and to work together to Build
   A Better World!
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  We have partnered with some of the following organizations at our other
+  events, such as:
+
+  The Wayfarer Foundation,  The Mona Foundation, Earth Citizen Organization,
+  Habitat for Humanity, The Goodwill of So. CA, IBREA (International Brain
+  Education Association), ReGeneration Education, Full Circle Learning, Drive
+  Hope, The Harmony Project, The Chorale Project, UnityWorks, Tahirih Justice
+  Center, Children's Theatre Company and more!!
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
@@ -104,6 +113,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: build-a-better-world-foundation
-order: 5
+order: 4
 
 ---

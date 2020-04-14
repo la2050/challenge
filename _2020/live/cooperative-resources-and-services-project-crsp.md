@@ -85,6 +85,7 @@ Please describe the broader impact of your proposal.: >-
   dashboard will facilitate remote engagement. LAEV has an established online
   presence and we are part of the Global Eco-Village Network – our impact is
   international.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': "LAEV has many on-going community partnerships. This project will build on existing relationships with the following:\n•\tUrban Soil/Tierra Urbana: The cooperative of LAEV residents will collaborate through educational tours, public talks, gardening workshops, and farm volunteering. \n•\tBeverly-Vermont Community Land Trust: The land trust will ensure the demonstration farm is a compliment to the Bimini Place Learning Garden, which it oversees.\n•\tBresee Foundation: Our partners at this vital local youth center will develop opportunities for children and young people to engage with the Hub, including liaising with local schools, such as Virgil Middle School and Central City Value.\n"
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support

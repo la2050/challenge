@@ -132,18 +132,33 @@ Please describe the broader impact of your proposal.: >
   services, providing entrepreneurs seamless access to the wealth of LA County’s
   capital, human and technical resources at the right time on their business
   journey.    
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+  CAMEO, the fiscal sponsor for Entrepreneurship Advantage has been in operation
+  for over 25 years. CAMEO will leverage their experience creating 
+  entrepreneurial ecosystems, building the capacity of nonprofits and advocating
+  for small business owners to ensure that Entrepreneurship Advantage continues
+  to make a sustainable impact in their community.  In addition,
+  Entrepreneurship Advantage will work with CAMEO to raise funding and develop
+  income generating activities.   
+
+
+  Partner organizations participating in the Steering Committee will provide
+  guidance to EA and will share their knowledge and expertise on the ground to
+  better connect more resources to more small businesses in LA County.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
   - 'Office space for meetings, events, or for staff'
   - 'Capacity, including staff'
-Please list the organizations collaborating on this proposal.: >-
-  1) California Association of Microenterprise Organizations, 2) Opportunity
-  Fund, 3) Local Initiatives Support Corporation - Los Angeles (LISC LA), 4)
-  Initiative for a Competitive Inner City (ICIC), 5) CDC Small Business Finance
-  Los Angeles, 6)  Pacific Asian Consortium in Employment (PACE LA), 7)  West
-  Angeles Community Development Corporation (West LA CDC), 8) Small Business
-  Development Center (SBDC), El Camino
+Please list the organizations collaborating on this proposal.:
+  - California Association of Microenterprise Organizations
+  - Opportunity Fund
+  - Local Initiatives Support Corporation - Los Angeles (LISC LA)
+  - Initiative for a Competitive Inner City (ICIC)
+  - CDC Small Business Finance Los Angeles
+  - Pacific Asian Consortium in Employment (PACE LA)
+  - West Angeles Community Development Corporation (West LA CDC)
+  - Small Business Development Center (SBDC), El Camino
 Which metrics will your submission impact?:
   - Income inequality
   - Minority- and women-owned businesses

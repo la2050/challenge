@@ -119,6 +119,25 @@ Please describe the broader impact of your proposal.: >-
   neighbors—influencing these individuals’ ability to shape policy, or to simply
   be aware of their behavior on the area's shared roads: roads that more than
   27,000 drivers use daily.  
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Public Matters will lead the design and implementation of all elements,
+  managing partnerships and the delivery of project objectives.
+
+
+  LA Walks is a design partner and co-facilitator. They will train and supervise
+  walk auditors and work with parent groups to train them on traffic safety
+  techniques, behaviors, and avenues for advocacy.
+
+
+  USC Kid Watch, our neighborhood experts, will link the team with parents and
+  partners schools. They will play a critical role in establishing trust between
+  partners and residents, and convening Community Conversations, Slow Jams and
+  Walk Audits. 
+
+
+  Professors Francois Bar, David Sloane, additional faculty and student groups,
+  will assist with external partnerships and coordinate USC involvement in all
+  aspects of the project. 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support

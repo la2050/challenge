@@ -129,6 +129,9 @@ Please describe the broader impact of your proposal.: >-
   the 4 weeks she was hired full time. She then used her story to become a
   criminal justice advocate and to inspire other Women and her 3 kids that they
   too could change their life. This is the indirect impact to others.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  We aren't a collaborative proposal but we are a fiscally sponsored project
+  through the Edward Charles Foundation.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

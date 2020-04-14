@@ -72,6 +72,23 @@ Please describe the broader impact of your proposal.: >-
   occurrence.  Additional programs developed to assist these people in creating
   simple craft products to donate to other organizations in need in the
   community.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >+
+  Willenberg Career & Transition center is one of LAUSD'S Schools rigorous
+  providing vocational training for students with disabilities. As part of their
+  alternative curriculum, students grow and distribute fresh vegetables from
+  their sustainable garden.  San Pedro Meals on Wheels will be the recipient of
+  their produce and incorporate it into the weekly menu.
+
+  Greengirlfarms.org is a local organization dedicated to growing healthy
+  produce in backyards, empty spaces and community gardens making it available
+  to everyone through local markets and donations. Green Girl Farms teaches
+  others in the community how to grow delicious, nutritious produce.  San Pedro
+  Meals on Wheels is in discussion with Greengirlfarms and the Willenberg Center
+  to partner and expand their educational programs.
+
+
+
+
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
@@ -86,6 +103,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: live
 filename: san-pedro-meals-on-wheels
-order: 41
+order: 42
 
 ---

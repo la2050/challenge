@@ -104,6 +104,18 @@ Please describe the broader impact of your proposal.: >-
   way for Angelenos to become part of the solution to youth homelessness. The
   ability to quickly house homeless individuals has become paramount amid the
   COVID-19 outbreak and this project is primed to support this effort. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Offering affordable co-living spaces that are fully-furnished, communal, and
+  rented on a month-to-month basis, PodShare will provide SPY youth with
+  short-term housing and amenities (pods) from its Westwood location for periods
+  of up to 3 months. Equally committed to making Los Angeles the best place to
+  live, PodShare will work collaboratively with SPY, offering a below market
+  rate to ensure that the maximum number of youth are able to transition from
+  street-based living to this bridge housing option. To assist program
+  recruitment and enrollment, PodShare will work with SPY staff to coordinate
+  facility tours for interested youth and sponsors. Additionally, PodShare will
+  support project advertising and tap into their networks to promote sponsorship
+  opportunities.  
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
@@ -119,6 +131,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: safe-place-for-youth-a-project-of-community-partners
-order: 40
+order: 41
 
 ---

@@ -113,6 +113,14 @@ Please describe the broader impact of your proposal.: >-
   are often siblings, cousins, friends, or children of past graduates. At
   Flintridge, we understand that when you change the life of one person, you
   change the life of their families and the communities we all live in.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  While we are not submitting a collaborative proposal, Flintridge Center places
+  a high organizational value on collaboration. We understand that the diverse
+  and unique needs of formerly incarcerated individuals are best met by a
+  network of partners working collectively. The Apprenticeship Preparation
+  Program specifically partners with 2nd Call to provide trauma-informed life
+  skills classes and  CATZ gym to provide physical fitness training. These
+  services will be supported with leveraged funds.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

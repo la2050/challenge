@@ -102,6 +102,18 @@ Please describe the broader impact of your proposal.: >-
   representation will help prevent displacement, reduce homelessness, and allow
   more tenants to remain in their homes and continue to influence the future of
   their communities.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  SAJE will be conducting the work in LA County to inform tenants of their new
+  right to counsel. In building up their outreach and education efforts, SAJE
+  will work with JustFix to build off of the success of JustFix’s work on New
+  York City’s right to counsel for tenants. Utilizing a co-design process,
+  tenants who participate in SAJE programs, SAJE organizers, and JustFix staff
+  will develop a tool that is accessible to tenants. SAJE will devote its
+  expertise in eviction prevention, tenant rights, and years of experience
+  conducting outreach and organizing with tenants from the most vulnerable
+  communities in Los Angeles. JustFix will bring tremendous design, product
+  management, technical engineering, and software development expertise and
+  experience, having created similar tools in NYC.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

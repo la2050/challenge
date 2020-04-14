@@ -125,6 +125,15 @@ Please describe the broader impact of your proposal.: >
   co-workers and community. The new Center answers the growing need for
   healthcare access, setting low-income families on the path to better health
   and well-being. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Although SCC is not submitting a formal collaborative proposal, SCC is a
+  trusted safety net provider within Service Planning Area 4 (SPA 4) of Los
+  Angeles County. SCC has a long history of collaborating with other area health
+  care providers, in part through its membership in the Community Clinic
+  Association of Los Angeles County.  Additionally, SCC actively collaborates
+  with other social service providers to link our patients to the services they
+  need, including, but not limited to, legal services, food vouchers and
+  transitional housing. 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
@@ -141,6 +150,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: saban-community-clinic
-order: 38
+order: 39
 
 ---

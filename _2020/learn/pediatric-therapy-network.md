@@ -79,6 +79,17 @@ Please describe the broader impact of your proposal.: >-
   activity centers. These initiatives are key to PTN’s family-centered, holistic
   approach and extend our impact far beyond the walls of the clinic—truly
   helping children, families and communities reach their fullest potential.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  While PTN is not submitting this application in collaboration with a community
+  partner, we do work directly with more than a dozen child-and family-focused
+  organizations in the Los Angeles area. This includes partnering with Regional
+  Centers and 15 local school districts to provide therapeutic care to children
+  in need, as well as collaborating with DCFS, WIC and 211LA, area health care
+  providers and others to ensure children and families are connected to the
+  resources and support they need. PTN also collaborates with USC, CSU Dominguez
+  Hills and CSU Long Beach to further advance the field through research and
+  education. These collaborative partnerships impact and enhance our service
+  delivery across all our programs.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
 Please list the organizations collaborating on this proposal.: ''

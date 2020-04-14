@@ -107,6 +107,18 @@ Please describe the broader impact of your proposal.: >-
   identifying and evaluating the challenges they face and problem-solving
   effective, actionable solutions. In doing so, we help communities affect
   meaningful and lasting change for themselves and their neighbors. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  While not submitting a formal collaborative proposal, UPAS will work closely
+  with the American Heart Association, California FreshWorks, and the Department
+  of Public Health — among other community-based organizations and public school
+  partners — to complete the aforementioned programmatic initiatives. The AHA
+  will continue working with UPAS on the Good Food Economy Task Force to
+  incentivize high-quality grocery stores to locate in low-income communities;
+  and will support UPAS’ work by continuing its produce pickup program and
+  building teaching gardens throughout the city. FreshWorks will lend its
+  experience supporting retailers in expanding healthy food access, helping UPAS
+  build county-wide investment and strategically implement motions initiated by
+  UPAS organizing and passed by the DPH.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

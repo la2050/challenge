@@ -113,6 +113,12 @@ Please describe the broader impact of your proposal.: >
 
   We also engage 1,000 community members in habitat restoration events at parks
   and beaches and aim to inspire widespread environmental stewardship.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  The Los Angeles Audubon education staff is leading this program. However, the
+  program's growth and access to outdoor nature sites is made possible through
+  our decades-long relationships with park and beach management agencies within
+  LA County and through our long-standing relationships with the Los Angeles
+  Unified School District educators.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

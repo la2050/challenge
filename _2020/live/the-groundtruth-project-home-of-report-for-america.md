@@ -133,6 +133,11 @@ Please describe the broader impact of your proposal.: >-
   over 2M people across the Los Angeles area, and their reporting will directly
   inform efforts around environmental sustainability, homelessness and
   affordable housing, education, and more. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Our four newsroom partners on this collaboration will host our corps members
+  as full-time employees, and provide them mentorship, space, editing, and
+  distribution of their work. Those partners include Spectrum News 1, Long Beach
+  Post, Voice of OC, and EdSource. 
 Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Communications support

@@ -13,7 +13,9 @@ function changeNAtoEmpty(data) {
     if (typeof(data[prop]) === 'string' && (
           data[prop].toLowerCase() === 'n/a' || 
           data[prop].toLowerCase() === 'na'  ||
-          data[prop].toLowerCase() === 'none'
+          data[prop].toLowerCase() === 'none'||
+          data[prop].toLowerCase() === 'not applicable'||
+          data[prop].toLowerCase() === 'not applicable.'
         )) {
       data[prop] = ''
     }
@@ -91,6 +93,39 @@ function getArrayFromString(string) {
   // console.log('');
   // console.log('');
   return JSON.parse(string);
+}
+
+function getArrayFromDelimitedString(string) {
+  if (!string) return []
+
+  function trimArrayItem(item) {
+    return item.trim()
+      .replace(/^\-[\s]*/g, "")
+      .replace(/^\*[\s]*/g, "")
+      .replace(/^[0-9]\.[\s]*/g, "")
+      .replace(/^\•[\s]*/g, "")
+      .replace(/^\.[\s]*/g, "")
+  }
+
+  let commaArray = string.split(',').map(item => trimArrayItem(item)).filter(item => item != '');
+
+  let semicolonArray = string.split(';').map(item => trimArrayItem(item)).filter(item => item != '');
+
+  let lineReturnArray = string.split('\n').map(item => trimArrayItem(item)).filter(item => item != '');
+
+  let array;
+  if (commaArray.length > lineReturnArray.length &&
+      commaArray.length > semicolonArray.length) {
+    array = commaArray;
+  } else if (semicolonArray.length > lineReturnArray.length &&
+      semicolonArray.length > commaArray.length) {
+    array = semicolonArray;
+  } else {
+    array = lineReturnArray;
+  }
+  
+  // Trim the whitespace, and leaving out empty items
+  return array;
 }
 
 /**
@@ -256,6 +291,9 @@ function mapAllColumnNames(data) {
     "12. Please describe the broader impact of your proposal. Depending on your proposal, you may want to include a description of its impact on the environment and physical space, its impact on policy, impact on the future of the city, a description of the population being served by this proposal, an explanation of the numbers provided in question 11, or other intangibles."
     :"Please describe the broader impact of your proposal.",
 
+    "14. If you are submitting a collaborative proposal, please describe the specific role of partner organization/s in the project."
+    :"If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.",
+
     "15. LA2050 will serve as a partner on this project. Which of LA2050’s resources will be of the most value to you? "
     :"Which of LA2050’s resources will be of the most value to you?",
 
@@ -356,8 +394,7 @@ function mapAllColumnNames(data) {
 
 function createMarkdownFile(data) {
 
-  if (data["Current stage"] !== "Moderation Process" ||
-      data["Decision:"]     !== "Approved") return;
+  if (data["Decision:"]     !== "Approved") return;
 
   // data.application_id = getApplicationID(data) || "";
 
@@ -396,6 +433,17 @@ function createMarkdownFile(data) {
     getArrayFromString(data[`In which areas of Los Angeles will you be directly working?`]);
   data[`Which of LA2050’s resources will be of the most value to you?`] =
     getArrayFromString(data[`Which of LA2050’s resources will be of the most value to you?`]);
+  if (data['Please list the organizations collaborating on this proposal.'] &&
+      data['Please list the organizations collaborating on this proposal.'] != "") {
+    let items = getArrayFromDelimitedString(data[`Please list the organizations collaborating on this proposal.`]);
+    if (items.length > 1) {
+      data[`Please list the organizations collaborating on this proposal.`] = items;
+    }
+  }
+
+  if (data["If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project."] == "") {
+    delete data["If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project."];
+  }
 
   let metrics = getArrayFromString(data.create_metrics)
         .concat(getArrayFromString(data.connect_metrics))
@@ -544,7 +592,7 @@ function createMarkdownFile(data) {
     'play_metrics',
     'connect_metrics',
     'live_metrics',
-    `14. If you are submitting a collaborative proposal, please describe the specific role of partner organization/s in the project.`,
+    // `14. If you are submitting a collaborative proposal, please describe the specific role of partner organization/s in the project.`,
     `What is your organization’s annual operating budget?*`
     // 'Application name',
     // 'Application state',
@@ -633,6 +681,7 @@ ${yaml.safeDump(data)}
     createFile({ writePath, filename, output });
   } catch (error) {
     console.log("Couldn’t create file for: " + data.title);
+    console.log(data["Please list the organizations collaborating on this proposal."]);
     console.error(error);
   }
 }
@@ -773,5 +822,5 @@ function getApplicationID(data) {
     console.log("Couldn’t find application ID for: " + data["Organization Details: | Organization name: *"]);
   }
 }
-generateCollections('../../_data/2020 Challenge Proposals, from SM Apply, with Decision and ID - forjim_Apr 12 2020 06_49 PM (PDT).csv');
+generateCollections('../../_data/2020 Challenge Proposals, from SM Apply, with Decision and ID (April 13, 4pm) - forjim_final_Apr 13 2020 03_45 PM (PDT).csv');
 

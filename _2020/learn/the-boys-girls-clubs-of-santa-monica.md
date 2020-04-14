@@ -98,6 +98,11 @@ Please describe the broader impact of your proposal.: >-
   events, families and residents reached by our club events such as Thanksgiving
   meals, holiday parties, and family assistance programs, as well as our
   dedicated advisory board and staff. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  We are not submitting a collaborative proposal. However, we collaborate with a
+  wide network of community partners in our programming with other organizations
+  doing similar work, local businesses, and other agencies to best meet the
+  needs of our Club members and toward the overall success of our programs.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

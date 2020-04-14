@@ -105,12 +105,25 @@ Please describe the broader impact of your proposal.: >-
   recognize all Indigenous people and the diversity that exists within and
   across our communities. This may inform policy to be more inclusive of all
   Indigenous people.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  SSSP plans to continue collaboration with Indigenous community-based
+  organizations including American Indian Community Council, Indigenous
+  Collective, Pukuu Cultural Community Services, Tribal TANF and United American
+  Indian Involvement. SSSP will also continue partnership with local colleges,
+  artists and businesses. Partners will work collaboratively to bridge
+  participants, increase visibility of Indigenous peoples’ and foster social and
+  emotional support for community members across Los Angeles county. SSSP will
+  work with partner organizations to lead focused outreach and recruitment for
+  the events. Collaborators will confirm participants and coordinate
+  transportation of attendees and logistical needs with SSSP. Collaborators will
+  also assist with surveys and qualitative feedback.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
-Please list the organizations collaborating on this proposal.: >-
-  American Indian Community Council, Pukuu Cultural Community Services, Tribal
-  TANF and United American Indian Involvement
+Please list the organizations collaborating on this proposal.:
+  - American Indian Community Council
+  - Pukuu Cultural Community Services
+  - Tribal TANF and United American Indian Involvement
 Which metrics will your submission impact?:
   - Social and emotional support
   - Public arts and cultural events

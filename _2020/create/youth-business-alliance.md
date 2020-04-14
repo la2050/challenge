@@ -106,6 +106,21 @@ Please describe the broader impact of your proposal.: >-
   their teens to earn an income during summer break, we are providing a viable
   alternative that allows their students to continue learning, growing and
   building their career ready skills while receiving a stipend.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+  YBA will develop entrepreneurship programming to benefit students enrolled at
+  YBA partner schools: LA Unified School District, Alliance for College Ready
+  Schools, Green Dot Schools and community organizations. For programming
+  offered during the school year, YBA staff on-board and train teachers in the
+  YBA curriculum and program elements. Teachers receive on-going YBA staff
+  support with scheduling weekly guest speakers and a field trip each semester.
+  Local banks support the YBA program by offering guest speakers, field trips
+  and funding to support the program. In addition, YBA has a network of 1,500
+  guest speakers who serves as volunteers in each of YBA's classrooms, bringing
+  the learning to life.
+
+
+  YBA will partner with a program site for summer 2020 if in-person programming
+  is possible.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
@@ -121,6 +136,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: youth-business-alliance
-order: 46
+order: 47
 
 ---

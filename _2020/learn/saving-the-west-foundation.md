@@ -96,6 +96,15 @@ Please describe the broader impact of your proposal.: >-
   service population of STWF is 47% African American, 53% Latino, with 21% of
   the population living below the poverty line; 1.5 times the average for CA.
   95% of our registered students receive free/reduced lunch from their schools. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  We are presenting these classes in collaboration with Crop Swap LA. We have
+  written the curricula with Jamiah Higgins, CSLA’s founder. Crop Swap LA has
+  experience in taking empty lots and revitalizing them into green spaces. With
+  Jamiah’s knowledge we will be able to build raised garden beds, troughs for
+  the water to stay in and vine supports. CSLA will also show other faculty the
+  basics of proper soil mixing, which is essential to preparing the growth of
+  any plants. For the first few class sessions, Jamiah would also be lead
+  teaching advisor.
 Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - 'Capacity, including staff'

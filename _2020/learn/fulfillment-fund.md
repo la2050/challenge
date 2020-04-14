@@ -118,6 +118,19 @@ Please describe the broader impact of your proposal.: >-
   cross-section of industries, while providing these individuals with the
   opportunity to share their skills, expertise and time with the next
   generation. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  We partner with these 8 LAUSD high schools, where we deliver our College
+  Access programs, to help recruit and register students for DC+: 
+
+  Alexander Hamilton HS, Alliance Alice M. Baxter College-Ready HS, Alliance
+  Collins Family College-Ready HS, Ambassador School of Global Leadership, Boys
+  Academic Leadership Academy, New Open World Academy, School for the Visual
+  Arts and Humanities, and UCLA Community School. We also invite
+  students/families from community-based organizations (e.g., Big Brothers Big
+  Sisters, LA Promise Fund High School, Fulfillment Fund Las Vegas, et al.).
+  Further, as a founding member of Southern California College Access Network
+  (SoCal CAN), we share best practices, reach out to members to volunteer and
+  facilitate workshops, and invite their constituents to attend.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support

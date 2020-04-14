@@ -113,6 +113,7 @@ Please describe the broader impact of your proposal.: >-
   young adults. Research strongly validates that shared housing improves living
   circumstances for those living in poverty through decreased rent burden,
   lessened isolation, and heightened sense of safety.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': ' ONEgeneration will partner with LA Family Housing, CSUN, and Pierce College to support and implement this intergenerational Shared Housing project. All partnering organizations will be a referral source for younger adults and older adults in need of affordable housing, including shared housing.  An internal database of currently available shared housing matching requests will be provided to all program partner organizations, with ongoing communication and follow up between ONEgeneration staff and the community partners to ensure the success of matching and sustaining a shared housing pairing for sufficient length of time. '
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
@@ -130,6 +131,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: onegeneration
-order: 33
+order: 34
 
 ---

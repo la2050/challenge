@@ -81,6 +81,7 @@ Please describe the broader impact of your proposal.: >-
   awareness activities using personal profiles will help highlight the unique
   issues faced by LGBTQ+ older adults and encourage access to medical care and
   supportive services for both patients and their caregivers. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': "SAGE, the country's largest and oldest organization dedicated to improving the lives of lesbian, gay, bisexual and transgender (LGBTQ+) older adults, will be collaborating with AlzLA on this project. Their mission is to lead in addressing issues related to LGBTQ+ aging. SAGE will be responsible for the following activities:\n      •\tReview materials produced, including script and educational materials;\n      •\tMobilize their constituency during the promotion of LA 2050 and encourage them to participate during the voting period;\n      •\tAssist with dissemination of final materials; and \n      •\tAssist with the coordination of screening events.\n \nIn addition, other local LBGTQ+ organizations will be approached to partner in dissemination of the finished videos to the populations they serve."
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

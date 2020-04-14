@@ -108,6 +108,18 @@ Please describe the broader impact of your proposal.: >-
   increased participation in local Neighborhood Councils, these community
   members will benefit from locally funded programs like community compost
   hubs. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Center for Community Food & Resilience at Occidental College will
+  co-facilitate quarterly LA Farmers' Market Coalition meetings. They will also
+  provide research support to help establish best-practices for addressing the
+  needs of food deserts. Additionally, they will provide grant-writing support
+  for individual farmers' markets looking to expand their programming.
+
+
+  barrio.la will co-facilitate quarterly LA Farmers' Market Coalition meetings.
+  They will provide technical support for farmers' markets, helping markets
+  establish social media accounts, generating shareable social media content,
+  and will advise as LA markets create unified talking points and strategies. 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - 'Office space for meetings, events, or for staff'

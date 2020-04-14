@@ -105,6 +105,12 @@ Please describe the broader impact of your proposal.: >-
   diversity of volunteer facilitators, including formerly homeless individuals.
   The indirect impact will encompass the larger constituency of KCB, and include
   aspects of awareness and opportunities for volunteering.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  While this is being submitted by Kingdom Causes Bellflower (KCB), expertise
+  will be solicited from area volunteers, other non-profit organizations, small
+  businesses, churches, law enforcement and city leadership. In addition, this
+  program will collaboratively promoted by local constituencies, and referrals
+  for participation will be solicited from partner agencies. 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
@@ -121,6 +127,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: kingdom-causes-bellflower
-order: 23
+order: 24
 
 ---

@@ -81,6 +81,25 @@ Please describe the broader impact of your proposal.: >-
   We anticipate 5,000 people will participate in our activities between the two
   parks. This will benefit both council districts, population 500,000, by
   increasing health, safety, and a sense of unity in the communities.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Community Safety Partnership of the 77th Division of the Los Angeles Police
+  Department –  Officers will lead biweekly walks and participate in all
+  community-facing activities.
+
+  The LA Department of Recreation and Parks – To support & host the biweekly
+  walks and other activities.
+
+  The Economic Empowerment Congress Central Area Neighborhood Development
+  Council - Support, host, promote the various walks & community activities. 
+
+  *The District Music Group –  Technical support, advises on all digital and
+  social media outreach and strategies.
+
+  *The offices of the 8th Council District (Marqueece Harris-Dawson) –
+  Councilmember's leadership has been instrumental in connecting the community. 
+
+  *The offices of the 9th Council District (Curren Price) – Replicate our
+  working relationship with CD 8 with CD 9
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
 Please list the organizations collaborating on this proposal.:

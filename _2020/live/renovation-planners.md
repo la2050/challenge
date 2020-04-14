@@ -116,6 +116,17 @@ Please describe the broader impact of your proposal.: >-
   that we’ve created to leverage learning and transformation so homeowners
   actually take action, and not just consume content, has the potential to
   become a national model for supporting housing affordability. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >+
+  The following partner organization is collaborating on this project:
+
+
+  Reli Architecture - Architectural Design
+
+
+  Reli Architecture is a design studio specializing in projects located
+  throughout Los Angeles County.   Sustainable and meaningful design is Reli's
+  principle practice.
+
 Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - 'Office space for meetings, events, or for staff'
@@ -134,6 +145,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: renovation-planners
-order: 36
+order: 37
 
 ---

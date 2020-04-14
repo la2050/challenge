@@ -131,6 +131,27 @@ Please describe the broader impact of your proposal.: >-
   Angeles, with 90% residing across the Los Angeles County basin. As such, we
   see ourselves and the Meal Project as an incubator to create a roadmap
   benefiting other organizations and policy development. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Everytable: A mission-driven, innovative social enterprise provides healthy
+  meals at a variable cost to patrons dependent upon location throughout Los
+  Angeles (mapped here: https://www.everytable.com/locations/. SMC Foundation
+  has a signed contract in place with Everytable since September 2019. This
+  tried and true partnership is described in a recent article:
+  https://www.smdp.com/smc-foundation-looks-to-feed-thousands-during-pandemic/188230 
+
+
+  Westside Food Bank: Provides 2,000 pounds of food weekly to Santa Monica
+  College’s food pantry 
+
+
+  Venice Family Clinic via Food Forward provides fresh produce bi-weekly 
+
+
+  CalFresh: SMC has a dedicated professional on campus to help students with
+  applying for SNAP (food stamps)
+
+
+  Department of Social Services -- casework, coordination of services 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

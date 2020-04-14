@@ -115,6 +115,18 @@ Please describe the broader impact of your proposal.: >-
   successfully integrating resources, we will learn key lessons to guide the
   development of best practices to support Los Angeles in effectively responding
   to crises for years to come, particularly for vulnerable populations. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Stepping Forward LA’s cornerstone service is its “Co-Mentoring” Program, which
+  centers on a monthly “First Saturday” event, featuring workshops, motivational
+  speakers, hands-on learning experiences, and relationship building activities.
+  Through this ever-expanding community, current and former foster youth connect
+  with volunteer mentors and peers to build interpersonal skills, confidence, a
+  healthy self-image, trusting relationships, and a sense of belonging. Stepping
+  Forward LA’s role in the project will center on extending this effective
+  programming to Scholars in our program, formally integrating our program
+  alumni into the organization's community mentoring activities, and identifying
+  youth who might benefit from cross-enrolling in their programs and our career
+  development program. 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
@@ -128,6 +140,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: ready-to-succeed
-order: 45
+order: 46
 
 ---

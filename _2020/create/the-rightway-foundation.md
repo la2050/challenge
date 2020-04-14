@@ -162,6 +162,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: the-rightway-foundation
-order: 40
+order: 41
 
 ---

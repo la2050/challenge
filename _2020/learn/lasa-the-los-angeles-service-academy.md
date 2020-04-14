@@ -90,13 +90,33 @@ Please describe the broader impact of your proposal.: >
   believe, are exponentially larger. While our mission is to serve LASA
   students, we also see their impact on the experts and institutions they visit
   based on their questions and concerns. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  USC, the Huntington Library, and LAPL are essential institutional partners.
+  They act as home bases, as well as archival and personnel sources.
+
+
+  Through our ties to USC, we draw academic and other partners into LASA's
+  programs; we also bring collegiate and admissions counselors into direct
+  dialogue with our students.
+
+
+  The Los Angeles Public Library (LAPL) is our downtown home base, and students
+  are made aware of that institution's young adult and tutoring programs - as
+  well as their critical work in serving those experiencing homelessness.
+
+
+  The Huntington is LASA's primary base of operations; we introduce students to
+  that institution's mission, curatorial personnel and collections, and
+  Huntington education/outreach programs are brought to LASA attention
+  throughout any given year's work.
 Which of LA2050’s resources will be of the most value to you?:
   - 'Office space for meetings, events, or for staff'
   - Strategy assistance and implementation
   - Access to the LA2050 community for topic-specific experts
-Please list the organizations collaborating on this proposal.: >-
-  University of Southern California; The Huntington Library, Art Museum, and
-  Botanical Gardens; Los Angeles Public Library
+Please list the organizations collaborating on this proposal.:
+  - University of Southern California
+  - The Huntington Library, Art Museum, and Botanical Gardens
+  - Los Angeles Public Library
 Which metrics will your submission impact?:
   - College matriculation
   - High school graduation rates

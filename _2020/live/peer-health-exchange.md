@@ -116,6 +116,20 @@ Please describe the broader impact of your proposal.: >+
   -  fostering a strong sense of community on college campuses, and building
   volunteerism in their community
 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  As an organization committed to advancing health equity, PHE works with
+  under-resourced high schools where the majority of students are living in
+  poverty. Our main partners are the 18 high schools we teach at from PUC, Green
+  Dot, Alliance, Environmental, Vaughn, and LAUSD school systems. We plan to
+  expand our geographic reach into communities adjacent to South LA including
+  South Bay, Compton, Paramount, Lynwood by adding 3 additional high schools in
+  the next school year. 
+
+
+  We also have strong partnerships with our college partners, that include:
+  CSUN, CSUDH, Occidental College, and University of Southern California, and
+  have student leaders, along with program staff,  led the recruitment and
+  training of our college volunteers. 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
@@ -130,6 +144,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: peer-health-exchange
-order: 34
+order: 35
 
 ---

@@ -128,6 +128,21 @@ Please describe the broader impact of your proposal.: >-
   degree so they can attend college together and his parents are celebrating
   their sobriety. When students thrive, their families also thrive. This is
   Positive Multigenerational Change.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Ednovate began working with Transcend in 2017 through the Transcend-NewSchools
+  Venture Fund Collaborative. Together, we reimagined our learning environments
+  based on input from students, teachers and families, research, and future
+  trends. We conducted hundreds of empathy interviews and worked to reimagine
+  what was possible at a school that was already doing great things for
+  students.
+
+
+  Ednovate and Transcend continued working together to create and run an
+  Innovation Team to test and pilot concepts; revise and refine practices; and
+  create a two-year principal fellowship model. We are excited to continue
+  partnering with Transcend to create a high school model that ensures academic
+  readiness and that our graduates are ready to create Positive
+  Multigenerational Change.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

@@ -121,6 +121,17 @@ Please describe the broader impact of your proposal.: >-
 
   Our efforts to make LA the best place to LEARN will also help make it the best
   place to create, plan, connect and live.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Think Together partners with 47 public charter schools with campuses
+  throughout Los Angeles, the San Fernando Valley and the San Gabriel Valley.
+  Our growing system of public/private partnerships also allows us to leverage
+  our relationships with the Los Angeles County Office of Education and the
+  California Department of Education to improve student outcomes and implement
+  best practices. We also partner with organizations such as Broadcom, which
+  last year alone supplied 1,600 laptops to expand our STEM, coding and robotics
+  programming. Think Together also partners with the Los Angeles Chamber of
+  Commerce and other local agencies to provide improved employment opportunities
+  for students in our Workforce Readiness (WREP) programs.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

@@ -76,6 +76,12 @@ Please describe the broader impact of your proposal.: >-
   and opens opportunities for employment at a living wage. In addition, our
   younger students are motivated by Good Life Mfg. participant success—providing
   a continuum of services at LACP. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  LACP is not submitting a collaborative proposal. All proposed activities will
+  be conducted at the LACP Industrial Arts Youth Center. However, we will
+  continue to partner with the City of Lancaster, America's Job Center of
+  California, and Los Angeles County Office of Education to ensure that
+  participants have a comprehensive support system.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
@@ -90,6 +96,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: lost-angels-childrens-project
-order: 24
+order: 25
 
 ---

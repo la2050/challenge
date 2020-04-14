@@ -122,6 +122,20 @@ Please describe the broader impact of your proposal.: >-
   program is a durable investment in community capacity to build power for
   change in LA for years to come, for climate justice and for any other issue
   that arises in the community.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Each coalition member will bring its proven track record of successfully
+  fighting gas plants and advocating for clean energy to co-develop curriculum
+  and co-lead trainings with the coalition and their community leaders. Our 4
+  trainings will emphasize the shared experience and leadership of various
+  environmental justice leaders that lead campaigns to replace dirty gas plants
+  with equitable and community-led clean solutions.
+
+
+  Staff from each coalition member will participate in all 4 trainings.
+  Collectively, the coalition will mobilize 160 LA County residents to
+  participate in our trainings - 3 in LA and 1 in the Inland Valley. Community
+  leaders from the Central Coast and from Inland Valley will participate in at
+  least 2 of the trainings to enrich the knowledge of the LA County trainees.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support

@@ -108,6 +108,15 @@ Please describe the broader impact of your proposal.: >-
   children to Aim High: planning for a bright tomorrow while working hard on the
   field and in the classroom today. Our lacrosse programming builds confidence,
   teamwork, and perseverance.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Harlem Lacrosse is not submitting a collaborative proposal, but our work would
+  not be possible without the important contributions of our program partners
+  and our local advisory board. Harlem Lacrosse works alongside the staff at
+  Inner City Education Foundation (ICEF) Schools and Walton Middle School and
+  the Compton Unified School District. Harlem Lacrosse - Los Angeles is
+  incredibly grateful for partnerships with local high schools and colleges,
+  lacrosse leagues, corporate partners, and the dedicated work of nearly 50
+  volunteers who all contribute to meaningful experiences for our players.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support

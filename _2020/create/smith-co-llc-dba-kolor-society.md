@@ -90,6 +90,17 @@ Please describe the broader impact of your proposal.: >-
   affect families, customers, South L.A., and the broader communities. Tax
   revenues generated from businesses provide much needed services for the
   community. When small businesses thrive, the community thrives.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+  Innovative Entrepreneurs Hub (IEH) will offer access to conference rooms,
+  business branding services, business credit consultations, and financing
+  options. 
+   
+  Startup Grind South LA will hold monthly events which will serve as an entry
+  point to reach small business owners. They will assist in marketing the
+  mastermind groups. Their partnership with Google for startups will allow
+  participants access to countless business building tools, ability to apply for
+  up to $100,000 on the Google Cloud Platform, and discounted tickets to the
+  Startup Grind Annual Global event in Silicon Valley.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
@@ -103,6 +114,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: create
 filename: smith-co-llc-dba-kolor-society
-order: 35
+order: 36
 
 ---

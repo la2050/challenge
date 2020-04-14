@@ -110,6 +110,17 @@ Please describe the broader impact of your proposal.: >-
   anger, aggression and hostility, enables people to connect with others in new
   and meaningful ways, creates safe and supportive space for self-reflection,
   self-expression and connection without fear of judgment.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  While Center for Council is the sole applicant for this proposal, C-U-LA is a
+  collaborative project which will engage our network of partners and allies in
+  new ways. C-U-LA will be implemented through partnership with “Host
+  Organizations,” who will provide venues and invite their communities to our
+  in-person Councils. Center for Council will support organizations with all
+  resources to host successful Councils, including experienced facilitators, as
+  well as marketing kits to communicate the intention of “C-U-LA Funded by
+  LA2050” as A SPACE FOR CONNECTION. We have also allocated a venue stipend for
+  hosts of $250 per Council, with a minimum of five events per host, sharing the
+  resources provided by LA2050 with our community.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
@@ -122,6 +133,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: connect
 filename: center-for-council-a-project-of-community-partners
-order: 7
+order: 6
 
 ---

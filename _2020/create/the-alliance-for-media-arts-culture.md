@@ -123,6 +123,18 @@ Please describe the broader impact of your proposal.: >
   network that includes lifelong learning, grants for creative projects,
   mentorship, and entrepreneurship training. Beyond the grant period, Arts2Work
   can support LA with a sustainable, inclusive model of creative change.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+  Better Youth is a creative youth development agency in LA. Since 2008, they
+  have served over 12,000 young people through classes, workshops, film
+  festivals, mentorship and career training. Better Youth is an
+  Arts2Work-affiliated training center and employer, and will be a pipeline for
+  eligible participants, mentors and training.
+
+
+  Venice Arts is an Arts2Work-certified training center and employer, offering a
+  suite of programming designed to develop the next generation of Los Angeles
+  storytellers and visual media artists. They will provide the core creative
+  technology and workforce training environment for this Arts2Work program.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
@@ -139,6 +151,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: the-alliance-for-media-arts-culture
-order: 38
+order: 39
 
 ---

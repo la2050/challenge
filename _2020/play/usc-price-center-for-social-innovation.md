@@ -129,6 +129,17 @@ Please describe the broader impact of your proposal.: >-
 
   Further, by providing support to CBOs focused on park access and neighborhood
   safety, this project will help organizations better execute their missions.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+  The Price Center has partnered with a wide variety of law enforcement agencies
+  and community-based organizations through NDSC, since launching the platform
+  in 2017. We have worked in close collaboration with LAPD, the Community
+  Coalition in South Los Angeles, the Urban Peace Institute, and the GRYD
+  Foundation (Gang Reduction and Youth Development), among others.
+   
+  In addition, the NDSC Steering Committee represents a multitude of
+  organizations in Los Angeles, including the Southeast Los Angeles (SELA)
+  Collaborative, Coalition for Responsible Community Development, South Los
+  Angeles Transit-Empowerment Zone (SLATE-Z), and the Housing Authority of LA.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

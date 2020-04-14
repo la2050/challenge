@@ -99,6 +99,7 @@ Please describe the broader impact of your proposal.: >-
   accessible as a resource to the entire population of LA County, we
   specifically target low-to-moderate income families with children and families
   experiencing homelessness. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': Not collaborating.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

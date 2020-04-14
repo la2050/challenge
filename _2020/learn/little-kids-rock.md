@@ -127,6 +127,20 @@ Please describe the broader impact of your proposal.: >-
   data shows that access and exposure to inclusive music education practices
   positively impact the entire school and many modern band programs are a point
   of pride throughout the larger community.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  While this is not a collaborative proposal, partnerships are at the core of
+  all of LKR’s work. We have a strong relationship with LAUSD, which supports
+  our introductory workshops, Ambassador-led professional developments, and
+  guest artist visits. They have also been supportive of the LA All-City Modern
+  Band which was created in 2018, and have incorporated modern band methods into
+  Beyond the Bell, their district-wide after-school program. 
+
+
+  LKR also has a great collaborative relationship with Partnership LA and has
+  ensured that all 20 LAUSD schools they oversee have a modern band program. We
+  also partner with LA Works, which provides volunteers to assist teachers in
+  the classroom. Their volunteers with musical backgrounds work with our LA
+  All-City Modern Band students during rehearsals. 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

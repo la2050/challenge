@@ -99,6 +99,18 @@ Please describe the broader impact of your proposal.: >-
   and that food rescue is an integral part of a solution to the problem of
   global warming.  Bottom line: we believe that everyone should always have
   access to delicious, healthy food.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Partners not only play a role in our project, they are our project.  Our
+  partners are our clients, the hundreds of donors who share food, and the raft
+  of recipient organizations (20, approximately, as of this writing). 
+  Restaurants, grocery stories, farmer’s markets: nobody wants to throw out
+  food.   What potential donors lack is a reliable partner, an organization with
+  a well run, well directed volunteer base who can be counted on to pick up food
+  at the appropriate time and location, transport it to a facility for sorting,
+  and then deliver it to one of a network of agencies who will make immediate
+  use of it.  We are that solution.  This is what we have been doing for years,
+  with a proven track record, and we are ready to go big.  We thank you for
+  supporting the Hollywood Food Coalition.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

@@ -93,6 +93,9 @@ Please describe the broader impact of your proposal.: >-
   future  entrepreneurs and job seekers with the requisite skill sets. It is an
   equity imperative for all of us where ever we can to create career pathways
   that allow for access, opportunity and inclusion.  
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  The Peggy Beatrice Foundation will play a role in participant recruitment,
+  curriculum design and staffing of the mobile classroom.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

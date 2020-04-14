@@ -121,6 +121,15 @@ Please describe the broader impact of your proposal.: >-
   art and social programs through unique pop-up experiences to meet the needs of
   at-risk youth and communities (or those not often exposed to artistic cultural
   experiences), creating a deep sense of community. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Dream North Entertainment is in the business of strategy consulting and
+  bringing an eclectic group of versatile artists together with the common focus
+  to share pop-up cultural art experiences with underrepresented youth and
+  communities. Remix Music Combine (RMC) Mobile Stage Trailer provides
+  entertainment and arts production (audio, visual, lighting, and music
+  entertainment). Our ultimate goal is to prepare young minds for a better
+  future, so students can gain skills and confidence as they gradually traverse
+  from each grade and educational institution. 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

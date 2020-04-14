@@ -145,6 +145,12 @@ Please describe the broader impact of your proposal.: >+
 
 
 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  The lead collaborator for the project will be the charter school network -
+  Camino Nuevo Charter Academy that run eight campuses in the MacArthur Park,
+  Westlake, and Pico Union neighborhoods in Central Los Angeles. In working
+  directly with CNCA administrators and principals four schools out of their
+  network will be selected to participate in the Big City Lab program. 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

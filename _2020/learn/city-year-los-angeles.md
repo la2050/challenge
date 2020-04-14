@@ -113,6 +113,10 @@ Please describe the broader impact of your proposal.: >-
   Angeles has partnered with teachers and schools in communities challenged by
   the persistent inequity in our education system to create learning
   environments where all students can reach their full potential.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  City Year Los Angeles will work closely with the Inglewood Unified School
+  District for the duration of this project. However, this is not a
+  collaborative proposal. 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support

@@ -103,6 +103,18 @@ Please describe the broader impact of your proposal.: >-
 
   There will be an estimated 800 individuals in the community that will have
   fresh and veganic, locally grown produce available to them.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+  Sustaina is our partner and helps manage many elements of Huarache Farms
+  operations. The app plans all work parties to accomplish all installation,
+  maintenance, harvests, sales, and delivery. 
+
+  With our scalable seed to sale process visible, communities all over LA will
+  see how productive their yards could be for their health and financial
+  security. Our entry cost is pretty low. Sustaina will be able to help others
+  actualize their backyard farm and produce abundance for their community! It
+  will feel like playing a multiplayer video game while making money, growing
+  sustainable food, and more fertile ecosystems. Grow food instead of lawns,
+  have more fun, make and save more money, and get healthier!
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
@@ -118,6 +130,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: huarache-farms-llc
-order: 19
+order: 20
 
 ---

@@ -134,6 +134,12 @@ Please describe the broader impact of your proposal.: >-
   not degraded yet. Also, plastic doesn’t biodegrade, it photo-degrades,
   meaning, it breaks down into smaller toxic micro particles, which contaminate
   and bleed into the environment, which we later ingest in our food and water.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  While not a collaborative proposal, we will be working closely with LADWP who
+  has expressed great appreciation for our #DrinkTap campaign. They have been a
+  partner in this mission to help Angeleno's not waste hard-earned dollars on
+  plastic water bottles and they are ready to provide all facts and figures
+  needed to create the city-wide campaign promoting our clean tap water. 
 Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation

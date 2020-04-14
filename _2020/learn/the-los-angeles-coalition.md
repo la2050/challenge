@@ -3,8 +3,8 @@ application_id: '1957887424'
 title: 'Knowing is Half the Battle: How Well are We Preparing Students for Careers?'
 organization_description: Nonprofit
 project_video: ''
-link_donate: Not Applicable
-link_volunteer: Not Applicable
+link_donate: ''
+link_volunteer: ''
 link_newsletter: Email michael.kelly@thelacoalition.com
 mailing_address_city: Los Angeles
 mailing_address_street: '555 S. Flower Street, 19th Floor'

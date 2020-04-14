@@ -79,6 +79,22 @@ Please describe the broader impact of your proposal.: >-
   themselves, their communities and their cultures in public performances and
   exhibitions.   The Music Center will be recognized as a welcomed
   community-convening space where dialogue and interaction occur regularly.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Teaching artist-partners will work with The Music Center through the planning
+  and execution of both the online and in-person dance engagements. They will
+  provide instruction, perform online and on-stage, as well as provide music.
+
+
+  The League of Women Voters will set up booths on the Plaza to help attendees
+  register for voting and is also looking to pilot online endeavors with The
+  Music Center in support of voter registration. The Los Angeles County
+  Registrar will assist these voting initiatives by providing voter registration
+  workshops for volunteers who will also be working alongside the League of
+  Women Voters.
+
+
+  Lastly, we expect collaboration in the form of financial support from past
+  funders including Bank of America and the Korean Cultural Center. 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
@@ -111,6 +127,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: the-music-center
-order: 56
+order: 58
 
 ---

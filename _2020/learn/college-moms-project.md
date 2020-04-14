@@ -129,18 +129,50 @@ Please describe the broader impact of your proposal.: >+
   them toward education pathways that allow them to become independent adults
   and to raise their children in a dignified manner.
 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Our partner organizations can be divided into three categories:
+
+
+  1. Sources of Teen Moms: These include high schools and social service
+  agencies. We visit these campuses throughout L.A. County and work directly
+  with the teachers and students.
+
+
+  2. Colleges and Universities: We work with dozens of campuses to secure
+  enrollment and support services. Most of our teens will enroll initially in
+  community colleges, where they will be supported by the campus C.A.R.E.
+  office.
+
+
+  3. Nonprofits: In addition to our mentors, we work with other nonprofits that
+  support our young moms. These include agencies such as Pathways L.A., which
+  helps us secure off-campus childcare services when on-campus facilities are
+  full.  
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Strategy assistance and implementation
-Please list the organizations collaborating on this proposal.: >-
-  St. Anne's Maternity Home, New Village Girls Academy, LAUSD, McAlister High
-  School for Teen Mothers (3 Campuses, LAUSD), Riley High School for Teen
-  Mothers (3 Campuses LAUSD), Cooperative Agencies Resources for Education (CARE
-  - 115 campuses in California), Meet Bridget, Juno Collaborative, Educational
-  Talent Search (USC), Riordan Fellows and Scholars Programs (UCLA), Numerous
-  high schools throughout Los Angeles County, Pathways L.A., Women's
-  Professional Development Groups and individual women at leading L.A.
-  companies, including, Capital Group, Google and Apple.   
+Please list the organizations collaborating on this proposal.:
+  - St. Anne's Maternity Home
+  - New Village Girls Academy
+  - LAUSD
+  - McAlister High School for Teen Mothers (3 Campuses
+  - LAUSD)
+  - Riley High School for Teen Mothers (3 Campuses LAUSD)
+  - >-
+    Cooperative Agencies Resources for Education (CARE - 115 campuses in
+    California)
+  - Meet Bridget
+  - Juno Collaborative
+  - Educational Talent Search (USC)
+  - Riordan Fellows and Scholars Programs (UCLA)
+  - Numerous high schools throughout Los Angeles County
+  - Pathways L.A.
+  - >-
+    Women's Professional Development Groups and individual women at leading L.A.
+    companies
+  - including
+  - Capital Group
+  - Google and Apple.
 Which metrics will your submission impact?:
   - College graduates
   - College matriculation

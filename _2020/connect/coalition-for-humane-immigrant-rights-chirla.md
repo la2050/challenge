@@ -95,6 +95,18 @@ Please describe the broader impact of your proposal.: >-
   Supporting a pillar organization like CHIRLA will have incredible impact on
   saving lives regardless of status, providing safety net resources to sustain
   families, and empowering individuals to recover in the future. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  CHIRLA has been around for almost 35 years and has developed an extensive
+  network of collaborations and partnerships throughout the years.  Our role as
+  a coalition builder statewide and a leader in immigrant rights nationally has
+  allowed us to work closely with many powerful groups deep in the movement. 
+  Locally our community education and outreach efforts, as well as our
+  organizing, advocacy, civic engagement, youth development, and legal work
+  connect our strategies with hundreds of public, private, and nonprofit
+  entities.  Together we move the needle in supporting our communities by
+  partnering on events, local and statewide campaigns, and other initiatives
+  impacting the lives of immigrants.  In light of Covid-19 those networks are
+  growing, we are in the process of updating our lists.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
@@ -111,6 +123,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: coalition-for-humane-immigrant-rights-chirla
-order: 12
+order: 11
 
 ---

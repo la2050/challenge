@@ -118,6 +118,20 @@ Please describe the broader impact of your proposal.: >
   We also look forward to adding to conversations about the development of Los
   Angeles as a smart city. We cannot talk about creating smart cities if
   low-income communities have no or limited internet access and digital skills. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+  While this is not a “collaborative proposal”, EveryoneOn will work with
+  organizations that serve the LAPZ and the Office of Los Angeles Mayor Garcetti
+  to help identify adults and seniors who can benefit from participating in the
+  program. Modest stipends will be provided for their outreach support. In
+  addition, we will work with Los Angeles City College to identify students
+  interested in delivering the virtual trainings. Student trainers will be
+  provided a stipend for their support of the program.  
+
+
+  The success of our digital skills trainings for 80 seniors in 2018 was in
+  large part due to the collective efforts with LAPZ partners. We look forward
+  to continuing the collective impact work to foster digital equity in the LAPZ
+  and beyond. 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
@@ -131,6 +145,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: connect
 filename: everyoneon
-order: 18
+order: 17
 
 ---

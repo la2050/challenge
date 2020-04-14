@@ -99,6 +99,22 @@ Please describe the broader impact of your proposal.: >-
   have been pushed to housing farther out from their jobs, schools, and
   healthcare resources they depend on. All are major reasons transit ridership
   is down, traffic is up, and we’re scared to walk and bike. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+  - ACT-LA - project collaborator, grassroots organizing and power building,
+  housing/land use and transportation advocacy, trainings and workshops 
+
+  - CicLAvia  - project collaborator, outreach/promotion, open street event
+  activation, public event coordination 
+
+  - Investing in Place - project coordinator, trainings/workshops/communications
+  on transportation policymakers & decision makers, budget and policy research.
+
+  - Los Angeles County Bicycle Coalition (LACBC) - project collaborator,
+  grassroots organizing, multimodal wayfinding advocacy, mobility resilience
+  workshops and storytelling
+
+  - Move LA  - project collaborator, outreach/promotion, Metro Advocacy,
+  housing/land use advocacy, research.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support

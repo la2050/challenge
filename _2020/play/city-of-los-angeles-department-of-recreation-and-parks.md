@@ -90,6 +90,12 @@ Please describe the broader impact of your proposal.: >-
   the communities that are lacking this feature. Providing a Mobile Recreation
   program at these sites will bring access to equipment, supplies, and
   instructors that is much needed in these communities.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  RAP has a Memorandum of Understanding (MOU) with the Los Angeles Unified
+  School District  (LAUSD) to utilize their sites during non-school days and/or
+  hours, which will be the main locations for the Mobile Recreation Program.
+  LAUSD will also assist with marketing the program to students and their
+  families. 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

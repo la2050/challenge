@@ -83,6 +83,10 @@ Please describe the broader impact of your proposal.: >-
   having to return due to shared vehicle with another activity group. This
   system may lead to additional volunteer or employment opportunities as it will
   increase the time-frame for involvement at a site.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Although we will be working with special education programs from LAUSD
+  schools, local companies, and local non-profit organizations, this is not a
+  collaborative proposal.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support

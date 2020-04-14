@@ -125,6 +125,16 @@ Please describe the broader impact of your proposal.: >-
   problem solving proficiency at our partner schools will allow us to initiate
   longitudinal explorations of possible correlations with SBA Math problem
   solving area performance.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  9 Dots is not submitting this grant in collaboration with another organization
+  or entity, however we have strong district partnerships with LAUSD and CUSD,
+  and we are currently working in 22 Title I schools, with 11 in each respective
+  district. This year, we are completing a three-year district level partnership
+  with CUSD and are in talks for growing the K-6 pathways and/or contracting
+  with additional CUSD schools.  We were recently selected by LAUSD (the largest
+  school district in the country) as one of only 61 approved “Partners for
+  Student Success” contractors and are the only approved organization on the
+  bench dedicated to CS education.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

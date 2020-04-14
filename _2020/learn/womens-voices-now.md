@@ -169,6 +169,22 @@ Please describe the broader impact of your proposal.: >-
 
   - 2,500 in-person viewers (premiere screening, additional screenings,
   festivals).
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  While Women's Voices Now delivers this program directly, we have partnered
+  with different organizations for outreach and to replicate the program and
+  will continue to do so.
+
+  Last year, we teamed up with The Representation Project to deliver our GVN
+  program in Oakland to an additional cohort of girls. We shared our curriculum
+  and hardware with them, and they helped acquire supplies with a financial
+  grant.
+
+
+  Due to the current pandemic, we will most likely need to review GVN's usual
+  timeline and format this year. We are currently exploring new partnerships
+  with several local youth organizations and schools that have expressed
+  interest for GVN and could provide both venues and students who belong to our
+  target group.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support

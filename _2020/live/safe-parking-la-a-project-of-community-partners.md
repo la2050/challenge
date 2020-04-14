@@ -89,6 +89,18 @@ Please describe the broader impact of your proposal.: >-
   engage all 99 of LA’s Neighborhood Councils in Neighbors for Home over time.
   Through our work with Neighborhood Councils and other community partners, we
   will build a volunteer army to support change.  
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  While Safe Parking LA will be the sole administrator, we have already engaged
+  four Neighborhood Councils to participate in the pilot project including the
+  Palms Neighborhood Council, Del Rey Council, United Neighborhoods Neighborhood
+  Council, and Wilshire Center Koreatown Neighborhood Council, exceeding our
+  goal in case one partner backs out. We will operate in communication with
+  Empower LA, the local agency that empowers Angelenos through civic engagement
+  and community advocacy via the Neighborhood Council system. Councils and other
+  local groups will participate by inviting their membership to volunteer with
+  their local safe lot and partner with Safe Parking LA in our effort to
+  stabilize people living in their vehicles and support their journey out of
+  homelessness.  
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
@@ -107,6 +119,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: safe-parking-la-a-project-of-community-partners
-order: 39
+order: 40
 
 ---

@@ -95,6 +95,17 @@ Please describe the broader impact of your proposal.: >-
   and more interactive instruction in the outdoors is the key to
   transformational experiences at Camp Skyhook.  The outdoors provides
   multi-sensory options for students to learn in their own learning modality.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Our partner LAUSD-Office of Outdoor& Environmental Education has a tremendous
+  role in the project. The grounds of the campsite at Clear Creek Outdoor
+  Education Center are leased by the LAUSD from the U.S. National Forest. This
+  means that the staff maintains the grounds entirely. Additionally, the camp is
+  staffed by LAUSD employees who have been rigorously vetted according to the
+  LAUSD standards to work with children. Curriculum and the instructional focus
+  are created in alignment with the LAUSD science program adopted at all
+  elementary schools. Additional attention is given to the needs of special
+  populations within the district including homeless youth, foster youth,
+  English Language Learners and a large population (80%) living in poverty. 
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - 'Office space for meetings, events, or for staff'

@@ -114,6 +114,18 @@ Please describe the broader impact of your proposal.: >-
   their children. This isn’t about changing any single law or embracing any
   single ideology. As with other civil rights, it is designed to evolve over
   time as society’s understanding of what it means to put kids first evolves.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  This project is not being submitted as a formal collaboration but many partner
+  organizations are engaged already. Kirkland & Ellis is doing the drafting and
+  legal analysis pro bono, and has committed to representing public school
+  parents pro bono after passage to enforce the right for their children. Emma
+  Bloomberg's organization has already done preliminary polling with encouraging
+  results and has committed to fund additional focus groups and polling as an
+  in-kind donation. And I am working with multiple partner organizations to
+  build grassroots support including at various stages of development: La
+  Comadre, Students for Education Reform, CCSA, The Economic Mobility
+  Collaborative, Allies for Educational Equity, LAUSD school board allies, PTA,
+  TFA, Ed Trust, USC Center EDGE.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

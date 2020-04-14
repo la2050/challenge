@@ -119,6 +119,21 @@ Please describe the broader impact of your proposal.: >-
   elections. Ultimately, the result we are working toward is a local government
   that is dramatically more representative of — and responsive to — the people
   it serves.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+  LA 101 is a true partnership between LA Forward and Inclusive Action. The
+  concept was developed collaboratively, and our plan calls for a near-even
+  split in creating content, recruiting partners, organizing events, and
+  spreading the word.
+
+
+  While certain core tasks will be shared by both organizations, we will focus
+  on areas where we bring unique expertise. For example, Inclusive Action will
+  draw on its experience working alongside low-income communities of color to
+  ensure that the LA 101 guide reaches — and is informed by and speaks to —
+  communities who have historically been shut out of local politics. LA Forward
+  will apply its experience creating and distributing beautifully-designed voter
+  guides and other educational materials that have reached hundreds of thousands
+  of Angelenos.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

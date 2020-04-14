@@ -127,6 +127,22 @@ Please describe the broader impact of your proposal.: >-
   we found benefit to live events, non profit fundraisers, & many other
   productions. It’s hard to track the many benefits of such a program to
   bordering areas of economic development
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  The HERE Institute champions immersive & experiential arts through media
+  platforms, events, & creative programming. The HERE Summit & Festival is a
+  global hub for immersive art, design, and performance. Their publication, No
+  Proscenium, covers immersive arts and entertainment worldwide.
+
+
+  The Department of Cultural Affairs is a co-sponsor of LOLA. DCA will provide
+  outreach to publicize the project (including workshops, panels, & discussions)
+  & contribute expertise for web resource & activations.
+
+
+  Think Tank Gallery is an award-winning art collective, creative solutions, and
+  production company established in DTLA in 2010. They have a conceptual space
+  in Little Tokyo & create content that has put them alongside institutions like
+  the Guggenheim Museum on “Most Instagrammable Arts Spaces” lists
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
@@ -150,6 +166,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: create
 filename: the-league-of-experiential-immersive-artists-leia
-order: 39
+order: 40
 
 ---

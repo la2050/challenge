@@ -126,6 +126,22 @@ Please describe the broader impact of your proposal.: >
   By providing teacher training and aggregated performance data to schools, we
   believe an additional 10,000 people can be positively impacted over the next
   3-5 years
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  Our study is made possible because of our strong relationships with several
+  nonprofits. 
+
+
+  Our distribution partners are The LA Promise Fund and College Spring. Both
+  organizations have agreed to help us distribute Everydae to LAUSD students and
+  forge relationships with schools and educators.
+
+
+  Meanwhile, 21PSTEM will be leading the evaluation and providing teachers with
+  targeted data. 21PSTEM is a leading nonprofit expert in STEM education
+  research and development. Their work throughout the US and Middle East (funded
+  with over $57 million in support from the Dept of Education/IES, USAID,
+  UNESCO, and private foundations) has impacted more than 30 universities, 400
+  faculty, 500 secondary schools, 5000 teachers, and many thousands of students.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
 Please list the organizations collaborating on this proposal.: 21PSTEM

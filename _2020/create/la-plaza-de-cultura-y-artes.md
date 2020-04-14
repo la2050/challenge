@@ -96,6 +96,18 @@ Please describe the broader impact of your proposal.: >
   these sites and the city’s rich history to life with coherence and
   authenticity. Most visitors are low to middle-income families from East, South
   East L.A. and the San Fernando Valley.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  LA Plaza Cocina is rooted in collaboration and will make the greatest impact
+  by working with others. Programs and exhibits will include people from across
+  the city, state, and even across the border to create a regular series of
+  classes, demonstrations, and talks developed by and for chefs, food
+  historians, restaurant owners, sommeliers, nutritionists,  and foodies. LA
+  Plaza Cocina programs include a long list of collaborators such as Sarah
+  Portnoy, Latino Food Culture professor at USC, Maite Gomez-Rejon, chef and
+  food anthropologist at UCLA and restaurants like Chichen Itza, Madre!, and
+  tortilla producers, Kernel of Truth Organics in Boyle Heights. Our
+  collaborators serve as domain experts, workshop instructors, and panel
+  participants.  
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

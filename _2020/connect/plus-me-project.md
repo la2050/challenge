@@ -125,6 +125,22 @@ Please describe the broader impact of your proposal.: >-
   any guest who wishes to attend. These events will remind us how resilient,
   empathetic, and diverse we are as a city - inspiring a ripple effect that will
   create deeper connections, less isolation, and remind us that we matter.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  GEAR UP 4 LA will support PLUS ME Project in ensuring we always have
+  classrooms available that will host our volunteer guest speakers throughout
+  the 2020 - 2021 school year. 
+
+
+  GEAR UP 4 LA works with over 35 middle and high schools throughout Los
+  Angeles. This allows us to implement our storytelling project to thousands of
+  students. Through this collaboration, we may also have the opportunity to host
+  some of our quarterly mixers at their schools to allow more students and
+  community members to attend and CONNECT. 
+
+
+  In addition, GEAR UP 4 LA will support us in recruiting volunteers throughout
+  their alumni network of current college students, educator lists, and overall
+  parent community.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
@@ -138,6 +154,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: connect
 filename: plus-me-project
-order: 44
+order: 45
 
 ---

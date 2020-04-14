@@ -100,6 +100,18 @@ Please describe the broader impact of your proposal.: >-
   homelessness, substance abuse and the deterioration of veteran family units is
   not only needed to benefit our communities, it pays a debt that is owed to
   these brave men and women who served our country in its time of need. 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  CVJP is not submitting a ‘collaborative proposal’ per se, as our efforts are
+  highly collaborative with the veteran community. We serve as a focal point to
+  marshal various resources to help the Los Angeles County veteran. CVJP is
+  establishing the infrastructure throughout the county in collaboration with
+  the Department of Health Services (DHS), Department of Mental Health, the
+  Veterans Administration, the Public Defender’s Office and other entities to
+  create this coordinated system for all justice-involved veterans. In addition
+  we are working with US Vets housing, treatment and special women’s programs,
+  LA County Military and Veteran Affairs, the UCLA legal clinic and Veteran
+  Family Wellness Center, Region 7 College Veteran Resource Centers, and the Los
+  Angeles Veteran Collaborative.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

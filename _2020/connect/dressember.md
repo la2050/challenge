@@ -116,6 +116,18 @@ Please describe the broader impact of your proposal.: >-
   management. $900 provides vocational training for a teen survivor, $1.4
   million could provide over 1,500 teens with vocational training. As our
   volunteer base grows, so does our impact.
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+  While we are not submitting this project in collaboration with another
+  organization, our LA-based partners will also benefit. Our strategy to ensure
+  the most sustainable impact and maximize every dollar begins with vetting new
+  and existing partners through five key criteria, one of which is
+  collaboration. Collaboration is crucial for our holistic approach to combating
+  human trafficking in LA and globally. Through our 3 LA-based partners and
+  thousands of LA-based volunteers, we have seen the power of collaboration.
+  Everything we’ve achieved at Dressember is a result of collaboration. The road
+  to Dressember raising $10 million in seven years exists because of the
+  alliance of our partners and most importantly, the thousands of volunteers
+  that have committed to the Dressember campaign.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
@@ -129,6 +141,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: dressember
-order: 16
+order: 15
 
 ---

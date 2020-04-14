@@ -95,6 +95,7 @@ Please describe the broader impact of your proposal.: >+
   where, together with our students, we can rightfully proclaim “IF I CAN DO
   SHAKESPEARE, I CAN DO ANYTHING!!!”
 
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': "We work closely with our schools, which begin with each school’s Principal, who dedicates the necessary funds and workspace(s), selects a Liaison Teacher, Classroom Teacher, and Support Staff to work in concert with TYS.  \n\n(P=Principal, C=Classroom Teacher, L=Liaison Teacher, S=Staff, F=Family)\n\nOCT-MAY\n•\tSelect Participating Students (P,C,L)  \n•\tOrder “No Fear Shakespeare” books (L)\n•\tUse TYS Guide to teach basic Play elements (Plot, Characters, Themes) (C)\t     \n•\tImpart Rules of Commitment (C&L)\n•\tObtain Parental Consents (L)\n•\tSupport “No Fear Shakespeare” reading (C,L,F)\n\nJAN-MAY \n•\tEncourage Program Attendance/Participation (C,L,F)\n•\tCoordinate/Attend all Workshops (L)\n•\tDistribute program materials (L)\n•\tPrep Workshop Spaces (S)\n•\tVolunteer where Needed (eg. Hair/Makeup) (S,F)\n"
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
