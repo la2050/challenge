@@ -115,7 +115,7 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community for topic-specific experts
 Please list the organizations collaborating on this proposal.:
   - University of Southern California
-  - The Huntington Library, Art Museum, and Botanical Gardens
+  - 'The Huntington Library, Art Museum, and Botanical Gardens'
   - Los Angeles Public Library
 Which metrics will your submission impact?:
   - College matriculation
