@@ -158,7 +158,7 @@ Please list the organizations collaborating on this proposal.:
   - CDC Small Business Finance Los Angeles
   - Pacific Asian Consortium in Employment (PACE LA)
   - West Angeles Community Development Corporation (West LA CDC)
-  - Small Business Development Center (SBDC), El Camino
+  - 'Small Business Development Center (SBDC), El Camino'
 Which metrics will your submission impact?:
   - Income inequality
   - Minority- and women-owned businesses

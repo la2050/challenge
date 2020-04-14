@@ -30,8 +30,10 @@ project_description: >-
   educating/informing Angelenos about climate change via our podcast EcoJustice
   Radio. 
 Which LA2050 goal will your submission most impact?: LA is the best place to LIVE
-In which areas of Los Angeles will you be directly working?: 
-  - County of Los Angeles (please select only if your project has a countywide benefit) 
+In which areas of Los Angeles will you be directly working?:
+  - >-
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
 In what stage of innovation is this project?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
@@ -95,6 +97,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: socal-350
-order: 42
+order: 43
 
 ---

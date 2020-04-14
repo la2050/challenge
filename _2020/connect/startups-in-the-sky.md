@@ -2,7 +2,7 @@
 application_id: '2033517821'
 title: InTECHrity Conference (powered by Startups in the Sky)
 organization_description: For profit business
-project_video: https://www.youtube.com/watch?v=5lxcqK5dpso
+project_video: 'https://www.youtube.com/watch?v=5lxcqK5dpso'
 link_donate: ''
 link_volunteer: 'mailto:info@sits.la'
 link_newsletter: '(bottom of the page) https://www.sits.la/'
@@ -172,6 +172,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: startups-in-the-sky
-order: 54
+order: 55
 
 ---

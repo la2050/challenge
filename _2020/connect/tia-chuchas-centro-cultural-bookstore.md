@@ -128,6 +128,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: tia-chuchas-centro-cultural-bookstore
-order: 59
+order: 60
 
 ---

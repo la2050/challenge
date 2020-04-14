@@ -99,6 +99,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: connect
 filename: new-horizons-serving-individuals-with-special-needs
-order: 42
+order: 43
 
 ---
