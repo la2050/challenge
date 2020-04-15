@@ -25,8 +25,7 @@ project_description: >-
   Funding/support for the costs of our essential aid kits (50%).  Our kits
   contain food, hygiene items, weather protection, toiletries, socks, and more.
   Funding/support for increased capacity costs for additional event space and
-  storage (25%). We need a second location to increase capacity for aid and volunteer participation. Funding/support for our educational program for
-  production of videos, including moderated panel discussions on pertinent
+  storage (25%). We need a second location to increase capacity for aid and volunteer participation. Funding/support for our    educational program for production of videos, including moderated panel discussions on pertinent
   homeless topics/concerns and about formerly homeless telling their stories
   (25%).
 Which LA2050 goal will your submission most impact?: LA is the best place to CONNECT
