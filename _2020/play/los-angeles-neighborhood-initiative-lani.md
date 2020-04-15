@@ -25,10 +25,10 @@ Please describe the mission of your organization.: >-
   lifestyles, open spaces, public transit, and economic opportunities.
 project_description: >-
   We will create small-scale public murals, or “selfie spots,” in 3
-  neighborhoods - the Byzantine-Latino Quarter, Watts, and El Sereno - to attract
-  locals and visitors and serve as cultural place-making icons. Each art piece
-  will be designed and executed by local artists with community volunteers of
-  all ages, and will celebrate the multigenerational bonds and unique local
+  neighborhoods - the Byzantine-Latino Quarter, Watts, and El Sereno - to
+  attract locals and visitors and serve as cultural place-making icons. Each art
+  piece will be designed and executed by local artists with community volunteers
+  of all ages, and will celebrate the multigenerational bonds and unique local
   culture of its neighborhood. The selfie spots will bring new visitors and
   economic activity to each neighborhood, and connect friends and family of all
   ages to play and share.
@@ -131,6 +131,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: play
 filename: los-angeles-neighborhood-initiative-lani
-order: 13
+order: 14
 
 ---

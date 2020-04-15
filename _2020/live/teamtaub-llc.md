@@ -2,10 +2,6 @@
 application_id: '5371039727'
 title: Get Out From Under The Table Payroll
 organization_description: For profit business
-# project_video: n/a this will be a new project
-# link_donate: n/a this will be a new project
-# link_volunteer: n/a this will be a new project
-# link_newsletter: n/a this will be a new project
 mailing_address_city: Encino
 mailing_address_street: 16145 Morrison Street
 ein: 84-4540182
@@ -86,6 +82,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: teamtaub-llc
-order: 48
+order: 49
 
 ---

@@ -39,11 +39,14 @@ What is the need you’re responding to?: >-
   community members across West L.A. in breaking down barriers to voting and
   broader civic participation. West L.A. Votes! will:
 
-  * Promote opportunities for Angelenos to learn about political offices and their functions through a civic education campaign
+  * Promote opportunities for Angelenos to learn about political offices and
+  their functions through a civic education campaign
 
-  * Train a force of dedicated volunteers alongside our staff to register voters and get them to the polls  
+  * Train a force of dedicated volunteers alongside our staff to register voters
+  and get them to the polls  
 
-  * Bring local elected officials and community members together face-to-face to dialogue about policies and community needs
+  * Bring local elected officials and community members together face-to-face to
+  dialogue about policies and community needs
 
 
   We believe that civic engagement has a significant impact on the health of our
@@ -70,37 +73,46 @@ Why is this project important to the work of your organization?: >
   Health Center Week, to meeting with officials about policies that affect our
   patients. Our extensive reach makes us the ideal hub for a civic engagement
   initiative. 
-  
 Please explain how you will define and measure success for your project.: >-
-  Research shows people are more likely to vote when they understand how government works. We will launch a non-partisan campaign to educate Angelenos about national, state, and local government. We will:
+  Research shows people are more likely to vote when they understand how
+  government works. We will launch a non-partisan campaign to educate Angelenos
+  about national, state, and local government. We will:
 
-  * Create Government 101 video shorts, narrated in English/Spanish by our patients, to play in clinic waiting rooms. —Over 20,000 patients will view them.
+  * Create Government 101 video shorts, narrated in English/Spanish by our
+  patients, to play in clinic waiting rooms. —Over 20,000 patients will view
+  them.
 
-  * Pilot a government Lunch & Lecture series with our staff and Patient Advisory Council. —Over 200 people will attend. Focus groups will capture impact.
+  * Pilot a government Lunch & Lecture series with our staff and Patient
+  Advisory Council. —Over 200 people will attend. Focus groups will capture
+  impact.
 
 
-  Only 1 in 2 Angelenos report they always or frequently vote. Rates are even lower among people we serve, who are largely low-income and from communities of color. We will mobilize West L.A. residents to vote through non-partisan outreach efforts at community-wide events and online. We will:
+  Only 1 in 2 Angelenos report they always or frequently vote. Rates are even
+  lower among people we serve, who are largely low-income and from communities
+  of color. We will mobilize West L.A. residents to vote through non-partisan
+  outreach efforts at community-wide events and online. We will:
 
   * Recruit and train at least 20 outreach volunteers
 
   * Assist over 100 residents with voter registration 
 
-  * Partner with agencies who will demo ballot marking devices and register residents for ID cards with no fee waivers 
+  * Partner with agencies who will demo ballot marking devices and register
+  residents for ID cards with no fee waivers 
 
   * Disseminate election information e-blasts
 
   * Provide shuttle transport to the polls
 
 
-  Citizens who trust elected officials are more likely to vote and feel a sense of civic duty. We will connect residents with their officials and facilitate meaningful interactions. We will:
+  Citizens who trust elected officials are more likely to vote and feel a sense
+  of civic duty. We will connect residents with their officials and facilitate
+  meaningful interactions. We will:
 
   * Invite government officials to speak at our lecture series
 
   * Hold “Meet Your Representative” booths at local events
 
   * Create an online guide on how to contact elected officials
-
-
 Approximately how many people will be directly impacted by this proposal?: '21500'
 Approximately how many people will be indirectly impacted by this proposal?: '144000'
 Please describe the broader impact of your proposal.: >-
@@ -121,7 +133,7 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - 'Capacity, including staff'
   - Strategy assistance and implementation
-Please list the organizations collaborating on this proposal.: ""
+Please list the organizations collaborating on this proposal.: ''
 Which metrics will your submission impact?:
   - Government responsiveness to residents’ needs
   - Volunteerism

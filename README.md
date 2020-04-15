@@ -143,7 +143,9 @@ If you want to generate a different set of images, you can edit the [gulpfile](h
 ## Handy guides
 
 * [Markdown](https://guides.github.com/features/mastering-markdown/)
+* [YAML](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
+* [YAML Checker](http://www.yamllint.com)
 * [Liquid](https://shopify.github.io/liquid/)
 * [Liquid for Designers](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)
 * [Jekyll](https://jekyllrb.com/docs/home/)
-
+* [GitHub Pages](https://pages.github.com)

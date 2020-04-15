@@ -2,8 +2,7 @@
 application_id: '5972568233'
 title: Good Life Manufacturing
 organization_description: Nonprofit
-project_video: https://www.youtube.com/watch?v=jCx0cP73Y3w
-# project_video: 'https://www.youtube.com/channel/UCOvrKOyEN7EM1xugQ88v1HQ'
+project_video: 'https://www.youtube.com/watch?v=jCx0cP73Y3w'
 link_donate: 'https://www.lostangelscp.org/donate-sponsor'
 link_volunteer: 'https://www.lostangelscp.org/contact'
 link_newsletter: 'https://www.lostangelscp.org'

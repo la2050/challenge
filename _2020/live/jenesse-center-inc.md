@@ -2,10 +2,7 @@
 application_id: '6863892225'
 title: Domestic Violence Intervention and Prevention Program
 organization_description: Nonprofit
-project_video: https://www.youtube.com/watch?v=RsjC3-mqGlU
-# project_video: |-
-#   https://www.youtube.com/watch?v=RsjC3-mqGlU
-#   https://www.youtube.com/watch?v=A1557Eiagow
+project_video: 'https://www.youtube.com/watch?v=RsjC3-mqGlU'
 link_donate: 'https://jenesse.org/donate/'
 link_volunteer: 'https://jenesse.org/help/giveTime.html'
 link_newsletter: ''
