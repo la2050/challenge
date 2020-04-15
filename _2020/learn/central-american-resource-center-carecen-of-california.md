@@ -85,38 +85,38 @@ Please explain how you will define and measure success for your project.: >
   Center that will accomplish the following: 
 
 
-  •Ensure the immigrant and refugee student’s needs are being met in a
+  *Ensure the immigrant and refugee student’s needs are being met in a
   comprehensive way so that barriers for educational attainment are addressed.
 
 
-  •Provide parents and / or adult family members with the knowledge and skills
+  *Provide parents and / or adult family members with the knowledge and skills
   to support their children’s educational success.
 
 
-  •Provide students with the knowledge and skills in the areas of civic
+  *Provide students with the knowledge and skills in the areas of civic
   engagement and digital organizing.
    
-  •Develop well-trained parents and students advocating for school communities
+  *Develop well-trained parents and students advocating for school communities
   and policies that advance educational equity for immigrants and refugees in
   LAUSD.
 
 
-  •Monitor students’ academic progress so that they earn a high school diploma
+  *Monitor students’ academic progress so that they earn a high school diploma
   and gain admission to higher educational institution
 
 
-  •Ensure access to academic support for students and their families.
+  *Ensure access to academic support for students and their families.
 
    
   Measurable program objectives include: 
 
 
-  •10-15 outreach / recruitment events will be scheduled every semester to
+  *10-15 outreach / recruitment events will be scheduled every semester to
   introduce our programs to local schools, family resource centers, and
   community centers.
 
 
-  •15-20 parents will participate in the Parent Leadership Program each cohort.
+  *15-20 parents will participate in the Parent Leadership Program each cohort.
 
   a.Parent Leadership cohort members will participate in bi-weekly workshops
   that address language barriers, the LAUSD system and the academic needs of
@@ -127,7 +127,7 @@ Please explain how you will define and measure success for your project.: >
   survey.
 
 
-  •15-20 youth will participate in the Youth Leadership Program each cohort. 
+  *15-20 youth will participate in the Youth Leadership Program each cohort. 
 
   a.Youth Leadership cohort members will participate in workshops that cover
   art, activism, civic engagement and advocacy.
@@ -136,7 +136,7 @@ Please explain how you will define and measure success for your project.: >
   organizing at the end of the program through a pre-post qualitative survey.
 
 
-  •15-20 11th and 12th grade students will participate in our College Head Start
+  *15-20 11th and 12th grade students will participate in our College Head Start
   Program each cohort. 
 
   a.College Head Start participants will be supported with college admissions

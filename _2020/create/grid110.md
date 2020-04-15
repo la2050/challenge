@@ -74,17 +74,17 @@ Why is this project important to the work of your organization?: >-
 Please explain how you will define and measure success for your project.: >-
   Key metrics for success that we track would be:
 
-  • # of companies supported through the programs and completion rate
+  * # of companies supported through the programs and completion rate
 
-  • # of entrepreneurs supported through events, advisor hours and workshops
+  * # of entrepreneurs supported through events, advisor hours and workshops
 
-  • Business starts
+  * Business starts
 
-  • Funding obtained
+  * Funding obtained
 
-  • Revenue growth
+  * Revenue growth
 
-  • Jobs created
+  * Jobs created
 
 
   Our vision for success is to build a thriving, dynamic and inclusive

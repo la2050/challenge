@@ -67,7 +67,7 @@ Why is this project important to the work of your organization?: >-
   Farms reconnects the lives of the formerly incarcerated back to the fabric of
   society through urban agriculture, gainful employment and job training
   programs. 
-Please explain how you will define and measure success for your project.: "By 2020, NHS will have expanded its loan production by 15% and PCR by 15%. By 2021 NHS hopes to raise an additional $30 million in capital for program leverage, and by 2022 plans to enter escrow on 6 land banking sites for development near transit. \n\nOur partners envision that SCI will deliver a systemic, replicable model with programming and service delivery that can be utilized in similar LMI communities throughout the country. In order to achieve the desired long-term social impact that NHS envisions for the City of Compton, SCI’s objectives include: \n\n•\tBlight mitigation and comprehensive neighborhood revitalization\n•\tIncrease neighborhood investment and small business capital in TOD neighborhoods to connect residents to economic opportunity \n•\tSupport urban agricultural, agribusiness, and local farmers. Increase access to healthy foods to increase food security\n•\tDevelop greener mixed-use residential and commercial development in the neighborhood, acquire 6 additional blighted properties \n•\tIncrease social capital, improve quality of life in the community, preserve culture, heritage and legacy neighborhoods\n"
+Please explain how you will define and measure success for your project.: "By 2020, NHS will have expanded its loan production by 15% and PCR by 15%. By 2021 NHS hopes to raise an additional $30 million in capital for program leverage, and by 2022 plans to enter escrow on 6 land banking sites for development near transit. \n\nOur partners envision that SCI will deliver a systemic, replicable model with programming and service delivery that can be utilized in similar LMI communities throughout the country. In order to achieve the desired long-term social impact that NHS envisions for the City of Compton, SCI’s objectives include: \n\n*\tBlight mitigation and comprehensive neighborhood revitalization\n*\tIncrease neighborhood investment and small business capital in TOD neighborhoods to connect residents to economic opportunity \n*\tSupport urban agricultural, agribusiness, and local farmers. Increase access to healthy foods to increase food security\n*\tDevelop greener mixed-use residential and commercial development in the neighborhood, acquire 6 additional blighted properties \n*\tIncrease social capital, improve quality of life in the community, preserve culture, heritage and legacy neighborhoods\n"
 Approximately how many people will be directly impacted by this proposal?: '15000'
 Approximately how many people will be indirectly impacted by this proposal?: '95000'
 Please describe the broader impact of your proposal.: >
@@ -87,19 +87,19 @@ Please describe the broader impact of your proposal.: >
   •Metro CDC: personal development classes to assist formerly incarcerated
   individuals and at-risk youth to navigate obstacles that can block success
 
-  •Pacific Coast Regional SBDC: SBA certified Community Advantage lender, CDFI,
+  *Pacific Coast Regional SBDC: SBA certified Community Advantage lender, CDFI,
   and SBDC who provides technical assistance, training and 1:1 business
   consulting for entrepreneurs and growing businesses with onsite business
   incubator
 
-  •Watts Health Foundation as a FQHC provides access to behavioral health,
+  *Watts Health Foundation as a FQHC provides access to behavioral health,
   trauma, alcohol and drug abuse counseling, and wellness checks
 
-  •City of Compton will provide infrastructure upgrades along with public safety
+  *City of Compton will provide infrastructure upgrades along with public safety
   and planning that support affordable housing, commercial development, and
   transit improvements
 
-  •Alma Backyard Farms: urban agribusiness training for area residents and
+  *Alma Backyard Farms: urban agribusiness training for area residents and
   provides families with healthy foods 
 Which of LA2050’s resources will be of the most value to you?:
   - Strategy assistance and implementation

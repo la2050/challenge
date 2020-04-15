@@ -78,19 +78,19 @@ Please explain how you will define and measure success for your project.: >
   accomplish the following outcomes:
 
 
-  •Woodcraft day camps will be held at three locations in public parks for 11
+  *Woodcraft day camps will be held at three locations in public parks for 11
   hours/day, 5 days/week over 7 weeks. 
 
 
-  •Woodcraft will launch a new scholarship program for qualifying families to
+  *Woodcraft will launch a new scholarship program for qualifying families to
   provide free enrollment for up to 600 day camp participants.
 
 
-  •Woodcraft day camp staff will receive trauma-informed mental health training
+  *Woodcraft day camp staff will receive trauma-informed mental health training
   in partnership with Children’s Hospital Los Angeles’ Project Heal. 
 
 
-  •Woodcraft day camps will maintain a maximum 20:1 student to staff ratio.
+  *Woodcraft day camps will maintain a maximum 20:1 student to staff ratio.
 Approximately how many people will be directly impacted by this proposal?: '600'
 Approximately how many people will be indirectly impacted by this proposal?: '600'
 Please describe the broader impact of your proposal.: >-

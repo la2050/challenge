@@ -83,18 +83,18 @@ Please explain how you will define and measure success for your project.: >-
 
   At each quarterly event, we will:
 
-  • Purchase wholesale hygiene products to build 1000-3000 hygiene kits for our
+  * Purchase wholesale hygiene products to build 1000-3000 hygiene kits for our
   unhoused neighbors
 
-  • Offer donate-what-you-can admission to make volunteering accessible &
+  * Offer donate-what-you-can admission to make volunteering accessible &
   affordable for everyone in our community
 
-  • Invite speakers with lived experience to share their stories
+  * Invite speakers with lived experience to share their stories
 
-  • Secure an ADA-accessible space for 125+ volunteers and room for building
+  * Secure an ADA-accessible space for 125+ volunteers and room for building
   community
 
-  • Host a non-profit fair for our community partners to meet new volunteers
+  * Host a non-profit fair for our community partners to meet new volunteers
 
 
   Our measure of success will be building 4000+ kits with a goal of reaching

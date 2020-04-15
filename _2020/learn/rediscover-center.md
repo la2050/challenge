@@ -90,19 +90,19 @@ Please explain how you will define and measure success for your project.: >-
   the community, including measures such as:
 
 
-  •          Children 18 and under attendance
+  *          Children 18 and under attendance
 
 
-  •          Classes and workshops attendance
+  *          Classes and workshops attendance
 
 
-  •          Number of temporary exhibitions
+  *          Number of temporary exhibitions
 
 
-  •          Number of exhibition openings
+  *          Number of exhibition openings
 
 
-  •          Number of off-site school programs
+  *          Number of off-site school programs
 
   Our vision is to facilitate 20,000 children per year as they learn to not
   simply to problem-solve, but expand upon their own solutions; not only to

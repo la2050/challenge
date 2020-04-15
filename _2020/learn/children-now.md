@@ -86,16 +86,16 @@ Please explain how you will define and measure success for your project.: >-
 
   For this project, we will measure our success by the following metrics:
 
-  • The number of LEAs in LA County that are educated about the new
+  * The number of LEAs in LA County that are educated about the new
   instructions.
 
-  • The number of LEAs in LA County provided technical assistance as they
+  * The number of LEAs in LA County provided technical assistance as they
   complete their 2020-23 LCAPs. 
 
-  • The number of LA County LCAPs analyzed to determine the services and
+  * The number of LA County LCAPs analyzed to determine the services and
   supports provided to these highly vulnerable students.
 
-  • The number of LA County stakeholders and policymakers educated about the
+  * The number of LA County stakeholders and policymakers educated about the
   targeted services and supports available to foster youth and any gaps as
   identified through this analysis.
 Approximately how many people will be directly impacted by this proposal?: '80'
