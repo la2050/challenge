@@ -2,7 +2,6 @@
 application_id: '2198658203'
 title: Skate-4-Education
 organization_description: Nonprofit
-# project_video: 'https://www.youtube.com/watch?time_continue=32&v=o51Q_P_8uBw&feature=emb_logo'
 link_donate: >-
   https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QLGSPGRJ5UC26&currency_code=USD&source=url
 link_volunteer: www.thegarageboardshops.com/contact
@@ -103,6 +102,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: play
 filename: the-urban-warehouse
-order: 19
+order: 20
 
 ---

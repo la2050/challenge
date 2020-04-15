@@ -2,7 +2,6 @@
 application_id: '4212725313'
 title: chyp's PhotoVoice
 organization_description: Nonprofit
-# project_video: 'https://www.youtube.com/channel/UCdFgmm64TIVrd03yhHq8sIg'
 link_donate: 'https://mychyp.org/donate/'
 link_volunteer: 'https://mychyp.org/join-the-alliance/'
 link_newsletter: 'https://mychyp.org/contact-us/'
