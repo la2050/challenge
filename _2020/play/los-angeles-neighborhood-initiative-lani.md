@@ -25,7 +25,7 @@ Please describe the mission of your organization.: >-
   lifestyles, open spaces, public transit, and economic opportunities.
 project_description: >-
   We will create small-scale public murals, or “selfie spots,” in 3
-  neighborhoods -the Byzantine-Latino Quarter, Watts, and El Sereno - to attract
+  neighborhoods - the Byzantine-Latino Quarter, Watts, and El Sereno - to attract
   locals and visitors and serve as cultural place-making icons. Each art piece
   will be designed and executed by local artists with community volunteers of
   all ages, and will celebrate the multigenerational bonds and unique local

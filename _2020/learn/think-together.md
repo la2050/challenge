@@ -18,7 +18,7 @@ organization_facebook: facebook.com/thinktogether/
 organization_instagram: '@instagram.com/thinktogether/'
 Please describe the mission of your organization.: Think Together partners with schools to change the odds for kids.
 project_description: >-
-  With support from LA2050, Think Together will transition 50 former Youth
+  With support from LA2050, Think Together will transition 47 former Youth
   Policy Institute sites to Think Together programming. These include: robust
   literacy and math programs for K-8; tutoring and credit recovery classes for
   grades 9-12; social emotional learning and trauma-informed care programs,

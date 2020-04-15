@@ -1,6 +1,6 @@
 ---
 application_id: '2870421753'
-title: 3D Knitted Medical Grade Masks
+title: 3D Knitted Masks
 organization_description: For profit business
 project_video: 'https://video.foxbusiness.com/v/6146374844001/#sp=show-clips'
 link_donate: >-
@@ -12,7 +12,7 @@ link_newsletter: >-
 mailing_address_city: Malibu
 mailing_address_street: 327 S Latigo Canyon Rd
 ein: 81­1179538
-organization_name: Global Apparel Partners d/b/a Variant
+organization_name: Variant
 mailing_address_state: California
 mailing_address_zip: '90265'
 organization_website: 'https://www.variantmalibu.com'
