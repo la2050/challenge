@@ -84,36 +84,36 @@ Please explain how you will define and measure success for your project.: >-
 
   Pre-Festival:
 
-  • Teachers are equipped with arts learning strategies and curriculum packets
+  * Teachers are equipped with arts learning strategies and curriculum packets
   that support students with disabilities 
 
 
-  • Students complete in-school arts curriculum leading up to VSAF; they learn
+  * Students complete in-school arts curriculum leading up to VSAF; they learn
   and rehearse their performances; create artwork for student exhibition 
 
 
   Day 1:
 
-  • Student fulfillment as noted by expressions of joy, energy, completion of
+  * Student fulfillment as noted by expressions of joy, energy, completion of
   their performances and positive response from audiences 
 
 
-  • Student engagement through arts workshops and live performances 
+  * Student engagement through arts workshops and live performances 
 
 
-  • Student artwork is displayed and seen by all attendees 
+  * Student artwork is displayed and seen by all attendees 
 
 
   Day 2:
 
-  • Families and community members fill the plaza and participate  
+  * Families and community members fill the plaza and participate  
 
 
-  • Community ADA organizations host workshops, live performances, public panels
+  * Community ADA organizations host workshops, live performances, public panels
   and information booths 
 
 
-  • Visitors gain improved understanding of people with disabilities 
+  * Visitors gain improved understanding of people with disabilities 
 
 
   Data collecting consists of interviews with schools and participants, focusing

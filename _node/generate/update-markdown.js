@@ -191,6 +191,10 @@ function changeNAtoEmpty(data) {
   return data;
 }
 
+function makeBulletedListsMarkdownFriendly(string) {
+  return string.replace(/\n•/g, "\n*");
+}
+
 function is_valid_url(url) {
   return url.match(/^(ht|f)tps?:\/\/[a-z0-9-\.]+\.[a-z]{2,4}\/?([^\s<>\#%"\,\{\}\\|\\\^\[\]`]+)?$/);
 }
@@ -208,6 +212,15 @@ function processFile(filename) {
   // Load the contents of the file
   let data = loadMarkdown(filename);
   if (!data) return;
+
+  for (let key of Object.keys(data.yaml)) {
+    if (typeof(data.yaml[key]) === "string") {
+      if (data.yaml.organization_name === "Venice Family Clinic") {
+        console.log(key);
+      }
+      data.yaml[key] = makeBulletedListsMarkdownFriendly(data.yaml[key]);
+    }
+  }
 
   // if (data.yaml['Please list the organizations collaborating on this proposal.'].includes(",")) {
   //   console.log(data.yaml['Please list the organizations collaborating on this proposal.'])

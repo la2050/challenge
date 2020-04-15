@@ -46,13 +46,13 @@ In what stage of innovation is this project?: >-
 What is the need you’re responding to?: >
   Our Goals
 
-  •Bring the benefits of nature to children to improve and sustain their mental
+  *Bring the benefits of nature to children to improve and sustain their mental
   health 
 
-  •Build relationships/engage families at Mar Vista Gardens public housing
+  *Build relationships/engage families at Mar Vista Gardens public housing
   project 
 
-  •Assist parents and children in deepening attachment with one another and with
+  *Assist parents and children in deepening attachment with one another and with
   nature as a protective factor 
 
 

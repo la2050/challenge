@@ -117,12 +117,12 @@ Please describe the broader impact of your proposal.: >-
   These are the nonprofit and civic partners we have to-date in each of our
   three issues, with each providing expertise and in-kind support as follows:
 
-  • Homelessness
+  * Homelessness
      • Everyone In/United Way: Content leader for topics and speakers
      • Councilmember David Ryu, District 4: In-kind space, logistical support, city awards
-  • Climate Change
+  * Climate Change
      • Audubon Center at Debs Park: topic experts, logistical support
-  • Equity in Education
+  * Equity in Education
      • TBD
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community

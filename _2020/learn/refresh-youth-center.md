@@ -72,7 +72,7 @@ Why is this project important to the work of your organization?: >-
 Please explain how you will define and measure success for your project.: >
   Through our programming we seek to achieve the following results:
 
-  •See an improvement in grades and group participation. The majority of the
+  *See an improvement in grades and group participation. The majority of the
   youth that enroll in our programs are dealing with neglect, suffering from
   abandonment, peer pressure (sexual activity, drug use, alcohol use, gang
   exposure, and bullying), single-parent homes being maintained by grandparents
@@ -81,16 +81,16 @@ Please explain how you will define and measure success for your project.: >
   school, poverty/homelessness/hunger, and poor communication and acting in
   aggression towards others.
 
-  • Based on surveys distributed to students, parents, teachers and
+  * Based on surveys distributed to students, parents, teachers and
   administrators we want our students exiting our program to traverse into high
   school to have gained “essential life skills, an helpful ear to express
   themselves, self- confidence and self-efficacy, and feelings of safety and
   belongingness”.
 
-  • We obtain tangible results and find an increase in group sharing, leadership
+  * We obtain tangible results and find an increase in group sharing, leadership
   skills, self-accountability, and team support. 
 
-  • Los Angeles community members wanting to attend our special events which
+  * Los Angeles community members wanting to attend our special events which
   promote ‘Life, Love, Hope, Beauty, Strength, Diversification and Unification’
   through “Artisans in Motion”. 
 

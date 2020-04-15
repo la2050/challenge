@@ -106,7 +106,7 @@ Please describe the broader impact of your proposal.: >
   dissertation included interviews with many former CoF members who are now in
   their 20s, and they said that it changed the way they saw themselves and the
   world. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': "As a collaborative partner, Los Angeles Unified School District will \n•\tSelect the local district and schools participating\n•\tIdentify onsite CoF Advisors to attend training and be members of the Inclusion Task Force\n•\tArrange coverage and meeting spaces for professional development, planning and meetings\n•\tBe responsible for keeping records of participation, surveys and other documentation for evaluation purposes.\n"
+'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': "As a collaborative partner, Los Angeles Unified School District will \n*\tSelect the local district and schools participating\n*\tIdentify onsite CoF Advisors to attend training and be members of the Inclusion Task Force\n*\tArrange coverage and meeting spaces for professional development, planning and meetings\n*\tBe responsible for keeping records of participation, surveys and other documentation for evaluation purposes.\n"
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support

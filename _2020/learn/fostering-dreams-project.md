@@ -99,17 +99,17 @@ Please explain how you will define and measure success for your project.: >+
 
   Additional Evaluations:
 
-  • On camera interviews: feedback from students and admin about the program. 
+  * On camera interviews: feedback from students and admin about the program. 
 
-  • Journal Evaluation: qualitative evaluation measures to assess student
+  * Journal Evaluation: qualitative evaluation measures to assess student
   progress in soft skill competencies, such as self-expression through writing,
   self-confidence, and emotional wellbeing. 
 
-  • Start and End Surveys: The surveys will use quantitative and qualitative
+  * Start and End Surveys: The surveys will use quantitative and qualitative
   measures to assess student competency in the objectives and goals, before and
   after the program. 
 
-  • Focus Group: FDP will assess students’ satisfaction with the program and
+  * Focus Group: FDP will assess students’ satisfaction with the program and
   gain targeted feedback for the program’s continued development. 
 
 
