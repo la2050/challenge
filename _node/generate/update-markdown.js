@@ -215,9 +215,6 @@ function processFile(filename) {
 
   for (let key of Object.keys(data.yaml)) {
     if (typeof(data.yaml[key]) === "string") {
-      if (data.yaml.organization_name === "Venice Family Clinic") {
-        console.log(key);
-      }
       data.yaml[key] = makeBulletedListsMarkdownFriendly(data.yaml[key]);
     }
   }

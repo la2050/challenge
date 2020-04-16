@@ -9,15 +9,15 @@ let mkdirp = require("mkdirp");
 // let request = require("request");
 
 function changeNAtoEmpty(data) {
-  for (var prop in data) {
-    if (typeof(data[prop]) === 'string' && (
-          data[prop].toLowerCase() === 'n/a' || 
-          data[prop].toLowerCase() === 'na'  ||
-          data[prop].toLowerCase() === 'none'||
-          data[prop].toLowerCase() === 'not applicable'||
-          data[prop].toLowerCase() === 'not applicable.'
+  for (let key of Object.keys(data)) {
+    if (typeof(data[key]) === 'string' && (
+          data[key].toLowerCase() === 'n/a' || 
+          data[key].toLowerCase() === 'na'  ||
+          data[key].toLowerCase() === 'none'||
+          data[key].toLowerCase() === 'not applicable'||
+          data[key].toLowerCase() === 'not applicable.'
         )) {
-      data[prop] = ''
+      data[key] = ''
     }
   }
 
@@ -31,9 +31,18 @@ function isEmailAddress(email) {
 }
 
 function addMailTo(data) {
-  for (var prop in data) {
-    if (isEmailAddress(data[prop])) {
-      data[prop] = `mailto:${data[prop]}`
+  for (let key of Object.keys(data)) {
+    if (isEmailAddress(data[key])) {
+      data[key] = `mailto:${data[key]}`
+    }
+  }
+  return data;
+}
+
+function makeBulletedListsMarkdownFriendly(data) {
+  for (let key of Object.keys(data)) {
+    if (typeof(data[key]) === "string") {
+      data[key] = data[key].replace(/\n•/g, "\n*");
     }
   }
   return data;
@@ -402,7 +411,7 @@ function createMarkdownFile(data) {
 
   data = changeNAtoEmpty(data);
   data = addMailTo(data);
-  
+  data = makeBulletedListsMarkdownFriendly(data);
 
   let filename = stringToURI(data.organization_name).replace(/^åê/g, "").replace(/åê$/g, "");
 
@@ -741,16 +750,14 @@ function fixDataCharactersInString(string) {
 }
 
 function fixDataCharacters(data) {
-  for (let prop in data) {
-    if (data.hasOwnProperty(prop)) {
-      if (typeof(data[prop]) === 'string') {
-        data[prop] = fixDataCharactersInString(data[prop]);
-      }
-      let fixedPropName = fixDataCharactersInString(prop);
-      if (prop !== fixedPropName) {
-        data[fixedPropName] = data[prop];
-        delete data[prop];
-      }
+  for (let key of Object.keys(data)) {
+    if (typeof(data[key]) === 'string') {
+      data[key] = fixDataCharactersInString(data[key]);
+    }
+    let fixedPropName = fixDataCharactersInString(key);
+    if (key !== fixedPropName) {
+      data[fixedPropName] = data[key];
+      delete data[key];
     }
   }
 
@@ -822,5 +829,5 @@ function getApplicationID(data) {
     console.log("Couldn’t find application ID for: " + data["Organization Details: | Organization name: *"]);
   }
 }
-generateCollections('../../_data/2020 Challenge Proposals, from SM Apply, with Decision and ID (April 15, 3pm) - forjim3_Apr 15 2020 02_51 PM (PDT).csv');
+generateCollections('../../_data/2020 Challenge Proposals, from SM Apply, with Decision and ID (April 16, 10am) - jim5_Apr 16 2020 09_38 AM (PDT).csv');
 
