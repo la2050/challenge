@@ -13,7 +13,7 @@ mailing_address_state: California
 mailing_address_zip: '90066'
 organization_website: 'http://www.breadhead.org/'
 organization_twitter: '@breadheadvenice'
-organization_facebook: fb.me/breadheadvenice
+organization_facebook: breadheadvenice
 organization_instagram: '@breadheadvenice'
 Please describe the mission of your organization.: >-
   Bread Head’s mission is to empower young adults experiencing housing
