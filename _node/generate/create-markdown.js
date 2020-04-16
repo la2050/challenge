@@ -829,5 +829,5 @@ function getApplicationID(data) {
     console.log("Couldn’t find application ID for: " + data["Organization Details: | Organization name: *"]);
   }
 }
-generateCollections('../../_data/2020 Challenge Proposals, from SM Apply, with Decision and ID (April 15, 3pm) - forjim3_Apr 15 2020 02_51 PM (PDT).csv');
+generateCollections('../../_data/2020 Challenge Proposals, from SM Apply, with Decision and ID (April 16, 10am) - jim5_Apr 16 2020 09_38 AM (PDT).csv');
 
