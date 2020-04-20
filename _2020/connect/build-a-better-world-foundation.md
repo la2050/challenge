@@ -2,7 +2,7 @@
 application_id: '2316667577'
 title: Build A Better World Foundation Concert
 organization_description: Nonprofit
-project_video: Build A Better World Foundation
+project_video: ""
 link_donate: www.buildabetterworldfoundation.org
 link_volunteer: www.buildabetterworldfoundation.org
 link_newsletter: www.buildabetterworldfoundation.org
@@ -15,7 +15,7 @@ mailing_address_zip: '91301'
 organization_website: 'https://www.buildabetterworldfoundation.org'
 organization_twitter: '@BABWFoundation'
 organization_facebook: Buildabetterworldfoundation
-organization_instagram: '@buildabetterworldenterprises'
+organization_instagram: ""
 Please describe the mission of your organization.: >-
   We Support the Empowerment of Youth and other existing Charitable
   Organizations through Music and The Arts by Sponsoring Charity Concerts,
