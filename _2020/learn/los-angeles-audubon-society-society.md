@@ -10,7 +10,7 @@ link_newsletter: www.laaudubon.org
 mailing_address_city: Los Angeles
 mailing_address_street: P.O. Box 411301
 ein: 95-6093704
-organization_name: Los Angeles Audubon Society Society
+organization_name: Los Angeles Audubon Society
 mailing_address_state: California
 mailing_address_zip: 90041-8301
 organization_website: 'https://www.laaudubon.org'

@@ -2,7 +2,7 @@
 application_id: '4038677148'
 title: Pathways to Stability for Justice-involved Individuals
 organization_description: Nonprofit
-project_video: 'https://youtu.be/WGq5AZtBJkM'
+project_video: 'https://www.youtube.com/watch?v=AVP5jV11H-Y&feature=youtu.be'
 link_donate: 'https://www.changelives.org/other-ways-to-donate/'
 link_volunteer: 'https://www.changelives.org/volunteer/'
 link_newsletter: 'https://www.changelives.org/newsroom/'
