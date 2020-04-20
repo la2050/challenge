@@ -128,9 +128,7 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
   - 'Office space for meetings, events, or for staff'
-Please list the organizations collaborating on this proposal.:
-  - 'TBD:'
-  - Mayor Garcetti Office of Immigrant Affairs
+Please list the organizations collaborating on this proposal.: ''
 Which metrics will your submission impact?:
   - Social and emotional support
   - Volunteerism
