@@ -104,6 +104,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: back-on-my-feet-los-angeles
-order: 2
+order: 3
 
 ---

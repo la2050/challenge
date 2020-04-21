@@ -94,6 +94,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: live
 filename: alzheimers-los-angeles
-order: 1
+order: 2
 
 ---

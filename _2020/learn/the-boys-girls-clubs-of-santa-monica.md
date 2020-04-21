@@ -119,6 +119,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: learn
 filename: the-boys-girls-clubs-of-santa-monica
-order: 68
+order: 69
 
 ---

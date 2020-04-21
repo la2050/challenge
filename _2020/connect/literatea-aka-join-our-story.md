@@ -9,7 +9,7 @@ link_newsletter: ''
 mailing_address_city: Calabasas
 mailing_address_street: 5615 Ruthwood Drive
 ein: 47-4307494
-organization_name: "LiteraTea"
+organization_name: LiteraTea
 mailing_address_state: California
 mailing_address_zip: '91302'
 organization_website: 'https://www.literatea.com'
