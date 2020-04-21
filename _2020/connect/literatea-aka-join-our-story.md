@@ -9,7 +9,7 @@ link_newsletter: ''
 mailing_address_city: Calabasas
 mailing_address_street: 5615 Ruthwood Drive
 ein: 47-4307494
-organization_name: "LiteraTea\_(aka Join Our Story)"
+organization_name: "LiteraTea"
 mailing_address_state: California
 mailing_address_zip: '91302'
 organization_website: 'https://www.literatea.com'
@@ -23,7 +23,7 @@ Please describe the mission of your organization.: >-
   subscribers subsidize the program for people with limited mobility or
   resources.
 project_description: >-
-  To realize our mission of enriching the lives of underserved Angelenos',
+  To realize our mission of enriching the lives of underserved Angelenos,
   especially seniors, recent immigrants and the homebound, we need to directly
   reach and receive the endorsement of decision makers at relevant
   organizations. Financial support will also help fund tailored programs for
