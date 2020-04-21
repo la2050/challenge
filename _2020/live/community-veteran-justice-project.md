@@ -130,6 +130,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: community-veteran-justice-project
-order: 6
+order: 7
 
 ---

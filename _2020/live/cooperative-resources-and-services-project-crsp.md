@@ -107,6 +107,6 @@ Are there any other LA2050 goal categories that your proposal will impact?:
 year: 2020
 category: live
 filename: cooperative-resources-and-services-project-crsp
-order: 7
+order: 8
 
 ---
