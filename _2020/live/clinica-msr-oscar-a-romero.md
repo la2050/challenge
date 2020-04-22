@@ -73,9 +73,9 @@ Please explain how you will define and measure success for your project.: >+
   The broader impact to Los Angeles will be measured by: 
 
 
-  # of staff we were able to keep employed due to grant funding;
+  Number of staff we were able to keep employed due to grant funding;
 
-  # of community members who were provided health education to prevent the
+  Number of community members who were provided health education to prevent the
   spread of COVID-19 through remote services.
 
 

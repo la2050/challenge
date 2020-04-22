@@ -192,7 +192,7 @@ function changeNAtoEmpty(data) {
 }
 
 function makeBulletedListsMarkdownFriendly(string) {
-  return string.replace(/\n•/g, "\n*");
+  return string.replace(/\n•/g, "\n*").replace(/\n●/g, "\n*");
 }
 
 function is_valid_url(url) {

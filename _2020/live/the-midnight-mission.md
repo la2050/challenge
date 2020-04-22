@@ -61,7 +61,7 @@ Why is this project important to the work of your organization?: >-
   health & wellness resources, our program gives each person the tools to become
   self-sufficient & free from substance abuse. Because we don’t rely on
   government funding our need for grants and private funding are imperative. 
-Please explain how you will define and measure success for your project.: "\tRecovery program participants will learn how to manage their addiction by attending 90% of their individual counseling sessions (1 session per week).\n\tParticipants will learn how to interact with their peers, gain self-awareness and interpersonal skills by attending 100% of their psycho-educational groups (2 groups per week).\n\tClients will examine their life choices and learn how to solve their problems by attending 100% of their case management conferences (1 session per week).\n\n"
+Please explain how you will define and measure success for your project.: "*\tRecovery program participants will learn how to manage their addiction by attending 90% of their individual counseling sessions (1 session per week).\n*\tParticipants will learn how to interact with their peers, gain self-awareness and interpersonal skills by attending 100% of their psycho-educational groups (2 groups per week).\n*\tClients will examine their life choices and learn how to solve their problems by attending 100% of their case management conferences (1 session per week).\n\n"
 Approximately how many people will be directly impacted by this proposal?: '1300'
 Approximately how many people will be indirectly impacted by this proposal?: '7800'
 Please describe the broader impact of your proposal.: >-

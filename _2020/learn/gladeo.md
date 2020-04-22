@@ -139,10 +139,15 @@ Please describe the broader impact of your proposal.: >-
   directly with portfolio companies. They will:
 
 
-  1. Create a list of green career pathways 2. Connect us to employers who will
-  allow us to interview employees for career videos, spotlights and profiles 3.
-  Create a list of reputable educational / training programs that LACI
-  recommends for each career pathway 4. Fact Check our career profile content
+  1. Create a list of green career pathways
+
+  2. Connect us to employers who will allow us to interview employees for career
+  videos, spotlights and profiles
+
+  3. Create a list of reputable educational / training programs that LACI
+  recommends for each career pathway
+
+  4. Fact Check our career profile content
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings

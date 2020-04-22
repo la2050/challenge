@@ -42,7 +42,7 @@ function addMailTo(data) {
 function makeBulletedListsMarkdownFriendly(data) {
   for (let key of Object.keys(data)) {
     if (typeof(data[key]) === "string") {
-      data[key] = data[key].replace(/\n•/g, "\n*");
+      data[key] = data[key].replace(/\n•/g, "\n*").replace(/\n●/g, "\n*");
     }
   }
   return data;

@@ -8,7 +8,7 @@ link_volunteer: 'https://dressember2020.funraise.org/fundraiser/signup'
 link_newsletter: 'http://eepurl.com/dKTdaA'
 mailing_address_city: Los Angeles
 mailing_address_street: 777 S. Alameda St. 2nd Floor
-ein: '#46-4704743'
+ein: 46-4704743
 organization_name: Dressember
 mailing_address_state: California
 mailing_address_zip: '90021'
