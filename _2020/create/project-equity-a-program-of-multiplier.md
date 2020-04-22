@@ -147,6 +147,6 @@ Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: create
 filename: project-equity-a-program-of-multiplier
-order: 30
+order: 29
 
 ---
