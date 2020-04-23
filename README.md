@@ -26,6 +26,8 @@ https://challenge.la2050.org/
 
 The website is published with [GitHub Pages](https://pages.github.com) & [Netlify](https://www.netlify.com), and the files are generated with [Jekyll](http://jekyllrb.com).
 
+_Proposal images for the challenge are stored in the [images.la2050.org](https://github.com/la2050/images.la2050.org) repository and published separately._
+
 As you make changes and commit/push them to GitHub, the [website](https://challenge.la2050.org) will automatically update.
 
 For example, if you [edit the about page](https://github.com/la2050/challenge/edit/master/about.markdown) on GitHub, and then press the “Commit changes” button–you should see your changes on the [about page](https://challenge.la2050.org/about/) of the website within a few minutes.
