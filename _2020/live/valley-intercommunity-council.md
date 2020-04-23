@@ -2,7 +2,7 @@
 application_id: '2569668561'
 title: 'Live Better: Helping Low-Income Seniors Not Only Survive, But Thrive'
 organization_description: Nonprofit
-project_video: Not available.
+project_video: ''
 link_donate: 'https://www.vic-la.org/how-you-can-help'
 link_volunteer: |
   https://www.vic-la.org/volunteer

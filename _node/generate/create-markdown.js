@@ -10,14 +10,17 @@ let mkdirp = require("mkdirp");
 
 function changeNAtoEmpty(data) {
   for (let key of Object.keys(data)) {
-    if (typeof(data[key]) === 'string' && (
-          data[key].toLowerCase() === 'n/a' || 
-          data[key].toLowerCase() === 'na'  ||
-          data[key].toLowerCase() === 'none'||
-          data[key].toLowerCase() === 'not applicable'||
-          data[key].toLowerCase() === 'not applicable.'
-        )) {
-      data[key] = ''
+    if (typeof(data[key]) === 'string') {
+      const test = data[key].toLowerCase()
+                            .trim()
+                            .replace(/\.$/, ""); // trailing period
+      if (test === 'n/a' || 
+          test === 'na'  ||
+          test === 'none'||
+          test === 'not available'||
+          test === 'not applicable') {
+        data[key] = ''
+      }
     }
   }
 
@@ -568,6 +571,14 @@ function createMarkdownFile(data) {
   // Fix insecure Facebook values
   if (data.organization_facebook.includes('http://')) {
     data.organization_facebook = data.organization_facebook.replace('http://', 'https://');
+  }
+
+  // TODO 2021: Enable and use to fix invalid video URLs. for example:
+  // www.youtube.com/user/YIWantChange/
+  // (missing https://)
+  
+  if (data.project_video && data.project_video != "" && !data.project_video.startsWith("http")) {
+    console.error(`Found an invalid project_video URL: ${data.project_video}`);
   }
 
   data.filename = filename;
