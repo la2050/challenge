@@ -13,9 +13,9 @@ organization_name: Everything Wellness
 mailing_address_state: California
 mailing_address_zip: '90008'
 organization_website: 'https://www.EverythingWellness.com'
-organization_twitter: '@EverythingWellness'
-organization_facebook: EverythingWellness
-organization_instagram: '@EverythingWellness'
+organization_twitter: '@EverythingWell5'
+organization_facebook: EverythingWellness882
+organization_instagram: '@EverythingWellness882'
 Please describe the mission of your organization.: >
   Our mission is to PROVIDE an uplifting environment for the LA community of
   like-minded & like-hearted women in an effort to EDUCATE & embrace the concept
