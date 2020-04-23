@@ -71,7 +71,7 @@ stylesheets:
 {% endif %}
 {% endif %}
 
-<figure class="feature {% unless page.project_video != '' %} has-image{% endunless %}">
+<figure class="feature {% unless page.project_video and page.project_video != '' %} has-image{% endunless %}">
 <div data-aspect-ratio="1280/720">
 
 {% if video_embed_url %}
