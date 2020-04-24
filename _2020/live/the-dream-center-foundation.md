@@ -1,7 +1,7 @@
 ---
 application_id: '1444531487'
 title: Dream Center Crisis Relief
-organization_description: For profit business
+organization_description: Nonprofit
 project_video: 'https://vimeo.com/368838289'
 link_donate: 'https://www.dreamcenter.org/relief/'
 link_volunteer: 'https://www.dreamcenter.org/relief/'
