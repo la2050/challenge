@@ -122,45 +122,45 @@ Please describe the broader impact of your proposal.: >
   schools in Los Angeles:
 
 
-  Alliance Alice M. Baxter College-Ready HS
+  * Alliance Alice M. Baxter College-Ready HS
 
-  Alliance Health Services Academy 
+  * Alliance Health Services Academy 
 
-  Alliance Marine Innovation & Technology 6-12 Complex
+  * Alliance Marine Innovation & Technology 6-12 Complex
 
-  Alliance Tennenbaum Family Technology HS
+  * Alliance Tennenbaum Family Technology HS
 
-  Bright Star Secondary
+  * Bright Star Secondary
 
-  Canoga Park HS
+  * Canoga Park HS
 
-  Collegiate Charter HS
+  * Collegiate Charter HS
 
-  Dymally  HS
+  * Dymally  HS
 
-  Edwin Markham Middle School 
+  * Edwin Markham Middle School 
 
-  George Washington Carver Middle School
+  * George Washington Carver Middle School
 
-  Hollenbeck Middle School
+  * Hollenbeck Middle School
 
-  John Muir  HS
+  * John Muir  HS
 
-  Jordan HS
+  * Jordan HS
 
-  Lennox Math, Science, and Technology Academy
+  * Lennox Math, Science, and Technology Academy
 
-  Lennox Middle School
+  * Lennox Middle School
 
-  STEM Academy of Hollywood
+  * STEM Academy of Hollywood
 
-  Synergy Quantum Academy 
+  * Synergy Quantum Academy 
 
-  Synergy Kinetic Academy
+  * Synergy Kinetic Academy
 
-  Stevenson College and Career Preparatory Middle School 
+  * Stevenson College and Career Preparatory Middle School 
 
-  William Workman HS
+  * William Workman HS
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
@@ -173,7 +173,7 @@ Which metrics will your submission impact?:
 Are there any other LA2050 goal categories that your proposal will impact?: []
 year: 2020
 category: learn
-filename: executive-director
+filename: encorps-stem-teachers
 order: 27
 
 ---
