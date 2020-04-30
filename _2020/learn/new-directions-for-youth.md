@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '9645499856'
 title: After School Program
 organization_description: Nonprofit

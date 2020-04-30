@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8300574518'
 title: Building a Legion of Advocates
 organization_description: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8036124319'
 title: West L.A. Votes! — A Civic Engagement Initiative
 organization_description: Nonprofit

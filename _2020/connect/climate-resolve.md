@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '1725879385'
 title: One Day
 organization_description: Nonprofit

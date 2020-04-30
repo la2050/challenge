@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '1034527614'
 title: Bikes for the People
 organization_description: Nonprofit

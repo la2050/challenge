@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6590367481'
 title: Establishing a legal right to a high quality public education
 organization_description: A fiscally sponsored group

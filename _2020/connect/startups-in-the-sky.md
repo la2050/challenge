@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2033517821'
 title: InTECHrity Conference (powered by Startups in the Sky)
 organization_description: For profit business

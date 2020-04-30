@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3854583563'
 title: LA Farmers' Market Coalition
 organization_description: Nonprofit

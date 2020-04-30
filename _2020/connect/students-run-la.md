@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: 0189268411
 title: '#FutureVoters: Students'' Next Finish Line'
 organization_description: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '5921243525'
 title: Improving Educational Outcomes for Foster Youth in LA County
 organization_description: Nonprofit

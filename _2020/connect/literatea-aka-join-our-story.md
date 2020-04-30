@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2803915528'
 title: Using Stories to Create Community for Under-resourced Groups
 organization_description: Social enterprise or B-corps

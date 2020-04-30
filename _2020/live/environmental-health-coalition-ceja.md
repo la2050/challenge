@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2396710116'
 title: Regenerate California
 organization_description: A fiscally sponsored group

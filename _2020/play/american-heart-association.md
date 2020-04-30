@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '7479897991'
 title: Community STEPS
 organization_description: Nonprofit

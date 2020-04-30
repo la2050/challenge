@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8098027034'
 title: The Careers in Entertainment Mobile Classroom
 organization_description: Nonprofit

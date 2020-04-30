@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '7831815787'
 title: Recovery from Homelessness to Self-Sufficiency
 organization_description: Nonprofit

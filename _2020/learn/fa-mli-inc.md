@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6441629068'
 title: 'See A Man, Be A Man (SAMBAM) Program'
 organization_description: Nonprofit

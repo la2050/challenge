@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: 0450866477
 title: Community Health + Wellness
 organization_description: For profit business

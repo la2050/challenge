@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8349407454'
 title: 'Turnaround Arts: CA Los Angeles School Partnerships'
 organization_description: Nonprofit

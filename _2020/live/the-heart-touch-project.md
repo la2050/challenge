@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2600542531'
 title: >-
   Filling the gap for non-phamacological interventions for pain management in

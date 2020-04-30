@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2250134777'
 title: EnCorps STEM Teachers in Los Angeles
 organization_description: Nonprofit

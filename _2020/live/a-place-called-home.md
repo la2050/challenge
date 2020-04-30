@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '5773322925'
 title: A “Whole Child” Approach to Mental Health and Wellbeing at A Place Called Home
 organization_description: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '5925816703'
 title: Leadership Development
 organization_description: Nonprofit

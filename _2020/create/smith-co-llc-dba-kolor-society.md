@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: 0621074269
 title: Kolor Mastermind
 organization_description: For profit business

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '4317873115'
 title: Connected & Empowered Communities (CEC)
 organization_description: Nonprofit

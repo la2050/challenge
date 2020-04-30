@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8516103858'
 title: Civy - Civic Engagement Platform
 organization_description: For profit business

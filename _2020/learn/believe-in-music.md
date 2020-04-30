@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3106274781'
 title: Believe In Music
 organization_description: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '4547232942'
 title: 'Seeding Book Deserts™ One Book, One Child & One Community Book Box'
 organization_description: Nonprofit

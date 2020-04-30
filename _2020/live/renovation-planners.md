@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6826309575'
 title: Urban $marts LA
 organization_description: For profit business

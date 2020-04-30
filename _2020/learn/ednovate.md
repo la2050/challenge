@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2798745061'
 title: Creating Positive Multigenerational Change through LA’s High Schoolers
 organization_description: Nonprofit

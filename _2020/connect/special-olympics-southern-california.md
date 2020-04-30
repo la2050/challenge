@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6408296487'
 title: >-
   Build Acceptance & Inclusion of Persons with Disabilities in LAUSD via Special

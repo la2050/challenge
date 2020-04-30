@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2319502895'
 title: After-School All-Stars Los Angeles CampUS
 organization_description: Nonprofit

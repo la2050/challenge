@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8913199770'
 title: 'A place to live, a place to work, a place to belong.'
 organization_description: Nonprofit

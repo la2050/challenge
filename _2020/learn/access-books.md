@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6930710453'
 title: Transforming School Libraries in Low Income Neighborhoods
 organization_description: Nonprofit

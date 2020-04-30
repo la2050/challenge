@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6796707619'
 title: The Nia Intentional Living Opportunity Youth Project (NILOY)
 organization_description: Nonprofit

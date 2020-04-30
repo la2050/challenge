@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '5773414508'
 title: PUSD to College Graduation
 organization_description: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: 0137172949
 title: Emerging Content Creators Inclusion Initiative (ECCII)
 organization_description: Nonprofit

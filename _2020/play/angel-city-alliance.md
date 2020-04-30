@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '7536454657'
 title: Angel City Sports
 organization_description: Nonprofit

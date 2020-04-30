@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '1515379641'
 title: Endless Summer Surf Camp
 organization_description: Nonprofit

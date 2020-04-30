@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8337390602'
 title: Young Adult Food Security Initiative
 organization_description: Nonprofit

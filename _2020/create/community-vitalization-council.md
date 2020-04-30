@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '5559975440'
 title: LA-Central American Business Initiative (LACBI)
 organization_description: Nonprofit

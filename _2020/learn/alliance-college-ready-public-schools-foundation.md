@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8393255061'
 title: Social and Emotional Learning at Alliance
 organization_description: Nonprofit

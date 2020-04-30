@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '7658940821'
 title: Beauty of Survival Project- Empowering Survivors of Sexual Assault
 organization_description: Nonprofit

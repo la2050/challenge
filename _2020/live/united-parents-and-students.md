@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '5026106186'
 title: >-
   United Parents and Students: Strengthening Access to High-Quality Supermarkets

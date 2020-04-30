@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '5606129496'
 title: The Music Center’s Dance DTLA
 organization_description: Nonprofit

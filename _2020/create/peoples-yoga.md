@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2177852973'
 title: Empower the Next Generation of Community Yoga Leaders!
 organization_description: For profit business

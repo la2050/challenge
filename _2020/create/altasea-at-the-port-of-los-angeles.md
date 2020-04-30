@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2092163958'
 title: Be an Aquaculture Scientist
 organization_description: Nonprofit

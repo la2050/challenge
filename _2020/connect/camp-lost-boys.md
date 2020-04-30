@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3706117855'
 title: Healing Masculinity
 organization_description: Nonprofit

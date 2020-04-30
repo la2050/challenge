@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3577623286'
 title: ZipMarket.app
 organization_description: Social enterprise or B-corps

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6863892225'
 title: Domestic Violence Intervention and Prevention Program
 organization_description: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2767565995'
 title: Boulevards of Opportunity for Affordable Housing
 organization_description: Nonprofit

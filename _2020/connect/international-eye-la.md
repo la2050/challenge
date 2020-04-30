@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8347876394'
 title: Leimert Park Village Festival Series
 organization_description: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '1982063450'
 title: Empowering LA's Youth to Make Healthy Decisions
 organization_description: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '1949520312'
 title: Skirball Puppet Festival
 organization_description: Nonprofit

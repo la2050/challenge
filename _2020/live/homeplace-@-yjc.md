@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '1118633876'
 title: HOMEplace
 organization_description: A fiscally sponsored group

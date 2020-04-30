@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '7035625300'
 title: Insight in Action
 organization_description: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3380500768'
 title: L.A. Works Take Action Initiative
 organization_description: Nonprofit

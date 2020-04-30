@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3021789868'
 title: >-
   Employee Ownership: Building a More Equitable and Resilient Future with LA’s

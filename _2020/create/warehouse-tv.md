@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6818884970'
 title: In the Treehouse by Warehouse TV
 organization_description: Nonprofit

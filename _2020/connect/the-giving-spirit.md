@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2451957966'
 title: LA Homeless Outreach
 organization_description: Nonprofit

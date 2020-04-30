@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2490537996'
 title: Camp Skyhook
 organization_description: Nonprofit

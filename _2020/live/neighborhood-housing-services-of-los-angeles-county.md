@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3084846733'
 title: The Sustainable Communities Initiative
 organization_description: Nonprofit

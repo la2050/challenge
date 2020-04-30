@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3569438384'
 title: '#Hashtag Lunchbag across Los Angeles'
 organization_description: Nonprofit

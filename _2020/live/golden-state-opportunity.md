@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6203029591'
 title: Helping Angelenos Access Services and Thrive
 organization_description: Nonprofit

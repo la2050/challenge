@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '9789623614'
 title: 'Eviction Prevention Tool, During Coronavirus and Beyond'
 organization_description: Nonprofit

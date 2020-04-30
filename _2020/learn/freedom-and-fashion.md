@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6255152249'
 title: Freedom and Fashion Program
 organization_description: Nonprofit

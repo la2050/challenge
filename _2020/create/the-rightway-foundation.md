@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3087725281'
 title: Operation Emancipation
 organization_description: Nonprofit

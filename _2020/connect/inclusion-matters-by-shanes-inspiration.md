@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: 0746662836
 title: Connect LA Families!
 organization_description: Nonprofit

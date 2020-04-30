@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '4038677148'
 title: Pathways to Stability for Justice-involved Individuals
 organization_description: Nonprofit

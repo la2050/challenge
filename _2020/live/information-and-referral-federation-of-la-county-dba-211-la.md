@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '9102462734'
 title: LA Homeless Resource Portal
 organization_description: Nonprofit

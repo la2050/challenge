@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '5860070297'
 title: In-School Music Education Program for Low-Income Schools
 organization_description: Nonprofit

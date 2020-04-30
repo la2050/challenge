@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3992906483'
 title: Big City Lab
 organization_description: A fiscally sponsored group

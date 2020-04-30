@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '1211655788'
 title: 'Everydae: digital tutoring for everyone'
 organization_description: For profit business

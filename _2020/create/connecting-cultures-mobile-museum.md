@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '7803513665'
 title: CCMM-in-Schools Program
 organization_description: Nonprofit

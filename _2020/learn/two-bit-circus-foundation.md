@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '5704897650'
 title: 'STEAM Lab Makerspace: Learn, Create, Play!'
 organization_description: Nonprofit

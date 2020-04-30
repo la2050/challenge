@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6541621162'
 title: A Very Special Arts Festival (VSAF) 2020
 organization_description: Nonprofit

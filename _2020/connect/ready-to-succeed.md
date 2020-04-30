@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3586662692'
 title: Creating Connection & Community for Youth in Foster Care
 organization_description: Nonprofit

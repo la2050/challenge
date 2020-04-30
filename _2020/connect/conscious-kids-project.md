@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '7137799671'
 title: Conscious Connections
 organization_description: Nonprofit

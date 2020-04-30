@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2381726988'
 title: Whose Streets? Our Streets!
 organization_description: Nonprofit

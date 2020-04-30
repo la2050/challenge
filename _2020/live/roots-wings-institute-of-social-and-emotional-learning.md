@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '1141986676'
 title: >-
   The Good Life Academy: Helping LA Teens Get the Support they Need to Live

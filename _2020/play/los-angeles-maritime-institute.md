@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8165696132'
 title: Ocean Adventure Together!
 organization_description: Nonprofit

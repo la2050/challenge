@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '9727553344'
 title: Theater Arts Integration and Study in Continuation High Schools
 organization_description: Nonprofit

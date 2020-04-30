@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3034556946'
 title: Facing History LA
 organization_description: Nonprofit

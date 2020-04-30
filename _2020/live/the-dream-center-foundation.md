@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '1444531487'
 title: Dream Center Crisis Relief
 organization_description: Nonprofit

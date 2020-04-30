@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '1699002525'
 title: 'Changeist: Young people engaging in community'
 organization_description: A fiscally sponsored group

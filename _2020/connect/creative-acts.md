@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '5079735790'
 title: Art Attacks
 organization_description: A fiscally sponsored group

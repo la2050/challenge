@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '4454087793'
 title: Sanctuary of Love Resource and Referral Center
 organization_description: Nonprofit

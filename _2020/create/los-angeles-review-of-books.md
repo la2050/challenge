@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6829199879'
 title: Los Angeles Review of Books Publishing Workshop
 organization_description: Nonprofit

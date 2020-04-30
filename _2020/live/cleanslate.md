@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2184935223'
 title: WECARE Trauma-Informed Training
 organization_description: Nonprofit

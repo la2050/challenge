@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '5206747294'
 title: Immigrants Empowered = Lives Saved
 organization_description: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: 0026540801
 title: >-
   VAST Enrichment Program: Creating accessible pathways to classroom engagement

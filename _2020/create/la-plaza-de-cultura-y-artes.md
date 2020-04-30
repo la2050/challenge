@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3976645744'
 title: >-
   LA Plaza Cocina- the nation’s first museum and teaching kitchen dedicated to

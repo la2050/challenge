@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '7146150040'
 title: A New LA Story
 organization_description: A fiscally sponsored group

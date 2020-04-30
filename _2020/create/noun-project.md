@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '9795178488'
 title: 'Celebrating Diversity, Inclusion, and Culture Through the Eyes of Angelenos'
 organization_description: For profit business

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: 0887531544
 title: Meals on Wheels Does More Than Deliver Food
 organization_description: Nonprofit

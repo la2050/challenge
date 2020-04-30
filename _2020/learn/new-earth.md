@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '9467551903'
 title: >-
   High School Diploma Program and Reentry Services for Justice System Impacted

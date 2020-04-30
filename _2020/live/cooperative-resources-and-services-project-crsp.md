@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '5985716411'
 title: LA Eco-Village Community Hub
 organization_description: Nonprofit

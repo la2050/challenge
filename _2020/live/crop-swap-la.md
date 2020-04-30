@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8756619725'
 title: Create a Residential Garden District in Los Angeles
 organization_description: Social enterprise or B-corps

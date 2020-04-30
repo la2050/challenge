@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '4212725313'
 title: chyp's PhotoVoice
 organization_description: Nonprofit

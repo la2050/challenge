@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '1222192497'
 title: >-
   LIFT’s Family Goal Fund: Moving Money into the Hands of Families who Need it

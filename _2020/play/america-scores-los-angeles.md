@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2410486291'
 title: Literacy in Action
 organization_description: Nonprofit

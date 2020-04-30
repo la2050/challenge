@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3601133887'
 title: S.T.E.A.M. Collective
 organization_description: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: 0808878368
 title: Novelly Leadership Academy
 organization_description: A fiscally sponsored group

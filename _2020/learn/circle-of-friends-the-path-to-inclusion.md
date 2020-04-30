@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8178839616'
 title: Circle of Friends for LA Students
 organization_description: A fiscally sponsored group

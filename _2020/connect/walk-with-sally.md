@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2759763697'
 title: Help Support Children Impacted by Cancer
 organization_description: Nonprofit

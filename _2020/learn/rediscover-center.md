@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '1309257008'
 title: >-
   Help ReDiscover Center establish one of the largest Youth Makerspace

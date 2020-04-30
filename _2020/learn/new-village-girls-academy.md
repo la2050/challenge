@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2462072314'
 title: New Village Girls Academy
 organization_description: Nonprofit

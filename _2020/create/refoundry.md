@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3027053337'
 title: Refoundry Los Angeles Program
 organization_description: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '5090573787'
 title: The Healing Power of Coaches
 organization_description: Nonprofit

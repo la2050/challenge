@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '7240212543'
 title: '#SelfiesforAll: Creating Public Art Together'
 organization_description: Nonprofit

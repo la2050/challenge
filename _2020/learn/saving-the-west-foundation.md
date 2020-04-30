@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2759481891'
 title: Green Thumb Classes!
 organization_description: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8384752392'
 title: Woodcraft Rangers Summer Enrichment Day Camp
 organization_description: Nonprofit

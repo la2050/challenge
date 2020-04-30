@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6812960741'
 title: >-
   Global Arts Professional Development Series: The Use of Teacher Development to

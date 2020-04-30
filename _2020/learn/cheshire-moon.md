@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: 0887873426
 title: Crimson Square Writer's Lab
 organization_description: Nonprofit

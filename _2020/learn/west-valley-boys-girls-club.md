@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3451410244'
 title: Future Ready
 organization_description: Nonprofit

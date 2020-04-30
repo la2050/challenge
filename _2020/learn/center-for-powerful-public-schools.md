@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '1465056182'
 title: Center For Powerful Public Schools
 organization_description: Nonprofit

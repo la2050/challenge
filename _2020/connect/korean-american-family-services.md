@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6266788194'
 title: 'Share Your Heart, Share Your Home'
 organization_description: Nonprofit

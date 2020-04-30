@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6536128674'
 title: LA COVID-19 Assessment and Response System (CARES)
 organization_description: Nonprofit

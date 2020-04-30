@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3519765724'
 title: Get Lit – Words Ignite Online Curriculum
 organization_description: Nonprofit

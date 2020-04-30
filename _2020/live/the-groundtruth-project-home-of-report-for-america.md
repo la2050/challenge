@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '4860908242'
 title: Report for Los Angeles
 organization_description: Nonprofit

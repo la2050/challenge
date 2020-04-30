@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6223520752'
 title: Creative Futures
 organization_description: A fiscally sponsored group

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '1913579057'
 title: Tuition-Free Digital Arts Education
 organization_description: Nonprofit

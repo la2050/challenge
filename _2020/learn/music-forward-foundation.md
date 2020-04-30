@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '9663010086'
 title: 'Music Forward: Helping Engage our Youth through Careers in the Music Industry'
 organization_description: Nonprofit

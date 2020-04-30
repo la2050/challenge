@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2198658203'
 title: Skate-4-Education
 organization_description: Nonprofit

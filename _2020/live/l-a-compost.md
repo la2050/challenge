@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '9423745583'
 title: Community Scale Composting across L.A County
 organization_description: Nonprofit

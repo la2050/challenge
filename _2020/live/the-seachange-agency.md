@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3223116155'
 title: Stand Up for the Ocean
 organization_description: Nonprofit

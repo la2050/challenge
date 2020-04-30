@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6717359484'
 title: LA Aims 4 the Heart
 organization_description: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '4390601037'
 title: Heart of Los Angeles’s (HOLA) Visual Arts Department
 organization_description: Nonprofit

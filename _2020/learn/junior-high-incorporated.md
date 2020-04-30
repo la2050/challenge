@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2339915893'
 title: Money Makers
 organization_description: Nonprofit

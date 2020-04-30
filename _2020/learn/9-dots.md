@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6301259073'
 title: 'CS Proficiency: Closing the Achievement Gap in Los Angeles'
 organization_description: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: 0053370718
 title: Version One App Accelerator
 organization_description: For profit business

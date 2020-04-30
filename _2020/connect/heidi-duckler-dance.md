@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '4511632675'
 title: Los Angeles Street
 organization_description: Nonprofit

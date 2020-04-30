@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: 0203758817
 title: Los Angeles Investigative Reporting
 organization_description: Nonprofit

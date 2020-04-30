@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6458849630'
 title: Hollywood Food Coalition "Food Hub"
 organization_description: Nonprofit

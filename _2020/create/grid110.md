@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '7847632664'
 title: Grid110 South LA
 organization_description: Nonprofit

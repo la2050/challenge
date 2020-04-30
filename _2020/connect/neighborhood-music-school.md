@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: 0882593117
 title: Neighborhood Music School Community Performance Series
 organization_description: Nonprofit

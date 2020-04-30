@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '4633229696'
 title: Los Angeles Disability Employment Initiative
 organization_description: Nonprofit
