@@ -74,21 +74,21 @@ Please explain how you will define and measure success for your project.: >-
   Upon development of the LA Homeless Resource Portal, success will be measure
   by the increased access and utilization of the portal by the following user:
 
-  1. Number of individuals and families experiencing homelessness seeking accurate
-  information and resources with the intent of finding the help they need
-  quickly and effortlessly, and providing feedback on user experience/service
-  quality when accessing services.
+  1. Number of individuals and families experiencing homelessness seeking
+  accurate information and resources with the intent of finding the help they
+  need quickly and effortlessly, and providing feedback on user
+  experience/service quality when accessing services.
 
-  2. Number of Homeless Service Providers who review and update their services and
-  resource availability in real-time. Providers will have the ability to review
-  the services they provide. Including but not limited to: Tracking resource
-  availability/utilization in real time, creating ‘pop-up’ or mobile services,
-  managing and calendaring events
+  2. Number of Homeless Service Providers who review and update their services
+  and resource availability in real-time. Providers will have the ability to
+  review the services they provide. Including but not limited to: Tracking
+  resource availability/utilization in real time, creating ‘pop-up’ or mobile
+  services, managing and calendaring events
 
-  3. Number of individuals from the general public who are seeking ways to contribute
-  to the overall cause of supporting homeless individuals in LA by: a) providing
-  donations (funds, supplies, materials), b) volunteering, and/or c) providing
-  support and advocacy for someone experiencing homelessness.
+  3. Number of individuals from the general public who are seeking ways to
+  contribute to the overall cause of supporting homeless individuals in LA by:
+  a) providing donations (funds, supplies, materials), b) volunteering, and/or
+  c) providing support and advocacy for someone experiencing homelessness.
 
 
   In addition to data on access and utilization of the Homeless Resource Portal,
