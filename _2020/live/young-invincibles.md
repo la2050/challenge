@@ -3,7 +3,7 @@ published: true
 application_id: '8337390602'
 title: Young Adult Food Security Initiative
 organization_description: Nonprofit
-project_video: https://www.youtube.com/user/YIWantChange/
+project_video: 'https://www.youtube.com/user/YIWantChange/'
 link_donate: 'https://younginvincibles.org/take-action/donate/'
 link_volunteer: 'http://younginvincibles.org/action-center/'
 link_newsletter: 'http://younginvincibles.org/take-action/digital-action/'
