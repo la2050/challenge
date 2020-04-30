@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '1596074921'
 title: Latino Lens Incubators
 organization_description: Nonprofit

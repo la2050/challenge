@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '5859966061'
 title: Small Business Tech Booster Project
 organization_description: For profit business

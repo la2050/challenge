@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8703881156'
 title: Community Practice
 organization_description: Nonprofit

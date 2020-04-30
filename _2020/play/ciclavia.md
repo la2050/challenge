@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '9258433075'
 title: 'CicLAvia: Open Streets bring Healthier Connections'
 organization_description: Nonprofit

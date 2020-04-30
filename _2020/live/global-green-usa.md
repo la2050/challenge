@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '1333733755'
 title: Food Recovery Program
 organization_description: Nonprofit

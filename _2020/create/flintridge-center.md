@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6148736454'
 title: Apprenticeship Preparation Program
 organization_description: Nonprofit

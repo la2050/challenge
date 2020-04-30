@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '9015083551'
 title: FAIR Plan for Los Angeles
 organization_description: Nonprofit

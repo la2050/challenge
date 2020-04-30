@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3317160271'
 title: 'Curiosity Connection: Altadena Library on Wheels'
 organization_description: Government

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '7396377083'
 title: >-
   LA is the Best Place for Bookworms! Creating Lifelong Readers With Digital

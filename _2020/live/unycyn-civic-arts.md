@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '5301400529'
 title: Flowproject.la Neighborhood Resiliency Garden (NRG)
 organization_description: Nonprofit

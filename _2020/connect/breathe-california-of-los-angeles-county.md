@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '4047307909'
 title: Blue Sky LA
 organization_description: Nonprofit

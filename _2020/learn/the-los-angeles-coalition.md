@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '1957887424'
 title: 'Knowing is Half the Battle: How Well are We Preparing Students for Careers?'
 organization_description: Nonprofit

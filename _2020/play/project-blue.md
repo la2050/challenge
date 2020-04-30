@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '5965812995'
 title: Project Blue
 organization_description: Nonprofit

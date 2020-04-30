@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8358309503'
 title: Bringing LA's Green New Deal to Our Neighborhoods
 organization_description: A fiscally sponsored group

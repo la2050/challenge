@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6675645997'
 title: Crayon Collection's Arts in Education Expansion
 organization_description: Nonprofit

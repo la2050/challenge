@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '9495192662'
 title: POPS the Club
 organization_description: Nonprofit

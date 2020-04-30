@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '9162013764'
 title: The Academy of Puppetry and Allied Arts
 organization_description: Nonprofit

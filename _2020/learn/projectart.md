@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8781611449'
 title: 'ProjectArt LA: A Solution for Budget Cuts'
 organization_description: Nonprofit

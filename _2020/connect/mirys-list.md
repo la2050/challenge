@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8827290608'
 title: 'Welcome, Neighbor 2020'
 organization_description: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2569668561'
 title: 'Live Better: Helping Low-Income Seniors Not Only Survive, But Thrive'
 organization_description: Nonprofit

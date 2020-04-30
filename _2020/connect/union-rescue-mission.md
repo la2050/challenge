@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '4010019073'
 title: Every Child & Family Off the Streets
 organization_description: Nonprofit

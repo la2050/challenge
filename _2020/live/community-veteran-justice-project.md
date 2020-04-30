@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '5164888589'
 title: Community Veteran Justice Project
 organization_description: Nonprofit

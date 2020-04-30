@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '9215554438'
 title: 'Our Stories Matter: Connecting Los Angeles through Stories of Healing'
 organization_description: A fiscally sponsored group

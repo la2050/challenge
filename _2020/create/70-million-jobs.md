@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '5431379690'
 title: Fair Chance Tech Apprenticeship Program
 organization_description: For profit business

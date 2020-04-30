@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8872216059'
 title: 'Friendship Clubs: Building Community for ALL Children'
 organization_description: Nonprofit

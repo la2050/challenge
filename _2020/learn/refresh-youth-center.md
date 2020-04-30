@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6566379744'
 title: >-
   RYC After School & STEAM Summer Youth Development & Community Arts Programs

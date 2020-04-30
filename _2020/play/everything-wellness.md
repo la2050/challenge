@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2056133962'
 title: Women's Community Health & Wellness Facility
 organization_description: For profit business

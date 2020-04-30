@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '9514335657'
 title: 'Entrepreneurship in Every School: Los Angeles'
 organization_description: Nonprofit

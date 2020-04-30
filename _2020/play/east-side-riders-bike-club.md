@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: 0006072821
 title: The Urban Cyclists Collective
 organization_description: Nonprofit

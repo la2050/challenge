@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3707384291'
 title: 'Huarache Farms: Building Transparent Cooperative Backyard Farms'
 organization_description: For profit business

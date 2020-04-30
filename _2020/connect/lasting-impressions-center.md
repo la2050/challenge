@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '7295369665'
 title: The Art Can Save Lives
 organization_description: Nonprofit

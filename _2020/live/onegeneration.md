@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '1803519663'
 title: ONEgeneration Shared Housing Project
 organization_description: Nonprofit

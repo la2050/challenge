@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '4437588117'
 title: Meal Project
 organization_description: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '9274358296'
 title: 'ShineLA: Transforming the way Angelenos feel, move, and connect in our city'
 organization_description: Nonprofit

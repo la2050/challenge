@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '4712588732'
 title: Halt Smart Parking System
 organization_description: For profit business

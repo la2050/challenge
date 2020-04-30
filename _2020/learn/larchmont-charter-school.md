@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8610574510'
 title: REAL SCHOOL for LA Kids
 organization_description: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '5875127369'
 title: The Boys & Girls Clubs of Santa Monica Youth Development Programs
 organization_description: Nonprofit

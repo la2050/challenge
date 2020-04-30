@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '7203135197'
 title: Future Creatives – Access and Equity for Young Artists
 organization_description: Nonprofit

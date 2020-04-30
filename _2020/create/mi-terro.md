@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8286348431'
 title: Mi Terro Food Waste
 organization_description: For profit business

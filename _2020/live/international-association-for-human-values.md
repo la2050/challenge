@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3304665242'
 title: Nonviolence Ambassadors of LA
 organization_description: Nonprofit

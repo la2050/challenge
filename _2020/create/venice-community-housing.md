@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '9981861933'
 title: Empowering Community Through Cultural Creativity
 organization_description: Nonprofit

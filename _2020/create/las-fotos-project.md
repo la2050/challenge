@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '1789502797'
 title: A Girl-Powered Foto Studio by Las Fotos Project
 organization_description: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2776157715'
 title: CHAMPS Charter High School of the Arts Takes the Show on the Road
 organization_description: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '4407972982'
 title: The LA Healthy Building Alliance
 organization_description: Nonprofit

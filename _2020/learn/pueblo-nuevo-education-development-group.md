@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3232481994'
 title: Next Generation STEM Leaders in MacArthur Park
 organization_description: Nonprofit

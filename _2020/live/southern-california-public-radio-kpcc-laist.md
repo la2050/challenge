@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3497990999'
 title: How To New LA
 organization_description: Nonprofit

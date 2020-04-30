@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6721970914'
 title: 'MatriArt: Heart of the Land and People'
 organization_description: For profit business

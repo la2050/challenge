@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8256636473'
 title: United Friends Scholars Program
 organization_description: Nonprofit

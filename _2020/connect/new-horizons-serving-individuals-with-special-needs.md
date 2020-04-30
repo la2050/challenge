@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '1541169265'
 title: Bold Futures through New Horizons
 organization_description: Nonprofit

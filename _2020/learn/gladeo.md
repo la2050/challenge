@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2174426796'
 title: >-
   An Inclusive, Next-Gen Digital Career Navigation Hub for LA’s Green Jobs

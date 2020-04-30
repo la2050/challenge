@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8477243904'
 title: The Young Shakespeareans (TYS)
 organization_description: A fiscally sponsored group

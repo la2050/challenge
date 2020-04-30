@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3478101701'
 title: 'Bread Head Youth Ambassadors: Building a Resilient Community'
 organization_description: Nonprofit

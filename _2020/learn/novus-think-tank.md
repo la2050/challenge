@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '5963806189'
 title: The Why Project
 organization_description: Nonprofit

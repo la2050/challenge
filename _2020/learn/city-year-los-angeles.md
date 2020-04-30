@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '4814835196'
 title: City Year Inglewood USD Expansion
 organization_description: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '5165424441'
 title: Esperanza’s Promotores de Salud (Community Health Promoters)
 organization_description: Nonprofit

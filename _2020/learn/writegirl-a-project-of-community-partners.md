@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '5580747883'
 title: WriteGirl Connected
 organization_description: A fiscally sponsored group

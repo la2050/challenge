@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '4832733463'
 title: 'Project SOAR: Breaking the Cycle of Poverty Through Education'
 organization_description: Nonprofit

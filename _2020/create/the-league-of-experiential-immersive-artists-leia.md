@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3441268344'
 title: License to Open LA (LOLA)
 organization_description: Nonprofit

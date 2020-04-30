@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: 0111429897
 title: BYOM - Bring Your Own Mug
 organization_description: Nonprofit

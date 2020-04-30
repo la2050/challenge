@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3687258086'
 title: >-
   Social Distancing Together: Reflecting on life under COVID-19 and imagining a

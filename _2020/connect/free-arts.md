@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '7675873186'
 title: Free Arts for Abused or At-Risk Children
 organization_description: Nonprofit

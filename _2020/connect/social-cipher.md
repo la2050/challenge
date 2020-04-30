@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '7850520637'
 title: 'Ava: A video game about space pirates and social situations'
 organization_description: For profit business

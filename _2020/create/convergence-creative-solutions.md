@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6002294238'
 title: Convergence LA 2050
 organization_description: For profit business

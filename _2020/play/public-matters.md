@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3920363365'
 title: University Park Slow Jams
 organization_description: Social enterprise or B-corps

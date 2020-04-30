@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6967338403'
 title: Making L.A. a Friendlier City
 organization_description: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '5774774037'
 title: Harmony Project Music Program
 organization_description: Nonprofit

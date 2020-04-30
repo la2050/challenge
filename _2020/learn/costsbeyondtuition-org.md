@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3546718522'
 title: CostsBeyondTuition.org
 organization_description: Social enterprise or B-corps

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '1552570556'
 title: LA Photo Hub
 organization_description: Nonprofit

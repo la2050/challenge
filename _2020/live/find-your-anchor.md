@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '5875619637'
 title: Find Your Anchor
 organization_description: Nonprofit

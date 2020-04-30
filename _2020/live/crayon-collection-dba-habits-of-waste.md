@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '4801746417'
 title: DrinkTap
 organization_description: Nonprofit

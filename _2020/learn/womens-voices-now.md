@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '9117167356'
 title: Girls' Voices Now
 organization_description: Nonprofit

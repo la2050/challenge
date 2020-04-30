@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '9668728593'
 title: Mobile Recreation Program
 organization_description: Government

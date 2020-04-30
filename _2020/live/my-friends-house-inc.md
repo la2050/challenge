@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '7872430095'
 title: Food Pantry Selection Driven by Health Need
 organization_description: Nonprofit

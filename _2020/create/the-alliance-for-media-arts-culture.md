@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6348146521'
 title: Arts2Work LA
 organization_description: Nonprofit

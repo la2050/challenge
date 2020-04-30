@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8794237252'
 title: Quarterly Hygiene Kit Builds Events to benefit our Unhoused Neighbors
 organization_description: Nonprofit

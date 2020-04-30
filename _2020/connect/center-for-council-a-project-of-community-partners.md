@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '1781469727'
 title: Circle Up Los Angeles (C-U-LA)
 organization_description: Nonprofit

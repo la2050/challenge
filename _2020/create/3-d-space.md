@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '7734166776'
 title: '3-D SPACE: STEREO/SCOPE'
 organization_description: Nonprofit

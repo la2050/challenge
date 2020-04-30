@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6230525810'
 title: Teen Talk
 organization_description: Nonprofit

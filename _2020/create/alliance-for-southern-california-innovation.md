@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '7253158826'
 title: 'DTLA: From Underdog to Innovation Superhero'
 organization_description: Nonprofit

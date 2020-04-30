@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6177699601'
 title: In Progress
 organization_description: A fiscally sponsored group

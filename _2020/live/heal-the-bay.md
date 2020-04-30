@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '4837224247'
 title: Heal the Bay's River Report Card
 organization_description: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '5155068743'
 title: Connect With Curling
 organization_description: For profit business

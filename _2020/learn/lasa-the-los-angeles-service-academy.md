@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3486231591'
 title: Towards a Student-Led Future for Los Angeles
 organization_description: Nonprofit

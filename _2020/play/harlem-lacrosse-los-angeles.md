@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6253597572'
 title: '"Keep Playing"'
 organization_description: Nonprofit

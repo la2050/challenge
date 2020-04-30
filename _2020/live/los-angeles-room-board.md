@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8935601147'
 title: Open Spaces
 organization_description: Nonprofit

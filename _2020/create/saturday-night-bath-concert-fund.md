@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '1590743926'
 title: >-
   One interactive, 7-professional-musician popular music concert and educational

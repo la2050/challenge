@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8478266163'
 title: Play with Music
 organization_description: Nonprofit

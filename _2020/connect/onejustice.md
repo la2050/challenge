@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: 0358567206
 title: Los Angeles Asylum Legal Clinic and Resource Fairs Collaborative
 organization_description: Nonprofit

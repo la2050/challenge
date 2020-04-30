@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2827935778'
 title: 'Our Stories Matter: Empowering LA To Connect Through Storytelling'
 organization_description: Nonprofit

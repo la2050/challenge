@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6400152146'
 title: Combatting Homelessness One Mile at a Time
 organization_description: Nonprofit

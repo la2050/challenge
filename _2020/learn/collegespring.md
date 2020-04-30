@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6596879055'
 title: Providing Equitable SAT Prep in Los Angeles
 organization_description: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2892563613'
 title: Modern Band Los Angeles County
 organization_description: Nonprofit

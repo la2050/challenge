@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '7572304050'
 title: 'SameSide: Empower Events for Social Impact'
 organization_description: For profit business

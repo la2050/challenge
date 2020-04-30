@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '6718565765'
 title: 100 Murals for Peace
 organization_description: Nonprofit

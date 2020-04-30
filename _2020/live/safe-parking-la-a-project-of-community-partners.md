@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '4864408636'
 title: Neighbors for Home
 organization_description: A fiscally sponsored group

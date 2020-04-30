@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '9819766393'
 title: 'GALA: Girls in STEM'
 organization_description: Nonprofit

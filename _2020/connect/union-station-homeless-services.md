@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '7642086687'
 title: Union Station Homeless Services Community Allies Program
 organization_description: Nonprofit

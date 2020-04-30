@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '7527198279'
 title: Bigger than Baseball
 organization_description: Nonprofit

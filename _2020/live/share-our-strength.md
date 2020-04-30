@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2362818711'
 title: No Kid Hungry California - Breakfast After The Bell
 organization_description: Nonprofit

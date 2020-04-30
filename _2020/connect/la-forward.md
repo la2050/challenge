@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '7521434661'
 title: The LA 101 Guide to Local Government and Civic Engagement
 organization_description: A fiscally sponsored group

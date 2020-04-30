@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '9562062426'
 title: >-
   ALZ Sucks®: Providing Support for LGBTQ+ People with Alzheimer’s Disease and

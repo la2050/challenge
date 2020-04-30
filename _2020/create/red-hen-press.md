@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '5874176827'
 title: 'Get LA Lit: Honoring Our Cultures Through Publishing'
 organization_description: Nonprofit

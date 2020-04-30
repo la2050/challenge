@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8555129066'
 title: Virtual programming
 organization_description: Nonprofit

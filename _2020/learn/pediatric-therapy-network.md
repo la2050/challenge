@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '4742025203'
 title: Best We Can Be Early Education Program
 organization_description: Nonprofit

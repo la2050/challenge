@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '5972568233'
 title: Good Life Manufacturing
 organization_description: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3302299041'
 title: Voices/Voces
 organization_description: A fiscally sponsored group

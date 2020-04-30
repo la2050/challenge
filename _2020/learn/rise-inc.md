@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8674045583'
 title: Scaling Student Advocacy to End Campus Hunger and Homelessness
 organization_description: Nonprofit

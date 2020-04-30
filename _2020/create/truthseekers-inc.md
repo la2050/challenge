@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '4188491451'
 title: PharcydeTV
 organization_description: Nonprofit

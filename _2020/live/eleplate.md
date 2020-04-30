@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '8246632611'
 title: elePlate Certification Program
 organization_description: Nonprofit

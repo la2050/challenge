@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '9072034216'
 title: Community Arts Programming & Outreach (CAPO) Project
 organization_description: Nonprofit

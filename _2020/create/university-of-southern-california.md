@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: 0554870441
 title: Fighting Social Inequality For College Students
 organization_description: Nonprofit

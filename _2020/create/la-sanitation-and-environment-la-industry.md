@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '4325086049'
 title: 'LA Industry: Circular Textiles'
 organization_description: Government

@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '4383605037'
 title: SoCal 350
 organization_description: A fiscally sponsored group

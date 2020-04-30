@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2316667577'
 title: Build A Better World Foundation Concert
 organization_description: Nonprofit

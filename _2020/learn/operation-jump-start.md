@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '2740266169'
 title: College Success
 organization_description: Nonprofit

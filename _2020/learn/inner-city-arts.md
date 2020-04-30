@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '4132777242'
 title: 'Inner-City Arts: Virtual Arts Education Project'
 organization_description: Nonprofit

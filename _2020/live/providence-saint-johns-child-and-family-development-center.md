@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '1571016742'
 title: 'Child and Family Development Center:  Nurture In Nature Project'
 organization_description: Nonprofit

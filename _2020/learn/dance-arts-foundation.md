@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '3895425088'
 title: Dance Arts Foundation Workshop Series
 organization_description: Nonprofit

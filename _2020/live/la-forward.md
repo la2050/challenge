@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '4574749713'
 title: LA Forward’s Response to the COVID-19 Pandemic
 organization_description: A fiscally sponsored group

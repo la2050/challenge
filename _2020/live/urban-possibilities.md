@@ -1,4 +1,5 @@
 ---
+published: true
 application_id: '4120483159'
 title: Launching Urban Possibilities Classes Online
 organization_description: A fiscally sponsored group
