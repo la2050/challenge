@@ -86,25 +86,25 @@ Please explain how you will define and measure success for your project.: >-
   measure. We will work with local partners to track quantitative measurements
   reflecting a changing creative culture. A sample of these metrics include:
    
-  # of Apprentices & Employers engaged 
+  * Number of Apprentices & Employers engaged 
 
-  # of New Apprentice applications
+  * Number of New Apprentice applications
 
-  # of Apprentices Adobe-certified
+  * Number of Apprentices Adobe-certified
 
-  # of Apprentices staying out of prison
+  * Number of Apprentices staying out of prison
 
-  # of Apprentices growing their bank accounts
+  * Number of Apprentices growing their bank accounts
 
-  # of Apprentices going to college
+  * Number of Apprentices going to college
 
-  # of Apprentices starting creative businesses 
+  * Number of Apprentices starting creative businesses 
 
-  # of Employers promoting Registered Apprentices
+  * Number of Employers promoting Registered Apprentices
 
-  # of Employers providing on-the-job Training
+  * Number of Employers providing on-the-job Training
 
-  # of Employers embedding Apprenticeship into annual reporting and profit
+  * Number of Employers embedding Apprenticeship into annual reporting and profit
   models
 
 
