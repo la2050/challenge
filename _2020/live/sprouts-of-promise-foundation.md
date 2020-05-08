@@ -127,7 +127,7 @@ Which of LA2050’s resources will be of the most value to you?:
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.:
   - Center for Community Food & Resilience at Occidental College
-  - bario.la.
+  - barrio.la.
 Which metrics will your submission impact?:
   - Access to healthy food
   - Food insecurity
