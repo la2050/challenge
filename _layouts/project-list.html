@@ -98,8 +98,12 @@ main > h1:first-child::before {
     {% if site.finalists_chosen_by_public_vote %}
     Congratulations to the <a href="#projects" style="color: inherit; font-weight: inherit;">{% if site.finalists_chosen_by_public_vote %}top 10 voted{% else %}finalists{% endif %}</a>{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong> category{% endif %}!<br />
     {% else %}
-      Tell us… which of <a href="#projects" style="color: inherit; font-weight: inherit;">these proposals</a> will
-      make <span class="avoid-break">Los Angeles</span> the best place{% if page.category %}  to <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong>{% endif %}?<br /><br />
+      {% if site.phase >= site.VOTES_BEING_ACCEPTED %}
+        Tell us… which of <a href="#projects" style="color: inherit; font-weight: inherit;">these finalists</a> will
+        make LA the best place{% if page.category %}  to <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong>{% endif %}?<br /><br />
+      {% else %}
+       Check out the {% if page.category %}<strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong>{% endif %} <a href="#projects" style="color: inherit; font-weight: inherit;">finalists</a>!
+      {% endif %}
     {% endif %}
     <small style="font-style: normal;display: block; text-transform: none;">
       <small style="letter-spacing: 0; font-style: normal;" class="avoid-break">
@@ -909,7 +913,7 @@ text-transform: capitalize;" class="category"><span onclick="window.location.hre
 })();
 </script>
 
-{% unless page.is_search_results or page.finalists or page.winners %}
+{% unless page.is_search_results or page.winners %}
 <script>
 (function() {
   if (!document.body.querySelector || !document.body.querySelectorAll) return
