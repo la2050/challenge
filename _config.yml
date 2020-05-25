@@ -93,91 +93,116 @@ finalists:
   # Learn
 
   # 1)
-  - /2020/learn/freedom-and-fashion/
+  # Central American Resource Center
+  - /2020/learn/central-american-resource-center-carecen-of-california/
 
   # 2)
-  - /2020/learn/the-music-center/
+  # Los Angeles Audubon Society
+  - /2020/learn/los-angeles-audubon-society-society/
 
   # 3)
-  - /2020/learn/everydae/
+  # Pediatric Therapy Network
+  - /2020/learn/pediatric-therapy-network/
 
   # 4)
-  - /2020/learn/cheshire-moon/
+  # Reading Partners
+  - /2020/learn/reading-partners/
 
   # 5)
-  - /2020/learn/center-for-powerful-public-schools/
+  # SoCal College Access Network
+  - /2020/learn/southern-california-college-access-network/
 
 
   # Create
 
   # 1)
-  - /2020/create/codemarket/
+  # Flintridge Center
+  - /2020/create/flintridge-center/
 
   # 2)
-  - /2020/create/hustle-hustle/
-
-  # 3)
+  # Grid110
   - /2020/create/grid110/
 
+  # 3)
+  # LA Sanitation and the Environment
+  - /2020/create/la-sanitation-and-environment-la-industry/
+
   # 4)
-  - /2020/create/convergence-creative-solutions/
+  # Las Fotos Project
+  - /2020/create/las-fotos-project/
 
   # 5)
-  - /2020/create/youth-business-alliance/
+  # Los Angeles Children's Project
+  - /2020/create/lost-angels-childrens-project/
 
 
   # Play
 
   # 1)
-  - /2020/play/up2us-inc/
+  # City of LA Dept. of Recreation & Parks
+  - /2020/play/city-of-los-angeles-department-of-recreation-and-parks/
 
   # 2)
-  - /2020/play/usc-price-center-for-social-innovation/
+  # Los Angeles Dodgers Foundation
+  - /2020/play/los-angeles-dodgers-foundation/
 
   # 3)
-  - /2020/play/harlem-lacrosse-los-angeles/
+  # Los Angeles Maritime Institute
+  - /2020/play/los-angeles-maritime-institute/
 
   # 4)
-  - /2020/play/los-angeles-neighborhood-initiative-lani/
+  # Public Matters
+  - /2020/play/public-matters/
 
   # 5)
-  - /2020/play/los-angeles-maritime-institute/
+  # Urban Warehouse
+  - /2020/play/the-urban-warehouse/
 
 
   # Connect
 
   # 1)
-  - /2020/connect/inclusion-matters-by-shanes-inspiration/
+  # Boyle Heights Beat / Radio Pulso
+  - /2020/connect/boyle-heights-beat-radio-pulso/
 
   # 2)
-  - /2020/connect/the-music-center/
+  # Creative Acts
+  - /2020/connect/creative-acts/
 
   # 3)
-  - /2020/connect/resisterhoodla/
+  # LA Forward
+  - /2020/connect/la-forward/
 
   # 4)
-  - /2020/connect/arts-bridging-the-gap/
+  # Ready to Succeed
+  - /2020/connect/ready-to-succeed/
 
   # 5)
-  - /2020/connect/citizens-of-culture/
+  # Union Station Homeless Services
+  - /2020/connect/union-station-homeless-services/
 
 
   # Live
 
   # 1)
-  - /2020/live/united-parents-and-students/
+  # Clínica Msr. Oscar Romero
+  - /2020/live/clinica-msr-oscar-a-romero/
 
   # 2)
-  - /2020/live/strategic-actions-for-a-just-economy-saje/
+  # Crop Swap LA
+  - /2020/live/crop-swap-la/
 
   # 3)
-  - /2020/live/sprouts-of-promise-foundation/
+  # Jenesse Center, Inc.
+  - /2020/live/jenesse-center-inc/
 
   # 4)
-  - /2020/live/the-heart-touch-project/
+  # Safe Parking LA
+  - /2020/live/safe-parking-la-a-project-of-community-partners/
 
   # 5)
-  - /2020/live/los-angeles-room-board/
+  # Strategic Actions for a Just Economy
+  - /2020/live/strategic-actions-for-a-just-economy-saje/
 
 
 winners:
@@ -185,91 +210,66 @@ winners:
   # Learn
 
   # 1)
-  - /2020/learn/freedom-and-fashion/
 
   # 2)
-  - /2020/learn/the-music-center/
 
   # 3)
-  - /2020/learn/everydae/
 
   # 4)
-  - /2020/learn/cheshire-moon/
 
   # 5)
-  - /2020/learn/center-for-powerful-public-schools/
 
 
   # Create
 
   # 1)
-  - /2020/create/codemarket/
 
   # 2)
-  - /2020/create/hustle-hustle/
 
   # 3)
-  - /2020/create/grid110/
 
   # 4)
-  - /2020/create/convergence-creative-solutions/
 
   # 5)
-  - /2020/create/youth-business-alliance/
 
 
   # Play
 
   # 1)
-  - /2020/play/up2us-inc/
 
   # 2)
-  - /2020/play/usc-price-center-for-social-innovation/
 
   # 3)
-  - /2020/play/harlem-lacrosse-los-angeles/
 
   # 4)
-  - /2020/play/los-angeles-neighborhood-initiative-lani/
 
   # 5)
-  - /2020/play/los-angeles-maritime-institute/
 
 
   # Connect
 
   # 1)
-  - /2020/connect/inclusion-matters-by-shanes-inspiration/
 
   # 2)
-  - /2020/connect/the-music-center/
 
   # 3)
-  - /2020/connect/resisterhoodla/
 
   # 4)
-  - /2020/connect/arts-bridging-the-gap/
 
   # 5)
-  - /2020/connect/citizens-of-culture/
 
 
   # Live
 
   # 1)
-  - /2020/live/united-parents-and-students/
 
   # 2)
-  - /2020/live/strategic-actions-for-a-just-economy-saje/
 
   # 3)
-  - /2020/live/sprouts-of-promise-foundation/
 
   # 4)
-  - /2020/live/the-heart-touch-project/
 
   # 5)
-  - /2020/live/los-angeles-room-board/
 
 
 auth0_js_url: https://cdn.auth0.com/js/auth0/9.5.1/auth0.min.js
