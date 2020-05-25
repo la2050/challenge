@@ -69,11 +69,11 @@ VOTING_PERIOD_ENDED_TIME:          5pm Pacific Time
 
 # Entries shown on the website: 
 # April 13
-phase: 4
+# phase: 4
 
 # Finalists announced: 
 # May 25
-# phase: 5
+phase: 5
 
 # Votes being accepted: 
 # June 8
