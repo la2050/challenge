@@ -23,14 +23,14 @@ Please describe the mission of your organization.: >-
   and amplify the voices of the most marginalized to change commonly held
   narratives and improve opportunities for our most impacted communities.  
 project_description: >-
-  We will use it to help incarcerated young people discover the value of their
-  voice, the importance of participating in civic engagement through voting and
-  connecting with organizations who are affecting change in their communities.
-  We create community art, spoken word and poetry to engage and inspire them to
-  change their narratives about who they are and the impact they have. Our pilot
-  program showed an 86% rise in voting for participants and facilitated deep
-  connections between our incarcerated youth and the organization March for Our
-  Lives. 
+  Creative Acts’ Art Attacks program teaches incarcerated young people the 
+  value of their voice and the importance of participating in civic engagement 
+  through voting, and connecting with and finding leadership roles in organizations 
+  that are affecting change in their communities. We use community drawn art, spoken 
+  word poetry and other artistic endeavors to engage and inspire incarcerated youth 
+  to change their narratives about who they are and the impact they have. Our pilot 
+  program showed an 86% rise in voting for participants and facilitated deep connections 
+  between our incarcerated youth and the organization March for Our Lives.
 Which LA2050 goal will your submission most impact?: LA is the best place to CONNECT
 In which areas of Los Angeles will you be directly working?:
   - >-
