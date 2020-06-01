@@ -25,14 +25,13 @@ Please describe the mission of your organization.: >-
   middle schools, and to promote exposure and high expectations regardless of
   students’ ethnicity, origin, or income level.
 project_description: >-
-  TYS’ after-school program emboldens our students by elevating their academic
-  and life skills, inspiring them to go beyond what they thought possible. Our
-  12-week programs culminate in high-quality theatrical productions of
-  Shakespearean plays which they perform in the original Elizabethan text for
-  their school and community.   Your support will enable us to serve more
-  schools and deliver full Performing Arts and Production Design components in
-  each of them, greatly impacting our number of participating students and reach
-  to school communities. 
+  TYS’ on-site and online after-school program uses the richness of Shakespeare’s works to create early, challenging, and
+  formative learning experiences in LA’s Title 1 elementary and middle schools, and to promote exposure and high expectations
+  regardless of students’ ethnicity, origin, or income level.  Our 12-week programs culminate in high-quality theatrical
+  productions of Shakespearean plays which they perform in the original (abridged) Elizabethan text for their school,
+  families, and extended communities.   Your support will enable us to serve more partner schools and deliver full Performing
+  Arts and Production Design components in each of them, greatly impacting our number of participating students, and reach to
+  the school communities, families, and surrounding neighborhoods.
 Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
 In which areas of Los Angeles will you be directly working?:
   - San Fernando Valley
