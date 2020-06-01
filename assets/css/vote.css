@@ -155,6 +155,14 @@
     padding-left: 0;
     margin-top: 1.5em;
   }
+  form .category ul > li > a {
+    position: absolute;
+    bottom: -2.25em;
+    width: 100%;
+    font-weight: normal;
+    text-transform: lowercase;
+    font-size: 0.875em;
+  }
   form,
   form h2,
   form h3,
@@ -438,9 +446,16 @@
     padding: 0;
     padding-bottom: 3em;
     box-sizing: border-box;
-    margin: 3em 0.75em;
+    margin: 4.5em 0.75em;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+  }
+  /* SHIM: Avoid placing the last item on a row by itself */
+  @media (min-width: 90em) and (max-width: 112.5em) {
+    form .category ul {
+      padding-left: 10vw;
+      padding-right: 10vw;
+    }
   }
   form .category ul > li label {
     box-shadow: 0 0 1px rgba(0, 0, 0, 1);
