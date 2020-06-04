@@ -20,7 +20,6 @@
 <li>
   <label>
 
-  {% comment %}<a href="{{ project.url }}" target="_blank">{% endcomment %}
     {% capture image_filename %}{{ project.filename }}.jpg{% endcapture %}
     {% capture image_category %}{{ project.year }}/{{ project.category }}{% endcapture %}
     <span class="image">
@@ -54,9 +53,6 @@
       </div>
     </div>
     <span class="mask"></span>
-  {% comment %}
-  </a>
-  {% endcomment %}
 
     <input type="radio" name="{{ category }}" value="{{ project.organization_name }}" />
 
@@ -76,6 +72,8 @@
 
   </label>
 
+  <a href="{{ project.url }}" target="_blank">Learn more</a>
+  
 </li>
 {% assign first_item = false %}
 {% endif %}

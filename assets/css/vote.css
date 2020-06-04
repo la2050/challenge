@@ -155,6 +155,14 @@
     padding-left: 0;
     margin-top: 1.5em;
   }
+  form .category ul > li > a {
+    position: absolute;
+    bottom: -2.25em;
+    width: 100%;
+    font-weight: normal;
+    text-transform: lowercase;
+    font-size: 0.875em;
+  }
   form,
   form h2,
   form h3,
@@ -434,13 +442,20 @@
   }
   form .category ul > li {
     position: relative;
-    width: 19.5em;
+    width: 15em;
     padding: 0;
     padding-bottom: 3em;
     box-sizing: border-box;
-    margin: 3em 1.5em;
+    margin: 4.5em 0.75em;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+  }
+  /* SHIM: Avoid placing the last item on a row by itself */
+  @media (min-width: 90em) and (max-width: 112.5em) {
+    form .category ul {
+      padding-left: 10vw;
+      padding-right: 10vw;
+    }
   }
   form .category ul > li label {
     box-shadow: 0 0 1px rgba(0, 0, 0, 1);
@@ -488,7 +503,7 @@
   form .category ul > li .text {
     display: block;
     padding: 0.75em 0.75em 0;
-    margin-bottom: 1.125em;
+    margin-bottom: 0;
   }
   form .category ul > li .text p {
     margin: 0;
@@ -514,37 +529,37 @@
       font-size: 0.875em;
       line-height: calc(1.3125 / 0.875);
     } */
-    form .category ul > li .text h3 {
+    /* form .category ul > li .text h3 {
       margin-bottom: 0;
     }
     form .category ul > li .text p {
       display: none;
-    }
+    } */
   }
-  @media (min-width: 40em) {
+  /* @media (min-width: 40em) { */
     form .category ul > li .text {
-      padding: 1.5em 1.5em 2.25em;
+      padding: 1.5em 1.5em 1.5em;
     }
-  }
+  /* } */
   form .category ul > li img {
     display: block;
   }
   form .category ul > li .text strong {
     display: block;
   }
-  form .category .banana li a {
+  form .category .banana li label {
     box-shadow: 0 0 1px var(--banana);
   }
-  form .category .blueberry li a {
+  form .category .blueberry li label {
     box-shadow: 0 0 1px var(--blueberry);
   }
-  form .category .lime li a {
+  form .category .lime li label {
     box-shadow: 0 0 1px var(--lime);
   }
-  form .category .strawberry li a {
+  form .category .strawberry li label {
     box-shadow: 0 0 1px var(--strawberry);
   }
-  form .category .tangerine li a {
+  form .category .tangerine li label {
     box-shadow: 0 0 1px var(--tangerine);
   }
 
