@@ -48,6 +48,22 @@ We understand that submissions involving events, direct service, and other activ
 
 
 
+{% if site.voting_postponed == true %}
+<details class="faq" markdown="1">
+
+<summary markdown="1">
+## Why was public voting postponed?
+</summary>
+
+LA2050 stands in solidarity with those who are calling for justice in Los Angeles and in our nation. Like all of you, we are grieving for our city right now, listening to the outrage of protesters, and demanding action of our leadership. 
+
+Following the lead of the My LA2050 finalists, we have decided to postpone the public voting portion of the My LA2050 Grants Challenge by one month. We are proud of our finalists who are on the frontlines of advocacy and service in LA and want to support them in focusing their resources at this crucial time. Voting will now take place from {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.VOTES_BEING_ACCEPTED_TIME }}) through {{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.VOTING_PERIOD_ENDED_TIME }}).
+
+</details>
+{% endif %}
+
+
+
 <details class="faq" markdown="1">
 
 <summary markdown="1">

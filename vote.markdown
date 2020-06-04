@@ -25,6 +25,10 @@ Starting **{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}** <smal
 
 {% elsif site.phase == site.FINALISTS_ANNOUNCED %}
 
+{% if site.voting_postponed == true %}
+<p id="postponed" style="font-size: inherit; margin-bottom: 3em; max-width: 45em; margin-left: auto; margin-right: auto;"><em style="color: inherit; font-weight: inherit">Following the lead of the My LA2050 finalists, we have decided to postpone the public voting portion of the My LA2050 Grants Challenge by one month. We are proud of our finalists who are on the frontlines of advocacy and service in LA and want to support them in focusing their resources at this crucial time. Voting will now take place from Monday, July 13, 2020 (9am Pacific Time) through Monday, July 20, 2020 (5pm Pacific Time).</em></p>
+{% endif %}
+
 <p style="max-width: 23em" markdown="1">Starting **{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}** <small class="avoid-break">({{ site.VOTES_BEING_ACCEPTED_TIME }})</small>, you can vote for the finalists on this website.</p>
 
 <p class="action" markdown="1">

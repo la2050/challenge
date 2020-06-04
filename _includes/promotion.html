@@ -49,12 +49,19 @@
     <p>
       The finalists have been announced!
       <span class="avoid-break">
-        <a href="/vote/">Public voting</a> begins on
+        {% if site.voting_postponed == true %}
+          <a href="/vote/#postponed">Public voting has been postponed</a>
+          until
+        {% else %}
+          <a href="/vote/">Public voting</a>
+          begins on
+        {% endif %}
         <span class="avoid-break">
           <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
         </span>
       </span>
     </p>
+
     <p class="action">
       <a href="/finalists/">Check out the finalists!</a>
     </p>
