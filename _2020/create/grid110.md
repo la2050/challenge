@@ -127,6 +127,14 @@ Which metrics will your submission impact?:
 Are there any other LA2050 goal categories that your proposal will impact?:
   - LA is the best place to LEARN
   - LA is the best place to CONNECT
+Has your proposal changed due to COVID-19?: >
+  We have completed 13 accelerator cohorts in person over the past 5 years in Downtown LA, but at the onset of LA’s Safer At Home orders in mid-March, physically meeting in person became impossible. We made the immediate decision to take our programs virtual for the Spring sessions, which kicked off in early April. We have been able to successfully pivot to an online program model, while still offering the same curriculum, resources and support for our entrepreneurs.
+
+
+  With this experience, we remain confident in our original proposal as it stands given our abilities to launch the proposed South LA programs in part or entirely as an online program this summer (if necessary). This also extends to events, office hours and other community focused efforts we plan to run alongside the programs. In the event we’re able to host our events and programs in person, we have already secured an incredible partner in Vector90, a South LA based coworking space and cultural hub. 
+
+
+  We have the opportunity to rebuild our city much more equitably than many would have ever thought possible. In order for that to happen we have to provide under-resourced communities with the same quality of guidance and mentorship available to wealthier communities. Without this, we are constraining our city to rebuild to the same economic disparities. Grid110 expanding to South LA takes aim at this challenge head on in mission and in practice.
 year: 2020
 category: create
 filename: grid110

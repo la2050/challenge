@@ -117,6 +117,44 @@ Which metrics will your submission impact?:
   - Homelessness
 Are there any other LA2050 goal categories that your proposal will impact?:
   - LA is the healthiest place to CONNECT
+Has your proposal changed due to COVID-19?: >
+  While our capacity has been challenged by the COVID-19 Pandemic, Safe Parking LA will activate a series of grassroots volunteer opportunities as planned. In response to the current landscape, Neighbors for Home activities will move forward as follows: 
+
+
+  _Unchanged_
+
+
+  * Hire Volunteer Personnel
+
+  * Develop Volunteer Toolkit
+
+
+  _Modified_
+
+
+  * Volunteer Outreach, Training, and Engagement conducted virtually
+
+  * Client Outreach conducted digitally
+
+  * Supportive Services (i.e., community dinners) provided using a drop-off model
+
+  * Personal Hygiene Kits and PPE added to the list of supportive services (drop-off opportunities)
+
+  * Website developed to support enhanced digital/virtual Community Engagement
+
+
+  _Suspended_
+
+
+  * Volunteer On-site Lot Coordination & Support
+
+  * Volunteer Mentorship
+
+
+  Safe Parking LA is sensitive to the individual circumstances of our Neighbors for Home partners at this time. The current climate has led to the suspension of in-person meetings and caused organizations to shift their focus. We will work with partners as they are willing and available while shifting our focus to building a stronger community engagement infrastructure and developing a neighborhood volunteer community through networking and digital outreach.  
+
+
+  Safe Parking LA is resilient. While our scope, timeline and outcomes will change, we are committed to developing an innovative community engagement model to address the problem of homelessness in LA’s neighborhoods and power our vision of an LA2050 without vehicular homelessness.
 year: 2020
 category: live
 filename: safe-parking-la-a-project-of-community-partners

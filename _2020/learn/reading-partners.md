@@ -124,6 +124,17 @@ Which metrics will your submission impact?:
   - High school graduation rates
   - Student proficiency in English & Language Arts
 Are there any other LA2050 goal categories that your proposal will impact?: []
+Has your proposal changed due to COVID-19?: >
+  School closures resulting from COVID-19 have a significant impact on all students; however, for low-income communities, that impact is devastating. Students who were already falling will fall even further behind.
+
+
+  Over the past 3 months, we have provided bilingual content-rich virtual resources to families via online platforms and text, individualized literacy skill videos and guidance directly to our families and schools, and hosted biweekly live story time for our students.
+
+
+  Looking forward to the 2021 school year, we are preparing for several scenarios that allow us to continue to adapt to the needs of our school partners and students. While all of our school partners have requested onsite presence of Reading Partners staff and as much traditional one-on-one in-person tutoring support as possible, we know it is critical that we also have remote, individualized tutoring available to our students, so that we can continue to provide the critical support needed regardless of our ever-changing safety needs of our schools.
+
+
+  So, in addition to the continuation of the above resources in the upcoming school year, Reading Partners will also be offering remote tutoring that will extend our proven curriculum into a virtual environment. We are currently building a platform for our students to experience our curriculum virtually with a volunteer tutor, either at home or at school. We plan to roll out the program fully in the fall along with some of our other summer pilot programs.
 year: 2020
 category: learn
 filename: reading-partners

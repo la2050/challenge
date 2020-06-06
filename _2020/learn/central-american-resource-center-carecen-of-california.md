@@ -174,6 +174,18 @@ Which metrics will your submission impact?:
 Are there any other LA2050 goal categories that your proposal will impact?:
   - LA is the best place to CREATE
   - LA is the best place to CONNECT
+Has your proposal changed due to COVID-19?: >
+  CARECEN has a long history of responding to crises in Los Angeles and the Southern border. Whether it is providing support to refugees at the Southern border or defending the rights of immigrants during 1992 LA uprisings. Now we are providing support to our community during this pandemic. CARECEN is providing support to families experiencing hardships with the following services and programs:
+
+  1. Immigrant Families Fund – We are providing immediate funding relief to our most vulnerable community members who are not captured by any of the safety nets available locally, statewide, and federally, including, asylum seekers, recently arrived migrant youth, undocumented families, refugee families, homeless migrants, and Day Laborers.
+
+  2. Food Distribution – We are providing emergency food distribution to low-income immigrant/refugee families and Day Laborers through partnerships with local small businesses.
+
+  3. Legal Services – Our offices are closed, but we are continuing to provide immigration legal services remotely through an essential team of legal staff.
+
+  4. Informing our Community – It is critical time for our community to access trusted information, which is why we have developed materials for distribution through CARECEN’s social media networks and website.
+
+  We know that our community will not only be in need of short-term relief.  A long road to recovery awaits, and CARECEN will be there to ensure that our community recovers and thrives in spite of this crisis.
 year: 2020
 category: learn
 filename: central-american-resource-center-carecen-of-california

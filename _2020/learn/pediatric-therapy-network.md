@@ -98,6 +98,8 @@ Which metrics will your submission impact?:
   - Early education enrollment
 Are there any other LA2050 goal categories that your proposal will impact?:
   - LA is the best place to CONNECT
+Has your proposal changed due to COVID-19?: >
+  While COVID-19 has impacted our ability to provide services in-person, it has not stopped us from delivering exceptional high-quality early education and therapeutic programming to the children and families we serve in LA County. Following recommendations from the LA County Health Department and the CDC, PTN suspended all in-person services on March 16. In the weeks since, PTN’s multi-disciplinary teams demonstrated considerable ingenuity and creativity, quickly mobilizing to implement alternative early education, therapy, and parent support measures to ensure continuity of care for our clients. PTN migrated nearly all of its individual and group programs to a telehealth platform, including all of our Best We Can Be early intervention and parent support programs. In addition, our team developed relevant and digitally accessible resources for families isolated at home that can be accessed for free via our website and YouTube channel. The services PTN provides are vital to long-term developmental, academic and social outcomes for children with and at-risk for developmental delays and disabilities. Sadly, any disruption in care can lead to devastating, life-long impacts. As families continue to receive diagnoses and grapple daily with a wide range of developmental challenges such as autism, feeding issues and more, PTN continues to provide them essential therapeutic services and resources.
 year: 2020
 category: learn
 filename: pediatric-therapy-network

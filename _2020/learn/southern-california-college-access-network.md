@@ -106,6 +106,8 @@ Which metrics will your submission impact?:
 Are there any other LA2050 goal categories that your proposal will impact?:
   - LA is the best place to CONNECT
   - LA is the healthiest place to LIVE
+Has your proposal changed due to COVID-19?: >
+  With the onset of COVID-19, our counseling staff was quick to transition to remote advising. Project SOAR counselors have maintained contact with SOAR students primarily through texting and phone conversations, but also via email and video conferencing. Our counseling staff is also in the process of building out a text messaging and artificial intelligence platform that will be integrated into Project SOAR advising practices this summer and into AY 2020-2021. Of course, once we are cleared to do so, we return to in-person, socially distanced advising on site. 
 year: 2020
 category: learn
 filename: southern-california-college-access-network

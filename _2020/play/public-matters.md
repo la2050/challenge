@@ -156,6 +156,18 @@ Are there any other LA2050 goal categories that your proposal will impact?:
   - LA is the best place to CREATE
   - LA is the best place to CONNECT
   - LA is the healthiest place to LIVE
+Has your proposal changed due to COVID-19?: >
+  Our proposal remains vitally important. Traffic safety is an essential challenge for University Park and has in fact become more urgent due to the pandemic. Local pedestrians and cyclists are at increased danger since we submitted our proposal. In 2019, roughly 11 Los Angeles pedestrians were killed a month (128 total). In May 2020 alone, 21 pedestrians were killed (LA Times, 14 May 2020). The primary reason is drivers are driving much faster due to reduced traffic under the stay-at-home order. Driver behavior has changed; unfortunately, not for the better. People who walk, bike and roll are also using streets differently due to COVID-19, for physical distancing and outdoor recreation. Traffic safety will remain a serious problem.
+
+
+  _We propose these changes:_
+
+
+  * Social distancing for many has meant social isolation. We will enhance the project’s digital mapping and communication products for community mobilization, education, training, and to promote social cohesion.
+
+  * We will train participants to use technology in new ways. This builds the capacity of parents and children, while addressing the digital divide exposed by COVID-19.
+
+  * The public spectacle component of Slow Jams is part of a larger effort to build community capacity to advocate for safe streets. We will adapt public performances and events, practicing safe distancing. These may resemble the proposed choreography, or may require more static props, such as yard signs and human billboards along the sides of streets.
 year: 2020
 category: play
 filename: public-matters

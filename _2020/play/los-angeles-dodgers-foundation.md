@@ -158,6 +158,14 @@ Are there any other LA2050 goal categories that your proposal will impact?:
   - LA is the best place to LEARN
   - LA is the best place to CONNECT
   - LA is the healthiest place to LIVE
+Has your proposal changed due to COVID-19?: >
+  At the Los Angeles Dodgers Foundation (LADF), we know that we must be bigger than baseball and that means taking a leadership role in not only helping “flatten the curve” of COVID-19 spreading throughout our communities, but by doubling down and expanding access to assistance so many of us need during this crisis. Since our community groundbreaking event in February, LADF launched relief efforts but has remained in constant communication with Gonzales Park project and construction partners. LADF is currently evaluating the project completion timeline in accordance with LA County Department of Public and Health orders and local Compton and LA Mayors’ Safer at Home directives.
+
+  LADF and its partners remain committed to this project. There have been no changes made to the project scope or design. Plans for continued construction are tentatively set for later this fall. We envision a significant grand opening celebration in spring 2021 honoring Jackie Robinson and uplifting the Compton community.
+
+  This project will include building three Dodgers Dreamfields and Fitness and Training Zones, alongside lead partners Kershaw’s Challenge and the City of Compton. This project will help restore Gonzales Park to its prior baseball glory and promote a positive environment for youth to play baseball and softball. We believe that Dodgers Dreamfields are game-changers, because revitalized green spaces help revitalize communities, boosting the safety of local parks and providing a place where neighbors can gather, exercise and play.
+
+  LADF looks forward to project completion so that, when it's safe to gather again, our youth and families can reenter and enjoy this new community space together.
 year: 2020
 category: play
 filename: los-angeles-dodgers-foundation

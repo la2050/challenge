@@ -107,6 +107,20 @@ Which metrics will your submission impact?:
   - Resilient communities
   - Access to mental health services
 Are there any other LA2050 goal categories that your proposal will impact?: []
+Has your proposal changed due to COVID-19?: >
+  As a community health clinic, Clinica Romero is on the front lines of the health emergency caused by the COVID-19 pandemic and is playing a key role in both prevention and diagnosis of the virus. Our original proposal included a response to COVID-19 and additional details are included here. Through funding received from the LA2050 challenge, we aim to:
+
+
+  * Purchase equipment that will enable us to provide primary care and mental health services through telehealth (phone and video)
+
+  * Provide remote (through phone calls and social media platforms) health education related to COVID-19 for high risk groups and educate underserved community members on how to access telehealth services available to them through our two clinic sites
+
+  * Provide sanitation supplies to homeless patients visiting our site for weekly showers
+
+  * Facilitate medication delivery for high risk patients through at-home drop off services 
+
+
+  Clinica Romero maintains its doors open at its two clinic sites located in the neighborhoods of Pico-Union/Westlake and Boyle Heights in Los Angeles. Only essential medical visits are being scheduled for patients at this time to ensure that they receive the care and medication they need to remain healthy. All other patients are able to access care through telehealth services and are provided education on how to access their primary care or mental health provider via a phone call or a secure video conference."
 year: 2020
 category: live
 filename: clinica-msr-oscar-a-romero

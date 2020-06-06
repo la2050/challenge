@@ -132,6 +132,14 @@ Which metrics will your submission impact?:
   - Economic opportunities for formerly incarcerated
   - Unemployment rate
 Are there any other LA2050 goal categories that your proposal will impact?: []
+Has your proposal changed due to COVID-19?: >
+  As Los Angeles County and California move to slow the spread of COVID-19 in jails and prisons, a growing number of individuals are being released from incarceration. Compounding existing barriers, individuals are exiting incarceration to a landscape greatly altered by the pandemic, facing limited supportive services and employment opportunities. The pandemic is also disproportionately impacting communities of color, exposing deep health and economic inequities. Flintridge Center will adapt and expand the Apprenticeship Preparation Program model to meet emerging community needs and address disparities.
+
+
+  Instructors will facilitate the program virtually over 7 weeks: core components will include intensive case management, trauma-informed life skills, and employment development trainings. In addition to individualized support, program participants will receive necessary technology to complete the course, industry-recognized credentials, and weekly stipends.
+
+
+  Recognizing that there may be potentially fewer opportunities in union construction because of the pandemic, program scope will expand to support individuals in seeking employment in emerging industries. Flintridge Center’s team will continue to adapt program elements based on emerging participant needs, feedback and outcomes for the duration of this crisis. Goals for the program during this time remain the same: to provide economic opportunities, decrease recidivism, and create a more equitable Los Angeles.
 year: 2020
 category: create
 filename: flintridge-center
