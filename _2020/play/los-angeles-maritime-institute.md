@@ -101,6 +101,10 @@ Which metrics will your submission impact?:
 Are there any other LA2050 goal categories that your proposal will impact?:
   - LA is the best place to LEARN
   - LA is the healthiest place to LIVE
+Has your proposal changed due to COVID-19?: >
+  The Los Angeles Maritime Institute (LAMI) has always made the safety of program participants, volunteers, and staff our top priority, with an elevated commitment during the COVID-19 outbreak. LAMI follows all local, state, and federal guidelines and mandates to determine when and how LAMI offers its programs. LAMI adopted even more rigorous safety policies and procedures to ensure all of our ships and learning environments are safe places to enjoy.
+
+  LAMI’s Ocean Adventure Together Program launches in July 2020, at which time we are hopeful some level of gathering will be allowed. If gathering is permitted, LAMI will follow capacity guidelines and, if necessary, reduce the number of participants per activity and increase the number and frequency of events and voyages offered. The Program is well-positioned if restrictions allow outdoor gathering, with LAMI able to deliver the intended positive outcomes with only modest adjustments, such as replacing the overnighting voyage with a series of top-deck day sails. Since the onset of the ‘stay-at-home’ orders, LAMI has become extremely proficient at providing virtual program experiences and instruction, offering free Virtual Voyage online multimedia content and live lessons. If ‘stay-at-home’ orders persist into the start of the Program, we are committed to using this expertise to create enjoyable, immersive, and educational virtual adaptations of engagement plans, and suspending in-person activities until it is safe to do so.
 year: 2020
 category: play
 filename: los-angeles-maritime-institute

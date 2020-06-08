@@ -109,6 +109,10 @@ Which metrics will your submission impact?:
   - Youth sports participation
   - Access to open space and park facilities
 Are there any other LA2050 goal categories that your proposal will impact?: []
+Has your proposal changed due to COVID-19?: >
+  In response to the current situation involving COVID-19, RAP will need to make modifications to the Mobile Recreation Program proposal. The most significant modification will be the location of the program; instead of mobile recreation utilizing LAUSD schools on the weekends and after-school, this summer they will visit LA city parks that are not offering Summer 2020 Youth Programs.  Approximately 30 sites will participate with the mobile programs this summer.  High contact sports and activities will be substituted for activities that allow for social distancing and stable groups such as field hockey, tennis, and track & field.
+
+  Children will be placed into stable groups with a 1:8 instructor to child ratio. The groups will take regular sanitizing breaks throughout the program.  During the summer, the mobile activities will take place outdoors where drills and activities will be adapted to maintain a minimum distance of six feet between participants.  Individual pieces of equipment will be utilized by participants and all equipment will be sanitized before and after each group; proper personal protective equipment (PPE – facial coverings, gloves, and safety goggles) will be used by staff and participants.  All activities will comply with the County Public Health guidelines and align with the Centers for Disease Control and Prevention (CDC).  These modifications will provide a fun and safe environment for all participants.
 year: 2020
 category: play
 filename: city-of-los-angeles-department-of-recreation-and-parks

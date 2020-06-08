@@ -152,6 +152,14 @@ Which metrics will your submission impact?:
   - Homelessness
 Are there any other LA2050 goal categories that your proposal will impact?:
   - LA is the best place to CREATE
+Has your proposal changed due to COVID-19?: >
+  With the introduction of COVID-19 and since the implementation of the Safer at Home mandate, Jenesse has responded swiftly to continue to provide clients with the same level of exceptional services they have become accustomed to. Within 3 days of the implementation of the mandate, the Behavioral Health Program and Legal Services Program were able to switch to Skype, Zoom, and Telehealth formats so that clients could connect with our advocates, mental health interns, attorneys, and paralegals. It took a tremendous effort for our staff to establish the virtual platforms so quickly and to notifying our clients, but the change was seamless to the survivors we serve.
+
+
+  During the pandemic, we are experiencing an unprecedented number of calls to our crisis hotline. In response, Jenesse has added additional phone lines to assist callers and has contracted with two local hotels to house survivors. Right now, in addition to the current 140+ clients already receiving residential services, we are sending 90 families to an off-site location. We are also service over 40 clients in our drop-in program. To deal with the increase in clients we are serving, Jenesse hired 5 Case Managers and one Client Service Specialist to support our current staff.
+
+
+  In addition, we increased our supportive services for those who reside in our emergency shelter and transitional housing facilities by providing survivors and their families with all of their essentials to maintain self-quarantine status in comfort.
 year: 2020
 category: live
 filename: jenesse-center-inc

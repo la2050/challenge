@@ -138,6 +138,12 @@ Which metrics will your submission impact?:
   - Volunteerism
 Are there any other LA2050 goal categories that your proposal will impact?:
   - LA is the best place to LEARN
+Has your proposal changed due to COVID-19?: >
+  * Building community for RTS Scholars and SFLA youth will take place via virtual engagement opportunities. SFLA’s signature “First Saturday” events will transition to online workshops and events, web series, an online “life skills” academy, and a protected virtual community. All programming will be created and hosted by former foster youth and continue to bring people together to provide both learning and bonding activities.
+
+  * RTS will formalize its Alumni Council (40+ recent grads) and reach many more foster youth not yet involved with RTS or SFLA. RTS has formed an official Alumni Council which will build meaningful connections within RTS and also be the group working closely with the SFLA youth. Videos will be focused on mental health + wellness and educational and “exposure” content. RTS alumni, with their unique college and career experience and personal passions will become valuable trusted messengers to impact a large audience of youth.
+
+  * With digital programming we will be able to directly serve many more youth, increasing the number of students we serve from 90 to 155 (this number is based on the increase of youth RTS is serving through new programming and the number of youth at group homes that SFLA has been connecting with virtually during the crisis). The number of students indirectly impacted could rise well over 500 as content is shared through our extensive partnership network.
 year: 2020
 category: connect
 filename: ready-to-succeed

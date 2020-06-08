@@ -147,6 +147,17 @@ Which metrics will your submission impact?:
 Are there any other LA2050 goal categories that your proposal will impact?:
   - LA is the best place to LEARN
   - LA is the healthiest place to LIVE
+Has your proposal changed due to COVID-19?: >
+  The pandemic has highlighted the fragility of our social safety net and the critical role that local government can play in protecting the health and well-being of our communities. It’s never been more important to provide regular Angelenos with resources and tools to advocate for policies that ensure a just and equitable recovery.
+
+
+  As two leading members in the Healthy LA coalition — a network of more than 320 local organizations uniting to propose concrete solutions to the many hardships caused by the pandemic — we’ve been on the frontlines pushing for policies to protect vulnerable Angelenos. We’ve learned so much about effective organizing and advocacy over the last three months, and we’re committed to sharing it as widely as possible through LA 101. 
+
+
+  Our initial proposal relied largely on digital materials and distribution, so we don’t anticipate major changes. One exception is converting the community workshops we were planning for 2021 into Zoom meetings. Even if in-person meetings are permitted, we’re increasing our plans for digital events after seeing how they broaden the range of people who can participate and allow for easy recording and distribution. 
+
+
+  We’re also planning to include additional training on how to organize in a socially distanced world. And we’re exploring ways to speed up the public launch of the LA 101 guide to help equip LA’s diverse communities to participate in the crucial deliberations around how our region navigates and emerges from this crisis.
 year: 2020
 category: connect
 filename: la-forward

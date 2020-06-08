@@ -113,6 +113,11 @@ Which metrics will your submission impact?:
   - Employment in the creative industries
   - Jobs per capita
 Are there any other LA2050 goal categories that your proposal will impact?: []
+Has your proposal changed due to COVID-19?: >
+  Amid the current COVID-19 situation, our team wants to add an innovative challenge for upcycling enthusiasts to design reusable PPE with textile scrap. This would create a win-win situation in both protecting the environment by reducing the amount of waste going to landfills and supporting our frontline workers.
+
+
+  Safety is our number one priority when creating the centralized HUB. Proper precautions, worker protections, and all LA County Public Health guidelines will be enforced. The scale and timeline of the planned project are flexible and will be adjusted accordingly.
 year: 2020
 category: create
 filename: la-sanitation-and-environment-la-industry

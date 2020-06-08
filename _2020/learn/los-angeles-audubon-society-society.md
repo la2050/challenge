@@ -135,6 +135,9 @@ Which metrics will your submission impact?:
 Are there any other LA2050 goal categories that your proposal will impact?:
   - LA is the best place to PLAY
   - LA is the healthiest place to LIVE
+Has your proposal changed due to COVID-19?: >
+  Los Angeles Audubon Society (LAAS) has increased its organizational capacity by adapting existing programming into online environmental education activities that provide ways for students, teachers, and community members to stay connected to nature and STEAM learning during the Covid-19 crisis. Capitalizing on our new foundation of logistical know-how, we plan to further expand our online learning opportunities in the coming school year, blending guided science and art activities that promote a connection to nature at school, at home, and in local neighborhoods. LAAS’s staff members can channel their creativity, knowledge, and leadership skills into online formats, such as videos, webinars, and interactive Zoom sessions, that meet a high professional standard through collaboration with media experts at Catchafire (a service that provides professional skill-based volunteers). Once schools re-open we will also initiate “LA Audubon On-Campus” as an alternative to field trips. LAAS staff will visit schools multiple times a year with STEAM learning activities on campus and provide teachers with materials that further inquiry once the visit is over.
+
 year: 2020
 category: learn
 filename: los-angeles-audubon-society-society

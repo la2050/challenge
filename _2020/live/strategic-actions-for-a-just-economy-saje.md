@@ -125,6 +125,11 @@ Which metrics will your submission impact?:
   - Housing affordability
   - Homelessness
 Are there any other LA2050 goal categories that your proposal will impact?: []
+Has your proposal changed due to COVID-19?: >
+  Eviction prevention has become an even higher priority as the covid-19 pandemic has caused millions of renters in LA County to wonder if they can pay their rent. Keeping our homes IS public health. Without a home, exposure to the coronavirus is dramatically worsened. Temporary emergency measures protect many tenants, but only for a limited time. Now more than ever, tenants need easy access to tools and resources to help exercise their rights and stay in their homes. In the coronavirus era, easy-to-use and multi-lingual online resources are essential to making critical services available to people who need it the most. In rapid response to the current crisis, we created NoRent.org, which has helped tenants throughout the County protect themselves from unlawful evictions. 
+
+
+  Dramatic impacts to the County's budget have shifted the focus of this current project and amplify its value. Currently, the LA County Eviction Defense Program will be replaced by a short-term Emergency Eviction Prevention Program. New tools for tenants to protect against displacement remain critically necessary. For instance, our tools may help tenants effectively document and respond to issues of harassment and slum housing conditions - two major drivers of displacement.
 year: 2020
 category: live
 filename: strategic-actions-for-a-just-economy-saje

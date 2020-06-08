@@ -94,6 +94,12 @@ Which metrics will your submission impact?:
   - Volunteerism
 Are there any other LA2050 goal categories that your proposal will impact?:
   - LA is the healthiest place to LIVE
+Has your proposal changed due to COVID-19?: >
+  Community Allies believes that creating opportunities for authentic human connection is more important than ever in light of COVID-19. At this time, we are prioritizing the safety of our volunteers and participants by cancelling all in-person activities until further notice. We have adapted programming and expanded opportunities for connection through new pilot initiatives such as “Phone Pals,” in which new friendships are facilitated over the phone. This offering has been especially impactful for Project Roomkey residents, who are highly vulnerable people experiencing homelessness who have been sheltered in motel rooms, and are thus extremely isolated.
+
+  Volunteer Allies who were already matched with participants before March 2020 continue to log volunteer hours by checking on their participants by phone on a regular basis, providing social and emotional support. Our team has also built an extensive library of virtual community gatherings/activities that has been disseminated across our networks.  
+
+  Additionally, we remain committed to elevating the voices of those with lived experience through our LEAP (Lived Expertise Advisory Panel) Committee. LEAP members have currently or formerly experienced homelessness and serve in an advisory capacity to the board of directors and staff on issues related to service provision, advocacy, and policy.  LEAP members have continued to meet virtually and are currently focused on advocacy efforts related to affordable housing.
 year: 2020
 category: connect
 filename: union-station-homeless-services

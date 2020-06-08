@@ -100,6 +100,22 @@ Which metrics will your submission impact?:
   - Students' sense of safety at and on the way to school
 Are there any other LA2050 goal categories that your proposal will impact?:
   - LA is the best place to LEARN
+Has your proposal changed due to COVID-19?: >
+  1. Switched to an on-line Game of Skate zoom program. Each session is made up of a group of 10-15 participants including mentors. It is an on-line competition, where participants perform a skateboarding trick. Tricks are voted on & the participant with the highest score wins the challenge & earns free skateboarding gear.
+
+  2. Change to the homework challenge. We’re unable to have them come to the shop for their daily homework/tutoring sessions so we are now holding these sessions on-line. Each participant is required to complete a minimum amount of homework before they can participate in the points program.
+
+  3. Modified bonus points program from 20 minutes of reading per day & a 3 paragraph essay summarizing what they read to 1 book per week & 6 paragraph essay summarizing what they read.
+
+  4. Change to 1-on-1 tutoring sessions. Each participant submits a question in advance to our tutors, who follows up with them to help them work through their question. We established a daily 3 hour window in which to provide 1-on-1 tutoring.
+
+  5. Holding entrepreneurial workshops on-line instead of in-person. COVID-19 experience has provided a real life example of how an entrepreneur must be flexible to unforeseen challenges & new business opportunities.
+
+  6. We have an increased need during Food Bank Fridays. Our average number of food boxes was 200 pre-COVID-19; it is now 400 30 - 50 lb boxes. Our challenge has proven to be accessing enough food from the food bank to provide at our Food Bank Fridays. 
+
+
+  We re-engaged the majority of our participants by keeping them active, reducing the amount of time
+  they spend on video games & assisting them in improving their grades.
 year: 2020
 category: play
 filename: the-urban-warehouse

@@ -147,6 +147,23 @@ Are there any other LA2050 goal categories that your proposal will impact?:
   - LA is the best place to LEARN
   - LA is the best place to CREATE
   - LA is the healthiest place to LIVE
+Has your proposal changed due to COVID-19?: >
+  Boyle Heights Beat has been continuing with its programming virtually since stay-at-home orders were put into place in mid-March. Mentors continue to meet with students on Zoom calls and students report and conduct interviews online and by phone; writing articles focusing on the current pandemic.      
+
+
+  To protect their safety and the safety of others, our youth reporters can begin the Voices project with elderly persons existing in their family circles and then branch outward as safety concerns are lifted.
+
+
+  If we are unable to conduct interviews in-person in the near future, Boyle Heights Beat will work with other non-profit organizations and churches serving the elderly communities to set up recording equipment to enable interviews to be done digitally.  With the additional grant funding, we can provide organizations with laptops and WIFI connections to create storytelling spaces throughout the neighborhood. 
+
+
+  In light of the Covid-19 pandemic and the uncertainty of the future, we can focus our storytelling and reporting to highlight the changing and emerging needs of the community resulting from the quarantine and its aftermath- economic, mental, and social. 
+
+
+  Stories will be edited, transcribed and translated as needed and aired on our podcast and published on our website and print editions. Journalist mentors and producers will work with students and outside organizations to promote and publish the content on local and national outlets. 
+
+
+  Stories throughout the year will be gathered and archived. It is still our hope to create installations of the oral histories, either in public or online, as a means to engage the youth and elderly communities and further dialogues and grow intergenerational networks.
 year: 2020
 category: connect
 filename: boyle-heights-beat-radio-pulso
