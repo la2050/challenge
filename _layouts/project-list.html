@@ -482,7 +482,11 @@ main > h1:first-child::before {
                   {{ site.image_host }}/{{ image_category }}/2048-wide/{{ image_filename }} 2048w" 
           sizes="(min-width: 60em) 50vw, 100vw"
           width="500"
-          alt="" />
+          alt=""
+        {% if data.project_image_color %}
+          style="background-color: {{ data.project_image_color }}"
+        {% endif %}
+        />
       </span>
       <span class="text">
         {% if page.winners %}

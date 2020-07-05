@@ -16,7 +16,7 @@
   <li {% if page.url == '/about/' %}     class="active" {% endif %}><a href="/about/">About</a></li>
   <li {% if page.url == '/partners/' %}  class="active" {% endif %}><a href="/partners/">Partners</a></li>
   {% if site.phase >= site.WINNERS_ANNOUNCED %}
-  <li {% if page.url == '/winners/' %}   class="active" {% endif %}><a href="/winners/">Winners</a></li>
+  <li {% if page.url contains '/winners/' %}   class="active" {% endif %}><a href="/winners/">Winners</a></li>
   {% elsif site.phase >= site.FINALISTS_ANNOUNCED %}
   <li {% if page.url contains '/finalists/' %} class="active" {% endif %}><a href="/finalists/">Finalists</a></li>
   {% endif %}
