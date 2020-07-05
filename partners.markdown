@@ -24,7 +24,7 @@ The My LA2050 Grants Challenge is possible because of the support of many partne
 [![Snap Foundation](/assets/images/partners/snap-foundation.png)](https://snapfoundation.org)
 : The Snap Foundation, supporting projects that develop pathways to the creative economy for underrepresented youth in Los Angeles
 
-[![Citi](assets/images/partners/citi.jpg)](https://www.citigroup.com/citi/)
+[![Citi](/assets/images/partners/citi.jpg)](https://www.citigroup.com/citi/)
 : Citi, providing $25,000 in funding for small business development, financial inclusion, and housing with a special focus on projects that address the racial wealth gap in Los Angeles
 
 [![Second Home](/assets/images/partners/second-home.png)](https://secondhome.io/location/hollywood/?utm_medium=partner_email&utm_source=referral&utm_campaign=la2050)
