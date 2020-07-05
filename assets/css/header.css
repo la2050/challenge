@@ -117,7 +117,18 @@
   }
 
 
-  /* @media (min-width: 70em) {
+  @media (min-width: 70em) {
+    .promotion .action--short-text {
+      display: inline-block;
+      margin-top: -1.25em;
+      margin-left: 1.5em;
+      margin-bottom: -1em;
+      vertical-align: middle;
+    }
+  }
+
+
+  @media (min-width: 90em) {
     .promotion .action {
       display: inline-block;
       margin-top: -1.25em;
@@ -125,7 +136,7 @@
       margin-bottom: -1em;
       vertical-align: middle;
     }
-  } */
+  }
 
 
   body .header-figure.has-caption.has-caption-details .caption h1 {
