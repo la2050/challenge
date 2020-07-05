@@ -10,6 +10,17 @@ stylesheets:
   {% assign page.category = "live" %}
 {% endunless %}
 
+{% if page.category == "learn" %}
+  {% assign category_color = "blueberry" %}
+{% elsif page.category == "create" %}
+  {% assign category_color = "banana" %}
+{% elsif page.category == "play" %}
+  {% assign category_color = "strawberry" %}
+{% elsif page.category == "connect" %}
+  {% assign category_color = "tangerine" %}
+{% elsif page.category == "live" %}
+  {% assign category_color = "lime" %}
+{% endif %}
 
 {% if page.winners %}
 
@@ -94,7 +105,7 @@ main > h1:first-child::before {
 {% if site.phase >= site.FINALISTS_ANNOUNCED and site.phase < site.VOTING_PERIOD_ENDED %}
 <h1 style="padding-top: 0; padding-bottom: 0; display: grid;">
   {% include city.html %}
-  <span style="max-width: 23em; display: block; margin-left: auto; margin-right: auto; grid-column: 1/-1; grid-row: 1/-1; align-self: center; z-index: 2;" id="primary-headline">
+  <span style="max-width: 23em; display: block; margin-left: auto; margin-right: auto; grid-column: 1/-1; grid-row: 1/-1; align-self: center; z-index: 2; --secondary-color: var(--{{ category_color }});" id="primary-headline">
     {% if site.finalists_chosen_by_public_vote %}
     Congratulations to the <a href="#projects" style="color: inherit; font-weight: inherit;">{% if site.finalists_chosen_by_public_vote %}top 10 voted{% else %}finalists{% endif %}</a>{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong> category{% endif %}!<br />
     {% else %}
