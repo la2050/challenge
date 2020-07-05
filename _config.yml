@@ -291,7 +291,7 @@ voting_test_mode: false
 voting_strict_mode: false
 
 # For cache busting
-version: 3.0.5
+version: 3.0.6
 
 
 permalink: pretty

@@ -39,7 +39,8 @@
     margin-bottom: 4.5em;
   }
   .goals .navigation .count strong {
-    color: var(--primary-color, inherit);
+    color: gray;
+    color: var(--primary-color-readability, gray);
   }
   .goals .navigation .count strong.category {
     text-transform: uppercase;
