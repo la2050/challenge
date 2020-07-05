@@ -117,5 +117,6 @@ year: 2020
 category: connect
 filename: creative-acts
 order: 14
+project_image_color: hsl(0, 0%, 42%)
 
 ---

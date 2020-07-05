@@ -112,5 +112,6 @@ year: 2020
 category: learn
 filename: southern-california-college-access-network
 order: 67
+project_image_color: hsl(199, 22%, 73%)
 
 ---

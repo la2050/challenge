@@ -117,5 +117,6 @@ year: 2020
 category: play
 filename: city-of-los-angeles-department-of-recreation-and-parks
 order: 6
+project_image_color: hsl(200, 40%, 44%)
 
 ---

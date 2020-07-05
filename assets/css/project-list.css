@@ -466,6 +466,10 @@
       transition: filter 0.2s;
       */
     }
+    
+    .proposals:not(.finalists) img[style*="background-color"] {
+      object-fit: contain;
+    }
   }
   .proposals.finalists img {
     width: 100%;

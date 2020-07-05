@@ -159,5 +159,6 @@ year: 2020
 category: live
 filename: safe-parking-la-a-project-of-community-partners
 order: 41
+project_image_color: hsl(210, 39%, 38%)
 
 ---

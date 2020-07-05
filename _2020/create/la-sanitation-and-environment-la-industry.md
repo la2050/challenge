@@ -122,5 +122,6 @@ year: 2020
 category: create
 filename: la-sanitation-and-environment-la-industry
 order: 19
+project_image_color: hsl(0, 0%, 100%)
 
 ---
