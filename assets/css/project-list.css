@@ -1247,6 +1247,12 @@ details summary:focus::-webkit-details-marker {
     height: 100%;
     object-fit: cover;
   }
+  .proposals.finalists li:nth-child(2) .image img[style*="background-color"],
+  .proposals.finalists li:nth-child(3) .image img[style*="background-color"],
+  .proposals.finalists li:nth-child(4) .image img[style*="background-color"],
+  .proposals.finalists li:nth-child(5) .image img[style*="background-color"]  {
+    object-fit: contain;
+  }
   /* @media (min-width: 60em) {
     .proposals.finalists li:nth-child(2) .text,
     .proposals.finalists li:nth-child(3) .text,
@@ -1277,6 +1283,8 @@ details summary:focus::-webkit-details-marker {
   .proposals.finalists li:nth-child(4) .organization,
   .proposals.finalists li:nth-child(5) .organization {
     font-size: 0.875em;
+    font-weight: normal;
+    line-height: 1.5;
   }  
   .proposals.finalists li:nth-child(2) .action,
   .proposals.finalists li:nth-child(3) .action,
