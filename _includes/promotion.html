@@ -73,11 +73,11 @@
       </p>
 
       {% if page.layout == "project" and page.category %}
-      <p class="action">
+      <p class="action action--short-text">
         <a href="/vote/form/?{{ page.category }}={{ page.organization_name | url_encode }}">I’m ready to vote</a>
       </p>
       {% else %}
-      <p class="action">
+      <p class="action action--short-text">
         <a href="/vote/form/">I’m ready to vote</a>
       </p>
       {% endif %}
@@ -93,7 +93,7 @@
           </span>
         </span>
       </p>
-      <p class="action">
+      <p class="action action--short-text">
         <a href="{{ site.mailing_list_url }}">Get updates</a>
 
 {% elsif site.phase == site.WINNERS_ANNOUNCED %}
@@ -102,7 +102,7 @@
         The winners have been announced.
         Thank you to everyone who participated!
       </p>
-      <p class="action">
+      <p class="action action--short-text">
         <a href="/winners/">Check out the winners!</a>
       </p>
 
