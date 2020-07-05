@@ -164,5 +164,6 @@ year: 2020
 category: live
 filename: jenesse-center-inc
 order: 24
+project_image_color: hsl(259, 46%, 83%)
 
 ---

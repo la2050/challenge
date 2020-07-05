@@ -190,5 +190,6 @@ year: 2020
 category: learn
 filename: central-american-resource-center-carecen-of-california
 order: 11
+project_image_color: hsl(234, 31%, 19%)
 
 ---

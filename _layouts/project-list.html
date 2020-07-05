@@ -574,19 +574,27 @@ main > h1:first-child::before {
       <span class="image">
         {% capture image_filename %}{{ data.filename }}.jpg{% endcapture %}
         {% capture image_category %}{{ data.year }}/{{ data.category }}{% endcapture %}
-
+        {% if data.project_image_color %}
+          {% assign image_aspect = "" %}
+        {% else %}
+          {% assign image_aspect = "-with-aspect-10-8" %}
+        {% endif %}
         <img
           src="/assets/images/blank.png"
-          data-src="{{ site.image_host }}/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_filename }}"
-          data-srcset="{{ site.image_host }}/{{ image_category }}/384-wide-with-aspect-10-8/{{ image_filename }} 384w, 
-                       {{ site.image_host }}/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_filename }} 512w, 
-                       {{ site.image_host }}/{{ image_category }}/768-wide-with-aspect-10-8/{{ image_filename }} 768w, 
-                       {{ site.image_host }}/{{ image_category }}/1024-wide-with-aspect-10-8/{{ image_filename }} 1024w, 
-                       {{ site.image_host }}/{{ image_category }}/1536-wide-with-aspect-10-8/{{ image_filename }} 1536w, 
-                       {{ site.image_host }}/{{ image_category }}/2048-wide-with-aspect-10-8/{{ image_filename }} 2048w"
+          data-src="{{ site.image_host }}/{{ image_category }}/512-wide{{ image_aspect }}/{{ image_filename }}"
+          data-srcset="{{ site.image_host }}/{{ image_category }}/384-wide{{ image_aspect }}/{{ image_filename }} 384w, 
+                       {{ site.image_host }}/{{ image_category }}/512-wide{{ image_aspect }}/{{ image_filename }} 512w, 
+                       {{ site.image_host }}/{{ image_category }}/768-wide{{ image_aspect }}/{{ image_filename }} 768w, 
+                       {{ site.image_host }}/{{ image_category }}/1024-wide{{ image_aspect }}/{{ image_filename }} 1024w, 
+                       {{ site.image_host }}/{{ image_category }}/1536-wide{{ image_aspect }}/{{ image_filename }} 1536w, 
+                       {{ site.image_host }}/{{ image_category }}/2048-wide{{ image_aspect }}/{{ image_filename }} 2048w"
           sizes="(min-width: 45em) 20em, 100vw"
           width="500"
-          alt="" />
+          alt=""
+      {% if data.project_image_color %}
+          style="background-color: {{ data.project_image_color }}"
+      {% endif %}
+      />
       </span>
       {% unless data['organization_name'] == data['title'] %}
       <p class="organization" >{{ data['organization_name'] }}</p>

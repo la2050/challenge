@@ -142,5 +142,6 @@ year: 2020
 category: learn
 filename: los-angeles-audubon-society-society
 order: 46
+project_image_color: hsl(94, 13%, 90%)
 
 ---
