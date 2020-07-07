@@ -134,6 +134,5 @@ year: 2020
 category: live
 filename: strategic-actions-for-a-just-economy-saje
 order: 49
-project_image_color: hsl(0, 0%, 100%)
 
 ---
