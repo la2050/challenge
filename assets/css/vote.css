@@ -90,7 +90,7 @@
     .introduction p:not(.action) {
       font-size: 3em;
       font-size: 3.5vmax;
-      max-width: 18em;
+      max-width: 21em;
     }
   }
   .introduction .logo {
@@ -132,7 +132,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.25);
+    background-color: rgba(0, 0, 0, 0.33);
     background-image: none;
   }
 

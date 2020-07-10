@@ -22,7 +22,7 @@ You may want to visit our [home page](/) instead.
 
 <h1>Please check your email</h1>
 
-<p>We sent a message to your email address with a link you can press to <span style="display: inline-block">confirm your votes.</span></p>
+<p>We sent a message to your email address with a link to <span style="display: inline-block">confirm your votes.</span></p>
 
 <form action="/vote/email-sent/" method="get">
 
