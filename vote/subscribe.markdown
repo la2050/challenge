@@ -30,8 +30,8 @@ You may want to visit our [home page](/) instead.
 
 <h2 style="max-width: none; text-align: center; font-size: inherit; color: var(--secondary-color); font-weight: 500;">Thanks for voting! <span style="font-weight: normal; color: var(--midnight);">Your votes have been received and will help us choose the winners.</span></h2>
 
-<h1>We’d love to keep in touch</h1>
-<p style="max-width: 36em; font-size: 1.25em;">Sign up for the <strong style="color: inherit; font-weight: 500;">LA2050 email newsletter</strong> and twice a month, you'll receive updates on awesome organizations in Los Angeles, opportunities, and jobs that are shaping the future of our region. <em style="color: inherit; font; font-weight: inherit;">Join the movement!</em></p>
+<h1>Stay connected</h1>
+<p style="max-width: 36em; font-size: 1.25em;">Sign up for our newsletter—where we'll announce the winners—and twice a month, you'll receive updates on local resources, volunteer opportunities, job listings, and more that help you make a difference in Los Angeles.</p>
 
 <form name="vote_subscribe" action="/vote/survey-subscribed/" method="post" data-netlify="true" style="margin-top: 1.5em;">
 <p style="font-size: 1em">
