@@ -75,11 +75,11 @@ VOTING_PERIOD_ENDED_TIME:          5pm Pacific Time
 
 # Finalists announced: 
 # May 25
-phase: 5
+# phase: 5
 
 # Votes being accepted: 
 # July 13
-# phase: 6
+phase: 6
 
 # Voting period ended: 
 # July 20
