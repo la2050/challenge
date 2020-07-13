@@ -23,14 +23,10 @@ Please describe the mission of your organization.: >-
   and amplify the voices of the most marginalized to change commonly held
   narratives and improve opportunities for our most impacted communities.  
 project_description: >-
-  Creative Acts’ Art Attacks program teaches incarcerated young people the 
-  value of their voice and the importance of participating in civic engagement 
-  through voting, and connecting with and finding leadership roles in organizations 
-  that are affecting change in their communities. We use community drawn art, spoken 
-  word poetry and other artistic endeavors to engage and inspire incarcerated youth 
-  to change their narratives about who they are and the impact they have. Our pilot 
-  program showed an 86% rise in voting for participants and facilitated deep connections 
-  between our incarcerated youth and the organization March for Our Lives.
+  Creative Acts’ Art Attacks program teaches incarcerated young people the value of their voice and the importance of participating in civic engagement through
+  voting, and connecting with and finding leadership roles in organizations that are affecting change in their communities. We use community drawn art, spoken word
+  poetry and other artistic endeavors to engage and inspire incarcerated youth to change their narratives about who they are and the impact they have. Our pilot
+  program showed an 86% rise in voting for participants and facilitated deep connections between our incarcerated youth and the organization March for Our Lives.
 Which LA2050 goal will your submission most impact?: LA is the best place to CONNECT
 In which areas of Los Angeles will you be directly working?:
   - >-
@@ -112,7 +108,15 @@ Are there any other LA2050 goal categories that your proposal will impact?:
   - LA is the best place to CREATE
   - LA is the best place to PLAY
 Has your proposal changed due to COVID-19?: >
-  Creative Acts is prepared to bring our Art Attacks program into juvenile camps virtually, if necessary, due to Covid-19 virus concerns. We are in talks with Los Angeles County Probation to use virtual technology such as Zoom to run classes that closely mirror the face to face program. Like many educators, we will need to revise our curriculum accordingly, but the core programming will stay the same: using activities and lessons rooted in the arts to help students find their voice, harness its power, and use it to become not only civically engaged members of their community, but also leaders in organizations that are tackling issues that directly affect systems impacted communities, such as our partners, March for Our Lives. In addition, programming online may provide the advantage of bringing March for Our Lives speakers into the class virtually who would otherwise be unable to enter the camps because they are under 18. We hope having communication with peers who have found leadership roles in their communities will inspire even more voter turnout and civic engagement from our students. In the unlikely event that virtual classes are not possible, Creative Acts is prepared to take the program to the same population outside of the youth facilities through local community centers and community-based organizations.
+  Creative Acts is prepared to bring our Art Attacks program into juvenile camps virtually, if necessary, due to Covid-19 virus concerns. We are in talks with Los
+  Angeles County Probation to use virtual technology such as Zoom to run classes that closely mirror the face to face program. Like many educators, we will need to
+  revise our curriculum accordingly, but the core programming will stay the same: using activities and lessons rooted in the arts to help students find their
+  voice, harness its power, and use it to become not only civically engaged members of their community, but also leaders in organizations that are tackling issues
+  that directly affect systems impacted communities, such as our partners, March for Our Lives. In addition, programming online may provide the advantage of
+  bringing March for Our Lives speakers into the class virtually who would otherwise be unable to enter the camps because they are under 18. We hope having
+  communication with peers who have found leadership roles in their communities will inspire even more voter turnout and civic engagement from our students. In the
+  unlikely event that virtual classes are not possible, Creative Acts is prepared to take the program to the same population outside of the youth facilities
+  through local community centers and community-based organizations.
 year: 2020
 category: connect
 filename: creative-acts
