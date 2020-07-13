@@ -3,7 +3,7 @@ published: true
 application_id: '7521434661'
 title: The LA 101 Guide to Local Government and Civic Engagement
 organization_description: A fiscally sponsored group
-project_video: ''
+project_video: 'https://youtu.be/8r9QAkdoEk4'
 link_donate: secure.actblue.com/donate/laforward
 link_volunteer: losangelesforward.org/get-involved-in-rapid-response
 link_newsletter: losangelesforward.org/newsletter
