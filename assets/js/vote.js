@@ -11,7 +11,8 @@
       !window.console ||
       !window.console.log ||
       !window.console.error ||
-      !window.console.dir
+      !window.console.dir ||
+      !window.location.origin
       ) return;
 
   var updateProgress
