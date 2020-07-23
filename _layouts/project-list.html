@@ -404,33 +404,29 @@ main > h1:first-child::before {
 
 {% include project-navigation.html %}
 
-{% assign winner_award_rank = 1 %}
+{% assign winner_award_rank = 0 %}
 
 <ul class="proposals {% if page.winners %}finalists{% endif %} {% if page.winners %}winners{% endif %}" id="project-list">
 
   {% comment %} Order alphabetically {% endcomment %}
   {% assign data_list = data_list | sort: "order" %}
 
+  {% comment %} SHIM: Sort the winners by their order in the config file (site.winners) {% endcomment %}
+  {% if page.winners == true %}
+    {% assign winner_list = "" | split: "," %}
+    {% for winner in site.winners %}
+      {% for data in data_list %}
+        {% if winner == data.url %}
+          {% assign winner_list = winner_list | push: data %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    {% assign data_list = winner_list %}
+  {% endif %}
+
   {% for data in data_list %}
 
   {% assign do_show_item = false %}
-
-  {% if winner_award_rank == 1 %}
-    {% assign winner_award_place = "1st Place" %}
-    {% assign winner_award_amount = "$100K" %}
-  {% elsif winner_award_rank == 2 %}
-    {% assign winner_award_place = "2nd Place" %}
-    {% assign winner_award_amount = "$50K" %}
-  {% elsif winner_award_rank == 3 %}
-    {% assign winner_award_place = "3rd Place" %}
-    {% assign winner_award_amount = "$25K" %}
-  {% elsif winner_award_rank == 4 %}
-    {% assign winner_award_place = "4th Place" %}
-    {% assign winner_award_amount = "$15K" %}
-  {% elsif winner_award_rank == 5 %}
-    {% assign winner_award_place = "5th Place" %}
-    {% assign winner_award_amount = "$10K" %}
-  {% endif %}
 
   {% assign is_finalist = false %}
   {% for finalist in site.finalists %}
@@ -455,6 +451,37 @@ main > h1:first-child::before {
   {% endif %}
 
   {% if do_show_item == true %}
+
+  {% if is_winner %}
+    {% if winner_award_rank == 0 %}
+      {% assign winner_award_rank = 1 %}
+    {% elsif winner_award_rank == 1 %}
+      {% assign winner_award_rank = 2 %}
+    {% elsif winner_award_rank == 2 %}
+      {% assign winner_award_rank = 3 %}
+    {% elsif winner_award_rank == 3 %}
+      {% assign winner_award_rank = 4 %}
+    {% elsif winner_award_rank == 4 %}
+      {% assign winner_award_rank = 5 %}
+    {% endif %}
+
+    {% if winner_award_rank == 1 %}
+      {% assign winner_award_place = "1st Place" %}
+      {% assign winner_award_amount = "$100K" %}
+    {% elsif winner_award_rank == 2 %}
+      {% assign winner_award_place = "2nd Place" %}
+      {% assign winner_award_amount = "$50K" %}
+    {% elsif winner_award_rank == 3 %}
+      {% assign winner_award_place = "3rd Place" %}
+      {% assign winner_award_amount = "$25K" %}
+    {% elsif winner_award_rank == 4 %}
+      {% assign winner_award_place = "4th Place" %}
+      {% assign winner_award_amount = "$15K" %}
+    {% elsif winner_award_rank == 5 %}
+      {% assign winner_award_place = "5th Place" %}
+      {% assign winner_award_amount = "$10K" %}
+    {% endif %}
+  {% endif %}
 
   {% if page.is_search_results %}<script type="text/template"
   data-organization_description="{{ data.organization_description }}"
@@ -555,16 +582,6 @@ main > h1:first-child::before {
           </a>
         </span>
       </p>
-
-    {% if winner_award_rank == 1 %}
-      {% assign winner_award_rank = 2 %}
-    {% elsif winner_award_rank == 2 %}
-      {% assign winner_award_rank = 3 %}
-    {% elsif winner_award_rank == 3 %}
-      {% assign winner_award_rank = 4 %}
-    {% elsif winner_award_rank == 4 %}
-      {% assign winner_award_rank = 5 %}
-    {% endif %}
 
 {% endfor %}
 
