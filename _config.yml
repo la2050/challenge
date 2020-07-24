@@ -83,11 +83,11 @@ VOTING_PERIOD_ENDED_TIME:          5pm Pacific Time
 
 # Voting period ended: 
 # July 20
-phase: 7
+# phase: 7
 
 # Winners announced: 
 # July 27
-# phase: 8
+phase: 8
 
 
 finalists:
