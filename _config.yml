@@ -18,9 +18,9 @@ voting_postponed: true
 
 show_early_entries: false
 finalists_chosen_by_public_vote: false
-redirect_winners_url: https://archive.la2050.org/search/?keywords=%222019+winner%22
-redirect_finalists_url: https://archive.la2050.org/search/?keywords=%222019+finalist%22
-redirect_entries_url: https://archive.la2050.org/search/?keywords=2019
+# redirect_winners_url: https://archive.la2050.org/search/?keywords=%222019+winner%22
+# redirect_finalists_url: https://archive.la2050.org/search/?keywords=%222019+finalist%22
+# redirect_entries_url: https://archive.la2050.org/search/?keywords=2019
 
 image_host: "https://images.la2050.org/challenge"
 
