@@ -30,13 +30,13 @@ _Proposal images for the challenge are stored in the [images.la2050.org](https:/
 
 As you make changes and commit/push them to GitHub, the [website](https://challenge.la2050.org) will automatically update.
 
-For example, if you [edit the about page](https://github.com/la2050/challenge/edit/master/about.markdown) on GitHub, and then press the “Commit changes” button–you should see your changes on the [about page](https://challenge.la2050.org/about/) of the website within a few minutes.
+For example, if you [edit the about page](https://github.com/la2050/challenge/edit/main/about.markdown) on GitHub, and then press the “Commit changes” button–you should see your changes on the [about page](https://challenge.la2050.org/about/) of the website within a few minutes.
 
 ## How to switch between contest phases
 
 The website is set up to show different content based on the current phase of the contest. To change which phase is active, you can follow these steps…
 
-1) Open the [configuration file](https://github.com/la2050/challenge/blob/master/_config.yml)
+1) Open the [configuration file](https://github.com/la2050/challenge/blob/main/_config.yml)
 
 2) Find the current phase, and comment it out by placing a `#` sign in front of it.
 
@@ -79,7 +79,7 @@ If you’d like to see how your changes will look on the website before making t
 
 You can make edits in the staging branch and commit them just as you would normally. They’ll automatically appear on the staging website within a few minutes.
 
-Once you’re happy with how your changes look on the staging website, you can copy them over to the [public website](https://challenge.la2050.org) (the `master` branch) using a pull request. Here are the steps:
+Once you’re happy with how your changes look on the staging website, you can copy them over to the [public website](https://challenge.la2050.org) (the `main` branch) using a pull request. Here are the steps:
 
 1. Press the “new pull request” button.
 
@@ -124,7 +124,7 @@ Some of the images on the website are available in multiple sizes, to save bandw
 npm install
 ```
 
-3) Place your images in the [assets/images/goals/original](https://github.com/la2050/challenge/tree/master/assets/images/goals/original) folder
+3) Place your images in the [assets/images/goals/original](https://github.com/la2050/challenge/tree/main/assets/images/goals/original) folder
 
 ```
 /assets/images/goals/original/connect.jpg
@@ -140,7 +140,7 @@ npm install
 npm run images:create
 ```
 
-If you want to generate a different set of images, you can edit the [gulpfile](https://github.com/la2050/challenge/blob/master/gulpfile.js) and then repeat the steps above.
+If you want to generate a different set of images, you can edit the [gulpfile](https://github.com/la2050/challenge/blob/main/gulpfile.js) and then repeat the steps above.
 
 ## Handy guides
 
