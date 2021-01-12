@@ -18,9 +18,9 @@ voting_postponed: false
 
 show_early_entries: false
 finalists_chosen_by_public_vote: false
-# redirect_winners_url: https://archive.la2050.org/search/?keywords=%222019+winner%22
-# redirect_finalists_url: https://archive.la2050.org/search/?keywords=%222019+finalist%22
-# redirect_entries_url: https://archive.la2050.org/search/?keywords=2019
+redirect_winners_url: https://archive.la2050.org/search/?keywords=%222020+winner%22
+redirect_finalists_url: https://archive.la2050.org/search/?keywords=%222020+winner%22
+redirect_entries_url: https://archive.la2050.org/search/?keywords=2020
 
 image_host: "https://images.la2050.org/challenge"
 
@@ -52,42 +52,29 @@ VOTING_PERIOD_ENDED_TIME:          5pm Pacific Time
 
 
 
-
 # New challenge announced: 
-# January 27
-# phase: 1
+phase: 1
 
-# Entries being accepted: 
-# February 3
+# Entries being accepted:
 # phase: 2
 
-# Early bird deadline:
-# March 1 ?
-# phase: ?
-
 # Entry period ended: 
-# April 3
 # phase: 3
 
 # Entries shown on the website: 
-# April 13
 # phase: 4
 
 # Finalists announced: 
-# May 25
 # phase: 5
 
 # Votes being accepted: 
-# July 13
 # phase: 6
 
 # Voting period ended: 
-# July 20
 # phase: 7
 
 # Winners announced: 
-# July 27
-phase: 8
+# phase: 8
 
 
 finalists:
