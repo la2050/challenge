@@ -55,7 +55,7 @@
 
 <h2>
   Welcome to the
-  <span class="avoid-break">2020 My LA2050</span>
+  <span class="avoid-break">{{ site.year }} My LA2050</span>
   <span class="avoid-break">Grants Challenge</span>
 </h2>
 
@@ -84,7 +84,7 @@ $10K
 : 5th place
 </div>
 
-Check out the [additional prizes offered by our 2020 grants challenge partners](https://challenge.la2050.org/partners/).
+Check out the [additional prizes offered by our {{ site.year }} grants challenge partners](/partners/).
 
 {% if site.phase == site.NEW_CHALLENGE_ANNOUNCED %}
 

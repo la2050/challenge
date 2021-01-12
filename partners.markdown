@@ -1,5 +1,5 @@
 ---
-title: Partners of the 2020 My LA2050 Grants Challenge
+title: Partners of the 2021 My LA2050 Grants Challenge
 body_class: tangerine
 main_class: standard-layout
 footer_image: true
@@ -9,7 +9,7 @@ stylesheets:
 
 # Our Partners
 
-## 2020 Partners
+## 2021 Partners
 
 The My LA2050 Grants Challenge is possible because of the support of many partners from across Los Angeles.
 

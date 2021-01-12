@@ -1,5 +1,5 @@
 ---
-title: FAQs for the 2020 My LA2050 Grants Challenge
+title: FAQs for the 2021 My LA2050 Grants Challenge
 body_class: tangerine
 footer_image: true
 stylesheets:
@@ -70,7 +70,7 @@ Following the lead of the My LA2050 finalists, we have decided to postpone the p
 ## What's new this year?
 </summary>
 
-The 2020 My LA2050 Grants Challenge is distinct from previous challenges in several ways:
+The {{ site.year }} My LA2050 Grants Challenge is distinct from previous challenges in several ways:
 * Each of the 25 finalist organizations that participate in voting will receive a grant. First place in each goal category will receive $100,000, second: $50,000, third: $25,000, fourth: $15,000, and fifth: $10,000.
 * We've selected Social Venture Partners Los Angeles to serve as our [external evaluation partner](/partners/). All proposals will be reviewed, scored, and evaluated by members of SVP.
 * We recently refreshed our [LA2050 goals and metrics](/about/#goals) to ensure we're keeping up with the most pressing issues in our region. 

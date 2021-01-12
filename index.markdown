@@ -1,5 +1,5 @@
 ---
-title: 2020 My LA2050 Grants Challenge
+title: 2021 My LA2050 Grants Challenge
 body_class: strawberry home
 main_class: standard-layout
 footer_image: true
