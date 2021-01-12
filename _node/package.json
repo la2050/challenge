@@ -15,9 +15,6 @@
     "concurrent-transform": "^1.0.0",
     "csv-parse": "^4.6.5",
     "csv-stringify": "^3.1.1",
-    "gulp": "^4.0.2",
-    "gulp-image-resize": "^0.13.1",
-    "gulp-imageoptim": "^1.0.9",
     "inline-css": "^2.6.1",
     "js-yaml": "^3.13.1",
     "mkdirp": "^1.0.4"
