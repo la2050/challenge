@@ -1,24 +1,8 @@
 source "https://rubygems.org"
 
-# https://github.com/rbenv/rbenv
-#
-# To upgrade to the latest rbenv and update ruby-build with newly released
-# Ruby versions, upgrade the Homebrew packages:
-#
-# $ brew upgrade rbenv ruby-build
-#
-# install a Ruby version:
-#
-# $ rbenv install 3.0.0
-#
-# Set a Ruby version to finish installation and start using commands
-#
-# $ rbenv local 3.0.0
-
-# Latest available Ruby version on Netlify
+# https://pages.github.com/versions/
 ruby "2.7.1"
+gem "github-pages", "209"
 
-gem "jekyll", "~> 4.2"
-
-# https://github.com/jekyll/jekyll/issues/8523
-gem "webrick", "~> 1.7"
+# https://github.com/la2050/challenge/security/dependabot/Gemfile.lock/nokogiri/open
+gem "nokogiri", ">= 1.11.0.rc4"
