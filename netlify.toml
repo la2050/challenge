@@ -1,5 +1,0 @@
-
-# https://docs.netlify.com/configure-builds/file-based-configuration/#sample-file
-[build]
-  publish = "_site/"
-  command = "bundle exec jekyll build"
