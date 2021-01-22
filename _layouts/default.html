@@ -261,11 +261,18 @@
   <main {% if page.main_class %} class="{{ page.main_class }}"{% elsif layout.main_class %} class="{{ layout.main_class }}"{% endif %}>
     {{ content }}
     {% if page.footer_image %}
-    <figure class="standard-figure has-caption">
-      <img id="footer-photo" style="filter: grayscale(1);" src="/assets/images/home/384-wide/lamas.jpg" srcset="/assets/images/home/384-wide/lamas.jpg 384w, /assets/images/home/512-wide/lamas.jpg 512w, /assets/images/home/768-wide/lamas.jpg 768w, /assets/images/home/1024-wide/lamas.jpg 1024w, /assets/images/home/1536-wide/lamas.jpg 1536w, /assets/images/home/2048-wide/lamas.jpg 2048w" sizes="100vw" alt="Photo of a group of people talking and sharing a meal, outdoors in a neighborhood" />
+    <figure class="standard-figure has-caption footer-figure">
+      <!--
+      <img id="footer-photo" src="/assets/images/home/384-wide/lamas.jpg" srcset="/assets/images/home/384-wide/lamas.jpg 384w, /assets/images/home/512-wide/lamas.jpg 512w, /assets/images/home/768-wide/lamas.jpg 768w, /assets/images/home/1024-wide/lamas.jpg 1024w, /assets/images/home/1536-wide/lamas.jpg 1536w, /assets/images/home/2048-wide/lamas.jpg 2048w" sizes="100vw" alt="Photo of a group of people talking and sharing a meal, outdoors in a neighborhood" />
       <figcaption class="caption">
         <span>Join us in working toward a better Los Angeles.</span>
-        <small id="footer-photo-credit">Photo by <a href="https://archive.la2050.org/evolve-la-project-of-la-más/">LA Más</a></small>
+        <small id="footer-photo-credit">Photo by <a href="https://archive.la2050.org/evolve-la-project-of-la-más/">LA Más</a>, <span>2020</span></small>
+      </figcaption>
+      -->
+      <img id="footer-photo" />
+      <figcaption class="caption">
+        <span>Join us in working toward a better Los Angeles.</span>
+        <small id="footer-photo-credit">Photo by <a href=""></a><span></span></small>
       </figcaption>
     </figure>
     {% endif %}
@@ -304,6 +311,10 @@
       if (link) {
         link.setAttribute("href", "https://archive.la2050.org" + featuredOrganization.url);
         link.textContent = featuredOrganization.title;
+      }
+      var year = photoCredit.querySelector("span");
+      if (year && featuredOrganization.year) {
+        year.textContent = ", " + featuredOrganization.year;
       }
     }
   })();

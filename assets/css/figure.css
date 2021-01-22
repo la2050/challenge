@@ -176,3 +176,19 @@
       } 
     }
   }*/
+
+
+
+.footer-figure.standard-figure.has-caption::before {
+  background-color: var(--primary-color);
+  opacity: 0.5;
+  mix-blend-mode: color;
+  z-index: 1;
+}
+.footer-figure.standard-figure.has-caption img {
+  filter: grayscale(1);
+}
+.footer-figure.standard-figure.has-caption .caption {
+  z-index: 2;
+}
+
