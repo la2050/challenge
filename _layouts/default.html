@@ -272,7 +272,7 @@
   </main>
 
   {% if page.footer_image %}
-  <!-- <script src="https://archive.la2050.org/api/featured.js"></script> -->
+  <script src="https://archive.la2050.org/api/featured.js"></script>
 
   <script>
 
@@ -307,7 +307,7 @@
       }
       var year = photoCredit.querySelector("span");
       if (year && featuredOrganization.year) {
-        year.textContent = ", " + featuredOrganization.year;
+        year.textContent = featuredOrganization.year;
       }
     }
   })();
