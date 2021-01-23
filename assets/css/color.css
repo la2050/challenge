@@ -134,6 +134,7 @@
   }
 
   /* SHIM: Make the colors work a little differently on the home page */
+  /*
   .home.strawberry main {
     --primary-color: var(--blueberry);
     --primary-color-readability: var(--blueberry);
@@ -142,4 +143,5 @@
     --primary-color: var(--blueberry);
     --primary-color-readability: var(--blueberry);
   }
+  */
 
