@@ -1,57 +1,65 @@
-<h1 style="padding-top: 0; padding-bottom: 0; display: grid;">
+<h1 class="home-intro">
+  {% comment %}
   {% include city.html %}
-  <span style="grid-column: 1/-1; grid-row: 1/-1; align-self: center; font-size: 5vmax; z-index: 2;">What will you do to<br />make LA the best place<span id="headline-goal" style="display: none"> to<br /><a href="/about/#goals" style="text-decoration: none"><strong style="color: inherit;">Live</strong></a></span>?</span>
-  <script>
-  (function() {
-    // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
-    function getRandomInt(max) {
-      return Math.floor(Math.random() * Math.floor(max));
-    }
-    const goals = [
-      "Learn",
-      "Create",
-      "Play",
-      "Connect",
-      "Live"
-    ];
-    const colors = [
-      "blueberry",
-      "banana",
-      "strawberry",
-      "tangerine",
-      "lime"
-    ];
-    let cursor = getRandomInt(goals.length);
-    function update() {
-      const goal = document.getElementById("headline-goal");
-      if (goal) {
-        const goalText = goal.querySelector("a");
-        if (goalText) {
-          cursor++;
-          if (cursor >= goals.length) cursor = 0;
-          goalText.textContent = goals[cursor];
-          goalText.style.color = `var(--${colors[cursor]})`;
-          goal.style.display = null;
-        }
-      }
-    }
-    setInterval(update, 2000);
-    update();
-  })()
-  </script>
-  <style>
-    main > h1:first-child::before {
-      content: "";
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background-color: rgba(0, 0, 0, 0.25);
-      background-image: none;
-    }
-  </style>
+  {% endcomment %}
+
+  <span class="home-intro__image"></span>
+  <span class="home-intro__text">
+    $1 million<br />
+    25 winners<br />
+    One year to shape LA<br />
+  </span>
 </h1>
+
+<style>
+  .home-intro {
+    padding-top: 0;
+    padding-bottom: 0;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto;
+    grid-gap: 3em;
+  }
+  .home-intro__text {
+    text-align: start;
+
+    grid-column: 1 / -1;
+    grid-row: 1 / 2;
+    align-self: start;
+    justify-self: center;
+    font-size: 5vmax;
+    z-index: 2;
+    text-transform: uppercase;
+  }
+  .home-intro__image {
+    grid-column: 1 / -1;
+    grid-row: -2 / -1;
+    align-self: start;
+    border: 1rem solid white;
+    width: auto;
+    height: calc(100vh - 12em);
+
+    opacity: 0.5;
+  }
+  @media (min-aspect-ratio: 1/1) {
+    .home-intro {
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: 1fr;
+    }
+    .home-intro__text {
+      grid-column: 1 / -1;
+      grid-row: 1 / -1;
+      align-self: center;
+      justify-self: start;
+    }
+    .home-intro__image {
+      grid-column: -2 / -1;
+      grid-row: 1 / -1;
+      align-self: center;
+      height: calc(100vh - 12em);
+    }
+  }
+</style>
 
 <h2>
   Welcome to the
@@ -67,7 +75,93 @@ We need your help to turn the LA2050 goals and metrics into action.
 
 <p markdown="1" style="margin-top: 1.5em; margin-bottom: 0;">In each of the five [goal categories](/about/#goals), the awards will be…</p>
 
-<div class="numbers" markdown="1">
+<style>
+.awards {
+  text-align: center;
+  margin-top: 3em;
+  margin-bottom: 3em;
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-row-gap: 1em;
+  padding: 3em;
+  border: 0.25em solid var(--primary-color);
+}
+.awards > h3 {
+  margin-top: -3.25em;
+  margin-bottom: 0;
+  grid-column: 1 / -1;
+  font-size: 2em;
+  justify-self: center;
+  color: unset;
+  background: white;
+  padding: 1em;
+}
+.awards > section {
+  background: hsla(180, 0%, 90%, 1);
+  padding: 1em;
+}
+.awards > section > h4 {
+  position: absolute;
+  opacity: 0;
+  font-size: 0;
+}
+.awards > section dl {
+  margin: 0;
+}
+.awards > section dt {
+  font-size: 2em;
+  font-weight: bold;
+  font-style: italic;
+}
+.awards > section dd + dt {
+  margin-top: 0.5em;
+}
+.awards > section dd {
+  margin-left: 0;
+  color: var(--primary-color);
+  text-transform: uppercase;
+}
+.awards > .blueberry {
+  background: var(--blueberry-very-bright);
+}
+.awards > .strawberry {
+  background: var(--strawberry-very-bright);
+}
+.awards > .tangerine {
+  background: var(--tangerine-very-bright);
+}
+.awards > .lime {
+  background: var(--lime-very-bright);
+}
+.awards > .banana {
+  background: var(--banana-very-bright);
+}
+@media (min-aspect-ratio: 3/2) {
+  .awards {
+    text-align: unset;
+    grid-template-columns: repeat(5, 1fr);
+    grid-row-gap: unset;
+    grid-column-gap: 1em;
+    font-size: 1vmax;
+  }
+}
+/* @media (min-width: 70em) {
+  .awards {
+    grid-template-columns: repeat(5, 1fr);
+    grid-row-gap: unset;
+    grid-column-gap: 1em;
+  }
+} */
+</style>
+
+<section class="awards" markdown="1">
+
+### 25 Organizations
+
+<section class="blueberry" markdown="1">
+#### Learn
+
 $100K
 : 1st place
 
@@ -82,7 +176,85 @@ $15K
 
 $10K
 : 5th place
-</div>
+</section>
+
+<section class="strawberry" markdown="1">
+#### Play
+
+$100K
+: 1st place
+
+$50K
+: 2nd place
+
+$25K
+: 3rd place
+
+$15K
+: 4th place
+
+$10K
+: 5th place
+</section>
+
+<section class="banana" markdown="1">
+#### Create
+
+$100K
+: 1st place
+
+$50K
+: 2nd place
+
+$25K
+: 3rd place
+
+$15K
+: 4th place
+
+$10K
+: 5th place
+</section>
+
+<section class="lime" markdown="1">
+#### Live
+
+$100K
+: 1st place
+
+$50K
+: 2nd place
+
+$25K
+: 3rd place
+
+$15K
+: 4th place
+
+$10K
+: 5th place
+</section>
+
+<section class="tangerine" markdown="1">
+#### Connect
+
+$100K
+: 1st place
+
+$50K
+: 2nd place
+
+$25K
+: 3rd place
+
+$15K
+: 4th place
+
+$10K
+: 5th place
+</section>
+
+</section>
 
 Check out the [additional prizes offered by our {{ site.year }} grants challenge partners](/partners/).
 
