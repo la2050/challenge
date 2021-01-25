@@ -5,9 +5,10 @@
 
   <span class="home-intro__image"></span>
   <span class="home-intro__text">
-    $1 million<br />
-    25 winners<br />
-    One year to shape LA<br />
+    Toward<br />
+    a Brighter<br />
+    Future,<br />
+    Together.<br />
   </span>
 </h1>
 
