@@ -1,9 +1,33 @@
 <h1 class="home-intro">
-  {% comment %}
-  {% include city.html %}
-  {% endcomment %}
+  {% include balcony.html %}
+</h1>
+<style>
+  main > h1:first-child {
+    margin-top: 0;
+    padding-top: 0;
+    padding-bottom: 4.5rem;
+  }
+  main > h1:first-child svg {
+    padding: unset;
+    border-radius: unset;
+    width: unset;
+    height: unset;
+    background: unset;
+    color: unset;
+    margin-top: unset;
+  }
+  main > .home-intro svg {
+    width: 100%;
+    height: auto;
+  }
+</style>
 
-  <span class="home-intro__image"></span>
+{% comment %}
+<h1 class="home-intro">
+  <!-- <span class="home-intro__image">
+    {% include city.html %}
+  </span> -->
+  <img class="home-intro__image" src="/assets/images/balcony.jpg" alt="" />
   <span class="home-intro__text">
     Toward<br />
     a Brighter<br />
@@ -36,15 +60,19 @@
     grid-column: 1 / -1;
     grid-row: -2 / -1;
     align-self: start;
-    border: 1rem solid white;
-    width: auto;
-    height: calc(100vh - 12em);
-
-    opacity: 0.5;
+    width: 100%;
+    height: auto;
+    margin: 0;
   }
+  /* .home-intro__image img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid blue;
+  } */
   @media (min-aspect-ratio: 1/1) {
     .home-intro {
-      grid-template-columns: 1fr 1fr;
+      grid-template-columns: 2fr 3fr;
       grid-template-rows: 1fr;
     }
     .home-intro__text {
@@ -57,10 +85,13 @@
       grid-column: -2 / -1;
       grid-row: 1 / -1;
       align-self: center;
-      height: calc(100vh - 12em);
+      justify-self: center;
     }
+    /* .home-intro__image img {
+    } */
   }
 </style>
+{% endcomment %}
 
 <h2>
   Welcome to the
