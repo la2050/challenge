@@ -20,6 +20,12 @@
     width: 100%;
     height: auto;
   }
+  @media (min-width: 60em) {
+    main > .home-intro {
+      padding-right: 4.5rem !important;
+      padding-left: 7.5rem !important;
+    }
+  }
 </style>
 
 {% comment %}
