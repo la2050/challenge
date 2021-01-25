@@ -94,7 +94,7 @@
 {% endcomment %}
 
 <h2>
- A note to Angelenos
+ In solidarity with Los Angeles
 </h2>
 
 Over the past year, the people of Los Angeles have faced innumerable hardships as COVID-19 devastated our communities and upended our lives. 
