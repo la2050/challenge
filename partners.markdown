@@ -18,20 +18,11 @@ The My LA2050 Grants Challenge is possible because of the support of many partne
 [![The Goldhirsh Foundation](/assets/images/partners/goldhirsh-foundation.png)](https://goldhirshfoundation.org)
 : The Goldhirsh Foundation, founder of the My LA2050 Grants Challenge, providing $1,000,000 in grant funds
 
-[![The Annenberg Foundation](/assets/images/partners/annenberg-foundation.png)](https://annenberg.org)
-: The Annenberg Foundation, providing $50,000 in grant funds to support efforts in diversity, equity, and inclusion
-
 [![Snap Foundation](/assets/images/partners/snap-foundation.png)](https://snapfoundation.org)
 : The Snap Foundation, supporting projects that develop pathways to the creative economy for underrepresented youth in Los Angeles
 
-[![Citi](/assets/images/partners/citi.jpg)](https://www.citigroup.com/citi/)
-: Citi, providing $25,000 in funding for small business development, financial inclusion, and housing with a special focus on projects that address the racial wealth gap in Los Angeles
-
-[![Second Home](/assets/images/partners/second-home.png)](https://secondhome.io/location/hollywood/?utm_medium=partner_email&utm_source=referral&utm_campaign=la2050)
-: Second Home Hollywood, offering $60,000 in donated space for co-working, meeting, and events for select winning organizations
-
 [![Social Venture Partners Los Angeles](/assets/images/partners/social-venture-partners.jpg)](https://www.svpla.org/)
-: We are proud to have Social Venture Partners Los Angeles (SVP) as our external evaluation partner. SVP is a membership organization that connects community leaders to nonprofits to tackle Los Angeles' toughest challenges. All proposals are reviewed, scored, and evaluated by members of SVP.
+: Additionally, we are proud to have Social Venture Partners Los Angeles (SVP) as our external evaluation partner. SVP is a membership organization that connects community leaders to nonprofits to tackle Los Angeles' toughest challenges. All proposals are reviewed, scored, and evaluated by members of SVP.
 
 ### Outreach Partners
 
