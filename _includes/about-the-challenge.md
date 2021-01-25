@@ -20,12 +20,6 @@
     width: 100%;
     height: auto;
   }
-  @media (min-width: 60em) {
-    main > .home-intro {
-      padding-right: 4.5rem !important;
-      padding-left: 7.5rem !important;
-    }
-  }
 </style>
 
 {% comment %}
@@ -100,6 +94,17 @@
 {% endcomment %}
 
 <h2>
+ A note to Angelenos
+</h2>
+
+Over the past year, the people of Los Angeles have faced innumerable hardships as COVID-19 devastated our communities and upended our lives. 
+
+The nonprofit organizations, government entities, and for-profit companies that comprise LA’s social impact sector have stood on the frontlines and responded with care and courage. While we are certainly not surprised, we are in awe of our sector’s determination to serve our region through it all—quickly transitioning to safe, physically-distant service models, implementing innovative digital programming, and pivoting to respond to urgent and emergent needs.
+
+It has never been more clear that our path toward a brighter future relies on Angelenos coming together in the present. And, with that spirit of shared responsibility and collective hope in mind, we are proud to present our eighth My LA2050 Grants Challenge.
+
+
+<h2>
   Welcome to the
   <span class="avoid-break">{{ site.year }} My LA2050</span>
   <span class="avoid-break">Grants Challenge</span>
@@ -107,7 +112,7 @@
 
 LA2050 is a community-guided initiative driving and tracking progress toward a shared vision for the future of Los Angeles centered around [five goals and tracked via 65+ regional progress metrics](/about/#goals). <br /><br /><strong>The My LA2050 Grants Challenge is an open call for ideas to make LA the best place to learn, create, play, connect, and live.</strong>
 
-We need your help to turn the LA2050 goals and metrics into action.
+We need your help to turn the [LA2050 goals and metrics](/about/#goals) into action.
 
 <strong>A total of $1,000,000 will be awarded among 25 organizations</strong> to implement their proposals. Each organization will receive grant funds and [partnership from LA2050](/about/#la2050-partnership) to support its efforts. Additional funding and prizes will be awarded by [this year's My LA2050 partners](https://challenge.la2050.org/partners/).
 
@@ -300,7 +305,7 @@ Check out the [additional prizes offered by our {{ site.year }} grants challenge
 
 Starting **{{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}** <small>({{ site.ENTRIES_BEING_ACCEPTED_TIME }})</small>, you can <a href="/submit/#guidelines">submit</a> your proposal on this website.
 
-Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
+Read our <a href="/submit/#guidelines">application guidelines</a>.
 
 {% elsif site.phase == site.ENTRIES_BEING_ACCEPTED %}
 
@@ -356,7 +361,7 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
 </p>
 <p>
   <a href="/entries/">Check out the proposals</a>.
-  Winners will be announced on 
+  Finalists will be announced on 
   <span class="avoid-break">
     <strong>{{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
   </span>
@@ -364,7 +369,7 @@ Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
 
 {% elsif site.phase == site.FINALISTS_ANNOUNCED %}
 
-<p><em>The finalists have been announced!</em></p>
+<p><em>The finalists have been selected!</em></p>
 <p>
   <a href="/finalists/">Check out the finalists</a>.
   Winners will be announced on 
@@ -396,7 +401,7 @@ Finalists will be selected using the following criteria:
 * Impact on people served
 * Overall application quality
 
-Finalists will represent a diversity of issues and activities. For more information, view the [full scorecard](https://drive.google.com/drive/folders/11Wk6lF_aHEq4tljPPkvnNAZl07JrUjzX).
+Finalists will represent a diversity of issues and activities. For more information, view the [full scorecard](https://drive.google.com/drive/folders/1sKLxEqY0AMN1xpwgTKUIv-6d03puPkm4).
 
 **Award levels will be determined via public vote.** Voters will determine which organizations place first ($100,000), second ($50,000), third ($25,000), fourth ($15,000), and fifth ($10,000) in each goal category. All 25 finalists that participate in the voting stage will receive a grant, with five grants distributed at each dollar amount (e.g., there will be five $100,000 winners).
 
@@ -443,7 +448,7 @@ Starting <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</
 {% elsif site.phase == site.WINNERS_ANNOUNCED %}
 
 <p><em>The winners have been announced!</em></p>
-<p><a href="/winners/">Check out the winners</a></p>
+<p><a href="/winners/">Check out the winning proposals.</a></p>
 
 {% endif %}
 
