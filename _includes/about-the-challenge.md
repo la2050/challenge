@@ -127,14 +127,14 @@ We need your help to turn the [LA2050 goals and metrics](/about/#goals) into act
   display: grid;
   grid-template-columns: repeat(1, 1fr);
   grid-row-gap: 1em;
-  padding: 3em;
+  padding: 1.5em;
   border: 0.25em solid var(--primary-color);
 }
 .awards > h3 {
   margin-top: -3.25em;
   margin-bottom: 0;
   grid-column: 1 / -1;
-  font-size: 2em;
+  font-size: 1.5em;
   justify-self: center;
   color: unset;
   background: white;
@@ -153,7 +153,7 @@ We need your help to turn the [LA2050 goals and metrics](/about/#goals) into act
   margin: 0;
 }
 .awards > section dt {
-  font-size: 2em;
+  font-size: 1.5em;
   font-weight: bold;
   font-style: italic;
 }
@@ -187,6 +187,11 @@ We need your help to turn the [LA2050 goals and metrics](/about/#goals) into act
     grid-row-gap: unset;
     grid-column-gap: 1em;
     font-size: 1vmax;
+    padding: 3em;
+  }
+  .awards > h3,
+  .awards > section dt {
+    font-size: 2em;
   }
 }
 /* @media (min-width: 70em) {
