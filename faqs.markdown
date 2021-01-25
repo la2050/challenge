@@ -40,27 +40,29 @@ Are you a registered nonprofit, for-profit, fiscally-sponsored, or governmental 
 <details class="faq" markdown="1">
 
 <summary markdown="1">
+## With all that’s going on around COVID-19, we’re not sure how to plan ahead or what activities we’re allowed to request funding for. What should we do?
+</summary>
+We understand how difficult it is to plan for a year-long grant period in our current context. 
+We plan to be accommodating and flexible with our 25 winners, working with them over the course of their grant to adjust planned activities according to evolving public health guidelines and to ensure there is space to respond to emergent needs.
+
+And, while we’d love to be optimistic and assume that in-person gatherings will be permitted sometime between now and the end of the grant period in August 2022, we can’t be sure. For that reason, please ensure that the activities described in your application align with current Los Angeles County public health guidelines, such as restrictions on in-person gatherings, except for those activities deemed essential (e.g., food distribution, medical services, etc.). 
+
+If you anticipate that guidelines in Los Angeles County will change in the next year to allow for your organization to conduct activities that are currently restricted (e.g., in-person educational instruction) please explain on your application what you will do under both circumstances.
+
+Please note that applications that do not account for COVID-19 restrictions and precautions may be disqualified. If you have any questions, please feel free to email connect@la2050.org.
+
+</details>
+
+
+
+<details class="faq" markdown="1">
+
+<summary markdown="1">
 ## With all that’s going on around COVID-19, we’re worried our proposal might be affected. What should we do?
 </summary>
 We understand that submissions involving events, direct service, and other activities might be impacted by concerns surrounding COVID-19. Please apply assuming that all will return to normal (we certainly hope it does!), and in the event that it does not, we’ll work with you to adjust as needed.
 
 </details>
-
-
-
-{% if site.voting_postponed == true %}
-<details class="faq" markdown="1">
-
-<summary markdown="1">
-## Why was public voting postponed?
-</summary>
-
-LA2050 stands in solidarity with those who are calling for justice in Los Angeles and in our nation. Like all of you, we are grieving for our city right now, listening to the outrage of protesters, and demanding action of our leadership. 
-
-Following the lead of the My LA2050 finalists, we have decided to postpone the public voting portion of the My LA2050 Grants Challenge by one month. We are proud of our finalists who are on the frontlines of advocacy and service in LA and want to support them in focusing their resources at this crucial time. Voting will now take place from {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.VOTES_BEING_ACCEPTED_TIME }}) through {{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.VOTING_PERIOD_ENDED_TIME }}).
-
-</details>
-{% endif %}
 
 
 
@@ -70,7 +72,7 @@ Following the lead of the My LA2050 finalists, we have decided to postpone the p
 ## What's new this year?
 </summary>
 
-The {{ site.year }} My LA2050 Grants Challenge is distinct from previous challenges in several ways:
+The {{ site.year }} My LA2050 Grants Challenge will follow the exact same process as the 2020 grants challenge:
 * Each of the 25 finalist organizations that participate in voting will receive a grant. First place in each goal category will receive $100,000, second: $50,000, third: $25,000, fourth: $15,000, and fifth: $10,000.
 * We've selected Social Venture Partners Los Angeles to serve as our [external evaluation partner](/partners/). All proposals will be reviewed, scored, and evaluated by members of SVP.
 * We recently refreshed our [LA2050 goals and metrics](/about/#goals) to ensure we're keeping up with the most pressing issues in our region. 
@@ -84,7 +86,7 @@ The {{ site.year }} My LA2050 Grants Challenge is distinct from previous challen
 <summary markdown="1">
 ## Do you receive inquiries or answer questions about the challenge via telephone?
 </summary>
-Unfortunately, we do not take phone calls or meetings during this time due to the number of inquiries we receive. We are happy to answer your questions via email at connect@la2050.org.
+Unfortunately, we do not take phone calls or meetings during this time due to the number of inquiries we receive. If you have questions, please consider attending one of our [live office hours webinars on February 9, February 26, or March 19](/office-hours/). We are also happy to answer your questions any time via email at connect@la2050.org.
 
 </details>
 
@@ -121,7 +123,7 @@ Beyond the potential to receive a grant for your work, we believe that applying 
 
 We’re open! But here are some ideas about what we’re looking for:
 
-* Bold efforts that will produce measurable wins for the LA region
+* Bold ideas that will produce measurable wins for the LA region
 * A spirit of collaboration and desire to unify and amplify collective efforts
 * Clear focus on inclusion, diversity of voices, and equity
 * Efforts that not only produce positive results, but are also focused on increasing local engagement and civic participation
@@ -138,7 +140,7 @@ Both new and existing projects are eligible for submission. All winning projects
 <summary markdown="1">
 ## Does the program have to serve all of Los Angeles (City or County)? 
 </summary>
-No! Your project may zero-in on a particular neighborhood, community, city, or region in Los Angeles County. It’s up to you.
+No! Your project may serve our broader region or zero-in on a particular neighborhood, community, city, or region in Los Angeles County. It’s up to you.
 
 </details>
 
@@ -149,7 +151,7 @@ No! Your project may zero-in on a particular neighborhood, community, city, or r
 <summary markdown="1">
 ## We are a small organization with a small social media following. How can we compete with larger organizations in voting?
 </summary>
-In general, we've seen both small and large organizations do well in the voting stage. It's less about the size of your list, and more about knowing how to correctly engage the audience you do have. If you do get to the voting stage, we provide EVERY finalist with a GOTV guide full of social media copy, graphics, and ideas for engaging your network. You don't need a large social media following to win votes. Ultimately, we've found that social media is only a small contributor to the outcome of voting. 
+In general, we’ve seen both small and large organizations do well in the voting stage. It’s less about the size of your list, and more about knowing how to correctly engage the audience you do have. If you do get to the voting stage, we provide EVERY finalist with a GOTV guide full of social media copy, graphics, and ideas for engaging your network. Ultimately, we’ve found that social media is only a small contributor to the outcome of voting and that you don’t need a massive following to do well in the voting period.
 
 </details>
 
@@ -200,9 +202,9 @@ Applicants should not expect to be able to revise their applications after the s
 
 Your application goes through a moderation process, and will show up on the site if it is approved. If we have questions about your application, we will be in touch.
 
-Read [the application and scorecard](https://drive.google.com/drive/folders/11Wk6lF_aHEq4tljPPkvnNAZl07JrUjzX?usp=sharing) to get a more precise idea of what we want to see. 
+Read [the application and scorecard](https://drive.google.com/drive/u/0/folders/1sKLxEqY0AMN1xpwgTKUIv-6d03puPkm4) to get a more precise idea of what we want to see. 
 
-Check out the [LA2050 Goals](/about/#goals), the [LA2050 Report](https://la2050.s3-us-west-1.amazonaws.com/reports/1/pdfs/vision_for_a_successful_los_angeles.pdf), and our most recent Submissions Report for additional information.
+Check out the [LA2050 Goals](/about/#goals), the [LA2050 Report](https://la2050.s3-us-west-1.amazonaws.com/reports/1/pdfs/vision_for_a_successful_los_angeles.pdf), and our most recent [Submissions Report](https://la2050.s3-us-west-1.amazonaws.com/reports/17/pdfs/2020_Submissions_Report_%281%29.pdf?1603132227) for additional information.
 
 </details>
 
