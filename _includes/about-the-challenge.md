@@ -463,6 +463,20 @@ Starting <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</
 
 <section class="standard-section timeline" id="dates"><div markdown="1">
 
+<style>
+  /* SHIM: Balance space above/below timeline */
+  main > .timeline {
+    margin-top: 6em !important;
+    padding-bottom: 6em;
+  }
+  @media (min-width: 40em) {
+    main > .timeline {
+      margin-top: 1.5em !important;
+      padding-bottom: 9em;
+    }
+  }
+</style>
+
 <h2>Timeline</h2>
 
 {% include timeline.html %}

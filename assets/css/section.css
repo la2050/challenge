@@ -65,6 +65,7 @@
     padding-top: 0;
   }
 
+
   main > .timeline dl {
     color: inherit; /* @blueberry */
     text-align: left;
@@ -82,10 +83,7 @@
       background-position: 4.5em 0;
     }
   } */
-  
-  main > .timeline {
-    padding-bottom: 6em;
-  }
+
   main > .timeline h2 {
     margin-top: 1.5em;
     margin-bottom: 0.75em;
