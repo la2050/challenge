@@ -11,9 +11,9 @@ stylesheets:
 
 ## Questions? <br>Join us for a webinar!
 
-We are hosting three live webinars for applicants to the My LA2050 Grants Challenge to learn more about how to submit and what to expect from the process. Each webinar will feature the same content and include time for attendee Q+A.
+We are hosting three live, virtual office hours for applicants to the My LA2050 Grants Challenge to learn more about how to submit and what to expect from the process. Each webinar will feature the same content and include time for attendee Q+A.
 
-_Please click on one of the links below, depending on which date works best for you, and you will be redirected to register through Zoom._
+_Please click on one of the links below, depending on which date works best for you, and you will be redirected to register for the webinar through Zoom._
 
 [Tuesday, February 9, 2021](https://us02web.zoom.us/webinar/register/WN_FgUs5OZmRVCRninBpbVsIA)
 : from 11:00 am to 12:00 pm (PT)
