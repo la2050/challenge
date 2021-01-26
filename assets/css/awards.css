@@ -21,7 +21,8 @@
     justify-self: center;
     color: unset;
     background: white;
-    padding: 1em 1em 1.125em 1em;
+    padding: 1em 1.75em 1em 1.75em;
+    text-transform: lowercase;
   }
   .awards > section {
     background: hsla(180, 0%, 90%, 1);
@@ -64,13 +65,13 @@
   .awards > .banana {
     background: var(--banana-very-bright);
   }
-  @media (min-width: 70em) {
+  @media (min-width: 50em) {
     .awards {
       text-align: unset;
       grid-template-columns: repeat(5, 1fr);
       grid-row-gap: unset;
       grid-column-gap: 1em;
-      font-size: 1vmax;
+      font-size: 1.25vmax;
       padding: 3em;
     }
     .awards > h3,
