@@ -58,21 +58,6 @@ Please note that applications that do not account for COVID-19 restrictions and 
 <details class="faq" markdown="1">
 
 <summary markdown="1">
-## What's new this year?
-</summary>
-
-The {{ site.year }} My LA2050 Grants Challenge will follow the exact same process as the 2020 grants challenge:
-* Each of the 25 finalist organizations that participate in voting will receive a grant. First place in each goal category will receive $100,000, second: $50,000, third: $25,000, fourth: $15,000, and fifth: $10,000.
-* We've selected Social Venture Partners Los Angeles to serve as our [external evaluation partner](/partners/). All proposals will be reviewed, scored, and evaluated by members of SVP.
-* We recently refreshed our [LA2050 goals and metrics](/about/#goals) to ensure we're keeping up with the most pressing issues in our region. 
-
-</details>
-
-
-
-<details class="faq" markdown="1">
-
-<summary markdown="1">
 ## Do you receive inquiries or answer questions about the challenge via telephone?
 </summary>
 Unfortunately, we do not take phone calls or meetings during this time due to the number of inquiries we receive. If you have questions, please consider attending one of our [live office hours webinars on February 9, February 26, or March 19](/office-hours/). We are also happy to answer your questions any time via email at connect@la2050.org.
