@@ -148,7 +148,7 @@
     @media (min-width: 40em) {
       .promotion {
         display: grid;
-        grid-template-columns: auto auto;
+        grid-template-columns: 2fr 1fr;
         grid-gap: 2.25em;
       }
       .promotion h1,
@@ -157,11 +157,13 @@
         text-align: end;
         margin: 0;
         align-self: center;
+        max-width: unset;
       }
       .promotion .action {
         justify-self: start;
         margin: 0;
         align-self: center;
+        text-align: center;
       }
     }
   }

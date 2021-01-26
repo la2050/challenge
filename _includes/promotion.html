@@ -1,7 +1,7 @@
 {% if site.phase == site.NEW_CHALLENGE_ANNOUNCED %}
 
       <p>
-        Submissions open on {{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%B %-d, %Y" }}.<br />
+        Submissions open on {{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%B %-d, %Y" }}.
         <span class="avoid-break"><a href="/submit/">Read the guidelines</a> and sign up for one of our upcoming <a href="{{ site.office_hours_url }}">office hours</a> webinars.</span>
       </p>
       <p class="action">
@@ -11,15 +11,9 @@
 {% elsif site.phase == site.ENTRIES_BEING_ACCEPTED %}
 
       <p>
-        Apply today! Submissions are open now through {{ site.ENTRY_PERIOD_ENDED_DATE | date: "%B %-d, %Y" }}.<br />
+        Apply today! Submissions are open now through {{ site.ENTRY_PERIOD_ENDED_DATE | date: "%B %-d, %Y" }}.
         <span class="avoid-break"><a href="/submit/">Read the guidelines</a> and sign up for one of our upcoming <a href="{{ site.office_hours_url }}">office hours</a> webinars.</span>
       </p>
-
-      {% comment %}
-      <p>
-        DEADLINE EXTENDED: Submissions are open now through {{ site.ENTRY_PERIOD_ENDED_DATE | date: "%B %-d, %Y" }}.<br />
-            <span class="avoid-break"><a href="/submit/">Read the guidelines</a> and apply today!</p>
-      {% endcomment %}
 
       <p class="action">
         <a href="{{ site.submission_url }}">Submit your idea</a>
@@ -50,7 +44,6 @@
       <p class="action">
         <a href="/entries/">Check out the proposals!</a>
       </p>
-    </p>
 
 {% elsif site.phase == site.FINALISTS_ANNOUNCED %}
 
