@@ -196,7 +196,6 @@ We want Angelenos to see themselves as part of the solutions we need to improve 
 
 </details>
 
-{% elsif site.phase == site.VOTES_BEING_ACCEPTED %}
 
 <details class="faq" markdown="1">
 
@@ -225,68 +224,8 @@ Yes! We do all that we can to inform Angelenos about the My LA2050 Grants Challe
 
 
 
-<details class="faq" markdown="1">
-
-<summary markdown="1">
-## How many times can I vote?
-</summary>
-
-You can only vote once per goal category, for a total of 5 votes. It is not required that you use all 5 of your votes, but we encourage you to do so! If you'd like to read up on proposals you’re less familiar with before you vote, we have all of the [submissions](/entries/) posted and available.
-
-</details>
 
 
-
-<details class="faq" markdown="1">
-
-<summary markdown="1">
-## Why do I need to sign in with phone, email, or Facebook in order to vote?
-</summary>
-
-The short answer: we want to make sure you’re not a bot. We’re asking for this information for authentication purposes and to ensure that we are not receiving multiple voting forms from one individual.
-
-</details>
-
-
-
-<details class="faq" markdown="1">
-
-<summary markdown="1">
-## How will you use my information?
-</summary>
-
-We definitely won’t spam you. We will only contact you if you opt-in to our LA2050 newsletter (which you should for great jobs, events, news, and LA love in general!) We will not distribute your information or sell it to a third party, promise.
-
-</details>
-
-
-
-<details class="faq" markdown="1">
-
-<summary markdown="1">
-## I signed in with my email address, but haven't received an email yet. What's going on?
-</summary>
-
-If you entered your email address correctly, but don’t see a confirmation message, please check your spam folder. If you still don’t see it after several minutes, either contact us at [connect@la2050.org](mailto:connect@la2050.org) or try using another method to confirm your votes (e.g., phone or Facebook).
-
-</details>
-
-
-
-<details class="faq" markdown="1">
-
-<summary markdown="1">
-## I clicked on the link sent to my email (or entered the code sent to my phone) and received an error message. What should I do?
-</summary>
-
-You may have encountered this error message because you switched devices. It’s important that you complete the voting process on the same device that you started it on. Go back to your original device, and try again! 
-
-It’s also possible that the link or code has expired. If this is the case, you should be able to resend the code or email in order to confirm your votes. 
-
-</details>
-
-
-{% endif %}
 
 
 ## Send us your questions!
