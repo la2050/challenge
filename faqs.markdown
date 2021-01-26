@@ -40,7 +40,7 @@ Are you a registered nonprofit, for-profit, fiscally-sponsored, or governmental 
 <details class="faq" markdown="1">
 
 <summary markdown="1">
-## With all that’s going on around COVID-19, we’re not sure how to plan ahead or what activities we’re allowed to request funding for. What should we do?
+## How should we plan for the next year given the evolving circumstances of COVID-19?
 </summary>
 We understand how difficult it is to plan for a year-long grant period in our current context. 
 We plan to be accommodating and flexible with our 25 winners, working with them over the course of their grant to adjust planned activities according to evolving public health guidelines and to ensure there is space to respond to emergent needs.
@@ -50,17 +50,6 @@ And, while we’d love to be optimistic and assume that in-person gatherings wil
 If you anticipate that guidelines in Los Angeles County will change in the next year to allow for your organization to conduct activities that are currently restricted (e.g., in-person educational instruction) please explain on your application what you will do under both circumstances.
 
 Please note that applications that do not account for COVID-19 restrictions and precautions may be disqualified. If you have any questions, please feel free to email connect@la2050.org.
-
-</details>
-
-
-
-<details class="faq" markdown="1">
-
-<summary markdown="1">
-## With all that’s going on around COVID-19, we’re worried our proposal might be affected. What should we do?
-</summary>
-We understand that submissions involving events, direct service, and other activities might be impacted by concerns surrounding COVID-19. Please apply assuming that all will return to normal (we certainly hope it does!), and in the event that it does not, we’ll work with you to adjust as needed.
 
 </details>
 
