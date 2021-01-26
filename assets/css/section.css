@@ -204,7 +204,7 @@
     }
     @media (min-width: 120em) {
       main > .timeline dl {
-        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
       }
       main > .timeline dt:nth-of-type(n) {
         grid-row: 1 / 2;
