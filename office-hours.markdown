@@ -11,7 +11,7 @@ stylesheets:
 
 ## Webinars
 
-We are hosting three live webinars for applicants to the My LA2050 Grants Challenge to learn more about how to apply and what to expect from the process. Each webinar will offer the same content and provide time for Q+A.
+We are hosting three live webinars for applicants to the My LA2050 Grants Challenge to learn more about how to apply and what to expect from the process. Each webinar will feature the same content and include time for attendee Q+A.
 
 _Please click on one of the links below, depending on which date works best for you, and you will be redirected to sign up directly with Zoom._
 
