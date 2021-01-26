@@ -16,11 +16,11 @@ We are hosting three live webinars for applicants to the My LA2050 Grants Challe
 _Please click on one of the links below, depending on which date works best for you, and you will be redirected to sign up directly with Zoom._
 
 [Tuesday, February 9, 2021](https://zoom.us)
-: from 11:00 am to 12:00 pm
+: from 11:00 am to 12:00 pm (PT)
 
 [Friday, February 26, 2021](https://zoom.us)
-: from 1:00 pm to 2:00 pm
+: from 1:00 pm to 2:00 pm (PT)
 
 [Tuesday, March 16, 2021](https://zoom.us)
-: from 11:00 am to 12:00 pm
+: from 11:00 am to 12:00 pm (PT)
 
