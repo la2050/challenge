@@ -248,6 +248,7 @@ Yes! We do all that we can to inform Angelenos about the My LA2050 Grants Challe
 </details>
 
 
+{% elsif site.phase == site.VOTES_BEING_ACCEPTED %}
 
 <details class="faq" markdown="1">
 
@@ -309,11 +310,7 @@ It’s also possible that the link or code has expired. If this is the case, you
 
 </details>
 
-
-
-
-
-
+{% endif %}
 
 ## Send us your questions!
 
