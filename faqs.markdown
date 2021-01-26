@@ -196,7 +196,7 @@ We want Angelenos to see themselves as part of the solutions we need to improve 
 
 </details>
 
-
+{% elsif site.phase == site.VOTES_BEING_ACCEPTED %}
 
 <details class="faq" markdown="1">
 
@@ -286,9 +286,7 @@ It’s also possible that the link or code has expired. If this is the case, you
 </details>
 
 
-
-
-
+{% endif %}
 
 
 ## Send us your questions!
