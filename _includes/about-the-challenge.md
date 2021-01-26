@@ -100,7 +100,7 @@
 {% endcomment %}
 
 <h2>
- In solidarity with Los Angeles
+ We're in this together, LA
 </h2>
 
 Over the past year, the people of Los Angeles have faced innumerable hardships as COVID-19 devastated our communities and upended our lives. 
