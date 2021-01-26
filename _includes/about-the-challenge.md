@@ -326,7 +326,7 @@ Submissions are open! Apply by <strong>{{ site.ENTRY_PERIOD_ENDED_DATE | date: "
   <a href="{{ site.submission_url }}">Submit your idea</a>
 </p>
 
-Read our <a href="/submit/#guidelines">guidelines for proposals</a>.
+Read our <a href="/submit/#guidelines">application guidelines</a>.
 
 {% elsif site.phase == site.ENTRY_PERIOD_ENDED %}
 
@@ -416,8 +416,6 @@ Finalists will represent a diversity of issues and activities. For more informat
 
 **Award levels will be determined via public vote.** Voters will determine which organizations place first ($100,000), second ($50,000), third ($25,000), fourth ($15,000), and fifth ($10,000) in each goal category. All 25 finalists that participate in the voting stage will receive a grant, with five grants distributed at each dollar amount (e.g., there will be five $100,000 winners).
 
-
-
 {% if site.phase < site.VOTES_BEING_ACCEPTED %}
 
 Starting <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong>, you can [vote for a proposal](/vote/) on this website. <a href="{{ site.mailing_list_url }}">Get notified when voting opens!</a>
@@ -462,7 +460,6 @@ Starting <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</
 <p><a href="/winners/">Check out the winning proposals.</a></p>
 
 {% endif %}
-
 
 <section class="standard-section timeline" id="dates"><div markdown="1">
 
