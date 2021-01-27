@@ -1,5 +1,5 @@
 ---
-title: Office Hours
+title: Information Sessions
 body_class: tangerine
 main_class: standard-layout
 footer_image: true
@@ -7,7 +7,7 @@ stylesheets:
   - "/assets/css/office-hours.css"
 ---
 
-# Office Hours
+# Information Sessions
 
 ## Questions? <br>Join us for a webinar!
 
