@@ -64,90 +64,34 @@ We need your help to turn the [LA2050 goals and metrics](/about/#goals) into act
 $100K
 : 1st place
 
-$50K
-: 2nd place
-
-$25K
-: 3rd place
-
-$15K
-: 4th place
-
-$10K
-: 5th place
 </section>
 
 <section class="strawberry" markdown="1">
 #### Play
 
-$100K
-: 1st place
-
 $50K
 : 2nd place
 
-$25K
-: 3rd place
-
-$15K
-: 4th place
-
-$10K
-: 5th place
 </section>
 
 <section class="banana" markdown="1">
 #### Create
 
-$100K
-: 1st place
-
-$50K
-: 2nd place
-
 $25K
 : 3rd place
 
-$15K
-: 4th place
-
-$10K
-: 5th place
 </section>
 
 <section class="lime" markdown="1">
 #### Live
 
-$100K
-: 1st place
-
-$50K
-: 2nd place
-
-$25K
-: 3rd place
-
 $15K
 : 4th place
 
-$10K
-: 5th place
 </section>
 
 <section class="tangerine" markdown="1">
 #### Connect
-
-$100K
-: 1st place
-
-$50K
-: 2nd place
-
-$25K
-: 3rd place
-
-$15K
-: 4th place
 
 $10K
 : 5th place
