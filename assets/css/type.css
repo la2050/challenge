@@ -65,8 +65,11 @@
   h1 {
     margin-top: 3rem;
     font-weight: 700;
-    font-size: 2em;
-    font-size: calc(1vmax + 1.5em);
+    --golden-ratio: 1.61803;
+    --logo-height: 2em;
+    font-size: calc(var(--golden-ratio) * var(--logo-height));
+    font-size: 3.23606em;
+    /* font-size: calc(1vmax + 1.5em); */
     line-height: 1.25;
 /*     letter-spacing: 2px; */
     max-width: 20em; /* @max-line-length / 2em */

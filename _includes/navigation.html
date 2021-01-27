@@ -33,6 +33,11 @@
   <li {% if page.url == '/submit/' %}    class="active" {% endif %}><a href="/submit/">Submit</a></li>
   <li {% if page.url == '/vote/' %}      class="active" {% endif %}><a href="/vote/">Vote</a></li>
   <li {% if page.url == '/timeline/' %}  class="active" {% endif %}><a href="/timeline/">Timeline</a></li>
+  {% comment %}
+  {% if include.is_footer_navigation == true %}
+  <li {% if page.url == '/media/' %}     class="active" {% endif %}><a href="/media/">Media</a></li>
+  {% endif %}
+  {% endcomment %}
   <li {% if page.url == '/faqs/' %}      class="active" {% endif %}><a href="/faqs/">FAQs</a></li>
 </ul>
 
