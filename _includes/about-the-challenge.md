@@ -1,5 +1,8 @@
 <h1 class="home-intro">
-  {% include balcony.html %}
+  {% include balcony-background.html %}
+  {% include balcony-text.html %}
+  {% include balcony-butterfly-path.html %}
+  {% include balcony-butterfly.html %}
 </h1>
 <style>
   main > h1:first-child {
@@ -15,6 +18,15 @@
     background: unset;
     color: unset;
     margin-top: unset;
+  }
+  main > .home-intro {
+    display: grid;
+  }
+  main > .home-intro > * {
+    grid-column: 1 / -1;
+    grid-row: 1 / -1;
+    justify-self: center;
+    align-self: center;
   }
   main > .home-intro svg {
     width: 100%;
