@@ -12,7 +12,6 @@ footer_image: true
 <div class="introduction" markdown="1">
 
 {% if site.phase < site.FINALISTS_ANNOUNCED %}
-
 Starting **{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}** <small class="avoid-break">({{ site.VOTES_BEING_ACCEPTED_TIME }})</small>, <span class="avoid-break">you can vote for the finalists on this website.</span>
 
 <p style="font-size: inherit; margin-bottom: 2.25em;">
@@ -74,9 +73,7 @@ Public voting is complete.
 {% endif %}
 
 {% elsif site.phase == site.FINALISTS_ANNOUNCED %}
-
 The finalists have been announced!
-
 <small>
   Winners will be announced on 
   <span class="avoid-break">
@@ -89,17 +86,13 @@ The finalists have been announced!
 </p>
 
 {% elsif site.phase == site.WINNERS_ANNOUNCED %}
-
 The winners have been announced!
-
 <p class="action">
   <a href="/winners/">Check out the winners</a>
 </p>
-
 {% endif %}
 
 </div>
-
 
 ### Your votes determine our winners!
 
