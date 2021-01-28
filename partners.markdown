@@ -26,6 +26,7 @@ The My LA2050 Grants Challenge is possible because of the support of many organi
 
 If your organization is interested in sponsoring additional funding awards, please email [connect@la2050.org](mailto:connect@la2050.org).
 
+
 ### Evaluation Partner
 
 [![Social Venture Partners Los Angeles](/assets/images/partners/social-venture-partners.jpg)](https://www.svpla.org/)
