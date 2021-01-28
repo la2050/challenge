@@ -65,7 +65,6 @@ We need your help to turn the [LA2050 goals and metrics](/about/#goals) into act
 <strong>A total of $1,000,000 will be awarded among 25 organizations</strong> to implement their proposals. Each organization will receive grant funds and [partnership from LA2050](/about/#la2050-partnership) to support its efforts. We are also grateful to offer additional awards from our incredible [2021 My LA2050 funding partners](https://challenge.la2050.org/partners/).
 
 <p markdown="1" style="margin-top: 1.5em; margin-bottom: 0;">In each of the five [goal categories](/about/#goals), the awards will be…</p>
-
 <section class="awards" markdown="1">
 
 ### 25 Winners
@@ -110,7 +109,6 @@ $10K
 </section>
 
 </section>
-
 And, check out the [additional awards available from this year's {{ site.year }} grants challenge funding partners](/partners/)!
 
 {% if site.phase == site.NEW_CHALLENGE_ANNOUNCED %}
@@ -267,13 +265,13 @@ Starting <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</
 <style>
   /* SHIM: Balance space above/below timeline */
   main > .timeline {
-    margin-top: 6em !important;
-    padding-bottom: 6em;
+    margin-top: 4em !important;
+    padding-bottom: 4em;
   }
   @media (min-width: 40em) {
     main > .timeline {
       margin-top: 1.5em !important;
-      padding-bottom: 9em;
+      padding-bottom: 4em;
     }
   }
 </style>
