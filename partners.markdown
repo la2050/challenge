@@ -31,18 +31,28 @@ The My LA2050 Grants Challenge is possible because of the support of many organi
 
 ### Outreach Partners
 
-We are grateful to the following organizations who helped spread the word about this year’s challenge:
+We are grateful to the following organizations who are helping spread the word about this year’s challenge:
+
+* [Collaborative Fund](https://www.collaborativefund.com/)
+
+* [Grid110](https://www.grid110.org/)
 
 * [Los Angeles Cleantech Incubator (LACI)](https://laincubator.org/)
 
-* [Young Nonprofit Professionals Network (YNPN)](https://www.ynpnla.org/)
-
-* [Social and Environmental Entrepreneurs (SEE)](http://saveourplanet.org/)
-
-* [Pledgeling](https://www.pledgeling.com/)
+* [Los Angeles Coalition for the Economy and Jobs](https://www.thelacoalition.com/)
 
 * [The Mayor's Fund for Los Angeles](https://mayorsfundla.org/)
 
+* [Pledge LA](https://pledgela.org/)
+
+* [Pledgeling](https://www.pledgeling.com/)
+
 * [Second Home](https://secondhome.io/location/hollywood/?utm_medium=partner_email&utm_source=referral&utm_campaign=la2050)
 
+* [Social and Environmental Entrepreneurs (SEE)](http://saveourplanet.org/)
+
 * [Social Venture Partners](https://svpla.org/)
+
+* [Southern California Grantmakers](https://www.socalgrantmakers.org/)
+
+* [UCLA Grand Challenges](https://grandchallenges.ucla.edu/)
