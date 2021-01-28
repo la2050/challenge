@@ -155,8 +155,6 @@ The winners have been announced!
 </div>
 
 {% endif %}
-
-
 ### Resources
 
 * The grants challenge is all about making progress on our shared goals and metrics. Read about them [here](https://la2050.org/goals). 
