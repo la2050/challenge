@@ -42,12 +42,12 @@
 
 
 <h2>
- We’re in this <span class="avoid-break">together, LA</span>
+ We’re in this <span class="avoid-break">together, LA!</span>
 </h2>
 
 Over the past year, the people of Los Angeles have faced innumerable hardships as COVID-19 devastated our communities and upended our lives. 
 
-The nonprofit organizations, government entities, and for-profit companies that comprise LA’s social impact sector have stood on the frontlines and responded with care and courage. While we are certainly not surprised, we are in awe of our sector’s determination to serve our region through it all—quickly transitioning to safe, physically-distant service models, implementing innovative digital programming, and pivoting to respond to urgent and emergent needs.
+Our local social impact sector has stood on the frontlines and responded with care and courage. While we are certainly not surprised, we are in awe of our sector’s determination to serve our region through it all—quickly transitioning to safe, physically-distant service models, implementing innovative digital programming, and pivoting to respond to urgent and emergent needs.
 
 It has never been more clear that our path toward a brighter future relies on Angelenos coming together in the present. And, with that spirit of shared responsibility and collective hope in mind, we are proud to present our eighth My LA2050 Grants Challenge.
 
@@ -62,7 +62,7 @@ LA2050 is a community-guided initiative driving and tracking progress toward a s
 
 We need your help to turn the [LA2050 goals and metrics](/about/#goals) into action.
 
-<strong>A total of $1,000,000 will be awarded among 25 organizations</strong> to implement their proposals. Each organization will receive grant funds and [partnership from LA2050](/about/#la2050-partnership) to support its efforts. Additional funding and prizes will be awarded by [this year's My LA2050 partners](https://challenge.la2050.org/partners/).
+<strong>A total of $1,000,000 will be awarded among 25 organizations</strong> to implement their proposals. Each organization will receive grant funds and [partnership from LA2050](/about/#la2050-partnership) to support its efforts. We are also grateful to feature offer additional awards from our incredible [2021 My LA2050 partners](https://challenge.la2050.org/partners/).
 
 <p markdown="1" style="margin-top: 1.5em; margin-bottom: 0;">In each of the five [goal categories](/about/#goals), the awards will be…</p>
 
@@ -111,7 +111,7 @@ $10K
 
 </section>
 
-Check out the [additional prizes offered by our {{ site.year }} grants challenge partners](/partners/).
+Additionally, check out the [funding awards available from this year's {{ site.year }} grants challenge partners](/partners/).
 
 {% if site.phase == site.NEW_CHALLENGE_ANNOUNCED %}
 
