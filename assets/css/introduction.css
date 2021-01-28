@@ -2,9 +2,6 @@
 
   /* =Introduction
   ----------------------------------------------- */
-  .introduction {
-    margin-bottom: 4.5em;
-  }
   p + .introduction {
     margin-top: 4.5em;
   }

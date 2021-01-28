@@ -35,6 +35,7 @@
   <link rel="stylesheet" href="/assets/css/goals.css?v={{ site.version }}" />
   <link rel="stylesheet" href="/assets/css/goals-navigation.css?v={{ site.version }}" />
   <link rel="stylesheet" href="/assets/css/process.css?v={{ site.version }}" />
+  <link rel="stylesheet" href="/assets/css/awards.css?v={{ site.version }}" />
 
   {% if page.stylesheets %}
     {% assign stylesheets = page.stylesheets %}
@@ -260,15 +261,17 @@
   </header>
   <main {% if page.main_class %} class="{{ page.main_class }}"{% elsif layout.main_class %} class="{{ layout.main_class }}"{% endif %}>
     {{ content }}
+    {% comment %}
     {% if page.footer_image %}
-    <figure class="standard-figure has-caption">
-      <img id="footer-photo" style="filter: grayscale(1);" src="/assets/images/home/384-wide/lamas.jpg" srcset="/assets/images/home/384-wide/lamas.jpg 384w, /assets/images/home/512-wide/lamas.jpg 512w, /assets/images/home/768-wide/lamas.jpg 768w, /assets/images/home/1024-wide/lamas.jpg 1024w, /assets/images/home/1536-wide/lamas.jpg 1536w, /assets/images/home/2048-wide/lamas.jpg 2048w" sizes="100vw" alt="Photo of a group of people talking and sharing a meal, outdoors in a neighborhood" />
+    <figure class="standard-figure has-caption footer-figure">
+      <img id="footer-photo" src="/assets/images/home/384-wide/lamas.jpg" srcset="/assets/images/home/384-wide/lamas.jpg 384w, /assets/images/home/512-wide/lamas.jpg 512w, /assets/images/home/768-wide/lamas.jpg 768w, /assets/images/home/1024-wide/lamas.jpg 1024w, /assets/images/home/1536-wide/lamas.jpg 1536w, /assets/images/home/2048-wide/lamas.jpg 2048w" sizes="100vw" alt="Photo of a group of people talking and sharing a meal, outdoors in a neighborhood" />
       <figcaption class="caption">
         <span>Join us in working toward a better Los Angeles.</span>
-        <small id="footer-photo-credit">Photo by <a href="https://archive.la2050.org/evolve-la-project-of-la-más/">LA Más</a></small>
+        <small id="footer-photo-credit">Photo by <a href="https://archive.la2050.org/evolve-la-project-of-la-más/">LA Más</a>, from the <span>2016</span> Challenge</small>
       </figcaption>
     </figure>
     {% endif %}
+    {% endcomment %}
   </main>
 
   {% if page.footer_image %}
@@ -277,6 +280,8 @@
   <script>
 
   (function() {
+    if (!document.getElementById("footer-photo")) return;
+
     // https://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range#1527820
     // Returns a random integer between min (inclusive) and max (inclusive)
     function getRandomInt(min, max) {
@@ -305,6 +310,10 @@
         link.setAttribute("href", "https://archive.la2050.org" + featuredOrganization.url);
         link.textContent = featuredOrganization.title;
       }
+      var year = photoCredit.querySelector("span");
+      if (year && featuredOrganization.year) {
+        year.textContent = featuredOrganization.year;
+      }
     }
   })();
 
@@ -313,7 +322,7 @@
 
   <footer>
     {% include logotype-headline.html %}
-    {% include navigation.html %}
+    {% include navigation.html is_footer_navigation=true %}
     <ul class="social-links">
       <li>
         <a href="https://twitter.com/LA2050">

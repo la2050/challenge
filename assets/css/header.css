@@ -139,6 +139,40 @@
   }
 
 
+  /* SHIM: Switch to a grid layout */
+  @supports (display: grid) {
+    .promotion .action {
+      margin-top: 2.25em;
+      margin-bottom: 0.75em;
+    }
+    @media (min-width: 40em) {
+      .promotion {
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+        grid-gap: 2.25em;
+      }
+      .promotion h1,
+      .promotion p {
+        grid-row: 1 / 2;
+        grid-column: -2 / -1;
+        justify-self: start;
+        text-align: start;
+        margin: 0;
+        align-self: center;
+        max-width: unset;
+      }
+      .promotion .action {
+        grid-row: 1 / 2;
+        grid-column: 1 / 2;
+        justify-self: end;
+        margin: 0;
+        align-self: center;
+        text-align: center;
+      }
+    }
+  }
+
+
   body .header-figure.has-caption.has-caption-details .caption h1 {
     color: var(--primary-color);
     text-align: center !important;
@@ -435,7 +469,7 @@
     margin-left: auto;
     margin-right: auto;
     font-weight: 500; /* @medium */
-    font-size: 1.25em;
+    font-size: 1.3125em;
     text-transform: uppercase;
     color: var(--snow);
     line-height: 1;
@@ -467,7 +501,13 @@
   header h2 a svg,
   footer h2 a svg {
     width: 6.75em;
-    height: 2.875em;
+    height: 2.0216726459em;
+    width: calc(58.8300018/16 * 1.835798006em);
+    height: calc(17.6200008/16 * 1.835798006em);
+
+    --multiplier: calc(2em / (17.6200008/16));
+    width: calc(58.8300018/16 * var(--multiplier));
+    height: calc(17.6200008/16 * var(--multiplier));
   }
   header h2 a svg path,
   footer h2 a svg path {

@@ -39,6 +39,8 @@
     margin-right: 0;
     padding-right: 0; */
     display: block;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
   }
 
   .disabled main > .timeline {
@@ -65,6 +67,7 @@
     padding-top: 0;
   }
 
+
   main > .timeline dl {
     color: inherit; /* @blueberry */
     text-align: left;
@@ -82,12 +85,14 @@
       background-position: 4.5em 0;
     }
   } */
+
   main > .timeline h2 {
-    margin-top: 1.5em;
+    margin-top: 0.75em;
     margin-bottom: 0.75em;
     color: var(--lime);
     color: var(--banana);
     color: var(--strawberry);
+    color: var(--blueberry);
   }
   main > .timeline p strong {
     color: inherit;
@@ -123,7 +128,7 @@
   main > .timeline dt {
     text-transform: uppercase;
     letter-spacing: 0.1em;
-    margin-top: 4.5rem;
+    margin-top: 3rem;
     font-size: 0.75em;
     color: inherit;
     font-weight: 400;
@@ -155,6 +160,7 @@
 
   main > .timeline dl {
     margin-bottom: 0;
+    margin-top: -2.5rem;
   }
 
   @supports (display: grid) {
@@ -201,7 +207,7 @@
     }
     @media (min-width: 120em) {
       main > .timeline dl {
-        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
       }
       main > .timeline dt:nth-of-type(n) {
         grid-row: 1 / 2;

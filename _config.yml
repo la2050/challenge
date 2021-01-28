@@ -1,26 +1,26 @@
 
-title: 2020 My LA2050 Grants Challenge
+title: 2021 My LA2050 Grants Challenge
 description: >-
   The My LA2050 Grants Challenge is an open call for ideas to make LA the best place to
   learn, create, play, connect, and live.
 image: https://challenge.la2050.org/assets/images/home/2048-wide/downtown.jpg
 
 mailing_list_url: https://la2050.us6.list-manage.com/subscribe/post?u=81b6d7b4efb839b992bf7ae72&amp;id=b16f498212
-office_hours_url: https://forms.gle/mM4rLE6RChcSwmM3A
+office_hours_url: /information-sessions
 # submission_url: https://challengela2050.smapply.io
 submission_url: /apply
 
 # Our form:
 vote_url: /vote/form/
 
-year: 2020
-voting_postponed: true
+year: 2021
+voting_postponed: false
 
 show_early_entries: false
 finalists_chosen_by_public_vote: false
-# redirect_winners_url: https://archive.la2050.org/search/?keywords=%222019+winner%22
-# redirect_finalists_url: https://archive.la2050.org/search/?keywords=%222019+finalist%22
-# redirect_entries_url: https://archive.la2050.org/search/?keywords=2019
+redirect_winners_url: https://archive.la2050.org/search/?keywords=%222020+winner%22
+redirect_finalists_url: https://archive.la2050.org/search/?keywords=%222020+winner%22
+redirect_entries_url: https://archive.la2050.org/search/?keywords=2020
 
 image_host: "https://images.la2050.org/challenge"
 
@@ -36,14 +36,14 @@ WINNERS_ANNOUNCED: 8
 
 
 
-NEW_CHALLENGE_ANNOUNCED_DATE:      2020-01-27 12:00:00 -07:00
-ENTRIES_BEING_ACCEPTED_DATE:       2020-02-03 12:00:00 -07:00
-ENTRY_PERIOD_ENDED_DATE:           2020-04-03 12:00:00 -07:00
-ENTRIES_SHOWN_ON_THE_WEBSITE_DATE: 2020-04-13 12:00:00 -07:00
-FINALISTS_ANNOUNCED_DATE:          2020-05-25 12:00:00 -07:00
-VOTES_BEING_ACCEPTED_DATE:         2020-07-13 12:00:00 -07:00
-VOTING_PERIOD_ENDED_DATE:          2020-07-20 12:00:00 -07:00
-WINNERS_ANNOUNCED_DATE:            2020-07-27 12:00:00 -07:00
+NEW_CHALLENGE_ANNOUNCED_DATE:      2021-01-25 12:00:00 -07:00
+ENTRIES_BEING_ACCEPTED_DATE:       2021-02-01 12:00:00 -07:00
+ENTRY_PERIOD_ENDED_DATE:           2021-04-02 12:00:00 -07:00
+ENTRIES_SHOWN_ON_THE_WEBSITE_DATE: 2021-04-12 12:00:00 -07:00
+FINALISTS_ANNOUNCED_DATE:          2021-05-28 12:00:00 -07:00
+VOTES_BEING_ACCEPTED_DATE:         2021-06-21 12:00:00 -07:00
+VOTING_PERIOD_ENDED_DATE:          2021-06-28 12:00:00 -07:00
+WINNERS_ANNOUNCED_DATE:            2021-07-01 12:00:00 -07:00
 
 ENTRIES_BEING_ACCEPTED_TIME:       9am Pacific Time
 ENTRY_PERIOD_ENDED_TIME:           5pm Pacific Time
@@ -52,42 +52,29 @@ VOTING_PERIOD_ENDED_TIME:          5pm Pacific Time
 
 
 
-
 # New challenge announced: 
-# January 27
-# phase: 1
+phase: 1
 
-# Entries being accepted: 
-# February 3
+# Entries being accepted:
 # phase: 2
 
-# Early bird deadline:
-# March 1 ?
-# phase: ?
-
 # Entry period ended: 
-# April 3
 # phase: 3
 
 # Entries shown on the website: 
-# April 13
 # phase: 4
 
 # Finalists announced: 
-# May 25
 # phase: 5
 
 # Votes being accepted: 
-# July 13
 # phase: 6
 
 # Voting period ended: 
-# July 20
 # phase: 7
 
 # Winners announced: 
-# July 27
-phase: 8
+# phase: 8
 
 
 finalists:
@@ -96,115 +83,115 @@ finalists:
 
   # 1)
   # Central American Resource Center
-  - /2020/learn/central-american-resource-center-carecen-of-california/
+  - /2021/learn/central-american-resource-center-carecen-of-california/
 
   # 2)
   # Los Angeles Audubon Society
-  - /2020/learn/los-angeles-audubon-society-society/
+  - /2021/learn/los-angeles-audubon-society-society/
 
   # 3)
   # Pediatric Therapy Network
-  - /2020/learn/pediatric-therapy-network/
+  - /2021/learn/pediatric-therapy-network/
 
   # 4)
   # Reading Partners
-  - /2020/learn/reading-partners/
+  - /2021/learn/reading-partners/
 
   # 5)
   # SoCal College Access Network
-  - /2020/learn/southern-california-college-access-network/
+  - /2021/learn/southern-california-college-access-network/
 
 
   # Create
 
   # 1)
   # Flintridge Center
-  - /2020/create/flintridge-center/
+  - /2021/create/flintridge-center/
 
   # 2)
   # Grid110
-  - /2020/create/grid110/
+  - /2021/create/grid110/
 
   # 3)
   # LA Sanitation and the Environment
-  - /2020/create/la-sanitation-and-environment-la-industry/
+  - /2021/create/la-sanitation-and-environment-la-industry/
 
   # 4)
   # Las Fotos Project
-  - /2020/create/las-fotos-project/
+  - /2021/create/las-fotos-project/
 
   # 5)
   # Los Angeles Children's Project
-  - /2020/create/lost-angels-childrens-project/
+  - /2021/create/lost-angels-childrens-project/
 
 
   # Play
 
   # 1)
   # City of LA Dept. of Recreation & Parks
-  - /2020/play/city-of-los-angeles-department-of-recreation-and-parks/
+  - /2021/play/city-of-los-angeles-department-of-recreation-and-parks/
 
   # 2)
   # Los Angeles Dodgers Foundation
-  - /2020/play/los-angeles-dodgers-foundation/
+  - /2021/play/los-angeles-dodgers-foundation/
 
   # 3)
   # Los Angeles Maritime Institute
-  - /2020/play/los-angeles-maritime-institute/
+  - /2021/play/los-angeles-maritime-institute/
 
   # 4)
   # Public Matters
-  - /2020/play/public-matters/
+  - /2021/play/public-matters/
 
   # 5)
   # Urban Warehouse
-  - /2020/play/the-urban-warehouse/
+  - /2021/play/the-urban-warehouse/
 
 
   # Connect
 
   # 1)
   # Boyle Heights Beat / Radio Pulso
-  - /2020/connect/boyle-heights-beat-radio-pulso/
+  - /2021/connect/boyle-heights-beat-radio-pulso/
 
   # 2)
   # Creative Acts
-  - /2020/connect/creative-acts/
+  - /2021/connect/creative-acts/
 
   # 3)
   # LA Forward
-  - /2020/connect/la-forward/
+  - /2021/connect/la-forward/
 
   # 4)
   # Ready to Succeed
-  - /2020/connect/ready-to-succeed/
+  - /2021/connect/ready-to-succeed/
 
   # 5)
   # Union Station Homeless Services
-  - /2020/connect/union-station-homeless-services/
+  - /2021/connect/union-station-homeless-services/
 
 
   # Live
 
   # 1)
   # Clínica Msr. Oscar Romero
-  - /2020/live/clinica-msr-oscar-a-romero/
+  - /2021/live/clinica-msr-oscar-a-romero/
 
   # 2)
   # Crop Swap LA
-  - /2020/live/crop-swap-la/
+  - /2021/live/crop-swap-la/
 
   # 3)
   # Jenesse Center, Inc.
-  - /2020/live/jenesse-center-inc/
+  - /2021/live/jenesse-center-inc/
 
   # 4)
   # Safe Parking LA
-  - /2020/live/safe-parking-la-a-project-of-community-partners/
+  - /2021/live/safe-parking-la-a-project-of-community-partners/
 
   # 5)
   # Strategic Actions for a Just Economy
-  - /2020/live/strategic-actions-for-a-just-economy-saje/
+  - /2021/live/strategic-actions-for-a-just-economy-saje/
 
 
 winners:
@@ -213,115 +200,115 @@ winners:
 
   # 1)
   # Pediatric Therapy Network
-  - /2020/learn/pediatric-therapy-network/
+  - /2021/learn/pediatric-therapy-network/
 
   # 2)
   # SoCal College Access Network
-  - /2020/learn/southern-california-college-access-network/
+  - /2021/learn/southern-california-college-access-network/
 
   # 3)
   # Reading Partners
-  - /2020/learn/reading-partners/
+  - /2021/learn/reading-partners/
 
   # 4)
   # Los Angeles Audubon Society
-  - /2020/learn/los-angeles-audubon-society-society/
+  - /2021/learn/los-angeles-audubon-society-society/
 
   # 5)
   # Central American Resource Center
-  - /2020/learn/central-american-resource-center-carecen-of-california/
+  - /2021/learn/central-american-resource-center-carecen-of-california/
 
 
   # Create
 
   # 1)
   # Las Fotos Project
-  - /2020/create/las-fotos-project/
+  - /2021/create/las-fotos-project/
 
   # 2)
   # Los Angeles Children's Project
-  - /2020/create/lost-angels-childrens-project/
+  - /2021/create/lost-angels-childrens-project/
 
   # 3)
   # LA Sanitation and the Environment
-  - /2020/create/la-sanitation-and-environment-la-industry/
+  - /2021/create/la-sanitation-and-environment-la-industry/
 
   # 4)
   # Grid110
-  - /2020/create/grid110/
+  - /2021/create/grid110/
 
   # 5)
   # Flintridge Center
-  - /2020/create/flintridge-center/
+  - /2021/create/flintridge-center/
 
 
   # Play
 
   # 1)
   # City of LA Dept. of Recreation & Parks
-  - /2020/play/city-of-los-angeles-department-of-recreation-and-parks/
+  - /2021/play/city-of-los-angeles-department-of-recreation-and-parks/
 
   # 2)
   # Los Angeles Dodgers Foundation
-  - /2020/play/los-angeles-dodgers-foundation/
+  - /2021/play/los-angeles-dodgers-foundation/
 
   # 3)
   # Los Angeles Maritime Institute
-  - /2020/play/los-angeles-maritime-institute/
+  - /2021/play/los-angeles-maritime-institute/
 
   # 4)
   # Public Matters
-  - /2020/play/public-matters/
+  - /2021/play/public-matters/
 
   # 5)
   # Urban Warehouse
-  - /2020/play/the-urban-warehouse/
+  - /2021/play/the-urban-warehouse/
 
 
   # Connect
 
   # 1)
   # Ready to Succeed
-  - /2020/connect/ready-to-succeed/
+  - /2021/connect/ready-to-succeed/
 
   # 2)
   # Union Station Homeless Services
-  - /2020/connect/union-station-homeless-services/
+  - /2021/connect/union-station-homeless-services/
 
   # 3)
   # LA Forward
-  - /2020/connect/la-forward/
+  - /2021/connect/la-forward/
 
   # 4)
   # Boyle Heights Beat / Radio Pulso
-  - /2020/connect/boyle-heights-beat-radio-pulso/
+  - /2021/connect/boyle-heights-beat-radio-pulso/
 
   # 5)
   # Creative Acts
-  - /2020/connect/creative-acts/
+  - /2021/connect/creative-acts/
 
 
   # Live
 
   # 1)
   # Clínica Msr. Oscar Romero
-  - /2020/live/clinica-msr-oscar-a-romero/
+  - /2021/live/clinica-msr-oscar-a-romero/
 
   # 2)
   # Crop Swap LA
-  - /2020/live/crop-swap-la/
+  - /2021/live/crop-swap-la/
 
   # 3)
   # Jenesse Center, Inc.
-  - /2020/live/jenesse-center-inc/
+  - /2021/live/jenesse-center-inc/
 
   # 4)
   # Strategic Actions for a Just Economy
-  - /2020/live/strategic-actions-for-a-just-economy-saje/
+  - /2021/live/strategic-actions-for-a-just-economy-saje/
 
   # 5)
   # Safe Parking LA
-  - /2020/live/safe-parking-la-a-project-of-community-partners/
+  - /2021/live/safe-parking-la-a-project-of-community-partners/
 
 
 auth0_js_url: https://cdn.auth0.com/js/auth0/9.5.1/auth0.min.js
@@ -341,7 +328,7 @@ voting_test_mode: false
 voting_strict_mode: false
 
 # For cache busting
-version: 3.0.9
+version: 3.0.24
 
 
 permalink: pretty
@@ -373,6 +360,11 @@ defaults:
       type: "2020"
     values:
       layout: project
+  - scope:
+      path: ""
+      type: "2021"
+    values:
+      layout: project
 
 collections:
   '2019':
@@ -381,3 +373,6 @@ collections:
   '2020':
     output: true
     permalink: /2020/:path/
+  '2021':
+    output: true
+    permalink: /2021/:path/

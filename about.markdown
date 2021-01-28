@@ -1,5 +1,5 @@
 ---
-title: About the 2020 My LA2050 Grants Challenge
+title: About the 2021 My LA2050 Grants Challenge
 body_class: strawberry about-page
 main_class: standard-layout
 footer_image: true
@@ -22,9 +22,9 @@ footer_image: true
 
 With the support of 30,000 Angelenos, we’ve outlined an [aspirational vision](https://la2050.s3-us-west-1.amazonaws.com/reports/1/pdfs/vision_for_a_successful_los_angeles.pdf) centered on [five goals](/about/#goals): to make Los Angeles County the best place to learn, create, play, connect, and live by the year 2050. We’re also tracking our progress by evaluating [65+ metrics](https://www.la2050.org/metrics) that assess how Los Angeles is faring.
 
-In 2013, we launched our first signature program, the My LA2050 Grants Challenge, to inspire action and move the needle on the goals and metrics. Through the grants challenge, 1300+ creative and innovative proposals were submitted to build a better LA. With the help of hundreds of thousands of individuals who voted on their favorite proposals, LA2050 granted more than $6M to more than [60 organizations](https://archive.la2050.org/search/?keywords=winner) shaping a brighter future for Los Angeles.
+In 2013, we launched our first signature program, the My LA2050 Grants Challenge, to inspire action and move the needle on the goals and metrics. Through the grants challenge, more than 1,500 creative and innovative proposals were submitted to build a better LA. With the help of hundreds of thousands of individuals who voted on their favorite proposals, LA2050 has granted more than $7 million to more than [85 organizations](https://archive.la2050.org/search/?keywords=winner) shaping a brighter future for Los Angeles.
 
-And now we want your help to continue this work!
+And now we want your help to continue working toward a brigher future!
 
 ## About the My LA2050 Grants Challenge
 
@@ -39,10 +39,11 @@ LA2050 will also commit to a one-year partnership, leveraging its resources, ass
 We want to work together! For winning proposals, LA2050 will offer the following partnership opportunities:
 
 * Leverage the LA2050 community to support and participate in the project.
-* Offer communications assistance to build awareness and thought leadership, including authoring articles, op-eds, and blog posts.
+* Offer communications assistance to build awareness and thought leadership, including authoring articles and blog posts.
 * Amplify messaging on social media and via the LA2050 newsletter to support projects.
 * Create design assets as needed.
 * Provide technical assistance, strategic input and guidance, and access to experts to incorporate insights on the project.
+* Offer access to professional development programming and capacity-building workshops.
 
 <hr id="goals" />
 
@@ -74,9 +75,9 @@ With the support of 30,000 Angelenos we’ve outlined an aspirational vision cen
 
 <h3>Learn</h3>
 
-Our region will offer opportunities for lifelong learning, allowing all residents to contribute their skills, talents, and abilities to society.
+Our region will offer abundant, equitable opportunities for lifelong learning.
 
-By the year 2050, all Los Angeles students will have access to early education programs, every high school student will graduate college and career ready, and all parents will be engaged and empowered to direct their children’s learning. LA will capitalize on its concentration of higher education facilities to foster new businesses, advance research, and spur innovation. 
+By the year 2050, our local education system will be well-resourced and culturally-responsive, all children will have access to high-quality early education programs, and all families will be engaged and empowered to direct their student’s learning. Students will graduate college- and career-ready, equipped to thrive in the workforce of the future. LA will capitalize on its concentration of higher education facilities to advance research and spur innovation.
 
 </div>
 
@@ -111,9 +112,9 @@ By the year 2050, all Los Angeles students will have access to early education p
 
 <h3>Create</h3>
 
-Our region will empower its residents to harness their creativity by fostering entrepreneurship, cultural diversity, and inclusivity.
+Our region will empower its residents to harness their creativity through both artistic expression and entrepreneurship.
 
-By the year 2050, Los Angeles will continue to play host to the largest concentration of working artists in the nation and provide support to maintain (and build) its robust collection of arts establishments. It will lead the nation in manufacturing and become an international leader in technology and innovation. Our region will be a center for entrepreneurial activity that creates jobs and generates wealth for a diverse, flexible, and talented workforce. LA’s business community will reflect the diversity of our region, enhancing our international business opportunities.
+By the year 2050, Los Angeles will play host to the largest concentration of working artists and high-quality arts establishments. Our region will be an international leader in innovation and production across sectors. Our region will be a center for entrepreneurial activity that creates jobs and generates wealth for a flexible, talented workforce from all backgrounds. LA’s business community will reflect the diversity of our region, enhancing our international opportunities.
 
 </div>
 
@@ -151,9 +152,9 @@ By the year 2050, Los Angeles will continue to play host to the largest concentr
 
 <h3>Play</h3>
 
-Our region will be a place where people of all ages have easy access to clean, safe, and sustainable venues to enjoy the natural environment, arts and cultural resources, and local beaches, waterways, and open space.
+Our region will provide abundant, enjoyable recreational opportunities for people of all ages.
 
-By the year 2050, people of all ages will enjoy safe homes, safe neighborhoods, and safe places to play. Every neighborhood will provide its residents with vibrant park space and residents will love their neighborhoods.
+By the year 2050, people from across Los Angeles will live in close proximity to vibrant park space and have easy access to high-quality, sustainable venues to get active, explore the outdoors, and appreciate our natural environment. All residents will feel a sense of safety and belonging in their neighborhoods.
 
 </div>
 
@@ -190,9 +191,9 @@ By the year 2050, people of all ages will enjoy safe homes, safe neighborhoods, 
 
 <h3>Connect</h3>
 
-Our region will be a place where every resident has the opportunity to engage and interact with other Angelenos and is empowered to contribute meaningfully in civic processes.
+Our region will be a place where every resident is empowered to engage with others and participate in civic processes.
 
-By the year 2050, Los Angeles will be the most civically engaged region in the U.S., with multiple online and offline platforms for residents to voice their opinions and influence elected officials, decision-makers, and local government. Our region’s voting rates and volunteerism will lead the nation, and an expanded network of transportation options will facilitate the easy flow of people and ideas.
+By the year 2050, Los Angeles will be the most civically engaged region in the U.S., with abundant platforms for residents to voice their opinions and influence elected officials and other decision-makers. Our region’s voting rates and volunteerism will lead the nation, and an expanded, accessible transportation network will facilitate the easy flow of people and ideas.
 
 </div>
 
@@ -229,9 +230,9 @@ By the year 2050, Los Angeles will be the most civically engaged region in the U
 
 <h3>Live</h3>
 
-Our region’s residents will have the economic means and cultural capital to lead active, healthy lives, and enjoy the benefits of a sustainable environment.
+Our region’s residents will have equitable access to the environmental, economic, and cultural resources needed to thrive.
 
-By the year 2050, Los Angeles will have the nation’s lowest poverty rate and every neighborhood will have access to healthy, affordable food. Every family will be able to afford quality health care and housing. And no families will face environmental health hazards because of where they live or how much money they make.
+By the year 2050, Los Angeles will have the nation’s lowest poverty rate. All families will have access to fresh and healthy food, high-quality health care, and safe housing, no matter where they live or how much money they make. Our communities will enjoy the benefits of a sustainable environment, from clear skies to clean water.
 
 </div>
 

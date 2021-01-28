@@ -1,5 +1,5 @@
 ---
-title: Submit Your Proposal for the 2020 My LA2050 Grants Challenge
+title: Submit Your Proposal for the 2021 My LA2050 Grants Challenge
 body_class: lime
 main_class: standard-layout
 footer_image: true
@@ -127,7 +127,7 @@ The submission period is complete.
 
 <div class="introduction" markdown="1">
 
-The finalists have been announced!
+The finalists have been selected!
 
 <small>
   Winners will be announced on 
@@ -155,15 +155,13 @@ The winners have been announced!
 </div>
 
 {% endif %}
-
-
 ### Resources
 
 * The grants challenge is all about making progress on our shared goals and metrics. Read about them [here](https://la2050.org/goals). 
-* We’re holding office hours via webinar on February 13, February 27, and March 12. <a href="{{ site.office_hours_url }}">Sign-up for a webinar here.</a>
+* We’re holding office hours via webinar on February 9, February 24, and March 16. <a href="{{ site.office_hours_url }}">Sign-up for a webinar here.</a>
 * Need inspiration? Browse proposals from past My LA2050 winners on the [My LA2050 Ideas Archive](https://archive.la2050.org/search/?keywords=winner). 
-* Want to prepare to submit? Check out the [application, scorecard, and rules](https://drive.google.com/drive/folders/11Wk6lF_aHEq4tljPPkvnNAZl07JrUjzX). 
-* Review the [scorecard](https://drive.google.com/open?id=1w1HC2gyusc7KvXIEaNeaZ7rRD_M6lno-) to see how your proposal will be evaluated.
+* Want to prepare to submit? Check out the [application, scorecard, and rules](https://drive.google.com/drive/folders/1sKLxEqY0AMN1xpwgTKUIv-6d03puPkm4?usp=sharing). 
+* Review the [scorecard](https://drive.google.com/file/d/1SFj6ON4xQ1GTcGAAv_FXalHxjmUMTwq9/view?usp=sharing) to see how your proposal will be evaluated.
 
 {% comment %}
 * Ready to submit? Check out the [entry form]({{ site.submission_url }}).
@@ -219,7 +217,7 @@ _What are the rules for submitting a proposal to the My LA2050 Grants Challenge?
 
 * The My LA2050 Grants Challenge is open for submissions from {{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.ENTRIES_BEING_ACCEPTED_TIME }}) through {{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.ENTRY_PERIOD_ENDED_TIME }}).
 * In order to submit a proposal, [log in and complete the application form.]({{ site.submission_url }}).
-* US-based non-profit, for-profit, social enterprises, and government agencies with projects serving Los Angeles County are eligible to apply.
+* US-based non-profit organizations, for-profit companies, social enterprises, and government agencies with projects serving Los Angeles County are eligible to apply.
 * Winning projects must be completed, and the grant award must be expended, within 12 months of receipt of funds.
 * New projects, as well as existing and ongoing projects are eligible for submission.
 * Previous applicants and winners of LA2050 grant programs may reapply.
@@ -229,7 +227,17 @@ _What are the rules for submitting a proposal to the My LA2050 Grants Challenge?
 * <em>Voting</em>: Public voting will occur on this website between {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.VOTES_BEING_ACCEPTED_TIME }}) and {{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.VOTING_PERIOD_ENDED_TIME }}). Voting will determine the grants awarded to the 25 finalists. First place in each goal category will receive $100,000, second: $50,000, third: $25,000, fourth: $15,000, and fifth: $10,000. 
 * Winners will represent a diversity of issues and activities.
 * Winners of the My LA2050 Grants Challenge will be grantees of the Goldhirsh Foundation and will be required to check-in with LA2050 periodically throughout the grant period.
-* [Read all the rules](https://drive.google.com/open?id=1Z860fWUoUNokZ5nXo33HXcAp018LfoQf)
+* [Read all the rules](https://drive.google.com/file/d/1Ho5MPqGqCXenL-3WcYOrRYMoN5RX0ckq/view?usp=sharing)
+
+### Regarding COVID-19 and Activity Restrictions
+We understand how difficult it is to plan for a year-long grant period in our current context. 
+We plan to be accommodating and flexible with our 25 winners, working with them over the course of their grant to adjust planned activities according to evolving public health guidelines and to ensure there is space to respond to emergent needs.
+
+And, while we’d love to be optimistic and assume that in-person gatherings will be permitted sometime between now and the end of the grant period in August 2022, we can’t be sure. For that reason, please ensure that the activities described in your application align with current Los Angeles County public health guidelines, such as restrictions on in-person gatherings, except for those activities deemed essential (e.g., food distribution, medical services, etc.). 
+
+If you anticipate that guidelines in Los Angeles County will change in the next year to allow for your organization to conduct activities that are currently restricted (e.g., in-person educational instruction) please explain on your application what you will do under both circumstances.
+
+Please note that applications that do not account for COVID-19 restrictions and precautions may be disqualified. If you have any questions, please feel free to email [connect@la2050.org](mailto:connect@la2050.org).
 
 ### Questions
 
