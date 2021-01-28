@@ -72,18 +72,16 @@ Unfortunately, we do not take phone calls or meetings during this time due to th
 ## What are the benefits of applying?
 </summary>
 
-Beyond the potential to receive a grant for your work, we believe that applying to the challenge will provide additional benefits including:
+Beyond the potential to become a grantee of LA2050, we believe that applying to the challenge will provide additional benefits including:
 
-* The opportunity to participate in a first-of-its-kind regional effort
-* Increased awareness and exposure via our public platform
-* Increased understanding of LA’s social impact landscape
-* The opportunity to cultivate and build new relationships with peers
-* The chance to build a coalition of committed Angelenos and organizations to support important work in LA
-* The opportunity to learn how to tell a compelling story about your organization’s impact
-* Inspiring the creation of videos, photos, tweets, and pithy messaging to promote your proposal
-* Visibility in front of other foundations and potential alternative funding sources. Past challenges have resulted in +$2.5M in grants from outside funders using the LA2050 platform for their grantmaking
-* 'Volunteer' and 'Donate' buttons on each submission page to drive resources to your organization
+* The chance to build a coalition of committed Angelenos and organizations to support your important work in LA
+* Visibility in front of other foundations and exposure to additional funding sources; past challenges have resulted in +$3.5M from established philanthropic partners and inspired more than $6.5M in giving
 * A page on the [My LA2050 Ideas Archive site](archive.la2050.org), a database of all organizations that have applied to the My LA2050 Grants Challenge and their proposals
+* Access to periodic matching grants available to organizations featured on the [My LA2050 Ideas Archive](archive.la2050.org)
+* 'Volunteer' and 'Donate' buttons on each submission page to drive resources to your organization
+* The opportunity to cultivate and build new relationships with peers
+* Increased awareness and exposure to your work via our public platform
+* A chance to grow your skill in communicating your organization’s impact, including through the creation of videos, photos, tweets, and pithy messaging as you promote your submission
 
 </details>
 
@@ -136,7 +134,7 @@ In general, we’ve seen both small and large organizations do well in the votin
 <summary markdown="1">
 ## Are there examples of past winners somewhere?
 </summary>
-Yes, just head to our My LA2050 Ideas Archive! You can search by issue area or keyword. (Or click here to go directly to a page of previous winners).
+Yes, just head to our [My LA2050 Ideas Archive](archive.la2050.org)! You can search by issue area or keyword. (Or [click here](https://archive.la2050.org/search/?keywords=winner) to go directly to a page of previous winners).
 
 </details>
 
