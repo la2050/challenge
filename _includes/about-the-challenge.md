@@ -3,9 +3,16 @@
   {% include balcony-text.html %}
   {% include balcony-butterfly-path.html %}
   {% include balcony-butterfly.html %}
-  <p class="action home-intro__action">
-    <a href="/information-sessions">Sign up</a>
-  </p>
+  <div class="home-intro__action"></div>
+  <script>
+  (function() {
+    const button = document.querySelector(".promotion .action");
+    const container = document.querySelector(".home-intro__action");
+    if (button && container) {
+      container.appendChild(button.cloneNode(true));
+    }
+  })();
+  </script>
 </h1>
 <style>
   main > h1:first-child {
@@ -41,25 +48,27 @@
       padding-left: 7.5rem !important;
     }
   }
-  .action.home-intro__action {
+  main > .home-intro > .home-intro__action {
     font-size: 1rem;
     align-self: end;
     justify-self: start;
     margin: 0;
     font-size: 1.5vw;
-    transform: translate(5%, -105%);
+    transform: translate(5%, -60%);
   }
-  .action.home-intro__action a {
+  main > .home-intro > .home-intro__action .action a {
     background-color: var(--secondary-color);
     border-color: var(--secondary-color);
     background-color: white;
     border-color: white;
     color: var(--primary-color);
   }
-  .action.home-intro__action a:hover,
-  .action.home-intro__action a:active,
-  .action.home-intro__action a:focus {
-    border-color: white;
+  main > .home-intro > .home-intro__action .action a:hover,
+  main > .home-intro > .home-intro__action .action a:active,
+  main > .home-intro > .home-intro__action .action a:focus {
+    background-color: var(--secondary-color);
+    border-color: var(--secondary-color);
+    color: white;
   }
 </style>
 
