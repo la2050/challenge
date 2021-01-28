@@ -469,7 +469,7 @@
     margin-left: auto;
     margin-right: auto;
     font-weight: 500; /* @medium */
-    font-size: 1.25em;
+    font-size: 1.3125em;
     text-transform: uppercase;
     color: var(--snow);
     line-height: 1;
@@ -501,7 +501,13 @@
   header h2 a svg,
   footer h2 a svg {
     width: 6.75em;
-    height: 2.875em;
+    height: 2.0216726459em;
+    width: calc(58.8300018/16 * 1.835798006em);
+    height: calc(17.6200008/16 * 1.835798006em);
+
+    --multiplier: calc(2em / (17.6200008/16));
+    width: calc(58.8300018/16 * var(--multiplier));
+    height: calc(17.6200008/16 * var(--multiplier));
   }
   header h2 a svg path,
   footer h2 a svg path {
