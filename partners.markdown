@@ -33,7 +33,7 @@ If your organization is interested in sponsoring additional funding awards, plea
 
 ### Outreach Partners
 
-We are grateful to the following organizations who are helping spread the word about this year’s challenge:
+We are grateful to the following organizations for helping spread the word about this year’s challenge:
 
 * [Collaborative Fund](https://www.collaborativefund.com/)
 
