@@ -31,7 +31,7 @@ LA2050 will also commit to a one-year partnership with the winners—leveraging 
 ## Does my organization qualify to participate in the My LA2050 Grants Challenge?
 </summary>
 
-Are you a registered nonprofit, for-profit, fiscally-sponsored, or governmental organization serving Los Angeles County? Does your work touch on ANY of [these metrics](/about/#goals)? THEN YES, YOU QUALIFY! 
+Are you a registered nonprofit or fiscally-sponsored organization, for-profit company, or government agency serving Los Angeles County? Does your work touch on ANY of [these metrics](/about/#goals)? THEN YES, YOU QUALIFY! 
 
 </details>
 
@@ -49,7 +49,7 @@ And, while we’d love to be optimistic and assume that in-person gatherings wil
 
 If you anticipate that guidelines in Los Angeles County will change in the next year to allow for your organization to conduct activities that are currently restricted (e.g., in-person educational instruction) please explain on your application what you will do under both circumstances.
 
-Please note that applications that do not account for COVID-19 restrictions and precautions may be disqualified. If you have any questions, please feel free to email connect@la2050.org.
+Please note that applications that do not account for COVID-19 restrictions and precautions may be disqualified. If you have any questions, please feel free to email [connect@la2050.org](mailto:connect@la2050.org).
 
 </details>
 
@@ -60,7 +60,7 @@ Please note that applications that do not account for COVID-19 restrictions and 
 <summary markdown="1">
 ## Do you receive inquiries or answer questions about the challenge via telephone?
 </summary>
-Unfortunately, we do not take phone calls or meetings during this time due to the number of inquiries we receive. If you have questions, please consider attending one of our <a href="{{ site.office_hours_url }}">live information sessions on February 9, February 26, or March 19</a>. We are also happy to answer your questions any time via email at connect@la2050.org.
+Unfortunately, we do not take phone calls or meetings during this time due to the number of inquiries we receive. If you have questions, please consider attending one of our <a href="{{ site.office_hours_url }}">live information sessions on February 9, February 26, or March 19</a>. We are also happy to answer your questions any time via email at [connect@la2050.org](mailto:connect@la2050.org).
 
 </details>
 
@@ -158,9 +158,9 @@ There can be multiple proposals from the same organization, as long as the submi
 ## What are some tips for submitting ideas to the My LA2050 Grants Challenge?
 </summary>
 
-Collaborate. We are eager to see folks working together to improve Los Angeles.
-
 Think about impact. Be imaginative and audacious. We want to hear your most ambitious ideas – but we also want to know that your project is feasible, implementable, and that it could impact the [LA2050 goals and metrics](/about/#goals).
+
+Collaborate. We are eager to see folks working together to improve Los Angeles.
 
 Share how your proposal will impact the LA2050 goal you are focusing on. For example, if you’ve chosen the ‘Learn’ category, you might describe how your proposal will improve graduation rates; if you’ve chosen the ‘Connect’ category, you might explain how your proposal will increase voting rates or volunteerism.
 
@@ -171,8 +171,6 @@ Please include an image that represents your idea or organization. You’ll get 
 Videos can also help quickly articulate your project or your organization’s mission. To include a video, first upload the video to a place like [YouTube](https://www.youtube.com/) or [Vimeo](https://vimeo.com/), and then include the URL for the video with your application.
 
 Applicants should not expect to be able to revise their applications after the submission date.
-
-Your application goes through a moderation process, and will show up on the site if it is approved. If we have questions about your application, we will be in touch.
 
 Read [the application and scorecard](https://drive.google.com/drive/u/0/folders/1sKLxEqY0AMN1xpwgTKUIv-6d03puPkm4) to get a more precise idea of what we want to see. 
 
