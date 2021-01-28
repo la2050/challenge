@@ -239,7 +239,7 @@ And, while we’d love to be optimistic and assume that in-person gatherings wil
 
 If you anticipate that guidelines in Los Angeles County will change in the next year to allow for your organization to conduct activities that are currently restricted (e.g., in-person educational instruction) please explain on your application what you will do under both circumstances.
 
-Please note that applications that do not account for COVID-19 restrictions and precautions may be disqualified. If you have any questions, please feel free to email connect@la2050.org.
+Please note that applications that do not account for COVID-19 restrictions and precautions may be disqualified. If you have any questions, please feel free to email [connect@la2050.org](mailto:connect@la2050.org).
 
 ### Questions
 
