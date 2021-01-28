@@ -13,6 +13,8 @@ stylesheets:
 
 The My LA2050 Grants Challenge is possible because of the support of many organizations from across Los Angeles.
 
+{% if site.phase >= site.ENTRIES_BEING_ACCEPTED %}
+
 ## Funding Partners
 
 [![The Goldhirsh Foundation](/assets/images/partners/goldhirsh-foundation.png)](https://goldhirshfoundation.org)
@@ -27,6 +29,8 @@ The My LA2050 Grants Challenge is possible because of the support of many organi
 <p style="margin-bottom: 1.5em" markdown="1">
 _If your organization is interested in sponsoring additional funding awards, please email [connect@la2050.org](mailto:connect@la2050.org)._
 </p>
+
+{% endif %}
 
 ## Evaluation Partner
 
