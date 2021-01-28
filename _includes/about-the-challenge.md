@@ -47,7 +47,7 @@
 
 Over the past year, the people of Los Angeles have faced innumerable hardships as COVID-19 devastated our communities and upended our lives. 
 
-Our local social impact sector has stood on the frontlines and responded with care and courage. While we are certainly not surprised, we are in awe of our sector’s determination to serve our region through it all—quickly transitioning to safe, physically-distant service models, implementing innovative digital programming, and pivoting to respond to urgent and emergent needs.
+Our social impact sector has responded with care and courage. While we are certainly not surprised, we are in awe of our sector’s determination to serve our region through it all—quickly transitioning to safe, physically-distant service models, implementing innovative digital programming, and pivoting to respond to urgent and emergent needs.
 
 It has never been more clear that our path toward a brighter future relies on Angelenos coming together in the present. And, with that spirit of shared responsibility and collective hope in mind, we are proud to present our eighth My LA2050 Grants Challenge.
 
