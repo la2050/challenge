@@ -256,8 +256,8 @@ Starting <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</
 <style>
   /* SHIM: Balance space above/below timeline */
   main > .timeline {
-    margin-top: 4em !important;
-    padding-bottom: 4em;
+    margin-top: 2em !important;
+    padding-bottom: 2em;
   }
   @media (min-width: 40em) {
     main > .timeline {
