@@ -128,7 +128,6 @@ Submissions are open! Apply by <strong>{{ site.ENTRY_PERIOD_ENDED_DATE | date: "
 Read our <a href="/submit/#guidelines">application guidelines</a>.
 
 {% elsif site.phase == site.ENTRY_PERIOD_ENDED %}
-
 <p>
   <em>The submission period is complete.</em>
 </p>
@@ -141,7 +140,6 @@ Read our <a href="/submit/#guidelines">application guidelines</a>.
 </p>
 
 {% elsif site.phase == site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
-
 <p>
   <em>The submission period is complete.</em>
 </p>
@@ -154,7 +152,6 @@ Read our <a href="/submit/#guidelines">application guidelines</a>.
 </p>
 
 {% elsif site.phase == site.VOTES_BEING_ACCEPTED %}
-
 <p>
   <a href="/vote/">It’s time to vote</a>!
   
@@ -165,7 +162,6 @@ Read our <a href="/submit/#guidelines">application guidelines</a>.
 </p>
 
 {% elsif site.phase == site.VOTING_PERIOD_ENDED %}
-
 <p>
   <em>The public voting period is complete.</em>
 </p>
@@ -178,7 +174,6 @@ Read our <a href="/submit/#guidelines">application guidelines</a>.
 </p>
 
 {% elsif site.phase == site.FINALISTS_ANNOUNCED %}
-
 <p><em>The finalists have been selected!</em></p>
 <p>
   <a href="/finalists/">Check out the finalists</a>.
@@ -189,14 +184,10 @@ Read our <a href="/submit/#guidelines">application guidelines</a>.
 </p>
 
 {% elsif site.phase == site.WINNERS_ANNOUNCED %}
-
 <p><em>The winners have been announced!</em></p>
 <p><a href="/winners/">Check out the winners</a></p>
 
 {% endif %}
-
-
-<br />
 
 ## Selection of Winners
 
