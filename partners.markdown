@@ -11,21 +11,23 @@ stylesheets:
 
 ## 2021 Partners
 
-The My LA2050 Grants Challenge is possible because of the support of many partners from across Los Angeles.
+The My LA2050 Grants Challenge is possible because of the support of many organizations from across Los Angeles.
 
-### Lead Partners
+### Funding Partners
 
 [![The Goldhirsh Foundation](/assets/images/partners/goldhirsh-foundation.png)](https://goldhirshfoundation.org)
-: The Goldhirsh Foundation, founder of the My LA2050 Grants Challenge, providing $1,000,000 in grant funds
+: The Goldhirsh Foundation, founder of the My LA2050 Grants Challenge, providing $1,000,000 in grant funds.
 
 [![The Annenberg Foundation](/assets/images/partners/annenberg-foundation.png)](https://annenberg.org)
-: The Annenberg Foundation, providing $50,000 in grant funds to support efforts in diversity, equity, and inclusion
+: The Annenberg Foundation, providing $50,000 in grant funds to support efforts in diversity, equity, and inclusion.
 
 [![Snap Foundation](/assets/images/partners/snap-foundation.png)](https://snapfoundation.org)
-: The Snap Foundation, supporting projects that develop pathways to the creative economy for underrepresented youth in Los Angeles
+: The Snap Foundation, supporting projects that develop pathways to the creative economy for underrepresented youth in Los Angeles.
+
+### Evaluation Partner
 
 [![Social Venture Partners Los Angeles](/assets/images/partners/social-venture-partners.jpg)](https://www.svpla.org/)
-: Additionally, we are proud to have Social Venture Partners Los Angeles (SVP) as our external evaluation partner. SVP is a membership organization that connects community leaders to nonprofits to tackle Los Angeles' toughest challenges. All proposals are reviewed, scored, and evaluated by members of SVP.
+: Social Venture Partners Los Angeles (SVP), serving as our external evaluation partner. SVP is a membership organization that connects community leaders to nonprofits to tackle Los Angeles' toughest challenges. All proposals are reviewed, scored, and evaluated by members of SVP.
 
 ### Outreach Partners
 
