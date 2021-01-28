@@ -26,7 +26,7 @@ The My LA2050 Grants Challenge is possible because of the support of many organi
 
 
 _If your organization is interested in sponsoring additional funding awards, please email [connect@la2050.org](mailto:connect@la2050.org)._
-
+<br />
 
 ### Evaluation Partner
 
