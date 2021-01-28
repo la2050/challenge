@@ -68,7 +68,7 @@ We need your help to turn the [LA2050 goals and metrics](/about/#goals) into act
 
 <section class="awards" markdown="1">
 
-### 25 Organizations
+### 25 Winners
 
 <section class="blueberry" markdown="1">
 #### Learn
