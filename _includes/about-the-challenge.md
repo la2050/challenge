@@ -3,6 +3,9 @@
   {% include balcony-text.html %}
   {% include balcony-butterfly-path.html %}
   {% include balcony-butterfly.html %}
+  <p class="action home-intro__action">
+    <a href="/information-sessions">Sign up</a>
+  </p>
 </h1>
 <style>
   main > h1:first-child {
@@ -37,6 +40,26 @@
       padding-right: 4.5rem !important;
       padding-left: 7.5rem !important;
     }
+  }
+  .action.home-intro__action {
+    font-size: 1rem;
+    align-self: end;
+    justify-self: start;
+    margin: 0;
+    font-size: 1.5vw;
+    transform: translate(5%, -105%);
+  }
+  .action.home-intro__action a {
+    background-color: var(--secondary-color);
+    border-color: var(--secondary-color);
+    background-color: white;
+    border-color: white;
+    color: var(--primary-color);
+  }
+  .action.home-intro__action a:hover,
+  .action.home-intro__action a:active,
+  .action.home-intro__action a:focus {
+    border-color: white;
   }
 </style>
 
@@ -251,7 +274,7 @@ Starting <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</
 
 {% endif %}
 
-<section class="standard-section timeline" id="dates"><div markdown="1">
+<section class="standard-section timeline" id="dates" style="margin-top: 0 !important;"><div markdown="1">
 
 <style>
   /* SHIM: Balance space above/below timeline */
