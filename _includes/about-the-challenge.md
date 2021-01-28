@@ -111,7 +111,7 @@ $10K
 
 </section>
 
-And, check out the [funding awards available from this year's {{ site.year }} grants challenge partners](/partners/)!
+And, check out the [additional awards available from this year's {{ site.year }} grants challenge funding partners](/partners/)!
 
 {% if site.phase == site.NEW_CHALLENGE_ANNOUNCED %}
 
