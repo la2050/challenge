@@ -1,5 +1,7 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-   viewBox="0 0 425.6799927 182.2400055" enable-background="new 0 0 425.6799927 182.2400055" xml:space="preserve">
+   viewBox="0 0 425.6799927 182.2400055" enable-background="new 0 0 425.6799927 182.2400055" xml:space="preserve"
+   aria-label="{{ include.description }}"
+ 	 role="img">
 
 
  <!-- Butterfly (start position) -->
@@ -69,7 +71,7 @@
 
 
 <!-- Butterfly (top left) -->
-<g style="transform: translate(0, -12px); opacity: var(--opacity, 0); transition: opacity 0s;" id="butterfly">
+<g style="display: none; transform: translate(0, -12px); opacity: var(--opacity, 0); transition: opacity 0s;" id="butterfly">
   <path fill="#FFFFFF" d="M0.0816826,9.8483639l0.0603619-0.0893173l0.2064234-0.1811447
     c0,0,0.1249172-0.0626211,0.1917168-0.0778008C0.603736,9.4856606,0.674493,9.4739809,0.740643,9.4791937
     C0.8500857,9.4878016,0.9165902,9.5056095,1.014811,9.5502901c0.06048,0.027523,0.1159397,0.0698557,0.162481,0.1169434
@@ -149,6 +151,7 @@
     const butterflyDelay = 400;
     const pathDelay = 200;
     const animationDuration = 3000;
+    document.querySelector("#butterfly").style.display = "unset";
     setTimeout(() => {
       const motionElements = document.querySelectorAll("#butterfly animateMotion");
       for (let element of motionElements) {

@@ -1,8 +1,14 @@
 <h1 class="home-intro">
-  {% include balcony-background.html %}
-  {% include balcony-text.html %}
+  {% include balcony-background.html
+    description="An illustration of people standing on their balconies and waving, with signs that read: “Thank you essential workers!” and “Black Lives Matter”"
+  %}
+  {% include balcony-text.html
+    description="Together for a brighter future"
+  %}
   {% include balcony-butterfly-path.html %}
-  {% include balcony-butterfly.html %}
+  {% include balcony-butterfly.html
+    description="Butterfly"
+  %}
   <div class="home-intro__action"></div>
   <script>
   (function() {
@@ -54,7 +60,7 @@
     justify-self: start;
     margin: 0;
     font-size: 1.5vw;
-    transform: translate(5%, -60%);
+    transform: translate(0.35em, -2.7em);
   }
   main > .home-intro > .home-intro__action .action a {
     background-color: var(--secondary-color);
