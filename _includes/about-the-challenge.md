@@ -1,8 +1,14 @@
 <h1 class="home-intro">
-  {% include balcony-background.html %}
-  {% include balcony-text.html %}
+  {% include balcony-background.html
+    description="An illustration of people standing on their balconies and waving, with signs that read: “Thank you essential workers!” and “Black Lives Matter”"
+  %}
+  {% include balcony-text.html
+    description="Together for a brighter future"
+  %}
   {% include balcony-butterfly-path.html %}
-  {% include balcony-butterfly.html %}
+  {% include balcony-butterfly.html
+    description="Butterfly"
+  %}
   <div class="home-intro__action"></div>
   <script>
   (function() {
