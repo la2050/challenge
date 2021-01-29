@@ -101,8 +101,8 @@
     background-color: white;
     border-color: black;
     color: black;
-    
-    background-color: var(--white);
+
+    background-color: var(--snow);
     border-color: var(--primary-color, black);
     color: var(--primary-color, black);
   }
