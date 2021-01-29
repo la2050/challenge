@@ -43,6 +43,8 @@ We are grateful to the following organizations for helping spread the word about
 
 * [Collaborative Fund](https://www.collaborativefund.com/)
 
+* [Community Partners](https://communitypartners.org/)
+
 * [Grid110](https://www.grid110.org/)
 
 * [Los Angeles Cleantech Incubator (LACI)](https://laincubator.org/)
