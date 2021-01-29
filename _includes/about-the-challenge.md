@@ -54,7 +54,7 @@
     justify-self: start;
     margin: 0;
     font-size: 1.5vw;
-    transform: translate(5%, -60%);
+    transform: translate(0.35em, -2.7em);
   }
   main > .home-intro > .home-intro__action .action a {
     background-color: var(--secondary-color);
