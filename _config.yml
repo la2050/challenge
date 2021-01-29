@@ -53,10 +53,10 @@ VOTING_PERIOD_ENDED_TIME:          5pm Pacific Time
 
 
 # New challenge announced: 
-phase: 1
+# phase: 1
 
 # Entries being accepted:
-# phase: 2
+phase: 2
 
 # Entry period ended: 
 # phase: 3
