@@ -172,7 +172,7 @@ Videos can also help quickly articulate your project or your organization’s mi
 
 Applicants should not expect to be able to revise their applications after the submission date.
 
-Read [the full application and evaluation scorecard](https://drive.google.com/file/d/1SFj6ON4xQ1GTcGAAv_FXalHxjmUMTwq9/view?usp=sharing) to get a more precise idea of what we want to see. 
+Read [the full application and evaluation scorecard](https://drive.google.com/drive/folders/1sKLxEqY0AMN1xpwgTKUIv-6d03puPkm4?usp=sharing) to get a more precise idea of what we want to see. 
 
 Check out the [LA2050 Goals](/about/#goals), the [LA2050 Report](https://la2050.s3-us-west-1.amazonaws.com/reports/1/pdfs/vision_for_a_successful_los_angeles.pdf), and our most recent [Submissions Report](https://la2050.s3-us-west-1.amazonaws.com/reports/17/pdfs/2020_Submissions_Report_%281%29.pdf?1603132227) for additional information.
 
