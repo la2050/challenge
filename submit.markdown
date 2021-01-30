@@ -160,8 +160,8 @@ The winners have been announced!
 * The grants challenge is all about making progress on our shared goals and metrics. Read about them [here](https://la2050.org/goals). 
 * We’re holding office hours via webinar on February 9, February 24, and March 16. <a href="{{ site.office_hours_url }}">Sign-up for a webinar here.</a>
 * Need inspiration? Browse proposals from past My LA2050 winners on the [My LA2050 Ideas Archive](https://archive.la2050.org/search/?keywords=winner). 
-* Want to prepare to submit? Check out the [application, scorecard, and rules](https://drive.google.com/drive/folders/1sKLxEqY0AMN1xpwgTKUIv-6d03puPkm4?usp=sharing). 
-* Review the [scorecard](https://drive.google.com/file/d/1SFj6ON4xQ1GTcGAAv_FXalHxjmUMTwq9/view?usp=sharing) to see how your proposal will be evaluated.
+* Want to prepare to submit? Check out the [application guide and rules](https://drive.google.com/drive/folders/1sKLxEqY0AMN1xpwgTKUIv-6d03puPkm4?usp=sharing). 
+* Review the [evaluation scorecard](https://drive.google.com/file/d/1SFj6ON4xQ1GTcGAAv_FXalHxjmUMTwq9/view?usp=sharing) to see how your proposal will be evaluated.
 
 {% comment %}
 * Ready to submit? Check out the [entry form]({{ site.submission_url }}).
@@ -227,7 +227,7 @@ _What are the rules for submitting a proposal to the My LA2050 Grants Challenge?
 * <em>Voting</em>: Public voting will occur on this website between {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.VOTES_BEING_ACCEPTED_TIME }}) and {{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.VOTING_PERIOD_ENDED_TIME }}). Voting will determine the grants awarded to the 25 finalists. First place in each goal category will receive $100,000, second: $50,000, third: $25,000, fourth: $15,000, and fifth: $10,000. 
 * Winners will represent a diversity of issues and activities.
 * Winners of the My LA2050 Grants Challenge will be grantees of the Goldhirsh Foundation and will be required to check-in with LA2050 periodically throughout the grant period.
-* [Read all the rules](https://drive.google.com/file/d/1Ho5MPqGqCXenL-3WcYOrRYMoN5RX0ckq/view?usp=sharing)
+* [Read all the official rules](https://drive.google.com/file/d/1Ho5MPqGqCXenL-3WcYOrRYMoN5RX0ckq/view?usp=sharing)
 
 ### Regarding COVID-19 and Activity Restrictions
 We understand how difficult it is to plan for a year-long grant period in our current context. 
