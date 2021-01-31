@@ -320,7 +320,7 @@ voting_enable_auth0: true
 
 voting_enable_phone: true
 voting_enable_email: true
-voting_enable_facebook: true
+voting_enable_facebook: false
 
 voting_maintance_mode: false
 voting_test_mode: false
