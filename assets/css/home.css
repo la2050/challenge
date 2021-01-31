@@ -1,0 +1,58 @@
+
+  /* =Home Intro
+  ----------------------------------------------- */
+  main > h1.home-intro:first-child {
+    margin-top: 0;
+    padding-top: 0;
+    padding-bottom: 4.5rem;
+  }
+  main > h1.home-intro:first-child svg {
+    padding: unset;
+    border-radius: unset;
+    width: unset;
+    height: unset;
+    background: unset;
+    color: unset;
+    margin-top: unset;
+  }
+  main > .home-intro {
+    display: grid;
+  }
+  main > .home-intro > * {
+    grid-column: 1 / -1;
+    grid-row: 1 / -1;
+    justify-self: center;
+    align-self: center;
+  }
+  main > .home-intro svg {
+    width: 100%;
+    height: auto;
+  }
+  @media (min-width: 60em) {
+    main > .home-intro {
+      padding-right: 4.5rem !important;
+      padding-left: 7.5rem !important;
+    }
+  }
+  main > .home-intro > .home-intro__action {
+    font-size: 1rem;
+    align-self: end;
+    justify-self: start;
+    margin: 0;
+    font-size: 1.5vw;
+    transform: translate(0.35em, -2.7em);
+  }
+  main > .home-intro > .home-intro__action .action a {
+    background-color: var(--secondary-color);
+    border-color: var(--secondary-color);
+    background-color: white;
+    border-color: white;
+    color: var(--primary-color);
+  }
+  main > .home-intro > .home-intro__action .action a:hover,
+  main > .home-intro > .home-intro__action .action a:active,
+  main > .home-intro > .home-intro__action .action a:focus {
+    background-color: var(--secondary-color);
+    border-color: var(--secondary-color);
+    color: white;
+  }
