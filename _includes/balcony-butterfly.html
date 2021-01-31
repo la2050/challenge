@@ -69,6 +69,21 @@
     C113.8349457,27.3224201,113.7780457,26.8472233,113.5637589,26.4613495z"/>
 </g>
 
+{% capture animate_motion %}
+<!-- https://stackoverflow.com/questions/28057539/how-to-efficiently-reverse-svg-smil-animation-on-motion-path -->
+<animateMotion
+  begin="0.6s"
+  dur="3s"
+  repeatCount="1"
+  rotate="none"
+  fill="freeze"
+  keyPoints="1.0;0.9;0.8;0.7;0.6;0.5;0.4;0.3;0.2;0.1;0.0"
+   keyTimes="0.0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;0.9;1.0"
+  calcMode="discrete"
+  path="M108.1264114,32.7902069c2.2459106,1.6199951,5.7703857,4.1633301,5.8928833,4.2467346
+      c10.4231567,7.1010132,37.9643478,20.4081421,61.4807053,17.64151c34-4,41-35,67-37
+      c25.6342163-1.9718637,53.2724609,17.0908203,68,22c14.4799194,4.8266296,24.3005371-5.2564697,35.758728-6.8609924" />
+{% endcapture %}
 
 <!-- Butterfly (top left) -->
 <g style="opacity: var(--opacity, 1);" id="butterfly">
@@ -89,60 +104,20 @@
     C1.0528473-3.0717156,1.043988-3.0802059,1.0336519-3.0879726C0.998687-3.0732217,0.9653167-3.0554292,0.9279301-3.0459201
     c-0.2529647,0.0643783-0.536819,0.0032485-0.7190859-0.1909785C0.1198961-3.3316791,0.053687-3.4465559,0.0193126-3.572226
     c-0.03213-0.1175196-0.0144703-0.3478632-0.0144703-0.3478632L0.0816826-4.1516438z">
-    <!-- https://stackoverflow.com/questions/28057539/how-to-efficiently-reverse-svg-smil-animation-on-motion-path -->
-    <animateMotion
-      id="butterfly-motion"
-      begin="0.6s"
-      dur="3s"
-      repeatCount="1"
-      rotate="none"
-      fill="freeze"
-      keyPoints="1.0;0.9;0.8;0.7;0.6;0.5;0.4;0.3;0.2;0.1;0.0"
-       data-keyTimes="0.0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;0.9;1.0"
-      calcMode="discrete"
-      keySplines=".1,0,.9,1"
-      path="M108.1264114,32.7902069c2.2459106,1.6199951,5.7703857,4.1633301,5.8928833,4.2467346
-      c10.4231567,7.1010132,37.9643478,20.4081421,61.4807053,17.64151c34-4,41-35,67-37
-      c25.6342163-1.9718637,53.2724609,17.0908203,68,22c14.4799194,4.8266296,24.3005371-5.2564697,35.758728-6.8609924" />
+    {{ animate_motion }}
   </path>
   <path fill="#FF9E42" d="M6.7007251-7.4314351C6.9441943-7.8358541,7.1822925-8.272316,7.2429004-8.7745132
     c0.088562-0.7334595-0.2670898-1.5147705-0.8136597-1.7874146C5.8827319-10.8345108,4.3046679-9.2175064,3.9722705-8.60569
     c-0.0501099-1.0285645,0.3731689-3.399231-0.3708496-3.822876c-0.7441406-0.423645-1.7330321-0.1351318-2.1663208,0.7382202
     c-0.2042236,0.4118042-0.2778931,0.90979-0.274231,1.3956299C1.1645924-9.808815,1.1302906-9.2974625,1.3172413-8.8527603
     c0.5389404,1.2819209,1.2403563,3.7066646,1.6423949,4.643188C3.0201831-4.0685201,6.0781665-6.3970723,6.7007251-7.4314351z">
-    <animateMotion
-      id="butterfly-motion"
-      begin="0.6s"
-      dur="3s"
-      repeatCount="1"
-      rotate="none"
-      fill="freeze"
-      keyPoints="1.0;0.9;0.8;0.7;0.6;0.5;0.4;0.3;0.2;0.1;0.0"
-       data-keyTimes="0.0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;0.9;1.0"
-      calcMode="discrete"
-      data-keySplines=".1,0,.9,1"
-      path="M108.1264114,32.7902069c2.2459106,1.6199951,5.7703857,4.1633301,5.8928833,4.2467346
-      c10.4231567,7.1010132,37.9643478,20.4081421,61.4807053,17.64151c34-4,41-35,67-37
-      c25.6342163-1.9718637,53.2724609,17.0908203,68,22c14.4799194,4.8266296,24.3005371-5.2564697,35.758728-6.8609924" />
+    {{ animate_motion }}
   </path>
   <path fill="#FF9E42" d="M9.5360298-4.1443405C9.3042793-4.5617204,8.9222822-4.8288851,8.5547161-4.9326391
     C8.1871548-5.0364499,7.8285666-4.9970589,7.4831762-4.9350705C6.559381-4.7693453,4.5292549-3.1166449,4.4923697-3.1063247
     c0.6977491,0.4371889,1.5065818,1.0372941,1.9424014,1.1874655c0.9708419,0.334451,2.9713407,0.7639436,3.2989421-0.9742802
     C9.8072157-3.2832704,9.7503128-3.7584665,9.5360298-4.1443405z">
-    <animateMotion
-      id="butterfly-motion"
-      begin="0.6s"
-      dur="3s"
-      repeatCount="1"
-      rotate="none"
-      fill="freeze"
-      keyPoints="1.0;0.9;0.8;0.7;0.6;0.5;0.4;0.3;0.2;0.1;0.0"
-       data-keyTimes="0.0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;0.9;1.0"
-      calcMode="discrete"
-      data-keySplines=".1,0,.9,1"
-      path="M108.1264114,32.7902069c2.2459106,1.6199951,5.7703857,4.1633301,5.8928833,4.2467346
-      c10.4231567,7.1010132,37.9643478,20.4081421,61.4807053,17.64151c34-4,41-35,67-37
-      c25.6342163-1.9718637,53.2724609,17.0908203,68,22c14.4799194,4.8266296,24.3005371-5.2564697,35.758728-6.8609924" />
+    {{ animate_motion }}
   </path>
 </g>
 
@@ -151,19 +126,15 @@
     const butterflyDelay = 600;
     const pathDelay = 300;
     const animationDuration = 3000;
-    document.querySelector("#butterfly").style.display = "unset";
     setTimeout(() => {
-      const motionElements = document.querySelectorAll("#butterfly animateMotion");
-      for (let element of motionElements) {
-        console.log("element");
-        // element.addEventListener("onbegin", () => {
-        //   console.log("onbegin");
-        // });
-        element.setAttribute(
-          "keyTimes",
-          element.getAttribute("data-keyTimes") || element.getAttribute("data-keytimes")
-        );
-      };
+      // const motionElements = document.querySelectorAll("#butterfly animateMotion");
+      // for (let element of motionElements) {
+      //   console.log("element");
+      //   element.setAttribute(
+      //     "keyTimes",
+      //     element.getAttribute("keyTimes") || element.getAttribute("keyTimes")
+      //   );
+      // };
 
       requestAnimationFrame(() => {
         setTimeout(() => {
@@ -171,12 +142,12 @@
         }, butterflyDelay);
       });
 
-      requestAnimationFrame(() => {
-        setTimeout(() => {
-          document.querySelector("#butterfly").style.setProperty("--opacity", "1");
-          document.querySelector("#butterfly-motion-path").style.setProperty("--animation-play-state", "running");
-        }, butterflyDelay + pathDelay);
-      });
+      // requestAnimationFrame(() => {
+      //   setTimeout(() => {
+      //     document.querySelector("#butterfly").style.setProperty("--opacity", "1");
+      //     document.querySelector("#butterfly-motion-path").style.setProperty("--animation-play-state", "running");
+      //   }, butterflyDelay + pathDelay);
+      // });
 
       setTimeout(() => {
         document.querySelector("#butterfly").style.setProperty("--opacity", "0");
