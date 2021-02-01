@@ -23,7 +23,7 @@
 
 
 <h2>
- We’re in this <span class="avoid-break">together, LA!</span>
+ We’re in this <span style="white-space: nowrap">together, LA!</span>
 </h2>
 
 Over the past year, the people of Los Angeles have faced innumerable hardships as COVID-19 devastated our communities and upended our lives. 
