@@ -17,7 +17,7 @@ organization_website: 'https://www.woodcraftrangers.org'
 organization_twitter: '@woodcraftranger'
 organization_facebook: www.facebook.com/woodcraftrangers
 organization_instagram: '@woodcraftrangers'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The mission of Woodcraft Rangers is to guide young people as they explore
   pathways to purposeful lives. We provide children and youth from some of LA’s
   lowest-income neighborhoods with after-school enrichment programs, summer
@@ -35,10 +35,10 @@ In which areas of Los Angeles will you be directly working?:
   - East LA
   - San Gabriel Valley
   - South LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   Woodcraft Rangers youth live in neighborhoods scarred by years of housing
   instability, substandard environmental conditions, gangs, and violence. They
   attend schools with the state’s lowest academic performance rankings and have
@@ -57,7 +57,7 @@ What is the need you’re responding to?: >
   a cost that many families can no longer afford. In response to the economic
   impact of the current crisis, we are proposing a new scholarship program to
   provide free enrollment for qualifying families.
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   With a century-long history of growth and success in expanded learning,
   Woodcraft Rangers is a longtime leader in providing quality afterschool and
   summer enrichment programs. Since 1922, Woodcraft Rangers has brought together
@@ -74,7 +74,7 @@ Why is this project important to the work of your organization?: >
   receive trauma-informed training, and many serve as mentors during Woodcraft
   afterschool programs, providing additional security to young campers and their
   caregivers.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   With the support of a partnership with LA2050, Woodcraft Rangers hopes to
   accomplish the following outcomes:
 
@@ -92,9 +92,9 @@ Please explain how you will define and measure success for your project.: >
 
 
   *Woodcraft day camps will maintain a maximum 20:1 student to staff ratio.
-Approximately how many people will be directly impacted by this proposal?: '600'
-Approximately how many people will be indirectly impacted by this proposal?: '600'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '600'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '600'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Woodcraft Rangers' long-term aim is to help shift the socioeconomic systems
   that disfavor youth from low-income families (largely families of color) and
   empower them to seek productive and rewarding lives that uplift entire
@@ -110,14 +110,14 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - College graduates
   - Community college completion
   - Obesity
   - Youth sports participation
   - Crime rates
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your project will impact.: []
+year: 2021
 category: play
 filename: woodcraft-rangers
 order: 24

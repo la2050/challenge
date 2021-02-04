@@ -19,7 +19,7 @@ organization_website: 'https://www.liftcommunities.org/'
 organization_twitter: '@LIFTCommunities'
 organization_facebook: '@LIFTCommunities'
 organization_instagram: liftcommunities
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   LIFT-LA empowers families to break the cycle of poverty through one-on-one
   financial, educational and career coaching. We believe all families should
   have an equal chance to thrive. That is why we put cash into the hands of our
@@ -38,10 +38,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Los Angeles County holds nearly 10% of the country’s homelessness population
   and has a poverty rate of 21.5%, significantly higher than the U.S. average of
   13.4%. Families arrive at LIFT’s office in the Pico Union neighborhood (where
@@ -61,7 +61,7 @@ What is the need you’re responding to?: >-
   coaching, workshops, and resources that will support them in increasing
   savings and income, decreasing debt, and securing family-sustaining
   employment.
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   For more than 20 years LIFT has partnered with over 100,000 families on their
   paths out of poverty. We know from experience that parents are motivated,
   resilient, and thrive when they have access to the same things we all need to
@@ -78,7 +78,7 @@ Why is this project important to the work of your organization?: >
   cycle of poverty. Of the 400 families we serve each year, 95% report
   improvements in economic security, 95% report improved personal well-being and
   99% of our members feel that they can turn to LIFT in a time of need.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   LIFT will measure success using the following metrics:
 
   -90% of committed members will persist or progress in employment, finances, or
@@ -110,9 +110,9 @@ Please explain how you will define and measure success for your project.: >
   a job, started her own construction company, and became a homeowner. Access to
   LIFT’s Goal Fund was pivotal in helping her stay on course, rebound in crisis,
   and make her dreams a reality.
-Approximately how many people will be directly impacted by this proposal?: '400'
-Approximately how many people will be indirectly impacted by this proposal?: '1600'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '400'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '1600'
+Describe how Los Angeles County will be different if your work is successful.: >-
   LIFT can share key lessons that have clear policy implications. 1) We can
   trust parents. If given access to funds—and the right to choose how to spend
   it—our data show that parents spend on what they need most. 2) Fewer
@@ -130,13 +130,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Office space for meetings, events, or for staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Poverty rate
   - Resilient communities
   - Homelessness
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: lift-los-angeles
 order: 28

@@ -17,7 +17,7 @@ organization_website: 'https://www.70millionjobs.com'
 organization_twitter: '@70MillionJobs'
 organization_facebook: www.facebook.com/70millionjobs
 organization_instagram: '@70MillionJobs'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   70 Million Jobs is the first national, for-profit employment platform for
   people with criminal backgrounds. Our marketplace enables employers to access
   the 1-in-3 Americans in the job market who have some kind of criminal record.
@@ -39,8 +39,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >
   The formerly incarcerated population has the highest rate of unemployment of
   any job seeking community at nearly 30%. Additionally, without stable
   employment, the rate of recidivism is nearly 80% in the first 1-3 years after
@@ -56,7 +56,7 @@ What is the need you’re responding to?: >
   program hopes to facilitate implementation of fair chance hiring policies
   through placing specifically trained and therefore high value candidates in
   hard-to-fill jobs. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Since our public launch in 2017 through Silicon Valley’s preeminent tech
   incubator, Y Combinator, 70 Million Jobs’ community has grown to support more
   than 11 million formerly incarcerated men and women, and has facilitated
@@ -66,7 +66,7 @@ Why is this project important to the work of your organization?: >-
   graduated from Silicon Valley’s preeminent tech incubator, Y Combinator, we
   are in a unique position to place technically trained candidates with criminal
   histories in the most difficult to access industry landscapes.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Through our Federal DOL grant, we’re tasked with creating approximately 500
   apprenticeship opportunities. Through the LA2050 partnership, we would
   collaborate with the LA2050 team to evaluate opportunities for new
@@ -87,9 +87,9 @@ Please explain how you will define and measure success for your project.: >
   modification; and to participate on state and national conference panels to
   show the positive impact of the apprenticeship model, Fair Chance Hiring, and
   encourage industry partners to adopt the program.
-Approximately how many people will be directly impacted by this proposal?: '100'
-Approximately how many people will be indirectly impacted by this proposal?: '10000'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '100'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '10000'
+Describe how Los Angeles County will be different if your work is successful.: >
   In the last 4 years of facilitating fair chance hiring for corporate employers
   throughout the nation, we have discovered that once a company successfully
   hires someone with a criminal background, they will open up 30%-50% more
@@ -108,12 +108,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Employment in the tech industries
   - Income inequality
   - Economic opportunities for formerly incarcerated
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your project will impact.: []
+year: 2021
 category: create
 filename: 70-million-jobs
 order: 1

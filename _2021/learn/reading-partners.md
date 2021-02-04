@@ -20,7 +20,7 @@ organization_website: 'https://www.readingpartners.org'
 organization_twitter: '@RPLosAngeles'
 organization_facebook: 'https://www.facebook.com/readingpartnersla'
 organization_instagram: '@ReadingPartnersLA'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Reading Partners’ mission is to help children become lifelong readers by
   empowering communities to provide individualized instruction with measurable
   results, and we envision a future where all children will have the literacy
@@ -41,10 +41,10 @@ In which areas of Los Angeles will you be directly working?:
   - Central LA
   - San Gabriel Valley
   - South Bay
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   According to the 2016 California Assessment of Student Performance and
   Progress Test (CAASPP), 72% of Los Angeles County’s economically disadvantaged
   student scored below reading standards in 2016. Research shows that children
@@ -56,7 +56,7 @@ What is the need you’re responding to?: >-
   Partners targets low-income elementary students who have yet to master basic
   foundational reading skills and who are six months to two-and-a-half years
   behind grade level proficiency.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Reading Partners believes reading is the foundation of all future learning,
   and is the only nationally scaled program in the country with the complete
   package of in-school, one-on-one literacy instruction by volunteers who are
@@ -69,7 +69,7 @@ Why is this project important to the work of your organization?: >-
   use Reading Partners’ curriculum, a series of research-based, structured
   lessons plans that progress from phonics instruction for early readers to
   comprehension strategy instruction for more advanced students. 
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Reading Partners’ overarching goal is to help close the reading achievement
   gap among low-income youth by producing measurable improvement in students’
   reading skills. We track each student’s progress against their primary
@@ -102,9 +102,9 @@ Please explain how you will define and measure success for your project.: >
   Objective 6: 2-3 additional school partners will be identified for the 2021-22
   school year, where we will be able to reach the additional 150 students needed
   to reach 1000 students across the Greater Los Angeles Area.
-Approximately how many people will be directly impacted by this proposal?: '900'
-Approximately how many people will be indirectly impacted by this proposal?: '2500'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '900'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '2500'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Basic literacy is the foundation for future success, and a critical stepping
   stone helping low-income students break the cycle of poverty.  Educational
   attainment entrenches the cycle of poverty by diminishing future earning
@@ -120,10 +120,10 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - 'Office space for meetings, events, or for staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - High school graduation rates
   - Student proficiency in English & Language Arts
-Are there any other LA2050 goal categories that your proposal will impact?: []
+Indicate any additional LA2050 goals your project will impact.: []
 Has your proposal changed due to COVID-19?: >
   School closures resulting from COVID-19 have a significant impact on all students; however, for low-income communities, that impact is devastating. Students who were already falling will fall even further behind.
 
@@ -135,7 +135,7 @@ Has your proposal changed due to COVID-19?: >
 
 
   So, in addition to the continuation of the above resources in the upcoming school year, Reading Partners will also be offering remote tutoring that will extend our proven curriculum into a virtual environment. We are currently building a platform for our students to experience our curriculum virtually with a volunteer tutor, either at home or at school. We plan to roll out the program fully in the fall along with some of our other summer pilot programs.
-year: 2020
+year: 2021
 category: learn
 filename: reading-partners
 order: 58

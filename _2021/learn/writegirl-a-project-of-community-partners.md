@@ -18,7 +18,7 @@ organization_website: 'https://www.writegirl.org'
 organization_twitter: '@WriteGirlLA'
 organization_facebook: '@WriteGirlOrganization'
 organization_instagram: '@WriteGirlLA'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   WriteGirl promotes creativity and self-expression to empower underserved Los
   Angeles teen girls within a community of women writers. Since 2001,
   WriteGirl’s creative writing and mentoring programs have provided a platform
@@ -48,10 +48,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   In the wake of upheaval caused by COVID-19, we have reached out to more than
   700 WriteGirl teens and program alumnae to connect with our members and learn
   how we can help. We have learned first-hand that the girls we serve are in
@@ -68,7 +68,7 @@ What is the need you’re responding to?: >-
   give hundreds of Los Angeles teen girls an engaging, interactive and positive
   online space to learn, create and be inspired. WriteGirl Connected will allow
   us to reach more girls than ever.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Since 2001, WriteGirl has provided a consistent and supportive community of
   accomplished women writers who have guided 100% of the seniors in our Core
   Mentoring Program to enroll in college. We want to continue to send all of our
@@ -88,7 +88,7 @@ Why is this project important to the work of your organization?: >-
   community of dedicated and trained mentors provides individual guidance to
   inspire even the most reticent learners. Taking this program online is a
   natural next step for WriteGirl.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   We are committed to providing quality content that embodies WriteGirl’s high
   standards in presenting the uplifting and engaging educational programming
   that is the hallmark of our organization. We are confident that WriteGirl
@@ -113,9 +113,9 @@ Please explain how you will define and measure success for your project.: >-
   we will be able to give girls the support they need now to develop the
   confidence and creative skills they need to thrive in high school and beyond
   into creative careers.
-Approximately how many people will be directly impacted by this proposal?: '1000'
-Approximately how many people will be indirectly impacted by this proposal?: '12000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '12000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   WriteGirl has guided more than 1,000 underserved girls to graduate from high
   school and enroll in college, many with scholarships and as the first in their
   families to go to college. Our alumnae mentees are pursuing ambitious academic
@@ -134,13 +134,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - Enrollment in afterschool programs
   - High school graduation rates
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: learn
 filename: writegirl-a-project-of-community-partners
 order: 80

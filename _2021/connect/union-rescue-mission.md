@@ -17,7 +17,7 @@ organization_website: 'https://www.urm.org'
 organization_twitter: '@URM'
 organization_facebook: '@unionrescuemissionla'
 organization_instagram: '@unionrescuemission'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Union Rescue Mission provides life-transforming programs to end homelessness
   for men, women, children and families throughout Los Angeles County. 
 project_description: >-
@@ -32,10 +32,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >+
+What is the problem that you are seeking to address?: >+
   URM is responding to the 58,936 people experiencing homelessness in LA County,
   8,799 of which are family members. Los Angeles now has the largest homeless
   population in the Country, with numbers increasing annually. 
@@ -56,7 +56,7 @@ What is the need you’re responding to?: >+
   include CONNECTING families to housing and CONNECTING Angelenos to
   volunteerism. 
 
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   URM is the only shelter on Skid Row that serves families. 
 
 
@@ -83,20 +83,20 @@ Why is this project important to the work of your organization?: >
 
   URM opened an emergency Sprung Structure in 2019 to expand capacity to serve
   more women. 
-Please explain how you will define and measure success for your project.: "Annual measurements tracked to gauge progress:\n\n*\tKeep doors open during COVID-19 crisis, to continue to serve rising numbers of people/families experiencing homelessness on the streets of Skid Row\n*\tEnd homelessness for more families – through the provision of emergency housing for families on Skid Row.\n*\tConnect families to transitional housing at Hope Garden Family Center\n*\tEngage over 31,000 volunteers to serve through all URM programs\n*\tMobilize volunteers through online fundraisers including the URM Walk to End Homelessness and Annual Angels of Hope Gala\n\nIn order to boost volunteerism, we will reach: \n*\t9,082 Instagram followers\n*\t8,028 Twitter followers\n*\t26,000 Facebook users\n*\t9,600 listeners on KKLA’s Stories from Skid Row\n*\t9,170 YouTube subscribers.\n"
-Approximately how many people will be directly impacted by this proposal?: '6000'
-Approximately how many people will be indirectly impacted by this proposal?: '10000000'
-Please describe the broader impact of your proposal.: "This proposal will:\n\n*\tProvide critical services, medical care and support to help stem the overwhelming impact that COVID-19 is having on men, women, children and families experiencing homelessness\n\n*\tProvide housing for families experiencing homelessness and struggling during the aftermath of the COVID-19 crisis\n\n*\tHeighten awareness of the problem of homelessness and inspire Angelenos to take action, to change their city, and end family homelessness once and for all with the help of #LoveLikeaHero Campaign\n\n"
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "Annual measurements tracked to gauge progress:\n\n*\tKeep doors open during COVID-19 crisis, to continue to serve rising numbers of people/families experiencing homelessness on the streets of Skid Row\n*\tEnd homelessness for more families – through the provision of emergency housing for families on Skid Row.\n*\tConnect families to transitional housing at Hope Garden Family Center\n*\tEngage over 31,000 volunteers to serve through all URM programs\n*\tMobilize volunteers through online fundraisers including the URM Walk to End Homelessness and Annual Angels of Hope Gala\n\nIn order to boost volunteerism, we will reach: \n*\t9,082 Instagram followers\n*\t8,028 Twitter followers\n*\t26,000 Facebook users\n*\t9,600 listeners on KKLA’s Stories from Skid Row\n*\t9,170 YouTube subscribers.\n"
+Approximately how many people will be directly impacted by this project, program, or initiative?: '6000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '10000000'
+Describe how Los Angeles County will be different if your work is successful.: "This proposal will:\n\n*\tProvide critical services, medical care and support to help stem the overwhelming impact that COVID-19 is having on men, women, children and families experiencing homelessness\n\n*\tProvide housing for families experiencing homelessness and struggling during the aftermath of the COVID-19 crisis\n\n*\tHeighten awareness of the problem of homelessness and inspire Angelenos to take action, to change their city, and end family homelessness once and for all with the help of #LoveLikeaHero Campaign\n\n"
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Volunteerism
   - Transit-accessible housing and employment
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: connect
 filename: union-rescue-mission
 order: 62

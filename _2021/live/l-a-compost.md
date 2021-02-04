@@ -17,7 +17,7 @@ organization_website: 'https://www.lacompost.org'
 organization_twitter: '@lacompost'
 organization_facebook: 'https://www.facebook.com/L.A.CompostCA/'
 organization_instagram: '@lacompost'
-Please describe the mission of your organization.: >
+Describe the mission of your organization.: >
   LA Compost empowers communities to work together to build compost systems as a
   community-driven solution to climate and food justice issues. We support a
   healthy transition where food is never wasted, but returned to the soil for
@@ -35,10 +35,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   Over one million tons of compostable food goes into LA's landfills every year,
   causing severe negative impacts on the environment. Rotting food scraps emit
   methane, one of the largest contributors to global warming, and liquid from
@@ -58,7 +58,7 @@ What is the need you’re responding to?: >
   ability to trace food to back to the soil. LA Compost works to heal the
   disconnect between people and the soil and create healthy soil through
   participation, empowerment and education in the benefits of compost.
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   LA Compost oversees 33 compost hubs throughout LA County that are available
   for food scrap drop off and compost education. Collectively these hubs have
   the capacity to divert one million pounds of food waste to be recovered as a
@@ -83,7 +83,7 @@ Why is this project important to the work of your organization?: >
 
   Healing our soils and communities through participation, empowerment and
   education in the benefits of compost.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   In the coming year, LA Compost will continue to build local infrastructure,
   expand educational programs, and grow our network in furtherance of our
   mission. We will define success as achieving our goal of establishing four new
@@ -104,23 +104,23 @@ Please explain how you will define and measure success for your project.: >
   develop healthy connections to the diverse ecology in LA, and ultimately, (3)
   heal our soils and communities through participation, empowerment and
   education in the benefits of compost.
-Approximately how many people will be directly impacted by this proposal?: '4000'
-Approximately how many people will be indirectly impacted by this proposal?: '12000'
-Please describe the broader impact of your proposal.: "LA Compost seeks to benefit local communities and the environment in the following ways:\n*\tNatural Solutions to Climate Change. Healthy soil removes excess carbon from the air and stores it in the ground.\n*\tWater Retention for Drought Tolerance. Compost acts as a natural sponge, storing water in the soil for plants to use when needed.\n*\tReducing Waste and Emissions at Landfills. Making food waste part of the solution to climate change as opposed to part of the problem is an enormous benefit to composting.\n*\tGrowing Healthy Food and building local resiliency. Compost supports local food production while providing green jobs, allowing people to support their communities through soil building and food growing.\n"
+Approximately how many people will be directly impacted by this project, program, or initiative?: '4000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '12000'
+Describe how Los Angeles County will be different if your work is successful.: "LA Compost seeks to benefit local communities and the environment in the following ways:\n*\tNatural Solutions to Climate Change. Healthy soil removes excess carbon from the air and stores it in the ground.\n*\tWater Retention for Drought Tolerance. Compost acts as a natural sponge, storing water in the soil for plants to use when needed.\n*\tReducing Waste and Emissions at Landfills. Making food waste part of the solution to climate change as opposed to part of the problem is an enormous benefit to composting.\n*\tGrowing Healthy Food and building local resiliency. Compost supports local food production while providing green jobs, allowing people to support their communities through soil building and food growing.\n"
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Access to healthy food
   - Food insecurity
   - Resilient communities
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: l-a-compost
 order: 26

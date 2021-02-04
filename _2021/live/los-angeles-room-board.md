@@ -17,7 +17,7 @@ organization_website: 'https://www.larnb.org'
 organization_twitter: '@LA_RoomAndBoard'
 organization_facebook: 'https://www.facebook.com/losangelesroomandboard/'
 organization_instagram: '@laroomandboard'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Our mission is to ensure LA’s community college students achieve their college
   completion goals by providing affordable housing that ends homelessness,
   empowers them through our residential education program, and promotes
@@ -36,8 +36,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   1 in 5 of LA’s community college students are facing housing insecurity &
   homelessness. The cost of living in LA, lack of affordable housing, and
   insufficient financial aid that's $7000 short in covering living expenses, has
@@ -51,7 +51,7 @@ What is the need you’re responding to?: >-
   the outcome we’re hoping to prevent. We must get our students from couch
   surfing & living in cars to housing stability, thriving in college &
   graduation. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Our strategy is focused on maximizing efficiency on college campuses. Many
   dorms operate at less than 100% occupancy, leaving hundreds of rooms vacant
   each year. We’ll enter into agreements with colleges to reimagine the use of
@@ -66,7 +66,7 @@ Why is this project important to the work of your organization?: >-
   experience with campuses & property owners. Our approach has gained traction;
   we've secured a partnership with LA Community College District to pilot this
   program with their students.
-Please explain how you will define and measure success for your project.: >+
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >+
   The success indicators for this program will be measured against these three
   primary goals:
 
@@ -112,9 +112,9 @@ Please explain how you will define and measure success for your project.: >+
   challenges. Success is realized when we give students like Anna the tools to
   live out their full potential. 
 
-Approximately how many people will be directly impacted by this proposal?: '50'
-Approximately how many people will be indirectly impacted by this proposal?: ''
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '50'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: ''
+Describe how Los Angeles County will be different if your work is successful.: >-
   One of the broader impacts of our proposal is in the local economy. The
   California Budget & Policy Center forecasts a deficit of 1 million
   college-educated workers by 2030. We understand that failure to end student
@@ -134,13 +134,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Food insecurity
   - Housing affordability
   - Homelessness
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
-year: 2020
+year: 2021
 category: live
 filename: los-angeles-room-board
 order: 29

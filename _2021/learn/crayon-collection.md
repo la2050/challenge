@@ -17,7 +17,7 @@ organization_website: 'https://www.crayoncollection.org'
 organization_twitter: '@crayoncollectio'
 organization_facebook: Crayon Collection
 organization_instagram: '@crayoncollection'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   For the past ten years, Crayon Collection has recycled like new crayons from
   restaurants and hotels into Title 1 Schools and Head Start centers across Los
   Angeles in order to provide art education and promote sustainability in Los
@@ -44,10 +44,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Across the United States, and specifically in Los Angeles, schools are faced
   with slashed budgets and limited resources. Often, these cuts lead to the loss
   of arts education in entire schools, despite research showing that high arts
@@ -61,7 +61,7 @@ What is the need you’re responding to?: >-
   through classroom visits which provide us the opportunity to teach our lesson
   plans and donate an entire classroom supply of crayons to teachers and
   students in need. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Crayon Collection has been working in Title 1 schools and Head Start centers
   in Los Angeles for ten years, supplying lesson plans and art supplies to
   classrooms most in need. In 2018, we set a Guinness World Record for the most
@@ -72,7 +72,7 @@ Why is this project important to the work of your organization?: >-
   relationships with professional artists and educators put us in a unique
   position to create new, art-based lesson plans for our curriculum, given the
   funding to do so. 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Crayon Collection would like to expand and redevelop parts of our Art in
   Education curriculum to provide 30 lesson plans total, enough for educators to
   be able to use one a week for the duration of the school year. We currently
@@ -83,9 +83,9 @@ Please explain how you will define and measure success for your project.: >-
   graduate high school and 3x more likely to receive a bachelor’s degree. Short
   term, we should find improved academic performance which will be tracked
   through participant/classroom’s grades over the school year. 
-Approximately how many people will be directly impacted by this proposal?: '150'
-Approximately how many people will be indirectly impacted by this proposal?: '2500'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '150'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '2500'
+Describe how Los Angeles County will be different if your work is successful.: >-
   In California, 61% of schools are lacking even one full-time arts specialist,
   with low-income areas having the least funding for arts-based curriculum.
   Research by the National Endowment for the Arts has shown that high levels of
@@ -100,13 +100,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - College matriculation
   - High school graduation rates
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: learn
 filename: crayon-collection
 order: 21

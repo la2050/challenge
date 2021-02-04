@@ -17,7 +17,7 @@ organization_website: 'https://www.cvjp.org'
 organization_twitter: ''
 organization_facebook: 'https://www.facebook.com/CVJProject/'
 organization_instagram: ''
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   CVJP helps veterans by breaking the cycle of incarceration via early
   intervention and by promoting the use of under-utilized California veteran
   alternative sentencing statutes. While helping our clients with their criminal
@@ -36,10 +36,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   While the assistance we provide to Veterans involved in LA County’s justice
   system is significant, we reach only a fraction of those eligible. Annually,
   approximately 10,000 service members transition home into LA County, but many
@@ -53,7 +53,7 @@ What is the need you’re responding to?: >-
   this population. California legislators recognized these issues and
   implemented strong alternative sentencing statutes of which veterans are
   largely unaware and defense attorneys are often ill-prepared to implement. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   We are uniquely suited to take on the issue of breaking the chain of veteran
   incarceration, homeless and substance abuse because we are an up and running
   organization providing these services every day here in LA Country.  We have
@@ -67,7 +67,7 @@ Why is this project important to the work of your organization?: >-
   need and the attorney advocates, but we are also straining under this growth. 
   Our dedication of purpose will allow this proven model to expand to meet the
   growing need – for the benefit of the Vet and the entire community.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   We define success by the number of Veterans we help navigate the complex LA
   Country criminal justice system, while referring then to vital mental health
   services. During our first year (10/17-10/18), we averaged helping 10 Veterans
@@ -88,9 +88,9 @@ Please explain how you will define and measure success for your project.: >-
   quantify especially relating to helping Veterans who are at major and
   immediate risk of major negative life events, but are nevertheless a critical
   component of the services we provide.
-Approximately how many people will be directly impacted by this proposal?: '360000'
-Approximately how many people will be indirectly impacted by this proposal?: '10000000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '360000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '10000000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Veterans are not only a distinct group but our friends and neighbors. LA
   County has more veterans than any other county in California, with about
   330,000.  Our veterans are 6 times more likely to commit suicide, up to 30%
@@ -101,7 +101,7 @@ Please describe the broader impact of your proposal.: >-
   homelessness, substance abuse and the deterioration of veteran family units is
   not only needed to benefit our communities, it pays a debt that is owed to
   these brave men and women who served our country in its time of need. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   CVJP is not submitting a ‘collaborative proposal’ per se, as our efforts are
   highly collaborative with the veteran community. We serve as a focal point to
   marshal various resources to help the Los Angeles County veteran. CVJP is
@@ -121,14 +121,14 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Poverty rate
   - Access to mental health services
   - Homelessness
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: community-veteran-justice-project
 order: 7

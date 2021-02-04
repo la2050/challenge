@@ -18,7 +18,7 @@ organization_website: 'https://www.9Dots.org'
 organization_twitter: '@9dotscommunity'
 organization_facebook: 'https://www.facebook.com/9dotscommunity/'
 organization_instagram: '@9dotscommunity'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   9 Dots' mission is to provide transformative computer science education for
   every student, especially those from underserved communities. We believe in
   creating learning environments that engage and empower every student, foster
@@ -47,8 +47,8 @@ In which areas of Los Angeles will you be directly working?:
     LAUSD (please select only if you have a district-wide partnership or
     project)
   - CUSD
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   An early foundation in CS and coding is a “new basic” skill set “necessary for
   economic opportunity and social mobility” (CS for All, 2016) but coding is
   increasingly recognized for its ability to develop student problem solving
@@ -64,7 +64,7 @@ What is the need you’re responding to?: >-
   access and the achievement gap for underrepresented students by demonstrating
   meaningful student outcomes. California adopted K-12 CS standards in 2018, but
   there are still no standardized K-6  CS proficiency measures (Code.org, 2017).
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   9 Dots’ Get Coding program serves 22 LAUSD and CUSD Title I schools with K-6
   CS education, from unplugged activities to an introduction to JavaScript and
   other professional coding languages. Our original, standards aligned
@@ -81,7 +81,7 @@ Why is this project important to the work of your organization?: >-
   value coding. In response to our findings, 9 Dots has begun to
   “operationalize” the problem solving process more explicitly, developing
   curriculum challenge “tags” associated with core coding concepts and skills.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   9 Dots currently measures proficiency by tracking students’ successful
   completion of challenges in our curriculum and in our Level Up Challenge
   assessments, with a 75% rating considered proficient. Our goal is to define
@@ -110,9 +110,9 @@ Please explain how you will define and measure success for your project.: >-
   or felt they did not belong in a STEM class are engaged; can demonstrate
   achievements that extend across subjects; and become creative and fearless
   learners who can persevere when facing difficult problems.
-Approximately how many people will be directly impacted by this proposal?: '8320'
-Approximately how many people will be indirectly impacted by this proposal?: '10420'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '8320'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '10420'
+Describe how Los Angeles County will be different if your work is successful.: >-
   9 Dots’ project will provide a model for a more rigorous definition of K-6 CS
   proficiency. Our hope is to increase understanding of not only how to measure
   proficiency in a meaningful way but what to measure in order to capture
@@ -126,7 +126,7 @@ Please describe the broader impact of your proposal.: >-
   problem solving proficiency at our partner schools will allow us to initiate
   longitudinal explorations of possible correlations with SBA Math problem
   solving area performance.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   9 Dots is not submitting this grant in collaboration with another organization
   or entity, however we have strong district partnerships with LAUSD and CUSD,
   and we are currently working in 22 Title I schools, with 11 in each respective
@@ -141,10 +141,10 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Communications support
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Proficiency in STEM
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your project will impact.: []
+year: 2021
 category: learn
 filename: 9-dots
 order: 0

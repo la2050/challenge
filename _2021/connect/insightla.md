@@ -17,7 +17,7 @@ organization_website: 'https://www.insightla.org'
 organization_twitter: ''
 organization_facebook: InsightLA Meditation
 organization_instagram: '@insightlameditation'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   InsightLA aims to help people: live mindfully, offering evidence-based
   teachings that support well-being; live compassionately: facing our complex
   world with love, and serving those on the front lines of suffering; and live
@@ -37,10 +37,10 @@ In which areas of Los Angeles will you be directly working?:
   - South LA
   - Westside
   - South Bay
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   Many Angelenos experience suffering due to systemic challenges like
   homelessness, poverty, illness, and discrimination. IIA comprises three
   components to mitigate this suffering: community outreach, through which we
@@ -57,7 +57,7 @@ What is the need you’re responding to?: >
   practitioners gain compassion and acceptance. These are some of the reasons
   why mindfulness meditation has proven to be particularly effective for those
   facing high levels of stress or illness. 
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   When InsightLA (ILA) founder and Guiding Teacher Trudy Goodman set out to
   offer mindfulness teachings in Los Angeles in 2003, she dedicated herself to
   relieving suffering. She started by teaching mindfulness practices to
@@ -74,7 +74,7 @@ Why is this project important to the work of your organization?: >
   including mindful self-compassion and mindfulness-based stress reduction. ILA
   has three locations, and is equipped to offer mindfulness practices remotely
   and in person. 
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Success for this project would mean that IIA is connecting with organizations
   and individuals with a real need and interest in mindfulness meditation
   practices. We hope to form new partnerships with hospitals and non-profit
@@ -100,9 +100,9 @@ Please explain how you will define and measure success for your project.: >
   before and after surveys to see whether participants feel that mindfulness
   classes have positively impacted them, and analyze them to determine trends
   and/or areas for improvement. 
-Approximately how many people will be directly impacted by this proposal?: '4035'
-Approximately how many people will be indirectly impacted by this proposal?: '10265'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '4035'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '10265'
+Describe how Los Angeles County will be different if your work is successful.: >
   Practitioners of mindfulness meditation often notice that the benefits of
   their practice affect not only themselves, but ripple out to those in
   relationship to them. Our work with healthcare professionals and caregivers in
@@ -122,10 +122,10 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your project will impact.: []
+year: 2021
 category: connect
 filename: insightla
 order: 27

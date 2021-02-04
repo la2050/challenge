@@ -19,7 +19,7 @@ organization_facebook: >-
   facebook.com/neighborhoodcouncilsustainabilityalliance;
   facebook.com/groups/LosAngelesNCSA
 organization_instagram: '@instagram.com/ncsa_la'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The Neighborhood Council Sustainability Alliance (NCSA) advances
   sustainability and resilience across Los Angeles through advocacy, sharing of
   best practices, and community action.
@@ -42,8 +42,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   I have been thrown by COVID-19. Having trouble focusing. Off my game.
   Realizing that most of my messages a couple weeks ago (about renewable energy,
   EVs, stormwater capture, the urban tree canopy, air pollution, etc.) sound
@@ -58,7 +58,7 @@ What is the need you’re responding to?: >-
   contribute to pandemics. I am, once again, reminded that we live in an
   ecosystem, and that when we disrupt it, we do so at our peril. We do not want
   to miss this opportunity.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Bringing NCs, communities, nonprofits, and other government together to
   advance sustainability and resilience is what we do. Although the City has not
   permitted NCs to convene during this period, they are stepping up to serve
@@ -71,10 +71,10 @@ Why is this project important to the work of your organization?: >-
   helping people feel that they are a part of the solution and contributing to
   something bigger than themselves. As we are all in the COVID-19 crisis
   together, we are also all in the climate crisis together.
-Please explain how you will define and measure success for your project.: "•\tThe NCSA will partner with the City and/or SCAQMD to encourage sustained telecommuting to keep our air cleaner (in the form of either messaging, incentives, legislation, etc.)\n*\t10 NCs will support the telecommuting effort (via, e.g., community impact statements)\n*\tThe City will open up select streets to pedestrians and cyclists during the shelter-in-place order\n*\tNCs, the Mayor’s Office of Resilience, and the Department of Neighborhood Empowerment (DONE) will share a clear understanding of the role of NCs in a crisis\n*\t5 NCs will support home or community gardening (with either outreach/education, funds for community gardens, events, etc.)\n*\t10 NCs will communicate to their constituents about the connection between the coronavirus and our ecosystem, and parallels to the climate crisis\n*\tThe NCSA will partner with the Office of Climate Emergency Mobilization on messaging about the coronavirus\n*\tThe NCSA will disseminate monthly messaging about the elevated risks to communities with poor air quality associated with some viruses\n*\tContent that will help people make the connections between the coronavirus and the climate crisis will be integrated into LA’s GND NC Toolkit (currently in development by the Mayor’s Office of Sustainability and DONE, with the assistance of the NCSA network)\n*\t5 NCs will join the NCSA\n*\t5 NCs will establish sustainability committees\nThe above will be determined through communication with NCs and our City partners, typically verified via the internet. \n\n"
-Approximately how many people will be directly impacted by this proposal?: '300'
-Approximately how many people will be indirectly impacted by this proposal?: '4000000'
-Please describe the broader impact of your proposal.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "•\tThe NCSA will partner with the City and/or SCAQMD to encourage sustained telecommuting to keep our air cleaner (in the form of either messaging, incentives, legislation, etc.)\n*\t10 NCs will support the telecommuting effort (via, e.g., community impact statements)\n*\tThe City will open up select streets to pedestrians and cyclists during the shelter-in-place order\n*\tNCs, the Mayor’s Office of Resilience, and the Department of Neighborhood Empowerment (DONE) will share a clear understanding of the role of NCs in a crisis\n*\t5 NCs will support home or community gardening (with either outreach/education, funds for community gardens, events, etc.)\n*\t10 NCs will communicate to their constituents about the connection between the coronavirus and our ecosystem, and parallels to the climate crisis\n*\tThe NCSA will partner with the Office of Climate Emergency Mobilization on messaging about the coronavirus\n*\tThe NCSA will disseminate monthly messaging about the elevated risks to communities with poor air quality associated with some viruses\n*\tContent that will help people make the connections between the coronavirus and the climate crisis will be integrated into LA’s GND NC Toolkit (currently in development by the Mayor’s Office of Sustainability and DONE, with the assistance of the NCSA network)\n*\t5 NCs will join the NCSA\n*\t5 NCs will establish sustainability committees\nThe above will be determined through communication with NCs and our City partners, typically verified via the internet. \n\n"
+Approximately how many people will be directly impacted by this project, program, or initiative?: '300'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '4000000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   We work directly with about 300 people in the NC system across the city; a
   much larger number of people engage with us more passively or less frequently
   (through events, our email newsletter, social media, neighborhood council
@@ -92,13 +92,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Access to healthy food
   - Air quality
   - Resilient communities
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: social-and-environmental-entrepreneurs
 order: 46

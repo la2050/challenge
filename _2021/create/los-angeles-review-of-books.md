@@ -17,7 +17,7 @@ organization_website: 'https://www.lareviewofbooks.org'
 organization_twitter: '@lareviewofbooks'
 organization_facebook: 'https://www.facebook.com/lareviewbooks/'
 organization_instagram: '@lareviewofbooks'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The Los Angeles Review of Books promotes and disseminates rigorous and
   engaging writing on literature and the arts. A vibrant, multimedia platform,
   LARB covers, represents, and shapes today’s cultural landscape in a manner
@@ -33,10 +33,10 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to CREATE
 In which areas of Los Angeles will you be directly working?:
   - Central LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   The publishing industry shapes the stories we read and determines whose
   stories we encounter. As a result, its acute lack of diversity—predominantly
   white (76%), straight (81%), and non-disabled (89%)—raises concerns about not
@@ -52,7 +52,7 @@ What is the need you’re responding to?: >-
   to no financial aid. We created the Publishing Workshop to train and support
   talented students regardless of their finances or location, and, in doing so,
   to highlight the innovative work of independent publishers here in LA. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Democratizing access to the smart, vibrant exchange of ideas is the
   cornerstone of LARB. Our flagship magazine gives voice to more socially and
   intellectually diverse writers than the legacy outlets. We provide free online
@@ -68,7 +68,7 @@ Why is this project important to the work of your organization?: >-
   financial aid through the support of LARB’s readers, eight university
   partnerships, individual sponsors, and grant funders including the LA
   Department of Arts and Culture.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Success to us means:
 
   —Meeting admitted fellows’ need for tuition assistance. We measure this
@@ -98,9 +98,9 @@ Please explain how you will define and measure success for your project.: >-
   gone on to work together on projects, find jobs and mentorship with our
   speakers and faculty, and a few have even returned to staff the Publishing
   Workshop itself. 
-Approximately how many people will be directly impacted by this proposal?: '60'
-Approximately how many people will be indirectly impacted by this proposal?: '120000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '60'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '120000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Our emphasis is on creating access for students underrepresented in the
   publishing industry and amplifying the work of independent publishers. Fellows
   that we train this year will go on to be the next generation of publishing
@@ -116,13 +116,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Communications support
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - 'Arts establishments, instillations, and exhibitions'
   - Employment in the creative industries
   - Minority- and women-owned businesses
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
-year: 2020
+year: 2021
 category: create
 filename: los-angeles-review-of-books
 order: 22

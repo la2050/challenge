@@ -17,7 +17,7 @@ organization_website: 'https://www.redhen.org'
 organization_twitter: '@redhenpress'
 organization_facebook: '@redhenpress'
 organization_instagram: '@redhenpress'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Red Hen Press's mission is to publish diverse works of literary excellence,
   expand the horizons of the literary canon, and advance literacy in our local
   schools. As the region’s largest non-profit publishing house, we engage our
@@ -50,10 +50,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   After 26 years, has become a vanguard in establishing the West Coast and
   Southern California as a nexus of literary arts and publishing excellence. We
   provide a home for authors and poets from the Los Angeles area and throughout
@@ -67,7 +67,7 @@ What is the need you’re responding to?: >-
   Writing in the Schools program, providing no-cost poetry workshops with
   established, lauded local poets to foster youth literacy and engagement with
   the arts.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   We founded our organization on the idea that literature needs three things to
   exist: a diverse range of voices telling stories in fresh ways, an engaged
   reading and writing community, and quality literacy in our schools. Without
@@ -81,7 +81,7 @@ Why is this project important to the work of your organization?: >-
   “The Broad Stage at Home, Red Hen Poetry Hour,” which reconnected writers and
   readers in isolation through weekly poetry. Our authors raise new creative
   generations by bringing creative writing workshops to local schools.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Red Hen Press will measure the success of our project by tracking physical and
   online sales, the amount of media coverage our books and authors receive, and
   attendance at our reading events. Our goal is to raise the profile of the
@@ -101,9 +101,9 @@ Please explain how you will define and measure success for your project.: >-
   vocabulary development, general rhetorical skills, and overall academic
   confidence, and to develop curricula that meet the specific needs of current
   student demographics.
-Approximately how many people will be directly impacted by this proposal?: '35000'
-Approximately how many people will be indirectly impacted by this proposal?: ''
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '35000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: ''
+Describe how Los Angeles County will be different if your work is successful.: >-
   Red Hen’s work represents an effort, on our part, to establish Los Angeles as
   a literary hub and to see the publishing industry, as a whole, recognize West
   Coast authors. Our proposed programming will see the Southern California
@@ -120,12 +120,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - 'Arts establishments, instillations, and exhibitions'
   - Employment in the creative industries
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
-year: 2020
+year: 2021
 category: create
 filename: red-hen-press
 order: 30

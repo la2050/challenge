@@ -17,7 +17,7 @@ organization_website: 'https://www.grid110.org'
 organization_twitter: '@grid110'
 organization_facebook: 'https://www.facebook.com/grid110'
 organization_instagram: '@grid110'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Our mission is to foster the most thriving, inviting & inclusive community for
   entrepreneurs in Los Angeles. Our work impacts individuals who are often
   overlooked by traditional entrepreneurial ecosystems. That’s what drives us to
@@ -34,10 +34,10 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to CREATE
 In which areas of Los Angeles will you be directly working?:
   - South LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   73% of LA residents identify as a person of color, but our startup ecosystem
   does not reflect that. The path to success as a startup founder is starkly
   homogenous and typically attributed to access to networks, capital and
@@ -55,7 +55,7 @@ What is the need you’re responding to?: >-
   entrepreneurs as possible, our goal is to reach 1,000 entrepreneurs/year
   through not only these core programs, but also events, advisor hours and
   workshops that will be open to the public.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Now in our 6th year as an organization, we have supported 146 companies
   through our core programs and thousands of entrepreneurs through free events,
   workshops and office hours. 69% of our companies are led by a female founder
@@ -72,7 +72,7 @@ Why is this project important to the work of your organization?: >-
   venture scale or sustainable growth, tech or non-tech, for profit or
   non-profit. As a result, we’ve supported over 140 companies, with 69% led by
   female founders and 60% led by founders of color.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Key metrics for success that we track would be:
 
   * Number of companies supported through the programs and completion rate
@@ -97,9 +97,9 @@ Please explain how you will define and measure success for your project.: >-
   one-off events through various community organizations. We want to bring all
   of these entities together through collaboration - not competition - in order
   to create multiple touch points for the business community.
-Approximately how many people will be directly impacted by this proposal?: '1000'
-Approximately how many people will be indirectly impacted by this proposal?: '3500'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '3500'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Our core programs aim to support 30-40 companies over the course of the year,
   plus 1000 additional entrepreneurs through educational events, office hours,
   and other community building activities. The South LA region has very limited
@@ -110,7 +110,7 @@ Please describe the broader impact of your proposal.: >-
   of these companies will create bring capital infusion into the area. We
   anticipate that for each entrepreneur directly served, we will be able to
   impact 3.5 additional people (staff, family, community).
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   We believe strongly in the power of community partners and would not be where
   we are today without them. We currently have several formal and informal
   established partnerships (Office of Mayor Eric Garcetti being our primary
@@ -120,11 +120,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Minority- and women-owned businesses
   - High-growth startups
   - Venture capital investment
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CONNECT
 Has your proposal changed due to COVID-19?: >
@@ -135,7 +135,7 @@ Has your proposal changed due to COVID-19?: >
 
 
   We have the opportunity to rebuild our city much more equitably than many would have ever thought possible. In order for that to happen we have to provide under-resourced communities with the same quality of guidance and mentorship available to wealthier communities. Without this, we are constraining our city to rebuild to the same economic disparities. Grid110 expanding to South LA takes aim at this challenge head on in mission and in practice.
-year: 2020
+year: 2021
 category: create
 filename: grid110
 order: 15

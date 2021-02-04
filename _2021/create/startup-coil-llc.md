@@ -17,7 +17,7 @@ organization_website: 'http://v1accelerator.com/'
 organization_twitter: '@StartupCoil'
 organization_facebook: 'https://www.facebook.com/startupcoil'
 organization_instagram: '@LATechMeetup'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Version One App Accelerator empowers entrepreneurs and small businesses to
   launch their mobile app technology without requiring them to have any software
   engineering skills.
@@ -48,10 +48,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   mall business owners and aspiring entrepreneurs, though facing myriad
   challenges, almost always struggle with the technical hurdles of getting their
   early software developed quickly and affordably.
@@ -59,7 +59,7 @@ What is the need you’re responding to?: >-
 
   We have built a program to rapidly move their projects forward which also
   guides them in best practices for building a sustainable product.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   After building the largest startup networking community in Los Angeles,
   feedback from our community members has made it clear that these are the
   greatest challenges and roadblocks for Los Angeles startup founders and small
@@ -68,13 +68,13 @@ Why is this project important to the work of your organization?: >-
 
   Our scope and experience, over 8+ years, has led us to this solution: The
   Version One App Accelerator.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Our vision of success is to yield at least 50 fully launched mobile software
   products for LA2050 scholarship recipients within 6 months of the scholarship
   being implemented.
-Approximately how many people will be directly impacted by this proposal?: '50'
-Approximately how many people will be indirectly impacted by this proposal?: '50000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '50'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '50000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Underserved individuals in our city rarely have access to the resources to
   take the risks that entrepreneurship entails. We want everyone to have a
   chance to participate in the future of our economy and can, with support,
@@ -83,7 +83,7 @@ Please describe the broader impact of your proposal.: >-
 
   L.A. can and will be the city of the future, and that starts by keeping our
   innovators here and giving them a chance to succeed.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Startup Coil is the largest startup, entrepreneurship, and technology
   community in Southern California.
 
@@ -100,13 +100,13 @@ Please list the organizations collaborating on this proposal.:
   - 'Startup Coil, LLC'
   - and
   - 'V ONE, Inc.'
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Minority- and women-owned businesses
   - High-growth startups
   - Venture capital investment
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CONNECT
-year: 2020
+year: 2021
 category: create
 filename: startup-coil-llc
 order: 36

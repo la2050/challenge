@@ -17,7 +17,7 @@ organization_website: 'https://www.accessbooks.net'
 organization_twitter: '@accessbooksca'
 organization_facebook: accessb00ks
 organization_instagram: '@accessbooksca'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The mission of Access Books is to provide high interest reading material to
   underserved children in Los Angeles by providing low income neighborhoods with
   a warm and welcoming school or community library. In this process, different
@@ -36,10 +36,10 @@ In which areas of Los Angeles will you be directly working?:
   - East LA
   - San Fernando Valley
   - South LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Access Books addresses the urgent need for inner city and underserved children
   to have access to plentiful reading material. Research indicates that the best
   predictor of reading ability is access to books, and in poverty neighborhoods,
@@ -53,7 +53,7 @@ What is the need you’re responding to?: >-
   families.)  Access to books must come from their school libraries. In order
   for children to do well in school, they must read well and to read well they
   must read a lot.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Access Books fundraises to buy plenty of brand new, hard cover, high quality,
   culturally relevant, popular books that students want to read. We match
   community groups together to transform libraries on Saturdays. An affluent
@@ -65,28 +65,28 @@ Why is this project important to the work of your organization?: >-
   By making sure that children in low income neighborhoods have plenty to read,
   we're helping them become better readers. And when children read well, they do
   better in school. 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   We measure success by how many times our books get checked out, how many books
   total get checked out, how children feel about reading, and how their
   performance in school improves. 
-Approximately how many people will be directly impacted by this proposal?: '20000'
-Approximately how many people will be indirectly impacted by this proposal?: '2000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '20000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '2000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The broader goal is to support childhood literacy in Los Angeles so that all
   children, regardless of their socio-economic status, can do well in school,
   graduate, compete for higher paying jobs, go on to college, and become leaders
   in their communities
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': 20 different schools - not selected yet.
+'Describe the role of collaborating organizations on this project.': 20 different schools - not selected yet.
 Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Communications support
   - 'Office space for meetings, events, or for staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Student proficiency in English & Language Arts
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: learn
 filename: access-books
 order: 1

@@ -17,7 +17,7 @@ organization_website: 'https://www.heerio.com'
 organization_twitter: '@HeerioApp'
 organization_facebook: 'https://www.facebook.com/HeerioApp-108835867441047'
 organization_instagram: ''
-Please describe the mission of your organization.: >+
+Describe the mission of your organization.: >+
   Create a world where technology unites us, rather than isolating us. Stronger
   professional and personal networks through convenient connections anywhere in
   the world.
@@ -34,8 +34,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >
   Networking is Hard. It takes too much time and coordination. When people
   finally decide to network, it is only at mission critical times (i.e. during a
   job search). We want to change that mindset by making networking not just
@@ -45,7 +45,7 @@ What is the need you’re responding to?: >
   relationships, this improves both professional and business outcomes,
   especially for under represented groups LGBQT+, African Americans, Hispanics,
   Asians.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Central to our value proposition is connecting people-encouraging people to do
   more face to face interactions (individually or groups). However, our platform
   is not like any generic social networking tool. It's about active networking
@@ -57,7 +57,7 @@ Why is this project important to the work of your organization?: >-
   in your network and their availability(today and the future).  This becomes a
   powerful tool to encourage face to face interactions and to enable
   collaborations in many contexts (local, national and even international). 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Success of our platform will primarily be measured based on the number of
   daily active users (400K nationally by end of first year with 50% LGBQT+).
   However, our roll out strategy will home in on LGBQT+ community given large
@@ -74,9 +74,9 @@ Please explain how you will define and measure success for your project.: >-
   initiatives for targeted affinity groups. This will promote community
   connectivity facilitating personal and professional growth along with
   employment opportunities.
-Approximately how many people will be directly impacted by this proposal?: '400000'
-Approximately how many people will be indirectly impacted by this proposal?: '1000000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '400000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '1000000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Networking is the cornerstone for building productive business and personal
   relationships. A platform that enables these connections improves
   collaboration and facilitates more meaningful relationships. Connected people
@@ -92,15 +92,15 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - 'Capacity, including staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Employment in the tech industries
   - Minority- and women-owned businesses
   - High-growth startups
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CONNECT
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: create
 filename: srmz-technologies
 order: 35

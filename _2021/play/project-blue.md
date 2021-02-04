@@ -18,7 +18,7 @@ organization_website: 'https://www.www.projectblue-la.org (under construction; l
 organization_twitter: ''
 organization_facebook: Under construction; launching in May 2020
 organization_instagram: Under construction; launching in May 2020
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Our mission is to enable kids to transcend obstacles by creating safe,
   supportive environments based on mutual trust and built on positive
   relationships between the community and the police officers who serve them. We
@@ -38,8 +38,8 @@ In which areas of Los Angeles will you be directly working?:
   - East LA
   - South LA
   - Watts
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   Project Blue recognizes that in order for communities to feel safe and secure,
   residents need to trust the officers that serve them. Identifying this
   strained relationship, the LAPD launched the Community Safety Partnership
@@ -54,7 +54,7 @@ What is the need you’re responding to?: >-
   communities, Project Blue supports officer-led outreach programs where
   officers and kids can engage together and actively forge relationships through
   coaching and mentoring.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Project Blue believes that police officers have unique skills and experience
   to partner with kids and communities to create positive and transformative
   relationships. By providing financial and organizational support, we actively
@@ -69,7 +69,7 @@ Why is this project important to the work of your organization?: >-
   positive impact. We believe our approach will guide at-risk children through
   developmental challenges and build resilience, academic and athletic
   confidence.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   We emphasize continuous and measurable growth. We believe that by identifying
   goals, creating trackable metrics and collecting data, program leaders can
   identify areas where they are succeeding in achieving their goals and where
@@ -90,9 +90,9 @@ Please explain how you will define and measure success for your project.: >-
   collect and analyze data on positive police-community interactions, which
   demonstrates occurrences in the community that capture how residents measure
   their safety as a result of their interactions with officers in the program.
-Approximately how many people will be directly impacted by this proposal?: '1000'
-Approximately how many people will be indirectly impacted by this proposal?: '5000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '5000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   According to the CDC, there are several approaches that can support
   communities in reducing youth violence, two of which are mentoring and
   after-school programs. Project Blue believes that utilizing these strategies
@@ -104,7 +104,7 @@ Please describe the broader impact of your proposal.: >-
   long-term engagement in young people’s lives with partnerships that can create
   consistent and safe environments where kids can develop purpose and
   resilience.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   We’re grateful to partner with the LAPD CSP division on our program model. As
   part of their mandate, officers assigned to the CSP are encouraged to work
   with existing local youth outreach programs or create their own, where there
@@ -124,12 +124,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: Los Angeles Police Department (Community Safety Partnership Division)
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Youth sports participation
   - Crime rates
   - Perceived neighborhood safety
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your project will impact.: []
+year: 2021
 category: play
 filename: project-blue
 order: 19

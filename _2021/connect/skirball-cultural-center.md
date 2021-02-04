@@ -17,7 +17,7 @@ organization_website: 'https://www.skirball.org'
 organization_twitter: '@twitter.com/Skirball_LA'
 organization_facebook: www.facebook.com/skirballculturalcenter
 organization_instagram: '@www.instagram.com/skirball_la/'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The Skirball is guided by the Jewish tradition of welcoming the stranger and
   inspired by the American democratic ideals of freedom and equality. The
   Skirball welcomes all communities and generations to celebrate discovery and
@@ -36,10 +36,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   The Greater Los Angeles area is one of the most culturally diverse communities
   in the United States, as first-generation immigrants comprise over 35% of our
   population. There is a great need for public, accessible cultural offerings
@@ -54,7 +54,7 @@ What is the need you’re responding to?: >-
   capability and stories to tell. The Festival is an anecdote to the quarantines
   and closures caused by the coronavirus that will be embraced by a diverse
   gathering of Angelenos. 
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   The Skirball has a 24 year history of presenting day-long festivals that
   encourage creativity and foster empathy, self-esteem and civic engagement
   through performance, storytelling, and art making. The Festival provides an
@@ -71,7 +71,7 @@ Why is this project important to the work of your organization?: >
   the Skirball brings a gorgeous venue and experience presenting large-scale
   public events. In 2018 the Skirball welcomed CalArts School of Theater as an
   additional partner. 
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   The success of the Skirball Puppet Festival will be measured by:
 
   The number of responses to the Call for Puppetry Acts and their geographic
@@ -109,9 +109,9 @@ Please explain how you will define and measure success for your project.: >
   performing with their puppets. The Skirball Puppet Festival will showcase
   expertise in puppetry, emerging puppeteer artists; and experienced
   storytelling that embraces welcome, equality, and celebration. 
-Approximately how many people will be directly impacted by this proposal?: '2000'
-Approximately how many people will be indirectly impacted by this proposal?: '500'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '2000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '500'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The Festival—a welcome anecdote to recent isolation—affirms a core Skirball
   belief that through shared arts and cultural experiences we can better see
   what is common among us rather than the differences that separate us. The
@@ -125,13 +125,13 @@ Please describe the broader impact of your proposal.: >-
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Public arts and cultural events
   - Volunteerism
   - Immigrant integration
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: connect
 filename: skirball-cultural-center
 order: 51

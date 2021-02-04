@@ -19,7 +19,7 @@ organization_website: 'https://www.unitedparentsandstudents.org'
 organization_twitter: ''
 organization_facebook: www.facebook.com/UnitedParentsandStudents/
 organization_instagram: '@unitedparentsandstudents'
-Please describe the mission of your organization.: >
+Describe the mission of your organization.: >
   United Parents and Students (UPAS) is a 501(c)3 nonprofit organization
   empowering members of low-income communities to become powerful self-advocates
   for neighborhood revitalization by building permanent, self-sustaining
@@ -45,10 +45,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Though life may be filled with challenges, being able to find a clean grocery
   store with fresh produce shouldn’t be one of them. In Los Angeles County,
   almost 30% of low-income residents struggle to find quality food. Low-income
@@ -60,7 +60,7 @@ What is the need you’re responding to?: >-
   their voice, and demand equitable access to the countless opportunities to be
   found in Los Angeles. The organization is proud to support its members’
   ongoing fight to put healthy food on their family’s tables.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Since its formation in 2011, UPAS has become a force for positive change in
   the communities it serves, winning major victories by building networks of
   parents, students, and community leaders and training them in the proven
@@ -75,7 +75,7 @@ Why is this project important to the work of your organization?: >-
   Health to address food quality and food safety issues. Now is the perfect time
   for UPAS community leaders to take the fight for food justice to the next
   level.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   UPAS members will secure a commitment from a high-quality supermarket operator
   to open at least one new location in a low-income community. UPAS has
   partnered with the American Heart Association and California FreshWorks, an
@@ -95,9 +95,9 @@ Please explain how you will define and measure success for your project.: >-
   generating more equitable health outcomes for low-income communities of color;
   and increasing residents’ satisfaction with local government’s services,
   programs, and policies in response to their needs. 
-Approximately how many people will be directly impacted by this proposal?: '1000'
-Approximately how many people will be indirectly impacted by this proposal?: '125500'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '125500'
+Describe how Los Angeles County will be different if your work is successful.: >-
   We envision a Los Angeles where the needs of residents in Watts are met as
   urgently as those in Pacific Palisades, where potholes on Alameda are filled
   as quickly as those on Beverly Glen, and where families in Boyle Heights can
@@ -108,7 +108,7 @@ Please describe the broader impact of your proposal.: >-
   identifying and evaluating the challenges they face and problem-solving
   effective, actionable solutions. In doing so, we help communities affect
   meaningful and lasting change for themselves and their neighbors. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   While not submitting a formal collaborative proposal, UPAS will work closely
   with the American Heart Association, California FreshWorks, and the Department
   of Public Health — among other community-based organizations and public school
@@ -128,13 +128,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Access to healthy food
   - Food insecurity
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: united-parents-and-students
 order: 59

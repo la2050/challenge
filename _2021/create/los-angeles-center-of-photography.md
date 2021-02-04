@@ -18,7 +18,7 @@ organization_website: 'https://www.lacphoto.org'
 organization_twitter: '@lacenterofphoto'
 organization_facebook: losangelescenterofphotography
 organization_instagram: '@la_centerofphoto'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The Los Angeles Center of Photography (LACP) is a non-profit center dedicated
   to photography and the education of the photographic arts. LACP serves people
   of all ages, experience levels and backgrounds who are interested in learning,
@@ -45,10 +45,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Photography as a way of communication is now more important than ever. The Los
   Angeles Center of Photography (LACP) wants to respond to this by becoming the
   photo hub in LA and offering more exhibitions, classes, scholarships and free
@@ -63,7 +63,7 @@ What is the need you’re responding to?: >-
   classes to underserved kids through LA County Boys & Girls Clubs. LACP wants
   to provide a place for anyone who wants to express their creativity through
   photography.
-Why is this project important to the work of your organization?: >+
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >+
   Over the past two decades, (formerly as the Julia Dean Photo Workshops and
   then as the non-profit, the Los Angeles Center for Photography), LACP has
   become the largest photo center in California, supporting thousands of
@@ -78,7 +78,7 @@ Why is this project important to the work of your organization?: >+
   over 10,000 photographers through our social media channels and online. With
   our new center, we are now uniquely suited to increase creativity in LA.
 
-Please explain how you will define and measure success for your project.: >+
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >+
   This grant would permit LACP to expand our community reach tremendously by
   becoming a central hub. LACP would create new teaching opportunities, train
   new photographers with skills, offer scholarships to teens, and increase the
@@ -153,9 +153,9 @@ Please explain how you will define and measure success for your project.: >+
 
   8 ) Hire 6 new Instructors to teach new teen and adult classes. 
 
-Approximately how many people will be directly impacted by this proposal?: '65'
-Approximately how many people will be indirectly impacted by this proposal?: '6000'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '65'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '6000'
+Describe how Los Angeles County will be different if your work is successful.: >
   LACP will impact the city of Los Angeles by adding more creativity to this
   vibrant city, as well as by inspiring, connecting, training, and employing
   creative people. Photo-enthusiasts of all ages and from all areas of the city
@@ -171,14 +171,14 @@ Please describe the broader impact of your proposal.: >
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - 'Arts establishments, instillations, and exhibitions'
   - Employment in the creative industries
   - Global cultural and economic influence (“soft power”)
   - Public arts and cultural events
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CONNECT
-year: 2020
+year: 2021
 category: create
 filename: los-angeles-center-of-photography
 order: 21

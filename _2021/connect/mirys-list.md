@@ -17,7 +17,7 @@ organization_website: 'http://www.miryslist.org'
 organization_twitter: '@miryslist'
 organization_facebook: www.facebook.com/miryslist and facebook.com/newarrivalsupperclub
 organization_instagram: '@miryslist and @newarrivalsupperclub'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Refugees come to the U.S. seeking a safe haven from violence and persecution,
   leaving behind family, friends, and virtually everything they own. Miry's List
   provides a network for Americans to directly help their resettling refugee
@@ -38,10 +38,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Refugee families often arrive in the U.S. without the network needed for a
   successful life. In 2020, the U.S. will admit up to 18,000 refugees. Despite
   lower admissions than previous years, Southern CA is a top destination for
@@ -58,7 +58,7 @@ What is the need you’re responding to?: >-
   responded they “loved the experience” and want more. Welcome, Neighbor 2020
   builds off these touchpoints, providing infrastructure for ongoing human
   connection and meaningful volunteering in support of resettling Angelenos.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   The vital community support that begins through Miry’s List is a milestone for
   resettling families, moving them from a “refugee experience” to a
   “resettlement experience.” We’re a hub for new arrivals and Angelenos.
@@ -78,7 +78,7 @@ Why is this project important to the work of your organization?: >-
   neighbors. The community-driven spirit of Welcome, Neighbor reflects deeply
   shared values. Our breadth of prior engagement demonstrates both ample
   interest in and readiness for an expanded Welcome, Neighbor programming in LA.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Our vision for success is that the new arrival families touched by Welcome,
   Neighbor will feel safe, secure, and welcome in their new communities. We hope
   they’ll be integrated into the fabric of their neighborhoods, get to know
@@ -112,9 +112,9 @@ Please explain how you will define and measure success for your project.: >-
   considered events (i.e. Welcome, Neighbor days at schools where we educate
   students about the refugee experience, wishlist drives and collections, and
   community service projects).
-Approximately how many people will be directly impacted by this proposal?: '5000'
-Approximately how many people will be indirectly impacted by this proposal?: '50000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '5000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '50000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Angelenos care deeply about immigrants and refugees, evident by our civic
   leaders’ commitment and public enthusiasm for Welcome, Neighbor. When we
   support families resettling in our city as refugees, we give them hope for the
@@ -130,12 +130,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - 'Office space for meetings, events, or for staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Volunteerism
   - Immigrant integration
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your project will impact.: []
+year: 2021
 category: connect
 filename: mirys-list
 order: 40

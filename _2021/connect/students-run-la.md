@@ -17,7 +17,7 @@ organization_website: 'https://www.srla.org'
 organization_twitter: '@SRLA'
 organization_facebook: 'https://www.facebook.com/StudentsRunLA/'
 organization_instagram: '@StudentsRunLA'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The mission of Students Run LA is to challenge underserved secondary students
   to experience the benefits of goal-setting, character development, adult
   mentoring and improved health by providing them with a truly life-changing
@@ -39,10 +39,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Strong voter participation is essential to a strong democracy, yet only a
   small fraction of young Angelenos have turned out to vote in recent years. As
   of February 2020, less than 15% of eligible 16 & 17 year olds in LA County
@@ -57,7 +57,7 @@ What is the need you’re responding to?: >-
   into SRLA’s network and to provide resources needed for students to run VR
   drives in majority Latinx schools to encourage youth participation in our
   democracy.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   The TCC x SRLA partnership will improve LA County youth voter registration and
   turnout rates by engaging diverse student bodies. TCC uses an effective VR
   model augmented by the latest technologies that has proven to be efficient and
@@ -74,7 +74,7 @@ Why is this project important to the work of your organization?: >-
   a Latinx electorate that has historically had low voter participation rates.
   Once trained, SRLA students can return to their schools to lead VR drives,
   creating a powerful multiplier effect.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   The program’s overarching goal is to increase participation in democratic
   institutions by a largely underrepresented electorate - Latinx youth in LA
   County. By encouraging this engagement, we seek to build an active,
@@ -112,9 +112,9 @@ Please explain how you will define and measure success for your project.: >-
 
   5) 50% pre/registration rate for SRLA high school seniors reported in year-end
   survey, compared to 15% avg. preregistration rate for LA County
-Approximately how many people will be directly impacted by this proposal?: '5000'
-Approximately how many people will be indirectly impacted by this proposal?: '35000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '5000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '35000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Each year, SRLA’s program includes more than 2,000 high school students (86%
   Latinx; 75% attend schools where 80% or more receive free/reduced meals; 75%
   of graduating seniors are among the first-generation of their families to go
@@ -125,7 +125,7 @@ Please describe the broader impact of your proposal.: >-
   capacity to make change, and register themselves and their friends to vote.
   Together, we can transform youth voting culture from one of apathy to
   inspired, active engagement this year and for years to come.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   In addition to training for the Marathon, students participate in SRLA Cares,
   an initiative that empowers them to give back to their community through
   social, environmental, and community awareness projects. Each group is
@@ -150,13 +150,13 @@ Please list the organizations collaborating on this proposal.:
   - >-
     The legal name for Students Run LA is Students Run America. We operate under
     a dba.
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Volunteerism
   - Voting rates
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the best place to PLAY
-year: 2020
+year: 2021
 category: connect
 filename: students-run-la
 order: 56

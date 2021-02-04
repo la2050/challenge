@@ -20,7 +20,7 @@ organization_website: 'https://www.collegespring.org'
 organization_twitter: '@CollegeSpring'
 organization_facebook: 'https://www.facebook.com/CollegeSpring/'
 organization_instagram: '@collegespring'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   CollegeSpring equips schools and their teachers with an SAT, ACT, and college
   knowledge curriculum to prepare students to succeed on the exam and enter
   college.
@@ -41,10 +41,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   College entrance exams are a key obstacle many young Angelenos face when
   applying to college. While students from higher-income households have access
   to private tutoring, college counseling, and test preparation outside of
@@ -59,7 +59,7 @@ What is the need you’re responding to?: >-
   students’ ability to succeed in college. Equitable test preparation at a
   system level can help transform Los Angeles into a city where all students
   fulfill their college potential.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   CollegeSpring is the only national nonprofit focused exclusively on inclusive,
   equitable SAT preparation, and we also have deep, longstanding relationships
   with many Los Angeles schools, principals, and teachers. Our Test Confidence
@@ -75,7 +75,7 @@ Why is this project important to the work of your organization?: >-
   provides SAT prep through trained classroom teachers, coupled with their
   expertise in college admissions and standardized testing, makes them
   particularly well suited to this project.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   CollegeSpring has a direct impact on students’ test scores, their confidence,
   and their broader academic performance. CollegeSpring measures program success
   and outcomes in four areas. Each is keyed to our core program goals, the
@@ -106,9 +106,9 @@ Please explain how you will define and measure success for your project.: >-
   college-going culture. SAT preparation is at the heart of our mission because
   higher scores increase students’ chances of gaining admission to college,
   getting financial aid, and achieving their educational and career goals.
-Approximately how many people will be directly impacted by this proposal?: '2700'
-Approximately how many people will be indirectly impacted by this proposal?: '3200'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '2700'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '3200'
+Describe how Los Angeles County will be different if your work is successful.: >-
   CollegeSpring’s vision, and our ultimate goal as an organization, is to prove
   that it is possible to provide test preparation during the school day to all
   students. We want to make this an expectation nationally--not just a privilege
@@ -124,12 +124,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Communications support
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - College matriculation
   - Student proficiency in English & Language Arts
   - Proficiency in STEM
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your project will impact.: []
+year: 2021
 category: learn
 filename: collegespring
 order: 19

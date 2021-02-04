@@ -17,7 +17,7 @@ organization_website: 'https://www.findyouranchor.us'
 organization_twitter: '@FYAbox'
 organization_facebook: 'https://www.facebook.com/findyouranchor'
 organization_instagram: '@findyouranchorbox'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Find Your Anchor is a grassroots movement aimed at suicide prevention,
   awareness, and education. With creativity and a personal touch, Find Your
   Anchor aims to support those who may be struggling and de-stigmatize
@@ -38,10 +38,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   We are experiencing an epidemic of hopelessness. In 2018, we lost 48,344
   people to suicide. There were a staggering 1.4 million attempts. There's a gap
   in how our society is addressing this. We know there’s a problem - it’s easy
@@ -63,7 +63,7 @@ What is the need you’re responding to?: >-
   themselves, they’re quite small. But they open up to reveal something huge,
   and perhaps the only thing with the power to make a real difference:
   humanity. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Suicide awareness has long been a cause very near and dear to me. 
 
   I survived multiple attempts.
@@ -84,7 +84,7 @@ Why is this project important to the work of your organization?: >-
   designed to inspire, soothe, and offer support. These boxes are then launched
   in public places (libraries, coffeeshops, the Vegas strip, etc.) to be found
   by those in need; specifically those close to suicide in one way or another.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   These testimonials are the definition of our success. 
    
   I can give you a whole bunch of data, but these testimonials say it all for
@@ -129,9 +129,9 @@ Please explain how you will define and measure success for your project.: >-
   firsthand accounts of box recipients. However, we will also measure success by
   the number of school partnerships we create, recurring box subscriptions we
   receive, and workshops we give. 
-Approximately how many people will be directly impacted by this proposal?: '6750'
-Approximately how many people will be indirectly impacted by this proposal?: '54000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '6750'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '54000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   With this proposal, 6,750 citizens of LA would receive FYA boxes - many at the
   lowest point in their lives. These box recipients cross all demographics,
   social classes, and age groups.
@@ -155,12 +155,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Strategy assistance and implementation
   - Box building events
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Mental illness
   - Access to mental health services
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: find-your-anchor
 order: 14

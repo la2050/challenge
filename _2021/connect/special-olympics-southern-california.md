@@ -19,7 +19,7 @@ organization_website: 'https://www.sosc.org'
 organization_twitter: 'https://twitter.com/sosocal'
 organization_facebook: 'https://www.facebook.com/soscsocal'
 organization_instagram: 'https://www.instagram.com/sosocal/'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Provide year-round sports training and athletic competition for individuals
   with intellectual disabilities, giving them opportunities to develop physical
   fitness, demonstrate courage, experience joy and participate in sharing gifts,
@@ -45,10 +45,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Individuals with intellectual disabilities represent the largest disabled
   population in the world. SOSC currently engages 12,959 students with
   intellectual disabilities in LAUSD (>80% from low-income families).
@@ -67,7 +67,7 @@ What is the need you’re responding to?: >-
   known, and many determinants of chronic illness for people with an
   intellectual disability are fully modifiable via healthy lifestyles and
   activity (Davis 2014).
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   SOSC’s 55 Board members and 83 staff are strongly committed to building
   community awareness and providing community education on acceptance and
   inclusion of individuals with disabilities. We:
@@ -99,7 +99,7 @@ Why is this project important to the work of your organization?: >-
 
   Have strong UCS Program Leadership for LAUSD: Melissa Erdmann, AVP; Dustin
   Hildebrand, Manager; and Steve Munoz, Coordinator.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Our Goal: Increase social inclusion of students with intellectual disabilities
   on LAUSD campuses through Special Olympics Unified Champion Schools®. Our
   Vision: Schools that Welcome All People.
@@ -142,9 +142,9 @@ Please explain how you will define and measure success for your project.: >-
   and UMASS Boston Liaison Survey. The UMASS study is conducted annually (11+
   years) and compares regional and national results. Results are published
   6-9-months after school year completion.
-Approximately how many people will be directly impacted by this proposal?: '1555'
-Approximately how many people will be indirectly impacted by this proposal?: '30590'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1555'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '30590'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Special Olympics Unified Champion Schools® positively impacts the lives of all
   participants through a community of acceptance, inclusion, encouragement,
   leadership, and sport. Athletes with disabilities learn that they are valued
@@ -162,7 +162,7 @@ Please describe the broader impact of your proposal.: >-
   us at:
 
   https://www.generationunified.org/.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Each participating Special Olympics Unified Champion Schools® will:
 
 
@@ -209,15 +209,15 @@ Please list the organizations collaborating on this proposal.: >-
   we also collaborate with each participating school's administration, liaison,
   and participants (currently 21 UCS in LAUSD with 6 additional UCS to be added
   in 2020-21 school year). 
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Disability access and inclusion
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CREATE
   - LA is the best place to PLAY
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: connect
 filename: special-olympics-southern-california
 order: 54

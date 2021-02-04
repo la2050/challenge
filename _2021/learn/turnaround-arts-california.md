@@ -17,7 +17,7 @@ organization_website: 'https://www.turnaroundartsca.org'
 organization_twitter: '@TurnarndArtsCA'
 organization_facebook: 'https://www.facebook.com/TurnaroundArtsCA/'
 organization_instagram: '@turnaroundartsca'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The mission of Turnaround Arts: California (TACA) is to harness the power of
   the arts to engage, empower and transform high-need schools and communities. 
 project_description: >-
@@ -34,10 +34,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   There is a large opportunity gap in our schools, with students from affluent
   communities significantly outperforming their less affluent peers. Studies
   consistently show a strong connection between arts education and positive
@@ -47,7 +47,7 @@ What is the need you’re responding to?: >-
   strategy for building equity and as an intervention to chronic
   underperformance. Our partner schools are considered state and federal
   “priority” schools, in the lowest 5-10% of achievement in the state. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   TACA’s innovative partnership model allows us to have a broader and deeper
   impact through collaboration. By nurturing partnerships at the national,
   state, district, and community levels, the students we reach benefit from the
@@ -60,7 +60,7 @@ Why is this project important to the work of your organization?: >-
   strategic arts planning, 7) professional development, and 8) improvements to
   the school environment. By leveraging support in these key areas, we ensure
   the arts are well supported, resourced, and sustainable within the schools
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Throughout the year we gather quantitative and qualitative data to measure
   improvement and success in 4 key areas: 
 
@@ -82,9 +82,9 @@ Please explain how you will define and measure success for your project.: >-
   - We also anticipate continuing to see macro level improvement at our partner
   schools within english language arts and math proficiency rates, along with
   suspension rates decreasing. 
-Approximately how many people will be directly impacted by this proposal?: '299'
-Approximately how many people will be indirectly impacted by this proposal?: '6000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '299'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '6000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Schools in need of improvement often have principals and teachers that aren’t
   equipped, nor empowered, to lead for change. We directly serve 299 teachers
   and principals in LA County by building their capacity to integrate the arts
@@ -100,10 +100,10 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - 'Office space for meetings, events, or for staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your project will impact.: []
+year: 2021
 category: learn
 filename: turnaround-arts-california
 order: 75

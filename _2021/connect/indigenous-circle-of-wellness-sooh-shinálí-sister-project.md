@@ -18,7 +18,7 @@ organization_website: 'https://www.icowellness.com'
 organization_twitter: '@icowellness'
 organization_facebook: '@indigenouscircleofwellness'
 organization_instagram: '@indigenouscircleofwellness'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Indigenous Circle of Wellness provides mental wellness services grounded in
   culturally inclusive holistic healing to build healthy relationships, families
   and communities. Under ICoW, the So’oh-Shinálí Sister Project promotes
@@ -37,10 +37,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   LA has the second largest urban “American Indian and Alaska Native (AIAN)”
   population in the country. According to the CDC (2018), AIAN were more likely
   to experience serious psychological distress compared to non-White Hispanic,
@@ -54,7 +54,7 @@ What is the need you’re responding to?: >-
   of belonging and validation that all Angelenos should experience by 2050.
   Further, cultural connectedness serves as a protective factor in strengthening
   resilience and intergenerational health. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   The So’oh-Shinálí Sister Project is the Indigenous Circle of Wellness’ (ICOW)
   community-based extension project led by three Indigenous womxn that have
   worked in the community over a decade: Monique Castro (Diné/Xicana, LMFT),
@@ -69,7 +69,7 @@ Why is this project important to the work of your organization?: >-
   successful LA county sponsored mental wellness gatherings to engage, empower,
   and enlist the community into conversations about mental health and
   traditional forms of healing.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Success will be defined as an increase of Indigenized spaces, where all
   community members feel welcome and immersed in an experience that allows them
   to foster relationships and build support. By July 2021, there will be a 40%
@@ -92,9 +92,9 @@ Please explain how you will define and measure success for your project.: >
   event social media strategy, and evaluation tools. SSSP envisions this as the
   start of Indigenous Arts events coupled around existing, ongoing and
   well-known community events.
-Approximately how many people will be directly impacted by this proposal?: '600'
-Approximately how many people will be indirectly impacted by this proposal?: '2400'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '600'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '2400'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The majority of Native American community based events and programs are only
   offered to those who identify with a U.S. federally recognized tribe. As a
   result, there is severe underrepresentation of people who identify as
@@ -106,7 +106,7 @@ Please describe the broader impact of your proposal.: >-
   recognize all Indigenous people and the diversity that exists within and
   across our communities. This may inform policy to be more inclusive of all
   Indigenous people.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   SSSP plans to continue collaboration with Indigenous community-based
   organizations including American Indian Community Council, Indigenous
   Collective, Pukuu Cultural Community Services, Tribal TANF and United American
@@ -125,12 +125,12 @@ Please list the organizations collaborating on this proposal.:
   - American Indian Community Council
   - Pukuu Cultural Community Services
   - Tribal TANF and United American Indian Involvement
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Public arts and cultural events
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: connect
 filename: indigenous-circle-of-wellness-sooh-shinálí-sister-project
 order: 26

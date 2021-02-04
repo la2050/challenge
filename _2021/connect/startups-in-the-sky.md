@@ -17,7 +17,7 @@ organization_website: 'https://www.sits.la'
 organization_twitter: '@sitsLA'
 organization_facebook: 'https://www.facebook.com/StartupsInTheSky/'
 organization_instagram: '@sitsLA'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   InTECHrity is an exploration of ethics and the internet and provides a
   critical platform for social justice advocates, software engineers, internet
   philosophers, and the startup community to reimagine and create a digital
@@ -38,8 +38,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   The Startups in the Sky team is launching a first of its kind InTECHrity
   Podcast and Conference series aimed at peeling back the curtain on the
   do-gooders of the tech world. Who are they, you might ask? They are the people
@@ -51,7 +51,7 @@ What is the need you’re responding to?: >-
 
 
    
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   InTECHrity is a collective call to action for all of us to demand a more
   inclusive, equitable digital future, and we're only as strong as our network.
   Startups in the Sky is a node within the Startup Coil network, reaching more
@@ -66,7 +66,7 @@ Why is this project important to the work of your organization?: >-
   capitol determine our digital connectedness. It's time that a group focus on
   ensuring we put an end to the cycle of digital exclusion. It starts with
   InTECHrity - and frankly, we don't yet know where it ends. 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   InTECHrity is a people powered event - an amalgamation of digital enthusiasts
   who spend a lot of their mental bandwidth thinking about a safer and more
   inclusive digital environment for Angelenos and the global community more
@@ -95,9 +95,9 @@ Please explain how you will define and measure success for your project.: >-
   Tech Happy Hour), our vision is to ensure more people in Los Angeles are
   invited to think more critically about the future of the internet, and to be a
   stand for improving our digital futures. 
-Approximately how many people will be directly impacted by this proposal?: '800'
-Approximately how many people will be indirectly impacted by this proposal?: '100000'
-Please describe the broader impact of your proposal.: >+
+Approximately how many people will be directly impacted by this project, program, or initiative?: '800'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '100000'
+Describe how Los Angeles County will be different if your work is successful.: >+
   We'll offer curated conference topics, including: 
 
 
@@ -123,7 +123,7 @@ Please describe the broader impact of your proposal.: >+
   and setting stronger standards across the board, the impact depends on our
   attendees. 
 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   The team behind the InTECHrity Conference will be the main organizing body of
   the event, with promotional support coming from the Startup Coil team, dot.LA,
   as well as other not-yet-confirmed community partners (we'll reach out to
@@ -163,14 +163,14 @@ Please list the organizations collaborating on this proposal.:
   - we have discussed a partnership with the new tech startup publication
   - dot.LA
   - in an unconfirmed capacity.
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Internet access
   - Government responsiveness to residents’ needs
   - Disability access and inclusion
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: connect
 filename: startups-in-the-sky
 order: 55

@@ -17,7 +17,7 @@ organization_website: 'https://popsclubs.org'
 organization_twitter: '@POPStheclub'
 organization_facebook: 'https://www.facebook.com/popstheclub/'
 organization_instagram: '@POPStheclub'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The mission of POPS the Club is to create a safe, empowering space within high
   schools for the children and other loved ones of the incarcerated. POPS
   transforms stigma and shame into hope and dignity. 
@@ -38,10 +38,10 @@ In which areas of Los Angeles will you be directly working?:
     LAUSD (please select only if you have a district-wide partnership or
     project)
   - 'Culver City, Lawndale, Santa Monica, Woodland Hills'
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Mass incarceration affects not just those convicted of crimes, but also their
   loved ones left behind. The community experiences this loss as a “shared
   sentence.” Stigma and trauma are part of the fabric of the lives of one in
@@ -54,7 +54,7 @@ What is the need you’re responding to?: >-
   incidences of depression and anxiety. As a result, they face greater
   challenges in school. They need a vehicle by which to navigate the minefield
   of their pain and loss.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   POPS was created to provide that vehicle. For the past seven years, POPS has
   been transforming the lives of Los Angeles teens with loved ones in prison or
   jail through the use of creative expression, emotional support, and community
@@ -67,7 +67,7 @@ Why is this project important to the work of your organization?: >-
   schools across four states, and one of two organizations in the country that
   provides trauma-informed, arts- and school-based activities designed to
   support teens with justice-involved loved ones. 
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   POPS’s goal is that students learn to heal the stigma and shame so often
   experienced as a result of having an incarcerated loved one.  
 
@@ -93,9 +93,9 @@ Please explain how you will define and measure success for your project.: >
   in collaboration with USC and CSUN Departments of Public Health. POPS
   regularly reviews these materials, using the information to adjust training
   and presentation methods and curricula accordingly. 
-Approximately how many people will be directly impacted by this proposal?: '240'
-Approximately how many people will be indirectly impacted by this proposal?: '2100'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '240'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '2100'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The stigma of justice-involvement often leads to recidivism, substance abuse,
   depression, and unemployment. Family members of these individuals, children in
   particular, also serve a “silent sentence” deal with a range of emotions –
@@ -106,7 +106,7 @@ Please describe the broader impact of your proposal.: >-
   loved ones to heal and reframe the stigma about incarceration. Expanding this
   dialogue to include the general public is critical to helping both vulnerable
   populations have a successful chance to rejoin their communities.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   POPS and Defy will combine elements their existing programs to create a
   collaborative project aimed at healing the pain of the prison system amongst
   currently and formerly incarcerated people and their family members. Through
@@ -123,12 +123,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Communications support
 Please list the organizations collaborating on this proposal.: Defy Ventures
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Prevalence of trauma and adverse childhood experiences
   - Crime rates
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CONNECT
-year: 2020
+year: 2021
 category: play
 filename: pops-the-club
 order: 18

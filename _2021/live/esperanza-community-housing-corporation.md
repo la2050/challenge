@@ -17,7 +17,7 @@ organization_website: 'https://www.esperanzacommunityhousing.org/'
 organization_twitter: '@EsperanzaCHC'
 organization_facebook: Esperanza Community Housing Corporation
 organization_instagram: '@esperanzacommunityhousing'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Esperanza Community Housing Corporation is a social justice non-profit in
   South Central LA that achieves long-term, comprehensive community development
   through affordable housing, health equity and access to care, environmental
@@ -34,10 +34,10 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to LIVE
 In which areas of Los Angeles will you be directly working?:
   - South LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   South LA is one of the most economically disenfranchised areas in LA County,
   with the majority of households earning below the federal poverty level of
   $25,100 for a family of four. The Covid-19 crisis reinforces the ways in which
@@ -52,7 +52,7 @@ What is the need you’re responding to?: >-
   pandemic worsens conditions, as families must choose between foregoing work
   and face homelessness or continuing to work and putting their lives and loved
   ones at risk.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   In 1998, we pioneered the Promotores de Salud (Community Health Promoters)
   model, a strategy for reducing health disparities and increasing access to
   health services for low-income communities of color, while building a powerful
@@ -67,10 +67,10 @@ Why is this project important to the work of your organization?: >-
   success, Esperanza has been able to advance city-wide and national policies on
   housing, habitability, code enforcement, workforce development, and asthma
   home visitation.
-Please explain how you will define and measure success for your project.: "In 25 years, our nationally recognized Promotores de Salud Leadership Training Program has trained and cultivated 533 Promotoras, with 4 primary goals: 1) improve community health through primary prevention measures; 2) increase access to health services; 3) empower community leaders to shape health systems and services to fit the needs of medically underserved communities; and 4) support career wage employment in health for previously low-income residents.\_This year, 25 community participants will undergo a comprehensive training of over 250 hours on over 50 health and well-being topics, followed by an additional 250 hours of on-the-job learning through internships and/or employment at local health and social service agencies. \n\nOur Promotora-staffed health programs will serve 350 families and over the next year we will: 1) reduce the number of patients returning to the ER for acute asthma care by 65%; 2) decrease number of missed school and work days by 50%; 3) establish prescription adherence and asthma self-management practices to better control and prevent asthma episodes; 4) establish medical home use for primary and continuous healthcare services for our patients at local health centers; 5) refer our clients to other vital services, including mental health and tenant rights clinics. We measure the success of our Promotores work by analyzing the data derived from our in-home health surveys and follow up assessments as well as through periodic community health surveys."
-Approximately how many people will be directly impacted by this proposal?: '375'
-Approximately how many people will be indirectly impacted by this proposal?: '2250'
-Please describe the broader impact of your proposal.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "In 25 years, our nationally recognized Promotores de Salud Leadership Training Program has trained and cultivated 533 Promotoras, with 4 primary goals: 1) improve community health through primary prevention measures; 2) increase access to health services; 3) empower community leaders to shape health systems and services to fit the needs of medically underserved communities; and 4) support career wage employment in health for previously low-income residents.\_This year, 25 community participants will undergo a comprehensive training of over 250 hours on over 50 health and well-being topics, followed by an additional 250 hours of on-the-job learning through internships and/or employment at local health and social service agencies. \n\nOur Promotora-staffed health programs will serve 350 families and over the next year we will: 1) reduce the number of patients returning to the ER for acute asthma care by 65%; 2) decrease number of missed school and work days by 50%; 3) establish prescription adherence and asthma self-management practices to better control and prevent asthma episodes; 4) establish medical home use for primary and continuous healthcare services for our patients at local health centers; 5) refer our clients to other vital services, including mental health and tenant rights clinics. We measure the success of our Promotores work by analyzing the data derived from our in-home health surveys and follow up assessments as well as through periodic community health surveys."
+Approximately how many people will be directly impacted by this project, program, or initiative?: '375'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '2250'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Through this work, we hope to expand our evidence base for our Promotora home
   health model, ensuring more holistic, quality care for South LA residents in
   the near term, and increasing respect, job opportunities, and pay for
@@ -85,11 +85,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Healthcare access
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: live
 filename: esperanza-community-housing-corporation
 order: 13

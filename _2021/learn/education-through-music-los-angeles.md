@@ -17,7 +17,7 @@ organization_website: 'https://www.etmla.org'
 organization_twitter: '@etmlosangeles'
 organization_facebook: '@etmla'
 organization_instagram: '@etmla'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   ETM-LA provides high-quality music instruction in disadvantaged schools to
   promote academic growth and character-building. We provide equitable access by
   offering weekly music class as part of the school day to every student
@@ -36,12 +36,12 @@ In which areas of Los Angeles will you be directly working?:
   - East LA
   - South LA
   - Westside
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Applying a proven model or solution to a new issue or sector (e.g, using a job
   recruiting software or strategy to match clients to supportive housing sites,
   applying demonstrated strategies from advocating for college affordability to
   advocating for housing affordability and homelessness, etc.)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   10% of jobs in California — and 7.8% of the state’s GDP — are linked to the
   arts. While California once led the nation in arts education, a 1970 state law
   eliminated arts requirements from elementary teacher training, and in 1978
@@ -55,7 +55,7 @@ What is the need you’re responding to?: >-
   And because some children in public schools are getting high-quality arts
   education and others are not, “It’s no longer just a school issue, it’s a
   moral issue. There’s a huge equity gap.”
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   ETM-LA began in 2006 with 2 partner schools, teaching 800 students. In this
   our 14th year, we have grown to 42 partners schools, teaching 17,500 students
   in 6 public school districts and 2 charter networks. ETM-LA’s customizes its
@@ -69,10 +69,10 @@ Why is this project important to the work of your organization?: >-
   instruction, and a deeper focus on special needs, music therapy, and
   healing-centered practices. Through the current pandemic, we pivoted quickly
   to provide students with distance learning and music activity packets.
-Please explain how you will define and measure success for your project.: "Our vision of success begins at the ground level as evidenced through student/teacher/parent surveys, student journals, performance attendance, and school attendance rates. The ultimate success of our program is a partner school assuming the full cost of their sustained music program and the school hiring ETM-LA’s music teacher onto their staff. Measures of success include the following:\n\n*\tIncreased student performance in and attitudes toward both the arts and school.\n*\tThe ability of music teachers and academic teachers to integrate music with other subjects.\n*\tBroadened and deepened school/community understanding of and support for arts education.\n*\tSchool efforts toward sustaining programs independently.\n\nAn example of our measurable success comes from partner school McKinley Elementary in Compton. After one year of implementing ETM-LA, which was the only change the school instituted that year, McKinley went from last (21 out of 21 schools) to first in attendance, and by year two went to first in math and reading as well. In March 2019, McKinley Elementary was named one of the Top Los Angeles Public Schools for Underserved Students."
-Approximately how many people will be directly impacted by this proposal?: '20000'
-Approximately how many people will be indirectly impacted by this proposal?: '30000'
-Please describe the broader impact of your proposal.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "Our vision of success begins at the ground level as evidenced through student/teacher/parent surveys, student journals, performance attendance, and school attendance rates. The ultimate success of our program is a partner school assuming the full cost of their sustained music program and the school hiring ETM-LA’s music teacher onto their staff. Measures of success include the following:\n\n*\tIncreased student performance in and attitudes toward both the arts and school.\n*\tThe ability of music teachers and academic teachers to integrate music with other subjects.\n*\tBroadened and deepened school/community understanding of and support for arts education.\n*\tSchool efforts toward sustaining programs independently.\n\nAn example of our measurable success comes from partner school McKinley Elementary in Compton. After one year of implementing ETM-LA, which was the only change the school instituted that year, McKinley went from last (21 out of 21 schools) to first in attendance, and by year two went to first in math and reading as well. In March 2019, McKinley Elementary was named one of the Top Los Angeles Public Schools for Underserved Students."
+Approximately how many people will be directly impacted by this project, program, or initiative?: '20000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '30000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   For our students – the majority of whom are at-risk - the benefits of music
   education are critical & life-changing. We are witness to the communal and
   holistic development in our students & partner school communities, including
@@ -86,13 +86,13 @@ Please describe the broader impact of your proposal.: >-
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - Early education enrollment
   - K-8 chronic absenteeism
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: learn
 filename: education-through-music-los-angeles
 order: 24

@@ -18,7 +18,7 @@ organization_website: 'http://www.leia.design/'
 organization_twitter: '@noproscenium'
 organization_facebook: 'https://www.facebook.com/noproscenium/'
 organization_instagram: '@no_proscenium'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The LEAGUE of EXPERIENTIAL & IMMERSIVE ARTISTS seeks to advance the immersive
   & experiential arts through collaboration, education, and advocacy on behalf
   of creators & producers. They are organizing that community in LA: ​providing
@@ -40,10 +40,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Since 2017, it has been difficult to mount legally-permitted, short-term
   events in the city of Los Angeles. There is no way to permit temporary indoor
   events, especially in under-utilized urban spaces, and the City’s proposed
@@ -63,7 +63,7 @@ What is the need you’re responding to?: >-
   industry are a larger segment of its population with a fraction of the ability
   to contribute to economic development goals. Our program is uniquely suited to
   abate this problem.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   By embracing the connection of shared experiences and the inspiration of the
   immersive design world’s creative prowess, our program leverages the
   industry’s vanguard global event, which takes place in Los Angeles, HERE Fest
@@ -80,7 +80,7 @@ Why is this project important to the work of your organization?: >-
   biggest activations to LA via a curated event series tapping its unique
   network of local policy-makers, invite-only list of creative innovators across
   Theme Parks and Entertainment, and global PR agencies.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   We have been working to achieve the following:
 
 
@@ -112,9 +112,9 @@ Please explain how you will define and measure success for your project.: >-
   attendees and many more Festival show-goers will enjoy programming that is
   both made possible and promoting the work done by LOLA, enticing locals and
   visitors to create more work in LA.
-Approximately how many people will be directly impacted by this proposal?: '1000'
-Approximately how many people will be indirectly impacted by this proposal?: '3000000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '3000000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Long term, we seek codify a formal and easy-to-navigate process for obtaining
   permits. It will pre-generate a document that breaks down the specific
   departments required to permit any event, & creates a way to understand
@@ -128,7 +128,7 @@ Please describe the broader impact of your proposal.: >-
   we found benefit to live events, non profit fundraisers, & many other
   productions. It’s hard to track the many benefits of such a program to
   bordering areas of economic development
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   The HERE Institute champions immersive & experiential arts through media
   platforms, events, & creative programming. The HERE Summit & Festival is a
   global hub for immersive art, design, and performance. Their publication, No
@@ -157,14 +157,14 @@ Please list the organizations collaborating on this proposal.:
   - >-
     Think Tank Gallery and Tanner Blackman are consultants and programming
     directors
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - 'Arts establishments, instillations, and exhibitions'
   - Employment in the creative industries
   - Global cultural and economic influence (“soft power”)
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to PLAY
   - LA is the best place to CONNECT
-year: 2020
+year: 2021
 category: create
 filename: the-league-of-experiential-immersive-artists-leia
 order: 38

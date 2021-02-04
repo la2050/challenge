@@ -17,7 +17,7 @@ organization_website: 'https://www.camplostboys.org'
 organization_twitter: ''
 organization_facebook: 'https://www.facebook.com/camplostboys'
 organization_instagram: '@camplostboys'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Through events, gathering (virtual and real life) we teach and model healthy
   masculinity via intention, awareness and integrity. 
 project_description: >-
@@ -33,10 +33,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Camp Lost Boys was born out of necessity. Transgender men have no other
   dedicated space (worldwide) or services that care for their specific needs.
   This event has literally saved lives. It was at the first gathering in 2017,
@@ -51,7 +51,7 @@ What is the need you’re responding to?: >-
 
   Camp Lost Boys is helping trans men love themselves, love each other and build
   community. We want to extend this into the larger culture of all men.  
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   While so-called crises of masculinity have existed as long as the concept of
   masculinity itself, we are experiencing a moment of greater cultural awareness
   today. Men’s work may be nothing new, but our approach is completely radical
@@ -67,7 +67,7 @@ Why is this project important to the work of your organization?: >-
   All of our four events have had attendance of between 30-45% men of color and
   between the ages of 18-76. It is always our aim to continue to grow our
   diverse attendance. 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   A few factors will define success. If we are able to produce an event for 100
   men, half of which are cis gender and half trans men and there is a diverse
   age range and men of color in attendance. If in the exit survey men express
@@ -76,9 +76,9 @@ Please explain how you will define and measure success for your project.: >-
   culture of masculinity in the men that attend and their subsequent communities
   and that ripple effect takes hold of LA. And especially if it becomes clear
   that there is an ongoing desire for more of this event. 
-Approximately how many people will be directly impacted by this proposal?: '100'
-Approximately how many people will be indirectly impacted by this proposal?: '10000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '100'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '10000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   These events transform men. It allows men to have a deep inward moment of self
   reflection. They will build deep connections to themselves and their fellows,
   while unpacking patriarchal gendered norms and building authentic connection
@@ -91,7 +91,7 @@ Please describe the broader impact of your proposal.: >-
 
   This experience not only transforms the men, but it transforms their
   subsequent communities. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Intentional Man Project will focus on cross promotion to engage men of all
   kinds. Camp Lost Boys currently serves trans men exclusively and Intentional
   Man Project serves trans and cisgender men. It is our aim to bring men of all
@@ -109,14 +109,14 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: The Intentional Man Project
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Public arts and cultural events
   - LGBTQ+ equity and inclusion
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the best place to PLAY
-year: 2020
+year: 2021
 category: connect
 filename: camp-lost-boys
 order: 6

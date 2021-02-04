@@ -17,7 +17,7 @@ organization_website: 'https://www.jbbbsla.org'
 organization_twitter: '@TeenTalkApp'
 organization_facebook: 'https://www.facebook.com/jbbbsla/'
 organization_instagram: '@https://www.instagram.com/teentalkapp/'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Jewish Big Brothers Big Sisters of Los Angeles’ (JBBBSLA) mission is to help
   youth living in Los Angeles achieve their full potential by participating in
   innovative, effective programs that facilitate and support positive youth
@@ -46,10 +46,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   With a near-constant attachment to their mobile devices, and a lack of mental
   health support in general, teens seek mental health support online. A national
   survey sponsored by Hopelab and Well Being Trust finds that 59% of teens have
@@ -62,7 +62,7 @@ What is the need you’re responding to?: >-
   and experiences, and connect to one another about health.” When it comes to
   mental health, teens now go online. To help teens, providers must meet them
   where they are – and because of Teen Talk, that is happening every day.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Over the past 7 years, JBBBSLA has expanded its programs to serve teens (i.e.,
   teen camp, teen empowerment workshops, college guidance. Based on research and
   interviews with teens, JBBBSLA learned that teens want and need accessible
@@ -77,10 +77,10 @@ Why is this project important to the work of your organization?: >-
   support where and when the teen needs it, all from the privacy of their mobile
   device. Teen Talk has 26,000 app users worldwide and 2,500 of them live in Los
   Angeles. 
-Please explain how you will define and measure success for your project.: "The teen advisor training prepares teens to respond to their peers on the app, yet the larger goal is to develop a community of teens in Los Angeles that will recreate this supportive community in real life in Los Angeles. In order to track Teen Talk’s success towards this goal, it is necessary to track both the app user experience and the teen advisor experience. Three evaluation methods are being used: 1) In-app technology allowing a “thumbs up or thumbs down” rating of the service by the app user; 2) Monitoring the analytics derived from user engagement; and 3) Outside program evaluator  will report on the experience, impact, and outcomes of the app users, teen advisors, and supervisors.  JBBBSLA’s vision: 1) Hundreds of Los Angeles teens are trained to become teen advisors. The teen advisors report great satisfaction helping other teens in need of social and emotional support and additionally, they experience increased involvement in their own communities. 2) Tens of thousands of teens in need have access to social and emotional support from peers who can relate to them. Teen Talk is a vital resource to help teens understand and address issues in their lives. \n\nIn order to achieve this vision, JBBBSLA needs funding to:\n*\tIncrease recruitment efforts to identify potential teen advisors in Los Angeles.\n*\tOffer additional training cohorts to accommodate greater numbers of teens in training program. \n*\tIncrease staffing to support increased training and support of teen advisors. \n"
-Approximately how many people will be directly impacted by this proposal?: '52240'
-Approximately how many people will be indirectly impacted by this proposal?: '208960'
-Please describe the broader impact of your proposal.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "The teen advisor training prepares teens to respond to their peers on the app, yet the larger goal is to develop a community of teens in Los Angeles that will recreate this supportive community in real life in Los Angeles. In order to track Teen Talk’s success towards this goal, it is necessary to track both the app user experience and the teen advisor experience. Three evaluation methods are being used: 1) In-app technology allowing a “thumbs up or thumbs down” rating of the service by the app user; 2) Monitoring the analytics derived from user engagement; and 3) Outside program evaluator  will report on the experience, impact, and outcomes of the app users, teen advisors, and supervisors.  JBBBSLA’s vision: 1) Hundreds of Los Angeles teens are trained to become teen advisors. The teen advisors report great satisfaction helping other teens in need of social and emotional support and additionally, they experience increased involvement in their own communities. 2) Tens of thousands of teens in need have access to social and emotional support from peers who can relate to them. Teen Talk is a vital resource to help teens understand and address issues in their lives. \n\nIn order to achieve this vision, JBBBSLA needs funding to:\n*\tIncrease recruitment efforts to identify potential teen advisors in Los Angeles.\n*\tOffer additional training cohorts to accommodate greater numbers of teens in training program. \n*\tIncrease staffing to support increased training and support of teen advisors. \n"
+Approximately how many people will be directly impacted by this project, program, or initiative?: '52240'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '208960'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The need for mental health resources is serious, given that 7,092 teens living
   in Los Angeles were hospitalized for mental health issues in 2018
   (kidsdata.org). Since 2018, 2,000 teens from Los Angeles have downloaded the
@@ -96,12 +96,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - 'Office space for meetings, events, or for staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Volunteerism
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: connect
 filename: jewish-big-brothers-big-sisters-of-los-angeles
 order: 31

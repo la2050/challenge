@@ -18,7 +18,7 @@ organization_website: 'https://www.habitsofwaste.org'
 organization_twitter: '@howchangers'
 organization_facebook: howchangers
 organization_instagram: '@howchangers'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   To educate, inform and spotlight individual "habits of waste" to inspire and
   empower individuals to make small daily changes to our engrained wasteful
   behavior, resulting in collective large-scale societal impact.  We believe in
@@ -37,12 +37,12 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Applying a proven model or solution to a new issue or sector (e.g, using a job
   recruiting software or strategy to match clients to supportive housing sites,
   applying demonstrated strategies from advocating for college affordability to
   advocating for housing affordability and homelessness, etc.)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Our efforts for a new campaign called #DrinkTap, which creates a new mindset
   around LA's tap water, began in response to our 2019 program called
   #LAGREENTEEN. This began at LA High School, to teach environmental
@@ -59,7 +59,7 @@ What is the need you’re responding to?: >-
   by LADWP. Through this project, we learned that LADWP has been unsuccessful in
   communicating the quality of LA's tap water, especially among non-English
   speakers. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   We found, after successfully spearheading the first ever plastic straw &
   cutlery ban in the City of Malibu and partnering with UberEats and Postmates
   to change their default settings for plastic utensils to opt in rather than
@@ -76,7 +76,7 @@ Why is this project important to the work of your organization?: >-
   “Few things are more basic and important to all of us than good, clean water.
   So many of us take for granted the easy access to such a basic necessity.” –
   Nina L. Shapiro, MD, UCLA
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Our communications campaign goal, targeted to Angeleno's, is to educate the
   community about their rights to information about their drinking water as well
   as inform them of its quality and accessibility. We want to reassure
@@ -117,9 +117,9 @@ Please explain how you will define and measure success for your project.: >
 
   Social Media Metrics - we will track the campaign hashtag for likes and shares
   throughout the campaign.  
-Approximately how many people will be directly impacted by this proposal?: '100000'
-Approximately how many people will be indirectly impacted by this proposal?: '780000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '100000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '780000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The broad impact of this campaign is environmental betterment that comes from
   decreasing plastic bottle usage/waste. 
 
@@ -135,7 +135,7 @@ Please describe the broader impact of your proposal.: >-
   not degraded yet. Also, plastic doesn’t biodegrade, it photo-degrades,
   meaning, it breaks down into smaller toxic micro particles, which contaminate
   and bleed into the environment, which we later ingest in our food and water.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   While not a collaborative proposal, we will be working closely with LADWP who
   has expressed great appreciation for our #DrinkTap campaign. They have been a
   partner in this mission to help Angeleno's not waste hard-earned dollars on
@@ -145,11 +145,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Local water
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: crayon-collection-dba-habits-of-waste
 order: 9

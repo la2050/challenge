@@ -17,7 +17,7 @@ organization_website: 'https://www.civy.co'
 organization_twitter: '@civyengage'
 organization_facebook: 'https://www.facebook.com/civyengage'
 organization_instagram: '@civyengage'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Civy is a cloud-based mobile platform for civic engagement, including cyber
   security and cloud hosting. Our mission is to enable direct and productive
   conversation between city officials and residents. We do so by creating tools
@@ -41,8 +41,8 @@ In which areas of Los Angeles will you be directly working?:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
   - 'We can work with any county, city or municipality'
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   Currently, residents are not given an easy way to participate in civic
   discussion, and traditional methods, such as town halls, lead to low
   participation. On the other hand, feedback received from residents (largely
@@ -57,7 +57,7 @@ What is the need you’re responding to?: >-
   residents. Civy can convey important-factual information during events
   impacting LA, such as the current public health crisis, or the upcoming 2028
   LA Olympics. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   We are passionate about improving city and government services, & we have the
   collective experiences to design and deliver. I started Civy after working
   with cities and governments on governance-education for city officials
@@ -71,7 +71,7 @@ Why is this project important to the work of your organization?: >-
   facts, putting the city officials on the back-step. Civy's mission is to
   address all the above by working with LA and its residents, its think-tanks,
   its universities, to improve civic participation and creating a direct dialog.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   The current models for meaningful and high-impact civic engagement
   (town-halls, disparate social media campaigns) have led to low participation
   rates (estimated between 5%-7% of eligible resident population), despite
@@ -104,9 +104,9 @@ Please explain how you will define and measure success for your project.: >-
   staff effort of scraping social media data by 2-3 days a week, allowing more
   time spent analyzing & strategic insight making. Civy complies with the Data
   Privacy guidelines, does not sell to 3rd parties. City owns the data.
-Approximately how many people will be directly impacted by this proposal?: '8000000'
-Approximately how many people will be indirectly impacted by this proposal?: '2300000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '8000000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '2300000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The current state of civic participation is low. Our public outreach platform
   can change the that. Once Civy is implemented, our services can continue to be
   used by Los Angeles and its residents. With Civy, the community will become
@@ -125,16 +125,16 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Government responsiveness to residents’ needs
   - Public transit ridership
   - Neighborhood council participation
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CREATE
   - LA is the best place to PLAY
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: connect
 filename: civy-inc
 order: 10

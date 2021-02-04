@@ -17,7 +17,7 @@ organization_website: 'https://www.laparks.org'
 organization_twitter: '@LACityParks'
 organization_facebook: facebook.com/LACityParks/
 organization_instagram: '@lacityparks'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The Department’s mission is to enrich the lives of Los Angeles residents by
   providing safe, welcoming parks and recreation facilities with affordable
   recreational and social activities for people of all ages.
@@ -35,12 +35,12 @@ In which areas of Los Angeles will you be directly working?:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
   - LAUSD - currently four locations and working on adding more.
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Applying a proven model or solution to a new issue or sector (e.g, using a job
   recruiting software or strategy to match clients to supportive housing sites,
   applying demonstrated strategies from advocating for college affordability to
   advocating for housing affordability and homelessness, etc.)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   The City of Los Angeles Department of Recreation and Parks (RAP) launched a
   Community School Parks (CSP) program, in coordination with the Los Angeles
   Unified School District (LAUSD). Four elementary schools in high park need
@@ -60,7 +60,7 @@ What is the need you’re responding to?: >-
   programs to empty school grounds and create access to recreational and social
   activities that will encourage children and families to remain healthy and
   active.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   The first goal in RAP’s 2018-2022 Strategic Plan is to “Provide Safe and
   Accessible Parks” because the lack of park access, particularly in low-income
   communities, contributes to disparities in health outcomes throughout the
@@ -77,10 +77,10 @@ Why is this project important to the work of your organization?: >-
   that are not able to venture far from home. One is an Oceanography vehicle,
   and the other is a Mobile Ranger Station to bring wildlife, Jr. Ranger, and
   naturalist programs to youth.
-Please explain how you will define and measure success for your project.: "Success for the Mobile Recreation Program will be defined by the increase in attendance and repeat participation at the current CSP sites, as well as healthy active youth.  Success can be measured by comparing attendance currently at CSP sites with days that the Mobile Recreation vehicle is on site.  Attendance will be monitored by the Mobile Recreation staff for each site and date they visit by tracking the number of people, gender, and whether they are youth or adults.  Dedicated staff will rotate between sites on weekends to monitor the Mobile Recreation Program and visually assess the amount of attendance, interaction, and the success of the program, as well as get feedback from people in attendance.  \t\n\nThe popularity of the program can also be measured by the addition of new CSP sites, which will provide more access to open space and recreational activities.  The success of this program will assist in illustrating the importance and need to continue to utilize open space at schools throughout the city, as well as the benefits of greening schoolyards.\n\nRAP’s Strategic Plan 2018-2022 goal to Provide Safe and Accessible Parks includes a metric to increase access to playgrounds and open space for 200,000 Angelenos living in the highest park-need areas, through the CSP program. Success of the Mobile Recreation Program will encourage additional LAUSD schools to join the CSP program, which will advance RAP’s 10-Minute Walk goals."
-Approximately how many people will be directly impacted by this proposal?: '1000'
-Approximately how many people will be indirectly impacted by this proposal?: '5000'
-Please describe the broader impact of your proposal.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "Success for the Mobile Recreation Program will be defined by the increase in attendance and repeat participation at the current CSP sites, as well as healthy active youth.  Success can be measured by comparing attendance currently at CSP sites with days that the Mobile Recreation vehicle is on site.  Attendance will be monitored by the Mobile Recreation staff for each site and date they visit by tracking the number of people, gender, and whether they are youth or adults.  Dedicated staff will rotate between sites on weekends to monitor the Mobile Recreation Program and visually assess the amount of attendance, interaction, and the success of the program, as well as get feedback from people in attendance.  \t\n\nThe popularity of the program can also be measured by the addition of new CSP sites, which will provide more access to open space and recreational activities.  The success of this program will assist in illustrating the importance and need to continue to utilize open space at schools throughout the city, as well as the benefits of greening schoolyards.\n\nRAP’s Strategic Plan 2018-2022 goal to Provide Safe and Accessible Parks includes a metric to increase access to playgrounds and open space for 200,000 Angelenos living in the highest park-need areas, through the CSP program. Success of the Mobile Recreation Program will encourage additional LAUSD schools to join the CSP program, which will advance RAP’s 10-Minute Walk goals."
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '5000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   RAP envisions an accessible park system for all residents and is committed to
   equity by specifically focusing its resources to close disparities in park
   access and park program participation. According to the Trust for Public Land,
@@ -91,7 +91,7 @@ Please describe the broader impact of your proposal.: >-
   the communities that are lacking this feature. Providing a Mobile Recreation
   program at these sites will bring access to equipment, supplies, and
   instructors that is much needed in these communities.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   RAP has a Memorandum of Understanding (MOU) with the Los Angeles Unified
   School District  (LAUSD) to utilize their sites during non-school days and/or
   hours, which will be the main locations for the Mobile Recreation Program.
@@ -104,16 +104,16 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: Los Angeles Unified School District
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Obesity
   - Youth sports participation
   - Access to open space and park facilities
-Are there any other LA2050 goal categories that your proposal will impact?: []
+Indicate any additional LA2050 goals your project will impact.: []
 Has your proposal changed due to COVID-19?: >
   In response to the current situation involving COVID-19, RAP will need to make modifications to the Mobile Recreation Program proposal. The most significant modification will be the location of the program; instead of mobile recreation utilizing LAUSD schools on the weekends and after-school, this summer they will visit LA city parks that are not offering Summer 2020 Youth Programs.  Approximately 30 sites will participate with the mobile programs this summer.  High contact sports and activities will be substituted for activities that allow for social distancing and stable groups such as field hockey, tennis, and track & field.
 
   Children will be placed into stable groups with a 1:8 instructor to child ratio. The groups will take regular sanitizing breaks throughout the program.  During the summer, the mobile activities will take place outdoors where drills and activities will be adapted to maintain a minimum distance of six feet between participants.  Individual pieces of equipment will be utilized by participants and all equipment will be sanitized before and after each group; proper personal protective equipment (PPE – facial coverings, gloves, and safety goggles) will be used by staff and participants.  All activities will comply with the County Public Health guidelines and align with the Centers for Disease Control and Prevention (CDC).  These modifications will provide a fun and safe environment for all participants.
-year: 2020
+year: 2021
 category: play
 filename: city-of-los-angeles-department-of-recreation-and-parks
 order: 6

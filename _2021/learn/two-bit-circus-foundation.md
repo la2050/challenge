@@ -17,7 +17,7 @@ organization_website: 'https://www.twobitcircus.org'
 organization_twitter: '@TwoBitCircusOrg'
 organization_facebook: '@twobitcircusOrg'
 organization_instagram: '@ twobitcircusorg'
-Please describe the mission of your organization.: >
+Describe the mission of your organization.: >
   Two Bit Circus Foundation (2BCF) serves children in all economic situations by
   creating learning experiences to inspire entrepreneurship, encourage young
   inventors, and instill environmental stewardship.  
@@ -37,10 +37,10 @@ In which areas of Los Angeles will you be directly working?:
   - San Fernando Valley
   - South LA
   - Westside
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   There are sustained, documented inequities in Science, Technology,
   Engineering, Art and Mathematics (STEAM) education throughout the US.
   Minorities and economically disadvantaged students are less prepared in STEAM
@@ -55,7 +55,7 @@ What is the need you’re responding to?: >-
   preparing for the future,  SLMs level the playing field by providing the space
   and resources with which to learn, innovate, experiment and build employable
   skills.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Since its founding in 2004 as T4T.org, Two Bit Circus Foundation has been
   committed to two over-arching goals:  1) providing critically-needed STEAM
   resources to under-served schools and their educators; and, 2) presenting
@@ -70,7 +70,7 @@ Why is this project important to the work of your organization?: >-
   standards.  Through its SLM program, 2BCF has introduced over 200,000 preK-12
   students, well over half of them from diverse, low/moderate income families,
   to STEAM/STEM.  
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Pre-then-post surveys are 2BCF's primary form of evaluation, measuring
   expectations against results.  The pre-survey is conducted before the SLM is
   in place, and the post-survey at the end of the academic year, giving 2BCF
@@ -96,9 +96,9 @@ Please explain how you will define and measure success for your project.: >
   2BCF's vision of success is that up to 13,000 students each year from these 20
   schools will become increasingly proficient at STEAM/STEM, continue their
   education and have meaningful careers.  
-Approximately how many people will be directly impacted by this proposal?: '13030'
-Approximately how many people will be indirectly impacted by this proposal?: '26060'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '13030'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '26060'
+Describe how Los Angeles County will be different if your work is successful.: >-
   SLMs provide STEM/STEAM resources for preK-12 students as they prepare for
   future education and an increasingly tech-heavy workplace.  This is
   particularly critical for the nearly 500,000 non-white LAUSD students who live
@@ -113,15 +113,15 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - High school graduation rates
   - Proficiency in STEM
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
   - LA is the best place to PLAY
   - LA is the best place to CONNECT
-year: 2020
+year: 2021
 category: learn
 filename: two-bit-circus-foundation
 order: 76

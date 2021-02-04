@@ -17,7 +17,7 @@ organization_website: 'https://www.socalcan.org'
 organization_twitter: '@socalcan'
 organization_facebook: '@SouthernCaCAN'
 organization_instagram: '@socalcan @projecsoarla'
-Please describe the mission of your organization.: >+
+Describe the mission of your organization.: >+
   SoCal CAN is a network of 85 organizations working together to increase the
   rate at which low-income students access and complete college. We provide
   direct support to 150,000 students and families in Los Angeles County.  
@@ -33,10 +33,10 @@ Which LA2050 goal will your submission most impact?: LA is the best place to LEA
 In which areas of Los Angeles will you be directly working?:
   - East LA
   - South LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   Public housing is home to nearly 21,000 Angelenos whose average household
   income is $24,424. Children and youth make up almost 50% of the resident
   population. According to data provided by LAUSD, students in public housing
@@ -55,7 +55,7 @@ What is the need you’re responding to?: >
 
   HACLA and SoCal CAN have forged a dynamic cross-sector partnership to bring
   college advising to the sites.
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   SoCal CAN and our 85 member organizations have deep expertise working with
   low-income, first-generation, students of color in nearly pocket of Los
   Angeles County. This is why the Housing Authority of the City of Los Angeles
@@ -72,10 +72,10 @@ Why is this project important to the work of your organization?: >
   application phase or currently persisting through college as a result of
   Project SOAR. We have been recognized as a national model by HUD, the Council
   of Large Public Housing Authorities and The Kresge Foundation. 
-Please explain how you will define and measure success for your project.: "Project SOAR seeks to eliminate any barrier that stands between a resident’s desire to attend college and the advising needed to make that happen. We prioritize 7th-12 graders, college students and opportunity youth under 25, but our door is open to anyone that would like to pursue postsecondary education. We’ve found that Project SOAR is especially helpful to the students who would otherwise fall through the cracks.\n\nIncluded below is a summary of what we are seeking to accomplish and metrics to determine whether we have been successful. We have developed a sophisticated case management system in SalesForce to track our interactions and impact with students and families. \n\n1. Increase college application and acceptance rates for residents at the five Project SOAR housing sites: \n*\t95% of Project SOAR students will have an individualized academic plan. \n*\t85% of Project SOAR students who are eligible for federal aid will complete the FAFSA. \n*\t75% of Project SOAR students who are eligible will apply for grants and scholarships. \n*\t90% of Project SOAR students who are UC-CSU eligible will submit applications. \n*\t90% of Project SOAR students who are completing high school and intend to attend college, will submit applications. \n*\t100% of Project SOAR students who have been accepted to college will have a clear understanding of the various financial aid packages offered to them for decision-making purposes. \n\n2. Increase college enrollment and persistence rates for residents at the five Project SOAR sites: \n*\t100% of Project SOAR students who submitted their intention to register will receive guidance on how to navigate any remaining enrollment issues. \n*\t95% of Project SOAR students will successfully enroll and attend school in the fall. \n*\t95% of Project SOAR students will enroll in our college success program, Level Up. \n"
-Approximately how many people will be directly impacted by this proposal?: '1100'
-Approximately how many people will be indirectly impacted by this proposal?: '10000'
-Please describe the broader impact of your proposal.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "Project SOAR seeks to eliminate any barrier that stands between a resident’s desire to attend college and the advising needed to make that happen. We prioritize 7th-12 graders, college students and opportunity youth under 25, but our door is open to anyone that would like to pursue postsecondary education. We’ve found that Project SOAR is especially helpful to the students who would otherwise fall through the cracks.\n\nIncluded below is a summary of what we are seeking to accomplish and metrics to determine whether we have been successful. We have developed a sophisticated case management system in SalesForce to track our interactions and impact with students and families. \n\n1. Increase college application and acceptance rates for residents at the five Project SOAR housing sites: \n*\t95% of Project SOAR students will have an individualized academic plan. \n*\t85% of Project SOAR students who are eligible for federal aid will complete the FAFSA. \n*\t75% of Project SOAR students who are eligible will apply for grants and scholarships. \n*\t90% of Project SOAR students who are UC-CSU eligible will submit applications. \n*\t90% of Project SOAR students who are completing high school and intend to attend college, will submit applications. \n*\t100% of Project SOAR students who have been accepted to college will have a clear understanding of the various financial aid packages offered to them for decision-making purposes. \n\n2. Increase college enrollment and persistence rates for residents at the five Project SOAR sites: \n*\t100% of Project SOAR students who submitted their intention to register will receive guidance on how to navigate any remaining enrollment issues. \n*\t95% of Project SOAR students will successfully enroll and attend school in the fall. \n*\t95% of Project SOAR students will enroll in our college success program, Level Up. \n"
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1100'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '10000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Over the last three years, Project SOAR Los Angeles has become a nationally
   recognized model for supporting the college and career aspirations of
   residents in public housing. The program currently operates on five public
@@ -84,7 +84,7 @@ Please describe the broader impact of your proposal.: >-
   down the road. Our work has also piqued the interest of state policymakers. Of
   course, our primary focus is LA and ensuring the most vulnerable Angelenos the
   right to a postsecondary education and pathway out of poverty. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+'Describe the role of collaborating organizations on this project.': >
   Over the last three years, SoCal CAN and HACLA have developed a
   highly-effective partnership to make Project SOAR available on five housing
   sites. SoCal CAN bears all responsibility for project implementation, data
@@ -99,16 +99,16 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: Housing Authority of the City of Los Angeles
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - College graduates
   - College matriculation
   - Opportunity youth (“Disengaged youth” 16-24 not working or in school)
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CONNECT
   - LA is the healthiest place to LIVE
 Has your proposal changed due to COVID-19?: >
   With the onset of COVID-19, our counseling staff was quick to transition to remote advising. Project SOAR counselors have maintained contact with SOAR students primarily through texting and phone conversations, but also via email and video conferencing. Our counseling staff is also in the process of building out a text messaging and artificial intelligence platform that will be integrated into Project SOAR advising practices this summer and into AY 2020-2021. Of course, once we are cleared to do so, we return to in-person, socially distanced advising on site. 
-year: 2020
+year: 2021
 category: learn
 filename: southern-california-college-access-network
 order: 67

@@ -17,7 +17,7 @@ organization_website: 'https://www.saje.net'
 organization_twitter: '@saje_shiftpower'
 organization_facebook: strategicactions
 organization_instagram: ''
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   SAJE (Strategic Actions for a Just Economy) works towards the creation of a
   society where economic benefits/opportunities are equitably distributed, where
   communities are stable, and where workers and tenants have the same rights,
@@ -40,8 +40,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   Avoiding eviction helps prevent homelessness and ensures that tenants do not
   have to leave their homes just so landlords can reap higher profits. LA
   County’s new Eviction Defense Program rolls out tenant protections, including
@@ -56,7 +56,7 @@ What is the need you’re responding to?: >-
   information and referrals they need to exercise their rights in a moment when
   in-person support and screening are challenged by the need for physical
   distancing.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   SAJE helps lead the LA Right to Counsel coalition and supports the coalition
   organizing in support of the recent rent stabilization ordinance in the
   County. In response to the coronavirus, SAJE helped lead efforts to ensure
@@ -71,7 +71,7 @@ Why is this project important to the work of your organization?: >-
   representation in just the first year. The technology can be paired with a
   variety of community organizing campaigns SAJE is engaged in locally and
   countywide.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   SAJE envisions that this project will complement its current actions on
   tenants rights and equitable development in LA and similar efforts by groups
   across LA County. Through the existing Tenant Action Clinics and outreach
@@ -90,9 +90,9 @@ Please explain how you will define and measure success for your project.: >-
   but a larger amount of funding would enable SAJE to take additional actions
   that ensure the widespread knowledge and use of the website in the initial
   areas to receive access to this legal counsel.
-Approximately how many people will be directly impacted by this proposal?: '10000'
-Approximately how many people will be indirectly impacted by this proposal?: '118901'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '10000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '118901'
+Describe how Los Angeles County will be different if your work is successful.: >-
   This proposal aligns with a nationwide movement to ensure tenants have a right
   to counsel in eviction cases. While there is a right to counsel in criminal
   cases, there is no comparative legal right in civil cases. Other cities,
@@ -103,7 +103,7 @@ Please describe the broader impact of your proposal.: >-
   representation will help prevent displacement, reduce homelessness, and allow
   more tenants to remain in their homes and continue to influence the future of
   their communities.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   SAJE will be conducting the work in LA County to inform tenants of their new
   right to counsel. In building up their outreach and education efforts, SAJE
   will work with JustFix to build off of the success of JustFix’s work on New
@@ -121,16 +121,16 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: JustFix
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Housing affordability
   - Homelessness
-Are there any other LA2050 goal categories that your proposal will impact?: []
+Indicate any additional LA2050 goals your project will impact.: []
 Has your proposal changed due to COVID-19?: >
   Eviction prevention has become an even higher priority as the covid-19 pandemic has caused millions of renters in LA County to wonder if they can pay their rent. Keeping our homes IS public health. Without a home, exposure to the coronavirus is dramatically worsened. Temporary emergency measures protect many tenants, but only for a limited time. Now more than ever, tenants need easy access to tools and resources to help exercise their rights and stay in their homes. In the coronavirus era, easy-to-use and multi-lingual online resources are essential to making critical services available to people who need it the most. In rapid response to the current crisis, we created NoRent.org, which has helped tenants throughout the County protect themselves from unlawful evictions. 
 
 
   Dramatic impacts to the County's budget have shifted the focus of this current project and amplify its value. Currently, the LA County Eviction Defense Program will be replaced by a short-term Emergency Eviction Prevention Program. New tools for tenants to protect against displacement remain critically necessary. For instance, our tools may help tenants effectively document and respond to issues of harassment and slum housing conditions - two major drivers of displacement.
-year: 2020
+year: 2021
 category: live
 filename: strategic-actions-for-a-just-economy-saje
 order: 49

@@ -17,7 +17,7 @@ organization_website: 'https://www.themalibufoundation.org'
 organization_twitter: '@MalibuFdn'
 organization_facebook: Malibu Foundation
 organization_instagram: '@malibufoundation'
-Please describe the mission of your organization.: >
+Describe the mission of your organization.: >
   Malibu Foundation is committed to forging long-term resiliency in areas
   affected by the Woolsey Fire of 2018, which inflicted extensive damage on
   Malibu and surrounding communities. We serve the full scope of communities’
@@ -33,10 +33,10 @@ Which LA2050 goal will your submission most impact?: LA is the best place to PLA
 In which areas of Los Angeles will you be directly working?:
   - Westside
   - Malibu
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Originally we started Endless Summer Surf Camp (2019) in response to the
   trauma inflicted upon our youth by the Woolsey Fire of 2018. We wanted to find
   a way for kids to connect with nature in a positive and healing manner, while
@@ -52,7 +52,7 @@ What is the need you’re responding to?: >-
   than ever. The pandemic will likely heighten some of the trauma that children
   affected by the Woolsey Fire already suffer from. We hope that this camp will
   serve as a solace, something to look forward to during these difficult times. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Our goal as an organization is to create a resilient Malibu. Part of this
   resiliency comes in promoting the wellbeing of Malibu’s children. Many
   children suffered from the Woolsey Fire and may continue to experience the
@@ -69,7 +69,7 @@ Why is this project important to the work of your organization?: >-
   trained in the best practices of communicating with the individuals who we
   serve, in order to limit biases. We have a strong relationship with Mighty
   Underdogs - the surf instructors who would help administer the event. 
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Last year we supported 120 kids through our 4-week camp. We received 100%
   positive feedback and many requests for an extension. We presented
   participants with pre and post-camp surveys and analyzed those results. Last
@@ -95,9 +95,9 @@ Please explain how you will define and measure success for your project.: >
   expand the program to a greater number of participants and also incorporate an
   environmental education day to help children realize their place in protecting
   the ocean. 
-Approximately how many people will be directly impacted by this proposal?: '200'
-Approximately how many people will be indirectly impacted by this proposal?: '400'
-Please describe the broader impact of your proposal.: >+
+Approximately how many people will be directly impacted by this project, program, or initiative?: '200'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '400'
+Describe how Los Angeles County will be different if your work is successful.: >+
   The ocean stimulates our physical, mental, spiritual, social and emotional
   well being. We bring the skill and build the necessary trust and then let the
   ocean do the rest. With this program, we hope to help children discover that
@@ -109,7 +109,7 @@ Please describe the broader impact of your proposal.: >+
   environment. We hope to encourage a positive relationship with nature and spur
   our youth to action in protecting our oceans. 
 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   We are not submitting a collaborative proposal per se but we do have partners
   lined up to help us should we receive funding. We will hire surf instructors
   from Mighty Underdogs to administer the surf teaching. We will also hire a
@@ -121,12 +121,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Communications support
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Youth sports participation
   - Prevalence of trauma and adverse childhood experiences
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CONNECT
-year: 2020
+year: 2021
 category: play
 filename: malibu-foundation
 order: 16

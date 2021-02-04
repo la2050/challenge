@@ -19,7 +19,7 @@ organization_website: 'https://www.urbanpossibilities.org'
 organization_twitter: '@U_Possibilities'
 organization_facebook: urban possibilities
 organization_instagram: '@urbanpossibilities'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Empower homeless job seekers with tools to move from survival to
   self-actualization - improving families, workplaces and our communities as a
   result. 
@@ -31,12 +31,12 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to LIVE
 In which areas of Los Angeles will you be directly working?:
   - Central LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Applying a proven model or solution to a new issue or sector (e.g, using a job
   recruiting software or strategy to match clients to supportive housing sites,
   applying demonstrated strategies from advocating for college affordability to
   advocating for housing affordability and homelessness, etc.)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Pre-pandemic, 150 Angelenos fell into homelessness daily. Now, that number is
   expanding exponentially. The nature of homelessness, marked by devastating
   losses of home, property, and safety, inflicts internal trauma that often
@@ -51,7 +51,7 @@ What is the need you’re responding to?: >-
   and quantitative data to examine program efficiencies and then be able to
   offer these online classes to other homeless service providers during and post
   pandemic. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Since 2014, UP has successfully delivered our empowerment training in the Skid
   Row Community; 3 years at LA Mission and 4 years at Chrysalis Job Center.
   Before the pandemic,73% of our graduates were working or in school. We have a
@@ -65,7 +65,7 @@ Why is this project important to the work of your organization?: >-
   cross section of Angelenos and inspire audiences to new perspectives about
   homeless Angelenos and themselves. Our book signings of published student work
   engage graduates and attendees in meaningful dialogue and cultural exchange. 
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Historically, we have graduated 75% of enrolled students. Our students have
   shown us what success looks like. Completing our unique 12-week program,
   students feel valued, empowered and land jobs. Learning the building blocks of
@@ -87,9 +87,9 @@ Please explain how you will define and measure success for your project.: >
   increase views with ongoing social media campaigns. Success ultimately will be
   to scale up delivery by offering classes both online and in person to support
   and partner with LA agencies on the front line of homelessness.
-Approximately how many people will be directly impacted by this proposal?: '45'
-Approximately how many people will be indirectly impacted by this proposal?: '5000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '45'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '5000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Imagine classes delivered to homeless job seekers in person, online or via
   cell phone that help them transform from the inside out. Classes that teach
   tools to  help them ace interviews and land jobs. Urban Possibilities offers
@@ -100,7 +100,7 @@ Please describe the broader impact of your proposal.: >-
   chronically homeless person costs taxpayers an average of $35,578 a year. We
   can support the work of service providers to get homeless job seekers on a
   path to employment and self-sufficiency and lower homeless numbers in LA. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Los Angeles Mission will recruit, vet and provide students on-site and provide
   an onsite staff coordinator, to work with students, deal with technical needs
   and provide space for zoom classes.  
@@ -117,11 +117,11 @@ Please list the organizations collaborating on this proposal.:
   - Los Angeles Mission
   - The Geffen Playhouse
   - The Wallis Annenberg Center for the Performing Arts
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Homelessness
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: urban-possibilities
 order: 61

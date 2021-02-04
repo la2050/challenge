@@ -17,7 +17,7 @@ organization_website: 'https://www.refoundry.org'
 organization_twitter: '@refoundry'
 organization_facebook: 'https://www.facebook.com/refoundry.org/'
 organization_instagram: 'https://www.instagram.com/refoundry/'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Refoundry's mission is to provide formerly incarcerated people with skills and
   opportunities to achieve financial independence and become leaders and job
   creators in our communities.
@@ -29,10 +29,10 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to CREATE
 In which areas of Los Angeles will you be directly working?:
   - South LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   We launched Refoundry because we believe mass incarceration is a main driver
   of systemic, generational poverty in disadvantaged communities.  We serve
   formerly incarcerated people because despite observing an incredible amount of
@@ -43,7 +43,7 @@ What is the need you’re responding to?: >-
   development/entrepreneurship programs are undifferentiated, set a relatively
   low bar, and unintentionally contribute to policies and practices that
   reinforce barriers to social, economic and civic inclusion.  
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   In 2014, Refoundry founders Thomas Saifan and Cisco Pinedo designed a program
   drawn from their own personal experience with craft and entrepreneurship, and
   with employing and training people from justice-impacted communities.They
@@ -54,7 +54,7 @@ Why is this project important to the work of your organization?: >-
   estimated each Refoundry graduate created a net tax benefit of $100,000 per
   year. Refoundry relaunched in Los Angeles last year, and is planning a NYC
   relaunch in 2020. 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Refoundry is working with the Incarceration Public Health Action Network
   (IPHAN) at Columbia University's Mailman School of Public Health, and the
   Washington, DC-based firm Giving Science Dimension (GSD), to develop a new
@@ -70,9 +70,9 @@ Please explain how you will define and measure success for your project.: >-
   model at scale, it will open opportunities for both increased revenue
   generation and new avenues of revenue that can make the organization largely
   self-sustained within 5-7 years.
-Approximately how many people will be directly impacted by this proposal?: '80'
-Approximately how many people will be indirectly impacted by this proposal?: '300'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '80'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '300'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Refoundry plans to create a program model with a national footprint within
   five years, opening program sites in 10 strategically selected cities to
   ensure maximum impact on effected communities, tax revenue and systemic
@@ -88,13 +88,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Communications support
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Minority- and women-owned businesses
   - Economic opportunities for formerly incarcerated
   - Unemployment rate
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
-year: 2020
+year: 2021
 category: create
 filename: refoundry
 order: 31

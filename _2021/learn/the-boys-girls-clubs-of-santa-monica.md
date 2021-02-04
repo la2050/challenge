@@ -17,7 +17,7 @@ organization_website: 'https://www.smbgc.org'
 organization_twitter: '@SMBGC'
 organization_facebook: 'https://www.facebook.com/smbgcfan'
 organization_instagram: '@smbgc'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The Boys & Girls Clubs of Santa Monica’s (BGCSM) mission is to enable all
   young people, especially those who need us most, to reach their full potential
   as productive, caring, responsible citizens.  
@@ -41,10 +41,10 @@ In which areas of Los Angeles will you be directly working?:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
   - 128 zip codes throughout Los Angeles County
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Our young people benefit social-emotionally, academically, behaviorally, and
   physically through our supportive and caring outcomes-based program design.
   Our goal is for our kids to tackle their dilemmas and use them to become
@@ -56,7 +56,7 @@ What is the need you’re responding to?: >-
   environmental and emotional circumstances contribute to whether a young person
   will be prepared to graduate high school, advance to higher education, and
   successfully transition into a thriving-wage career.  
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   BGCSM’s four-pillar program model integrates overall holistic wellbeing and
   growth in our youth, while further focusing on targeting services for our most
   at-risk youth in the community. We provide a well-rounded approach toward
@@ -71,7 +71,7 @@ Why is this project important to the work of your organization?: >-
   engagement practices to improve. Through this, we can create a safe and
   supportive environment that fosters growth and resiliency while building
   confidence in our youth.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   We define success through our youth achieving positive outcomes for overall
   wellbeing and success in life, and to become competent, effective leaders in
   their communities. Our vision for success lies in our four outcomes for youth.
@@ -89,9 +89,9 @@ Please explain how you will define and measure success for your project.: >-
    
   4) be actively engaged in, and committed to, community and service
   leadership.   
-Approximately how many people will be directly impacted by this proposal?: '4000'
-Approximately how many people will be indirectly impacted by this proposal?: '14500'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '4000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '14500'
+Describe how Los Angeles County will be different if your work is successful.: >-
   We target the most at-risk youth in our communities to help them overcome
   barriers and achieve overall success and wellbeing in life. Our programming
   directly impacts 4,000 youth annually. Our indirect impact extends to our teen
@@ -99,7 +99,7 @@ Please describe the broader impact of your proposal.: >-
   events, families and residents reached by our club events such as Thanksgiving
   meals, holiday parties, and family assistance programs, as well as our
   dedicated advisory board and staff. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   We are not submitting a collaborative proposal. However, we collaborate with a
   wide network of community partners in our programming with other organizations
   doing similar work, local businesses, and other agencies to best meet the
@@ -110,14 +110,14 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Enrollment in afterschool programs
   - College matriculation
   - High school graduation rates
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
   - LA is the best place to PLAY
-year: 2020
+year: 2021
 category: learn
 filename: the-boys-girls-clubs-of-santa-monica
 order: 69

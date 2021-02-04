@@ -17,7 +17,7 @@ organization_website: 'https://www.peerhealthexchange.org'
 organization_twitter: '@PeerHealthExch'
 organization_facebook: 'https://www.facebook.com/PeerHealthExchange/'
 organization_instagram: '@peerhealthexchange'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Peer Health Exchange's mission is to empower young people with the knowledge,
   skills, and resources to make healthy decisions.  We do this by training
   college student volunteers to teach a skills-based health curriculum in under
@@ -37,10 +37,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   In Los Angeles young people navigate difficult decisions around their mental
   health, sexual health, and substance use. Many young people first begin to use
   substances to deal with depression or anxiety. Young people in high poverty
@@ -53,7 +53,7 @@ What is the need you’re responding to?: >-
   in their communities. PHE helps fill this critical gap in the provision of
   effective heath education and connects students to the preventative care they
   need across Los Angeles. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   There are a handful of organizations in LA that serve to educate young people
   with health education. However, what makes our program unique is our use of
   neer-peer health educators, our focus on mental health, and overall our
@@ -66,7 +66,7 @@ Why is this project important to the work of your organization?: >-
   program that the high school students are often more comfortable asking
   sensitive and challenging health questions of college volunteers than a
   traditional teacher.  
-Please explain how you will define and measure success for your project.: >+
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >+
   Student reach results are an important measure of success for us, but most
   important is the quality of our program, as measured through student impact
   tools.  Peer Health Exchange regularly measures our impact on students’
@@ -98,9 +98,9 @@ Please explain how you will define and measure success for your project.: >+
   We expect to see similar results at the end of the school year. 
 
 
-Approximately how many people will be directly impacted by this proposal?: '3350'
-Approximately how many people will be indirectly impacted by this proposal?: '315'
-Please describe the broader impact of your proposal.: >+
+Approximately how many people will be directly impacted by this project, program, or initiative?: '3350'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '315'
+Describe how Los Angeles County will be different if your work is successful.: >+
   At the end of the program, we hope to have much impact in the community
   including: 
 
@@ -117,7 +117,7 @@ Please describe the broader impact of your proposal.: >+
   -  fostering a strong sense of community on college campuses, and building
   volunteerism in their community
 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   As an organization committed to advancing health equity, PHE works with
   under-resourced high schools where the majority of students are living in
   poverty. Our main partners are the 18 high schools we teach at from PUC, Green
@@ -136,13 +136,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - 'Office space for meetings, events, or for staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Resilient communities
   - Mental illness
   - Access to mental health services
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: peer-health-exchange
 order: 36

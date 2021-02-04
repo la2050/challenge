@@ -17,7 +17,7 @@ organization_website: 'https://www.onsameside.com'
 organization_twitter: '@onsameside'
 organization_facebook: 'https://www.facebook.com/onSameSide/'
 organization_instagram: '@onsameside'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   SameSide's mission is to provide technology to empower grassroots political
   engagement at the millions of events and gatherings that happen every day live
   or virtually. Through SameSide everyone has the power to impact the issues
@@ -33,10 +33,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   In a time when people power is more critical than ever to solve tremendous
   social issues, we must meet people where they're at to empower them to join
   the fight and be part of solutions. SameSide is a peer-to-peer events platform
@@ -55,7 +55,7 @@ What is the need you’re responding to?: >-
 
   In turn, events on SameSide help causes reach new people in new communities
   digitally and through their phones at events led by people they trust.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   While SameSide is used across America, we want Los Angeles to be the
   standard-bearer for what a city looks like to be civically engaged in 2020. We
   are a team of native Angelenos who know the solutions to many of our city's
@@ -71,7 +71,7 @@ Why is this project important to the work of your organization?: >-
   a powerful combination of talent - and will enhance it with this grant - to
   empower the next generation of civic engagement like it has never been seen
   before. 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Our goal is to empower 1000 unique hosts in Los Angeles from July to November
   2020 to host events for political engagement and Get Out The Vote (GOTV). We
   aim to empower non-traditional political engagement event hosts and venues -
@@ -96,9 +96,9 @@ Please explain how you will define and measure success for your project.: >-
 
   Following November 2020, we have set a goal of another 1,000 events in Los
   Angeles from November 2020 - July 2021 focused on issue engagement. 
-Approximately how many people will be directly impacted by this proposal?: '2009'
-Approximately how many people will be indirectly impacted by this proposal?: '100000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '2009'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '100000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   By directly focusing our efforts on building an ecosystem in Los Angeles for
   civic engagement capabilities that touch the everyday lives of Angelenos,
   SameSide will empower community members to bring people together and align
@@ -117,19 +117,19 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Office space for meetings, events, or for staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Income inequality
   - Minority- and women-owned businesses
   - High-growth startups
   - Social and emotional support
   - Volunteerism
   - Voting rates
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to PLAY
   - LA is the best place to CONNECT
   - LA is the healthiest place to LIVE
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: connect
 filename: sameside-inc
 order: 49

@@ -18,7 +18,7 @@ organization_website: 'https://www.vic-la.org'
 organization_twitter: '@@sfvalleycouncil'
 organization_facebook: '@yourbridgetohelp'
 organization_instagram: '@Valleyintercommunitycouncil'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Valley InterCommunity Council’s (ViC) mission is to create positive change in
   Greater San Fernando Valley (SFV) communities as we serve, support, and engage
   primarily those age 60+ through unity and faith in action. ViC enriches lives
@@ -35,10 +35,10 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to LIVE
 In which areas of Los Angeles will you be directly working?:
   - San Fernando Valley
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   ‘The Golden State is getting grayer and we need to be ready for the major
   population changes headed our way’ (Gov. Newsom press release, 6/10/19).
   ‘Fast-forward to 2030. Imagine a LA County with almost 3 M residents over age
@@ -53,7 +53,7 @@ What is the need you’re responding to?: >-
   is now. COVID-19 necessitated we immediately shift from senior center-based
   meal offerings, to 100% food delivery, to not jeopardize vulnerable seniors’
   lives.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Celebrating 56+ years of providing services to seniors age 60+, VIC oversees
   the operation and management of 4 multipurpose community centers for older
   adults in Sherman Oaks, Van Nuys, Pacoima and Northridge. Centers, partially
@@ -68,7 +68,7 @@ Why is this project important to the work of your organization?: >-
   wellness/prevention activities; social engagement; recreational events. Our
   track record of impact has earned us the Daily News “Readers’ BEST Nonprofit
   Choice” for the past 4 years.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   ViC’s hot meal offering opens the door to accessing services. Breaking bread
   at a table with neighbors becomes a window through which to learn about
   diverse cultures and dissolve prejudices.
@@ -108,9 +108,9 @@ Please explain how you will define and measure success for your project.: >
   Through our programs, seniors will lead the way in promoting tolerance,
   dissolving prejudices, in a model community representing LA’s diverse
   cultures.
-Approximately how many people will be directly impacted by this proposal?: '1000'
-Approximately how many people will be indirectly impacted by this proposal?: '2000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '2000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   As our world changes and society ages, ViC is called to new, creative ways to
   express our values in the world, respond to these challenging times and make
   our services even more relevant. Our values are inclusiveness, justice and
@@ -121,7 +121,7 @@ Please describe the broader impact of your proposal.: >-
   to provide programs to a changing generation of seniors; continue building
   bridges within our community to foster peace, harmony and unity, as seniors
   break bread together, nourish their bodies & spirits, and break down walls. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   VIC has 265 volunteers & a vast network of collaborative partners: 1) food
   providers/caterers supply nutritious meals daily; 2) numerous nonprofit human
   service organizations & govt agencies comprise our Continuum of Care who refer
@@ -141,16 +141,16 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Access to healthy food
   - Food insecurity
   - Older adult well-being
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CREATE
   - LA is the best place to PLAY
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: valley-intercommunity-council
 order: 62

@@ -17,7 +17,7 @@ organization_website: 'https://inspiringservice.org/'
 organization_twitter: ''
 organization_facebook: ''
 organization_instagram: ''
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   We provide innovative solutions for challenging times. The tools we’ve been
   creating for over three years to rebuild volunteerism in the community we call
   home are now available to rebuild volunteerism in every community impacted by
@@ -36,10 +36,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   The Greater Los Angeles region is ranked 46th out of 50 states in the number
   of adults volunteering at 24 percent. Our mission is to provide communities
   with the modern technology tools they need to rebuild volunteer ecosystems,
@@ -54,7 +54,7 @@ What is the need you’re responding to?: >-
   season with the cancelation of numerous events, reductions in service-delivery
   revenue and the final big impact is the removal of most volunteers from their
   business model.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   CARES helps us rebuild a volunteer ecosystem, devastated by COVID-19's
   impacts. First, each nonprofit can share data about how they have been
   impacted by COVID-19. The data can be put into context with a story. Both the
@@ -69,7 +69,7 @@ Why is this project important to the work of your organization?: >-
   volunteer ecosystem. Our success in Cincinnati has led to other communities
   deploying our platforms. We're pleased to get to work in America's second
   largest city.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Beginning April 3, success looks like helping Los Angelenos find their way to
   help. Less than 1 in 4 Greater Los Angeles residents volunteers. Our 2050 goal
   would be to lift Los Angeles to one of the nation's best, increasing the
@@ -79,9 +79,9 @@ Please explain how you will define and measure success for your project.: >-
   impact from COVID-19 as well as the aggregate of the community's response. We
   start with 150 organizations on the platform, and the goal would be to engage
   all 12,000 volunteer-engaging organizations in the region.
-Approximately how many people will be directly impacted by this proposal?: '4000000'
-Approximately how many people will be indirectly impacted by this proposal?: '13000000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '4000000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '13000000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Building -- or rebuilding, due to the COVID-19 crisis -- the volunteer
   ecosystem in Los Angeles is a capacity building effort that impacts the entire
   region's social sector. The social sector in Los Angeles includes more than
@@ -92,7 +92,7 @@ Please describe the broader impact of your proposal.: >-
   from homelessness to equitable education. The implementation of CARES will
   immediately give policymakers insight into COVID-19's impact on the social
   sector, helping to determine the future of critically scarce resources.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   We will closely with MFLA on communication with nonprofit partners and the
   region in order to make the platform a success.
 Which of LA2050’s resources will be of the most value to you?:
@@ -102,16 +102,16 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Government responsiveness to residents’ needs
   - Volunteerism
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CREATE
   - LA is the best place to PLAY
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: connect
 filename: inspiring-service
 order: 28

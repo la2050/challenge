@@ -18,7 +18,7 @@ organization_website: 'https://www.lamitopsail.org'
 organization_twitter: '@lami_topsail'
 organization_facebook: 'https://www.facebook.com/lami.topsail'
 organization_instagram: '@tallshipschool'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The Los Angeles Maritime Institute (LAMI) serves to empower youth to discover
   their greater potential through extraordinary at-sea experiences aboard
   educational sailing vessels built to train and equip young people with
@@ -37,8 +37,8 @@ In which areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - South LA
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   Barriers exist that impede the equable enjoyment of our coasts and ocean. For
   underrepresented and underserved youth, these barriers can be socially,
   economically, psychologically, and geographically based. A young person’s
@@ -53,7 +53,7 @@ What is the need you’re responding to?: >-
   “bridging” their child’s extracurricular activities. Therefore, parents are
   more apprehensive about trying a new activity or one that includes an
   unfamiliar environment.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   For 28 years, LAMI has been providing safe at-sea experiential education
   programs to underserved young people. The 'hands-on' active learning,
   self-discovery, and connection to nature that occur through the challenge of
@@ -64,7 +64,7 @@ Why is this project important to the work of your organization?: >-
   people access to the empowering and life-changing benefits, the increased
   situational and self-awareness, and the importance of environmental
   stewardship that comes from at and in the sea experiences. 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   LAMI’s Ocean Adventure Together Program will allow people who do not have
   equal access to the ocean and coast– due to social, economic, and geographical
   barriers– an opportunity for the joy and personal growth that results from
@@ -75,9 +75,9 @@ Please explain how you will define and measure success for your project.: >-
   ocean environments. Changes of participant, parent, and community perceptions
   and knowledge will be measured through before and after program participation
   surveys. 
-Approximately how many people will be directly impacted by this proposal?: '120'
-Approximately how many people will be indirectly impacted by this proposal?: '1000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '120'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '1000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   LAMI believes an individual’s and, arguably, a society’s authentic and
   successful stewardship of the natural environment is rooted in the progression
   from enjoyment, then connection, followed by awareness and concern, resulting
@@ -94,18 +94,18 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Youth sports participation
   - Access to open space and park facilities
   - Parks with intergenerational play opportunities
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the healthiest place to LIVE
 Has your proposal changed due to COVID-19?: >
   The Los Angeles Maritime Institute (LAMI) has always made the safety of program participants, volunteers, and staff our top priority, with an elevated commitment during the COVID-19 outbreak. LAMI follows all local, state, and federal guidelines and mandates to determine when and how LAMI offers its programs. LAMI adopted even more rigorous safety policies and procedures to ensure all of our ships and learning environments are safe places to enjoy.
 
   LAMI’s Ocean Adventure Together Program launches in July 2020, at which time we are hopeful some level of gathering will be allowed. If gathering is permitted, LAMI will follow capacity guidelines and, if necessary, reduce the number of participants per activity and increase the number and frequency of events and voyages offered. The Program is well-positioned if restrictions allow outdoor gathering, with LAMI able to deliver the intended positive outcomes with only modest adjustments, such as replacing the overnighting voyage with a series of top-deck day sails. Since the onset of the ‘stay-at-home’ orders, LAMI has become extremely proficient at providing virtual program experiences and instruction, offering free Virtual Voyage online multimedia content and live lessons. If ‘stay-at-home’ orders persist into the start of the Program, we are committed to using this expertise to create enjoyable, immersive, and educational virtual adaptations of engagement plans, and suspending in-person activities until it is safe to do so.
-year: 2020
+year: 2021
 category: play
 filename: los-angeles-maritime-institute
 order: 14

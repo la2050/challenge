@@ -17,7 +17,7 @@ organization_website: 'http://laecovillage.org/crsp/'
 organization_twitter: '@laecovillage'
 organization_facebook: 'https://www.facebook.com/laecovillage/'
 organization_instagram: '@laecovillage'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Vision: Reinventing the way we live in the city by inspiring higher quality
   living patterns at lower environmental impacts.
 
@@ -36,10 +36,10 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to LIVE
 In which areas of Los Angeles will you be directly working?:
   - Central LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   The potential disasters facing LA communities are increasing. Now is the time
   to build community capacity and resilience – especially in the most vulnerable
   areas. The LAEV Community Hub will be located in a mostly immigrant
@@ -54,7 +54,7 @@ What is the need you’re responding to?: >-
   foundations of community connection, we will draw local and county residents
   to the Community Hub, creating a deep and sustained movement toward greater
   community resilience.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Building on almost 3 decade’s experience, demonstrating higher quality, lower
   impact urban living patterns, LAEV plans to increase the availability of its
   resources for local community benefit. The Cooperative Resources and Services
@@ -70,10 +70,10 @@ Why is this project important to the work of your organization?: >-
   As a community we practice disaster preparedness and plan to share these
   skills at the Hub. We anticipate partnering with our Rampart Village
   Neighborhood Council in this effort.
-Please explain how you will define and measure success for your project.: "In the short term we aim to maximize opportunities for community contact and knowledge sharing in our local area. We will track our progress with the following metrics (annual targets in brackets):  \n*\tSchool student attendance of developmentally appropriate educational tours – K-12 and urban farming classes (2000)\n*\tNumber of free public talks by experts on resilience provided - with accommodation of languages other than English (25)\n*\tAttendance of free public talks on resilience (1000)\n*\tWebsite and social media posts, referencing resilience, access to fresh food, and water conservation\n*\tOnline resilience dashboard hits\n\nAdditional metrics are:\n*\tUrban farm food production\n*\tOrganic waste from food consumed and produced on-site\n*\tOn-site compost production\n*\tFood coop produce at the Hub\n*\tWater use reduction from conservation and advanced urban farming methods\n\nA survey of the community will be conducted with questions on whether residents feel more prepared to handle a large-scale disaster as a result of what they have learned at the Hub.\nWe want to see concrete steps taken by local residents to increase resilience for the long term. This could include organizing and developing disaster preparedness plans, creating new community farms, accessing and expanding the food coop, or investing in community solar and greywater systems. Above all we want to increase social cohesion and we want the Hub to be widely seen as the essential focal point for community resilience, over the long term."
-Approximately how many people will be directly impacted by this proposal?: '3000'
-Approximately how many people will be indirectly impacted by this proposal?: '15000'
-Please describe the broader impact of your proposal.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "In the short term we aim to maximize opportunities for community contact and knowledge sharing in our local area. We will track our progress with the following metrics (annual targets in brackets):  \n*\tSchool student attendance of developmentally appropriate educational tours – K-12 and urban farming classes (2000)\n*\tNumber of free public talks by experts on resilience provided - with accommodation of languages other than English (25)\n*\tAttendance of free public talks on resilience (1000)\n*\tWebsite and social media posts, referencing resilience, access to fresh food, and water conservation\n*\tOnline resilience dashboard hits\n\nAdditional metrics are:\n*\tUrban farm food production\n*\tOrganic waste from food consumed and produced on-site\n*\tOn-site compost production\n*\tFood coop produce at the Hub\n*\tWater use reduction from conservation and advanced urban farming methods\n\nA survey of the community will be conducted with questions on whether residents feel more prepared to handle a large-scale disaster as a result of what they have learned at the Hub.\nWe want to see concrete steps taken by local residents to increase resilience for the long term. This could include organizing and developing disaster preparedness plans, creating new community farms, accessing and expanding the food coop, or investing in community solar and greywater systems. Above all we want to increase social cohesion and we want the Hub to be widely seen as the essential focal point for community resilience, over the long term."
+Approximately how many people will be directly impacted by this project, program, or initiative?: '3000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '15000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   We want schools to create/expand their own urban farm programs and we want
   residents to start growing their own food. Our water conservation workshops
   will result in reduced water use. These effects, and many others, will
@@ -86,7 +86,7 @@ Please describe the broader impact of your proposal.: >-
   dashboard will facilitate remote engagement. LAEV has an established online
   presence and we are part of the Global Eco-Village Network – our impact is
   international.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': "LAEV has many on-going community partnerships. This project will build on existing relationships with the following:\n*\tUrban Soil/Tierra Urbana: The cooperative of LAEV residents will collaborate through educational tours, public talks, gardening workshops, and farm volunteering. \n*\tBeverly-Vermont Community Land Trust: The land trust will ensure the demonstration farm is a compliment to the Bimini Place Learning Garden, which it oversees.\n*\tBresee Foundation: Our partners at this vital local youth center will develop opportunities for children and young people to engage with the Hub, including liaising with local schools, such as Virgil Middle School and Central City Value.\n"
+'Describe the role of collaborating organizations on this project.': "LAEV has many on-going community partnerships. This project will build on existing relationships with the following:\n*\tUrban Soil/Tierra Urbana: The cooperative of LAEV residents will collaborate through educational tours, public talks, gardening workshops, and farm volunteering. \n*\tBeverly-Vermont Community Land Trust: The land trust will ensure the demonstration farm is a compliment to the Bimini Place Learning Garden, which it oversees.\n*\tBresee Foundation: Our partners at this vital local youth center will develop opportunities for children and young people to engage with the Hub, including liaising with local schools, such as Virgil Middle School and Central City Value.\n"
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
@@ -96,16 +96,16 @@ Please list the organizations collaborating on this proposal.:
   - Urban Soil / Tierra Urbana (USTU)
   - Beverly-Vermont Community Land Trust (BVCLT)
   - Bresee Foundation
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Access to healthy food
   - Local water
   - Resilient communities
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CREATE
   - LA is the best place to PLAY
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: cooperative-resources-and-services-project-crsp
 order: 8

@@ -17,7 +17,7 @@ organization_website: 'https://www.motherjones.com'
 organization_twitter: '@motherjones'
 organization_facebook: 'https://www.facebook.com/motherjones/'
 organization_instagram: '@motherjonesmag'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Mother Jones’ mission is to deliver hard-hitting reporting that inspires
   change and combats “alternative facts.” Smart, Fearless Journalism.
 project_description: >-
@@ -30,12 +30,12 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Applying a proven model or solution to a new issue or sector (e.g, using a job
   recruiting software or strategy to match clients to supportive housing sites,
   applying demonstrated strategies from advocating for college affordability to
   advocating for housing affordability and homelessness, etc.)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   Across the country and in Los Angeles, dailies and magazines are disappearing,
   victims of venture capital takeovers, consolidation, and unsustainable
   business models. Nearly 8,000 Journalism jobs were lost in 2019 (and Covd-19
@@ -54,7 +54,7 @@ What is the need you’re responding to?: >
   explore and provide visibility to many important issues within Los Angeles,
   addressed within the "LIVE" goal and metrics of Affordable Housing,
   Homelessness, and Access to Healthy Food.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   From our inception Mother Jones has prioritized exposing abuses of power; we
   look at social systems excessively weighted in favor of the individual gain of
   the few. 
@@ -74,7 +74,7 @@ Why is this project important to the work of your organization?: >-
   We are the oldest investigative journalism organization in the country and we
   are excited to leverage our experience and extensive editorial and media
   resources to make a significant impact for those who live here.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Success will be defined by having impact on the public understanding and
   conversation  surrounding the big issues. We can roughly measure success by an
   increase in the Mother Jones' readership in Los Angeles as well as tracking
@@ -97,9 +97,9 @@ Please explain how you will define and measure success for your project.: >
   new reality of Covid-19-- and find solutions to Homelessness, Food Quality,
   Transit, Gun Violence, Immigration, etc. Los Angeles can be a bellwether
   around the many issues/challenges that are facing us and the nation.
-Approximately how many people will be directly impacted by this proposal?: '3000000'
-Approximately how many people will be indirectly impacted by this proposal?: ''
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '3000000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: ''
+Describe how Los Angeles County will be different if your work is successful.: >-
   Mother Jones' reporting often has impact on policy decisions, either directly
   through policy-makers or through an energized and activated
   readership.Historically, Mother Jones' has successfully engaged and mobilized
@@ -117,14 +117,14 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - 'Office space for meetings, events, or for staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Access to healthy food
   - Housing affordability
   - Homelessness
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to PLAY
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: mother-jones
 order: 30

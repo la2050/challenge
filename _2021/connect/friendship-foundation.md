@@ -17,7 +17,7 @@ organization_website: 'https://www.friendshipfoundation.com'
 organization_twitter: '@ffsouthbay'
 organization_facebook: 'https://www.facebook.com/FFsouthbay/'
 organization_instagram: '@thefriendshipfoundation'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Friendship Foundation's mission is to transform the lives of people with
   special needs, their families, volunteers, and eventually society. We support
   families who have children with special needs with the belief that every
@@ -34,11 +34,11 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: "Through the 10 U.S. studies that have been conducted on the connection between special education children and bullying, all studies found: \n-\tChildren with special needs are 2-3 times more likely to experience bullying compared to their non-disabled peers. \n-\t60% of children with special needs report being bullied compared to 25% of all students. \n\nThere are 175,000 students currently enrolled in special education in Los Angeles. These students repeatedly fall through the cracks and are in tremendous need of quality resources and support. Without programs like Friendship Clubs, children with special needs do not have the opportunity to experience friendships, socialization or participation in routines and activities. Their resources become limited to doctors and therapists. This program has an impact on the entire student body as awareness of the special needs population increases. The ripple effect has the potential to change the environment and reduce bullying on campus. "
-Why is this project important to the work of your organization?: >-
+What is the problem that you are seeking to address?: "Through the 10 U.S. studies that have been conducted on the connection between special education children and bullying, all studies found: \n-\tChildren with special needs are 2-3 times more likely to experience bullying compared to their non-disabled peers. \n-\t60% of children with special needs report being bullied compared to 25% of all students. \n\nThere are 175,000 students currently enrolled in special education in Los Angeles. These students repeatedly fall through the cracks and are in tremendous need of quality resources and support. Without programs like Friendship Clubs, children with special needs do not have the opportunity to experience friendships, socialization or participation in routines and activities. Their resources become limited to doctors and therapists. This program has an impact on the entire student body as awareness of the special needs population increases. The ripple effect has the potential to change the environment and reduce bullying on campus. "
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Friendship Foundation is the only organization that provides both school and
   community programs on a consistent basis. We do this by inviting students with
   and without disabilities to participate in programs. We are the only
@@ -51,10 +51,10 @@ Why is this project important to the work of your organization?: >-
   are the only organization that provides camp experiences to children starting
   at 5 to young adults up to age 35. Fourteen years of serving students has
   allowed us to define and refine our programs to serve all children. 
-Please explain how you will define and measure success for your project.: "FF focuses simultaneously on impacting two populations in the South Bay and surrounding communities: children with special needs and students with a willingness and desire to volunteer. FF makes it possible for children with special needs in the South Bay, a highly-underserved population, to experience social-recreational activities in a safe and bully-free environment. \n\nFF defines a successful Friendship Club program by:\n*\tSeeing students with disabilities and general education students socializing and building friendships on their own.\n*\tProviding ongoing one-to-one mentoring experience for our youth with special needs and student volunteers.\n*\tIncreasing in enrollment, school clubs, and student involvement.\n*\tChildren with special needs and student volunteers feel that the experience helped them improve their lives, established new friendships and most of all felt valued and empowered.\n*\tStudents with special needs interacting during club activities and around campus outside of the Friendship Club.\n"
-Approximately how many people will be directly impacted by this proposal?: '1850'
-Approximately how many people will be indirectly impacted by this proposal?: '800000'
-Please describe the broader impact of your proposal.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "FF focuses simultaneously on impacting two populations in the South Bay and surrounding communities: children with special needs and students with a willingness and desire to volunteer. FF makes it possible for children with special needs in the South Bay, a highly-underserved population, to experience social-recreational activities in a safe and bully-free environment. \n\nFF defines a successful Friendship Club program by:\n*\tSeeing students with disabilities and general education students socializing and building friendships on their own.\n*\tProviding ongoing one-to-one mentoring experience for our youth with special needs and student volunteers.\n*\tIncreasing in enrollment, school clubs, and student involvement.\n*\tChildren with special needs and student volunteers feel that the experience helped them improve their lives, established new friendships and most of all felt valued and empowered.\n*\tStudents with special needs interacting during club activities and around campus outside of the Friendship Club.\n"
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1850'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '800000'
+Describe how Los Angeles County will be different if your work is successful.: >
   Friendship Clubs strive to model for our surrounding communities a lifestyle
   of acceptance and unity, fueled by the energetic and dedicated philanthropic
   students. Each club brings general education students together with special
@@ -70,11 +70,11 @@ Please describe the broader impact of your proposal.: >
 Which of LA2050’s resources will be of the most value to you?:
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Disability access and inclusion
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to PLAY
-year: 2020
+year: 2021
 category: connect
 filename: friendship-foundation
 order: 21

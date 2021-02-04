@@ -17,7 +17,7 @@ organization_website: 'https://www.lovefoundation.net'
 organization_twitter: '@lovefoun'
 organization_facebook: lovefoundationlosangeles
 organization_instagram: '@lovefoun'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
 
 
   Mission:
@@ -50,10 +50,10 @@ In which areas of Los Angeles will you be directly working?:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
   - Hollywood
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >+
+What is the problem that you are seeking to address?: >+
   The youth homelessness is a tragic and growing problem. Current counts from
   the L.A. Homeless Services Authority (LAHSA) state that of the 50,000 - 60,000
   homeless people in L.A. in 2019, “youth, from minors through age 24, make up
@@ -75,7 +75,7 @@ What is the need you’re responding to?: >+
   Our youth desire kindness, resources, unconditional love and training,
   teaching self-love and respect. 
 
-Why is this project important to the work of your organization?: >+
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >+
   At age 35, Greg Johnson made the decision to clean up his life in 2005 after
   his father died of a drug overdose and just two months later his uncle took
   his life during a drunken binge. Knowing he was next if he continued with his
@@ -97,7 +97,7 @@ Why is this project important to the work of your organization?: >+
 
 
 
-Please explain how you will define and measure success for your project.: >+
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >+
   Funding will be used to help support our Sanctuary of Love Resource & Referral
   Center (SOL) operations and our outreach, resource and referral events, and
   transformational self-empowerment workshops. And finally, it will help us
@@ -135,9 +135,9 @@ Please explain how you will define and measure success for your project.: >+
   We also raise awareness and build community collaborative support about the
   epidemic problem of youth homelessness. 
 
-Approximately how many people will be directly impacted by this proposal?: '2000'
-Approximately how many people will be indirectly impacted by this proposal?: '10000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '2000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '10000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Real, lasting transformation starts from within and must begin at the core of
   the problem. We help homeless and otherwise vulnerable, lost young people who
   are READY to take charge and transform their lives to heal the deep inner
@@ -156,14 +156,14 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Opportunity youth (“Disengaged youth” 16-24 not working or in school)
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
   - LA is the best place to PLAY
   - LA is the best place to CONNECT
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: learn
 filename: l-o-v-e-living-our-vision-everyday-foundation
 order: 42

@@ -17,7 +17,7 @@ organization_website: 'https://www.youthbizalliance.org'
 organization_twitter: '@therealyba'
 organization_facebook: '@youthbusinessalliance'
 organization_instagram: '@youthbusinessalliance'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Youth Business Alliance (YBA) empowers high school students attending Title 1
   schools to build essential business skills for 21st century careers.
 project_description: "The\_Youth Business Alliance\_is innovating how high school students prepare for college and their careers by providing a comprehensive curriculum addressing soft skills, career development, personal finance and entrepreneurship coupled with weekly guest presentations from industry professionals and hands-on field trips to corporate offices. YBA is seeking support to expand our program offerings digitally, so students can engage in self-paced learning and engage with our content and community in a flexible manner."
@@ -26,10 +26,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   There is an opportunity gap for low-income students of color to receive a high
   quality education that allows them to pursue a path to high-wage, high-demand
   careers. YBA narrows the opportunity gap by bringing industry into the
@@ -45,7 +45,7 @@ What is the need you’re responding to?: >
   year as well. In response to the gap in self-paced career education learning
   tools for youth revealed by the COVID-19 school closures, digital program
   design and delivery will be prioritized for this project.
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   YBA is committed to promoting career readiness for youth in low-income
   communities. Under normal circumstances, YBA reaches students in their high
   school classrooms, in partnership with their teacher. To promote year-round
@@ -58,7 +58,7 @@ Why is this project important to the work of your organization?: >
   entrepreneurship program component that can be delivered beyond the
   traditional school year will be a valuable opportunity to reach many more
   youth with information necessary for success in evolving environments.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   YBA youth who participate in the entrepreneurship program will gain confidence
   in exploring career options with high growth potential. Entrepreneurial
   knowledge and approaches prepare all young people to become analytical and
@@ -95,9 +95,9 @@ Please explain how you will define and measure success for your project.: >
   professional environments, instills healthy financial habits and sparks the
   entrepreneurial mindset. A successful project will demonstrate measurable
   gains in these areas for youth participants. 
-Approximately how many people will be directly impacted by this proposal?: '600'
-Approximately how many people will be indirectly impacted by this proposal?: '1000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '600'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '1000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Free programs such as the one we are proposing are not widely available,
   especially for students in low-income communities. To promote even greater
   inclusivity and remove barriers to enrollment, YBA will offer the summer
@@ -107,7 +107,7 @@ Please describe the broader impact of your proposal.: >-
   their teens to earn an income during summer break, we are providing a viable
   alternative that allows their students to continue learning, growing and
   building their career ready skills while receiving a stipend.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+'Describe the role of collaborating organizations on this project.': >
   YBA will develop entrepreneurship programming to benefit students enrolled at
   YBA partner schools: LA Unified School District, Alliance for College Ready
   Schools, Green Dot Schools and community organizations. For programming
@@ -127,14 +127,14 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Jobs per capita
   - Minority- and women-owned businesses
   - Access to banks and financial institutions
   - College matriculation
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
-year: 2020
+year: 2021
 category: create
 filename: youth-business-alliance
 order: 45

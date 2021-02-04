@@ -17,7 +17,7 @@ organization_website: 'https://www.novusthinktank.org'
 organization_twitter: '@novusthinktank'
 organization_facebook: Novus Think Tank
 organization_instagram: '@novusthinktank'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Novus Think Tank is an interdisciplinary, student-led non-profit devoted to
   nurturing self-agency in future leaders by providing them a space to foster
   their passions and goals. We seek to marry ideation to action, through
@@ -33,8 +33,8 @@ Which LA2050 goal will your submission most impact?: LA is the best place to LIV
 In which areas of Los Angeles will you be directly working?:
   - Central LA
   - South LA
-In what stage of innovation is this project?: Research (initial work to identify and understand the problem)
-What is the need you’re responding to?: >
+In what stage of innovation is this project, program, or initiative?: Research (initial work to identify and understand the problem)
+What is the problem that you are seeking to address?: >
   We are social creatures and what makes us human are our communities.
   Throughout human history our homes, cultures, and cities have reflected this.
   However, with the increasing prioritization of efficiency and profit, we have
@@ -45,7 +45,7 @@ What is the need you’re responding to?: >
   address this increasing disconnection from place and food around us, we have
   created BYOM: a garden, a coffee shop, a zero waste grocery store, and most
   importantly, a community.
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   Novus Think Tank is an organization that relies on self-agency and intrinsic
   motivation to tackle a wide variety of issues. We use a committee model to
   tackle seven different social causes: sustainability, narrative insights,
@@ -60,7 +60,7 @@ Why is this project important to the work of your organization?: >
   not only what the community may need, but how to best implement an idea in
   ways that the community will respond well to, and how to tackle the root
   issues.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   We will measure impact in terms of families served. We know that in our first
   year, reaching people will be difficult due to the fact that the garden needs
   to be planted and established before we can begin to provide discounted
@@ -76,9 +76,9 @@ Please explain how you will define and measure success for your project.: >
   the garden, where produce will be sold at slightly above cost. In years
   beyond, we hope to increase the number of families reached by 20 percent each
   year, with a proportionate amount being through the rent subsidy program.
-Approximately how many people will be directly impacted by this proposal?: '500'
-Approximately how many people will be indirectly impacted by this proposal?: '1000'
-Please describe the broader impact of your proposal.: >+
+Approximately how many people will be directly impacted by this project, program, or initiative?: '500'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '1000'
+Describe how Los Angeles County will be different if your work is successful.: >+
   BYOM is intended to tie people to their foods through multiple different
   mediums, both in a physical space and online. BYOM gardens will fill remnant
   land spaces in Los Angeles, not only creating a physical community, but
@@ -96,16 +96,16 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Access to healthy food
   - Food insecurity
   - Housing affordability
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CREATE
   - LA is the best place to PLAY
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: novus-think-tank
 order: 34

@@ -17,7 +17,7 @@ organization_website: 'https://www.onegeneration.org'
 organization_twitter: '@ONEgenCares'
 organization_facebook: 'https://www.facebook.com/ONEgencares/'
 organization_instagram: '@onegenerationcares'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   ONEgeneration’s mission is to enrich the lives of seniors, children, and
   families throughout our diverse community. We strive to accomplish this by
   providing intergenerational programming that develops empathy, embraces social
@@ -34,10 +34,10 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to LIVE
 In which areas of Los Angeles will you be directly working?:
   - San Fernando Valley
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Los Angeles faces a national leading and surging housing crisis, with dire
   consequences for a large segment of residents.  Critical resources are needed
   to address and support those facing housing insecurities, and remains a top
@@ -51,7 +51,7 @@ What is the need you’re responding to?: >-
   efforts in addressing housing insecurity among San Fernando Valley residents
   through the development and implementation of intergenerational shared housing
   opportunities incorporating effective and meaningful approaches. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Committed to promoting healthy aging communities, ONEgeneration is a trusted,
   venerable multi-service provider caring for over 5,000 individuals each year
   in the San Fernando Valley for over 42 years.  We are uniquely focused and are
@@ -66,7 +66,7 @@ Why is this project important to the work of your organization?: >-
   progressive service models that address safety net needs. With the support of
   over 100 community partnerships, we succeed in meeting the high needs of the
   city.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   ONEgeneration Shared Housing project will define success through: 
 
   1. Effective assessment and safe matching of clients for sharing housing. 
@@ -101,9 +101,9 @@ Please explain how you will define and measure success for your project.: >-
   be effective and are already widely adopted across the country and state.
   ONEgeneration hopes to replicate similar effective model to help members of
   Los Angeles city. 
-Approximately how many people will be directly impacted by this proposal?: '250'
-Approximately how many people will be indirectly impacted by this proposal?: '750'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '250'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '750'
+Describe how Los Angeles County will be different if your work is successful.: >-
   In the County of Los Angeles, over 50% of renters are cost-burdened, spending
   ½ of their income on housing alone. The ever stressful rising cost of housing
   and the lack of affordable units continue to exacerbate the number of
@@ -114,7 +114,7 @@ Please describe the broader impact of your proposal.: >-
   young adults. Research strongly validates that shared housing improves living
   circumstances for those living in poverty through decreased rent burden,
   lessened isolation, and heightened sense of safety.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': ' ONEgeneration will partner with LA Family Housing, CSUN, and Pierce College to support and implement this intergenerational Shared Housing project. All partnering organizations will be a referral source for younger adults and older adults in need of affordable housing, including shared housing.  An internal database of currently available shared housing matching requests will be provided to all program partner organizations, with ongoing communication and follow up between ONEgeneration staff and the community partners to ensure the success of matching and sustaining a shared housing pairing for sufficient length of time. '
+'Describe the role of collaborating organizations on this project.': ' ONEgeneration will partner with LA Family Housing, CSUN, and Pierce College to support and implement this intergenerational Shared Housing project. All partnering organizations will be a referral source for younger adults and older adults in need of affordable housing, including shared housing.  An internal database of currently available shared housing matching requests will be provided to all program partner organizations, with ongoing communication and follow up between ONEgeneration staff and the community partners to ensure the success of matching and sustaining a shared housing pairing for sufficient length of time. '
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
@@ -123,13 +123,13 @@ Please list the organizations collaborating on this proposal.:
   - LA Family Housing
   - California State University Northridge
   - Pierce College
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Housing affordability
   - Resilient communities
   - Older adult well-being
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: onegeneration
 order: 35

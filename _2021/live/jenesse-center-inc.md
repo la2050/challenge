@@ -17,7 +17,7 @@ organization_website: 'https://jenesse.org/'
 organization_twitter: '@JenesseCenter'
 organization_facebook: JenesseCenter
 organization_instagram: '@jenessecenter'
-Please describe the mission of your organization.: >
+Describe the mission of your organization.: >
   Jenesse Center’s mission is to restore families impacted by domestic and
   sexual violence through holistic, trauma informed, culturally responsive
   services, and advance prevention initiatives that foster and sustain healthy,
@@ -33,10 +33,10 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to LIVE
 In which areas of Los Angeles will you be directly working?:
   - South LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Jenesse proposes to address the multi-faceted barriers to safety and
   self-sufficiency that are experienced by low-income victims of domestic
   violence in South Los Angeles.
@@ -52,7 +52,7 @@ What is the need you’re responding to?: >-
   continuum. Jenesse’s experience shows that mental health issues and persistent
   poverty are the two primary issues that undermine victims’ efforts to escape
   and establish healthy environments for themselves and their children.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   In addition to the direct physical impact of violence, more than half of
   Jenesse’s clients experience mental health problems. These issues impact the
   victim’s ability to mobilize resources and protect themselves and their
@@ -70,7 +70,7 @@ Why is this project important to the work of your organization?: >-
   family violence across the generations. Jenesse has an unparalleled ability to
   work with historically marginalized clients with myriad issues stemming from
   inter-generational cycles of poverty and neglect.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   The goals of the proposed activities are to: 1) empower victims; 2) address
   the mental, physical and emotional ramifications of trauma; 3) help victims
   access the education, training, and skills needed to achieve self-sufficiency
@@ -126,9 +126,9 @@ Please explain how you will define and measure success for your project.: >-
 
   Additionally, interviews are conducted with each client upon exit from our
   program to gain input on their experiences while receiving services from us.
-Approximately how many people will be directly impacted by this proposal?: '1900'
-Approximately how many people will be indirectly impacted by this proposal?: '2500'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1900'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '2500'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Jenesse’s life-saving services help 1900 domestic violence (DV) victims to
   overcome barriers, access services, and establish lives that are free from
   physical, mental, emotional, economic subjugation, and violence. In addition
@@ -146,11 +146,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Office space for meetings, events, or for staff'
   - 'Capacity, including staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Housing affordability
   - Access to mental health services
   - Homelessness
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
 Has your proposal changed due to COVID-19?: >
   With the introduction of COVID-19 and since the implementation of the Safer at Home mandate, Jenesse has responded swiftly to continue to provide clients with the same level of exceptional services they have become accustomed to. Within 3 days of the implementation of the mandate, the Behavioral Health Program and Legal Services Program were able to switch to Skype, Zoom, and Telehealth formats so that clients could connect with our advocates, mental health interns, attorneys, and paralegals. It took a tremendous effort for our staff to establish the virtual platforms so quickly and to notifying our clients, but the change was seamless to the survivors we serve.
@@ -160,7 +160,7 @@ Has your proposal changed due to COVID-19?: >
 
 
   In addition, we increased our supportive services for those who reside in our emergency shelter and transitional housing facilities by providing survivors and their families with all of their essentials to maintain self-quarantine status in comfort.
-year: 2020
+year: 2021
 category: live
 filename: jenesse-center-inc
 order: 24

@@ -17,7 +17,7 @@ organization_website: 'https://www.rymanarts.org'
 organization_twitter: '@rymanarts'
 organization_facebook: rymanartsfanpage
 organization_instagram: '@rymanarts'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Ryman Arts transforms lives by creating access and opportunity for a diverse
   community of young artists through rigorous education in fundamental art
   skills and mentoring.
@@ -35,12 +35,12 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Applying a proven model or solution to a new issue or sector (e.g, using a job
   recruiting software or strategy to match clients to supportive housing sites,
   applying demonstrated strategies from advocating for college affordability to
   advocating for housing affordability and homelessness, etc.)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Research shows that students who engage in the arts have higher rates of
   academic achievement, high school graduation, and college matriculation (2017
   Otis Report). There is limited funding for the arts and inadequate access to
@@ -55,7 +55,7 @@ What is the need you’re responding to?: >-
   communities so that students will not miss out on building art skills,
   learning about creative careers, and 15% of creative industry jobs available
   in the County.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Since 1990, Ryman Arts has empowered 34,000 high school students, filling the
   gap of high quality arts education programs in under-resourced communities.
   Ryman Arts serves approximately 600 students through its core program and
@@ -68,7 +68,7 @@ Why is this project important to the work of your organization?: >-
   Ryman Arts has established strong partnerships with creative businesses,
   cultural institutions, and community partners and is in a unique position to
   execute this project.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Ryman Arts will serve 1,500+ students through outreach activities and 600
   students through our core program. Our goal is to create a more equitable
   future for underserved youth by providing access to a high quality arts
@@ -95,9 +95,9 @@ Please explain how you will define and measure success for your project.: >
   themselves. Potential Ryman Arts alumni speakers, include: Devin Crane (Ryman
   ‘96), Production Designer for Space Jam 2, Warner Bros and Adrianna Arambula
   (Ryman ’04), Creative Director at Justice Design Group. 
-Approximately how many people will be directly impacted by this proposal?: '2100'
-Approximately how many people will be indirectly impacted by this proposal?: '10120'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '2100'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '10120'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Ryman Arts’ impact extends far beyond the studios where our students receive
   instruction. Upon graduating from Ryman Arts, students will have honed their
   creative and critical thinking, time management, self-discipline, and other
@@ -112,13 +112,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - College matriculation
   - High school graduation rates
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: learn
 filename: ryman-arts
 order: 62

@@ -19,7 +19,7 @@ organization_website: 'https://www.theunusualsuspects.org'
 organization_twitter: '@USTheatreCo'
 organization_facebook: 'https://www.facebook.com/theunusualsuspectstheatrecompany'
 organization_instagram: '@ustheatreco'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The mission of The Unusual Suspects Theatre Company (US) is to mentor,
   educate, and enrich underserved youth through the creation of collaborative,
   original theatre. Our mission powers our vision of a world in which all youth
@@ -37,10 +37,10 @@ Which LA2050 goal will your submission most impact?: LA is the best place to LEA
 In which areas of Los Angeles will you be directly working?:
   - San Fernando Valley
   - South LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   US strategically offers our VAST (Voices for Arts & Social Theatre) Enrichment
   Program at arts-poor Title 1 schools to provide equitable access to quality
   theatre-arts education & mentorship for marginalized students, particularly
@@ -56,7 +56,7 @@ What is the need you’re responding to?: >-
   opportunities are even sparser for Special Ed and other high-needs students.
   Beyond arts education, VAST provides an inclusive environment and alternate
   learning pathways vital for students who struggle in mainstream classrooms.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   US has disrupted patterns of inequality for 27 years, partnering with 45+ LA
   County schools, community centers, and Probation facilities to fill the gap in
   arts education access for thousands of students. Our inclusive VAST model
@@ -73,7 +73,7 @@ Why is this project important to the work of your organization?: >-
   development services, cross-training hundreds of educators, Probation
   Officers, and professional teaching artists (TAs) on trauma-informed
   curricula, classroom-management strategies, and cultural empathy.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   With My LA2050’s support, VAST will double its impact. We will expand into a
   4th arts-poor school and grow our 13-week model into a year-long, 26-week
   residency in all sites —a 110% increase in workshops & 42% jump in
@@ -106,9 +106,9 @@ Please explain how you will define and measure success for your project.: >-
 
 
   Additional on-campus teacher trainings will extend our impact beyond 2050.
-Approximately how many people will be directly impacted by this proposal?: '660'
-Approximately how many people will be indirectly impacted by this proposal?: '100000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '660'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '100000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   VAST addresses diverse learning styles, creating positive environments where
   students of all abilities can explore, reclaim their education, and succeed.
   VAST students recognize their intrinsic talent & self-worth and report feeling
@@ -121,7 +121,7 @@ Please describe the broader impact of your proposal.: >-
   teach roughly 3,000 students during their careers, while the 250+ faculty &
   staff we might empower via on-site professional development will multiply our
   impact, benefitting entire campus communities and their future students.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   While US does not have collaborative partners who receive funding from US for
   this project, we do work closely with our school site administrators and
   classroom teachers to effectively serve our VAST students. Our partnering
@@ -149,12 +149,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - Student proficiency in English & Language Arts
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: learn
 filename: the-unusual-suspects-theatre-company
 order: 73

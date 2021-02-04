@@ -17,7 +17,7 @@ organization_website: 'https://www.connectingcultures.us'
 organization_twitter: '@ccmmla'
 organization_facebook: 'https://www.facebook.com/ccmmla/'
 organization_instagram: '@ccmmla'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Connecting Cultures Mobile Museum’s mission is to inspire understanding and
   respect for cultural diversity by exploring global arts and artifacts. CCMM’s
   pop-up cultural museum brings “the world” to middle school students and their
@@ -38,10 +38,10 @@ In which areas of Los Angeles will you be directly working?:
   - South LA
   - Westside
   - South Bay
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Boasting one of the most diverse populations in the country, Los Angeles has a
   critical need for cultural awareness and understanding. However, many students
   and their families remain isolated in their own cultural enclaves. These
@@ -58,7 +58,7 @@ What is the need you’re responding to?: >-
   Next, imagine these students guiding their families through the museum at a
   festive Open House, open to the schools’ communities, celebrating their own
   and other cultures.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   CCMM has served LA-area middle schools since 1995, incorporating as a
   501(c)(3) non-profit organization in 2011. CCMM has served 150,000+ students
   in schools in five school districts and 6 out of 8 Los Angeles County’s
@@ -78,7 +78,7 @@ Why is this project important to the work of your organization?: >-
   groups, are eager to involve their communities in events at their schools, and
   CCMM is committed to providing this enhancing experience at as many schools as
   possible.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   CCMM measures its outputs, tracking the number of schools it visits each year
   and the approximate number of students it serves. After their experience with
   CCMM, a portion of students complete questionnaires to assess the extent to
@@ -103,9 +103,9 @@ Please explain how you will define and measure success for your project.: >-
   students and their families, giving students an opportunity to act as docents
   and guides, showing what they learned and found important. CCMM would track
   attendance and conduct periodic interviews to gauge impact. 
-Approximately how many people will be directly impacted by this proposal?: '50000'
-Approximately how many people will be indirectly impacted by this proposal?: '10000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '50000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '10000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   CCMM’s docents ask at every presentation: "How many of your grandparents were
   born in a country outside of the U.S.?" Often most students – and teachers -
   raise their hands. This simple exercise, along with the docent’s presentation,
@@ -124,12 +124,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - 'Arts establishments, instillations, and exhibitions'
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CONNECT
-year: 2020
+year: 2021
 category: create
 filename: connecting-cultures-mobile-museum
 order: 9

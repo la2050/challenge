@@ -19,7 +19,7 @@ organization_website: 'https://newearthlife.org/'
 organization_twitter: '@NewEarthLife'
 organization_facebook: 'https://www.facebook.com/newearthlife'
 organization_instagram: '@newearthlife'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   New Earth provides mentor-based arts, educational, and vocational programs
   that empower juvenile justice and system involved youth ages 13-25 to
   transform their lives, move toward positive, healthier life choices, and
@@ -39,10 +39,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Los Angeles County’s juvenile justice system is the largest in the nation,
   with over 6,000 youth incarcerated or on probation on any given day.
   Justice-involved youth come largely from communities with high concentrations
@@ -57,7 +57,7 @@ What is the need you’re responding to?: >-
   their high school diploma in a safe and caring environment, while also
   receiving case management, mentorship, job training, and mental health
   support. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   New Earth is leading the way for juvenile justice in Los Angeles. For over 16
   years, New Earth has provided creative arts education for youth in juvenile
   detention. In 2015, New Earth opened the first and only youth reentry center
@@ -74,10 +74,10 @@ Why is this project important to the work of your organization?: >-
   hard to escape, but New Earth is committed to reducing youth recidivism rates.
   At least 93% of youth served by New Earth remain free from re-incarceration
   (compared to the county average of just 30%).
-Please explain how you will define and measure success for your project.: "New Earth provides vital access to trauma-informed individualized educational programming for system-impacted (foster care, juvenile justice, and/or homeless) youth. New Earth’s program design allows for independent study and individualized education plans, in conjunction with necessary wrap-around reentry services to set youth on a path to succeed and thrive. \n\nSuccess of New Earth’s program is based upon the following metrics: \n*\tAt least 80 youth will participate in New Earth’s charter high school program during the grant period, accessing educational support + clinical case management and wrap-around reentry services \n*\tAt least 60 young people ages 13-18 will be diverted to New Earth’s after school diversion programs preventing them from EVER entering the juvenile justice system\n*\tAt least 125 incarcerated youth will participate in New Earth’s arts and education programming in juvenile detention\n*\t85%+ of seniors will graduate with their High School Diploma\n*\t95%+ of youth served will report that New Earth’s programs made a positive impact on their lives, evidenced by improved reading and writing skills and enhanced self-confidence and life skills\n*\t99%+ of youth who participate in New Earth’s post-release programs will successfully transition back into the community, as evidenced by obtaining a high school diploma or employment\n*\t93%+ of youth served will remain free from re-incarceration "
-Approximately how many people will be directly impacted by this proposal?: '80'
-Approximately how many people will be indirectly impacted by this proposal?: '300'
-Please describe the broader impact of your proposal.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "New Earth provides vital access to trauma-informed individualized educational programming for system-impacted (foster care, juvenile justice, and/or homeless) youth. New Earth’s program design allows for independent study and individualized education plans, in conjunction with necessary wrap-around reentry services to set youth on a path to succeed and thrive. \n\nSuccess of New Earth’s program is based upon the following metrics: \n*\tAt least 80 youth will participate in New Earth’s charter high school program during the grant period, accessing educational support + clinical case management and wrap-around reentry services \n*\tAt least 60 young people ages 13-18 will be diverted to New Earth’s after school diversion programs preventing them from EVER entering the juvenile justice system\n*\tAt least 125 incarcerated youth will participate in New Earth’s arts and education programming in juvenile detention\n*\t85%+ of seniors will graduate with their High School Diploma\n*\t95%+ of youth served will report that New Earth’s programs made a positive impact on their lives, evidenced by improved reading and writing skills and enhanced self-confidence and life skills\n*\t99%+ of youth who participate in New Earth’s post-release programs will successfully transition back into the community, as evidenced by obtaining a high school diploma or employment\n*\t93%+ of youth served will remain free from re-incarceration "
+Approximately how many people will be directly impacted by this project, program, or initiative?: '80'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '300'
+Describe how Los Angeles County will be different if your work is successful.: >-
   System-impacted youth know how to let their resilience carry them through
   trying times, but still may face more barriers to success than traditional
   students. New Earth’s programs encourage young people to take ownership of
@@ -95,13 +95,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - 'Capacity, including staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - High school graduation rates
   - Opportunity youth (“Disengaged youth” 16-24 not working or in school)
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: learn
 filename: new-earth
 order: 51

@@ -17,7 +17,7 @@ organization_website: 'https://www.nalip.org'
 organization_twitter: '@nalip_org'
 organization_facebook: facebook.com/nalip
 organization_instagram: '@nalip_org'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Addressing the underrepresented Latinx community, our mission is to discover,
   promote and inspire content creators and diverse voices across all media
   platforms. NALIP serves the needs of diverse content creators including,
@@ -45,10 +45,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Within entertainment, the lack of diversity and inclusion both in front and
   behind the camera is critical. Los Angeles is rich with creative professionals
   from all communities, and their skills and potential are groundbreaking. These
@@ -65,7 +65,7 @@ What is the need you’re responding to?: >-
   for creatives, but also to educate and guide through mentorship and workshops.
   NALIP recognizes the need to support these unique and talented voices that
   will impact the community-at-large.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   For over 20 years, NALIP has advocated for and supported talent from
   underrepresented communities. NALIP’s Latino Lens Program was created to
   address the discrepancies amongst Latinx and diverse creatives in the realm of
@@ -82,7 +82,7 @@ Why is this project important to the work of your organization?: >-
   practical tools such as incubation, mentorship, and hands-on experience. With
   support from grants, NALIP can expand its programs and reach creatives looking
   for tools and opportunities to advance their careers.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   NALIP seeks to measure the success of this Latino Lens program by evaluating
   the number of participants supported, growing the reach and engagement of
   creatives across Los Angeles County, increasing the industry mentors, as well
@@ -109,9 +109,9 @@ Please explain how you will define and measure success for your project.: >-
   filmmakers, and this grant would allow the organization to provide more
   scholarships, workshops, and mentorships to those who demonstrate significant
   need. 
-Approximately how many people will be directly impacted by this proposal?: '400'
-Approximately how many people will be indirectly impacted by this proposal?: '5000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '400'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '5000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   NALIP’s Latino Lens will have a broader impact on the industry-at-large by
   providing a platform for emerging to mid-level creatives from underrepresented
   communities to further their professional development. The need for diversity
@@ -130,13 +130,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - 'Arts establishments, instillations, and exhibitions'
   - Employment in the creative industries
   - Minority- and women-owned businesses
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
-year: 2020
+year: 2021
 category: create
 filename: national-association-of-latino-independent-producers-nalip
 order: 26

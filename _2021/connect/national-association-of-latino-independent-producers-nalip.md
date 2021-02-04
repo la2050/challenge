@@ -17,7 +17,7 @@ organization_website: 'https://www.nalip'
 organization_twitter: '@nalip_org'
 organization_facebook: facebook.com/nalip
 organization_instagram: '@nalip_org'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Addressing the underrepresented Latinx community, NALIP’s mission is to
   discover, promote and inspire content creators and diverse voices across all
   media platforms. NALIP serves the needs of  creatives including, producers,
@@ -35,10 +35,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Los Angeles is a key place for the art of filmmaking, being a strong force for
   economic growth within our state but often we find that people of color have
   less opportunities from entering the entertainment industry and navigating
@@ -54,7 +54,7 @@ What is the need you’re responding to?: >-
   NALIP acts as a stepping stone and encourages creatives to express their voice
   and develop as professionals. This call is to push for authentic and accurate
   representation on screen to mirror the diversity we see in our everyday lives.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   NALIP’s long history of programs and campaigns demonstrate our devotion to
   inspire diverse creatives to express themselves and triumph. We are one of the
   leading organizations who are prioritizing a latinx pipeline into the
@@ -70,7 +70,7 @@ Why is this project important to the work of your organization?: >-
   NALIP as an organization is uniquely suited to take this on because this
   initiative has helped build connections, desired skills and knowledge for
   creatives and professionals to enter the entertainment workforce.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   NALIP seeks true, measurable success through all its programs, particularly
   for the Emerging Content Creators Inclusion Initiative, in evaluating the
   number of scholarships disbursed, events held throughout the year, industry
@@ -100,9 +100,9 @@ Please explain how you will define and measure success for your project.: >-
   additional opportunities in the industry and recommendations. In the past 18
   months, NALIP has created a pipeline of talent and placed over 40 creatives
   and executives in positions throughout the entertainment industry. 
-Approximately how many people will be directly impacted by this proposal?: '500'
-Approximately how many people will be indirectly impacted by this proposal?: '1000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '500'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '1000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   NALIP’s Emerging Content Creators Inclusion Initiative will have a broader
   impact on the industry-at-large by providing a platform for emerging creatives
   and professionals from underrepresented communities to further their knowledge
@@ -118,13 +118,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - 'Office space for meetings, events, or for staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Public arts and cultural events
   - LGBTQ+ equity and inclusion
   - Disability access and inclusion
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
-year: 2020
+year: 2021
 category: connect
 filename: national-association-of-latino-independent-producers-nalip
 order: 41

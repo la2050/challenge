@@ -17,7 +17,7 @@ organization_website: 'https://www.operationjumpstart.org'
 organization_twitter: '@opjumpstartlb'
 organization_facebook: 'https://www.facebook.com/opjumpstartlb'
 organization_instagram: '@opjumpstartlb'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The mission of Operation Jump Start (OJS) is to help low-resourced,
   high-potential first-generation students get in, stay in, and graduate from a
   four-year college. We do this by providing academic support, mentoring, and
@@ -31,10 +31,10 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
 In which areas of Los Angeles will you be directly working?:
   - South Bay
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >+
+What is the problem that you are seeking to address?: >+
   OJS is witness to the ongoing unmet need for college access programs and
   services for middle school, high school, and college students in Long Beach.
   Our organization seeks to improve and change the lives of promising youth from
@@ -50,7 +50,7 @@ What is the need you’re responding to?: >+
   proficient or advanced in Math (California Department of Education, 2018).  
 
 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   The College Success program addresses the needs of low income, first
   generation college students. In 2010 the program served less than 20 students,
   in the 2019-2020 academic year we served 146 students. Our expansion goal is
@@ -65,10 +65,10 @@ Why is this project important to the work of your organization?: >-
   their attendance at four-year colleges immediately following high school,
   their college graduation rates and their overall persistence rates in higher
   education.
-Please explain how you will define and measure success for your project.: "By creating a chance at a college education, OJS offers a path out of poverty for first- generation students of Long Beach so that they may not only succeed academically, but also in life.  Our ultimate marker for success is degree attainment.  The comprehensive interventions of OJS have proven successful over time, our students 6-year bachelor’s degree attainment rate is 75%, which is 25% higher than the national average as reported by the Pell Foundation.  \n\nThe specific program goals for the 2020-2021 academic year are as follows:\n\n* 100% of OJS high school students will complete all grade level courses needed for admission into colleges and universities in California (called a-g requirements).\n\n* Students completing the SAT preparatory course will show an average increase of a minimum of 75 points.\n\n* 95% of OJS high school graduates will begin post-secondary education in the fall semester immediately following high school graduation.\n\n* 90% of high school graduates will begin their education at a 4-year college or university. \L\n\n* 85% of the College Success participants will obtain a bachelor’s degree within 6 years of beginning their college education. \L\n\n* 90% of College Success participants will successfully complete their first year and return to college for a second year."
-Approximately how many people will be directly impacted by this proposal?: '220'
-Approximately how many people will be indirectly impacted by this proposal?: '650'
-Please describe the broader impact of your proposal.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "By creating a chance at a college education, OJS offers a path out of poverty for first- generation students of Long Beach so that they may not only succeed academically, but also in life.  Our ultimate marker for success is degree attainment.  The comprehensive interventions of OJS have proven successful over time, our students 6-year bachelor’s degree attainment rate is 75%, which is 25% higher than the national average as reported by the Pell Foundation.  \n\nThe specific program goals for the 2020-2021 academic year are as follows:\n\n* 100% of OJS high school students will complete all grade level courses needed for admission into colleges and universities in California (called a-g requirements).\n\n* Students completing the SAT preparatory course will show an average increase of a minimum of 75 points.\n\n* 95% of OJS high school graduates will begin post-secondary education in the fall semester immediately following high school graduation.\n\n* 90% of high school graduates will begin their education at a 4-year college or university. \L\n\n* 85% of the College Success participants will obtain a bachelor’s degree within 6 years of beginning their college education. \L\n\n* 90% of College Success participants will successfully complete their first year and return to college for a second year."
+Approximately how many people will be directly impacted by this project, program, or initiative?: '220'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '650'
+Describe how Los Angeles County will be different if your work is successful.: >
   Every single program participant has received an on-time high school diploma,
   95% of those students immediately went on to college.  93% of our students
   have either achieved a bachelor’s degree or are still enrolled in college.
@@ -80,7 +80,7 @@ Please describe the broader impact of your proposal.: >
   of them choose to live in Los Angeles County.  Upon graduation they become
   active members and leaders of our community. An investment in OJS is an
   investment in the future of Los Angeles.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Although we are not applying for a collaboration grant, OJS believes that
   collaboration is key to providing the best services while maximizing our
   resources. We have long standing partnerships with the Long Beach Unified
@@ -98,12 +98,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - 'Office space for meetings, events, or for staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - College graduates
   - College matriculation
   - High school graduation rates
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your project will impact.: []
+year: 2021
 category: learn
 filename: operation-jump-start
 order: 54

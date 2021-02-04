@@ -18,7 +18,7 @@ organization_website: 'https://www.savingthewestfoundation.org'
 organization_twitter: ''
 organization_facebook: '@savingthewestfoundation'
 organization_instagram: '@savingthewestfoundation'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The Saving the West Foundation (STWF) is an education-based nonprofit that
   highlights the importance of academic excellence, workforce development and
   environmental sustainability. Our work is dedicated to improving the lives of
@@ -35,10 +35,10 @@ Which LA2050 goal will your submission most impact?: LA is the best place to LEA
 In which areas of Los Angeles will you be directly working?:
   - Central LA
   - South LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   As our community has felt bolstered in academic achievement because of our
   tutoring services, it gave parents the chance to step back & look at what else
   they want for their families. Parents communicated they want to be able to
@@ -53,7 +53,7 @@ What is the need you’re responding to?: >-
   avenue of education STWF is working to bring to life. Making these classes
   means our community can be outdoors while taking part in creating their own
   green spaces.
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   STWF is partnered with Crop Swap LA. CSLA hires reentry citizens & veterans to
   build & maintain vegetable gardens on residential & commercial space. We have
   developed a curriculum designed around the Common Core Standards & are
@@ -68,7 +68,7 @@ Why is this project important to the work of your organization?: >
   garden master. Maribel & Maria would help as needed, making sure the younger
   students receive more hands-on assistance & both are trained in first aid/CPR
   response. 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   We believe in constant communication. Success is defined by the feedback
   students of each Green Thumb Class provide us with. As these classes are for a
   community of all ages, we want to make sure we are designing and serving
@@ -84,9 +84,9 @@ Please explain how you will define and measure success for your project.: >-
   necessary as academic excellence. Affordable, weekly and open to all ages,
   participants in the Green Thumb Classes will learn how to grow plants native
   to Los Angeles, their own produce and their own wealth.  
-Approximately how many people will be directly impacted by this proposal?: '80'
-Approximately how many people will be indirectly impacted by this proposal?: '5000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '80'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '5000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   With a wealth of information, comes the desire to share it. We project that
   these classes & open gardens will impact the entire community. There are
   approximately 46,581 residents in our zip code alone. We suspect that even if
@@ -97,7 +97,7 @@ Please describe the broader impact of your proposal.: >-
   service population of STWF is 47% African American, 53% Latino, with 21% of
   the population living below the poverty line; 1.5 times the average for CA.
   95% of our registered students receive free/reduced lunch from their schools. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   We are presenting these classes in collaboration with Crop Swap LA. We have
   written the curricula with Jamiah Higgins, CSLA’s founder. Crop Swap LA has
   experience in taking empty lots and revitalizing them into green spaces. With
@@ -111,15 +111,15 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: CropSwap LA
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Enrollment in afterschool programs
   - Opportunity youth (“Disengaged youth” 16-24 not working or in school)
   - Proficiency in STEM
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
   - LA is the best place to CONNECT
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: learn
 filename: saving-the-west-foundation
 order: 64

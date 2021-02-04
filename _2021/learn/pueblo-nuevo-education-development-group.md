@@ -19,7 +19,7 @@ organization_website: 'https://www.pueblonuevo.org'
 organization_twitter: '@CNCASchools'
 organization_facebook: 'https://www.facebook.com/caminonuevocharteracademy/'
 organization_instagram: '@cncaschools'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Pueblo Nuevo Education & Development Group supports Camino Nuevo Charter
   Academy in providing a preschool – 12th grade college preparatory education,
   diverse enrichment activities, and whole child care to underserved students
@@ -36,10 +36,10 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
 In which areas of Los Angeles will you be directly working?:
   - Central LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Hispanic and Latino communities are sorely underrepresented in high-tech
   industries, making up only 7% of the nation’s STEM workers. When Latino
   students have an interest in STEM education, they often face barriers to
@@ -54,7 +54,7 @@ What is the need you’re responding to?: >-
   technology and core STEM concepts early and often, while problem-based
   learning fuses community applications and a cultural lens to build the next
   generation of STEM leaders.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   We are uniquely suited for this work because of our experience with the
   population and the programming. We serve low-income students of color who
   can’t always access STEM opportunities or find role models from their
@@ -71,7 +71,7 @@ Why is this project important to the work of your organization?: >-
   community to STEM lessons. By strengthening students’ autonomy, interest, and
   capacity to continue in science and math fields, our project strengthens
   engagement and breaks down barriers to STEM success.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Our goal for this project is to increase students’ STEM proficiency and school
   engagement through expanded hands-on learning opportunities. When taken
   together, these also increase graduation and college matriculation rates by
@@ -96,9 +96,9 @@ Please explain how you will define and measure success for your project.: >-
   for PLTW students at the end of the next school year through course grades or
   state test scores. We will also monitor high school graduation, college-ready
   graduation rates, and college matriculation rates.
-Approximately how many people will be directly impacted by this proposal?: '1200'
-Approximately how many people will be indirectly impacted by this proposal?: '2068'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1200'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '2068'
+Describe how Los Angeles County will be different if your work is successful.: >-
   STEM jobs are projected to grow 70% faster than others, highlighting a need
   for the next generation to develop 21st century skills and STEM competencies.
   Given current representation, we know that increasing opportunity for our
@@ -118,12 +118,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Strategy assistance and implementation
   - Connection to STEM industry partners to increase student learning.
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - College matriculation
   - High school graduation rates
   - Proficiency in STEM
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your project will impact.: []
+year: 2021
 category: learn
 filename: pueblo-nuevo-education-development-group
 order: 57

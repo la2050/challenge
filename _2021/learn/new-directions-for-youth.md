@@ -17,7 +17,7 @@ organization_website: 'https://www.ndfy.org'
 organization_twitter: ''
 organization_facebook: new directions for youth
 organization_instagram: '@newdirectionsforyouth'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Vision: A peaceful community where youth and families thrive and grow.
   Mission: New Directions for Youth, Inc. is dedicated to providing
   comprehensive programs and services to at-risk youth and their families. 
@@ -32,10 +32,10 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
 In which areas of Los Angeles will you be directly working?:
   - San Fernando Valley
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   New Directions for Youth currently services the San Fernando Valley. Based on
   the census report, 14.3% of the population lives below the poverty line. Of
   the youth residing in the San Fernando Valley, 19% live below the poverty
@@ -49,7 +49,7 @@ What is the need you’re responding to?: >
   further ensure the success of our youth. We provide parenting classes, as well
   as family, group and individual counseling services for our clients free of
   charge. 
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   The after-school program at NDY has been operating for 45+ years in the San
   Fernando Valley.  In 2019 New Directions for Youth was able to open its doors
   to the Paul Krikorian Health and Recreation Center with the generous donations
@@ -64,7 +64,7 @@ Why is this project important to the work of your organization?: >
   which the low-income population cannot afford. NDY believes in the potential
   of the population it serves and aims to go above and beyond to provide the
   best service and opportunities to enrich the lives of our youth. 
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   The impact of this project will be more underserved youth graduating from high
   school. Higher employability for the youth.  
 
@@ -90,9 +90,9 @@ Please explain how you will define and measure success for your project.: >
   a measurement of how effectively NDY programs meet their identified goals and
   objectives at the end of one year.  This evaluation will also state to what
   extent the program had an effect on the outcomes.  
-Approximately how many people will be directly impacted by this proposal?: '650'
-Approximately how many people will be indirectly impacted by this proposal?: '3000'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '650'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '3000'
+Describe how Los Angeles County will be different if your work is successful.: >
   NDY will continue to provide opportunities for youth to participate in healthy
   activities during after school programs.  This will directly impact 250 youth
   in a one year timeframe and 80% of youth who will participate in the after
@@ -110,16 +110,16 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Enrollment in afterschool programs
   - High school graduation rates
   - Proficiency in STEM
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
   - LA is the best place to PLAY
   - LA is the best place to CONNECT
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: learn
 filename: new-directions-for-youth
 order: 50

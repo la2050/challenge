@@ -17,7 +17,7 @@ organization_website: 'https://www.thelacoalition.com/'
 organization_twitter: ''
 organization_facebook: ''
 organization_instagram: ''
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The Los Angeles Coalition for the Economy & Jobs is an independent, bipartisan
   membership organization that brings together leaders from the region’s
   business, labor, academic and nonprofit communities to advance policy
@@ -36,8 +36,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: Research (initial work to identify and understand the problem)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Research (initial work to identify and understand the problem)
+What is the problem that you are seeking to address?: >-
   A number of students graduate high school every year without a basic
   understanding of the career paths available to them and/or how to pursue
   them.  The impact includes disengaged students that can't "connect the dots"
@@ -54,7 +54,7 @@ What is the need you’re responding to?: >-
   overall student population is low.  A formal assessment will enable
   stakeholders to understand the extent of that gap, creating urgency to develop
   solutions and secure investments to close it.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Critical to a strong economy is a strong workforce, yet data consistently
   confirms skill gaps for high quality occupations, while students graduate
   without the basic skills to pursue them.  Defining the roots of this challenge
@@ -71,7 +71,7 @@ Why is this project important to the work of your organization?: >-
   private and public sector talent to reform the City’s operational business
   systems, and with the McKinsey Global Institute in 2019 to publish a tool kit
   to close LA's housing gap.  
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Our long-term vision of success is all students graduating from high school
   demonstrating a foundational level of career readiness to ultimately pursue
   high quality jobs in demand by our region's employers.  First, we have to
@@ -95,9 +95,9 @@ Please explain how you will define and measure success for your project.: >-
 
   We are committed to highlighting these statistics in our annual report and to
   our formal briefings to our board.
-Approximately how many people will be directly impacted by this proposal?: '1000'
-Approximately how many people will be indirectly impacted by this proposal?: '500000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '500000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Several stakeholder groups will be impacted by this gap analysis.  In addition
   to creating a shared understanding of how well our region is delivering
   programming to K-12 students, it will:
@@ -124,14 +124,14 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Enrollment in afterschool programs
   - College graduates
   - Community college completion
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
   - LA is the best place to CONNECT
-year: 2020
+year: 2021
 category: learn
 filename: the-los-angeles-coalition
 order: 71

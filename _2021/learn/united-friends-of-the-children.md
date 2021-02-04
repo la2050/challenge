@@ -19,7 +19,7 @@ organization_website: 'https://www.unitedfriends.org'
 organization_twitter: '@unitedfriends'
 organization_facebook: 'https://www.facebook.com/UnitedFriendsLA/'
 organization_instagram: '@unitedfriendsla'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   United Friends of the Children empowers current and former foster youth on
   their journey to self-sufficiency through service-enriched education and
   housing programs, advocacy, and consistent relationships with a community of
@@ -38,10 +38,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Los Angeles County is home to the largest population of foster youth in the
   country with nearly 30,000 youth in care. Often without supports and stable a
   home life, too many foster youth confront far too many obstacles to their
@@ -56,7 +56,7 @@ What is the need you’re responding to?: >-
   compared against graduation rates for other vulnerable subgroups –
   socioeconomically disadvantaged (82.6%), migrant youth (89.1%), and homeless
   youth (75.5%).  
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   United Friends has been providing educational support services to Los Angeles
   County’s foster youth since 2003. The experience and success of youth in our
   programs (+90% graduation rate, 80% college matriculation rate), makes us
@@ -71,10 +71,10 @@ Why is this project important to the work of your organization?: >-
   one-on-one educational case management and oversight to ensure youth in foster
   care receive the individual attention necessary in such an isolating
   situation.  
-Please explain how you will define and measure success for your project.: "Evaluating the success of the programs is achieved through in-depth data collection and analysis and is led by our Director of Impact and Evaluation. The organization currently utilizes Social Solution’s Apricot system, an encrypted cloud-based case management/outcomes database, to record and analyze participant and administrative data for our programs. This upgraded software allows for more efficient tracking of data points such as participation in key activities, indicators for success, and a youth’s progress toward their goals. Program staff routinely monitor progress towards outcomes utilizing this data monthly and at annual retreats. We also use the National Student Clearinghouse (NSC) database to help confirm the attendance and progression of students through college. This enables us to further track student progress beyond their participation in our program. \n\nOur vision is to close the significant achievement gap between youth in foster care and their non-foster peers. We will be successful when foster youth access institutions of higher education at rates meeting and exceeding the general population – in turn providing the ability to take back control of their lives and create the future they desire. To this end, outcomes for Scholars Program include: \n*\t90% of students will graduate high school \n*\t85% of students will matriculate to college \n*\t70% of college scholars will earn a college degree  \n"
-Approximately how many people will be directly impacted by this proposal?: '700'
-Approximately how many people will be indirectly impacted by this proposal?: '500'
-Please describe the broader impact of your proposal.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "Evaluating the success of the programs is achieved through in-depth data collection and analysis and is led by our Director of Impact and Evaluation. The organization currently utilizes Social Solution’s Apricot system, an encrypted cloud-based case management/outcomes database, to record and analyze participant and administrative data for our programs. This upgraded software allows for more efficient tracking of data points such as participation in key activities, indicators for success, and a youth’s progress toward their goals. Program staff routinely monitor progress towards outcomes utilizing this data monthly and at annual retreats. We also use the National Student Clearinghouse (NSC) database to help confirm the attendance and progression of students through college. This enables us to further track student progress beyond their participation in our program. \n\nOur vision is to close the significant achievement gap between youth in foster care and their non-foster peers. We will be successful when foster youth access institutions of higher education at rates meeting and exceeding the general population – in turn providing the ability to take back control of their lives and create the future they desire. To this end, outcomes for Scholars Program include: \n*\t90% of students will graduate high school \n*\t85% of students will matriculate to college \n*\t70% of college scholars will earn a college degree  \n"
+Approximately how many people will be directly impacted by this project, program, or initiative?: '700'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '500'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The broader impact is observed in the foster and biological families as well.
   Counselors are a frequent presence in the home, building relationships with
   caregivers who become a primary referral source for the program. Additionally,
@@ -91,14 +91,14 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - College graduates
   - College matriculation
   - High school graduation rates
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CONNECT
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: learn
 filename: united-friends-of-the-children
 order: 77

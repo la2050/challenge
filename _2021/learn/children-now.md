@@ -17,7 +17,7 @@ organization_website: 'https://www.childrennow.org'
 organization_twitter: '@childrennow'
 organization_facebook: 'https://www.facebook.com/childrennow/'
 organization_instagram: '@childrennow'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Children Now is on a mission to transform children’s advocacy so that all
   children, especially children of color, children living in low-income
   households, and children in foster care, have the opportunity to reach their
@@ -36,8 +36,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: Research (initial work to identify and understand the problem)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Research (initial work to identify and understand the problem)
+What is the problem that you are seeking to address?: >-
   Foster youth face unique challenges that can disrupt their learning. They are
   often chronically absent (i.e. miss 10% or more days of school) due to
   placement changes, school transfers, court hearings, family visits, and
@@ -54,7 +54,7 @@ What is the need you’re responding to?: >-
   (LEAs), like school districts, charter schools, and county offices of
   education, are not held accountable for providing the targeted help youth need
   to learn and thrive.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Children Now is the only whole-child research, policy development, advocacy,
   communications and network-building organization that covers the full-range of
   children’s issues from prenatal through age 26, including early childhood,
@@ -71,7 +71,7 @@ Why is this project important to the work of your organization?: >-
   especially those who are most vulnerable, such as kids living up the foster
   care system, receives the services and supports needed to grow up healthy and
   thrive.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   We envision that our project will increase transparency around the dedicated
   supports and services provided to LA County’s foster youth and lead to greater
   accountability for improving the dire educational outcomes they face. In 2019,
@@ -99,9 +99,9 @@ Please explain how you will define and measure success for your project.: >-
   * The number of LA County stakeholders and policymakers educated about the
   targeted services and supports available to foster youth and any gaps as
   identified through this analysis.
-Approximately how many people will be directly impacted by this proposal?: '80'
-Approximately how many people will be indirectly impacted by this proposal?: '15000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '80'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '15000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   On average, more than 61,000 California children and youth are in foster care
   each year and more than one third of them reside in LA County. When children
   and youth cannot safely remain at home due to abuse or neglect, they enter
@@ -116,12 +116,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - High school graduation rates
   - Student proficiency in English & Language Arts
   - K-8 chronic absenteeism
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your project will impact.: []
+year: 2021
 category: learn
 filename: children-now
 order: 14

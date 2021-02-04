@@ -18,7 +18,7 @@ organization_website: 'https://www.lasfotosproject.org'
 organization_twitter: '@lasfotosproject'
 organization_facebook: www.facebook.com/lasfotosproject
 organization_instagram: '@lasfotosproject'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The mission of Las Fotos Project is to elevate the voices of teenage girls
   through photography and mentorship, inspiring them to use cameras to explore
   their identity, advocate for their community, and create their future career.
@@ -36,10 +36,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Las Fotos Project was created for teenage girls to have the freedom to express
   themselves and explore their identity. When our students completed our
   creative programs, they asked ‘what next?’ We knew that simply pointing them
@@ -54,7 +54,7 @@ What is the need you’re responding to?: >-
   work in the studio through low-cost memberships, offer e-commerce product
   photography packages and provide opportunities for students to receive paid
   on-the-job training. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   We launched a small photography entrepreneurial training program for teen
   girls in 2017, providing our students opportunities to work as hired
   photographers with the support of professional photographer mentors. The
@@ -69,7 +69,7 @@ Why is this project important to the work of your organization?: >-
   This power-sharing gives youth a seat at the table, value, and respect, while
   still receiving support and guidance from adults through a generative learning
   process. 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Through the youth-led photography studio, Las Fotos Project is applying its
   community-centered engagement approach to build a mutually-beneficial and
   sustainable site for youth, artists and small businesses to support one
@@ -90,9 +90,9 @@ Please explain how you will define and measure success for your project.: >-
   and client satisfaction surveys. Our regular Youth Advisory Council meetings
   and LFP member meetings will also create an avenue for direct feedback on the
   effectiveness and accessibility of our business model.
-Approximately how many people will be directly impacted by this proposal?: '100'
-Approximately how many people will be indirectly impacted by this proposal?: '1200'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '100'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '1200'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Las Fotos Project supports the agency of teenage girls from communities of
   color by creating an environment that both values and validates their lived
   experiences. They are mentored by and create images of people who look like
@@ -110,15 +110,15 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Employment in the creative industries
   - Income inequality
   - Minority- and women-owned businesses
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
 Has your proposal changed due to COVID-19?: >
   The Las Fotos Project team has remained vigilant of the new changes to state and city-wide mandates, as well as health developments emerging from the CDC. We will be amending our project time-line to reflect these emerging recommendations.  Our project remains focused on mutual-aid, post-COVID19 support for our students, and women-owned businesses. In the interim, we will begin the launch of our project by supporting our students and women-owned businesses with safe, at-home product photography services in the upcoming months until we feel we can safely and adequately open the Foto Studio in person.
-year: 2020
+year: 2021
 category: create
 filename: las-fotos-project
 order: 20

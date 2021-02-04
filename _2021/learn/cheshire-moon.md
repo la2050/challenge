@@ -17,7 +17,7 @@ organization_website: 'https://www.cheshiremoon.org'
 organization_twitter: '@crimsonsquaretc'
 organization_facebook: www.facebook.com/crimsonsquaretc
 organization_instagram: '@crimsonsquaretc'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   This program will fund a minimum of five theatre productions annually, as well
   as an ongoing writer's lab to help students develop their voices as writers.
   We want to create a program that will be the origin story for many great
@@ -32,8 +32,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   There is a lack of support for new and diverse voices in theatre. Many
   theatres focus primarily on graduates from higher education or
   collegiate/university writing programs, already established playwrights, and
@@ -42,7 +42,7 @@ What is the need you’re responding to?: >-
   to creat a program that gives writing development and education to those who
   would normally not have access, financial ability, or opportunity to attend a
   university writing program.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Cheshire Moon is dedicated to using the arts as a force for positive change in
   Southern California. Our longest-running program, Dancescape LA, has provided
   dance and music education to over 6500 students in the LA area. Starting
@@ -50,16 +50,16 @@ Why is this project important to the work of your organization?: >-
   program for 2020) is our expansion into theatre and dramatic arts education.
   With our 16 years of experience, we are confident in our ability to launch
   this program.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Success for the Crimson Square Writer's Lab would be a minimum of 10 new
   writing students per year, receiving education, mentorship, and development
   opportunity, culminating in the production of the multiple original works in
   2021 through Crimson Square Theatre Company. Our goal is to create an ongoing
   writer lab that has the infrastructure to expand into a larger program of up
   to 30 writers in the coming years. 
-Approximately how many people will be directly impacted by this proposal?: '30'
-Approximately how many people will be indirectly impacted by this proposal?: '1100'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '30'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '1100'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Giving underrepresented voices and emerging talent the opportunity to have
   their work performed on a professional stage, with a broad audience, and
   presenting the general public to original works from unique perspectives, will
@@ -74,11 +74,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Office space for meetings, events, or for staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: learn
 filename: cheshire-moon
 order: 13

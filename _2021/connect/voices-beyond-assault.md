@@ -17,7 +17,7 @@ organization_website: 'https://www.voicesbeyondassault.org'
 organization_twitter: '@voicesbeyond'
 organization_facebook: Voices Beyond Assault
 organization_instagram: '@voicesbeyondassault'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Voices Beyond Assault is an organization that is dedicated to providing aid,
   resources and innovative therapy for survivors of sexual assault.  We aim to
   empower and encourage survivors that healing from the inside out is essential
@@ -42,10 +42,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: "The latest reports in the City of Los Angeles from Jan 1–June 30, 2019, there were 468 reported rapes. These numbers likely don’t reflect the total incidents, rape is one of the most underreported crimes. Nationwide, only about one quarter of rapes are reported, meaning about 75% of rapes and sexual assaults are not reported to the police. Issues of sexual violence are linked to some of our most prevalent social problems including addictions, mental illness, sexual exploitation, medical problems, self-harm, suicide, parenting challenges, poverty, homelessness and domestic violence. In other words, sexual violence is a serious public health issue. Having direct access to information, support, therapy and therapeutic activities can positively change lives. Every survivor deserves the chance to resolve\_their internal trauma and restore their\_future progression. VBA plans to be\_readily available to assist with this need. Our programs will empower and encourage survivors to heal and thrive."
-Why is this project important to the work of your organization?: "This project is important to the work of our organization because by educating individuals of the community about sexual assault can surely decrease the amount of sexual violence within the City of Los Angeles. Providing the resources necessary if abuse/sexual assault happens it will encourage survivors to either report the crime and/or start a journey to heal from the trauma. By having to safe environments where we can have therapy, meditation, yoga, conversation sessions, writing experiences, etc. will create self confidence, self awareness and hope for survivors. Our Survival Retreats are survival celebration and a healing experience like no other. The healing\_process for survivors starts with a space where they feel comfortable expressing themselves. VBA is an organization that knows first hand what sexual violence and the effects of sexual trauma look like. Our Founder was brutally raped and kidnapped so the passion behind out work is notable. We are dedicated to seeing change!\n "
-Please explain how you will define and measure success for your project.: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: "The latest reports in the City of Los Angeles from Jan 1–June 30, 2019, there were 468 reported rapes. These numbers likely don’t reflect the total incidents, rape is one of the most underreported crimes. Nationwide, only about one quarter of rapes are reported, meaning about 75% of rapes and sexual assaults are not reported to the police. Issues of sexual violence are linked to some of our most prevalent social problems including addictions, mental illness, sexual exploitation, medical problems, self-harm, suicide, parenting challenges, poverty, homelessness and domestic violence. In other words, sexual violence is a serious public health issue. Having direct access to information, support, therapy and therapeutic activities can positively change lives. Every survivor deserves the chance to resolve\_their internal trauma and restore their\_future progression. VBA plans to be\_readily available to assist with this need. Our programs will empower and encourage survivors to heal and thrive."
+Describe the project, program, or initiative that this grant will support to address the problem identified.: "This project is important to the work of our organization because by educating individuals of the community about sexual assault can surely decrease the amount of sexual violence within the City of Los Angeles. Providing the resources necessary if abuse/sexual assault happens it will encourage survivors to either report the crime and/or start a journey to heal from the trauma. By having to safe environments where we can have therapy, meditation, yoga, conversation sessions, writing experiences, etc. will create self confidence, self awareness and hope for survivors. Our Survival Retreats are survival celebration and a healing experience like no other. The healing\_process for survivors starts with a space where they feel comfortable expressing themselves. VBA is an organization that knows first hand what sexual violence and the effects of sexual trauma look like. Our Founder was brutally raped and kidnapped so the passion behind out work is notable. We are dedicated to seeing change!\n "
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Our organization has a clear mission: to provide aid, education, resources and
   therapeutic methods to survivors of sexual assault/abuse. We want nothing more
   to provide survivors with the tools necessary to heal and thrive. 
@@ -68,9 +68,9 @@ Please explain how you will define and measure success for your project.: >-
   survivors to stand strong and firm in their survival.  That each survivor that
   comes through our organization feels compelled to empower and encourage other
   survivors who are living in silence to come forth and heal. 
-Approximately how many people will be directly impacted by this proposal?: '300'
-Approximately how many people will be indirectly impacted by this proposal?: '3000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '300'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '3000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Addressing sexual violence will require action and input across government
   ministries and a collaborative, coordinated approach ensuring that the
   political, social and economic issues related to sexual violence are included
@@ -92,14 +92,14 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Public arts and cultural events
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CREATE
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: connect
 filename: voices-beyond-assault
 order: 65

@@ -16,7 +16,7 @@ organization_website: 'https://www.mychyp.org'
 organization_twitter: '@my_chyp'
 organization_facebook: Creative Healing for Youth in Pain
 organization_instagram: '@my_chyp'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Creative Healing for Youth in Pain (chyp) is a nonprofit for youth with
   chronic pain and their parents/caregivers, providing resources online to
   reduce barriers like cost and location. chyp encourages creative healing and
@@ -46,8 +46,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   Research shows that 15% of adolescents have chronic pain, and over half
   regularly miss school and activities because of the pain. This has serious
   developmental impacts for young people, including an increased risk of
@@ -62,7 +62,7 @@ What is the need you’re responding to?: >-
   resources online, so families can get the help they need in their own homes.
   For this project, chyp focuses on photography as a creative outlet, coping
   skill, and tool for dialogue. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   chyp was founded by pediatric chronic pain expert, Lonnie Zeltzer, MD, a
   Distinguished Research Professor of Pediatrics, Anesthesiology, Psychiatry and
   Biobehavioral Sciences at the David Geffen School of Medicine at UCLA and
@@ -77,7 +77,7 @@ Why is this project important to the work of your organization?: >-
   Youth Advisory Board and Parent/Caregiver Advisory Board). The chyp team uses
   their combined backgrounds and evidence-based creative healing options to
   provide online services.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   With PhotoVoice, chyp envisions a growing community of patients working to
   transform pain and isolation into empowerment and connection. Photography and
   social support are immediate coping skills that mitigate the impact of pain.
@@ -98,9 +98,9 @@ Please explain how you will define and measure success for your project.: >-
   of participants completing pre- and post-meetings, and submitting two photos,
   will be considered a success. chyp will host a photo exhibit so LA can see the
   world of chronic pain.
-Approximately how many people will be directly impacted by this proposal?: '72'
-Approximately how many people will be indirectly impacted by this proposal?: '720'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '72'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '720'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Persistent pain hinders daily functioning and leads to isolation. Research
   shows that social support is a major factor in reducing the negative effects
   of chronic pain (including mental health problems and substance abuse).
@@ -118,11 +118,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - Strategy assistance and implementation
   - Tech support
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: connect
 filename: creative-healing-for-youth-in-pain
 order: 15

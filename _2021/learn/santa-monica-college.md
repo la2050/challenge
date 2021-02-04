@@ -17,7 +17,7 @@ organization_website: 'https://www.smc.edu'
 organization_twitter: '@SMC_edu'
 organization_facebook: 'https://www.facebook.com/SantaMonicaCollegeOfficial/'
 organization_instagram: '@smcedu'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Santa Monica College (SMC) is a leader and innovator in learning and
   achievement. SMC provides a world-class education emanating from its core
   values: open dialogue, intellectual inquiry, academic integrity, ethical
@@ -39,10 +39,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Today’s college students are at risk of not completing degrees due to the
   pressure to choose between food and textbooks (or rent). The markers of food
   insecurity are evident in Santa Monica College students: 54% are unable to
@@ -70,7 +70,7 @@ What is the need you’re responding to?: >-
 
   National data:
   https://hope4college.com/wp-content/uploads/2019/04/HOPE_realcollege_National_report_digital.pdf 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   SMC Foundation is well-positioned to scale the Meal Project and create a
   roadmap for other organizations. Launched in 2017, the SMC Foundation piloted
   the Meal Project providing nutritious meals to our most critically needy
@@ -84,7 +84,7 @@ Why is this project important to the work of your organization?: >-
   2020-21 academic year, the Meal Project endeavors to serve students remotely
   who were previously identified as food insecure as well as students newly
   affected by the fallout of COVID-19 and its ongoing economic impact. 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Food is a human right. As such, SMC Foundation envisions a future in which the
   possibility of food assistance will be in every prospective and new students’
   scope when they dare to dream about attending college. We want all students
@@ -119,9 +119,9 @@ Please explain how you will define and measure success for your project.: >-
   participation in special programs such as Dreamers, Guardian Scholars (current
   and former foster youth), Veterans Resource Center, the Latino Center, Black
   Collegians, single parents, Center for Students with Disabilities, as such.
-Approximately how many people will be directly impacted by this proposal?: '3000'
-Approximately how many people will be indirectly impacted by this proposal?: '16740'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '3000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '16740'
+Describe how Los Angeles County will be different if your work is successful.: >-
   At the intersection of food security and higher education, the impact reaches
   far and wide – housing, employment, economic development, and health and
   wellbeing. Santa Monica College is investing heavily as an institution in the
@@ -132,7 +132,7 @@ Please describe the broader impact of your proposal.: >-
   Angeles, with 90% residing across the Los Angeles County basin. As such, we
   see ourselves and the Meal Project as an incubator to create a roadmap
   benefiting other organizations and policy development. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Everytable: A mission-driven, innovative social enterprise provides healthy
   meals at a variable cost to patrons dependent upon location throughout Los
   Angeles (mapped here: https://www.everytable.com/locations/. SMC Foundation
@@ -159,13 +159,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
 Please list the organizations collaborating on this proposal.:
   - Everytable
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - College graduates
   - College matriculation
   - Community college completion
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: learn
 filename: santa-monica-college
 order: 63

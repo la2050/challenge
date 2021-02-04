@@ -17,7 +17,7 @@ organization_website: 'https://www.everydae.com'
 organization_twitter: '@everydae_me'
 organization_facebook: 'https://www.facebook.com/everydae/'
 organization_instagram: '@everydae.me'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   We want every student to have access to college and the tools to help them get
   there. That’s why we’ve built a digital tutor that’s affordable and fun. It’s
   a game changer for the 85% of families who simply can’t afford traditional
@@ -33,8 +33,8 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
 In which areas of Los Angeles will you be directly working?:
   - ~20 low-income schools across LA
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   Going to college matters: those with a bachelor’s degree earn an average of
   $625,000 more across their lifetimes, are also more likely to be employed,
   have health insurance, and report being happy.
@@ -54,7 +54,7 @@ What is the need you’re responding to?: >-
   are alike, we create an individualized study journey that adapts to their
   needs and goals, so that all students can maximize their progress in the
   minimum amount of time.
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   An important part of our mission at Everydae, is to create a system that we
   can replicate across low-income schools to increase the number of students who
   have access to college. Proving efficacy through an LA2050 grant, is the first
@@ -66,7 +66,7 @@ Why is this project important to the work of your organization?: >
   and get accepted into college. Meanwhile, our CEO is an award-winning designer
   who knows how to create online experiences that will keep a teenager engaged
   and motivated.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Our vision of success is an increase in the number of LA’s most disadvantaged
   students who see college as a possibility and have the tools to fulfill that
   aspiration. With our partners, we will realize this vision through Everydae’s
@@ -110,9 +110,9 @@ Please explain how you will define and measure success for your project.: >
 
   - A willingness to continue/expand the program by teachers and nonprofit
   partners - via pre-post surveys.
-Approximately how many people will be directly impacted by this proposal?: '1000'
-Approximately how many people will be indirectly impacted by this proposal?: '10000'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '10000'
+Describe how Los Angeles County will be different if your work is successful.: >
   We believe that all students deserve access to the tools that can help make
   college a reality. By creating a program that can be replicated across
   communities, we expect to have a demonstrable impact, not only on the academic
@@ -127,7 +127,7 @@ Please describe the broader impact of your proposal.: >
   By providing teacher training and aggregated performance data to schools, we
   believe an additional 10,000 people can be positively impacted over the next
   3-5 years
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Our study is made possible because of our strong relationships with several
   nonprofits. 
 
@@ -146,11 +146,11 @@ Please describe the broader impact of your proposal.: >
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
 Please list the organizations collaborating on this proposal.: 21PSTEM
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - College matriculation
   - Proficiency in STEM
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your project will impact.: []
+year: 2021
 category: learn
 filename: everydae
 order: 27

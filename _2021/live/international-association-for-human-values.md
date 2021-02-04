@@ -17,7 +17,7 @@ organization_website: 'https://us.iahv.org'
 organization_twitter: 'https://twitter.com/iahv?lang=en'
 organization_facebook: 'https://www.facebook.com/iahv/'
 organization_instagram: 'https://www.instagram.com/iahv_sa/'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Through our educational programs, we foster the daily practice of human values
   – including a sense of connectedness and respect for all people and the
   natural environment, an attitude of non-violence, and an ethic of social
@@ -36,10 +36,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   In 2018, there were over 25,000 violent crimes reported in LA. Such high
   violence, leads to degradation of public health and public safety. The City of
   LA employs former gang members, as Community Intervention Workers (CIW) and
@@ -54,7 +54,7 @@ What is the need you’re responding to?: >-
   CIW from different neighborhoods and empowering them to teach others would
   help bring the benefits of the program to their communities.
   www.cities4peace.org
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Since 1997, the International Association for Human Values (IAHV) has been
   addressing society’s sensitive and critical issues such as violence
   prevention, health, poverty, education, and sustainable development across the
@@ -69,7 +69,7 @@ Why is this project important to the work of your organization?: >-
   violence. By empowering former incarcerated individuals to become trainers of
   peace and nonviolence, we are also reducing recidivism rates and crime in
   neighborhoods.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   The success of this project will be in the empowerment and holistic
   development of enthusiastic individuals in promoting peace in their
   communities. Furthermore, these empowered individuals training at least 100
@@ -93,9 +93,9 @@ Please explain how you will define and measure success for your project.: >-
   efficiency, ability for problem solving and decision making, de-escalation of
   conflict situations, increase in ability to improve social connectedness and
   building trusted relationship.
-Approximately how many people will be directly impacted by this proposal?: '10000'
-Approximately how many people will be indirectly impacted by this proposal?: '100000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '10000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '100000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The program will train 100 CIWs, who respond to gang related violence
   everyday, and connect with dozens of victims of violence on a daily basis.
   During the certification program, each graduate will be required to train at
@@ -113,15 +113,15 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Resilient communities
   - Mental illness
   - Crime rates
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
   - LA is the best place to PLAY
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: international-association-for-human-values
 order: 23

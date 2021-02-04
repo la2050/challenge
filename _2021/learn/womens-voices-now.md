@@ -17,7 +17,7 @@ organization_website: 'https://www.https://www.womensvoicesnow.org/'
 organization_twitter: '@WomensVoicesNow'
 organization_facebook: 'https://www.facebook.com/WomensVoicesNow'
 organization_instagram: '@womens_voices_now'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Women’s Voices Now drives positive social change by raising awareness of the
   struggles and triumphs of women and girls seeking full access to their rights.
   We promote, produce, and share social-change films, activating civil society
@@ -38,10 +38,10 @@ In which areas of Los Angeles will you be directly working?:
   - East LA
   - San Fernando Valley
   - South LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >+
+What is the problem that you are seeking to address?: >+
   Women and girls are under- and misrepresented in media and film. Globally,
   less than 24% of news stories are about women. Locally, in Hollywood, the lack
   of diversity is just as prevalent: 94% of film executives and 87% of directors
@@ -59,7 +59,7 @@ What is the need you’re responding to?: >+
   Inclusion Initiative). This represents just as many missed opportunities to
   present realistic, relatable, inclusive representations of women and girls.
 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Our organization's goal is supporting the advancement of women's and girls'
   rights. Despite global progress, huge disparities still exist in terms of
   gender equity and equality (education, economic and political participation,
@@ -78,7 +78,7 @@ Why is this project important to the work of your organization?: >-
   underrepresented communities. GVN has been an ongoing program since 2018. We
   have the experience, staff expertise and capacity to deliver it successfully
   as we aim to expand its reach.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   GVN’s goals are to: 
 
   (i) train young women from underrepresented and low-income communities to
@@ -148,9 +148,9 @@ Please explain how you will define and measure success for your project.: >-
   the number of direct beneficiaries and staff, offer additional workshop
   throughout the year, partner with other organization to replicate the program
   elsewhere, and strengthen our impact for each participant.
-Approximately how many people will be directly impacted by this proposal?: '24'
-Approximately how many people will be indirectly impacted by this proposal?: '190000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '24'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '190000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The number of direct beneficiaries (here, 24) may seem low, but in our
   experience this is the formula that has proven efficient in ensuring
   high-quality learning and content production, as well as improve the girls’
@@ -170,7 +170,7 @@ Please describe the broader impact of your proposal.: >-
 
   - 2,500 in-person viewers (premiere screening, additional screenings,
   festivals).
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   While Women's Voices Now delivers this program directly, we have partnered
   with different organizations for outreach and to replicate the program and
   will continue to do so.
@@ -193,12 +193,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - High school graduation rates
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: learn
 filename: womens-voices-now
 order: 79

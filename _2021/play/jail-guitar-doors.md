@@ -19,7 +19,7 @@ organization_website: 'https://www.jailguitardoors.org'
 organization_twitter: '@JailGuitarDoors'
 organization_facebook: 'https://www.facebook.com/JailGuitarDoors/'
 organization_instagram: '@jailguitardoorsusa'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Jail Guitar Doors USA (JGD-USA) seeks a more fair and just America.  A
   nonprofit organization, JGD-USA provides rehabilitative songwriting workshops
   to help incarcerated individuals develop essential life skills that will
@@ -36,10 +36,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   According to a report from the Children’s Defense Fund – California published
   in December, 2019, Los Angeles County is home to the largest probation
   department in the world and maintains one of the highest rates of youth
@@ -52,7 +52,7 @@ What is the need you’re responding to?: >-
   a high recidivism rate.  JGD-USA understands that arts programs are a critical
   intervention that address trauma for youth who are incarcerated, and a
   foundational strategy for successful reentry.
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   Arts education programs in prisons have emerged as a powerful tool to support
   inmates in developing the skills that will benefit them both during and
   post-incarceration.  While programming like this is still rare in, the
@@ -69,10 +69,10 @@ Why is this project important to the work of your organization?: >
   songwriting workshops and donated hundreds of guitars to justice-involved
   clients in over 137 federal and state prisons, county jail, youth camps and
   detention/reentry facilities.
-Please explain how you will define and measure success for your project.: "Success factors for CAPO include:\n*\tIndividual Impact – including but not limited to self-esteem, self-confidence, critical thinking, feelings of safety and interest in completing their education \n*\tReduced Recidivism – percentage of youth who do not return to juvenile hall and/or complete probation during the program period\n*\tPreparation for employment – percentage of youth who are interested in, and secure, a creative economy career\n\nJDG-USA’s current evaluation tools include participant journals, individual writing and group exercises, pre- and post satisfaction/knowledge survey evaluations and facilitator notes.  Information from all of these sources are part of the review of participant progress and discussion of their goals. The sophistication and depth of assessment criteria grows in tandem with the growth of the participant and participants are expected to extend the assessment of their own work to include a holistic examination of their creative process. In becoming independent thinkers, they develop the ability to reflect on their own work, and the work of others, in a collaborative and as part of an interdependent whole, using the skills of communication and critical thinking. \n\nAdditionally, JGD-USA surveys its partners and appropriate stakeholders, in order to query any behavioral changes they might take note of in the participants, which covers areas such as violence, communication abilities and attitude issues.\n"
-Approximately how many people will be directly impacted by this proposal?: '100'
-Approximately how many people will be indirectly impacted by this proposal?: '10000'
-Please describe the broader impact of your proposal.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "Success factors for CAPO include:\n*\tIndividual Impact – including but not limited to self-esteem, self-confidence, critical thinking, feelings of safety and interest in completing their education \n*\tReduced Recidivism – percentage of youth who do not return to juvenile hall and/or complete probation during the program period\n*\tPreparation for employment – percentage of youth who are interested in, and secure, a creative economy career\n\nJDG-USA’s current evaluation tools include participant journals, individual writing and group exercises, pre- and post satisfaction/knowledge survey evaluations and facilitator notes.  Information from all of these sources are part of the review of participant progress and discussion of their goals. The sophistication and depth of assessment criteria grows in tandem with the growth of the participant and participants are expected to extend the assessment of their own work to include a holistic examination of their creative process. In becoming independent thinkers, they develop the ability to reflect on their own work, and the work of others, in a collaborative and as part of an interdependent whole, using the skills of communication and critical thinking. \n\nAdditionally, JGD-USA surveys its partners and appropriate stakeholders, in order to query any behavioral changes they might take note of in the participants, which covers areas such as violence, communication abilities and attitude issues.\n"
+Approximately how many people will be directly impacted by this project, program, or initiative?: '100'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '10000'
+Describe how Los Angeles County will be different if your work is successful.: >
   For many, CAPO is first opportunity they've had to express themselves in a
   creative way. The benefits span from societal to individual impact. The skills
   and tools gained are an essential component of youths’ aftercare program. 
@@ -85,7 +85,7 @@ Please describe the broader impact of your proposal.: >
   the skills to step into these jobs, prepares youth for employment.  Coupled
   with mentor support, participants are in the unique position to gain a
   toe-hold in an industry for which they have developed a passion.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+'Describe the role of collaborating organizations on this project.': >
   AIYN and JGD-USA have partnered for the past five years to bring music
   programs to youth in juvenile justice facilities.  While this work has been
   impactful, youth in these programs have expressed a deep desire to continue
@@ -104,12 +104,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Communications support
 Please list the organizations collaborating on this proposal.: The Arts for Incarcerated Youth Network
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Prevalence of trauma and adverse childhood experiences
   - Crime rates
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: play
 filename: jail-guitar-doors
 order: 12

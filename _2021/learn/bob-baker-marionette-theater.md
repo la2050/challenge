@@ -19,7 +19,7 @@ organization_website: 'https://www.bobbakermarionettetheater.com'
 organization_twitter: ''
 organization_facebook: 'https://www.facebook.com/BobBakerMarionetteTheater/'
 organization_instagram: '@bobbakermarionettes'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The mission of the Bob Baker Marionette Theater is to educate, celebrate, and
   rejuvenate puppetry and the allied arts. 
 project_description: >-
@@ -43,10 +43,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Bob Baker’s origin story begins with the first puppet show he saw at six-years
   old; yet the forces that shaped Bob Baker’s life-long dedication to puppetry
   did not stop with the curtain call. Rather, credit belongs to the adults,
@@ -61,7 +61,7 @@ What is the need you’re responding to?: >-
   exclusive to certain communities. We hope to become a long-lasting influence
   on students, just as those early adults were to the formation of Bob Baker’s
   calling. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   From designing Disneyland’s storefronts to creating interactive children's
   museum exhibits as a new nonprofit, The Bob Baker Marionette Theater has
   played a multitude of roles. These experiences, along with our original shows,
@@ -76,7 +76,7 @@ Why is this project important to the work of your organization?: >-
   reason we want the impact of seeing a BBMT show to last as long as possible,
   manifesting itself in the many creative paths that come from puppetry and the
   allied arts.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   We hope that the larger impact for this project is that the core principles
   and entry points of puppetry are recognized and utilized as a valuable and
   accessible educational tool for educators and all of the visitors to our
@@ -99,9 +99,9 @@ Please explain how you will define and measure success for your project.: >
   our Academy program, we hope to collect valuable data on how lifelong
   engagement with the arts can contribute to overall graduation rates, community
   engagement, and career choice. 
-Approximately how many people will be directly impacted by this proposal?: '9000'
-Approximately how many people will be indirectly impacted by this proposal?: '40000'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '9000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '40000'
+Describe how Los Angeles County will be different if your work is successful.: >
   The broader impact of this work will be to instill in students an
   interdisciplinary understanding of soft and hard skills, offering hands-on
   technical knowledge, while also placing this training in a social context. We
@@ -116,14 +116,14 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - Enrollment in afterschool programs
   - Proficiency in STEM
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
   - LA is the best place to PLAY
-year: 2020
+year: 2021
 category: learn
 filename: bob-baker-marionette-theater
 order: 7

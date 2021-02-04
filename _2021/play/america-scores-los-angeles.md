@@ -17,7 +17,7 @@ organization_website: 'https://www.lascores.org/'
 organization_twitter: '@LAScores'
 organization_facebook: 'https://www.facebook.com/LA-SCORES-11578716019/'
 organization_instagram: '@americascores.la'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The mission of America SCORES LA (ASLA) is to inspire Los Angeles (LA) youth
   to lead healthy lives, be engaged students, and have the confidence and
   character to make a difference in the world. America SCORES LA empowers youth
@@ -34,10 +34,10 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to PLAY
 In which areas of Los Angeles will you be directly working?:
   - Westside
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   LA county is experiencing an epidemic of illiteracy and obesity that
   disproportionately affects Hispanic/Latino youth, females of color, and those
   living at or below poverty LA county’s literacy rate is less than half the
@@ -51,7 +51,7 @@ What is the need you’re responding to?: >-
   state physical fitness requirements.  Students receive 100+ hours of
   structured physical activity and ELA  supporting active and healthy
   lifestyles.
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   ASLA works exclusively at Title 1 schools that have largely eliminated sports 
   and creative arts programs to focus on academics  creating a void in the
   social, emotional, and physical development of at-risk students. Serving up to
@@ -66,7 +66,7 @@ Why is this project important to the work of your organization?: >
   zone”for age group;75% improve grammar and writing mechanics;98% graduate high
   school;90% are more resilient;98% are more confident,&3x more likely than
   peers to reach ELA standards
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   We strive for ASLA students to further cultivate teamwork, literacy, and
   leadership skills enabling disadvantaged youth to excel in both school and
   life. Our long term goal will be achieved using our holistic approach to
@@ -88,9 +88,9 @@ Please explain how you will define and measure success for your project.: >-
   cardiovascular capacity and aerobic fitness. Students will be 90% more
   resilient, 98% are more confident, and 3x more likely than peers to reach ELA
   standards.
-Approximately how many people will be directly impacted by this proposal?: '500'
-Approximately how many people will be indirectly impacted by this proposal?: '100'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '500'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '100'
+Describe how Los Angeles County will be different if your work is successful.: >-
   ASLA's after-school Literacy in Action program targets boys and girls in
   3rd-5th grade at elementary schools (aged 8-11) and 6th-8th grade at middle
   schools (aged 12-14). Gender breakdown is 60% boys, 40% girls, with the
@@ -107,13 +107,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Obesity
   - Youth sports participation
   - Students' sense of safety at and on the way to school
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
-year: 2020
+year: 2021
 category: play
 filename: america-scores-los-angeles
 order: 0

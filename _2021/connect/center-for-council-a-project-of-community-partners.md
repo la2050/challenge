@@ -17,7 +17,7 @@ organization_website: 'https://www.centerforcouncil.org'
 organization_twitter: '@center4council'
 organization_facebook: '@centerforcouncil'
 organization_instagram: '@center4council'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Center for Council delivers programs and trainings that promote communication,
   build community, enhance well-being, and foster compassion. Our mission is to
   create a world where every voice is heard, no one is invisible, and everyone
@@ -40,12 +40,12 @@ In which areas of Los Angeles will you be directly working?:
   - South LA
   - Westside
   - South Bay
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Applying a proven model or solution to a new issue or sector (e.g, using a job
   recruiting software or strategy to match clients to supportive housing sites,
   applying demonstrated strategies from advocating for college affordability to
   advocating for housing affordability and homelessness, etc.)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Center for Council is launching Circle Up Los Angeles (C-U-LA) to offer every
   resident in LA the opportunity to engage, interact and come together. Now more
   than ever, our communities need connection. In this time of polarizing
@@ -60,7 +60,7 @@ What is the need you’re responding to?: >-
   Council circle is free from the limited binaries of right and wrong, democrat
   or republican, us vs. them — it’s a birthplace for innovation and
   understanding, lifting every voice.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Center for Council has been recognized as a leader in training individuals in
   the powerful practice of Council for decades, creating transformative programs
   within the criminal and social justice, educational and health care systems.
@@ -75,7 +75,7 @@ Why is this project important to the work of your organization?: >-
   Angelenos to “Circle Up,” to directly experience slowing down and listening,
   recognizing and bearing witness to our collective challenges and shared
   humanity.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Center for Council will define and measure the success of Circle Up LA by
   monitoring the quantity and quality of our impact. CU-LA will deliver 36
   in-person and 18 virtual Councils with 25 participants each directly serving
@@ -98,9 +98,9 @@ Please explain how you will define and measure success for your project.: >-
   present with the people and world around them. Paying attention like this
   extends the intentions of Council and invites a new way of engaging that
   relies heavily on listening, observing and responding, rather than reacting.
-Approximately how many people will be directly impacted by this proposal?: '1350'
-Approximately how many people will be indirectly impacted by this proposal?: '6750'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1350'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '6750'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Compassion begins with slowing down, paying attention and caring for the inner
   life of oneself and others. Through the practice of Council, C-U-LA will
   foster compassion in individuals and groups. C-U-LA will empower individuals
@@ -111,7 +111,7 @@ Please describe the broader impact of your proposal.: >-
   anger, aggression and hostility, enables people to connect with others in new
   and meaningful ways, creates safe and supportive space for self-reflection,
   self-expression and connection without fear of judgment.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   While Center for Council is the sole applicant for this proposal, C-U-LA is a
   collaborative project which will engage our network of partners and allies in
   new ways. C-U-LA will be implemented through partnership with “Host
@@ -128,10 +128,10 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - 'Office space for meetings, events, or for staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your project will impact.: []
+year: 2021
 category: connect
 filename: center-for-council-a-project-of-community-partners
 order: 7

@@ -17,7 +17,7 @@ organization_website: 'https://algorithmandflow.org/'
 organization_twitter: '@algorithmandflo'
 organization_facebook: 'https://www.facebook.com/algorithmandflow'
 organization_instagram: '@algorithmandflow'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   FaithWorks Compton is a nonprofit organization that provides services and
   support to the City of Compton. We strengthen economic development, restore
   neighborhoods and foster opportunities that will enhance the overall quality
@@ -34,10 +34,10 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
 In which areas of Los Angeles will you be directly working?:
   - South LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   I, Kwesi Davis, spent 15 years, at DreamWorks Animation, in the production
   Pipeline Engineering group. Being African American, I saw very few people that
   looked like me. I did not see many Black or Latino men or women in my STEM
@@ -51,7 +51,7 @@ What is the need you’re responding to?: >-
   Science and to train the next generation of computer programmers. I know it
   can be done because I have a supportive network of STEM related professionals
   that are investing time and resources to make this work.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   I am an African American man that received an Electrical Engineering degree
   from Brown University; an Ivy League institution. I studied computer graphics
   under the mentorship of Professor Andy van Dam. Prof. van Dam is the author of
@@ -71,7 +71,7 @@ Why is this project important to the work of your organization?: >-
 
   I am living proof to youth that they can become successful and significant
   computer scientists.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Our goal is to teach young people fundamental software development techniques.
   In the short term, at a minimum, students need to be able to declare &
   concatenate strings, declare & initialize a variable to a numerical value,
@@ -109,9 +109,9 @@ Please explain how you will define and measure success for your project.: >-
 
   The sixth metric relates to documenting and sharing program findings; which we
   will also do.
-Approximately how many people will be directly impacted by this proposal?: '60'
-Approximately how many people will be indirectly impacted by this proposal?: '17400'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '60'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '17400'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Question 12 Explanation
 
   Many people are familiar with anthropologist Robin Dunbar’s magic number: 150.
@@ -135,13 +135,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - College matriculation
   - Proficiency in STEM
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: learn
 filename: faithworks-compton
 order: 29

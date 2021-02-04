@@ -17,7 +17,7 @@ organization_website: 'https://www.warehousetv.com'
 organization_twitter: '@OnlyWarehouseTV'
 organization_facebook: 'https://www.facebook.com/OfficialWarehouseTV'
 organization_instagram: '@OfficialWarehouseTV'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   To provide a platform for disabled people to jump-start a career in the film
   industry where they otherwise wouldn't be able to. And to use that platform to
   educate the film industry, and other industries, about the power of
@@ -29,8 +29,8 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to CREATE
 In which areas of Los Angeles will you be directly working?:
   - Burbank
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   This is our immediate response to the fact that 85% of deaf kids don’t have
   families who sign. As a deaf person we grew up witnessing firsthand the
   damages lack of access can have on a person. Secondly, many studies prove that
@@ -40,7 +40,7 @@ What is the need you’re responding to?: >-
   words or expressing feelings allows them to further develop their emotional
   maturity. In merging both demographics, we aim to fill in the gap for those
   who are deaf, nonverbal, and visual/tactile learners. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Warehouse TV is run by deaf people from very different backgrounds who have
   firsthand experience in this and are invested mind, body, and soul in this
   cause. Warehouse TV being run by deaf people means we all are bilingual as
@@ -59,7 +59,7 @@ Why is this project important to the work of your organization?: >-
   acquired a large arsenal of filming and photography equipment available to us
   at moment's notice, a dedicated studio space in Burbank, and a wonderful team
   of experienced filmmakers.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   When our project makes it into classrooms in schools nationwide as educational
   materials, and developing long-lasting partnerships with other organizations
   with a common goal, like LEAD-K, is our ultimate metric of success. 
@@ -69,9 +69,9 @@ Please explain how you will define and measure success for your project.: >-
   with the tools to understand the world around them even if they live in a
   household with limited communication. Having children thrive in life making
   educated choices is the very core of what we hope to succeed. 
-Approximately how many people will be directly impacted by this proposal?: '800000'
-Approximately how many people will be indirectly impacted by this proposal?: '1000000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '800000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '1000000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The target audience of this series is both for children whether they be deaf
   or hearing, and for parents who need to learn sign language and have a way to
   connect with their children through the language. There are at least 800,000
@@ -87,14 +87,14 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - 'Arts establishments, instillations, and exhibitions'
   - Employment in the creative industries
   - Minority- and women-owned businesses
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CONNECT
-year: 2020
+year: 2021
 category: create
 filename: warehouse-tv
 order: 44

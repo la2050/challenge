@@ -19,7 +19,7 @@ organization_website: 'https://www.tiachucha.org'
 organization_twitter: '@TiaChucha'
 organization_facebook: 'https://www.facebook.com/TiaChuchasCentroCultural/'
 organization_instagram: '@tiachuchas'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Tia Chucha’s Centro Cultural & Bookstore transforms community in the Northeast
   San Fernando Valley and beyond through ancestral knowledge, arts, literacy,
   and creative engagement. We provide a positive space for people to activate
@@ -36,10 +36,10 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to CONNECT
 In which areas of Los Angeles will you be directly working?:
   - San Fernando Valley
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Our project highlights Indigenous-based arts and wellness practices for
   self-care and community-care at a time when they are much-needed. Many people
   are not aware of the significance of these ancestral practices, even while
@@ -53,7 +53,7 @@ What is the need you’re responding to?: >-
   own indigenous traditions that have been disrupted by a history of
   colonization while reminding all people of their shared humanity and diversity
   as expressed in indigenous practices.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Our practice is rooted in the recognition of the indigenous mindset. This
   project embodies our lived mission of honoring ancestral knowledge and delves
   into the rich history that is the source of today’s expressions of ancestral
@@ -68,7 +68,7 @@ Why is this project important to the work of your organization?: >-
   within the present actualities of modern life and culture so that every
   person, every family and every community can live deeply rooted, meaningful
   and purposeful lives.” 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   In collaboration with Pukuu Cultural Community Center, we see that our
   history, customs, cultural and ancestral knowledge gives us the tools and
   skills to remedy and recover what was lost during colonization, and build the
@@ -89,9 +89,9 @@ Please explain how you will define and measure success for your project.: >-
   within through bridging, connecting, and sharing with the greater community of
   Los Angeles that we are present with ancestral knowledge that can help us live
   more meaningful lives. 
-Approximately how many people will be directly impacted by this proposal?: '1500'
-Approximately how many people will be indirectly impacted by this proposal?: '4000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1500'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '4000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The majority of our community are immigrant residents from Mexico and other
   Central American countries traumatized by poverty, war and violence. Poverty,
   low education levels and depression are widespread in our service area.
@@ -102,7 +102,7 @@ Please describe the broader impact of your proposal.: >-
   who could benefit from them most. Bringing awareness to indigenous and native
   communities in the Northeast San Fernando Valley and brings cultural equity
   and inclusion to the forefront of the diverse LA demographic. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Pukúu Cultural Community Services, a non-profit based in San Fernando, is
   joining Tia Chuchas as a partner to provide health, wellness, & cultural
   empowerment to our communities via providing venue space, joint programming, &
@@ -120,13 +120,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Office space for meetings, events, or for staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: Pukuu Cultural Community Services
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Public arts and cultural events
   - Immigrant integration
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: connect
 filename: tia-chuchas-centro-cultural-bookstore
 order: 60

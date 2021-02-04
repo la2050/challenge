@@ -17,7 +17,7 @@ organization_website: 'https://www.CollegeMomsProject.org'
 organization_twitter: ''
 organization_facebook: 'https://www.facebook.com/CollegeMomsProject/'
 organization_instagram: ''
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Only 1.5% of women who give birth as teens ever graduate from college. The
   mission of the College Moms Project is to ensure that teen mothers finish high
   school and graduate from college at the same rates as non-parenting women,
@@ -48,10 +48,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   The College Moms Project was created when a student in the Educational Talent
   Search program at USC became pregnant and dropped out of school. We spent more
   than a year formally studying the challenges that young mothers hoping to
@@ -68,7 +68,7 @@ What is the need you’re responding to?: >-
   college for free. But learning the system at any one campus is an overwhelming
   challenge for teens. By working with many agencies, we created a single-source
   solution that provides everything from tuition payments to child care. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   It's time for us to dramatically expand the program we've researched and
   developed over the last three years. We believe we're the only nonprofit in
   the country dedicated exclusively to putting teen mothers into college and
@@ -87,7 +87,7 @@ Why is this project important to the work of your organization?: >-
   first-generation, inner-city students into college. We've now built on that
   expertise an understanding of the unique needs of young mothers who hope to
   complete their education.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Our current project involves expanding operations to serve many more teen
   mothers, and our success will continue to be measured by the number of
   pregnant and parenting students we engage in our mentorship networks.
@@ -114,9 +114,9 @@ Please explain how you will define and measure success for your project.: >
   with would pursue higher education on their own. We help the students complete
   high school, enroll in community college, receive the support services they
   need, and complete their certificate programs or college degrees.
-Approximately how many people will be directly impacted by this proposal?: '400'
-Approximately how many people will be indirectly impacted by this proposal?: '1000'
-Please describe the broader impact of your proposal.: >+
+Approximately how many people will be directly impacted by this project, program, or initiative?: '400'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '1000'
+Describe how Los Angeles County will be different if your work is successful.: >+
   We know from studies conducted by reputable organizations (principally, the
   Institute for Women's Policy Research), that educating young mothers lifts
   generations of family members out of poverty. Every impoverished single mother
@@ -130,7 +130,7 @@ Please describe the broader impact of your proposal.: >+
   them toward education pathways that allow them to become independent adults
   and to raise their children in a dignified manner.
 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Our partner organizations can be divided into three categories:
 
 
@@ -174,13 +174,13 @@ Please list the organizations collaborating on this proposal.:
   - including
   - Capital Group
   - Google and Apple.
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - College graduates
   - College matriculation
   - High school graduation rates
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CONNECT
-year: 2020
+year: 2021
 category: learn
 filename: college-moms-project
 order: 18

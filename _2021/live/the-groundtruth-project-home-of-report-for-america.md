@@ -17,7 +17,7 @@ organization_website: 'http://www.reportforamerica.org'
 organization_twitter: '@report4america'
 organization_facebook: 'https://www.facebook.com/Report4America/'
 organization_instagram: '@report4america'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Report for America, an initiative of The GroundTruth Project, matches talented
   journalists with local newsrooms from California to Connecticut for 1-2 years
   of service, reporting on under-covered challenges such as health, inequality,
@@ -39,10 +39,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Nearly 1,500 communities across the United States no longer have sufficient
   basic news and thousands must turn to hollowed out newsrooms whose reporting
   resources have been decimated.
@@ -62,7 +62,7 @@ What is the need you’re responding to?: >-
   that this disintegration of local news reporting leads to greater
   polarization, lower voter turnout, more pollution, less government
   accountability, and less trust. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Report for America, an initiative of The GroundTruth Project, matches talented
   journalists with local newsrooms from California to Connecticut for 1-2 years
   of service, reporting on under-covered challenges such as health, inequality,
@@ -79,7 +79,7 @@ Why is this project important to the work of your organization?: >-
   half of a corps members’ salary, while supporting our news partners to raise
   the other half, promoting new models for shared investment in local
   journalism.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   All of our Report for America corps members and newsroom partners are selected
   because they are filling a specific news gap. In other words, they're
   providing coverage in Los Angeles that matters in people's everyday lives and
@@ -118,9 +118,9 @@ Please explain how you will define and measure success for your project.: >-
   immigrants from many countries. We know, for example, that fewer immigrant
   students applied for state college tuition assistances out of fear that doing
   so would attract attention from immigration authorities. 
-Approximately how many people will be directly impacted by this proposal?: '50'
-Approximately how many people will be indirectly impacted by this proposal?: '2000000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '50'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '2000000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   In addition to our regular metrics and tracking, we also carefully track
   impact instances where coverage makes a difference. To date, we have seen our
   corps members' work lead to communities getting cleaner drinking water, tax
@@ -134,7 +134,7 @@ Please describe the broader impact of your proposal.: >-
   over 2M people across the Los Angeles area, and their reporting will directly
   inform efforts around environmental sustainability, homelessness and
   affordable housing, education, and more. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Our four newsroom partners on this collaboration will host our corps members
   as full-time employees, and provide them mentorship, space, editing, and
   distribution of their work. Those partners include Spectrum News 1, Long Beach
@@ -147,14 +147,14 @@ Please list the organizations collaborating on this proposal.:
   - 'Spectrum News 1, Los Angeles, CA'
   - 'Long Beach Post, Long Beach, CA'
   - 'Voice of OC, Santa Ana, CA'
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Housing affordability
   - Poverty rate
   - Resilient communities
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: the-groundtruth-project-home-of-report-for-america
 order: 52

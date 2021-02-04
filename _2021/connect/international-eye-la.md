@@ -17,7 +17,7 @@ organization_website: 'https://www.internationalEyeLA.org'
 organization_twitter: '@internationalEyeLA'
 organization_facebook: www.facebook.com/marikelinternational
 organization_instagram: ''
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   International Eye L A transforms communities through arts, culture and
   humanities. It creates opportunities for those whose creative voices have been
   muted in mainstream channels, and facilitates equitable distribution of
@@ -34,10 +34,10 @@ project_description: >
 Which LA2050 goal will your submission most impact?: LA is the best place to CONNECT
 In which areas of Los Angeles will you be directly working?:
   - South LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Amplified creative activity and community building in Leimert Park have
   resulted in its  re-discovery by the wider community.  Exciting projects such
   as renovation of the Historic Vision Theater,    a Metro Station and
@@ -52,7 +52,7 @@ What is the need you’re responding to?: >-
   asset. Curating them into a series will attract sponsors, create partnerships
   and transform this cultural asset into an economic one that also sustains the
   community's essential character.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   This project is a continuation of our organization’s mission, working with the
   community to transform Leimert Park Village from blight to prosperity.  In
   tandem with community leaders, International Eye has been deeply involved in
@@ -67,7 +67,7 @@ Why is this project important to the work of your organization?: >-
   organization's mission is to transform communities through arts, culture and
   humanities. This project embodies its mission and validates its very
   existence.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Our vision for success includes:
 
   1. Curating and presenting Leimert Park Festival Series and producing LA
@@ -100,9 +100,9 @@ Please explain how you will define and measure success for your project.: >-
 
   Evaluation tools will include survey forms, anecdotal responses, headcounts
   and logging number of repeat visitors throughout the Series. 
-Approximately how many people will be directly impacted by this proposal?: '20000'
-Approximately how many people will be indirectly impacted by this proposal?: '100000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '20000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '100000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Leimert Park is a unique, culturally rich community of authentic black arts
   and culture.  It embodies the  African Diaspora from Africa to the Caribbean,
   Europe and the Americas. However, years of shifting demographics and blight
@@ -113,7 +113,7 @@ Please describe the broader impact of your proposal.: >-
   African derived cultures and traditions. Curating a Festival Series provides
   structure, marketability  and  a way to support, market and re-imagine Leimert
   Park Village as a safe and exciting destination.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Patrick Barrow  of  Belize Caye Fest brings 30 years of production experience
   and  deep reach into the Belizean and Central American communities.
 
@@ -143,17 +143,17 @@ Please list the organizations collaborating on this proposal.:
   - Black Arts Los Angeles (Moza Cooper) Juneteenth Heritage Festival
   - Ideal Chalk ( Gloria Ing and David London ) Leimert Park Chalk Walk Festival
   - Belize Caye Fest  (Patric Barrow)
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Public arts and cultural events
   - Immigrant integration
   - Resilient communities
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the healthiest place to CONNECT
   - LA is the best place to CREATE
   - LA is the best place to PLAY
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: connect
 filename: international-eye-la
 order: 29

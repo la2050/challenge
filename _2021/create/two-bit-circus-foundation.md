@@ -17,7 +17,7 @@ organization_website: 'http://twobitcircus.org/'
 organization_twitter: ''
 organization_facebook: 'https://www.facebook.com/twobitcircusorg/'
 organization_instagram: '@twobitcircusorg'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Play with Music's mission is to connect underserved youth in LA with our
   creative industries to foster collaboration, creation & career paths.
 project_description: >-
@@ -32,10 +32,10 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to CREATE
 In which areas of Los Angeles will you be directly working?:
   - South LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Creativity, collaboration, and critical thinking are considered the most
   important skills for the 21st century, yet our schools, especially in low
   income communities, are missing the corresponding classes and programs to
@@ -45,7 +45,7 @@ What is the need you’re responding to?: >-
   enormous talent and resources of the creative industry in Los Angeles to
   students in South LA to expand their horizons with opportunities for learning,
   networking and seeding creative careers.
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   Play with Music was created solely to bring programs fostering creative career
   paths and professional collaboration to youth in communities without access to
   it. Teaming up with our new partner, Two Bit Circus Foundation (2BCF), who has
@@ -60,7 +60,7 @@ Why is this project important to the work of your organization?: >
   materials that are needed for project-based learning.   Overall, 2BCF’s
   students are 31% African American, 53% Hispanic, 1% American Indian, 6% Asian,
   and 9% Caucasian. 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Our vision for success is to provide modern, relevant, immersive programs that
   equip youth with the creative skills, support and connections they need to
   thrive in the creative industry of Los Angeles. We hope to expand our program
@@ -81,9 +81,9 @@ Please explain how you will define and measure success for your project.: >-
 
   We know we're successful when students, schools and artists ask for the
   program to come back (which has been the case since we started!)
-Approximately how many people will be directly impacted by this proposal?: '700'
-Approximately how many people will be indirectly impacted by this proposal?: '2100'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '700'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '2100'
+Describe how Los Angeles County will be different if your work is successful.: >-
   We primarily work in Watts in South Los Angeles, one of the most systemically
   underserved neighborhoods in LA county, with some of our highest crime rates,
   food insecurity and poverty levels. Our proposal brings tangible opportunities
@@ -94,7 +94,7 @@ Please describe the broader impact of your proposal.: >-
   youth of South LA. We are breaking down socio-economic barriers, cycles of
   poverty, the creativity deficit, the tech literacy gap and the injustice of
   unequal access to opportunities and creative jobs. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Play with Music brings the content and expertise of the creative program
   (bringing artists to work with students, the curriculum itself, field trips
   and internship opportunities, etc). Green Dot Public Schools is our
@@ -114,13 +114,13 @@ Please list the organizations collaborating on this proposal.:
   - Two Bit Circus Foundation
   - Play with Music Program
   - Green Dot Public Schools
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Employment in the creative industries
   - Global cultural and economic influence (“soft power”)
   - Unemployment rate
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
-year: 2020
+year: 2021
 category: create
 filename: two-bit-circus-foundation
 order: 41

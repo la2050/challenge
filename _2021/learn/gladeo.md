@@ -20,7 +20,7 @@ organization_website: 'https://www.gladeo.org'
 organization_twitter: '@gladeo_org'
 organization_facebook: 'https://www.facebook.com/gladeo.org/'
 organization_instagram: '@gladeo_org'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Gladeo’s inclusive, next-gen career exploration platform prepares learners for
   the future of work by providing free, online access to high-quality career
   guidance for upwardly-mobile middle- & high-skill careers. We’re building a
@@ -39,12 +39,12 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Applying a proven model or solution to a new issue or sector (e.g, using a job
   recruiting software or strategy to match clients to supportive housing sites,
   applying demonstrated strategies from advocating for college affordability to
   advocating for housing affordability and homelessness, etc.)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Data shows that the major barriers to fulfilling the promise of green jobs are
   not lack of training programs or skilled workforce, but rather a time-delay
   skills mismatch (i.e., a rapidly changing industry’s workforce needs outpacing
@@ -59,7 +59,7 @@ What is the need you’re responding to?: >-
   industry-vetted information directly with learners in a way that’s
   cost-effective, sustainable, and adaptable to the long-term needs of a
   continuously changing industry.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Our project possesses significant cost effectiveness and outsized impact
   potential because it leverages Gladeo’s existing career exploration platform
   (www.gladeo.org), an existing user base, and an extensive library of career
@@ -73,7 +73,7 @@ Why is this project important to the work of your organization?: >-
   career centers, and job training programs like Job Corps, we will achieve
   system-wide distribution of our free resource across the LA region, ensuring
   that we reach our target audience efficiently and effectively.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Outcome #1 (Awareness): To expand career awareness for low-income and
   first-generation students to “green career” paths in the LA region.
 
@@ -114,9 +114,9 @@ Please explain how you will define and measure success for your project.: >-
   Short-Term: Upon completion (or within 6 months) of your training program, did
   you gain employment in a green job that you otherwise would not have been
   qualified for? 
-Approximately how many people will be directly impacted by this proposal?: '75000'
-Approximately how many people will be indirectly impacted by this proposal?: '500000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '75000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '500000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Our project will help fulfill the promise that “green jobs” will rebuild the
   stock of solid middle-class jobs in America. Our regional microsite “Green
   Careers in Los Angeles” will serve as a model for future regional green job
@@ -130,7 +130,7 @@ Please describe the broader impact of your proposal.: >-
   Entering the workforce with a level of job readiness will reduce attrition and
   increase job performance, which thereby contributes to productivity,
   efficiency and economic growth.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   A major barrier to fulfilling the promise of green jobs is the ability to link
   quality career training and placement programs directly with job
   opportunities. LACI ( https://laincubator.org/apcfellowship/) closes the loop
@@ -157,13 +157,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: LACI - Los Angeles Cleantech Incubator
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - College matriculation
   - High school graduation rates
   - Community college completion
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CONNECT
-year: 2020
+year: 2021
 category: learn
 filename: gladeo
 order: 36

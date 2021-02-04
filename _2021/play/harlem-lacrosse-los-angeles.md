@@ -17,7 +17,7 @@ organization_website: 'https://www.harlemlacrosse.org'
 organization_twitter: '@harlemlacrosse @HLLAMarissa'
 organization_facebook: '@harlemlacrosseLA'
 organization_instagram: '@harlemlacrosse_LA @harlem_lacrosse'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Harlem Lacrosse - Los Angeles uses an innovative, school-based model to
   challenge student-athletes to Aim High.  HL-LA is a sports-based youth
   development organization that provides opportunities, relationships and
@@ -35,10 +35,10 @@ Which LA2050 goal will your submission most impact?: LA is the best place to PLA
 In which areas of Los Angeles will you be directly working?:
   - South LA
   - 'Compton, Inglewood'
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   In LA, a student’s access to high-quality athletic and extracurricular
   activities is almost exclusively dictated by zip code. While lacrosse is the
   fastest growing sport in America, its growth has barely penetrated the
@@ -52,7 +52,7 @@ What is the need you’re responding to?: >-
   fewer programs and tools at their disposal than their more affluent peers.
   HL-LA levels the playing field by ensuring all participants can be part of a
   team, compete, and have fun while learning valuable life lessons.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Students in low-income urban schools face many challenges and HL-LA’s unique
   model is particularly well-suited to meet those specific needs by providing
   opportunities, relationships, and experiences to put youth on personal
@@ -67,7 +67,7 @@ Why is this project important to the work of your organization?: >-
   trust. Harlem Lacrosse players access many opportunities beyond the field,
   like career counseling, college and HS admissions assistance, and academic
   support to help them meet their goals.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   At Harlem Lacrosse – Los Angeles, we often witness transformations.  We watch
   as a shy 6th grader evolves into a vocal leader and team captain; we celebrate
   as a nervous beginner overflows with confidence and joy after making her first
@@ -94,9 +94,9 @@ Please explain how you will define and measure success for your project.: >-
   were: increases in GPA and attendance, fewer suspensions, and impressive
   independent school and college acceptances. The most recent report can be
   found here: https://www.harlemlacrosse.org/impact
-Approximately how many people will be directly impacted by this proposal?: '250'
-Approximately how many people will be indirectly impacted by this proposal?: '1200'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '250'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '1200'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Harlem Lacrosse uses the power of play to break the cycle of generational
   poverty. We provide high-quality sports, academic support, and enrichment
   experiences after-school, on weekends, and throughout the summer. It is during
@@ -109,7 +109,7 @@ Please describe the broader impact of your proposal.: >-
   children to Aim High: planning for a bright tomorrow while working hard on the
   field and in the classroom today. Our lacrosse programming builds confidence,
   teamwork, and perseverance.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Harlem Lacrosse is not submitting a collaborative proposal, but our work would
   not be possible without the important contributions of our program partners
   and our local advisory board. Harlem Lacrosse works alongside the staff at
@@ -124,13 +124,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Youth sports participation
   - Prevalence of trauma and adverse childhood experiences
   - Access to open space and park facilities
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
-year: 2020
+year: 2021
 category: play
 filename: harlem-lacrosse-los-angeles
 order: 10

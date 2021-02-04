@@ -17,7 +17,7 @@ organization_website: 'https://www.thealliance.media'
 organization_twitter: '@ALLIANCE_arts'
 organization_facebook: 'https://www.facebook.com/Alliancearts/'
 organization_instagram: '@alliance_arts'
-Please describe the mission of your organization.: >
+Describe the mission of your organization.: >
   The Alliance for Media Arts + Culture facilitates collaboration, innovation
   and cultural impact for the media arts field. The Alliance is a network of
   networks; we embolden creative media organizations + artists and connect them
@@ -39,8 +39,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   Arts2Work is a jobs program for storytellers; we are building a world where
   #oscarssowhite is a thing of the past, and the power of the #metoo movement
   has led to a new generation of women leaders in media. There is no reason that
@@ -54,7 +54,7 @@ What is the need you’re responding to?: >-
   Hollywood, as well as other marginalized groups across the industry. The need
   for mentored training for low-income creative workers as well as support for
   employers in this critical reshaping of the industry has never been greater. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   The Alliance has been a leading media industry member organization for 40
   years. Since its founding in California, The Alliance has worked to raise the
   profile and influence of the media arts field on behalf of independent
@@ -69,7 +69,7 @@ Why is this project important to the work of your organization?: >-
   are ready and working. Coronavirus has decimated our industry, and Arts2Work
   can help build us back with federal workforce investments and incentives for
   industry partners.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Our vision for success for Arts2Work LA includes building a strong foundation
   for a bold new ecosystem where low-income youth, black and brown artists,
   women, LGBTQ & disabled communities have equal access to sustainable, living
@@ -111,9 +111,9 @@ Please explain how you will define and measure success for your project.: >-
   The biggest impact we can have is to create the conditions in Los Angeles
   where those most often excluded have new and lasting access to living wage
   creative careers. 
-Approximately how many people will be directly impacted by this proposal?: '525'
-Approximately how many people will be indirectly impacted by this proposal?: '3000'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '525'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '3000'
+Describe how Los Angeles County will be different if your work is successful.: >
   Arts2Work is a systems-change initiative. More than a jobs program for
   under-represented, above-the-line creative workers, Arts2Work is designed to
   empower innovation and equity in business, creative entrepreneurship &
@@ -124,7 +124,7 @@ Please describe the broader impact of your proposal.: >
   network that includes lifelong learning, grants for creative projects,
   mentorship, and entrepreneurship training. Beyond the grant period, Arts2Work
   can support LA with a sustainable, inclusive model of creative change.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+'Describe the role of collaborating organizations on this project.': >
   Better Youth is a creative youth development agency in LA. Since 2008, they
   have served over 12,000 young people through classes, workshops, film
   festivals, mentorship and career training. Better Youth is an
@@ -143,13 +143,13 @@ Which of LA2050’s resources will be of the most value to you?:
 Please list the organizations collaborating on this proposal.:
   - Venice Arts
   - Better Youth
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Employment in the creative industries
   - Income inequality
   - Minority- and women-owned businesses
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
-year: 2020
+year: 2021
 category: create
 filename: the-alliance-for-media-arts-culture
 order: 37

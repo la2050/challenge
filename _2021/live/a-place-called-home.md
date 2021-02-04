@@ -17,7 +17,7 @@ organization_website: 'https://www.apch.org'
 organization_twitter: '@apch2830'
 organization_facebook: facebook.com/APCH2830
 organization_instagram: '@apch2830'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   A Place Called Home provides a safe, nurturing environment with proven
   programs in arts, education and wellness for young people in South Central Los
   Angeles to help them improve their economic conditions and develop healthy,
@@ -34,10 +34,10 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to LIVE
 In which areas of Los Angeles will you be directly working?:
   - South LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Mental health is a multifaceted aspect of wellness affected by many factors.
   At A Place Called Home, we take them all into account. We are based in one of
   the most impoverished neighborhoods in South LA, where 40% of residents over
@@ -52,7 +52,7 @@ What is the need you’re responding to?: >-
   stigma. The National Institutes of Health report that Latinos experience
   socioeconomic barriers because of language, acculturation and immigration
   status. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   A Place Called Home is distinctive for its holistic “Whole Child” approach
   addressing multiple areas of need to improve wellness, from physical and
   mental health to food insecurity to socioemotional development. For 26 years,
@@ -67,7 +67,7 @@ Why is this project important to the work of your organization?: >-
   Since inception, we have served more than 20,000 youth and families and
   another 150,000 community members through supportive services and neighborhood
   events. 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   We are living through a public health crisis. Supporting the long-term mental
   health and wellness of underserved children is more important than ever. By
   the end of the year, A Place Called Home will provide 20,000 hours of free
@@ -88,9 +88,9 @@ Please explain how you will define and measure success for your project.: >-
   reduced likelihood of involvement in the juvenile justice system; and 4)
   members can take full ownership of their lives, and feel empowered to make a
   difference in their communities and in the world. 
-Approximately how many people will be directly impacted by this proposal?: '1000'
-Approximately how many people will be indirectly impacted by this proposal?: '10000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '10000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Current evidence suggests that low-income communities like ours will be the
   hardest hit by the Coronavirus pandemic. In addition to the greater economic
   impacts to the region, the closing of LAUSD schools means that low-income
@@ -106,14 +106,14 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Food insecurity
   - Mental illness
   - Access to mental health services
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: a-place-called-home
 order: 0

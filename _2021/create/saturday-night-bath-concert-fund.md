@@ -20,7 +20,7 @@ organization_twitter: '@SNBMusic'
 organization_facebook: >-
   https://www.facebook.com/SaturdayNightBath/?eid=ARDBybEH7aty9sJnyKPRHiE7MB7L1x9FqDRE04j5jNVpdvpCU9fx4ajdQ4Xo2uQGO50BDSY325FTDWEM
 organization_instagram: ''
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Saturday Night Bath is dedicated to the performance of the art of American
   Jazz and Blues.  Our mission is to write and perform music-and to educate,
   improve and impact the lives.  We encourage our audiences to finish high
@@ -39,12 +39,12 @@ In which areas of Los Angeles will you be directly working?:
   - San Gabriel Valley
   - San Fernando Valley
   - South Bay
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: "We go directly into the classroom or small courtyards. Selections include original as well as traditional Blues compositions of the 1900's. Material describes current life in LA. Three educational prompts are mailed.  Students are coached and encouraged to join the ensemble with instrumental accompaniment on rock & roll or “free-style” or “flow” Rap. Signs are held up so that the names can be remembered; those who remember 10-things that we talk about win a harmonica;\nWe will reach approximately 300 “last-chance” students. They are in dire need of our care and inspiration. The program directly affects the lives of the students and their families, by bringing art, communication, and camaraderie in school to those who are at risk of falling prey to negative situations.\n          \tClassroom as well as neighborhood art alliances and friendships arise. These include singing, poetry, instrumental and poetry appreciation, and amateur performing groups"
-Why is this project important to the work of your organization?: "Since 1986 we have performed 550-concerts in schools and detention facilities connecting with over 41,000 at-risk youth, essentially one-at-a-time. Opportunities to perform and compose simple songs are strongly encouraged. During each concert, music is paused in order to describe the origins of the musical instruments, the elemental mechanics, the inventors, and some famous contemporary players.    \n     \tThe LA County Arts Commission became our first sponsor in 1986. The Musicians Union Local #47 (LA) and the Recording Industries Music Performance Fund (NY) continue to give us annual co-sponsor allocations that cover 35% of our musician’s concert wages.  We received 3-year Cal Arts Council (CAC) Multi-Cultural Entry Level grants in 1995, ’98 and 2001, and an Impact grant in 2004; their Exemplary Arts Education Partnership Grant greatly expanded our separate acoustic lecture visits. The City of LA Department of Cultural Affairs has funded our program since 1991. \n"
-Please explain how you will define and measure success for your project.: >-
+What is the problem that you are seeking to address?: "We go directly into the classroom or small courtyards. Selections include original as well as traditional Blues compositions of the 1900's. Material describes current life in LA. Three educational prompts are mailed.  Students are coached and encouraged to join the ensemble with instrumental accompaniment on rock & roll or “free-style” or “flow” Rap. Signs are held up so that the names can be remembered; those who remember 10-things that we talk about win a harmonica;\nWe will reach approximately 300 “last-chance” students. They are in dire need of our care and inspiration. The program directly affects the lives of the students and their families, by bringing art, communication, and camaraderie in school to those who are at risk of falling prey to negative situations.\n          \tClassroom as well as neighborhood art alliances and friendships arise. These include singing, poetry, instrumental and poetry appreciation, and amateur performing groups"
+Describe the project, program, or initiative that this grant will support to address the problem identified.: "Since 1986 we have performed 550-concerts in schools and detention facilities connecting with over 41,000 at-risk youth, essentially one-at-a-time. Opportunities to perform and compose simple songs are strongly encouraged. During each concert, music is paused in order to describe the origins of the musical instruments, the elemental mechanics, the inventors, and some famous contemporary players.    \n     \tThe LA County Arts Commission became our first sponsor in 1986. The Musicians Union Local #47 (LA) and the Recording Industries Music Performance Fund (NY) continue to give us annual co-sponsor allocations that cover 35% of our musician’s concert wages.  We received 3-year Cal Arts Council (CAC) Multi-Cultural Entry Level grants in 1995, ’98 and 2001, and an Impact grant in 2004; their Exemplary Arts Education Partnership Grant greatly expanded our separate acoustic lecture visits. The City of LA Department of Cultural Affairs has funded our program since 1991. \n"
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   3-questionnaires are given to the Principals to be returned to SNB. They
   simply ask: a) the music styles perceived, and the instrument names that are
   remembered, b) the % increase in social, verbal, student, and song
@@ -60,9 +60,9 @@ Please explain how you will define and measure success for your project.: >-
   (CST) survey that asks about performer-students and their art study plans,
   along with a printed referral list. We give written referral letters of
   recommendation accordingly. 
-Approximately how many people will be directly impacted by this proposal?: '325'
-Approximately how many people will be indirectly impacted by this proposal?: '900'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '325'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '900'
+Describe how Los Angeles County will be different if your work is successful.: >
   The impact of this grant will inspire, motivate, and educate young people by
   direct contact with musicians and live popular music.  Referrals will be
   systematically updated and sent in the ensuing months.  We will also give a
@@ -80,13 +80,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - 'Arts establishments, instillations, and exhibitions'
   - Global cultural and economic influence (“soft power”)
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to PLAY
   - LA is the best place to CONNECT
-year: 2020
+year: 2021
 category: create
 filename: saturday-night-bath-concert-fund
 order: 33

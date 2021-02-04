@@ -17,7 +17,7 @@ organization_website: 'https://www.peoplesyoga.org'
 organization_twitter: ''
 organization_facebook: 'https://www.facebook.com/PeoplesYogaStudio/'
 organization_instagram: '@peoplesyoga'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   People’s Yoga is a woman-owned, community yoga studio dedicated to making
   health and wellness an accessible, inclusive, sustainable reality for all -
   regardless of income, language, gender, place of birth, body type, age, skin
@@ -39,10 +39,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Now more than ever diverse communities not only need access to health and
   wellness opportunities, they also need culturally relevant and competent
   practitioners. Unfortunately, there are many barriers for underserved
@@ -56,7 +56,7 @@ What is the need you’re responding to?: >-
   able to grow our impact by expanding our yoga teacher training program to
   offer more scholarship opportunities and community-focused yoga training like
   family yoga, yoga en español, and prenatal/postnatal yoga
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   For the past three years, People’s Yoga has successfully offered Yoga Teacher
   training to the greater Los Angeles area and beyond. Our 200-Hour training
   course offers a mindful and community focused approach to bridging yoga with
@@ -70,7 +70,7 @@ Why is this project important to the work of your organization?: >-
   limited to no options are available. Many of our graduates have returned to
   People’s Yoga to offer donation based yoga classes in our studio and free
   classes through our community partnerships.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   In the short term, we plan to train 50 new yoga teachers and offer six
   continuing education opportunities to approximately 120 existing yoga teachers
   by the end of the grant period. In the long term, we aim to have 50 new yoga
@@ -95,9 +95,9 @@ Please explain how you will define and measure success for your project.: >
   -Establish 5-10 partnerships with community-based organizations and
   non-profits to offer yoga classes to their staff and/or participants.
   (MOU/contract agreements with partner organizations) 
-Approximately how many people will be directly impacted by this proposal?: '170'
-Approximately how many people will be indirectly impacted by this proposal?: '2500'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '170'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '2500'
+Describe how Los Angeles County will be different if your work is successful.: >-
   There has been a self-care boom in popular society in recent years. All over
   social media you can learn about the importance of self-care and wellness.
   Unfortunately, access is a major barrier for low income communities of color
@@ -116,11 +116,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - Strategy assistance and implementation
   - Space for yoga trainings
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Employment in the creative industries
   - Minority- and women-owned businesses
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your project will impact.: []
+year: 2021
 category: create
 filename: peoples-yoga
 order: 28

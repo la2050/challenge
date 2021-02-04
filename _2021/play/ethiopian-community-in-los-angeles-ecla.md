@@ -17,7 +17,7 @@ organization_website: 'https://www.eclosangeles.org'
 organization_twitter: '@EthiopianLos'
 organization_facebook: Ethiopian Community Los Angeles - Nonprofit Organization
 organization_instagram: ''
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Whereas Sports is a universally accepted outlet for human longevity; my
   organizational mission is to establish the unifying & amplifying marathon
   running to benefit the overall health & wellness of the marginalized
@@ -40,8 +40,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   The context of my “Marathon Project” is very clear.  Whereas sports in general
   has been universally recognized as a unifier of communities, nations & the
   world; it has also been proven as a guarantor of physical, mental & emotional
@@ -56,7 +56,7 @@ What is the need you’re responding to?: >-
   marginalized communities to participate in a newly established marathon
   running program, which plans to diligently train them to successfully complete
   the Los Angeles Marathon. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Whereas two of the missions of the Ethiopian Community in Los Angeles as an
   all-inclusive organization are its commitment to address social issues &
   collaboratively work with other community organizations toward these ends;
@@ -74,7 +74,7 @@ Why is this project important to the work of your organization?: >-
   ambassadorship & community activism, successfully completed 68 marathons/85
   half marathons), along with his  & his esteemed Sports Consulting Group, makes
   this project the preeminently quintessential project.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   This project is envisioned to elevate the marginalized Ethiopian, other
   African and African-American communities from abysmal levels of unhealthy
   lifestyles, by successfully establishing and maintaining an annual "Marathon
@@ -96,9 +96,9 @@ Please explain how you will define and measure success for your project.: >-
   participation per member, before/after program lifestyle changes, etc).  If
   project is renewed, it will also be possible to track retention levels over
   multiple years.
-Approximately how many people will be directly impacted by this proposal?: '100'
-Approximately how many people will be indirectly impacted by this proposal?: '3000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '100'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '3000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   In addition to the directly specific, and life enhancing  impact this project
   is going to have on the marathon participants themselves, the broader impact
   will be felt throughout the indirect beneficiaries of all three target
@@ -109,7 +109,7 @@ Please describe the broader impact of your proposal.: >-
   statistical outcomes recorded in the fight against various mental, diabetes,
   obesity, high blood pressure & other related illness levels in the city of Los
   Angeles for a 1 year period (before & after effects).
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   The Marathon Project is indeed a collaborative proposal, unilaterally
   spearheaded by Iyob Tessema & his organization: LA ENDURANCE SPORTING GROUP.
   Reporting to the Ethiopian Community in Los Angeles (ECLA), he is tasked with
@@ -130,13 +130,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - Strategy assistance and implementation
   - access/exposure to voters
 Please list the organizations collaborating on this proposal.: LA ENDURANCE SPORTS CONSULTING
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Obesity
   - Youth sports participation
   - Access to open space and park facilities
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: play
 filename: ethiopian-community-in-los-angeles-ecla
 order: 8

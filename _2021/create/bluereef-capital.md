@@ -17,7 +17,7 @@ organization_website: 'https://www.bluereefcapital.com/'
 organization_twitter: ''
 organization_facebook: ''
 organization_instagram: ''
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   BlueReef Capital, a for-profit Hispanic owned organization, strives to offer
   quality financial advice and access to financial products primarily in
   Hispanic communities in the LA area. We want to help our communities through
@@ -36,8 +36,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   Hispanics account for nearly 16% of the U.S. population which is approximately
   52 million people. In the US there are about 86,278 certified CFP 
   professionals (financial planners) but less than 2%(1725 nationwide) of them
@@ -50,7 +50,7 @@ What is the need you’re responding to?: >-
   help us fast-track our reach to small Hispanic business owners. We would like
   to give them the right tools and plan to create financial stability, manage
   risk and conserve any wealth and jobs created.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   We have 3 unique characteristics that make us believe we could make a large
   impact. First, between the two founding members of BlueReef, we have over 30
   years of experience in financial planning for businesses and families,
@@ -64,7 +64,7 @@ Why is this project important to the work of your organization?: >-
   valid now than ever before, with an ever-changing world we are experiencing
   financial challenges that without the right preparation could cause much pain
   in our communities. Education and planning is the key to long term stability. 
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Although our project has medium to long term benefits, the short term metrics
   of success are going to be measured in terms of:
 
@@ -82,9 +82,9 @@ Please explain how you will define and measure success for your project.: >
 
   For us, success is to see businesses and families thrive and grow even in
   tough times like the one we are living now. 
-Approximately how many people will be directly impacted by this proposal?: ''
-Approximately how many people will be indirectly impacted by this proposal?: ''
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: ''
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: ''
+Describe how Los Angeles County will be different if your work is successful.: >
   Our direct impact is going to be on the population being served. Hispanics
   make-up half of the LA County  and improving their lives, as well as anyone
   that would benefit from our offerings, will have a significant impact on the
@@ -102,12 +102,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Income inequality
   - Minority- and women-owned businesses
   - Access to banks and financial institutions
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your project will impact.: []
+year: 2021
 category: create
 filename: bluereef-capital
 order: 4

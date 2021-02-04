@@ -17,7 +17,7 @@ organization_website: 'https://www.ethosdna.com'
 organization_twitter: ''
 organization_facebook: ''
 organization_instagram: '@ethosdna'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Halt is a company dedicated to empowering the city through long-term
   sustainable and dynamic infrastructural technologies. Out first project dubbed
   "halt smart meter" is the most advanced parking meter that packs a multitude
@@ -33,8 +33,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   1. 
 
   Currently the parking system adopted by cities are not designed to scale.
@@ -65,7 +65,7 @@ What is the need you’re responding to?: >-
 
   In this vein; the needs we address are safely, connectivity, ease of access
   and convenience.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   This project is necessary because of the several new features and technologies
   integrate into the market. Assisting the city in not only boosting revenue,
   but also having all the tools and necessary analytics to design cities more
@@ -85,7 +85,7 @@ Why is this project important to the work of your organization?: >-
 
   With our technology, we are able to enforce touch-less prompts and experiences
   while protecting the overall health of residents.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Our goal is to help the city be ahead of the curve. To assist the city in
   creating a unified system where essential necessity-based deployable
   technologies can communicate with each other. 
@@ -94,9 +94,9 @@ Please explain how you will define and measure success for your project.: >-
   Once these devices can communicate with each other, they can be widely
   leverage to improve how we think of such systems during infrastructural
   development, connectivity and even landscaping.
-Approximately how many people will be directly impacted by this proposal?: '5000'
-Approximately how many people will be indirectly impacted by this proposal?: '10000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '5000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '10000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Over 30% of the cities land is dedicated to parking. With the halt smart
   meter, we have features such as on street validation. Where residents can
   visit affiliate partners and redeem parking points to validate their
@@ -119,16 +119,16 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Internet access
   - Public arts and cultural events
   - Public transit ridership
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CREATE
   - LA is the best place to PLAY
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: connect
 filename: ethosdna
 order: 17

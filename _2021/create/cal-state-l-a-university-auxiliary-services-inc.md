@@ -17,7 +17,7 @@ organization_website: 'https://labiospace.calstatela.edu/'
 organization_twitter: '@LABioSpace'
 organization_facebook: 'https://www.facebook.com/CalStateLA/'
 organization_instagram: '@calstatela'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Our mission is to create innovative, category-defining life science startups
   within the vibrant and supportive environment of Cal State LA. LA BioSpace
   provides diverse biomedical entrepreneurs the programming and capacity to turn
@@ -36,10 +36,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   LA BioSpace is located at Cal State LA on the east side of Los Angeles and
   serves culturally diverse bioentrepreneurs who typically lack access to the
   resources and networks of biotech centers like Boston and San Francisco. Of
@@ -56,7 +56,7 @@ What is the need you’re responding to?: >-
   approximately 20 entrepreneurs. The LA 2050 award would provide LA BioSpace
   the necessary resources to help scale LA BioStart and make it accessible
   across LA County. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Cal State LA was selected by the Coalition of Urban & Metropolitan
   Universities to uplift the economies of communities across the nation. We are
   committed to fostering a thriving and progressive region through meaningful
@@ -73,10 +73,10 @@ Why is this project important to the work of your organization?: >-
   This project enables LA BioSpace and LA BioStart to increase their ability to
   communicate and collaborate with a much larger group of entrepreneurs,
   creating more high-growth startups and economic development within LA County.
-Please explain how you will define and measure success for your project.: "Goals for the project:\n1.\tGoal 1 – develop two conferencing centers within LA BioSpace to facilitate communication and collaboration with our partners in LA County and other biotech hubs, worldwide\n2.\tGoal 2 – support LA BioStart’s goal of increasing inclusive innovation within LA County \n\nMeasuring success for Goal 1:\n*\tCentralization of LA BioStart – 90% of LA BioStart activities such as business creation, financing, and intellectual property development will be conducted at LA BioSpace \n*\tImproved collaboration – improvement in collaboration across geographically distributed partners is measured by 1) surveying collaborators and 2) measuring communication (e.g., emails, Zoom meetings) across regions  \n\nMeasuring success for Goal 2:\n*\tLA BioStart participation – the next cohort will include approximately 20 bioentrepreneurs, with approximately 2000 participating, virtually\n*\tCompany creation – approximately 10 newly incorporated high-growth startups will join the next cohort, with another 40 LA County-based companies participating, virtually \n*\tJobs – an estimated 100 new jobs will be created by LA BioStart companies (within 12-24 months post-program participation)\n*\tIntellectual property – approximately 20 new patent provisional applications will be filed by LA BioStart companies (within 12 months post-program participation)\n*\tVenture capital & grant funding – an estimated $10MM of venture capital financing and grants will be raised by LA BioStart companies (within 12 -24 months post-program participation)\n"
-Approximately how many people will be directly impacted by this proposal?: '20'
-Approximately how many people will be indirectly impacted by this proposal?: '2000'
-Please describe the broader impact of your proposal.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "Goals for the project:\n1.\tGoal 1 – develop two conferencing centers within LA BioSpace to facilitate communication and collaboration with our partners in LA County and other biotech hubs, worldwide\n2.\tGoal 2 – support LA BioStart’s goal of increasing inclusive innovation within LA County \n\nMeasuring success for Goal 1:\n*\tCentralization of LA BioStart – 90% of LA BioStart activities such as business creation, financing, and intellectual property development will be conducted at LA BioSpace \n*\tImproved collaboration – improvement in collaboration across geographically distributed partners is measured by 1) surveying collaborators and 2) measuring communication (e.g., emails, Zoom meetings) across regions  \n\nMeasuring success for Goal 2:\n*\tLA BioStart participation – the next cohort will include approximately 20 bioentrepreneurs, with approximately 2000 participating, virtually\n*\tCompany creation – approximately 10 newly incorporated high-growth startups will join the next cohort, with another 40 LA County-based companies participating, virtually \n*\tJobs – an estimated 100 new jobs will be created by LA BioStart companies (within 12-24 months post-program participation)\n*\tIntellectual property – approximately 20 new patent provisional applications will be filed by LA BioStart companies (within 12 months post-program participation)\n*\tVenture capital & grant funding – an estimated $10MM of venture capital financing and grants will be raised by LA BioStart companies (within 12 -24 months post-program participation)\n"
+Approximately how many people will be directly impacted by this project, program, or initiative?: '20'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '2000'
+Describe how Los Angeles County will be different if your work is successful.: >
   LA BioSpace wants to democratize access to training and mentorship for
   bioentrepreneurship for the culturally and economically diverse County of Los
   Angeles. In so doing, we support more entrepreneurs that create high-growth
@@ -88,7 +88,7 @@ Please describe the broader impact of your proposal.: >
   business expertise to the East Los Angeles region, virtually. Experts from the
   major world biotech hubs such as Boston and San Francisco can train and mentor
   our local startups, making entrepreneurship truly inclusive. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Biocom Institute and the Los Angeles Cleantech Incubator will work with LA
   BioSpace to help train and educate the LA BioStart Fellows, with Leadership
   and Business Fundamentals Suites of the training program, respectively. LA
@@ -112,13 +112,13 @@ Please list the organizations collaborating on this proposal.:
   - County of Los Angeles
   - CSU
   - East Los Angeles College
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Jobs per capita
   - Minority- and women-owned businesses
   - High-growth startups
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
-year: 2020
+year: 2021
 category: create
 filename: cal-state-l-a-university-auxiliary-services-inc
 order: 5

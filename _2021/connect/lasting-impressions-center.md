@@ -18,7 +18,7 @@ organization_website: 'https://lastingimpressionscenter.org/'
 organization_twitter: '@lastingimpressionscenter'
 organization_facebook: 'https://www.facebook.com/LastingImpressionsCenter/'
 organization_instagram: '@lastingimpressionscenter'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   To ensure that more people, particularly victims of violence and abuse, can
   recover from their trauma through the access to and the use of various forms
   of art therapy.
@@ -35,15 +35,15 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   We are responding to the need for mental health services and providing a
   solution to the lack of access that many Los Angeles victims' needs.  The
   context of this project is to bring together survivors, loved ones, allies and
   victims to know that we are in this together and can heal together.  Healing
   and live vibrantly discovering a healthy relationship is what we hope to
   accomplish. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   We are uniquely suited to take on this project because we have been on the
   frontlines of LA reaching victims and working with our target population to
   provide these services and have the trained and qualified staff to serve the
@@ -56,7 +56,7 @@ Why is this project important to the work of your organization?: >-
   nonprofit to provide all modalities (dance, art, music, drama and
   writing/poetry) in one place at little to no cost for the communities we
   serve.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Success for this project will be defined by the number of individuals who
   commit to reducing the number of violence and abuse cases across LA  through
   our outreach and teaching efforts.  By breaking the stigma surrounding mental
@@ -67,9 +67,9 @@ Please explain how you will define and measure success for your project.: >-
   those feelings to undertake the healing process has been proven to be less
   invasive and provide a safer environment for. Through access to creative arts
   therapy, a wider range of population will be able to approach mental health.
-Approximately how many people will be directly impacted by this proposal?: '10000'
-Approximately how many people will be indirectly impacted by this proposal?: '100000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '10000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '100000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The population we are choosing to serve is one that is often overlooked
   because it's not talked about or discussed, we want to open the gates to the
   impact of what benefits healing can provide and how to recover.  By addressing
@@ -83,14 +83,14 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - 'Capacity, including staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Public arts and cultural events
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CREATE
   - LA is the best place to PLAY
-year: 2020
+year: 2021
 category: connect
 filename: lasting-impressions-center
 order: 36

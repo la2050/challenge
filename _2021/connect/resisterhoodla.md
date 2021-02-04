@@ -17,7 +17,7 @@ organization_website: 'https://www.resisterhoodLA.org'
 organization_twitter: '@resisterhoodLA'
 organization_facebook: facebook.com/resisterhoodLA
 organization_instagram: '@resisterhoodLA'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   resisterhoodLA pairs with non-profits to curate unique volunteer opportunities
   for Angelenos. In 2017, we started our annual menstrual hygiene product drive:
   FLOWVEMBER, a family-friendly, gender-inclusive community event that combines
@@ -37,10 +37,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Since 2017, we have been producing an annual volunteer and advocacy event:
   FLOWvember: a Menstrual Product Drive & period kit building event to benefit
   our unhoused neighbors.
@@ -58,7 +58,7 @@ What is the need you’re responding to?: >-
   non-profits doing direct outreach, and inviting people with lived experience
   to share their stories, we will give volunteers a comprehensive understanding
   of this issue and equip them to participate in local solutions.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   resisterhoodLA's annual FLOWVEMBER menstrual product drive & period kit build
   event is our most impactful AND popular event, reaching over 150 volunteers
   and producing 1000 hygiene kits. These hygiene kits contain basic hygiene
@@ -77,7 +77,7 @@ Why is this project important to the work of your organization?: >-
   Our goal is to use our event planning and community organizing superpowers to
   provide opportunities for volunteers who may not be able to do street outreach
   while creating a connection to this important work.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Our plan is to host four events over the next year: August 2020, November
   2020, February 2021, May 2021. 
 
@@ -104,9 +104,9 @@ Please explain how you will define and measure success for your project.: >-
   connected with our non-profit partners throughout the year, keeping a record
   of kits distributed as well as adapting to the seasonal needs/requests of our
   unhoused neighbors.
-Approximately how many people will be directly impacted by this proposal?: '500'
-Approximately how many people will be indirectly impacted by this proposal?: '4000'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '500'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '4000'
+Describe how Los Angeles County will be different if your work is successful.: >
   At each event, we'll welcome 125-500 volunteers and train them to become
   advocates for their community. By hosting a non-profit fair, we'll introduce
   them to organizations & opportunities to broaden their impact. We'll
@@ -125,12 +125,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Volunteerism
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: connect
 filename: resisterhoodla
 order: 48

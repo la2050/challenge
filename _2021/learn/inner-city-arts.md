@@ -17,7 +17,7 @@ organization_website: 'https://www.inner-cityarts.org'
 organization_twitter: '@InnerCityArts'
 organization_facebook: 'https://www.facebook.com/innercityartsLA/'
 organization_instagram: '@innercityarts'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The mission of Inner-City Arts is to engage young people in the creative
   process in order to shape a society of creative, confident, and collaborative
   individuals. We envisions a society that honors the human capacity for
@@ -44,10 +44,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   As LAUSD’s largest and longest-standing arts education partner, Inner-City
   Arts has a front row seat to the entrenched (well-documented) problem of
   students from lowest-income communities, particularly students of color,
@@ -67,7 +67,7 @@ What is the need you’re responding to?: >-
   something big. After we make it through this crisis, let’s use virtual
   learning to dramatically scale-up our in-school day program to expand arts
   education for LAUSD students.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Inner-City Arts has been partnering with LAUSD for three decades, and we have
   extensive in-depth relationships with LAUSD teachers, administrators – we even
   have a long-standing friendship with the bus drivers’ union. At every level,
@@ -86,7 +86,7 @@ Why is this project important to the work of your organization?: >-
   For all of these reasons, we are in a unique position to successfully lead a
   large-scale, city-wide effort to make arts education more widely available via
   a combination of in-person, hands-on, and virtual learning. 
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   For us, project success is clearly measurable using the following questions –
   Are we significantly increasing the percentage of LAUSD students receiving
   arts education as part of their school day? Is the programming in which
@@ -109,9 +109,9 @@ Please explain how you will define and measure success for your project.: >
   In total, we have participated in nine comprehensive external evaluations,
   supporting our own programs and contributing to the fields of Arts Education
   and Educational Research.
-Approximately how many people will be directly impacted by this proposal?: '15000'
-Approximately how many people will be indirectly impacted by this proposal?: '150000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '15000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '150000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Our project’s intended population are students at Title 1 schools,
   prioritizing partners based on current access to arts instruction (using
   LAUSD’s Arts Equity Index). The broader impact of our proposal is that we go
@@ -128,11 +128,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: learn
 filename: inner-city-arts
 order: 39

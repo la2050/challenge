@@ -19,7 +19,7 @@ organization_website: 'https://www.refreshyouthcenter.org'
 organization_twitter: '@RycYouth'
 organization_facebook: 'https://www.facebook.com/Refresh-Youth-Center-209501842427600/'
 organization_instagram: '@ryc_youth'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Through youth development & city arts for LA, our mission is to foster
   relationships with students who face challenges that hinder progression, by
   offering structure, dedication, discipline, and motivation, leading into a
@@ -40,10 +40,10 @@ In which areas of Los Angeles will you be directly working?:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
   - Long Beach Unified School District
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Our programs are designed for students seeking to develop self-efficacy and
   trade skills, and engage with various L.A. demographics. Experts state that
   children exposed to poverty and single-parent homes are most often surrounded
@@ -57,7 +57,7 @@ What is the need you’re responding to?: >-
   mesh arts, education, career development, and mentorship to support and offer
   resources to at-risk youth. Our programs are effective because we establish
   platforms that allow our staff to relate to versatile youth and communities. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Founder La Ronda Smith is a Certified Life Coach sitting on multiple school
   boards, with a BS in Human Services (concentration in Children and Family
   Services). RYC’s Executive Director possesses 10+ years of community outreach
@@ -70,7 +70,7 @@ Why is this project important to the work of your organization?: >-
   variety of ethnic and socioeconomic backgrounds, our team are positioned to
   make a dynamic and lasting impact within our L.A. communities through our
   programs. 
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Through our programming we seek to achieve the following results:
 
   *See an improvement in grades and group participation. The majority of the
@@ -107,9 +107,9 @@ Please explain how you will define and measure success for your project.: >
   percent (34%) of the children in Los Angeles are poor, live in female-headed
   households and/or are Hispanic. Los Angeles County has been surveyed and found
   to have the highest density of poverty in the State of California. 
-Approximately how many people will be directly impacted by this proposal?: '800'
-Approximately how many people will be indirectly impacted by this proposal?: '2300'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '800'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '2300'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Through our year-round programs we will offer developmental workshops to 800
   youth, who will then participate in our special events, exhibiting their
   self-efficacy, team work, entrepreneurial, and STEAM capabilities as they host
@@ -122,7 +122,7 @@ Please describe the broader impact of your proposal.: >-
   art and social programs through unique pop-up experiences to meet the needs of
   at-risk youth and communities (or those not often exposed to artistic cultural
   experiences), creating a deep sense of community. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Dream North Entertainment is in the business of strategy consulting and
   bringing an eclectic group of versatile artists together with the common focus
   to share pop-up cultural art experiences with underrepresented youth and
@@ -140,14 +140,14 @@ Please list the organizations collaborating on this proposal.:
     Remix Music Combine Green Dot Public Schools youth program and mobile arts
     provider (through the production of Dream North Entertainment)
   - 'https://instagram.com/rmc_mobilestagetrailer?igshid=1wm6uhayfz2vk'
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - Enrollment in afterschool programs
   - Proficiency in STEM
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
   - LA is the best place to PLAY
-year: 2020
+year: 2021
 category: learn
 filename: refresh-youth-center
 order: 60

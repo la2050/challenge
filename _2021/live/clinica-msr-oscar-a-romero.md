@@ -17,7 +17,7 @@ organization_website: 'https://www.clinicaromero.com'
 organization_twitter: '@ClinicaRomero'
 organization_facebook: facebook.com/clinicaromero/
 organization_instagram: '@clinica_romero'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Our mission is to provide quality, affordable, and culturally-sensitive health
   care and other services to the underserved communities of Greater Los Angeles
   regardless of their ability to pay by upholding the legacy and tradition of
@@ -34,8 +34,8 @@ Which LA2050 goal will your submission most impact?: LA is the best place to LIV
 In which areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   Clínica Romero is located in Los Angeles County SPA 4 and serves the
   low-income, immigrant and homeless population in the area. According to the
   most recent Key Indicators of Health Report (2017), the LA County Department
@@ -49,7 +49,7 @@ What is the need you’re responding to?: >-
   patients that are at high risk of contracting COVID-19. All of our patients
   are low-income and many are employed in service industry work that does not
   allow them to work from home during the LA County "Safer at Home" quarantine.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Clinica Romero serves a high number of immigrant patients that are often
   afraid to seek care due to the risk of utilizing government programs. Clinica
   Romero has provided care to immigrant families and individuals experiencing
@@ -59,7 +59,7 @@ Why is this project important to the work of your organization?: >-
   if they are sick. We also aim to educate individuals experiencing homelessness
   on COVID-19, and provide sanitation supplies, weekly opportunities for them to
   take showers on site, and medical care as needed.
-Please explain how you will define and measure success for your project.: >+
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >+
   If funded, Clinica Romero will utilize its Electronic Health Record system to
   track services for the duration of the grant, as well as health outcomes.
   Health outcome data includes diagnostic codes which allow us to track patient
@@ -84,9 +84,9 @@ Please explain how you will define and measure success for your project.: >+
   resilience through ensuring that the most underserved residents in Los Angeles
   have access to medical and mental health care during the COVID-19 pandemic.
 
-Approximately how many people will be directly impacted by this proposal?: '350'
-Approximately how many people will be indirectly impacted by this proposal?: '12000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '350'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '12000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Clinica Romero is committed to improving access to high quality care for
   underserved patients in order to address community health issues with an
   equity lens. Through this goal, we aim to expand access to care and provide
@@ -102,11 +102,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Healthcare access
   - Resilient communities
   - Access to mental health services
-Are there any other LA2050 goal categories that your proposal will impact?: []
+Indicate any additional LA2050 goals your project will impact.: []
 Has your proposal changed due to COVID-19?: >
   As a community health clinic, Clinica Romero is on the front lines of the health emergency caused by the COVID-19 pandemic and is playing a key role in both prevention and diagnosis of the virus. Our original proposal included a response to COVID-19 and additional details are included here. Through funding received from the LA2050 challenge, we aim to:
 
@@ -121,7 +121,7 @@ Has your proposal changed due to COVID-19?: >
 
 
   Clinica Romero maintains its doors open at its two clinic sites located in the neighborhoods of Pico-Union/Westlake and Boyle Heights in Los Angeles. Only essential medical visits are being scheduled for patients at this time to ensure that they receive the care and medication they need to remain healthy. All other patients are able to access care through telehealth services and are provided education on how to access their primary care or mental health provider via a phone call or a secure video conference."
-year: 2020
+year: 2021
 category: live
 filename: clinica-msr-oscar-a-romero
 order: 6

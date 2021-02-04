@@ -17,7 +17,7 @@ organization_website: 'https://www.cleanslate-la.org/'
 organization_twitter: '@cleanslatelaorg'
 organization_facebook: 'https://www.facebook.com/CleanSlateLA'
 organization_instagram: '@cleanslateinc'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   We are a community-focused, Trauma-informed non-profit​ founded by mental
   health clinicians. We believe mental health care should be a right, not a
   privilege, for all, and we are committed to expanding access to
@@ -35,10 +35,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   We focus on organizations that serve individuals of all ages experiencing
   trauma related to: domestic violence, homelessness, incarceration,
   immigration, poverty. Our outreach shows that many organizations are not
@@ -61,7 +61,7 @@ What is the need you’re responding to?: >-
 
   Examples of organizations are: education, gang-prevention, probation/reentry,
   social services.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Since 2011, our leadership has provided training and services to over 7,500
   people in more than 50 community-based organizations. 
 
@@ -83,7 +83,7 @@ Why is this project important to the work of your organization?: >-
   We can offer these trainings despite the uncertainty created by COVID-19, as
   we have industry approval to do therapy remotely, which we believe is urgently
   needed at these organizations today.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   We will partner with ten organizations at an average of 70 participants. This
   enables 700 people serving our communities to work with a higher level of
   trauma-informed care, as well as with the tools to understand the importance
@@ -111,22 +111,22 @@ Please explain how you will define and measure success for your project.: >-
   about trauma into policies, procedures, and practices. They also report a
   better understanding of identifying the strengths of their clientele and the
   challenges they face, to tailor service plans to their specific needs.
-Approximately how many people will be directly impacted by this proposal?: '700'
-Approximately how many people will be indirectly impacted by this proposal?: '21000'
-Please describe the broader impact of your proposal.: "Trauma can be passed down through generations (ACEs study, Felitti, 1998). Trauma-informed care fosters healing and resilience, thereby mitigating transmission of trauma. Support of frontline community organizations can positively impact generations to come.\n\_\nMany organizations do not have a budget to provide training/support for staff. However, we assert that access to mental health resources must be a right, not a privilege. Programs like this help build towards a world that provides access to mental health care for all. \n\nThe health of the individual impacts the health of the community, just as the health of the community impacts the health of the individual. In this way, we strive to affect change in our society from the inside out."
+Approximately how many people will be directly impacted by this project, program, or initiative?: '700'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '21000'
+Describe how Los Angeles County will be different if your work is successful.: "Trauma can be passed down through generations (ACEs study, Felitti, 1998). Trauma-informed care fosters healing and resilience, thereby mitigating transmission of trauma. Support of frontline community organizations can positively impact generations to come.\n\_\nMany organizations do not have a budget to provide training/support for staff. However, we assert that access to mental health resources must be a right, not a privilege. Programs like this help build towards a world that provides access to mental health care for all. \n\nThe health of the individual impacts the health of the community, just as the health of the community impacts the health of the individual. In this way, we strive to affect change in our society from the inside out."
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
   - 'Office space for meetings, events, or for staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Resilient communities
   - Mental illness
   - Access to mental health services
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: cleanslate
 order: 5

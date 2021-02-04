@@ -17,7 +17,7 @@ organization_website: 'https://skyhookfoundation.org/'
 organization_twitter: '@kaj33'
 organization_facebook: '@kaj'
 organization_instagram: '@kareemabduljabbar_33'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The Skyhook Foundation's mission is to "Give kids a shot that can't be blocked
   by bringing educational STEM opportunities to underserved communities."
   Currently, the foundation fulfills its mission through its flagship program,
@@ -40,10 +40,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Quite frankly, science is not a priority in most elementary schools. By the
   time children reach middle school, they are not prepared to embark in studies
   related to STEM content areas. The results of the 2019 California State
@@ -56,7 +56,7 @@ What is the need you’re responding to?: >-
   an understanding and personal connection. We want students to build upon their
   experience at Camp Skyhook and gain a deeper understanding of STEM and
   learning creatively while exploring the outdoors. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   This project is important to us as is it provides an equal opportunity for an
   overnight residential program to all students free of cost. In collaboration
   with LAUSD-Office of Outdoor and Environmental Education (OOEE), Camp Skyhook
@@ -72,7 +72,7 @@ Why is this project important to the work of your organization?: >-
   education as limited to a formal classroom setting. However, there are types
   of learning that can best be facilitated outdoors. Where all the senses are
   enlivened.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Success is being measured by way of a two-year longitudinal study conducted by
   Occidental College. This research, a 56-school case study, is considered one
   of the most extensive and largest in the U.S. A review of pre/post evaluations
@@ -83,9 +83,9 @@ Please explain how you will define and measure success for your project.: >-
   in participants versus non-participants of Camp Skyhook. Preliminary data
   demonstrates a 28% increase in science and engineering content retention vs
   the control group.
-Approximately how many people will be directly impacted by this proposal?: '2640'
-Approximately how many people will be indirectly impacted by this proposal?: '10000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '2640'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '10000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The heart of Camp Skyhook’s work involves connecting youth to STEM content and
   nature by eliminating barriers, providing resources, and promoting outdoor
   programming as essential for aspiring to be change leaders, building healthy
@@ -96,7 +96,7 @@ Please describe the broader impact of your proposal.: >-
   and more interactive instruction in the outdoors is the key to
   transformational experiences at Camp Skyhook.  The outdoors provides
   multi-sensory options for students to learn in their own learning modality.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Our partner LAUSD-Office of Outdoor& Environmental Education has a tremendous
   role in the project. The grounds of the campsite at Clear Creek Outdoor
   Education Center are leased by the LAUSD from the U.S. National Forest. This
@@ -112,10 +112,10 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Office space for meetings, events, or for staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Proficiency in STEM
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your project will impact.: []
+year: 2021
 category: learn
 filename: skyhook-foundation
 order: 65

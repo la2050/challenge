@@ -23,7 +23,7 @@ organization_website: >-
 organization_twitter: '@CFDCNatureProj'
 organization_facebook: california.providence.org/saint-johns
 organization_instagram: '@nurture_in_nature_project'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Identify mental health issues early and intervene in a culturally responsive,
   child and family focused way.  We strive to build resiliency, foster
   empowerment and self sufficiency, growth and positive coping in order to
@@ -41,10 +41,10 @@ project_description: >
 Which LA2050 goal will your submission most impact?: LA is the best place to LIVE
 In which areas of Los Angeles will you be directly working?:
   - Westside
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   Our Goals
 
   *Bring the benefits of nature to children to improve and sustain their mental
@@ -69,7 +69,7 @@ What is the need you’re responding to?: >
   American, 5% Asian and Caucasian. Around 60% of caretakers are solely Spanish
   speaking. Despite the need as identified by BCG, and paucity of providers,
   residents are wary of mental health services. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Since 1962, CFDC has been a “Center of Excellence” providing early childhood
   intervention programs and services supporting 1,000 young children and their
   families living at or below the poverty level. Programs include Early
@@ -84,7 +84,7 @@ Why is this project important to the work of your organization?: >-
   Preschool Wellness Consultation was recently chosen by the Robert Wood Johnson
   Foundation as a bold and unique approach to building a “Culture of Health” in
   our community.
-Please explain how you will define and measure success for your project.: >+
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >+
   Short term: Decrease levels of stress, anxiety and depression, increase
   connections between caregivers and children and increase connection to
   nature.  
@@ -122,9 +122,9 @@ Please explain how you will define and measure success for your project.: >+
   Inventory (MBI) and by a 30 minute questionnaire to be developed with the Rand
   Corporation. 
 
-Approximately how many people will be directly impacted by this proposal?: '205'
-Approximately how many people will be indirectly impacted by this proposal?: '1000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '205'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '1000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Success means: 
 
   -Bringing state-of-the-art mental health services to an underserved community
@@ -143,7 +143,7 @@ Please describe the broader impact of your proposal.: >-
 
   We note that a review of 35 studies from 6 countries (Tillman et al., 2018)
   showed that nature positively impacts mental health in children and teens. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+'Describe the role of collaborating organizations on this project.': >
   -Boys and Girls Club will partner with CFDC on outings.  Since 1944, BCG has
   been giving youth what they need to succeed, currently serving 4,000+ youth
   ages 6-18 in 128 LA zip codes by providing a safe and nurturing environment. 
@@ -168,13 +168,13 @@ Please list the organizations collaborating on this proposal.:
   - Santa Monica Boys and Girls Club at Mar Vista Gardens Public Housing
   - The Rand Corporation
   - The Sierra Club
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Poverty rate
   - Resilient communities
   - Access to mental health services
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to PLAY
-year: 2020
+year: 2021
 category: live
 filename: providence-saint-johns-child-and-family-development-center
 order: 37

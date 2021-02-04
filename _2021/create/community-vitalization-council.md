@@ -17,7 +17,7 @@ organization_website: 'https://www.iba.io'
 organization_twitter: '@intlbizaccel'
 organization_facebook: '@internationalbusinessaccelerator'
 organization_instagram: '@iba.io'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The Community Vitalization Council (CiViC180) promotes community level
   economic vitality and jobs by  supporting the growth of small businesses.
   CiViC180’s signature program, the International Business Accelerator (IBA),
@@ -34,10 +34,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   There are approximately 650,000 Central Americans living in Los Angeles
   County. A first wave arrived here as refugees from a result of the civil wars
   in the 1980s.  Many of those initial refugees were given temporary protected
@@ -56,7 +56,7 @@ What is the need you’re responding to?: >
   economic ladder is to start your own business. The LACABI creates upward
   mobility for the Central American immigrants and their children by enabling
   them to create and expand their own international businesses.
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   First, we have the know-how and capacity 
 
 
@@ -82,10 +82,10 @@ Why is this project important to the work of your organization?: >
   and USC Business School. We will be working closely with Loyola Marymount
   Business School with its Personal Initiative training program. Most
   importantly, a majority of our participants are women and minority founders.
-Please explain how you will define and measure success for your project.: "Vision for success:\n\nWe are confident LACABI will be the catalyst to create a thriving small-business cluster for Central American community. The participants in this program, with their intimate knowledge of products available and tastes in both Los Angeles and Central America are in the best position to find these opportunities – from tech products to traditional ethnic food specialties.\n\nOur metrics for success will be:\n*\tNumber of participating companies (goal: 40)\n*\tNew sales created: $2 million\n*\tJobs created by participating companies (goal: 100 direct and estimated 250 indirect)\n"
-Approximately how many people will be directly impacted by this proposal?: '100'
-Approximately how many people will be indirectly impacted by this proposal?: '250'
-Please describe the broader impact of your proposal.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "Vision for success:\n\nWe are confident LACABI will be the catalyst to create a thriving small-business cluster for Central American community. The participants in this program, with their intimate knowledge of products available and tastes in both Los Angeles and Central America are in the best position to find these opportunities – from tech products to traditional ethnic food specialties.\n\nOur metrics for success will be:\n*\tNumber of participating companies (goal: 40)\n*\tNew sales created: $2 million\n*\tJobs created by participating companies (goal: 100 direct and estimated 250 indirect)\n"
+Approximately how many people will be directly impacted by this project, program, or initiative?: '100'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '250'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The LACABI will provide needed job creation, as LA recovers from the COVID
   crash. The connections exist between those of Central American heritage in Los
   Angeles and families in the region. This project creates jobs by linking the
@@ -95,7 +95,7 @@ Please describe the broader impact of your proposal.: >-
   every direct job created, it will generate 2.5 indirect jobs. This project
   will create a group of successful entrepreneurs who can branch out into other
   business opportunities and inspire others in the Central American community.  
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+'Describe the role of collaborating organizations on this project.': >
   Loyola Marymount University – The Center for International Business Education
   (CIBE) has received a $1 million grant from the US Dept. of Education. The LMU
   faculty will provide technical expertise, including its Personal Initiative
@@ -115,13 +115,13 @@ Which of LA2050’s resources will be of the most value to you?:
 Please list the organizations collaborating on this proposal.:
   - Loyola Marymount
   - USC Blackstone Launch Pad
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Global cultural and economic influence (“soft power”)
   - Minority- and women-owned businesses
   - High-growth startups
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
-year: 2020
+year: 2021
 category: create
 filename: community-vitalization-council
 order: 8

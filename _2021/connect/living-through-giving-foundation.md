@@ -17,7 +17,7 @@ organization_website: 'https://www.hashtaglunchbag.org'
 organization_twitter: ''
 organization_facebook: HashtagLunchbag
 organization_instagram: '@hashtaglunchbag'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Hashtag Lunchbag, a program of the Living Through Giving Foundation, is a
   humanitarian movement, connecting people through organized acts of love. 
   Volunteers prepare & distribute meals for people experiencing homelessness,
@@ -34,10 +34,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   There are 60,000 people experiencing homelessness throughout the County of Los
   Angeles, and upwards of 32,000 people experiencing homelessness in the City of
   Los Angeles. The Living Through Giving Foundation is committed to reaching all
@@ -52,7 +52,7 @@ What is the need you’re responding to?: >-
   homelessness, raises awareness on solutions to address food insecurity and
   homelessness, and motivates volunteers to serve. #HashtagLunchbag connects all
   Angelenos.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   #HashtagLunchbag is nearing its 8th year of connecting Angelenos from across
   the Los Angeles metropolitan area at monthly events.  On average, the
   organization creates and distributes approximately 1,600 meals to people
@@ -66,7 +66,7 @@ Why is this project important to the work of your organization?: >-
   #HashtagLunchbag seeks to increase its service capabilities to meet the rising
   need to address food insecurity throughout Los Angeles, especially for people
   experiencing homelessness.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   At each event, we maintain records of the number of meals distributed, the
   number of volunteers who participate, and the amount of donations received to
   help cover the cost of food and supplies.  In Los Angeles, on average, we
@@ -76,9 +76,9 @@ Please explain how you will define and measure success for your project.: >-
   events, with the hope that meals would be distributed in areas near their own
   homes, such as beach cities, mid city, Hollywood, Koreatown, and around
   downtown Los Angeles.
-Approximately how many people will be directly impacted by this proposal?: '50000'
-Approximately how many people will be indirectly impacted by this proposal?: '4500'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '50000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '4500'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Our impact is to address food insecurity, feed a large number of people
   experiencing homelessness in the LA area, and connect LA residents through a
   fun and interactive experience. Collectively, #HashtagLunchbag inspires and
@@ -90,12 +90,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Public arts and cultural events
   - Volunteerism
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your project will impact.: []
+year: 2021
 category: connect
 filename: living-through-giving-foundation
 order: 38

@@ -17,7 +17,7 @@ organization_website: 'https://lakhiyia.wordpress.com'
 organization_twitter: ''
 organization_facebook: ''
 organization_instagram: ''
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   HOMEplace mobilizes and sustains Survivors of Childhood Sexual Assault as
   Liberation Arts Community Health Strategists to cultivate conditions for
   intergenerational self-determinism by securing cooperatively owned and run
@@ -34,12 +34,12 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to LIVE
 In which areas of Los Angeles will you be directly working?:
   - South LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Applying a proven model or solution to a new issue or sector (e.g, using a job
   recruiting software or strategy to match clients to supportive housing sites,
   applying demonstrated strategies from advocating for college affordability to
   advocating for housing affordability and homelessness, etc.)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   People often stay in abusive situations because they do not have the resources
   to safely leave, and when they do, they find themselves un-homed and/or
   without the necessary support to rebuild healthily. Indeed, there are
@@ -54,7 +54,7 @@ What is the need you’re responding to?: >-
   Rapid Rehousing program and having been in shelters, I experienced zero
   community-building efforts. HOMEplace seeks to make all levels of Maslow’s
   Hierarchy of Needs attainable. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Lakhiyia Hicks, HOMEplace Founder/Project Manager, co-educated hundreds of
   Community Health Workers in LA County’s Department of Health Services 2018-19;
   and  previously trained C2PLA, CAC, and Planned Parenthood Peer Advocates as
@@ -70,7 +70,7 @@ Why is this project important to the work of your organization?: >-
   subsidized housing with all cis-males. Queer folks are already at risk for
   "corrective" sexual violence. When they expressed discomfort, they were told
   that the bedroom door locks. ...HOMEplace was born.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   HOMEplace: Healing Truth to Power is a public health intervention to uproot
   systemic generators of disproportionate impacts of homelessness, intimate
   partner violence, mental unwellness, incarceration, HIV/STI transmission,
@@ -110,9 +110,9 @@ Please explain how you will define and measure success for your project.: >-
   Qualitative: 
 
   Participatory Action Research monitoring and evaluation throughout fellowship 
-Approximately how many people will be directly impacted by this proposal?: '1000'
-Approximately how many people will be indirectly impacted by this proposal?: '50000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '50000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   To decrease homeless count and the time taken to house unhoused people
    
   To improve health and self-image
@@ -133,7 +133,7 @@ Please describe the broader impact of your proposal.: >-
   As a replicable project, research findings will be disseminated to support
   institutional transformation of unwanted health and housing outcomes elsewhere
   that result from overwhelmed system
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Currently HOMEplace's host, the Youth Justice Coalition will support as fiscal
   sponsor 
 Which of LA2050’s resources will be of the most value to you?:
@@ -144,16 +144,16 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Housing affordability
   - Resilient communities
   - Homelessness
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CREATE
   - LA is the best place to PLAY
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: homeplace-@-yjc
 order: 20

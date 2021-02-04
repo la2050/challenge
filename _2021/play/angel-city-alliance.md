@@ -17,7 +17,7 @@ organization_website: 'http://angelcitysports.org'
 organization_twitter: '@angelcitysports'
 organization_facebook: 'https://www.facebook.com/angelcitysports/'
 organization_instagram: '@angelcitysports'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The mission of Angel City Sports (ACS) is to create sports opportunities for
   individuals with physical disabilities, encourage physical activity and
   demonstrate leadership to strengthen the adaptive sports movement. 
@@ -34,10 +34,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   According to the CDC, over 23% of Californians 18+ years old are living with a
   physical disability. CDC researchers have found that 47% of those with
   disabilities get no aerobic physical activity. The significant number of
@@ -54,7 +54,7 @@ What is the need you’re responding to?: >
   relationship building and working as part of a team.  These skills and tools
   help youth build the foundation for healthy, productive and successful lives
   as adults.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   ACS’ CEO’s, Clayton Frech’s, son, Ezra, was born with congenital limb
   differences.  Growing up, Ezra developed into a competitive athlete and is
   currently a U.S. Paralympics track and field athlete.  In addition, Ezra
@@ -67,7 +67,7 @@ Why is this project important to the work of your organization?: >-
   organizations that serve the adaptive sports community and is leading a
   growing network of resources and opportunities to support this underserved
   population.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   The goal of ACS is to ensure physically disabled individuals of all ages and
   abilities have access to activities that support their physical, mental, and
   emotional health.
@@ -90,9 +90,9 @@ Please explain how you will define and measure success for your project.: >
   coaches and staff that create this positive experience, as well as serve as
   role models themselves as many are athletes with disabilities, is essential to
   building this success.
-Approximately how many people will be directly impacted by this proposal?: '3000'
-Approximately how many people will be indirectly impacted by this proposal?: '18000'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '3000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '18000'
+Describe how Los Angeles County will be different if your work is successful.: >
   In 2019, the Games drew 425 athletes and 600+ volunteers for a total of 4,200+
   total attendees. ACS anticipates these numbers will continue to grow for the
   June 2021 event. Typically, ACS adaptive sports clinics draw over 600 adult
@@ -112,12 +112,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Obesity
   - Youth sports participation
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CONNECT
-year: 2020
+year: 2021
 category: play
 filename: angel-city-alliance
 order: 2

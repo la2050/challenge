@@ -19,7 +19,7 @@ organization_website: 'http://entrepreneurshipadvantage.org/'
 organization_twitter: 'https://www.linkedin.com/groups/12306659/'
 organization_facebook: '-'
 organization_instagram: ''
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   To create economic opportunity for entrepreneurs and small businesses in Los
   Angeles County by connecting human, technical, and capital resources through
   regional collaboration.
@@ -48,8 +48,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >
   Entrepreneurship is a pathway to economic mobility for many minorities,
   immigrants and women. Yet 50% of small businesses fail (SBA) since they can’t
   access capital/support necessary to build sustainable enterprises.
@@ -70,7 +70,7 @@ What is the need you’re responding to?: >
   As a result, EA was formed to make it easier for LA entrepreneurs to connect
   with the right resources by developing resource guides, training for
   business-service organizations, and a web-based matching tool.
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   EA is uniquely suited to tackle this information gap because of its
   community-informed approach and its growing support from LA’s small-business
   community. Founded in March 2018 by Opportunity Fund and CDC Small Business
@@ -87,7 +87,7 @@ Why is this project important to the work of your organization?: >
   tools to improve referrals in LA, and 3) have hosted two convenings that
   connected over 50 organizations and received a 100% satisfaction rating on the
   information and resources provided through the events.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Our vision for success is that every LA entrepreneur can access resources to
   grow their small business and secure a better future for their family and
   community. To achieve that vision, EA has outlined the following strategic
@@ -118,9 +118,9 @@ Please explain how you will define and measure success for your project.: >
   4.     Build an effective and efficient collaborative by raising funds and
   operationalizing collaborative processes. Success: Hire a full-time staff
   member to ensure the collaborative’s effectiveness.
-Approximately how many people will be directly impacted by this proposal?: '250'
-Approximately how many people will be indirectly impacted by this proposal?: '5500'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '250'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '5500'
+Describe how Los Angeles County will be different if your work is successful.: >
   Approaches to entrepreneurial support are often presented in narrow silos and
   EA’s efforts reflect a shift to a more holistic ecosystemic view. A robust
   local entrepreneurial ecosystem is made up of 5 Cs: Coaching, Capital,
@@ -133,7 +133,7 @@ Please describe the broader impact of your proposal.: >
   services, providing entrepreneurs seamless access to the wealth of LA County’s
   capital, human and technical resources at the right time on their business
   journey.    
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+'Describe the role of collaborating organizations on this project.': >
   CAMEO, the fiscal sponsor for Entrepreneurship Advantage has been in operation
   for over 25 years. CAMEO will leverage their experience creating 
   entrepreneurial ecosystems, building the capacity of nonprofits and advocating
@@ -160,13 +160,13 @@ Please list the organizations collaborating on this proposal.:
   - Pacific Asian Consortium in Employment (PACE LA)
   - West Angeles Community Development Corporation (West LA CDC)
   - 'Small Business Development Center (SBDC), El Camino'
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Income inequality
   - Minority- and women-owned businesses
   - Access to banks and financial institutions
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CONNECT
-year: 2020
+year: 2021
 category: create
 filename: entrepreneurship-advantage
 order: 13

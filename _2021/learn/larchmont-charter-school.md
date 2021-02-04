@@ -24,7 +24,7 @@ organization_website: 'https://www.LarchmontCharter.org'
 organization_twitter: '@LarchmontSchool'
 organization_facebook: 'https://www.facebook.com/LarchmontSchool/'
 organization_instagram: '@LarchmontSchool'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Larchmont Charter School & City Charter Schools provide socio-economically,
   culturally, and racially diverse communities of students with an exceptional
   public education. We foster creativity and academic excellence; our students
@@ -42,10 +42,10 @@ Which LA2050 goal will your submission most impact?: LA is the best place to LEA
 In which areas of Los Angeles will you be directly working?:
   - Central LA
   - San Fernando Valley
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Larchmont Charter School and City Charter Schools will codify a framework to
   incentivize and empower ALL teachers to address ALL students as the whole
   individuals that they are. Training and support will enable a generation of
@@ -64,7 +64,7 @@ What is the need you’re responding to?: >-
   non-cognitive growth measures that also need to be developed. 
 
   *WholeChildEducation.org
-Why is this project important to the work of your organization?: >+
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >+
   Both of our schools were founded to bring this model to our students, and both
   schools are among the top-performing public schools in California. Our school
   communities are intentionally inclusive: we put relationships first and
@@ -83,7 +83,7 @@ Why is this project important to the work of your organization?: >+
   leadership.
 
 
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   We plan to use the following metrics to measure success:
 
   -Participation
@@ -102,9 +102,9 @@ Please explain how you will define and measure success for your project.: >
 
   -Surveys of parents, students and recent graduates of Larchmont Charter School
   and City Charter Schools on SEL-related outcomes.
-Approximately how many people will be directly impacted by this proposal?: '200'
-Approximately how many people will be indirectly impacted by this proposal?: '10000'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '200'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '10000'
+Describe how Los Angeles County will be different if your work is successful.: >
   Each trained teacher (200) will reach approximately 50 students. Thousands
   (10,000+) of students will benefit! Our framework draws from The Common Ground
   Collaborative to develop the collective capacity of our teachers to implement
@@ -116,7 +116,7 @@ Please describe the broader impact of your proposal.: >
   multicultural curriculum; ensure inclusion of marginalized individuals and
   reduce punitive measures by implementing restorative practices. 
    
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Both Larchmont and City Charters operate relationship-and-diversity-centered,
   educational models. They have previously partnered to expand access to this
   model in the educational field and their collaboration has won support from
@@ -135,14 +135,14 @@ Which of LA2050’s resources will be of the most value to you?:
 Please list the organizations collaborating on this proposal.:
   - Larchmont Charter School
   - City Charter Schools
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - Student proficiency in English & Language Arts
   - Proficiency in STEM
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
   - LA is the best place to PLAY
-year: 2020
+year: 2021
 category: learn
 filename: larchmont-charter-school
 order: 43

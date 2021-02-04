@@ -17,7 +17,7 @@ organization_website: 'https://www.juniorhighla.com'
 organization_twitter: '@juniorhighla'
 organization_facebook: 'https://www.facebook.com/jrhilosangeles'
 organization_instagram: '@juniorhighla'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Junior High is dedicated to showcasing the artistic pursuits of marginalized
   voices. Our space, publication, podcast, and other ventures exist via
   principles of collective organizing, diverse empathy and anti-oppression. We
@@ -36,8 +36,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   The first step in addressing pay inequity is teaching young women and artists
   of color their value. Remedial education lacks the necessary training for
   financial literacy, especially for poor and working class students who often
@@ -50,7 +50,7 @@ What is the need you’re responding to?: >-
   communities will secure more financially-fulfilling opportunities, and those
   most burdened by a lack of literacy will have the chance to advance in a
   society that prioritizes wealth.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Junior High is uniquely situated as a dynamic space for both young people and
   emerging artists. We have an expansive community of over 30,000 members — 33%
   of which are between the ages of 13 to 24. Throughout our five year tenure as
@@ -64,7 +64,7 @@ Why is this project important to the work of your organization?: >-
   young me what I know now, I’d spend fewer years struggling financially and
   invalidating my labor. Just because I “made it on my own” doesn’t mean the
   next generation of artists should have to. 
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Junior High will consider “Money Makers” successful if:
 
 
@@ -95,9 +95,9 @@ Please explain how you will define and measure success for your project.: >
   On a broader scale, a true testament of success will be how many young people
   interact with our content and go on to become successful, financially secure,
   and empowered.
-Approximately how many people will be directly impacted by this proposal?: '5000'
-Approximately how many people will be indirectly impacted by this proposal?: '50000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '5000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '50000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   As programming will be free to the young people of Los Angeles, we hope many
   will subsequently begin successful careers as artists. We're accounting for 50
   students in person per workshop, and a much larger audience digitally. Online,
@@ -111,13 +111,13 @@ Please describe the broader impact of your proposal.: >-
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - College graduates
   - College matriculation
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: learn
 filename: junior-high-incorporated
 order: 40

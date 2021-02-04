@@ -17,7 +17,7 @@ organization_website: 'https://www.buildabetterworldfoundation.org'
 organization_twitter: '@BABWFoundation'
 organization_facebook: Buildabetterworldfoundation
 organization_instagram: ''
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   We Support the Empowerment of Youth and other existing Charitable
   Organizations through Music and The Arts by Sponsoring Charity Concerts,
   Musicals and Events!
@@ -30,10 +30,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Together we can Build a Better World!
 
 
@@ -51,7 +51,7 @@ What is the need you’re responding to?: >-
   justice, sustainability, science and the arts.  We currently have partnered
   with up to 25 other organizations through our events. 
      
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   It is important to our work to Empower Youth in The Arts, create awareness
   about, support and collaborate with other organizations that are doing good in
   the world to unite in Building A Better World!  A perfect platform to have
@@ -67,7 +67,7 @@ Why is this project important to the work of your organization?: >-
 
   We have had many successful concerts and have included the United Nations at
   our last concert in 2018 and plan to include them again.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   We will define and measure success by the amount of well known musicians,
   organizations, community leaders, spiritual leaders and funds raised for and
   during this event that will help to supports many very important projects and
@@ -80,9 +80,9 @@ Please explain how you will define and measure success for your project.: >-
   leaders speaking, raising up to more than 3 million dollars to assist with
   important community needs, as well as benefitting the 20 charitable
   organizations.
-Approximately how many people will be directly impacted by this proposal?: ''
-Approximately how many people will be indirectly impacted by this proposal?: ''
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: ''
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: ''
+Describe how Los Angeles County will be different if your work is successful.: >-
   The broader impact is to help with many organizations already working within
   the community to create impact!  ie.....The Wayfarer Foundation helping with
   The homeless.  This event will help to create awareness about organizations
@@ -91,7 +91,7 @@ Please describe the broader impact of your proposal.: >-
   The concert event will provide a platform for community and spiritual leaders
   to speak about the importance and need to unite and to work together to Build
   A Better World!
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   We have partnered with some of the following organizations at our other
   events, such as:
 
@@ -105,13 +105,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Public arts and cultural events
   - Government responsiveness to residents’ needs
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: connect
 filename: build-a-better-world-foundation
 order: 5

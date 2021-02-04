@@ -17,7 +17,7 @@ organization_website: 'https://www.alliancesocal.org'
 organization_twitter: '@alliance_socal'
 organization_facebook: 'https://www.facebook.com/alliancesocal/'
 organization_instagram: ''
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The Alliance’s mission is to engage and unify SoCal’s compelling diversity of
   talent, ideas and perspectives in order to optimize the conditions for the
   region’s innovators to bring breakthroughs to the world.
@@ -35,8 +35,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   The potential of Downtown Los Angeles (DTLA) is staggering
   (https://bit.ly/2UXd2Rh). Recent improvements in public transportation have
   made it possible for workers to commute without worry of congestion or cost.
@@ -51,7 +51,7 @@ What is the need you’re responding to?: >-
   that it was always meant to be. In the wake of the devastating COVID-19
   outbreak, supporting startups and founders and putting talented Angelinos back
   to work has never been more important.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   The Alliance for SoCal Innovation is a non-profit formed in 2017 that serves
   as a SoCal super connector bringing together research institutions, business
   leaders, and investors. We live the ‘it’s who you know’ mentality, and we know
@@ -65,7 +65,7 @@ Why is this project important to the work of your organization?: >-
   through marquis events and personal introductions. We are well situated to
   make an even bigger impact this coming year by engaging this robust network to
   further strengthen the local start-up community.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   The Alliance’s activities will enable more startups to be founded, funded, and
   grow here in LA. Over the long-term, our efforts have the potential to
   generate 200K direct jobs in tech and more than 1MM indirect jobs in Southern
@@ -111,9 +111,9 @@ Please explain how you will define and measure success for your project.: >-
 
   --Establish a baseline and tracking metric for mentions and identification of
   DTLA as tech community
-Approximately how many people will be directly impacted by this proposal?: '611'
-Approximately how many people will be indirectly impacted by this proposal?: '5800'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '611'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '5800'
+Describe how Los Angeles County will be different if your work is successful.: >-
   We estimate that we will indirectly impact 5,800 people which is 20% of the
   29K total employed in the DTLA innovation economy. We will do this by directly
   convening 600 people in MeetUp events and empowering 11 DTLA community leaders
@@ -124,7 +124,7 @@ Please describe the broader impact of your proposal.: >-
   community to connect with other regions and attract more investment to the
   area. This program will crank the flywheel to generate momentum for a
   community that has the assets to meaningfully transform the region.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   The Alliance recruited and engaged diverse volunteer leaders that represent
   key stakeholder groups and that will strengthen DTLA’s startup community:
    
@@ -164,11 +164,11 @@ Please list the organizations collaborating on this proposal.:
   - AI LA
   - Downtown Center Business Improvement District
   - Central City Association (CCA)
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Global cultural and economic influence (“soft power”)
   - High-growth startups
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your project will impact.: []
+year: 2021
 category: create
 filename: alliance-for-southern-california-innovation
 order: 2

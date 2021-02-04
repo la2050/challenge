@@ -17,7 +17,7 @@ organization_website: 'https://www.zipmarket.app'
 organization_twitter: ''
 organization_facebook: fb.me/zipmarketpbc
 organization_instagram: ''
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   ZipMarket increases access to healthy food by enabling Delivery services for
   local Farmers Markets. We also pursue reduced Food Insecurity and Food Waste
   by helping facilitate donations to Food Banks and More.
@@ -29,8 +29,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   During the Quarantine of 2020, Access to Healthy Food dropped significantly,
   leaving citizens of Los Angeles County with less options to support healthy
   lifestyles and local food sources.
@@ -54,14 +54,14 @@ What is the need you’re responding to?: >-
 
   Neither Low Income nor Threats to Public Health need be a reason that citizens
   of LA county should lack access to Healthy Food.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   It is the mission of our organization to develop modern tools for grassroots
   movements.
 
 
   Our experience with advanced mobile technology and supply chains positions us
   as a uniquely well suited developer of exactly this kind of platform.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   We measure success by the number of citizens we benefit. We would therefore
   measure success by the 5 metrics detailed below. Our vision for success is to
   ultimately provide these services nationwide.
@@ -87,9 +87,9 @@ Please explain how you will define and measure success for your project.: >-
   insecurity (measure donation recipients)
 
    
-Approximately how many people will be directly impacted by this proposal?: '130'
-Approximately how many people will be indirectly impacted by this proposal?: '130000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '130'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '130000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Increasing Access to Healthy Food has the potential to impact everyone living
   in the united states directly and indirectly, according to the U.S. Department
   of Agriculture, some 40 million people in the U.S. were food-insecure in 2017,
@@ -111,11 +111,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Access to healthy food
   - Food insecurity
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your project will impact.: []
+year: 2021
 category: live
 filename: zipmarket-app
 order: 65

@@ -19,7 +19,7 @@ organization_website: 'https://www.flintridge.org'
 organization_twitter: '@flintridgecen'
 organization_facebook: 'https://www.facebook.com/FlintridgeCenter/'
 organization_instagram: '@FlintridgeCenter'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Flintridge Center’s mission is to break the cycle of poverty and violence
   through community planning, innovation, and action. Our vision is of a
   healthy, safe community where families thrive, youth reach their full
@@ -38,10 +38,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Los Angeles County has the largest jail population nationwide. The 2,873
   individuals who exit LA County detention weekly face multiple barriers to
   successful reintegration, including employment restrictions and limited
@@ -59,7 +59,7 @@ What is the need you’re responding to?: >-
   construction trades. The APP provides pathways to self-sufficiency while
   simultaneously creating a diverse workforce capable of meeting industry
   demand. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Flintridge Center has provided economic opportunities to the formerly
   incarcerated since 2007. The Apprenticeship Preparation Program (APP) is
   unique in its integration of trauma-informed care and workforce development.
@@ -76,7 +76,7 @@ Why is this project important to the work of your organization?: >-
   California’s 41st Assembly District’s Nonprofit of the Year –Assemblymember
   Chris Holden stated, “Their successful reintegration services should be
   modeled throughout the state.”
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Over the course of the grant period, Flintridge Center will facilitate three
   cohorts of the Apprenticeship Preparation Program (APP), directly impacting
   100 individuals. Flintridge measures success by the recidivism (3-year
@@ -101,9 +101,9 @@ Please explain how you will define and measure success for your project.: >-
   across the formerly incarcerated community leading to generational economic
   advancement for individuals and their families (2) a diverse and inclusive
   workforce (3) a more equitable Los Angeles.
-Approximately how many people will be directly impacted by this proposal?: '100'
-Approximately how many people will be indirectly impacted by this proposal?: '500'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '100'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '500'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The Apprenticeship Preparation Program (APP) advances equity by creating
   economic opportunities for the formerly incarcerated. In the past 40 years,
   the U.S. incarcerated population has increased by 500%, disproportionately
@@ -114,7 +114,7 @@ Please describe the broader impact of your proposal.: >-
   are often siblings, cousins, friends, or children of past graduates. At
   Flintridge, we understand that when you change the life of one person, you
   change the life of their families and the communities we all live in.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   While we are not submitting a collaborative proposal, Flintridge Center places
   a high organizational value on collaboration. We understand that the diverse
   and unique needs of formerly incarcerated individuals are best met by a
@@ -127,11 +127,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Communications support
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Income inequality
   - Economic opportunities for formerly incarcerated
   - Unemployment rate
-Are there any other LA2050 goal categories that your proposal will impact?: []
+Indicate any additional LA2050 goals your project will impact.: []
 Has your proposal changed due to COVID-19?: >
   As Los Angeles County and California move to slow the spread of COVID-19 in jails and prisons, a growing number of individuals are being released from incarceration. Compounding existing barriers, individuals are exiting incarceration to a landscape greatly altered by the pandemic, facing limited supportive services and employment opportunities. The pandemic is also disproportionately impacting communities of color, exposing deep health and economic inequities. Flintridge Center will adapt and expand the Apprenticeship Preparation Program model to meet emerging community needs and address disparities.
 
@@ -140,7 +140,7 @@ Has your proposal changed due to COVID-19?: >
 
 
   Recognizing that there may be potentially fewer opportunities in union construction because of the pandemic, program scope will expand to support individuals in seeking employment in emerging industries. Flintridge Center’s team will continue to adapt program elements based on emerging participant needs, feedback and outcomes for the duration of this crisis. Goals for the program during this time remain the same: to provide economic opportunities, decrease recidivism, and create a more equitable Los Angeles.
-year: 2020
+year: 2021
 category: create
 filename: flintridge-center
 order: 14

@@ -17,7 +17,7 @@ organization_website: 'https://www.esrbc.org'
 organization_twitter: '@eastsideriders'
 organization_facebook: facebook.com/eastsideriders
 organization_instagram: '@eastsideriders'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   East Side Riders Bike Club’s mission is to improve Watts through community
   service, charity work, and bike programs aimed at keeping local youth out of
   gang and drug activity.
@@ -33,10 +33,10 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to PLAY
 In which areas of Los Angeles will you be directly working?:
   - South LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   The Urban Cyclists Collective project was created in response to the poor
   physical & mental health and low ridership plaguing South LA. In LA County’s
   Service Planning Area 6, which houses our project area, physical & mental
@@ -51,7 +51,7 @@ What is the need you’re responding to?: >-
   manages heart rate, blood pressure, and other health indicators. Increasing
   ridership in our area by 250 people will ignite a change in lifestyle and
   health.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   East Side Riders Bicycle Club has been leading bicycle rides in the Watts and
   surrounding community since 2008. Birthed from the need for alternative social
   & community engagement among heavy gang violence and substance abuse, the
@@ -66,10 +66,10 @@ Why is this project important to the work of your organization?: >-
   cities surrounding Watts. Expanding our love for cycling and deepening our
   connections with our neighbors builds stronger relationships as we serve each
   other and our section of Los Angeles County. 
-Please explain how you will define and measure success for your project.: "We envision our neighborhoods and the surrounding communities as interconnected places where youth and their families can live healthy lives biking. The goals to get there are: \n1. Recruit 250 participants ages 10 to 80 from the 5 communities.\n2. Give 50 bikes/trikes and equipment to participants in each community: Watts, Compton, Lynwood, Willowbrook, and Florence-Firestone.\n3. Hold month bike-related workshops, including bike safety, how to marshal a ride, and establishing a successful bicycle club.\n4. Collected the initial and subsequent physical health data: weight, BMI, blood pressure, resting rate and chest, waist, & hip circumference. Surveys regarding miles traveled and ride destinations, in addition to questions regarding mental health.\nWe are aiming for the following project outcomes:\nA.\t250 new urban bi-/tricyclists in our part of South LA County.\nB.\t4 new active bicycle clubs in South LA\nC.\tA riding average of 7 miles/week per person.\nD.\tAn average of 10 lbs weight loss per person\nE.\tAn average decrease of 2 BMI points\nF.\tDecrease in 5 inches of chests, hips, and waists\nG.\tAll participants’ blood pressure in a healthy range\nH.\t25% decrease in chronic depression, anxiety, and feelings of isolation\nI.\t50% increase of daily ridership."
-Approximately how many people will be directly impacted by this proposal?: '250'
-Approximately how many people will be indirectly impacted by this proposal?: '3750'
-Please describe the broader impact of your proposal.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "We envision our neighborhoods and the surrounding communities as interconnected places where youth and their families can live healthy lives biking. The goals to get there are: \n1. Recruit 250 participants ages 10 to 80 from the 5 communities.\n2. Give 50 bikes/trikes and equipment to participants in each community: Watts, Compton, Lynwood, Willowbrook, and Florence-Firestone.\n3. Hold month bike-related workshops, including bike safety, how to marshal a ride, and establishing a successful bicycle club.\n4. Collected the initial and subsequent physical health data: weight, BMI, blood pressure, resting rate and chest, waist, & hip circumference. Surveys regarding miles traveled and ride destinations, in addition to questions regarding mental health.\nWe are aiming for the following project outcomes:\nA.\t250 new urban bi-/tricyclists in our part of South LA County.\nB.\t4 new active bicycle clubs in South LA\nC.\tA riding average of 7 miles/week per person.\nD.\tAn average of 10 lbs weight loss per person\nE.\tAn average decrease of 2 BMI points\nF.\tDecrease in 5 inches of chests, hips, and waists\nG.\tAll participants’ blood pressure in a healthy range\nH.\t25% decrease in chronic depression, anxiety, and feelings of isolation\nI.\t50% increase of daily ridership."
+Approximately how many people will be directly impacted by this project, program, or initiative?: '250'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '3750'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The Urban Cycling Collective is designed to create exercise options for
   residents. We know from our 10+ years of experience that bike riding keeps
   individuals healthy & happy, strengthens our connections to neighbors, and
@@ -87,13 +87,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Walking and biking
   - Obesity
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CONNECT
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: play
 filename: east-side-riders-bike-club
 order: 7

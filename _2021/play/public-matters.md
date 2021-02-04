@@ -17,7 +17,7 @@ organization_website: 'https://www.publicmattersgroup.com'
 organization_twitter: '@pub_matters'
 organization_facebook: facebook.com/PublicMatters
 organization_instagram: '@publicmatters'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Public Matters believes the arts and creativity are levers for social change.
   We aim to bridge the trust gap between institutions and marginalized
   communities of color by designing strategies that transform the culture,
@@ -34,10 +34,10 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to PLAY
 In which areas of Los Angeles will you be directly working?:
   - South LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Western. Normandie. Vermont. Hoover. Figueroa. In the University Park area
   these streets all have something in common: they are the sites of far too many
   tragic, preventable deaths. Between 2015-19, according to LADOT seven people
@@ -54,7 +54,7 @@ What is the need you’re responding to?: >-
   a lack of understanding how to navigate systems, and time limitations inhibit
   action. Without intervention, training and network building, more lives are at
   unnecessary risk.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Transforming the culture of traffic safety in University Park requires a
   special kind of alchemy. Public Matters possesses a unique skill set to meet
   the challenge: art, civic engagement, education, community building, project
@@ -70,7 +70,7 @@ Why is this project important to the work of your organization?: >-
   transform the effort into meaningful, hands-on exchange & idea generation
   among participants of different backgrounds and expertise. They build a
   collective capacity to create change together.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   To improve students’ sense of safety and improve opportunities for walking and
   biking, the project needs to provide concrete opportunities for constructive
   critique and improvements to the built environment. Moreover, residents need
@@ -104,9 +104,9 @@ Please explain how you will define and measure success for your project.: >-
   We will conduct initial and end-of-project surveys and build relationships
   throughout the project that lead to constructive, sustained dialogue,
   problem-solving, and opportunities for emergent leadership.
-Approximately how many people will be directly impacted by this proposal?: '505'
-Approximately how many people will be indirectly impacted by this proposal?: '30350'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '505'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '30350'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Creating safer streets requires behavioral change, education, advocacy, and
   changes to the built environment. No one element is sufficient by itself. The
   broader impact of Slow Jams is the human architecture that can carry work
@@ -120,7 +120,7 @@ Please describe the broader impact of your proposal.: >-
   neighbors—influencing these individuals’ ability to shape policy, or to simply
   be aware of their behavior on the area's shared roads: roads that more than
   27,000 drivers use daily.  
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Public Matters will lead the design and implementation of all elements,
   managing partnerships and the delivery of project objectives.
 
@@ -148,11 +148,11 @@ Please list the organizations collaborating on this proposal.:
   - Los Angeles Walks
   - USC Kid Watch
   - Individual Faculty at the University of Southern California
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Walking and biking
   - Prevalence of trauma and adverse childhood experiences
   - Students' sense of safety at and on the way to school
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
   - LA is the best place to CONNECT
   - LA is the healthiest place to LIVE
@@ -168,7 +168,7 @@ Has your proposal changed due to COVID-19?: >
   * We will train participants to use technology in new ways. This builds the capacity of parents and children, while addressing the digital divide exposed by COVID-19.
 
   * The public spectacle component of Slow Jams is part of a larger effort to build community capacity to advocate for safe streets. We will adapt public performances and events, practicing safe distancing. These may resemble the proposed choreography, or may require more static props, such as yard signs and human billboards along the sides of streets.
-year: 2020
+year: 2021
 category: play
 filename: public-matters
 order: 20
