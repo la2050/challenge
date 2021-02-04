@@ -17,7 +17,7 @@ organization_website: 'https://www.losangeleno.com'
 organization_twitter: '@losangeleno'
 organization_facebook: 'https://www.facebook.com/wearelosangeleno/'
 organization_instagram: '@wearelosangeleno'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Reach Los Angeles's mission is to strengthen LA's only local advertising
   network to help stabilize a our fragile publishing ecosystem by diversifying
   funding sources.
@@ -32,8 +32,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   Currently, there exist no other local media networks in operation for Los
   Angeles and most local sites are not optimized or are too small to be able to
   generate income from digital ads if they tried to go about it on their own.
@@ -52,7 +52,7 @@ What is the need you’re responding to?: >-
   We want to build further on the start of our local ad network framework to
   support a healthier ecosystem for local news and media organizations to tap
   into digital advertising income, among other potential sources.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   We started working on LosAngeleno.com at the end of 2018, when our local media
   found itself in an especially precarious position: it was unclear what was
   happening with the rapdily decreasing distribution of entities like LA Weekly
@@ -71,7 +71,7 @@ Why is this project important to the work of your organization?: >-
   With Los Angeles having many micro news deserts and our region being
   geographically large to cover, we recognize the need to partner to make sure
   Los Angeles-based media can survive.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   There are a few ways we will be able to measure our success:
 
   1. Participation: Getting more local publishers involved. (# of particpants)
@@ -82,9 +82,9 @@ Please explain how you will define and measure success for your project.: >
   3. Revenue: We want to help provide new revenue streams for local publishers
   so they can keep the lights on. ($ generated that goes directly to funding
   journalism)
-Approximately how many people will be directly impacted by this proposal?: '20'
-Approximately how many people will be indirectly impacted by this proposal?: '10000000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '20'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '10000000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The potential impact of this project is massive in ensuring that local news
   reach as many residents as possible, meaning our citizens are informed. That
   will guide how they decide to vote, what matters to them, how they can become
@@ -100,16 +100,16 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Employment in the creative industries
   - Global cultural and economic influence (“soft power”)
   - Minority- and women-owned businesses
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
   - LA is the best place to PLAY
   - LA is the best place to CONNECT
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: create
 filename: hustle-hustle
 order: 17

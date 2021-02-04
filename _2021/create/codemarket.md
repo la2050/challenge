@@ -17,7 +17,7 @@ organization_website: 'https://www.codemarket.io'
 organization_twitter: '@joincodemarket'
 organization_facebook: 'https://www.facebook.com/Codemarket-109795303915673'
 organization_instagram: '@joincodemarket'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The mission of Codemarket is to build thriving local communities by empowering
   people and businesses with the technology, knowledge and innovation to reach
   their career and business goals.
@@ -49,10 +49,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   There has never been a greater need for small businesses to understand and
   harness the power of technology than there is today. The COVID-19 crisis is
   forcing businesses to strengthen their online presence, develop new ways to
@@ -69,7 +69,7 @@ What is the need you’re responding to?: >
   anyone else. The greatest impact you can have on a community is to empower
   these individuals with technological solutions that enable them to use their
   passion and talents to benefit their community. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Codemarket helps individuals and businesses reach their goals with
   technological solutions. Our over 20 years of experience and knowledge in a
   wide-array of sectors, from health and wellness to retail, insurance, and
@@ -86,7 +86,7 @@ Why is this project important to the work of your organization?: >-
   to help local businesses scale their businesses using technical solutions that
   large corporations use. She has over 20 years of experience creating data
   driven digital products that can be monetized. 
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Our vision is for Los Angeles’ small businesses to grow, thrive and lead the
   nation in the utilization of technology to build community and create
   prosperity. The goal of the Small Business Tech Booster Project is to empower
@@ -107,9 +107,9 @@ Please explain how you will define and measure success for your project.: >
 
   3) 90% of participating businesses will start generating additional revenue as
   a result of the Project.
-Approximately how many people will be directly impacted by this proposal?: '2500000'
-Approximately how many people will be indirectly impacted by this proposal?: '10000000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '2500000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '10000000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Small businesses power their local economy by creating meaningful jobs,
   promoting innovation, and providing opportunity. They keep money close to home
   and support their local neighborhoods. Los Angeles’ small businesses offer
@@ -131,16 +131,16 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Income inequality
   - Jobs per capita
   - Minority- and women-owned businesses
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
   - LA is the best place to PLAY
   - LA is the best place to CONNECT
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: create
 filename: codemarket
 order: 7

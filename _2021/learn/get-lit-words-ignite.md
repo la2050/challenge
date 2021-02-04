@@ -18,7 +18,7 @@ organization_website: 'https://www.getlit.org'
 organization_twitter: '@getlitpoet'
 organization_facebook: www.facebook.com/getlitpoet
 organization_instagram: '@getlitpoet'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Get Lit  - Words Ignite fuses classic and spoken word poetry to increase teen
   literacy on the page and in visual media. We cultivate enthusiastic learners
   emboldened to inspire social consciousness in diverse communities,
@@ -40,8 +40,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   We are responding to three urgent needs specifically regarding online
   curricula for L.A. students: academic rigor, structure, and connectedness.
   What the COVID-19 crisis has made clear is that the current offerings in
@@ -56,7 +56,7 @@ What is the need you’re responding to?: >-
   Because of our strong belief in educational equity and inclusion, our goal is
   to provide our life changing program to all L.A. students at this critical
   juncture.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Get Lit is perfectly poised for this project. We have been a leader and
   innovator in education for 14 years with a reputation for integrity in program
   implementation and effectiveness. We have a long partnership with LAUSD for
@@ -71,7 +71,7 @@ Why is this project important to the work of your organization?: >-
   students’ performances. We have provided online content for youth for other
   partners including The California Endowment and the L.A. Dept. of Mental
   Health.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   The outcome of this project will be that the Get Lit common-core aligned
   curriculum is available online to all students in L.A. County. Currently,
   there is no similar program in existence, especially with the outreach,
@@ -92,9 +92,9 @@ Please explain how you will define and measure success for your project.: >-
   program, Get Lit staff will survey teachers and students utilizing the
   curriculum each semester, focusing on ease of use, content quality, depth of
   learning, and the number of schools that are implementing the system.
-Approximately how many people will be directly impacted by this proposal?: '800000'
-Approximately how many people will be indirectly impacted by this proposal?: '1500000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '800000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '1500000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   We will  transform the format of education by improving literacy on a broad
   scale. This project will close the achievement gap by providing an online
   personalized learning experience to all students (traditional or homeschool),
@@ -110,12 +110,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - High school graduation rates
   - Student proficiency in English & Language Arts
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your application will impact.: []
+year: 2021
 category: learn
 filename: get-lit-words-ignite
 order: 35

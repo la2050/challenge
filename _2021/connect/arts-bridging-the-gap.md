@@ -17,7 +17,7 @@ organization_website: 'https://www.artsbridgingthegap.org'
 organization_twitter: '@artsbridgegap'
 organization_facebook: 'https://www.facebook.com/artsbridgingthegap/'
 organization_instagram: '@artsbridgegap'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Arts Bridging the Gap highlights the voices, experiences, and self-expression
   of LA’s youth through immersive arts programs. We cultivate skills, mindsets,
   and connections that allow youth to be their best and fullest selves, as
@@ -41,10 +41,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   Arts Bridging the Gap’s 100 Murals for Peace Project will serve youth in
   under- resourced communities, many of whom have experienced childhood trauma.
   Over 90% of our participants live well under the poverty line. The majority
@@ -59,7 +59,7 @@ What is the need you’re responding to?: >
   to the places they frequent, the community becomes a better and safer place to
   live, work, and visit. Now imagine the power of painting 100 murals in three
   days!
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   Arts Bridging the Gap is the only organization of its kind not only in Los
   Angeles, but across the nation that creates community connections and artistic
   opportunities for thousands of youth living in poverty while at the same time
@@ -76,7 +76,7 @@ Why is this project important to the work of your organization?: >
   permanent location in their community. We’re able to commit to such a
   large-scale project in such a short period of time thanks to our wide network
   of artists, supporters, volunteers, partners, and friends. 
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   One of our initial gauges of success will be the number of people involved in
   developing this project. Through press and partnerships, we will encourage
   thousands of kids across LA to contribute to the design process by getting
@@ -99,9 +99,9 @@ Please explain how you will define and measure success for your project.: >
   each other in the process of doing it? And does our neighborhood look and feel
   like a stronger community as a result?” If the answer to these questions is a
   resounding “yes!”, then we achieved what we set out to do.
-Approximately how many people will be directly impacted by this proposal?: '6650'
-Approximately how many people will be indirectly impacted by this proposal?: '3800000'
-Please describe the broader impact of your proposal.: ' A mural has immensely positive impacts on its surroundings. It creates pride in a community both for those who create it and who look upon it, increases foot traffic, and attracts businesses and tourists to an area. A mural turns a drab street corner into a hub where people gather, and often becomes a phenom on social media - think, for instance, of how often murals are used as the backdrops for selfies and videos. Studies show that the placement of a mural can attract housing creation, reduce depression and crime, and overall elevate the quality of life for residents and businesses. At Arts Bridging the Gap, that is fundamentally what we exist to do - uplift and create connections and messages of peace within, for and by our city.'
+Approximately how many people will be directly impacted by this project, program, or initiative?: '6650'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '3800000'
+Describe how Los Angeles County will be different if your work is successful.: ' A mural has immensely positive impacts on its surroundings. It creates pride in a community both for those who create it and who look upon it, increases foot traffic, and attracts businesses and tourists to an area. A mural turns a drab street corner into a hub where people gather, and often becomes a phenom on social media - think, for instance, of how often murals are used as the backdrops for selfies and videos. Studies show that the placement of a mural can attract housing creation, reduce depression and crime, and overall elevate the quality of life for residents and businesses. At Arts Bridging the Gap, that is fundamentally what we exist to do - uplift and create connections and messages of peace within, for and by our city.'
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
@@ -109,16 +109,16 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Public arts and cultural events
   - Volunteerism
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CREATE
   - LA is the best place to PLAY
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: connect
 filename: arts-bridging-the-gap
 order: 2

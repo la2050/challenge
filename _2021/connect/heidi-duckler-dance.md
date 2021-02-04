@@ -17,7 +17,7 @@ organization_website: 'https://heididuckler.org/'
 organization_twitter: '@heididuckler'
 organization_facebook: 'https://www.facebook.com/heididucklerdance/'
 organization_instagram: '@heididuckler'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Heidi Duckler Dance (HDD) creates place-based performances that transform
   non-traditional spaces, providing learning opportunities and engaging diverse
   communities, in the belief that the arts can change our vision of the world
@@ -35,8 +35,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   The LA Fashion District, where our office is located, is the historical center
   of the garment industry. While the area’s manufacturing spaces still employ a
   large number of immigrants from South America, many of the buildings that
@@ -50,7 +50,7 @@ What is the need you’re responding to?: >-
   interplay is unique in the City. Our placemaking project intends to catalyze
   the spirit of the area, honor its historical roots, inspire hope, and inform
   community building practices as the area experiences further development.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Founded in 1985, HDD continues to redefine the relationship between audience,
   art and site-specific spaces. HDD has developed a participatory and
   transparent practice in which each project is generated in collaboration with
@@ -65,7 +65,7 @@ Why is this project important to the work of your organization?: >-
   Building, the company regularly hosts salons and artist gatherings in its
   space, bringing community members together to explore opportunities for
   collaboration.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   The overarching objective of Los Angeles Street is to empower the local
   community to collectively drive and improve the livability of the LA Fashion
   District and to honor and preserve its unique “maker” culture with impending
@@ -101,9 +101,9 @@ Please explain how you will define and measure success for your project.: >-
   inspired?”; Our success will partially be measured by our ability to
   collectively answer these questions and bring an understanding of Los Angeles
   street to the rest of Los Angeles. 
-Approximately how many people will be directly impacted by this proposal?: '100'
-Approximately how many people will be indirectly impacted by this proposal?: '1000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '100'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '1000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   HDD sees our creative work and practice as a tool of social justice, learning,
   and meaningful civic engagement. The intended beneficiaries of Los Angeles
   Street are the residents, workers, business owners, and property owners in the
@@ -114,7 +114,7 @@ Please describe the broader impact of your proposal.: >-
   will bring music and movement therapy directly to individuals marginalized by
   homelessness. We will also work with Ninth Street Elementary, a local school,
   to produce a series of Teaching Artist-led workshops. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   HDD will work with the LA Fashion District Business Improvement District
   (BID); local businesses and property owners; SLATE-Z; local and State
   government; Ninth Street Elementary; and other local nonprofit partners to
@@ -137,12 +137,12 @@ Please list the organizations collaborating on this proposal.:
   - Santee Village (Property owner)
   - Werkartz (Art spaces)
   - Senator Holly J. Mitchell (Government partner)
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Public arts and cultural events
   - Immigrant integration
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: connect
 filename: heidi-duckler-dance
 order: 23

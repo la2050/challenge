@@ -17,7 +17,7 @@ organization_website: 'https://www.walkwithsally.org'
 organization_twitter: '@walkwithsally'
 organization_facebook: facebook.com/walkwithsally
 organization_instagram: '@walkwithsally'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Walk With Sally believes no child should walk alone in the face of a loved
   one’s cancer. Therefore, Walk With Sally provides hope through our
   individualized mentoring and community support services to empower children
@@ -37,10 +37,10 @@ In which areas of Los Angeles will you be directly working?:
   - East LA
   - South LA
   - South Bay
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >+
+What is the problem that you are seeking to address?: >+
   Cancer changes everything. According to a 2017 study by Shah, B. K., Armaly,
   J., & Swieter, E., “...children in particular have a higher risk of emotional
   and behavioral problems. The disruption of schedules and daily routine,
@@ -55,7 +55,7 @@ What is the need you’re responding to?: >+
   reactions such as fear, worry, sadness, helplessness, anger and guilt, as well
   as school and academic difficulties.
 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   WWS knows the need in Los Angeles County is larger than can be incorporated
   into our one South Bay office. These programs succeed in part due to the
   addition of an annual curriculum of events and support programs that keep both
@@ -70,7 +70,7 @@ Why is this project important to the work of your organization?: >-
   Developing and supporting these programs throughout LA County is something
   that is challenging unless these same services are able to be provided within
   a closer proximity to each family and mentor. 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Walk With Sally’s individualized support helps children adjust to and cope
   with traumatic situations. Through the growth of our directors and staff as
   well as our relationships with LAUSD school counselors, a primary source of
@@ -112,9 +112,9 @@ Please explain how you will define and measure success for your project.: >-
   therefore children in our program in 1 year. With graduates and friendship
   closures, we would meet our goal of supporting 185 total mentor-friendships
   annually throughout Los Angeles County.
-Approximately how many people will be directly impacted by this proposal?: '60'
-Approximately how many people will be indirectly impacted by this proposal?: '90'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '60'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '90'
+Describe how Los Angeles County will be different if your work is successful.: >-
   While Walk With Sally's core program is its individualized one-on-one
   mentoring program. However, our additional programs such as our Friendship
   Activities, bringing together all our mentors, mentees and families as well as
@@ -131,11 +131,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - 'Office space for meetings, events, or for staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Volunteerism
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your application will impact.: []
+year: 2021
 category: connect
 filename: walk-with-sally
 order: 66

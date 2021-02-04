@@ -17,7 +17,7 @@ organization_website: 'https://www.movela.org'
 organization_twitter: '@movelatransit'
 organization_facebook: www.facebook.com/movelatransit
 organization_instagram: '@movelatransit'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Move LA has developed a successful civic engagement model to build coalitions
   to support smart, transformative solutions to transportation, affordable
   housing, and climate change challenges. We work with advocates, community
@@ -40,10 +40,10 @@ In which areas of Los Angeles will you be directly working?:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
   - Gateway Cities
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   LA County needs thousands of affordable housing units near transit. But rather
   than displacing our neighbors and gentrifying communities, we should create
   verdant new neighborhoods on tree-lined “boulevards of opportunity” with
@@ -58,7 +58,7 @@ What is the need you’re responding to?: >-
   allow us to meet our housing needs on just 2% of the region’s land. LA
   County’s affordable housing crisis compels renewed attention to this
   opportunity.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Move LA has successfully engaged civic leaders and organizations and formed
   coalitions to address countywide issues before, e.g. Measures R (‘08) and M
   (‘16) to provide $120 billion for transit, and Measure H (‘17) to provide $360
@@ -72,7 +72,7 @@ Why is this project important to the work of your organization?: >-
   working to build robust and durable coalitions, and our understanding of how
   to leverage public funds, we are uniquely positioned to show cities how to do
   it and create a model program for others to learn from. 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   We will consider our work successful if our outreach to cities results in at
   least one city or Council of Governments (COG) expressing interest in a
   boulevard planning process that can become a model for other cities. Move LA
@@ -93,9 +93,9 @@ Please explain how you will define and measure success for your project.: >-
   strategies that will be required, and we’ll write a well-designed publication
   to share that identifies successful policies, tools and strategies for
   community development along these boulevards of opportunity.
-Approximately how many people will be directly impacted by this proposal?: '500'
-Approximately how many people will be indirectly impacted by this proposal?: '1200000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '500'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '1200000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   There is a serious need in LA County for housing that is affordable to
   very-low, low and moderate-income families, and people who are homeless.
   "Boulevards of opportunity” can be part of the solution to this need by
@@ -107,7 +107,7 @@ Please describe the broader impact of your proposal.: >-
   or visit family or friends without driving.  This will reduce air pollution
   and GHG emissions and help make our cities safer, more equitable and
   sustainable.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   MLA is partnering with a company called UrbanFootprint, to provide graphic GIS
   mapping and evaluative services that can help determine the potential for
   housing and transit ridership using various development scenarios along
@@ -125,13 +125,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - 'Office space for meetings, events, or for staff'
 Please list the organizations collaborating on this proposal.: UrbanFootprint
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Housing affordability
   - Air quality
   - Homelessness
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: move-la-a-project-of-community-partners
 order: 31

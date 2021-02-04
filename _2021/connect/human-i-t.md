@@ -17,7 +17,7 @@ organization_website: 'https://www.human-i-t.org/'
 organization_twitter: '@human_i_t'
 organization_facebook: 'https://www.facebook.com/humanitofficial'
 organization_instagram: '@human_i_t/'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   human-I-T believes that through social entrepreneurship, opportunities are
   created for our world to become more inclusive, sustainable, and bold. We
   support low income individuals by providing access to digital resources
@@ -46,10 +46,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Despite California being the birthplace of the internet, substantial
   disparities persist in who does and does not have access to technology in the
   Golden State. This “digital divide” disproportionately affects low-income
@@ -59,7 +59,7 @@ What is the need you’re responding to?: >-
   More recently, in light of the global pandemic, there is also a growing
   increase in remote learning. Still, 1 in 4 students do not have the proper
   access to the internet or home device to participate. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   human-I-T’s Include program is designed to help adult learners harness all of
   the opportunity that lives online. It is a self-paced, student-centered
   digital literacy class offered in English and Spanish. Because learners enter
@@ -76,7 +76,7 @@ Why is this project important to the work of your organization?: >-
   income households and community centers. Other organizations that take in
   e-waste either 1) break the devices down for commodities or 2) re purpose the
   device for resale on the market.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   e track several outputs to gauge the effectiveness of our programs, including
   the number of computers donated, households connected to the internet,
   individuals who have completed our digital literacy training program, and the
@@ -95,9 +95,9 @@ Please explain how you will define and measure success for your project.: >
   in a way to deepen their presence in their community, whether through
   education, civic engagement, housing, or participation in grassroots
   organizing. 
-Approximately how many people will be directly impacted by this proposal?: '1000'
-Approximately how many people will be indirectly impacted by this proposal?: '4000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '4000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Through the #include program there are various ways that our city will change,
   but one of the most important ways will be at home. One in four students do
   not have the necessary hardware or internet to connect only, that means 1 in 4
@@ -113,12 +113,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Internet access
   - LGBTQ+ equity and inclusion
   - Disability access and inclusion
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your application will impact.: []
+year: 2021
 category: connect
 filename: human-i-t
 order: 24

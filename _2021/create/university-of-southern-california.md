@@ -23,7 +23,7 @@ organization_website: 'http://cpf.usc.edu'
 organization_twitter: '@uscpolfuture'
 organization_facebook: facebook.com/uscpolfuture
 organization_instagram: '@uscpolfuture'
-Please describe the mission of your organization.: >
+Describe the mission of your organization.: >
   The Center for the Political Future at the USC is a non-profit, non-partisan
   organization that educates college students and the community on political
   issues at the local, state and federal level.  The Center places students in
@@ -45,10 +45,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   College internships are a vital part of every college students’ experience. 
   These internships, which are overwhelmingly unpaid in the political sphere,
   help prepare students to obtain gainful employment after college. It has
@@ -62,7 +62,7 @@ What is the need you’re responding to?: >
   given the opportunity to gain valuable career experience while in college and
   should not be limited by their financial situation.  A grant through LA2050
   will give all college students the opportunity to create their future.
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   The Center for the Political Future is uniquely suited to take on this
   mission.  For over 50 years, the Center (formerly the Unruh Institute of
   Politics), has placed thousands of college students in unpaid internships. 
@@ -76,7 +76,7 @@ Why is this project important to the work of your organization?: >
   professionalization workshops and academic requirements. The intra-structure
   within the Center ensures that students can be placed in internships while
   learning about life after college in the workforce.   
-Please explain how you will define and measure success for your project.: >+
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >+
   In the short term, success will be seen by an increase in the number of
   student interns, who would not have participated in our program without the
   funding support.  Our plan is to survey all those students who speak to us
@@ -93,9 +93,9 @@ Please explain how you will define and measure success for your project.: >+
   effectiveness of the funding provided to our students.  
 
 
-Approximately how many people will be directly impacted by this proposal?: '20'
-Approximately how many people will be indirectly impacted by this proposal?: '200'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '20'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '200'
+Describe how Los Angeles County will be different if your work is successful.: >
   The broader implications of this proposal comes down to two words – social
   justice.  Universities have worked diligently at providing resources to
   families with financial challenges so they can send their children to college
@@ -109,13 +109,13 @@ Please describe the broader impact of your proposal.: >
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Income inequality
   - Jobs per capita
   - Unemployment rate
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CONNECT
-year: 2020
+year: 2021
 category: create
 filename: university-of-southern-california
 order: 42

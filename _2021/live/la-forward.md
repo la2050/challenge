@@ -17,7 +17,7 @@ organization_website: 'https://www.LosAngelesForward.org'
 organization_twitter: '@LosAngelesFwd'
 organization_facebook: facebook.com/losangelesforward
 organization_instagram: '@LAForward'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   LA Forward breaks down barriers to civic participation and makes local
   government accessible to everyday people, not just political insiders and
   lobbyists. We provide Angelenos with resources and training to turn their
@@ -39,10 +39,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   COVID-19 has introduced a series of monumental and unprecedented challenges,
   including: 
 
@@ -66,7 +66,7 @@ What is the need you’re responding to?: >-
   mobilization, as well as its coordinating role in the Healthy LA Coalition, LA
   Forward is helping to mobilize a multi-faceted, people-powered response to
   this widening crisis.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Since the outbreak of coronavirus, LA Forward's mission has taken on new
   urgency. We are powered by dedicated member volunteers who have banded
   together and pooled their expertise and energy to support our Los Angeles
@@ -90,7 +90,7 @@ Why is this project important to the work of your organization?: >-
   - Deep relationships across sectors including housing, labor, and faith
   organizations, and experience with coalition building helps us bring diverse
   groups together and offer leadership.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Without immediate and coordinated action, Los Angeles will experience an epic
   flood of evictions, foreclosures, and more on a scale never seen before. 
 
@@ -129,15 +129,15 @@ Please explain how you will define and measure success for your project.: >-
 
   - Number of households that own or live in community-controlled housing goes
   up.
-Approximately how many people will be directly impacted by this proposal?: '100000'
-Approximately how many people will be indirectly impacted by this proposal?: '3000000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '100000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '3000000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   We expect our Healthy LA work to play a critical role in helping the LA region
   to respond and recover from one of the greatest crises of our history. By
   building connections and community among Angelenos across lines of race,
   class, and neighborhood, we will create a movement that can prevent a health
   emergency from metastasizing into a social and economic crisis.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   This proposal is not technically a collaboration, but LA Forward’s work in
   this area — and all others — is done in partnership with many organizations
   and coalitions. LA Forward has been a leader in organizing and coordinating
@@ -155,13 +155,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Housing affordability
   - Resilient communities
   - Homelessness
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: la-forward
 order: 27

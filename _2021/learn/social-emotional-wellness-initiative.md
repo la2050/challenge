@@ -18,7 +18,7 @@ organization_website: 'https://www.sewi.org'
 organization_twitter: '@SEWIWellness'
 organization_facebook: Social & Emotional Wellness Initiative
 organization_instagram: '@SEWInitiative'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Social and Emotional Wellness Initiative’s (SEWI) mission is to enhance the
   quality of life for youth and families by educating, motivating, and providing
   prevention programs through social and emotional wellness services.
@@ -34,10 +34,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Providing all students with a high-quality education and reducing the dropout
   rate require more than academic and economic resources. Students also require
   psychological resources, such as the belief that achievement is possible and
@@ -52,7 +52,7 @@ What is the need you’re responding to?: >-
   social & emotional programming to help staff better meet the ever changing
   needs of the youth at their organizations and support the work of the MSW
   interns.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   There is a growing body of research proving that social and emotional learning
   (SEL) is fundamental to academic success, and must be woven into the work of
   every teacher in every classroom and every after school and summer learning
@@ -66,7 +66,7 @@ Why is this project important to the work of your organization?: >-
   learning to their students at a meaningful level. SEWI has the resources,
   skills and proven outcomes to better engage students' social and emotional
   learning needs and in turn help to reduce dropout rates.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Our goal is for schools that partner with SEWI and implement the MSW intern
   program to have a steady decline in student drop out rates annually. To ensure
   our program is effective, we set requirements for our MSW interns to collect
@@ -81,9 +81,9 @@ Please explain how you will define and measure success for your project.: >-
   addition, SEWI will work with school personnel to gather data on absences,
   grades and dropout rates to adjust programming as necessary and meet the needs
   of individual students who may be struggling. 
-Approximately how many people will be directly impacted by this proposal?: '300'
-Approximately how many people will be indirectly impacted by this proposal?: '1000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '300'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '1000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   We partner with schools to serve youth that are primarily low income and on
   free and or reduced lunch.  These young people often are unable to receive
   mental health service and additional school support. MSW interns run groups on
@@ -101,10 +101,10 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Office space for meetings, events, or for staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Suspension and expulsion rates
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your application will impact.: []
+year: 2021
 category: learn
 filename: social-emotional-wellness-initiative
 order: 66

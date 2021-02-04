@@ -18,7 +18,7 @@ organization_website: 'https://truthseekersinc.org'
 organization_twitter: 'https://twitter.com/_TruthSeekers_'
 organization_facebook: 'https://www.facebook.com/TruthSeekersRadio/'
 organization_instagram: '@https://www.instagram.com/truthseekersradio/'
-Please describe the mission of your organization.: |-
+Describe the mission of your organization.: |-
   To utilize radio and television broadcasting operations to
   encourage and provide outlets for the creative skills and energies of the
   community.
@@ -54,10 +54,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   TruthSeekers, Inc. is a cutting-edge 501(c)(3) organization that is dedicated
   to
 
@@ -83,7 +83,7 @@ What is the need you’re responding to?: >-
   contemporary mediums is essential now more than ever. Our program aims to
   respond to this new chapter of online media consumption, training youth of all
   ages to bring quality content to their respective communities.
-Why is this project important to the work of your organization?: >+
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >+
   This project is important work to our organization as we recognize developing
   needs of resources among our target population during the global Pandemic.
   With the new landscape of working from home, many are faced with spending much
@@ -99,7 +99,7 @@ Why is this project important to the work of your organization?: >+
   gap and lead a new generation of voices to create a better Los Angeles for
   all.
 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   We define success for our project by directly training students to become
   their own show hosts to curate their own programming after completion of
   internship. We will measure success by logging listens, streams, downloads,
@@ -127,9 +127,9 @@ Please explain how you will define and measure success for your project.: >-
   educating people on our innovative health and wellness approach for creatives
   in LA with our diverse backgrounds, multigenerational homes, and unique
   artistry.
-Approximately how many people will be directly impacted by this proposal?: '100'
-Approximately how many people will be indirectly impacted by this proposal?: '10000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '100'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '10000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The impact of our proposal allows Los Angeles to increase its metrics in
   creative opportunities for youth with a well rounded program to launch their
   entertainment industry experience with live broadcast and media production. By
@@ -144,7 +144,7 @@ Please describe the broader impact of your proposal.: >-
   We will empower individuals to experience deeper connection and understanding
   of different cultures through the lens of Los Angeles, as they discovery and
   feature artists from around the world.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   PharcydeTV ~ Studio & Facilities Maintenance, Hardware & Software Engineers,
   etc.
 
@@ -163,12 +163,12 @@ Which of LA2050’s resources will be of the most value to you?:
 Please list the organizations collaborating on this proposal.:
   - PharcydeTV
   - Dank Radio
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Employment in the creative industries
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CONNECT
-year: 2020
+year: 2021
 category: create
 filename: truthseekers-inc
 order: 40

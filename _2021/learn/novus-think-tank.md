@@ -17,7 +17,7 @@ organization_website: 'https://www.novusthinktank.org'
 organization_twitter: '@novusthinktank'
 organization_facebook: novusthinktank
 organization_instagram: '@novusthinktank'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Novus Think Tank is an interdisciplinary, student-led non-profit devoted to
   nurturing self-agency in future leaders by providing them a space to foster
   their passions and goals. We seek to marry ideation to action, through
@@ -35,8 +35,8 @@ Which LA2050 goal will your submission most impact?: LA is the best place to LEA
 In which areas of Los Angeles will you be directly working?:
   - Central LA
   - South LA
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   The Why Project is a direct response to the current education system, which 
   lacks in its ability to support the passions of students in ALL subjects.
   Education should not be limited to essays or exams, but applications of how
@@ -45,7 +45,7 @@ What is the need you’re responding to?: >-
   motivated to believe that their ideas can change the world. Ultimately, this
   squashes their ability to bring forward their ideas and make them into
   reality. 
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   As a grassroots organization, we’ve seen firsthand how execution of a passion
   project incites creativity and self agency, an essential skill to flourishing
   in all endeavors. Our organizers have gone on to become successful academics,
@@ -61,7 +61,7 @@ Why is this project important to the work of your organization?: >
   goals, regardless of the current structures in place. We want to emulate these
   values found in our own organization to foster the same type of passion
   amongst students.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   The vision for the Why Project is to develop a community of passionate,
   empathetic and driven individuals in high schools across Los Angeles that
   embody values of self agency, vulnerability, and compassion. Because the Why
@@ -86,9 +86,9 @@ Please explain how you will define and measure success for your project.: >
   projects and provide them with the guidance and resources that they’ll need,
   but also be able to see a tangible project that they are fully invested in and
   responsible for.
-Approximately how many people will be directly impacted by this proposal?: '30'
-Approximately how many people will be indirectly impacted by this proposal?: '150'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '30'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '150'
+Describe how Los Angeles County will be different if your work is successful.: >-
   We hope that The Why Project is able to change the way in which education is
   approached within the classroom. This includes a curriculum that is focused on
   discovering the passions of each individual student. Moreover, a proper
@@ -107,13 +107,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: Novus Think Tank
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - College matriculation
   - High school graduation rates
   - Opportunity youth (“Disengaged youth” 16-24 not working or in school)
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: learn
 filename: novus-think-tank
 order: 53

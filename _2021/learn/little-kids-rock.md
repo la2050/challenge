@@ -17,7 +17,7 @@ organization_website: 'https://www.littlekidsrock.org/'
 organization_twitter: '@littlekidsrock'
 organization_facebook: Little Kids Rock
 organization_instagram: '@littlekidsrock'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   With its mission “to transform lives by restoring, expanding, and innovating
   music education in our schools,” Little Kids Rock (LKR) has become the
   national thought leader in the field of inclusive, culturally relevant, and
@@ -39,10 +39,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Music education cannot impact the lives of children it does not reach. In
   LAUSD, for example, 80%+ of students are eligible for free/reduced-fee meals,
   a strong indicator of the socio-economic realities that students and their
@@ -57,7 +57,7 @@ What is the need you’re responding to?: >-
   their inner music-makers with profound results including enhanced emotional
   literacy, improved attendance, and increased engagement in the school
   community.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   No other service provider combines teacher training, instruments, and
   curriculum and offers them as a direct investment in the district’s existing
   infrastructure. For instance, LKR’s modern band approach is implemented by
@@ -77,7 +77,7 @@ Why is this project important to the work of your organization?: >-
   With a modest initial investment, and by leveraging students’ cultural capital
   through inclusive curricula, LKR can scale modern band exponentially to
   transform music education across LA County.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   The Modern Band Los Angeles County project will dramatically expand access to
   culturally relevant music education in LA County. LKR currently serves over
   17,000 students in 175 classrooms across the county. During the 2020-2021
@@ -115,9 +115,9 @@ Please explain how you will define and measure success for your project.: >-
 
   - 70% of teachers observe improved behavior among students who had previously
   behaved poorly in class
-Approximately how many people will be directly impacted by this proposal?: '3000'
-Approximately how many people will be indirectly impacted by this proposal?: '20000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '3000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '20000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Ours is an age of unprecedented diversity, but traditional music education
   excludes students who do not recognize themselves or their culture in the
   music being offered in school. By teaching genres like rap, hip hop, Latin and
@@ -128,7 +128,7 @@ Please describe the broader impact of your proposal.: >-
   data shows that access and exposure to inclusive music education practices
   positively impact the entire school and many modern band programs are a point
   of pride throughout the larger community.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   While this is not a collaborative proposal, partnerships are at the core of
   all of LKR’s work. We have a strong relationship with LAUSD, which supports
   our introductory workshops, Ambassador-led professional developments, and
@@ -147,13 +147,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - 'Office space for meetings, events, or for staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - Enrollment in afterschool programs
   - K-8 chronic absenteeism
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: learn
 filename: little-kids-rock
 order: 45

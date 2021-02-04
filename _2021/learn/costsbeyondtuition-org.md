@@ -17,7 +17,7 @@ organization_website: 'https://www.costsbeyondtuition.org'
 organization_twitter: '@CBTuition'
 organization_facebook: 'https://www.facebook.com/cbtuition.org'
 organization_instagram: 'https://www.instagram.com/cbtuition/'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   CostsBeyondTuition.org’s mission is to connect college students to micro
   philanthropists aspiring to make a direct impact on college student's needs.
   Our goal is to close the inequality gap and encourage college students that
@@ -38,12 +38,12 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Applying a proven model or solution to a new issue or sector (e.g, using a job
   recruiting software or strategy to match clients to supportive housing sites,
   applying demonstrated strategies from advocating for college affordability to
   advocating for housing affordability and homelessness, etc.)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Sixteen years after graduating with an Associates degree, I decided to finish
   my BS degree. At school, I met a young student: Leslie. One day, I asked
   Leslie about the online homework. She said she hadn’t done it because she
@@ -57,7 +57,7 @@ What is the need you’re responding to?: >-
   on college students. To ensure integrity, our team will vet requests, purchase
   items, and ship them directly to students. College students will have a simple
   way to get resources and donors can trust donations will be used as intended.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   I am uniquely suited for this organization for the following reasons: I too
   struggled during college. Most of the time I only had $5 (or less) to eat
   during school, and in many cases I was not able to purchase books because they
@@ -71,7 +71,7 @@ Why is this project important to the work of your organization?: >-
   and recommendations, I have been developing the logistical part of the
   organization to ensure CostsBeyondTuition.org becomes as successful as
   DonorsChoose.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   At CostsBeyondTutition.org we will define and measure success by us achieving
   the following before June 30, 2021:
 
@@ -94,9 +94,9 @@ Please explain how you will define and measure success for your project.: >-
   foundation to achieve our mission of closing the inequality gap and encourage
   college students that are struggling financially to continue pursuing their
   higher education.
-Approximately how many people will be directly impacted by this proposal?: '100'
-Approximately how many people will be indirectly impacted by this proposal?: '500'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '100'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '500'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Our project will have a lasting impact on the most marginalized college
   students, who are often first-generation college students. The lasting impact
   of CostsBeyondTuition.org includes higher graduation rates amongst our low
@@ -115,12 +115,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Strategy assistance and implementation
   - Testimonials
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - College graduates
   - College matriculation
   - Community college completion
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your application will impact.: []
+year: 2021
 category: learn
 filename: costsbeyondtuition-org
 order: 20

@@ -17,7 +17,7 @@ organization_website: 'https://www.boyleheightsbeat.com'
 organization_twitter: '@boyleheightsbt '
 organization_facebook: 'Boyle Heights Beat '
 organization_instagram: '@boyleheightsbt'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Boyle Heights Beat is a bilingual community news project produced by youth,
   offering news “por y para la comunidad." The bi-lingual paper, its companion
   website, podcast and social media presence serve as important news sources in
@@ -40,10 +40,10 @@ In which areas of Los Angeles will you be directly working?:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
   - Boyle Heights
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs) 
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Boyle Heights is a neighborhood in the East Los Angeles area of nearly 100,000
   residents. Only 5% of the population over 25 has a four-year college degree.
   Sixty-two percent of residents are low-income, with 62% having limited English
@@ -63,7 +63,7 @@ What is the need you’re responding to?: >-
   Boyle Heights Beat will work to build and strengthen relationships between
   youth and the elderly; creating dialogues and giving voice to both
   populations, which often are overlooked and ignored. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Over the last decade, Boyle Heights Beat has a proven track record in the
   neighborhood and has become a source the community relies on for information
   and engagement. Many of the issues reported by youth journalists focus on
@@ -79,7 +79,7 @@ Why is this project important to the work of your organization?: >-
   With our connections in the community, Boyle Heights Beat can partner with
   other local non-profits to publish exhibit the oral histories to create an
   even greater reach and deepen community connections.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   From our program’s beginnings researchers at UCSF created a survey to measure
   our project’s success and impact. We conduct these surveys and interviews with
   participant’s and community members while
@@ -113,9 +113,9 @@ Please explain how you will define and measure success for your project.: >-
   measured by the ability to both create and sustain these relationships,
   elevate voices and issues in the community and create a network which can be
   used to help advocate for those in need. 
-Approximately how many people will be directly impacted by this proposal?: '10000'
-Approximately how many people will be indirectly impacted by this proposal?: '100000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '10000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '100000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Direct impact includes not only participants, but our average followers on our
   website and social media channels. Our indirect impact includes the number of
   Boyle Heights residents who can benefit by increasing connections in the
@@ -139,11 +139,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Government responsiveness to residents’ needs
   - Immigrant integration
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CREATE
   - LA is the healthiest place to LIVE
@@ -164,7 +164,7 @@ Has your proposal changed due to COVID-19?: >
 
 
   Stories throughout the year will be gathered and archived. It is still our hope to create installations of the oral histories, either in public or online, as a means to engage the youth and elderly communities and further dialogues and grow intergenerational networks.
-year: 2020
+year: 2021
 category: connect
 filename: boyle-heights-beat-radio-pulso
 order: 3

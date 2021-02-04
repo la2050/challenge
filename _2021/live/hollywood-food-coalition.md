@@ -17,7 +17,7 @@ organization_website: 'https://www.hofoco.org'
 organization_twitter: '@hollywoodfoodco'
 organization_facebook: 'https://www.facebook.com/HoFoCo/'
 organization_instagram: '@hollywoodfoodco'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The mission of the Hollywood Food Coalition is to feed and serve the immediate
   needs of the hungry every night of the year so they can build better lives. 
   Our vision is a city where everyone has food, community and support.  
@@ -34,10 +34,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Over 11% of the people living in Los Angeles county are food insecure.  Well
   over one million of our neighbors do not know where their next meal is coming
   from: this is the largest 'food insecure' population in the U.S.  Structural
@@ -51,7 +51,7 @@ What is the need you’re responding to?: >-
   food insecurity is tragic, but it is a problem that can be solved: the HFC has
   created, and hopes to expand, mechanisms to address all aspects of the
   problem. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Solving the problems of food waste and food insecurity is what we have done
   since inception.  In l987 we started serving people in need sandwiches. 
   Within a few years we grew into a meal service agency that now serves over
@@ -66,7 +66,7 @@ Why is this project important to the work of your organization?: >-
   understanding of the logistical challenges needed to create LA's first “Food
   Hub”: where food can be stored, repackaged, repurposed and ultimately shared
   throughout LA. 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   We will measure success by how much food we collect and how much we
   distribute.  Our goal is to triple the amount of food we rescue and share to
   18,000 pounds a week by July 2021.  Securing a facility separate from our
@@ -87,9 +87,9 @@ Please explain how you will define and measure success for your project.: >-
   in the city of Los Angeles.  Success would mean replicating our 'hub' model,
   in community after community after community, until our entire city's food
   needs are met.
-Approximately how many people will be directly impacted by this proposal?: '5000'
-Approximately how many people will be indirectly impacted by this proposal?: '10000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '5000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '10000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   We believe in building coalitions, first and foremost, and we believe food is
   a critical medium through which coalitions can be built.  We are invested in
   helping other Not For Profit organizations achieve their missions by ensuring
@@ -100,7 +100,7 @@ Please describe the broader impact of your proposal.: >-
   and that food rescue is an integral part of a solution to the problem of
   global warming.  Bottom line: we believe that everyone should always have
   access to delicious, healthy food.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Partners not only play a role in our project, they are our project.  Our
   partners are our clients, the hundreds of donors who share food, and the raft
   of recipient organizations (20, approximately, as of this writing). 
@@ -146,12 +146,12 @@ Please list the organizations collaborating on this proposal.:
   - Canter's Deli
   - Whole Foods
   - Trader Joe's
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Access to healthy food
   - Food insecurity
   - Homelessness
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your application will impact.: []
+year: 2021
 category: live
 filename: hollywood-food-coalition
 order: 19

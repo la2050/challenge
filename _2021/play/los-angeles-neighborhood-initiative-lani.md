@@ -19,7 +19,7 @@ organization_website: 'https://www.lani.org'
 organization_twitter: '@LANIorg'
 organization_facebook: /LANIorg
 organization_instagram: '@LANIorg'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   LANI revitalizes neighborhoods by engaging people and building vibrant public
   spaces. We work with residents, businesses, community groups, and local
   leaders to create walkable, green, safe neighborhoods with access to healthy
@@ -38,8 +38,8 @@ In which areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - South LA
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   The project’s three communities each have a unique culture to celebrate and
   share, as well as economic, social, and public image challenges to address,
   particularly as communities that may be unfairly stereotyped as dangerous,
@@ -56,7 +56,7 @@ What is the need you’re responding to?: >-
   share on social media via a posted selfie in front of the murals, thereby
   reinforcing a positive image of the neighborhoods, encouraging other visitors,
   and improving perceptions.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   LANI’s work empowers local stakeholders by engaging them in planning
   improvements designed to enhance public safety and health, spur economic
   development, foster local pride, and improve communal quality of life. This
@@ -73,7 +73,7 @@ Why is this project important to the work of your organization?: >-
   critical role in the revitalization of Los Angeles communities. LANI places
   equity as a core value in our projects, which helps us create trust and
   shepherd projects to success.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Our vision is that in each of the neighborhoods, community members of all ages
   collaborate with artists to design selfie spot murals that celebrate local
   culture, create opportunity for intergenerational play, attract visitors, and
@@ -107,9 +107,9 @@ Please explain how you will define and measure success for your project.: >-
 
   * Selfie spot murals are shared and identified on social media by locals and
   non-locals.
-Approximately how many people will be directly impacted by this proposal?: '150'
-Approximately how many people will be indirectly impacted by this proposal?: '100000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '150'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '100000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Public murals build social and economic equity and engage people of all ages
   in a creative civic project. Murals create a sense of place and result in
   increased foot traffic while adding vibrancy, culture, and a perception of
@@ -125,11 +125,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Communications support
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Parks with intergenerational play opportunities
   - Open streets gatherings
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your application will impact.: []
+year: 2021
 category: play
 filename: los-angeles-neighborhood-initiative-lani
 order: 15

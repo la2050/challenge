@@ -17,7 +17,7 @@ organization_website: 'https://www.theliteracyclub.org'
 organization_twitter: '@theliteracyclub'
 organization_facebook: The Literacy Club
 organization_instagram: '@tlcTheLiteracyClub'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Founded in 2015, The Literacy Club's mission is to provide children access to
   free books by way of our Seeding Book Deserts™ One Book, One Child & One
   Community Book Box initiative. by way of our Be A Book Hero Program one book,
@@ -38,10 +38,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   We are responding to the ongoing need of getting books to children and
   families in the LA  County communities, who are not able to or do not have
   access to books within a reasonable distance from their home. LA County's rate
@@ -56,7 +56,7 @@ What is the need you’re responding to?: >
   children’s literacy skills. Children need access to books in their
   neighborhoods, as well as adults who create an environment that inspires
   reading.” 
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   The Literacy Club’s sole purpose is getting books into the hands of children,
   doing whatever it takes, and at no charge. For instance over the last 2 weeks
   (March 15- April 3, 2020,) we have donated over 10,000 books to children
@@ -76,7 +76,7 @@ Why is this project important to the work of your organization?: >
   International and other community organizations to assist us in getting books
   into the community and installing our book boxes into the communities most in
   need.
-Please explain how you will define and measure success for your project.: >+
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >+
   We measure success by the impact of the children in these communities having
   access to books and while we cannot always follow the book and the child, we
   do get direct feedback from the organizations and community where the boxes
@@ -86,9 +86,9 @@ Please explain how you will define and measure success for your project.: >+
   neighborhood watch meeting in this housing project and 5 years later it is
   still happening.
 
-Approximately how many people will be directly impacted by this proposal?: '750'
-Approximately how many people will be indirectly impacted by this proposal?: ''
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '750'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: ''
+Describe how Los Angeles County will be different if your work is successful.: >
   The physical impact that our Book Boxes have been shown to have in all of the
   various communities that we’ve had the privilege of working with are
   countless. However, for this proposal specifically, the physical impact is
@@ -105,13 +105,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - Strategy assistance and implementation
   - 'woodshop and storage rent '
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - Student proficiency in English & Language Arts
   - Early education enrollment
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CONNECT
-year: 2020
+year: 2021
 category: learn
 filename: the-literacy-club
 order: 70

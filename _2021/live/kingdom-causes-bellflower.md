@@ -17,7 +17,7 @@ organization_website: 'https://www.kcbellflower.org'
 organization_twitter: '@kc_bellflower'
 organization_facebook: www.facebook.com/KingdomCausesBellflower
 organization_instagram: '@kcbellflower'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Our mission is to be a catalyst that inspires, connects, and mobilizes people
   towards personal and community transformation.  
 project_description: >-
@@ -33,10 +33,10 @@ Which LA2050 goal will your submission most impact?: LA is the best place to LIV
 In which areas of Los Angeles will you be directly working?:
   - East LA
   - South LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   People who struggle with homelessness face many barriers. These barriers
   include affordable housing, deficient job opportunities, addictions, mental
   health difficulties, and lack of supportive communities. Overcoming barriers
@@ -51,7 +51,7 @@ What is the need you’re responding to?: >-
   “Strong Neighbors” program will allow development of needed skills to obtain
   and retain housing, while providing support that cannot be fully offered by
   case management.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Kingdom Causes Bellflower (KCB) helps people get off the street, provides
   support services to those at risk of homelessness, creates pathways to
   sustainable work through social enterprise, and offers training and education
@@ -66,7 +66,7 @@ Why is this project important to the work of your organization?: >-
   provider but also utilizes existing neighborhood resources, facilitates
   strategic conversations, and seeks solutions that maximize community
   investment.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Kingdom Causes Bellflower (KCB) has been mobilizing volunteers for many years,
   but that responsibility has often been shared by a number of staff members and
   other community individuals who give of their time. The goal of this proposal
@@ -93,9 +93,9 @@ Please explain how you will define and measure success for your project.: >-
 
 
   (1) https://independentsector.org/news-post/new-value-volunteer-time-2019/
-Approximately how many people will be directly impacted by this proposal?: '150'
-Approximately how many people will be indirectly impacted by this proposal?: '1000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '150'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '1000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The population served by Kingdom Causes Bellflower (KCB) is the low-income
   residents of Bellflower, California, though the organization also serves
   residents from surrounding cities in Los Angeles County. These cities include
@@ -106,7 +106,7 @@ Please describe the broader impact of your proposal.: >-
   diversity of volunteer facilitators, including formerly homeless individuals.
   The indirect impact will encompass the larger constituency of KCB, and include
   aspects of awareness and opportunities for volunteering.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   While this is being submitted by Kingdom Causes Bellflower (KCB), expertise
   will be solicited from area volunteers, other non-profit organizations, small
   businesses, churches, law enforcement and city leadership. In addition, this
@@ -118,14 +118,14 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Housing affordability
   - Resilient communities
   - Homelessness
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: kingdom-causes-bellflower
 order: 25

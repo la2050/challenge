@@ -17,7 +17,7 @@ organization_website: 'http://urbanhomestead.org/'
 organization_twitter: '@urbanhomestead'
 organization_facebook: 'https://www.facebook.com/urbanhomestead'
 organization_instagram: '@theurbanhomestead'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   We are an established, successful and highly productive working urban farm
   that has developed itself as a media authority for sustainable urban
   agricultural living.  Our one-of-a-kind model has been featured by premiere
@@ -39,10 +39,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   The Urban Homestead receives letters and emails from around the world
   detailing the struggles and insights toward a truly sustainable human presence
   on the earth in the 21st Century.  
@@ -62,7 +62,7 @@ What is the need you’re responding to?: >-
   disposable society that is realizing we must each reduce our individual impact
   while lowering the impact of society at large.  And LA is perfectly positioned
   to become a global leader.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Despite its small size, the Urban Homestead project is a fully functioning
   urban farm in every way and it supplies our families with over 7,000 pounds of
   organic produce annually.  90% of our vegetarian diet comes from the garden so
@@ -84,7 +84,7 @@ Why is this project important to the work of your organization?: >-
   honeybees, use secondhand goods to decrease our consumption of earth’s
   nonrenewable resources, as well as continually cultivating and mastering vital
   heritage techniques and skills.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Our vision for success is a major increase in audience on our way to
   developing a robust multimedia platform and brand focused on sustainability. 
   An increase in listeners means an overall amplification of the sustainably
@@ -98,9 +98,9 @@ Please explain how you will define and measure success for your project.: >-
   transformation in mainstream American life.  We support a robust economy of
   true essentials and the rise in awareness of the impact of human presence on
   the earth.
-Approximately how many people will be directly impacted by this proposal?: '5'
-Approximately how many people will be indirectly impacted by this proposal?: '500000'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '5'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '500000'
+Describe how Los Angeles County will be different if your work is successful.: >
   Partners see this show as a flagship audio broadcast.  Our infrastructure is
   already complete.  The first thing a grant would cover is the time and
   attention for a team of 5 needed to develop episode materials well, and
@@ -113,7 +113,7 @@ Please describe the broader impact of your proposal.: >
   on our Youtube channel with the launch of the podcast episode video releases. 
   That impact would justify the production of a live and syndicated radio
   show.  
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Pasadena Media is a non-profit organization that facilitates, promotes and
   produces public service television programming on behalf of Pasadena’s four
   public and community access channels.
@@ -137,13 +137,13 @@ Which of LA2050’s resources will be of the most value to you?:
 Please list the organizations collaborating on this proposal.: >-
   The Urban Homestead, Pasadena Media, & ModCon Studios is Exec. Producer David
   Lawrence's shingle.
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Food insecurity
   - Water-use efficiency
   - Resilient communities
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: the-urban-homestead
 order: 56

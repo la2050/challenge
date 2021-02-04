@@ -18,7 +18,7 @@ organization_website: 'https://www.traumainformedla.org'
 organization_twitter: '@traumainformdla'
 organization_facebook: '@traumainformedla'
 organization_instagram: '@traumainformedla'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Trauma Informed LA (TILA) is an all-volunteer grassroots organization founded
   in 2014 whose mission is to foster resilient communities that promote healing
   and wellbeing through collaboration, education, and community engagement. 
@@ -37,10 +37,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   Our Stories Matter addresses the need for social and emotional connectedness
   by sharing stories of healing, resilience, and trauma survivorship. Angelinos
   can be part of a collective support system and healing process through
@@ -57,7 +57,7 @@ What is the need you’re responding to?: >
   and music. Each podcast episode will include transcription and Spanish
   language translation. As a digital means, the podcast allows people with
   difficulty getting to physical spaces to access the content remotely. 
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   Since 2015, TILA has provided education on trauma-informed practices to over
   4,200 people by partnering with over 30 community-based organizations. TILA
   offers diverse programming that emphasizes community care practices and builds
@@ -76,7 +76,7 @@ Why is this project important to the work of your organization?: >
   engagement, education, and collaboration, TILA is uniquely suited to foster
   connection between members of its network and beyond through the podcast. TILA
   already recorded Season 1 and has the infrastructure to continue.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   The goal of this project is to bolster intergenerational social and emotional
   connection through an inclusive “community care” model for healing built on
   community engagement. Healing stories, events, and workshops will center on
@@ -106,9 +106,9 @@ Please explain how you will define and measure success for your project.: >-
   events, which will allow TILA to report the data collected in aggregate
   (combining the data obtained from podcast listeners and resource fair
   participants) as well as by form of engagement. 
-Approximately how many people will be directly impacted by this proposal?: '2250'
-Approximately how many people will be indirectly impacted by this proposal?: '375'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '2250'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '375'
+Describe how Los Angeles County will be different if your work is successful.: >
   As seen through the ACEs study (Felitti, 1998), trauma can be passed down
   through generations with negative impacts on the health of trauma survivors.
   Social and emotional connection can foster healing, thereby mitigating the
@@ -128,17 +128,17 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Office space for meetings, events, or for staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Public arts and cultural events
   - Disability access and inclusion
   - Resilient communities
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CREATE
   - LA is the healthiest place to CONNECT
   - LA is the best place to CREATE
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: connect
 filename: trauma-informed-la-tila
 order: 61

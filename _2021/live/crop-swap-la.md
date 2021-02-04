@@ -17,7 +17,7 @@ organization_website: 'https://www.cropswapla.com'
 organization_twitter: ''
 organization_facebook: 'https://www.facebook.com/jamiah.e.hargins'
 organization_instagram: '@lacropswap'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Crop Swap LA is a social enterprise seeking to close the nutritional gap in
   Los Angeles by creating an infrastructure for all communities to have access
   to nutrient-rich food and the knowledge to grow it.
@@ -34,10 +34,10 @@ In which areas of Los Angeles will you be directly working?:
   - Central LA
   - South LA
   - Westside
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Even before COVID-19 struck, Los Angeles was searching for solutions in all
   directions. Air quality was causing asthma in youth across the city. Access to
   healthy food looked more like deserts and institutionalized food
@@ -54,7 +54,7 @@ What is the need you’re responding to?: >-
   In our proposal, hiring a green force of gardeners to create food on
   volunteered front yards will address these concerns, creating economic
   prosperity for each party involved.  
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   The organization began because the founder wanted fresh, dependable food for
   his incoming daughter, and understood the delicate nature of the food system.
   He first began gardening in college in 2002 as a stress reliever, and began
@@ -68,7 +68,7 @@ Why is this project important to the work of your organization?: >-
   preservation, and much more. Getting the attention of TIME Magazine and the
   Mayor of LA, all of this has come together with no budget. We are asking for
   your support to trigger our momentum and turn this dream into a reality. 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   We will install front yard gardens, rain water harvesting systems, and
   composting for 7 low-income ($35k/y) residential families along a single
   street. Each garden will be professionally designed and managed by urban
@@ -91,9 +91,9 @@ Please explain how you will define and measure success for your project.: >-
   energetic she's been since working in the yard. She's also grateful to earn a
   percentage of the revenue that Crop Swap LA makes, so doesn't mind their
   gardeners passing through to keep it up.
-Approximately how many people will be directly impacted by this proposal?: '150'
-Approximately how many people will be indirectly impacted by this proposal?: '1500'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '150'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '1500'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The impact begins with the 4 full time green employed gardeners and their
   families, and extends to the 7 residential families in low income
   neighborhoods who will receive them. Assuming two apartment buildings
@@ -105,7 +105,7 @@ Please describe the broader impact of your proposal.: >-
   quality. A study in Santa Barbara suggests CA could reach 8% of its greenhouse
   gas reduction goals by installing front yard gardens, helping neighbors
   nearby. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': |-
+'Describe the role of collaborating organizations on this project.': |-
   Partnerships Lined Up
   Erin Riley with Hope Gardens (vegetable and native garden installations)
   Mike Garcia with Enviroscape (rainwater catchment installations)
@@ -127,15 +127,15 @@ Please list the organizations collaborating on this proposal.:
   - Chrysalis (part time labor and reentry support)
   - Tree People (orchard installations)
   - City Plants (seedlings)
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Access to healthy food
   - Water-use efficiency
   - Resilient communities
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the healthiest place to CONNECT
 Has your proposal changed due to COVID-19?: >
   Everyone will be required to wear masks, gloves, and to evaluate themselves as to whether they are healthy enough to assist in garden installations. Only minimal staff/volunteers are to be present for installations, and  interactions with the home residents will remain scarce. Other activities have minimized but are still moving forward: fruit picking with gloves and masks, and the West Adams Farmers Market continues to run with approval from the city having visited to observe our containment tactics. 
-year: 2020
+year: 2021
 category: live
 filename: crop-swap-la
 order: 10

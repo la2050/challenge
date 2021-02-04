@@ -17,7 +17,7 @@ organization_website: 'https://www.altadenalibrary.org'
 organization_twitter: '@AltadenaLibrary'
 organization_facebook: 'https://www.facebook.com/altadenalibrary'
 organization_instagram: '@altadenalibrary'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The Altadena Library District is dedicated to bringing people and ideas
   together for an Altadena where all are learning, growing, and thriving
   together.
@@ -30,8 +30,8 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to CONNECT
 In which areas of Los Angeles will you be directly working?:
   - San Gabriel Valley
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   Altadena Libraries serve approximately 53,000 people within its vicinity.
   While Altadena has affluent areas, there is a disparity in income among the
   residents, particularly between East and West Altadena where the population
@@ -45,7 +45,7 @@ What is the need you’re responding to?: >-
   Altadena Libraries are committed to helping students and their families who do
   not have equal opportunity to technology, literacy, and other learning
   resources through outreach projects, such as a Mobile Library.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Altadena Library District is an independent special district in Los Angeles
   County in the unincorporated community of Altadena, where there are no
   municipal or civic buildings for the community that offer a focal point for
@@ -58,7 +58,7 @@ Why is this project important to the work of your organization?: >-
   proven history of service to San Gabriel Valley, Altadena Library District is
   an excellent choice for investing capital for projects to LEARN, CREATE, PLAY,
   CONNECT, AND LIVE.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   A successful mobile library program would include a robust schedule of
   outreach events across all Census Tracts in our community, prioritizing
   opportunities on the west side of Altadena. Equipped with technology and
@@ -78,9 +78,9 @@ Please explain how you will define and measure success for your project.: >-
   then granted access to not only our physical but also our digital resources.
   Signing up for a library indicates an investment in community, especially in
   our community where the Altadena Libraries are key community hubs.
-Approximately how many people will be directly impacted by this proposal?: '31000'
-Approximately how many people will be indirectly impacted by this proposal?: '53000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '31000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '53000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Altadena lacks structured communication systems and a City Hall. The Library
   absorbs traffic that a local government would address; thus, we can connect
   our community directly with key services and build civic engagement. A mobile
@@ -97,13 +97,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Internet access
   - Government responsiveness to residents’ needs
   - Volunteerism
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
-year: 2020
+year: 2021
 category: connect
 filename: altadena-library-district
 order: 1

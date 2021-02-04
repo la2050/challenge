@@ -17,7 +17,7 @@ organization_website: 'https://changeist.org'
 organization_twitter: '@changeistLA'
 organization_facebook: 'https://www.facebook.com/changeistLA'
 organization_instagram: '@changeistLA'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Changeist's mission is to build a community of diverse young people that
   utilize their personal agency to create a more just society. We're fostering
   young people's sociopolitical empowerment and growing their social capital, so
@@ -33,10 +33,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Today we are facing many issues in the world: racism, climate change, failing
   education systems. Over time there has been one group of people who have taken
   on the status quo and shifted these big issues: young people. Young people are
@@ -46,7 +46,7 @@ What is the need you’re responding to?: >-
   walks of life, places them on diverse teams and takes them through a 6-month
   community-based experience, exploring and taking action on the issues they
   care most about.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Changeist has been bringing together youth on Saturdays since 2015, working to
   increase youths’ civic knowledge and personal agency by leveraging diverse
   team and near-peer mentors, focusing on the building of a critical lens and
@@ -65,7 +65,7 @@ Why is this project important to the work of your organization?: >-
   community full-time for 11 months) is both a great way for young adults to
   gain meaningful skills and ensures our programming remains relevant to the
   younger generations.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   We expect to see significant changes in the program's ten target outcomes in
   the areas of Character Development, Social Capital, and Sociopolitical
   Empowerment:
@@ -108,9 +108,9 @@ Please explain how you will define and measure success for your project.: >
   doing and feeling in that moment. This approach provides us with data on the
   quality of program implementation and how youth are experiencing and
   interacting with program components.
-Approximately how many people will be directly impacted by this proposal?: '300'
-Approximately how many people will be indirectly impacted by this proposal?: '5000'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '300'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '5000'
+Describe how Los Angeles County will be different if your work is successful.: >
   We are one of nearly 60 other AmeriCorps State programs operating in
   California and are the only program model that uses service as a strategy to
   grow civic engagement among youth. Over the course of the year, we connect
@@ -125,13 +125,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - 'Office space for meetings, events, or for staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Public transit ridership
   - Volunteerism
   - Residential segregation
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: connect
 filename: changeist
 order: 8

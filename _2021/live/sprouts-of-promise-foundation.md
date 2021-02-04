@@ -18,7 +18,7 @@ organization_website: 'https://www.sproutsofpromise.org'
 organization_twitter: '@gofarmermark'
 organization_facebook: playavistaFM
 organization_instagram: '@farmermarkpv'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Sprouts of Promise is a 501(c)(3) nonprofit working in Los Angeles and Orange
   County to: connect food-insecure individuals with locally grown produce,
   educate children and families on the necessity of fresh fruits and vegetables
@@ -37,8 +37,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   During the COVID-19 pandemic Governor Newsom listed farmers' markets as
   essential public services and called on markets to remain open. Despite this,
   many markets across Los Angeles were forced, by landlords and local
@@ -55,7 +55,7 @@ What is the need you’re responding to?: >-
   independently toward the same goals, efforts are being wasted and vulnerable
   populations remain underserved. Similarly, markets are unconnected to their
   Neighborhood Councils, who's work markets should champion and benefit from.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Sprouts of Promise advocates for farmers' markets and works to connect
   underserved populations with healthy food. During the COVID-19 crisis, Sprouts
   of Promise initiated email collaboration between farmers' market managers
@@ -74,7 +74,7 @@ Why is this project important to the work of your organization?: >-
   Community Development Manager, Aubrey Yarbrough, sits on a sub-committee of
   the North Westwood Neighborhood Council (NWWNC) and is well positioned to
   promote integration between markets and Neighborhood Councils.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   * 90% coalition participation by farmers’ market within LA County
 
   * Creation of an annual LA Farmers’ Market Week in Spring
@@ -98,9 +98,9 @@ Please explain how you will define and measure success for your project.: >
   uniting and partnering with local Neighborhood Councils we can expand farmers'
   markets social safety networks while simultaneously expanding the reach of
   Neighborhood Councils.
-Approximately how many people will be directly impacted by this proposal?: '300'
-Approximately how many people will be indirectly impacted by this proposal?: '10000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '300'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '10000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Across Los Angeles, and especially in low-income food deserts, communities
   will have access to fresh fruits and vegetables without (non weather-related)
   market closures. These communities will have greater access to government
@@ -109,7 +109,7 @@ Please describe the broader impact of your proposal.: >-
   increased participation in local Neighborhood Councils, these community
   members will benefit from locally funded programs like community compost
   hubs. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Center for Community Food & Resilience at Occidental College will
   co-facilitate quarterly LA Farmers' Market Coalition meetings. They will also
   provide research support to help establish best-practices for addressing the
@@ -128,12 +128,12 @@ Which of LA2050’s resources will be of the most value to you?:
 Please list the organizations collaborating on this proposal.:
   - Center for Community Food & Resilience at Occidental College
   - barrio.la.
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Access to healthy food
   - Food insecurity
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: sprouts-of-promise-foundation
 order: 48

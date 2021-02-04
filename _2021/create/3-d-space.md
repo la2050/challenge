@@ -20,7 +20,7 @@ organization_website: 'https://www.3-DSPACE.org'
 organization_twitter: '@la3dspace'
 organization_facebook: '@la3dspace'
 organization_instagram: '@la3dspace'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   3-D SPACE is dedicated to the preservation of the history of stereoscopic
   imaging and the advancement of current and future 3-D arts and sciences. 3-D
   SPACE offers public presentations, classes and workshops in 3-D content
@@ -33,10 +33,10 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to CREATE
 In which areas of Los Angeles will you be directly working?:
   - Central LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   This project will digitize the over 3,000 analog stereogram cards currently in
   the collection of 3-D SPACE, and integrate them into a VR environment and
   public installation that will serve as a destination where participants will
@@ -55,8 +55,8 @@ What is the need you’re responding to?: >
   the same as in the past, and that VR techniques culturally achieve the exact
   same goals. This will provide a means of immersive exposure to our history,
   that the public would not otherwise have the opportunity to experience.
-Why is this project important to the work of your organization?: "Thanks to recent advances in digital technologies, there has been a renewed enthusiasm for all things 3-D, from 3-D movies to virtual reality.\n\_\nBut most people aren't aware that stereoscopic imaging has a very rich history that dates back to the 19th century. Our center celebrates the work of many talented artists, photographers and filmmakers who have used the medium of 3-D as their creative tool, and educates the public on the art and science of stereography.\n\nBy combining the latest state-of-the-art VR technology with the immersive media that was state-of-the-art 150 years ago we will give participants a transportive experience within a transportive experience, and will demonstrate how the analog of the past directly informs the digital of the future.\n\n3-D SPACE, The Center For Stereoscopic Photography, Art, Cinema, and Education is uniquely suited for this project as we are the only museum in the US dedicated specifically to the past, present, and future of 3-D imagery."
-Please explain how you will define and measure success for your project.: >+
+Describe the project, program, or initiative that this grant will support to address the problem identified.: "Thanks to recent advances in digital technologies, there has been a renewed enthusiasm for all things 3-D, from 3-D movies to virtual reality.\n\_\nBut most people aren't aware that stereoscopic imaging has a very rich history that dates back to the 19th century. Our center celebrates the work of many talented artists, photographers and filmmakers who have used the medium of 3-D as their creative tool, and educates the public on the art and science of stereography.\n\nBy combining the latest state-of-the-art VR technology with the immersive media that was state-of-the-art 150 years ago we will give participants a transportive experience within a transportive experience, and will demonstrate how the analog of the past directly informs the digital of the future.\n\n3-D SPACE, The Center For Stereoscopic Photography, Art, Cinema, and Education is uniquely suited for this project as we are the only museum in the US dedicated specifically to the past, present, and future of 3-D imagery."
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >+
   During the project’s working phase, the public will be invited to beta test
   the VR apps at preview events. Upon completion, a room-scale VR installation
   will serve as a destination for public participation and the cellphone based
@@ -77,9 +77,9 @@ Please explain how you will define and measure success for your project.: >+
   growth of audience size, attendance numbers at our events, and public demand
   for increased activities. 
 
-Approximately how many people will be directly impacted by this proposal?: '50'
-Approximately how many people will be indirectly impacted by this proposal?: '1000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '50'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '1000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Our hope is that the VR applications and content developed through this
   project will be of interest to other museums, archives, and libraries in Los
   Angeles. The finished VR applications can be made available to organizations
@@ -89,7 +89,7 @@ Please describe the broader impact of your proposal.: >-
   manner, and potentially spawn a publicly accessible network of digital
   stereoscopic images that can be shared among institutions and with the public
   at large.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   There is no specific collaborative partner for this project. 3-D SPACE is the
   singular applicant for this grant. Funds will not be disbursed to any
   partners.
@@ -109,12 +109,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - 'Arts establishments, instillations, and exhibitions'
   - Public arts and cultural events
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CONNECT
-year: 2020
+year: 2021
 category: create
 filename: 3-d-space
 order: 0

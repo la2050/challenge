@@ -17,7 +17,7 @@ organization_website: 'https://www.eleplate.org'
 organization_twitter: '@na'
 organization_facebook: ''
 organization_instagram: '@na'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   elePlate’s mission is to provide healthy food to people in need by empowering
   organizations to close the gap between sustainability and financial strength.
 project_description: >-
@@ -33,8 +33,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >
   LA has one of the largest populations of any county in the US. One-fifth of
   our population - nearly two million people - is food insecure, yet we throw
   away 30-40% of fresh food. We could feed everyone with that surplus. 
@@ -55,7 +55,7 @@ What is the need you’re responding to?: >
   While the current trend is to charge the donor to accomplish this goal, we
   created the elePlate model to provide a financially sustainable path towards
   funding free food recovery for any business that wants to donate.
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   This project will become elePlate’s primary program and is the backbone of our
   organization. It provides the foundation we need to grow our impact and solve
   food insecurity once and for all in Los Angeles.
@@ -77,7 +77,7 @@ Why is this project important to the work of your organization?: >
   In 2019, Bryan and Kate combined their business experience and passion for
   their community to cofound elePlate, with the mission of creating a solution
   that accounts for everyone involved.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Success is scaling county-wide in two years, and (1) having a profound impact
   on the food insecure community, (2) saving restaurants money, and (3) alerting
   consumers to this widespread issue.
@@ -105,9 +105,9 @@ Please explain how you will define and measure success for your project.: >-
   with the law—in advance of that deadline. How? The answer is simple: by
   improving food businesses' bottom lines. We ensure every business we work with
   becomes more profitable by becoming more sustainable. 
-Approximately how many people will be directly impacted by this proposal?: '20000'
-Approximately how many people will be indirectly impacted by this proposal?: '100000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '20000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '100000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Future of City: Access to healthy food is a human right. Our city has failed
   to provide this to its citizens. To change that, we need to rescue and divert
   food to every community in LA. 
@@ -132,12 +132,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Access to healthy food
   - Food insecurity
   - Water-use efficiency
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your application will impact.: []
+year: 2021
 category: live
 filename: eleplate
 order: 11

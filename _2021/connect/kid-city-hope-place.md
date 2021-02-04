@@ -17,7 +17,7 @@ organization_website: 'https://www.kidcityhopeplace.org'
 organization_twitter: '@KidCityHopePl'
 organization_facebook: Kid City Hope Place
 organization_instagram: '@kidcityhopeplace'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   At Kid City our mission is to increase access to opportunities where young
   people explore their intellectual curiosity and capacity, claim their
   education, and advocate for themselves and their communities.
@@ -35,12 +35,12 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Applying a proven model or solution to a new issue or sector (e.g, using a job
   recruiting software or strategy to match clients to supportive housing sites,
   applying demonstrated strategies from advocating for college affordability to
   advocating for housing affordability and homelessness, etc.)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   LA needs a new story! Especially during, and after, Covid-19, LA needs stories
   that bring people together to heal. The young people who will facilitate story
   circles at the museum are part of that new LA story. They are first generation
@@ -56,7 +56,7 @@ What is the need you’re responding to?: >-
   the desire of a younger generation to know its history. The story circles are
   a beautiful vessel to connect resident artists and curators to a new audience,
   and to deepen visitor experience.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Kid City and the Museum of Social Justice are long-time partners and fiscal
   sponsees of the Urban Foundation. We seek to amplify our impact by combining
   our greatest resources -- Kid City’s young adults, and the Museum’s artists
@@ -70,7 +70,7 @@ Why is this project important to the work of your organization?: >-
   facilitated by Kid City alumni would bring another real-life dimension to the
   Museum’s exhibits by hearing related stories from artists and people of
   diverse ages, races, ethnic backgrounds, and experience.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Our goal is to connect people from marginalized communities and diverse
   backgrounds to create a new LA Story. In the short term, story circles will
   bring a new audience to the museum. There, they may hear a story different,
@@ -93,9 +93,9 @@ Please explain how you will define and measure success for your project.: >
   a word or two that they heard. It is a simple sentence, that starts with “I
   heard someone say ….” These will be collected by facilitators, and analyzed to
   look for themes of integration and a sense of belonging.
-Approximately how many people will be directly impacted by this proposal?: '450'
-Approximately how many people will be indirectly impacted by this proposal?: '5000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '450'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '5000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Program staff and facilitators also have stories of challenge. Like the story
   circle participants, they are from humble roots, low-income, and mixed status
   families from a wide diversity of immigrant backgrounds. Now they are leaders
@@ -107,7 +107,7 @@ Please describe the broader impact of your proposal.: >-
 
   The Museum of Social Justice is located on the plaza Olvera, and has 40-50K
   visitors annually. Most visitors are Latinx families and school groups. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   As the fiscal sponsor of both Kid City and the Museum of Social Justice, the
   Urban Foundation handles most administrative duties. Kid City will recruit,
   train, and supervise communications personnel, story circle facilitators, and
@@ -126,12 +126,12 @@ Which of LA2050’s resources will be of the most value to you?:
 Please list the organizations collaborating on this proposal.: >-
   Kid City Hope Place, Museum of Social Justice (both organizations are fiscal
   sponsees of the Los Angeles United Methodist Urban Foundation)
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Public arts and cultural events
   - Immigrant integration
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
-year: 2020
+year: 2021
 category: connect
 filename: kid-city-hope-place
 order: 32

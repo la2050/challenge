@@ -18,7 +18,7 @@ organization_website: >-
 organization_twitter: '@kidscoalition'
 organization_facebook: '@kidscoalition'
 organization_instagram: '@puttingkidsfirst'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Translating "kids first" from a soundbite into a civil right for the children
   of Los Angeles and California by empowering public school parents and students
   with a seat at the table to challenge laws or policies that systemically don't
@@ -46,8 +46,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: Research (initial work to identify and understand the problem)
-What is the need you’re responding to?: >
+In what stage of innovation is this project, program, or initiative?: Research (initial work to identify and understand the problem)
+What is the problem that you are seeking to address?: >
   In theory, the purpose of public education is to serve students. However,
   students cannot vote, their parents cannot afford lobbyists, and they have no
   formal power to impact laws and policies that mandate them to attend school
@@ -63,7 +63,7 @@ What is the need you’re responding to?: >
   educational quality according to US News and World Report. And the average
   LAUSD student has less than a 50% chance to graduate with qualifications to
   even apply to a public university. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   The focus of my work over the past two decades has not been on a particular
   policy, school model, or ideology. It has been on unrigging the education
   bureaucracy for students. I launched a First 5 universal preschool program in
@@ -77,7 +77,7 @@ Why is this project important to the work of your organization?: >-
   of students. Kids Coalition can't do this alone. This movement cannot succeed
   without parents, students, educators, and civil rights advocates leading. But
   Kids Coalition is uniquely designed to help organize this theory of change.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   The Corona Virus pandemic will ebb and flow. In 12 to 18 months there will be
   a vaccine. And eventually we will begin to physically, economically, and
   existentially recover. When that happens, society will be faced with a stark
@@ -102,9 +102,9 @@ Please explain how you will define and measure success for your project.: >-
   parents, students, and educators to fundamentally put the interests of all
   students first when the time comes to send our children back to school and
   rebuild our educational institutions. 
-Approximately how many people will be directly impacted by this proposal?: '600000'
-Approximately how many people will be indirectly impacted by this proposal?: '720000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '600000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '720000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Establishing a “kids first” constitutional right would empower parents to
   legally challenge: school calendars or schedules that inhibit the
   developmental needs of students; laws that elevate seniority above quality in
@@ -115,7 +115,7 @@ Please describe the broader impact of your proposal.: >-
   their children. This isn’t about changing any single law or embracing any
   single ideology. As with other civil rights, it is designed to evolve over
   time as society’s understanding of what it means to put kids first evolves.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   This project is not being submitted as a formal collaboration but many partner
   organizations are engaged already. Kirkland & Ellis is doing the drafting and
   legal analysis pro bono, and has committed to representing public school
@@ -135,13 +135,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - College matriculation
   - High school graduation rates
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: learn
 filename: kids-coalition
 order: 41

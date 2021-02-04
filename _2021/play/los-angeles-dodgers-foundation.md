@@ -17,7 +17,7 @@ organization_website: 'https://www.mlb.com/dodgers/community/foundation'
 organization_twitter: '@DodgersFdn'
 organization_facebook: 'https://www.facebook.com/LosAngelesDodgersFoundation/'
 organization_instagram: '@dodgersfoundation'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Founded in 1995 as the official charity of the Los Angeles Dodgers, the Los
   Angeles Dodgers Foundation (LADF) is bigger than baseball, envisioning a city
   where every Angeleno, regardless of zip code, has the opportunity to thrive.
@@ -37,10 +37,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Understanding cost, lack of community safety and park access, and poor quality
   fields are significant barriers to baseball/softball participation and health
   outcomes in Compton, LADF identified Gonzales Park as the site for Dodgers
@@ -57,7 +57,7 @@ What is the need you’re responding to?: >-
   total residents) with limited opportunities to play baseball/softball in their
   neighborhood. In Compton, poverty levels are significant, as 30% of families
   with children live below the poverty line.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   LADF has invested over $10 million to build and refurbish 51 Dodgers
   Dreamfields across some of Los Angeles’ most underserved communities. 
 
@@ -76,7 +76,7 @@ Why is this project important to the work of your organization?: >-
   baseball/softball players ages 5-8, Rachel Robinson Field for baseball players
   ages 9-12 and softball players ages 9-18, and Jackie Robinson Stadium for
   baseball players ages 13+. 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   The goal for the Dodgers Dreamfields at Gonzales Park is to revive baseball
   and softball play in the area while providing access to safe, playable fields
   for the community.
@@ -102,9 +102,9 @@ Please explain how you will define and measure success for your project.: >-
   softball participation for 61.8% of parks, which validates the value Dodgers
   Dreamfields bring to the community, meeting the intended goals of the program.
   LADF anticipates similar outcomes at Gonzales Park.
-Approximately how many people will be directly impacted by this proposal?: '1000'
-Approximately how many people will be indirectly impacted by this proposal?: '96000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '96000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Dodgers Dreamfields are game-changers because revitalized green spaces help
   revitalize communities, boosting the safety of local parks and providing a
   place where neighbors can gather, exercise and play. We construct them and
@@ -121,7 +121,7 @@ Please describe the broader impact of your proposal.: >-
   Roughly 28,000 youth live in Compton (29% of residents; 66.8% Latino, 30.4%
   Black/African American). More than 91% of students receive free or reduced
   school lunch.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Kershaw’s Challenge will sponsor the Fitness and Training Zones, which include
   an outdoor training area, two enclosed batting cages and bullpens, infield
   practice area, and outdoor fitness equipment to engage the community to visit
@@ -150,11 +150,11 @@ Please list the organizations collaborating on this proposal.:
   - The Leon Lowenstein Foundation
   - Office of Supervisor Mark Ridley-Thomas
   - The Water Buffalo Club
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Youth sports participation
   - Access to open space and park facilities
   - Easy access to a safe park
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CONNECT
   - LA is the healthiest place to LIVE
@@ -166,7 +166,7 @@ Has your proposal changed due to COVID-19?: >
   This project will include building three Dodgers Dreamfields and Fitness and Training Zones, alongside lead partners Kershaw’s Challenge and the City of Compton. This project will help restore Gonzales Park to its prior baseball glory and promote a positive environment for youth to play baseball and softball. We believe that Dodgers Dreamfields are game-changers, because revitalized green spaces help revitalize communities, boosting the safety of local parks and providing a place where neighbors can gather, exercise and play.
 
   LADF looks forward to project completion so that, when it's safe to gather again, our youth and families can reenter and enjoy this new community space together.
-year: 2020
+year: 2021
 category: play
 filename: los-angeles-dodgers-foundation
 order: 13

@@ -18,7 +18,7 @@ organization_website: 'https://www.laist.com, www.scpr.org'
 organization_twitter: '@LAist, @KPCC'
 organization_facebook: 'https://www.facebook.com/theLAist/, https://www.facebook.com/kpcc/'
 organization_instagram: '@laistpics, @kpcc'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Southern California Public Radio’s mission is to strengthen the civic and
   cultural bonds that unite our diverse communities by providing the highest
   quality news and information service through radio and other interactive
@@ -37,10 +37,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   LAist launched “How To LA” last year as a handbook for day-to-day living in LA
   with an ongoing series of practical guides for understanding our complicated
   city. LA is a dizzying place to wrap your head around whether you're a
@@ -60,7 +60,7 @@ What is the need you’re responding to?: >-
   up-to-the-minute information from health and city officials. Our goal is to
   make sure you’re better equipped for the crisis at hand and what’s to come. We
   want to become your encyclopedia of LA.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   LAist is a trusted source of news and information with a public service
   journalism mission. We seek to speak with authority, to be human, and to
   explain LA. We collaborate with our award-winning engagement team to answer
@@ -68,7 +68,7 @@ Why is this project important to the work of your organization?: >-
   trusted service fact-based journalism, delivered with confidence and
   composure, will continue to be your go-to place to help you understand and get
   through the COVID-19 pandemic.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Since the COVID-19 pandemic reached LA, we have helped to answer over 150
   questions per day, and we imagine that this influx of questions will continue
   in the year ahead. We will track analytics and metrics like digital engaged
@@ -77,9 +77,9 @@ Please explain how you will define and measure success for your project.: >-
   created a public Facebook page, “A No-Panic Support Group For Living Through
   Coronavirus in LA,” where we will use not only to source and answer questions
   but also to help connect Angelenos during this devastating time.
-Approximately how many people will be directly impacted by this proposal?: '500000'
-Approximately how many people will be indirectly impacted by this proposal?: '10000000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '500000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '10000000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   At the beginning of the COVID-19 pandemic, we saw exponential growth in the
   number of readers seeking out LAist for information that’s specific to where
   we live -- more than 5 million unique readers in March 2020 alone. We
@@ -94,12 +94,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Communications support
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Healthcare access
   - Resilient communities
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: southern-california-public-radio-kpcc-laist
 order: 47

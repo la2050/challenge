@@ -17,7 +17,7 @@ organization_website: 'https://www.211la.org'
 organization_twitter: '@211LACounty'
 organization_facebook: 211 LA County
 organization_instagram: '@211lacounty'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   211 LA's mission is to guide people to the vital services that protect,
   support, inform, and lift them and their communities. The 2-1-1 phone line is
   open 24 hours, 7 days a week and serves as the central source for information
@@ -34,10 +34,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   211 LA maintains a homeless services website that is available for LA County
   service providers seeking information, resources, and support for their
   homeless clients. Currently, only services and programs that are
@@ -54,7 +54,7 @@ What is the need you’re responding to?: >-
   “bulletin board” feature to help homeless service providers obtain real-time,
   accurate, and timely information on homeless services and resource currently
   available; e.g. shelter, showers, nutritious meals, hygiene products, etc. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Since 1981, 211 LA has provided supportive services to homeless individuals
   living in LA County and maintains a homeless services website that is utilized
   by hundreds of LA County homeless service providers seeking information,
@@ -70,7 +70,7 @@ Why is this project important to the work of your organization?: >-
   best practice strategies for supporting individuals and families experiencing
   homelessness. In addition, 211 LA has its own in-house technology develop team
   who maintains and upgrades all existing 211 systems on a daily basis.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Upon development of the LA Homeless Resource Portal, success will be measure
   by the increased access and utilization of the portal by the following user:
 
@@ -96,9 +96,9 @@ Please explain how you will define and measure success for your project.: >-
   ensure target users (homeless service providers, homeless individuals, and
   general public wanting to get involved) find the tool to be user-centric with
   accurate service data with minimal interruptions to their day-to-day roles. 
-Approximately how many people will be directly impacted by this proposal?: '100'
-Approximately how many people will be indirectly impacted by this proposal?: '10000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '100'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '10000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   211 LA understands that homelessness will not be solved overnight and the
   issues related to homelessness and factors that contribute to the increase in
   homelessness are complex. For that reason, 211 LA suggests a relatively simple
@@ -119,12 +119,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Food insecurity
   - Homelessness
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: information-and-referral-federation-of-la-county-dba-211-la
 order: 22

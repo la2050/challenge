@@ -17,7 +17,7 @@ organization_website: 'https://www.heartofla.org'
 organization_twitter: '@heartofla'
 organization_facebook: 'https://www.facebook.com/heartoflosangeles/'
 organization_instagram: '@heartoflosangeles'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Heart of Los Angeles (HOLA) provides underserved youth with free, exceptional
   after-school programs in academics, arts and athletics within a nurturing
   environment, empowering them to develop their potential, pursue their
@@ -36,10 +36,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   HOLA serves youth and families living in and around the Rampart District and
   Westlake area of Los Angeles. Of the families HOLA serves, 96% live in
   poverty, and all are impacted by the neighborhood's struggling economy and
@@ -53,7 +53,7 @@ What is the need you’re responding to?: >
   problems: job loss among HOLA parents is widespread, and for youth already
   dealing with the crushing pressures of poverty, these events have a dramatic
   impact on learning, emotional wellbeing and physical health.
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   Over 30 years, HOLA has strived to give kids all they need to achieve their
   full potential through free, high-quality programs in a safe and nurturing
   environment. HOLA’s Visual Arts Department provides 250+ students with access
@@ -69,7 +69,7 @@ Why is this project important to the work of your organization?: >
   to minimize screen time and using at-hand supplies. The department will use
   social media to share students’ art and positive stories during this socially
   isolating period.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   HOLA’s Visual Arts Department utilizes both quantitative and qualitative
   methods that include year-end surveys, evaluations, staff, peer and self
   reflections and feedback, and more. HOLA’s Visual Arts Department anticipates
@@ -97,9 +97,9 @@ Please explain how you will define and measure success for your project.: >
   complete the art projects taught in the videos, continue to develop an
   appreciation for art and are eager to engage in HOLA’s Visual Arts programming
   upon their return to our campus. 
-Approximately how many people will be directly impacted by this proposal?: '250'
-Approximately how many people will be indirectly impacted by this proposal?: '500'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '250'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '500'
+Describe how Los Angeles County will be different if your work is successful.: >-
   HOLA’s Visual Arts programming immerses underserved youth in cultural and arts
   education experiences they otherwise may not experience. Believing that art
   can be a powerful agent of social change and that education can provide
@@ -114,13 +114,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - Enrollment in afterschool programs
   - High school graduation rates
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: learn
 filename: heart-of-los-angeles-hola
 order: 38

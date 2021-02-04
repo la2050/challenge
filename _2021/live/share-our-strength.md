@@ -18,7 +18,7 @@ organization_website: 'https://www.nokidhungry.org'
 organization_twitter: '@nokidhungry'
 organization_facebook: No Kid Hungry
 organization_instagram: '@nokidhungry'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   For over 30 years, Share Our Strength has been a leader in the war against
   poverty. In 2010, we launched No Kid Hungry, a national campaign to end
   childhood hunger in America to ensure kids have access to meals where they
@@ -45,10 +45,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   1.7 million children in California are growing up in families that struggle to
   put enough food on the table. Food is one of the most significant social
   determinants of who will have good health and who will suffer from disease and
@@ -63,7 +63,7 @@ What is the need you’re responding to?: >-
   schedules, and the stigma of being the ‘poor kid’ keep millions of children
   from a healthy morning meal. Only 39% of eligible kids are eating breakfast at
   school in California.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Breakfast After the Bell feeds more kids. Nine years of school breakfast work
   has taught us a lot. We’ve crafted a set of practical, successful tools and
   approaches that work in all kinds of communities. Our No Kid Hungry breakfast
@@ -80,10 +80,10 @@ Why is this project important to the work of your organization?: >-
   between 1st and 2nd period. Participation rates avg 70%. 3) Grab and Go where
   students pick up breakfasts from the mobile service carts on the way to class.
   Participation rates avg 63%.
-Please explain how you will define and measure success for your project.: "As a means of assessing our progress toward that goal, we utilize school-level data from the California Department of Education to track average daily participation rate increases. Last year, through our efforts in the Oakland Unified School District, we tracked average daily participation rates pre and post Breakfast After the Bell Implementation across seven schools we supported, which resulted in an average daily student participation increase of 138%. While percentage increases vary based on initial participation, the models chosen to implement and the efficacy of the implementation process, our experience across the country and in California demonstrate these increases are achievable. \n\nIn addition to tracking participation rates, we use secondary outputs to track our overall progress to goals related to our specific strategies including:\n*\tNumber of schools implementing or committed to implementing Breakfast After the Bell models\n*\tNumber of school decision-makers targeted and engaged in conversations toward the goal of breakfast expansion and the strength of those relationships to yield future impact\n*\tNumber of school and political champions cultivated.\n*\tNumber of Breakfast Champion touch-points created throughout the year through both media and peer-to-peer tactics.  \n\nAs an organization, we have a uniform reporting structure documenting program participation data: In November, we will have finalized data on participation from the previous school year; In March, we will have preliminary data on the first 3-4 months of the current school year; and in July we will have 7-9 months of the previous school year data. These data points will be used to evaluate and adjust program strategies and to direct planning for each school year. \n\nOver the school year, we worked with schools across Southern California and the Greater Los Angeles Region to help them get started on their own of Breakfast After the Bell programs. Here is an example of \"success\" and how Breakfast After the Bell impacted a high school in Rialto: \n\nLast school year, No Kid Hungry gave Eisenhower High School in Rialto, California a $26,000 grant to start a Breakfast in the Classroom program. Our Breakfast Navigators were on hand to provide technical help and resources. Before Eisenhower started the program, kids could only get breakfast before school started in the cafeteria, and only 400 students were eating breakfast at school. Today over 2,000 students are starting their day with school breakfast, 400% increase. "
-Approximately how many people will be directly impacted by this proposal?: '4500'
-Approximately how many people will be indirectly impacted by this proposal?: ''
-Please describe the broader impact of your proposal.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "As a means of assessing our progress toward that goal, we utilize school-level data from the California Department of Education to track average daily participation rate increases. Last year, through our efforts in the Oakland Unified School District, we tracked average daily participation rates pre and post Breakfast After the Bell Implementation across seven schools we supported, which resulted in an average daily student participation increase of 138%. While percentage increases vary based on initial participation, the models chosen to implement and the efficacy of the implementation process, our experience across the country and in California demonstrate these increases are achievable. \n\nIn addition to tracking participation rates, we use secondary outputs to track our overall progress to goals related to our specific strategies including:\n*\tNumber of schools implementing or committed to implementing Breakfast After the Bell models\n*\tNumber of school decision-makers targeted and engaged in conversations toward the goal of breakfast expansion and the strength of those relationships to yield future impact\n*\tNumber of school and political champions cultivated.\n*\tNumber of Breakfast Champion touch-points created throughout the year through both media and peer-to-peer tactics.  \n\nAs an organization, we have a uniform reporting structure documenting program participation data: In November, we will have finalized data on participation from the previous school year; In March, we will have preliminary data on the first 3-4 months of the current school year; and in July we will have 7-9 months of the previous school year data. These data points will be used to evaluate and adjust program strategies and to direct planning for each school year. \n\nOver the school year, we worked with schools across Southern California and the Greater Los Angeles Region to help them get started on their own of Breakfast After the Bell programs. Here is an example of \"success\" and how Breakfast After the Bell impacted a high school in Rialto: \n\nLast school year, No Kid Hungry gave Eisenhower High School in Rialto, California a $26,000 grant to start a Breakfast in the Classroom program. Our Breakfast Navigators were on hand to provide technical help and resources. Before Eisenhower started the program, kids could only get breakfast before school started in the cafeteria, and only 400 students were eating breakfast at school. Today over 2,000 students are starting their day with school breakfast, 400% increase. "
+Approximately how many people will be directly impacted by this project, program, or initiative?: '4500'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: ''
+Describe how Los Angeles County will be different if your work is successful.: >-
   “Breakfast After the Bell” is a cornerstone of No Kid Hungry’s approach to
   ending childhood hunger. We know this model increases breakfast participation
   rates, reduces stigma, and has countless other benefits for kids at risk of
@@ -98,12 +98,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Access to healthy food
   - Food insecurity
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
-year: 2020
+year: 2021
 category: live
 filename: share-our-strength
 order: 44

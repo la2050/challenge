@@ -17,7 +17,7 @@ organization_website: 'https://www.miterro.com'
 organization_twitter: '@mi_terro'
 organization_facebook: 'https://www.facebook.com/miterro.fashion'
 organization_instagram: '@miterro.fashion'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   We are a new material technology company that turns food waste into
   sustainable fibers that can apply to apparel, bed linen, and packaging.
 project_description: >-
@@ -28,12 +28,12 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Applying a proven model or solution to a new issue or sector (e.g, using a job
   recruiting software or strategy to match clients to supportive housing sites,
   applying demonstrated strategies from advocating for college affordability to
   advocating for housing affordability and homelessness, etc.)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Food waste creates 3.3 billion tons of greenhouse gases. 128 million tons of
   milk are thrown away every year globally. The world doesn't need another food
   delivery service, it needs a solution to solve food waste. 
@@ -41,7 +41,7 @@ What is the need you’re responding to?: >-
   Currently, there are two types of fibers in the world: petroleum-based (ex.
   polyester) and plant-based (ex. cotton, bamboo, modal, etc.). We are creating
   a third type of fiber, which is made from food waste. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Fashion is the second most polluting industry in the world. In order to save
   the fashion industry issue, we have to target the root problems, which are the
   big fashion/apparel brands. We are the perfect team to deliver the result.
@@ -51,15 +51,15 @@ Why is this project important to the work of your organization?: >-
   also an Entrepreneur Hall of Fame at the University of Southern California
   Marshall School of Business. We have a team of Ph.D. material scientists and
   chemists. 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   There are two trajectories for Mi Terro. First, we will develop a variety of
   fibers from different types of protein-based food waste, not just milk waste.
   Second, we will continue to experiment with milk polymer; we already know that
   milk can be made into packaging film, bed sheets, medical appliances, and
   tissue.
-Approximately how many people will be directly impacted by this proposal?: '4000'
-Approximately how many people will be indirectly impacted by this proposal?: '100000000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '4000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '100000000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   We can reduce LA's food waste problem, the fashion pollution problem, and the
   plastic problem. We would like to collaborate with supermarkets to recycle and
   reuse their milk waste into fibers for apparel factories. 
@@ -73,18 +73,18 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Global cultural and economic influence (“soft power”)
   - High-growth startups
   - Venture capital investment
   - Social and emotional support
   - Public arts and cultural events
   - LGBTQ+ equity and inclusion
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
   - LA is the best place to PLAY
   - LA is the best place to CONNECT
-year: 2020
+year: 2021
 category: create
 filename: mi-terro
 order: 24

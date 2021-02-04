@@ -18,7 +18,7 @@ organization_website: 'https://www.ednovate.org/'
 organization_twitter: '@EdnovateSchools'
 organization_facebook: 'https://www.facebook.com/ednovateschools/'
 organization_instagram: '@ednovateschools'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Ednovate prepares and empowers high school students to use their college
   degrees and careers to make a Positive Multigenerational Change. Our students
   have a 100% college acceptance rate and are graduating as self-aware, engaged
@@ -37,10 +37,10 @@ In which areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - South LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   A college education remains one of the best ways to positively impact your
   life trajectory. And yet, in a community as vibrant as LA, only 30% of people
   have college degrees. And your family’s income level dramatically impacts your
@@ -56,7 +56,7 @@ What is the need you’re responding to?: >-
   tracking at 67% and 69% college persistence. This is notably higher than
   district and charter peers. Our alumni are already on their way to closing the
   college attainment gap and making LA and our world a better place.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Co-founded by USC Rossier, we intentionally focus on high schools and have
   built deep expertise in what makes high schools great and effective for
   students. Our schools provide a best-in-class college-prep education and build
@@ -75,7 +75,7 @@ Why is this project important to the work of your organization?: >-
   peers in state assessments and ACT testing. With 100% of our students taking
   the ACT, they outperform the district average, with 44% receiving a composite
   score of 21+, compared to a district average of 32%.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   We are helping our students discover their purpose and interests and preparing
   them to close the college attainment gap. We are focused on providing students
   across LA the opportunity to get to and through college and on stable career
@@ -113,9 +113,9 @@ Please explain how you will define and measure success for your project.: >-
   stable career path. We define a stable career path as a career that provides
   long-term support with opportunities for upward mobility and full benefits
   package.
-Approximately how many people will be directly impacted by this proposal?: '1455'
-Approximately how many people will be indirectly impacted by this proposal?: '3272'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1455'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '3272'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Across our four LA schools, 96% of students identify as African American or
   Latinx, and 85% qualify for free/reduced-price lunch. This project impacts
   1,455 students and 3,272 family members.
@@ -129,7 +129,7 @@ Please describe the broader impact of your proposal.: >-
   degree so they can attend college together and his parents are celebrating
   their sobriety. When students thrive, their families also thrive. This is
   Positive Multigenerational Change.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Ednovate began working with Transcend in 2017 through the Transcend-NewSchools
   Venture Fund Collaborative. Together, we reimagined our learning environments
   based on input from students, teachers and families, research, and future
@@ -153,12 +153,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Strategy assistance and implementation
   - Social media and marketing training and support
 Please list the organizations collaborating on this proposal.: Transcend Education
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - College graduates
   - College matriculation
   - High school graduation rates
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your application will impact.: []
+year: 2021
 category: learn
 filename: ednovate
 order: 23

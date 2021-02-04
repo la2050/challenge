@@ -18,7 +18,7 @@ organization_website: 'https://thenounproject.com/'
 organization_twitter: '@nounproject'
 organization_facebook: www.facebook.com/thenounproject
 organization_instagram: '@nounproject'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Noun Project is redefining the world’s visual language by setting a new
   standard for more equal, inclusive, and accurate representation in photography
   and iconography. With over 6 million users, our platform is used and loved by
@@ -37,12 +37,12 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Applying a proven model or solution to a new issue or sector (e.g, using a job
   recruiting software or strategy to match clients to supportive housing sites,
   applying demonstrated strategies from advocating for college affordability to
   advocating for housing affordability and homelessness, etc.)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   We believe visual language has the power to shape, reinforce, and change our
   perceptions, and that representation is a fundamental part of equality.
   Despite recent steps we’ve taken as a society to champion equality, many
@@ -59,7 +59,7 @@ What is the need you’re responding to?: >-
   our communities. The final collection will be free under a Creative Commons
   license, ensuring it spreads far and wide, from the classroom to the
   boardroom, setting a new precedent for visual representation. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Noun Project launched in 2011 with a mission to build a global visual
   language. Since then, our community of creators has built the most extensive
   and diverse collection of iconography ever created. With over 6 million users,
@@ -75,7 +75,7 @@ Why is this project important to the work of your organization?: >-
   As an LA-based company, it’s important that we support the local creative
   community while sharing with the world what makes LA an inclusive, innovative,
   and vibrant city.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Noun Project aims to: 
 
   - Build a free collection of 1,000+ photos representing diversity, inclusion,
@@ -96,9 +96,9 @@ Please explain how you will define and measure success for your project.: >-
   - Promote our partner organizations, community leaders, and the final
   collection to highlight Los Angeles and set a new precedent for visual
   representation
-Approximately how many people will be directly impacted by this proposal?: '1000'
-Approximately how many people will be indirectly impacted by this proposal?: '6000000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '6000000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   This project will directly impact LA’s creative community by supporting local
   photographers and students. By highlighting some of the incredible people in
   our communities and organizations working in the areas of immigration, gender
@@ -114,13 +114,13 @@ Please describe the broader impact of your proposal.: >-
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - 'Arts establishments, instillations, and exhibitions'
   - Employment in the creative industries
   - Global cultural and economic influence (“soft power”)
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CONNECT
-year: 2020
+year: 2021
 category: create
 filename: noun-project
 order: 27

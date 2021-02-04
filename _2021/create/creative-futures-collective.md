@@ -17,7 +17,7 @@ organization_website: 'https://www.creativefuturescollective.com'
 organization_twitter: '@creativefuturescollective'
 organization_facebook: facebook.com/creativefutrescollecitve
 organization_instagram: '@creativefuturescollective'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Our mission is to break cycles of systemic inequality by providing
   opportunity, education and support to those that haven't traditionally had
   access to them.
@@ -33,10 +33,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   We're responding to a broken system. A system that punishes poor people for
   getting sick, not being college educated or being system impacted. Apart from
   the obvious wealth gap, there is also an opportunity gap and it's this
@@ -60,7 +60,7 @@ What is the need you’re responding to?: >-
   We are also helping companies providing them with diverse talent that adds
   value by helping them capture new markets, engage new employees and out
   perform their counterparts.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   We're a 3 person founding team and none of us went to college or university.
   The fact that creative industry companies say that you need a 4 year college
   degree to apply is a form of discrimination, that leaves out a large portion
@@ -79,7 +79,7 @@ Why is this project important to the work of your organization?: >-
   grew up in foster care system, formerly incarcerated and was a teenage mother.
   She's incredibly bright, creative and resilient with over 5 years working in
   non profits and her lived experience is invaluable to our mission.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Success for our project is measured in a few ways, one is how many people we
   successfully take through the program, finishing both the 12 weeks of
   workshops and the 4-week paid internship. 
@@ -112,9 +112,9 @@ Please explain how you will define and measure success for your project.: >-
   The future for us is building out an online version of our curriculum so that
   we can scale our program to cities all across the globe and provide
   opportunities to those that traditionally have access to them.
-Approximately how many people will be directly impacted by this proposal?: '120'
-Approximately how many people will be indirectly impacted by this proposal?: '240'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '120'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '240'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The way we find our talent is through our non profit partnerships listed in
   Question 10. However we have found that a majority of our Fellows are people
   of color, low income, single mothers and have been system impacted.
@@ -130,7 +130,7 @@ Please describe the broader impact of your proposal.: >-
   the 4 weeks she was hired full time. She then used her story to become a
   criminal justice advocate and to inspire other Women and her 3 kids that they
   too could change their life. This is the indirect impact to others.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   We aren't a collaborative proposal but we are a fiscally sponsored project
   through the Edward Charles Foundation.
 Which of LA2050’s resources will be of the most value to you?:
@@ -138,13 +138,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Employment in the creative industries
   - Economic opportunities for formerly incarcerated
   - Unemployment rate
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
-year: 2020
+year: 2021
 category: create
 filename: creative-futures-collective
 order: 12

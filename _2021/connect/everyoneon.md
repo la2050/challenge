@@ -17,7 +17,7 @@ organization_website: 'https://www.everyoneon.org'
 organization_twitter: '@Everyone_On'
 organization_facebook: EveryoneOn
 organization_instagram: ''
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   EveryoneOn is dedicated to creating social and economic opportunity by
   connecting low-income families to affordable internet service and computers,
   and delivering digital skills trainings. Since 2012, we’ve helped connect more
@@ -34,10 +34,10 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to CONNECT
 In which areas of Los Angeles will you be directly working?:
   - Central LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   Recently, we’ve observed COVID-19 shed light on the severity of the digital
   divide and also exacerbate it by forcing libraries, schools, and other public
   spaces to close, eliminating the places many low-income people relied on for
@@ -54,7 +54,7 @@ What is the need you’re responding to?: >
   deliver a robust digital skills training in a virtual and multigenerational
   format, with the goal of fostering new social connections, increasing digital
   literacy, and improving internet adoption rates.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   CEC reflects EveryoneOn’s commitment to creating a society where people, in
   particular those who are underserved, harness the power of the internet and
   technology to build transformative opportunities for themselves and their
@@ -71,7 +71,7 @@ Why is this project important to the work of your organization?: >-
   submittal) and Capital One. We look forward to building on our collective
   impact approach to curb the digital divide and foster digital equity for
   residents of the LAPZ. 
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Through CEC we aim to create opportunities for adults and seniors to learn how
   and feel empowered to harness the power of the internet and build new social
   connections with each other and younger neighbors (local community college
@@ -105,9 +105,9 @@ Please explain how you will define and measure success for your project.: >
   engines, K-12 parent/student portals, and medical portals 
 
   - Social connectedness 
-Approximately how many people will be directly impacted by this proposal?: '105'
-Approximately how many people will be indirectly impacted by this proposal?: '180'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '105'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '180'
+Describe how Los Angeles County will be different if your work is successful.: >
   Our efforts will focus in Hollywood, East Hollywood, Pico-Union, Westlake, and
   Wilshire Center (LAPZ communities), where many noncitizens, seniors, and those
   with low educational levels confront poverty, overcrowded housing conditions,
@@ -119,7 +119,7 @@ Please describe the broader impact of your proposal.: >
   We also look forward to adding to conversations about the development of Los
   Angeles as a smart city. We cannot talk about creating smart cities if
   low-income communities have no or limited internet access and digital skills. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+'Describe the role of collaborating organizations on this project.': >
   While this is not a “collaborative proposal”, EveryoneOn will work with
   organizations that serve the LAPZ and the Office of Los Angeles Mayor Garcetti
   to help identify adults and seniors who can benefit from participating in the
@@ -139,11 +139,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: The Los Angeles Promise Zone
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Internet access
   - Social and emotional support
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your application will impact.: []
+year: 2021
 category: connect
 filename: everyoneon
 order: 18

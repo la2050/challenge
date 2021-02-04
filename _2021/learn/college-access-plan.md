@@ -19,7 +19,7 @@ organization_website: 'https://www.collegeaccessplan.org'
 organization_twitter: '@iheartcollege'
 organization_facebook: 'https://www.facebook.com/collegeaccessplan'
 organization_instagram: '@iheartcollege'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   CAP believes a postsecondary education is achievable for all students, and our
   mission is to prepare students who attend Pasadena Unified schools for college
   success.
@@ -35,10 +35,10 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
 In which areas of Los Angeles will you be directly working?:
   - San Gabriel Valley
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   PUSD has faced deep cuts and is unable to support a population where a
   majority of the students are low-income and first generation college-going.
   Despite a large number of college access organizations in Los Angeles County,
@@ -55,7 +55,7 @@ What is the need you’re responding to?: >-
   It is not yet clear what the impact of COVID-19 will be on educational
   funding; however, we are as dedicated as ever to supporting PUSD students
   through and beyond this global event.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   CAP began serving 2 students at John Muir High School in 2006 and has grown to
   serve 1,600 students attending or who have graduated from 6 high schools and 7
   middle schools. Our staff and board are educators, advocates, experts, PUSD
@@ -74,10 +74,10 @@ Why is this project important to the work of your organization?: >-
   ecosystem of declining resources, CAP will remain steadfast, even increasing
   the number of students and families we support, encouraging more students that
   college is for them.
-Please explain how you will define and measure success for your project.: "CAP tracks the daily attendance of all students who attend programs and does not remove any students from data analysis. Thanks to a Memorandum of Agreement with PUSD, CAP is able to track students after graduation through the National Student Clearinghouse (NSC) – both CAP attendees and non-attendees – to compare college attendance rates. The district provides detailed information, including student demographics and A-G course completion. CAP is able to use the demographic information to generate descriptive statistics on the graduating class as a whole and on the population served by CAP.\n\nCAP success is measured by the following:\n-75% of 12th grade participants who are A-G-ready are accepted to four-year colleges\n-90% of 12th grade participants at all levels of ability plan to attend college\L-100% of eligible senior participants complete at FAFSA or Dream Act application\n-45%+ of participants are male\n-25% of 12th grade attendees have 10+ meaningful interactions with staff/attend 10+ drop-in sessions\n-80% of regular attendees (10+) enroll in CAP’s I Heart College alumni program\n\nSuccess, Defined: All students, regardless of prior academic performance, feel like they are college bound, feel that a trusted adult believes in their potential to graduate with a bachelor’s degree, and have the resources and support to apply to a range of best-fit colleges. CAP students’ number of college applications exceed the average and all students make informed decisions on where they enroll in and how they pay for college. By 2030, we seek to see college enrollment in PUSD increase by 20%."
-Approximately how many people will be directly impacted by this proposal?: '800'
-Approximately how many people will be indirectly impacted by this proposal?: '3000'
-Please describe the broader impact of your proposal.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "CAP tracks the daily attendance of all students who attend programs and does not remove any students from data analysis. Thanks to a Memorandum of Agreement with PUSD, CAP is able to track students after graduation through the National Student Clearinghouse (NSC) – both CAP attendees and non-attendees – to compare college attendance rates. The district provides detailed information, including student demographics and A-G course completion. CAP is able to use the demographic information to generate descriptive statistics on the graduating class as a whole and on the population served by CAP.\n\nCAP success is measured by the following:\n-75% of 12th grade participants who are A-G-ready are accepted to four-year colleges\n-90% of 12th grade participants at all levels of ability plan to attend college\L-100% of eligible senior participants complete at FAFSA or Dream Act application\n-45%+ of participants are male\n-25% of 12th grade attendees have 10+ meaningful interactions with staff/attend 10+ drop-in sessions\n-80% of regular attendees (10+) enroll in CAP’s I Heart College alumni program\n\nSuccess, Defined: All students, regardless of prior academic performance, feel like they are college bound, feel that a trusted adult believes in their potential to graduate with a bachelor’s degree, and have the resources and support to apply to a range of best-fit colleges. CAP students’ number of college applications exceed the average and all students make informed decisions on where they enroll in and how they pay for college. By 2030, we seek to see college enrollment in PUSD increase by 20%."
+Approximately how many people will be directly impacted by this project, program, or initiative?: '800'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '3000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Michael entered our SAT prep course unsure he’d attend a 4-year college. It’d
   be too expensive. He couldn’t get in. 
 
@@ -93,7 +93,7 @@ Please describe the broader impact of your proposal.: >-
   CAP works in a complicated community and we do one thing: support students
   through college success. We are a thread in a web of local supports, and our
   shared efforts are amplified by collaboration and student voice.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   PUSD is CAP’s once and future partner in supporting students’ college
   aspirations. CAP particularly partners with PasadenaLEARNs, PUSD’s after
   school program, and the two alternative high schools to provide our signature
@@ -110,13 +110,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - 'Capacity, including staff'
 Please list the organizations collaborating on this proposal.: Pasadena Unified School District
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Enrollment in afterschool programs
   - College matriculation
   - Community college completion
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CONNECT
-year: 2020
+year: 2021
 category: learn
 filename: college-access-plan
 order: 17

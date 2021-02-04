@@ -17,7 +17,7 @@ organization_website: 'https://www.aim4theheart.org'
 organization_twitter: '@hearteducation'
 organization_facebook: '@AIMLongBeach'
 organization_instagram: '@aim4theheart'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   We envision an educational system transformed at its core to recognize the
   value of "HeArt Education.” In a time of tremendous pain and struggle
   globally, it is through the study of arts and the artist that we instill
@@ -42,10 +42,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Emotional health doesn't have a face.  Our curriculum is applicable to the
   affluent as well as underserved communities. It creates and builds bridges
   between high and low functioning individuals, across social class, race,
@@ -59,7 +59,7 @@ What is the need you’re responding to?: >-
   time with coarse material and workbooks now available.  LA Aims 4 the Heart
   exponentially grows our organization’s efforts by making the curriculum
   available digitally and to targeted Los Angeles neighborhoods. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   In 1996 AIM was incorporated as Assemblies In Motion. In 2014, AIM officially
   changed its name to AIM 4 The Heart to reflect almost thirty years of creating
   and implementing a sustainable model of community-based programs designed to
@@ -73,7 +73,7 @@ Why is this project important to the work of your organization?: >-
   performing arts as the primary medium to facilitate dialogue about varied
   topics. Leila has assembled a team of highly qualified teachers and volunteers
   who have a history of successful program administration.  
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Our success metrics are measured through data and marketing analysis. 
 
   Each quarter represents three months of the grant year period and a phase in
@@ -97,9 +97,9 @@ Please explain how you will define and measure success for your project.: >-
   be translated into content campaigns that will give Angelenos a way to
   interact with the program via mobile, web, and live in their communities. 
   Together we will show the world why Los Angeles is the best place to LEARN.  
-Approximately how many people will be directly impacted by this proposal?: '1000'
-Approximately how many people will be indirectly impacted by this proposal?: '100000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '100000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Our program brings an arts and emotional literacy program to the fingertips of
   Angelenos through online and mobile accessibility.  That digital experience
   grows into live connection.  It's important, especially in this climate, to
@@ -110,7 +110,7 @@ Please describe the broader impact of your proposal.: >-
   accessible assists in relieving the angst that many of us are feeling and will
   have a positive impact on our mental health as we move through these uncertain
   times. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Convergence & Freeborn Productions, in collaboration with Aim 4 the Heart,
   work as the for-profit vertical that will allow for Aim 4 the Heart to scale
   as a non-profit organization. We will be building out the infrastructure,
@@ -127,16 +127,16 @@ Which of LA2050’s resources will be of the most value to you?:
 Please list the organizations collaborating on this proposal.:
   - Convergence Creative Solutions
   - Freeborn Productions
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - Suspension and expulsion rates
   - Opportunity youth (“Disengaged youth” 16-24 not working or in school)
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CREATE
   - LA is the best place to PLAY
   - LA is the best place to CONNECT
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: learn
 filename: aim4theheart-org
 order: 3

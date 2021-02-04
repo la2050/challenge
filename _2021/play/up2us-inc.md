@@ -17,7 +17,7 @@ organization_website: 'https://www.up2ussports.org'
 organization_twitter: '@up2ussports'
 organization_facebook: 'https://www.facebook.com/Up2UsSports/'
 organization_instagram: '@up2usSports'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The mission of Up2Us Sports is to engage, train and support sports coaches to
   transform youth, programs and communities.
 project_description: >-
@@ -47,10 +47,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   When the impact of the coronavirus is over, LA youth will need to PLAY as soon
   as possible.  Sports will have a major role  in their healing process. Up2Us
   Sports would like to address this immense need for healing among LA youth by
@@ -65,7 +65,7 @@ What is the need you’re responding to?: >-
   we hope to address the larger need for leveling the playing field for
   opportunities for all youth to play regardless of their socio-economic
   status.  
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Since 2013, Up2Us Sports has been supporting young adults to be coach-mentors
   in LA’s most underserved neighborhoods. To date, we have recruited more than
   350 coaches who have served 37,500 youth. Up2Us Sports has also created
@@ -80,7 +80,7 @@ Why is this project important to the work of your organization?: >-
   department, schools, and nonprofits.  Up2Us Sports has also undergone two
   extensive evaluations that measured its effectiveness in supporting youth
   development outcomes.
-Please explain how you will define and measure success for your project.: >+
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >+
   Up2Us Sports will define success through the following: 1) the number of
   coaches we train and support; 2) the impact of the training on changing
   coaching practices to encourage more youth participation and to foster
@@ -104,9 +104,9 @@ Please explain how you will define and measure success for your project.: >+
 
 
 
-Approximately how many people will be directly impacted by this proposal?: '10100'
-Approximately how many people will be indirectly impacted by this proposal?: '50000'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '10100'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '50000'
+Describe how Los Angeles County will be different if your work is successful.: >
   Our broader impact is to train at least 10000 coaches throughout LA and to
   place 100 trained and subsidized  coaches in communities that lack sufficient
   sports opportunities for youth. Collectively, we seek to inspire more than
@@ -123,16 +123,16 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - 'Capacity, including staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Obesity
   - Youth sports participation
   - Prevalence of trauma and adverse childhood experiences
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CREATE
   - LA is the best place to CONNECT
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: play
 filename: up2us-inc
 order: 22

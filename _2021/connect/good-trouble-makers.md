@@ -19,18 +19,18 @@ organization_facebook: >-
   https://www.facebook.com/goodtroublemakers/   
   https://www.facebook.com/danceinprogressla/
 organization_instagram: '@goodtroublemakers'
-Please describe the mission of your organization.: ' Good Trouble Makers are artist-agitators committed to making; making art, making room, making change, making good trouble. We are a genre expanding, practice-driven collaborative that is perpetually investigating what anti-racist and queer dance making, teaching, and performing looks like. '
+Describe the mission of your organization.: ' Good Trouble Makers are artist-agitators committed to making; making art, making room, making change, making good trouble. We are a genre expanding, practice-driven collaborative that is perpetually investigating what anti-racist and queer dance making, teaching, and performing looks like. '
 project_description: >-
   Expand In Progress, to become LA's premiere social and concert dance and
   movement program centering queer, BIPOC and disabled communities and artists.
 Which LA2050 goal will your submission most impact?: LA is the best place to CONNECT
 In which areas of Los Angeles will you be directly working?:
   - Central LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: ' LA currently does not have a movement studio that prioritizes Queer, Disabled, Black, Indigenous, and people of color (BIPOC.) Downtown LA is emerging as a center of queer nightlife and community. It''s central location makes it also accessible to disabled and BIPOC populations. Good Trouble Makers and Downtown Dance & Movement are joining forces to address the absence of movement based programming that centers artists and members of these communities. '
-Why is this project important to the work of your organization?: >+
+What is the problem that you are seeking to address?: ' LA currently does not have a movement studio that prioritizes Queer, Disabled, Black, Indigenous, and people of color (BIPOC.) Downtown LA is emerging as a center of queer nightlife and community. It''s central location makes it also accessible to disabled and BIPOC populations. Good Trouble Makers and Downtown Dance & Movement are joining forces to address the absence of movement based programming that centers artists and members of these communities. '
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >+
   Good Trouble Makers (GTM) already serve BIPOC, disabled, and creative
   communities offering classes, community gatherings, parties, and performances
   making us uniquely qualified to expand programming for these communities.
@@ -48,7 +48,7 @@ Why is this project important to the work of your organization?: >+
   classes centering queer folx, people of color, and disabled artists and
   community members.
 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Success for this project would look like robust attendance for our classes,
   returning clientele, and a strong community. This will be measured by: 
 
@@ -64,9 +64,9 @@ Please explain how you will define and measure success for your project.: >-
 
   3. Post event and workshop surveys indicating positive experiences by
   attendees 
-Approximately how many people will be directly impacted by this proposal?: '30'
-Approximately how many people will be indirectly impacted by this proposal?: '500'
-Please describe the broader impact of your proposal.: >+
+Approximately how many people will be directly impacted by this project, program, or initiative?: '30'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '500'
+Describe how Los Angeles County will be different if your work is successful.: >+
   In Progress will have a profound impact in the disabled, queer and POC
   communities in Los Angeles, both in terms of accessibility to the arts and
   overall emotional health. To have a program that centers the distinct needs of
@@ -77,7 +77,7 @@ Please describe the broader impact of your proposal.: >+
   intersectional communities, but would also be serving as an example to other
   cities that accessible arts programs are both possible and necessary.
 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Good Trouble Makers, under Kai Hazelwood's direction will program, coordinate,
   and produce all classes and events.
 
@@ -89,13 +89,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: Downtown Dance & Movement
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Public arts and cultural events
   - LGBTQ+ equity and inclusion
   - Disability access and inclusion
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: connect
 filename: good-trouble-makers
 order: 22

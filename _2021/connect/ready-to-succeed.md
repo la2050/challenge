@@ -17,7 +17,7 @@ organization_website: 'https://www.readytosucceedla.org/'
 organization_twitter: '@ready_tosucceed'
 organization_facebook: 'https://www.facebook.com/readytosucceedla/'
 organization_instagram: '@readytosucceedla'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   At Ready to Succeed (RTS), our mission is to support and empower youth
   impacted by foster care with the resources, relationships, and opportunities
   they need to launch successful careers and lead meaningful lives. 
@@ -35,10 +35,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Each year in LA, more than 1,000 youth age out of foster care, unprepared for
   adulthood and independence. Without intervention, by their mid-twenties, 30%
   will be homeless, 60% will become criminal justice system-involved, and 50%
@@ -53,7 +53,7 @@ What is the need you’re responding to?: >-
   essential. While we can't replace family, we can provide connection to
   positive individuals and networks that ensure youth are supported in this
   unprecedented time. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Our approach to career development has always centered on connection. Our
   co-founders designed RTS to leverage their own robust networks spanning a
   variety of industries including media, tech, entertainment, and social
@@ -68,7 +68,7 @@ Why is this project important to the work of your organization?: >-
   In collaboration, we will leverage our complementary strengths to provide
   amplified and comprehensive support to youth over the next year when they will
   need it most. 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   We are proud to have grown from a small operation serving just 6 youth in
   2016, to today serving a new class of 20-25 Scholars each year. Growing at
   this steady pace has enabled us to carefully and continuously refine our
@@ -103,9 +103,9 @@ Please explain how you will define and measure success for your project.: >-
   On a longer-term basis, this grant will help us establish a sustainable and
   effective service partnership to benefit hundreds of additional youth for
   years to come. 
-Approximately how many people will be directly impacted by this proposal?: '90'
-Approximately how many people will be indirectly impacted by this proposal?: '300'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '90'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '300'
+Describe how Los Angeles County will be different if your work is successful.: >-
   This grant will be a timely investment in ensuring that the youth we serve –
   who are attempting to navigate independence at this incredibly uncertain time
   – have access to a robust network of support. By combining our expertise in
@@ -116,7 +116,7 @@ Please describe the broader impact of your proposal.: >-
   successfully integrating resources, we will learn key lessons to guide the
   development of best practices to support Los Angeles in effectively responding
   to crises for years to come, particularly for vulnerable populations. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Stepping Forward LA’s cornerstone service is its “Co-Mentoring” Program, which
   centers on a monthly “First Saturday” event, featuring workshops, motivational
   speakers, hands-on learning experiences, and relationship building activities.
@@ -133,10 +133,10 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: Stepping Forward LA
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Volunteerism
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
 Has your proposal changed due to COVID-19?: >
   * Building community for RTS Scholars and SFLA youth will take place via virtual engagement opportunities. SFLA’s signature “First Saturday” events will transition to online workshops and events, web series, an online “life skills” academy, and a protected virtual community. All programming will be created and hosted by former foster youth and continue to bring people together to provide both learning and bonding activities.
@@ -144,7 +144,7 @@ Has your proposal changed due to COVID-19?: >
   * RTS will formalize its Alumni Council (40+ recent grads) and reach many more foster youth not yet involved with RTS or SFLA. RTS has formed an official Alumni Council which will build meaningful connections within RTS and also be the group working closely with the SFLA youth. Videos will be focused on mental health + wellness and educational and “exposure” content. RTS alumni, with their unique college and career experience and personal passions will become valuable trusted messengers to impact a large audience of youth.
 
   * With digital programming we will be able to directly serve many more youth, increasing the number of students we serve from 90 to 155 (this number is based on the increase of youth RTS is serving through new programming and the number of youth at group homes that SFLA has been connecting with virtually during the crisis). The number of students indirectly impacted could rise well over 500 as content is shared through our extensive partnership network.
-year: 2020
+year: 2021
 category: connect
 filename: ready-to-succeed
 order: 47

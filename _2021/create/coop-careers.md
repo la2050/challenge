@@ -17,7 +17,7 @@ organization_website: 'https://www.coopcareers.org'
 organization_twitter: '@coop_cx'
 organization_facebook: 'https://www.facebook.com/cooperate.nyc'
 organization_instagram: '@coop.cx'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Overcoming underemployment through digital skills and peer connections for
   underrepresented, first generation college graduates.
 project_description: >-
@@ -37,10 +37,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   Nationwide, nearly half of recent college grads (ages 21-27) are unemployed or
   underemployed, and the rates are even higher for black college grads (Vox).
   With almost 400,000 Black and Latinx college graduates (NCES) entering the
@@ -59,7 +59,7 @@ What is the need you’re responding to?: >
   powered by relationships will reinforce the status quo. We believe that by
   cultivating social networks and closing the referral gap, we can make a
   significant impact on the underemployment epidemic.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   COOP was founded in 2014 and is dedicated to closing the social capital gap-
   the deficit between high-income individuals’ reported interpersonal
   relationships with mentors and low-income individuals’ relationships (The 74
@@ -76,7 +76,7 @@ Why is this project important to the work of your organization?: >-
   outcomes. Google, LinkedIn, and the Christensen Institute have recognized us
   as a best-in-class program, and according to an independent analysis, “Every
   $1 invested in COOP creates a permanent $9 wage increase.” (Arbor Brothers)
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   The past five years have proven that COOP deserves to be a vital part of the
   conversation surrounding upward mobility in America, and over the next several
   years we are determined to show that our work can grow across the country. Our
@@ -117,9 +117,9 @@ Please explain how you will define and measure success for your project.: >-
 
   -Career promotion/advancement and wage gains for our Captains against our
   other Alumni. 
-Approximately how many people will be directly impacted by this proposal?: '160'
-Approximately how many people will be indirectly impacted by this proposal?: '300'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '160'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '300'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Our labor market and society are dominated by informal relationships and
   people doing favors for one another. That is social capital in action, and we
   seek to utilize that “favor economy” for a part of society left behind as our
@@ -140,12 +140,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Income inequality
   - Global cultural and economic influence (“soft power”)
   - Unemployment rate
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your application will impact.: []
+year: 2021
 category: create
 filename: coop-careers
 order: 11

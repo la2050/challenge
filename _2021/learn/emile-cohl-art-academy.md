@@ -17,7 +17,7 @@ organization_website: 'https://www.cohl.art'
 organization_twitter: Emile_Cohl_LA
 organization_facebook: 'https://www.facebook.com/emilecohlartacademy'
 organization_instagram: 'https://www.instagram.com/emile_cohl_art_academy/'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   We provide a tuition-free, career-driven education in digital arts to talented
   youth. During the 3-year program, we work with studios and the creative
   industry to provide onramps to careers in the entertainment industry.
@@ -40,10 +40,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Talent is equally distributed; opportunity is not. While LA is the center of
   the entertainment industry and boasts a $100B+ creative economy, talented
   youth from low-income or underserved communities—here in our own backyards—do
@@ -60,7 +60,7 @@ What is the need you’re responding to?: >-
   youth, and others. With a proven curriculum, strong ties to the industry, and
   a full gamut of student services, our goal is to give talented youth a strong
   chance to make it in the industry.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   The inaugural cohort will serve as proof-of-concept. The first 40 graduates
   will allow us to showcase that it's possible to provide talented, underserved
   youth with a tuition-free education of the highest quality, provide them the
@@ -77,7 +77,7 @@ Why is this project important to the work of your organization?: >-
   the program from scratch, building relationships with the studios, alliances
   with organizations serving local youth, and cultivating donors to fund the
   first three cohorts.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   At heart, the program is designed as an innovative solution to connect
   employers to local talent, and provide opportunities otherwise unattainable to
   local talent. Our success will be measured in accordance to each of these
@@ -109,9 +109,9 @@ Please explain how you will define and measure success for your project.: >-
   If we can offer the same opportunity to talented, underserved youth here in
   LA, individuals who can remain here in their communities and elevate these
   communities through their economic prosperity, then we've achieved our vision.
-Approximately how many people will be directly impacted by this proposal?: '40'
-Approximately how many people will be indirectly impacted by this proposal?: '1000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '40'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '1000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   By offering tuition-free education to local, underserved youth, we seek to
   elevate local economies by breaking cycles of generational poverty and
   injecting capital and prosperity into local communities. We envision this as a
@@ -128,12 +128,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - Opportunity youth (“Disengaged youth” 16-24 not working or in school)
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: learn
 filename: emile-cohl-art-academy
 order: 25

@@ -19,7 +19,7 @@ organization_website: 'https://www.rediscovercenter.org'
 organization_twitter: '@reDiscoverCtr'
 organization_facebook: 'https://www.facebook.com/reDiscoverCenter/'
 organization_instagram: '@rediscoverctr'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   reDiscover develops children's creativity through hands-on making with
   sustainable materials.  reDiscover utilizes donated, sustainable materials in
   all of its projects, furthering our mission of educating our youth to become
@@ -40,10 +40,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >+
+What is the problem that you are seeking to address?: >+
   In too many schools, particularly in LAUSD, arts education has become a sad
   afterthought, and students are not gaining the STEAM skills necessary for full
   engagement with our increasingly knowledge-intensive, globally integrated and
@@ -58,7 +58,7 @@ What is the need you’re responding to?: >+
   constructing a nightstand from scratch- to the sheer exhilaration that comes
   from creating something huge and fantastical. 
 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Since 2003, reDiscover Center has been providing hands-on creativity education
   programs to over 10,000 children per year in Los Angeles County. Based out of
   our current 2,000 sf kids makerspace in Venice, we engage children through
@@ -72,7 +72,7 @@ Why is this project important to the work of your organization?: >-
   tinker. Our work will soar exponentially-and allow us to impact and change the
   lives of so many more deserving youth. We were one of the first independent
   kids' makerspaces, and have been pioneers ever since! 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   This expansion into a 4,000 sf makerspace facility will allow reDiscover to
   triple the number of youth served annually in our spring and summer intensive
   Tinkering Camp Programs, double the capacity to serve the youth in our
@@ -111,9 +111,9 @@ Please explain how you will define and measure success for your project.: >-
   design things with their own hands, making something real. Our youth become
   young adults who are unafraid to make their world a better place-and we
   literally give them the tools to do just that.
-Approximately how many people will be directly impacted by this proposal?: '20000'
-Approximately how many people will be indirectly impacted by this proposal?: '25000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '20000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '25000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   reDiscover Center's programs have always followed our mission to instill
   resiliency, creativity, and efficiency in our youth. We are not only
   developing skilled makers, we are preparing future leaders and thinkers-
@@ -131,14 +131,14 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - Enrollment in afterschool programs
   - Proficiency in STEM
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CREATE
   - LA is the best place to PLAY
-year: 2020
+year: 2021
 category: learn
 filename: rediscover-center
 order: 59

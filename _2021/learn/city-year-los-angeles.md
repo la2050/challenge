@@ -20,7 +20,7 @@ organization_website: 'https://www.cityyear.org/losangeles'
 organization_twitter: '@CityYearLA'
 organization_facebook: 'https://www.facebook.com/City-Year-Los-Angeles-473497739805451/'
 organization_instagram: '@cityyearla'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Our mission is to build democracy through citizen service, civic leadership
   and social entrepreneurship. We fulfill our mission by leveraging the service
   of our AmeriCorps members to address the inequitable distribution of
@@ -38,10 +38,10 @@ In which areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - South LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   This school year, City Year Los Angeles (CYLA) began a partnership with IUSD.
   As mentioned above, Inglewood is prioritizing City Year as part of their
   turnaround strategy to help further the district’s mission to nurture, educate
@@ -55,7 +55,7 @@ What is the need you’re responding to?: >-
   “Whole School Whole Child” approach to student-success, with a strong focus on
   social-emotional learning, is uniquely equipped to support Inglewood Unified
   in its goals to improve student outcomes and enrollment.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   CYLA is uniquely positioned to work in partnership with IUSD as we have 13
   years of experience doing similar work in LAUSD. For over a decade, we have
   been implementing our Whole School Whole Child program in schools across Los
@@ -70,7 +70,7 @@ Why is this project important to the work of your organization?: >-
   see potential to grow into more districts like IUSD that have the same level
   of need as LAUSD and also work collaboratively with us to ensure
   sustainability.  
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   CYLA measures success in terms of our students’ growth. City Year has
   determined the following objectives for 2020-21 school year:
 
@@ -101,9 +101,9 @@ Please explain how you will define and measure success for your project.: >-
   child will attend along his or her educational trajectory. It is our goal to
   continue expanding our services across IUSD, replicating the success we are
   seeing at Crozier Middle School and Woodworth-Monroe Academy.
-Approximately how many people will be directly impacted by this proposal?: '150'
-Approximately how many people will be indirectly impacted by this proposal?: '1034'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '150'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '1034'
+Describe how Los Angeles County will be different if your work is successful.: >-
   City Year is contributing to a bolder vision of what public schools can and
   should be for all children: places of learning, exploration, and risk-taking,
   where data informs practices that promote student growth and achievement and
@@ -114,7 +114,7 @@ Please describe the broader impact of your proposal.: >-
   Angeles has partnered with teachers and schools in communities challenged by
   the persistent inequity in our education system to create learning
   environments where all students can reach their full potential.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   City Year Los Angeles will work closely with the Inglewood Unified School
   District for the duration of this project. However, this is not a
   collaborative proposal. 
@@ -122,12 +122,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - High school graduation rates
   - Student proficiency in English & Language Arts
   - Proficiency in STEM
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your application will impact.: []
+year: 2021
 category: learn
 filename: city-year-los-angeles
 order: 16

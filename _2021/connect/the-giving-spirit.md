@@ -17,7 +17,7 @@ organization_website: 'https://www.thegivingspirit.org/'
 organization_twitter: '@givingspirit'
 organization_facebook: 'https://www.facebook.com/TheGivingSpirit/'
 organization_instagram: '@thegivingspirit'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The Giving Spirit’s mission is to provide essential aid and a human connection
   to homeless men, women, children and families living in Greater Los Angeles by
   assembling and personally distributing survival kits and to educate our
@@ -38,10 +38,10 @@ In which areas of Los Angeles will you be directly working?:
   - South LA
   - Westside
   - South Bay
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Greater Los Angeles is home to 59,000 men, women and children experiencing
   homelessness — 75% living without adequate shelter. Our volunteers offer hope
   and sustenance by providing survival kits to our homeless neighbors with
@@ -57,7 +57,7 @@ What is the need you’re responding to?: >-
   concern. Bridging this empathy gap, whether small or large, is crucial to
   building community support to make our housing policies and solutions to
   homelessness in Los Angeles more human-centered and inclusive.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Our outreach and educational programs are foundational to our mission to
   provide essential aid and a connection to the homeless and to educate
   volunteers and the public about the realities and myths of homelessness. Our
@@ -74,7 +74,7 @@ Why is this project important to the work of your organization?: >-
   sourcing in-kind donations, managing volunteers, and events, coordinating
   logistics and developing a volunteer and donor base. Our accumulated expertise
   allows us to maximize our impact.  
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Success will be measured by:
 
   1. The number of homeless lives served
@@ -104,9 +104,9 @@ Please explain how you will define and measure success for your project.: >-
   we reach will help drive policy and structural changes in society with the
   goal that one day, every single Angeleno will have a roof over his or her
   head.
-Approximately how many people will be directly impacted by this proposal?: '9000'
-Approximately how many people will be indirectly impacted by this proposal?: '9000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '9000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '9000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   #11 states that ~9,000 people would be directly impacted by our work. ~3,000
   volunteers will serve ~6,000 homeless. ~9000 people will be indirectly
   impacted assuming that each of the 3,000 volunteers will share how their
@@ -122,12 +122,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - 'Capacity, including staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Volunteerism
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
-year: 2020
+year: 2021
 category: connect
 filename: the-giving-spirit
 order: 58

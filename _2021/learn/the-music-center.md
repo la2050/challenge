@@ -17,7 +17,7 @@ organization_website: 'https://www.musiccenter.org'
 organization_twitter: '@musiccenterLA'
 organization_facebook: www.facebook.com/MusicCenterLA/
 organization_instagram: '@musiccenterLA'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The Music Center strives to deepen the cultural life of every resident of LA
   County and continue creating an increasingly relevant,
   multidisciplinary performing arts center. We champion the arts for all people.
@@ -40,10 +40,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   In California, only 26% of all students statewide receive access to the arts
   (CA Dept of Education). And in LA, we face issues of cultural equity,
   inclusion, and accessibility (LA County Arts Report: Cultural Equity and
@@ -63,7 +63,7 @@ What is the need you’re responding to?: >-
   perform, providing them with outlets for communication and classroom
   inclusivity. By also involving the community, we foster dialogue and promote
   understanding and compassion.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   More than LA’s performing arts capital, The Music Center is LA’s largest arts
   education provider, engaging over 150,000 children and teachers annually, many
   of whom reside in the County’s underserved communities. Our reach speaks to
@@ -78,7 +78,7 @@ Why is this project important to the work of your organization?: >-
   County Office of Education, The Music Center is poised to support and
   celebrate the 3,500 youth with disabilities and 3,500 members of the public at
   VSAF.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   We envision a festive, inclusive gathering with school partners and local
   communities. Indicators of success include:  
 
@@ -131,9 +131,9 @@ Please explain how you will define and measure success for your project.: >-
 
   Lastly, we rely on LAUSD and LACOE input to evaluate our programs and to
   conduct outreach.
-Approximately how many people will be directly impacted by this proposal?: '3500'
-Approximately how many people will be indirectly impacted by this proposal?: '3500'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '3500'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '3500'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Arts learning and creation helps students with disabilities develop
   self-efficacy and self-expression, and when done in an inclusive setting like
   at VSAF, fosters their sense of community and social skills. Further, by
@@ -144,7 +144,7 @@ Please describe the broader impact of your proposal.: >-
   greatest barriers that people with disabilities encounter – that is, barriers
   enforced by those who do not understand their needs – bridging differences and
   creating a culture of empathy and understanding.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   LAUSD and LACOE are active collaborators in the overall planning and
   conception of the festival, including selecting the festival’s theme. Both
   partners also reach out to all schools in their district about the festival
@@ -163,13 +163,13 @@ Please list the organizations collaborating on this proposal.: >-
   Office of Education (LACOE). There are also 80 participating schools, a
   different set each year, from multiple districts throughout Los Angeles
   County.
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CREATE
   - LA is the best place to PLAY
   - LA is the best place to CONNECT
-year: 2020
+year: 2021
 category: learn
 filename: the-music-center
 order: 72

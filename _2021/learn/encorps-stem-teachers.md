@@ -17,7 +17,7 @@ organization_website: 'https://www.encorps.org'
 organization_twitter: '@EnCorps'
 organization_facebook: 'https://www.facebook.com/EnCorps/'
 organization_instagram: '@encorpsstemteachers'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   We are STEM professionals transforming classrooms by teaching in high needs
   classrooms.
 project_description: >-
@@ -40,10 +40,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Enduring STEM achievement, access and opportunity gaps continue to
   disproportionately limit low-income and minority student opportunities In Los
   Angeles. Access to quality STEM education can close these gaps, but Los
@@ -59,7 +59,7 @@ What is the need you’re responding to?: >-
   lag behind their white and Asian peers in math and science proficiency.  The
   STEM teacher shortage exacerbates this achievement gap, and undermines efforts
   to prepare a diverse future workforce with career-relevant STEM education.
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   EnCorps STEM TEachers is the only nonprofit in California recruiting and
   placing STEM professionals as long-term educators for underrepresented
   students in high-need schools. Fellows bring years of industry experience and
@@ -76,7 +76,7 @@ Why is this project important to the work of your organization?: >
   demands of teaching and learning.  EnCorps’ leadership has the experience,
   broad knowledge of educational ecosystems, and the commitment to educational
   equity to achieve our mission.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   We define success by the number of trained and supported STEM teachers and
   teacher candidates in our pipeline, their student impact and by the efficacy
   of our educators in the classroom. To measure program successes, we track the
@@ -102,9 +102,9 @@ Please explain how you will define and measure success for your project.: >
   students experienced an increased level of academic achievement and 88% had a
   better understanding of real-world connections with math and science due to
   their EnCorps Guest Teacher.
-Approximately how many people will be directly impacted by this proposal?: '300'
-Approximately how many people will be indirectly impacted by this proposal?: '15000'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '300'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '15000'
+Describe how Los Angeles County will be different if your work is successful.: >
   The Fellowship serves middle and high school students, ages 11-18, in Title 1
   schools where over 60% of students are low-income, as defined by qualifying
   for free or reduced-price lunch. 77% of our students are of populations
@@ -117,7 +117,7 @@ Please describe the broader impact of your proposal.: >
   Fellows have experience as engineers, principal research scientists, and data
   architects,; and have worked in energy, engineering, banking and finance,
   research, biotech, and pharmaceutical industries. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+'Describe the role of collaborating organizations on this project.': >
   We are not submitting a collaborative proposal, but we do partner with
   multiple public schools in Los Angeles. EnCorps has MOUs with the following
   schools in Los Angeles:
@@ -169,10 +169,10 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Office space for meetings, events, or for staff'
   - 'Capacity, including staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Proficiency in STEM
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your application will impact.: []
+year: 2021
 category: learn
 filename: encorps-stem-teachers
 order: 26

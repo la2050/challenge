@@ -18,7 +18,7 @@ organization_website: 'https://www.laaudubon.org'
 organization_twitter: '@laaudubon'
 organization_facebook: LosAngelesAudubon
 organization_instagram: '@la_audubon'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Los Angeles Audubon works to promote the enjoyment and protection of birds and
   other wildlife through outdoor education programs, bird-friendly activities,
   and hands-on conservation initiatives.
@@ -38,10 +38,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   Many youth in the urban core have little access to nature. The program aims to
   empower youth from elementary school through their early professional years to
   become stewards of their community via hands-on environmental education and to
@@ -53,7 +53,7 @@ What is the need you’re responding to?: >
   Network serves a diverse group including children and adults with
   developmental, learning, and emotional disabilities through our connection
   with the Exceptional Children’s Foundation (ECF). 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Nature demands action! We must provide today's youth with the knowledge and
   leadership skills necessary to meet the environmental challenges that lie
   ahead. The program serves more than 5,000 urban students each year at
@@ -69,7 +69,7 @@ Why is this project important to the work of your organization?: >-
   further our mission by inspiring and empowering the next generation of
   environmental stewards to pursue higher education and career goals that they
   may not have known existed.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   The Nature Network program will: 
 
 
@@ -100,9 +100,9 @@ Please explain how you will define and measure success for your project.: >
   Offer the possibility of full-time employment opportunities for college
   graduates who’ve come through our program and have returned to give back to
   their LA community.
-Approximately how many people will be directly impacted by this proposal?: '5000'
-Approximately how many people will be indirectly impacted by this proposal?: '1000'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '5000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '1000'
+Describe how Los Angeles County will be different if your work is successful.: >
   Los Angeles Audubon believes that engaging under-represented urban communities
   are a key component to achieving long-term conservation success. Creating a
   workforce in the fields of natural resource management, environmental science,
@@ -114,7 +114,7 @@ Please describe the broader impact of your proposal.: >
 
   We also engage 1,000 community members in habitat restoration events at parks
   and beaches and aim to inspire widespread environmental stewardship.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   The Los Angeles Audubon education staff is leading this program. However, the
   program's growth and access to outdoor nature sites is made possible through
   our decades-long relationships with park and beach management agencies within
@@ -128,17 +128,17 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Enrollment in afterschool programs
   - College matriculation
   - Opportunity youth (“Disengaged youth” 16-24 not working or in school)
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to PLAY
   - LA is the healthiest place to LIVE
 Has your proposal changed due to COVID-19?: >
   Los Angeles Audubon Society (LAAS) has increased its organizational capacity by adapting existing programming into online environmental education activities that provide ways for students, teachers, and community members to stay connected to nature and STEAM learning during the Covid-19 crisis. Capitalizing on our new foundation of logistical know-how, we plan to further expand our online learning opportunities in the coming school year, blending guided science and art activities that promote a connection to nature at school, at home, and in local neighborhoods. LAAS’s staff members can channel their creativity, knowledge, and leadership skills into online formats, such as videos, webinars, and interactive Zoom sessions, that meet a high professional standard through collaboration with media experts at Catchafire (a service that provides professional skill-based volunteers). Once schools re-open we will also initiate “LA Audubon On-Campus” as an alternative to field trips. LAAS staff will visit schools multiple times a year with STEAM learning activities on campus and provide teachers with materials that further inquiry once the visit is over.
 
-year: 2020
+year: 2021
 category: learn
 filename: los-angeles-audubon-society-society
 order: 46

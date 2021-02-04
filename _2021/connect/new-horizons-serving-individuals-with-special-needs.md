@@ -17,7 +17,7 @@ organization_website: 'https://www.newhorizons-sfv.org'
 organization_twitter: '@newhorizonssfv'
 organization_facebook: facebook.com/newhorizonssfv
 organization_instagram: '@newhorizonssfv'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   New Horizons' mission is to empower individuals with disabilities to reach
   their full potential.  Together we’re building an inclusive world that
   celebrates strengths, respects abilities, and embraces diversity.
@@ -32,8 +32,8 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to CONNECT
 In which areas of Los Angeles will you be directly working?:
   - San Fernando Valley
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   New Horizons’ goal is to expand opportunities for individuals with
   intellectual and/or developmental disabilities (I/DD) to achieve greater
   access to meaningful community involvement, connection and impact. For years,
@@ -46,7 +46,7 @@ What is the need you’re responding to?: >-
   will be able to maximize use of agency vehicles and public transportation to
   transport more people and more of our mobility-challenged participants, to
   community sites.
-Why is this project important to the work of your organization?: >+
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >+
   For over 66 years New Horizons has recognized the value and contributions of
   individuals with special needs.  We  believe in an inclusive world that
   celebrates strengths, respects abilities, and embraces diversity.  We are
@@ -62,7 +62,7 @@ Why is this project important to the work of your organization?: >+
   disabilities and our great L.A. community. 
 
 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Our ultimate vision of success is inclusion of people with
   intellectual/developmental disabilities in all aspects of the community...as 
   neighbors, co-workers, classmates, friends.  Specific to this project, we will
@@ -71,9 +71,9 @@ Please explain how you will define and measure success for your project.: >-
   transportation to increase numbers of program participants involved in:
   community-based activities; volunteer assignments; employment training;
   employment. 
-Approximately how many people will be directly impacted by this proposal?: '350'
-Approximately how many people will be indirectly impacted by this proposal?: '3500'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '350'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '3500'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The 350 individuals participating in this project are adults with intellectual
   and/or developmental disabilities. Approximately 15% also have a physical
   disability. The 3500 reflects the co-workers and volunteer agency recipients
@@ -84,7 +84,7 @@ Please describe the broader impact of your proposal.: >-
   having to return due to shared vehicle with another activity group. This
   system may lead to additional volunteer or employment opportunities as it will
   increase the time-frame for involvement at a site.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Although we will be working with special education programs from LAUSD
   schools, local companies, and local non-profit organizations, this is not a
   collaborative proposal.
@@ -92,12 +92,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Volunteerism
   - Disability access and inclusion
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to PLAY
-year: 2020
+year: 2021
 category: connect
 filename: new-horizons-serving-individuals-with-special-needs
 order: 43

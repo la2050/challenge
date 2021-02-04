@@ -20,7 +20,7 @@ organization_website: 'https://www.theactorsgang.com'
 organization_twitter: '@TheActorsGang'
 organization_facebook: 'https://www.facebook.com/theactorsgang/'
 organization_instagram: '@theactorsgang'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The continuing mission of The Actors' Gang is to restore the ancient sense of
   the stage as a shared sacred space; introduce theater to children, helping
   them find their creative voices; and bring the freedom of self-expression to
@@ -43,10 +43,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   TAG-ED has been delivering integrated arts education workshops for more than
   10 years. A vital segment of TAG-ED in-school programming is offered in
   continuation high schools where TAG attempts to disrupt the school to prison
@@ -59,7 +59,7 @@ What is the need you’re responding to?: >-
   therefore, are marginalized in the system. TAG-ED offers a way to express
   feelings in a productive, positive and creative manner, in a safe space where
   students won't be judged. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Our mission statement includes the objective to “introduce theater to
   children, helping them find their creative voices.” TAG-ED’s goal isn’t to
   create young actors, but rather to engage young people in a way that allows
@@ -73,7 +73,7 @@ Why is this project important to the work of your organization?: >-
   training is required and imperative to the successful outcomes for this
   population. A fundamental principle at TAG is everyone should have access to
   the arts regardless of income or circumstances.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Classroom teachers consistently report a growth in empathy among students who
   have participated in TAG-ED programming. They also tell us that TAG-ED
   students are more apt to participate, receive better test scores and get along
@@ -92,10 +92,10 @@ Please explain how you will define and measure success for your project.: >
   education programming in this population improves attendance, graduation
   rates, pro-social behavior and social emotional learning is vital to acquire
   additional resources.
-Approximately how many people will be directly impacted by this proposal?: '75'
-Approximately how many people will be indirectly impacted by this proposal?: '2430'
-Please describe the broader impact of your proposal.: "In LAUSD there are 41 continuation high schools with an enrollment of 2,430 students. TAG-ED currently has the resources to offer programming in two of those schools. Having PROOF of the positive impact of programming will theoretically change the way resources and programs are delivered to this population impacting the students, their families and the community.\n\n“Overall school culture has improved; students who do not relate positively or have had positive relationships in school have been able to cultivate an improved school experience while participating in the workshops.” \n-\tWanda Helton Robinson, Principal, Whitney Young Continuation High School\n"
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '75'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '2430'
+Describe how Los Angeles County will be different if your work is successful.: "In LAUSD there are 41 continuation high schools with an enrollment of 2,430 students. TAG-ED currently has the resources to offer programming in two of those schools. Having PROOF of the positive impact of programming will theoretically change the way resources and programs are delivered to this population impacting the students, their families and the community.\n\n“Overall school culture has improved; students who do not relate positively or have had positive relationships in school have been able to cultivate an improved school experience while participating in the workshops.” \n-\tWanda Helton Robinson, Principal, Whitney Young Continuation High School\n"
+'Describe the role of collaborating organizations on this project.': >-
   TAG has a long-standing relationship with administrators and teachers at Boyle
   Heights Continuation High School. In addition, TAG has already had
   conversations with LAUSD Arts Education Branch and WestEd. Both are on board
@@ -108,13 +108,13 @@ Please list the organizations collaborating on this proposal.:
   - Los Angeles Unified School District - Arts Education Branch
   - WestEd
   - Boyle Heights Continuation High School
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - High school graduation rates
   - Suspension and expulsion rates
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: learn
 filename: the-actors-gang
 order: 68

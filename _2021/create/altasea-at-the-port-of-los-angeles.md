@@ -17,7 +17,7 @@ organization_website: 'https://www.altasea.org'
 organization_twitter: '@altaseaorg'
 organization_facebook: AltaSea
 organization_instagram: '@AltaSea'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Ocean-related education is a vital component of AltaSea’s mission to
   accelerate    scientific collaboration, facilitate job creation, and inspire
   the next generation for a   more sustainable ocean. 
@@ -34,8 +34,8 @@ Which LA2050 goal will your submission most impact?: LA is the best place to CRE
 In which areas of Los Angeles will you be directly working?:
   - South LA
   - South Bay
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >
   Responsible aquaculture stands out as a solution to help meet many of today’s
   worldwide food security needs and, at the same time, alleviate the current
   stress on our oceans and resources caused by climate change, species and
@@ -51,7 +51,7 @@ What is the need you’re responding to?: >
   security. With a clear understanding of the necessity and value of exposing
   minority to STEM education opportunities, this multi-faceted project will
   build on proven education programming that reaches minority students. 
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   AltaSea utilizes its cross-sector of scientific and educational partnerships
   to train a workforce for sustainable careers. We rely on scientific experts to
   generate the most relevant data in such growing fields as aquaculture and
@@ -68,7 +68,7 @@ Why is this project important to the work of your organization?: >
   60 students participating in an aquaculture program found they appreciated
   gaining practical skills through aquaculture learning and found STEM easier to
   understand upon program completion. (Wingenbach et al., 1999). 
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Both organizations have measures to defining success. In the short term,
   AltaSea collects surveys at the beginning and at the end of the program
   gathering material effectiveness presented and identifying areas of
@@ -86,9 +86,9 @@ Please explain how you will define and measure success for your project.: >
   and opportunities for a ‘better life’ abound on shore and at sea; and,
   students make an emotional connection to learning through exploring the ocean
   and develop a love for the ocean and for life-long learning. 
-Approximately how many people will be directly impacted by this proposal?: '50'
-Approximately how many people will be indirectly impacted by this proposal?: '8000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '50'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '8000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   AltaSea's urban setting, cross-sector partnerships, physical assets and
   self-sustaining business model position us to demonstrate and maximize the
   game-changing impact of ocean science on education, business, and economic
@@ -99,7 +99,7 @@ Please describe the broader impact of your proposal.: >-
   importer of seafood products and grows only 5% of the seafood we consume. The
   aquaculture demonstration site will support a Blue Economy workforce pathway
   creating local jobs necessary to farming bivalves and kelp. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+'Describe the role of collaborating organizations on this project.': >
   The youth that Sharefest serves are students who face high barriers including
   personal and systemic negative self-image. Sharefest’s role will be best
   served as the liaison between AltaSea and the students. This will include
@@ -117,13 +117,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
 Please list the organizations collaborating on this proposal.: Sharefest Inc.
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Employment in the tech industries
   - Income inequality
   - Global cultural and economic influence (“soft power”)
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
-year: 2020
+year: 2021
 category: create
 filename: altasea-at-the-port-of-los-angeles
 order: 3

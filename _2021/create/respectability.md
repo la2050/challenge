@@ -17,7 +17,7 @@ organization_website: 'https://www.respectability.org'
 organization_twitter: '@https://twitter.com/Respect_Ability'
 organization_facebook: 'https://www.facebook.com/RespectAbilityUSA'
 organization_instagram: ''
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Led by diverse people with disabilities and allies, RespectAbility fights
   stigmas and advances opportunities so people with disabilities can fully
   participate in all aspects of community. We create tools, trainings and
@@ -41,10 +41,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   The COVID-19 pandemic caused an unprecedented public health crisis, decimating
   the economy. Even before the pandemic, Californians with disabilities were
   being dropped from the workforce. People with disabilities – 25% of adults in
@@ -61,7 +61,7 @@ What is the need you’re responding to?: >-
   Angeles. But only 62% of students with disabilities graduate high school,
   compared to 82% without a disability. Just 1-in-3 has a job, but studies show
   70% want to work.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   RespectAbility expands disability employment nationally and creates systems
   change with a multitiered approach that includes advocacy, education, and
   training.  We co-chair a task force of 120+ disability organizations. Locally
@@ -78,10 +78,10 @@ Why is this project important to the work of your organization?: >-
   studios including NBCUniversal, The Walt Disney Company and Netflix. We
   collaborate with other inclusion organizations, including the Geena Davis
   Institute on Gender in Media and GLAAD on LGBTQ equity. 
-Please explain how you will define and measure success for your project.: "We define success by increasing equitable hiring of people with disabilities and accurate representation on- and off-screen and by fighting stigmas that limit their employment opportunities. We will measure our success by:\n\n1.\tEnsuring the post COVID-19 economic recovery embraces the abilities of people with disabilities by running at least 4 convenings of an “Employment First” task force with the Los Angeles Dept. on Disability, along with ongoing advisory efforts.\n\n2.\tConducting at least 4 disability inclusion trainings for LA organizations engaged in rebuilding the local economy through employment and/or entrepreneurship.\n\n3.\tRunning a Summer Lab for Entertainment Professionals, which will:\n*\tTrain a minimum of 25 participants (virtually in 2020).\n*\tPlace a minimum of 15 graduates into competitive, integrated employment in studios and production companies within first year after graduation.\n*\tEnsure a minimum of 100 entertainment executives meet participants, increasing equitable hiring of people with disabilities on and off screen.\n\n4.\tThrough our year-long activities, we will:\n*\tTrain a minimum of 5 studios/production companies on disability inclusion.\n*\tAdvise on a minimum of 10 television shows, films or other media productions for more diverse and successful representations of characters with disabilities.\n*\tCreate and distribute the second Hollywood Disability Inclusion Toolkit."
-Approximately how many people will be directly impacted by this proposal?: '425'
-Approximately how many people will be indirectly impacted by this proposal?: '600000'
-Please describe the broader impact of your proposal.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "We define success by increasing equitable hiring of people with disabilities and accurate representation on- and off-screen and by fighting stigmas that limit their employment opportunities. We will measure our success by:\n\n1.\tEnsuring the post COVID-19 economic recovery embraces the abilities of people with disabilities by running at least 4 convenings of an “Employment First” task force with the Los Angeles Dept. on Disability, along with ongoing advisory efforts.\n\n2.\tConducting at least 4 disability inclusion trainings for LA organizations engaged in rebuilding the local economy through employment and/or entrepreneurship.\n\n3.\tRunning a Summer Lab for Entertainment Professionals, which will:\n*\tTrain a minimum of 25 participants (virtually in 2020).\n*\tPlace a minimum of 15 graduates into competitive, integrated employment in studios and production companies within first year after graduation.\n*\tEnsure a minimum of 100 entertainment executives meet participants, increasing equitable hiring of people with disabilities on and off screen.\n\n4.\tThrough our year-long activities, we will:\n*\tTrain a minimum of 5 studios/production companies on disability inclusion.\n*\tAdvise on a minimum of 10 television shows, films or other media productions for more diverse and successful representations of characters with disabilities.\n*\tCreate and distribute the second Hollywood Disability Inclusion Toolkit."
+Approximately how many people will be directly impacted by this project, program, or initiative?: '425'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '600000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Our task force and trainings will ensure better employment outcomes for many
   of the 600,000 working-age Angelenos with disabilities, during and after the
   COVID-19 recovery. 300 employers and partners will participate in disability
@@ -98,13 +98,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Office space for meetings, events, or for staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Employment in the creative industries
   - Jobs per capita
   - Unemployment rate
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: create
 filename: respectability
 order: 32

@@ -19,7 +19,7 @@ organization_website: 'https://www.alzheimersla.org'
 organization_twitter: '@AlzheimersLA'
 organization_facebook: www.facebook.com/AlzheimersLA
 organization_instagram: '@alzheimersla'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Alzheimer’s Los Angeles’ mission is to improve the lives of local families
   affected by Alzheimer’s and dementia by increasing awareness; delivering
   effective programs and services; providing compassionate support; and
@@ -38,8 +38,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   Alzheimer’s disease (AD) is challenging for everyone; however, LGBTQ+ adults
   living with AD and their families face unique challenges. Often, they do not
   reach out for a medical diagnosis for fear of poor treatment based on their
@@ -54,7 +54,7 @@ What is the need you’re responding to?: >-
   families. This population has distinct aging experiences and requires
   specific, targeted outreach to overcome service barriers and mistrust of
   providers. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   This project combines AlzLA’s longstanding commitment to serve L.A. County’s
   diverse communities through culturally tailored services with our interest in
   extending our effectiveness through innovative social and multimedia work. It
@@ -68,10 +68,10 @@ Why is this project important to the work of your organization?: >-
   (https://www.alzheimersla.org/the-faces-of-caregiving-2/). The proposed LGBTQ+
   educational videos will draw on this experience while partnership with SAGE
   will help to assure appropriateness of content and assist with dissemination. 
-Please explain how you will define and measure success for your project.: "The LGBTQ+ project will highlight the personal stories and struggles of five individuals or families coping with Alzheimer's personally or in a loved one. It will cover the basics of Alzheimer’s; how to advocate for yourself as you navigate insensitive healthcare systems; the importance of completing a Durable Power of Attorney (DPA); and other key aspects of care. Short-term success will be measured by ability to achieve project goals:\n     i.\tProduce five LGBTQ+ video profiles and a facilitator guide \n    ii.\tHost facilitated screening events reaching 100 members of the LGBTQ+ community\n    iii.\tReach 1,000 community members through on-line and social media strategies that incorporate portions of the various profiles\nThrough surveys, attendees/viewers will report measurably increased knowledge of Alzheimer’s and of strategies for improving access to healthcare services.\n\nIn the long-term, the project’s goal is to get agreement from three additional local organizations serving the LGBTQ+ communities (possibly the L.A. LGBT Center, Triangle Square and L.A. Department of Aging) to adopt or promote the videos as a strategy to improve access of their clients to healthcare, thus multiplying the impact of this innovative tool and dramatically expanding our reach and impact."
-Approximately how many people will be directly impacted by this proposal?: '1110'
-Approximately how many people will be indirectly impacted by this proposal?: '3000'
-Please describe the broader impact of your proposal.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "The LGBTQ+ project will highlight the personal stories and struggles of five individuals or families coping with Alzheimer's personally or in a loved one. It will cover the basics of Alzheimer’s; how to advocate for yourself as you navigate insensitive healthcare systems; the importance of completing a Durable Power of Attorney (DPA); and other key aspects of care. Short-term success will be measured by ability to achieve project goals:\n     i.\tProduce five LGBTQ+ video profiles and a facilitator guide \n    ii.\tHost facilitated screening events reaching 100 members of the LGBTQ+ community\n    iii.\tReach 1,000 community members through on-line and social media strategies that incorporate portions of the various profiles\nThrough surveys, attendees/viewers will report measurably increased knowledge of Alzheimer’s and of strategies for improving access to healthcare services.\n\nIn the long-term, the project’s goal is to get agreement from three additional local organizations serving the LGBTQ+ communities (possibly the L.A. LGBT Center, Triangle Square and L.A. Department of Aging) to adopt or promote the videos as a strategy to improve access of their clients to healthcare, thus multiplying the impact of this innovative tool and dramatically expanding our reach and impact."
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1110'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '3000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   A 2019 University of California study suggests members of the LGBTQ+ community
   are 29% more likely to suffer from dementia – one in seven reported memory
   loss and other symptoms of cognitive loss. It is believed that these higher
@@ -82,17 +82,17 @@ Please describe the broader impact of your proposal.: >-
   awareness activities using personal profiles will help highlight the unique
   issues faced by LGBTQ+ older adults and encourage access to medical care and
   supportive services for both patients and their caregivers. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': "SAGE, the country's largest and oldest organization dedicated to improving the lives of lesbian, gay, bisexual and transgender (LGBTQ+) older adults, will be collaborating with AlzLA on this project. Their mission is to lead in addressing issues related to LGBTQ+ aging. SAGE will be responsible for the following activities:\n      •\tReview materials produced, including script and educational materials;\n      •\tMobilize their constituency during the promotion of LA 2050 and encourage them to participate during the voting period;\n      •\tAssist with dissemination of final materials; and \n      •\tAssist with the coordination of screening events.\n \nIn addition, other local LBGTQ+ organizations will be approached to partner in dissemination of the finished videos to the populations they serve."
+'Describe the role of collaborating organizations on this project.': "SAGE, the country's largest and oldest organization dedicated to improving the lives of lesbian, gay, bisexual and transgender (LGBTQ+) older adults, will be collaborating with AlzLA on this project. Their mission is to lead in addressing issues related to LGBTQ+ aging. SAGE will be responsible for the following activities:\n      •\tReview materials produced, including script and educational materials;\n      •\tMobilize their constituency during the promotion of LA 2050 and encourage them to participate during the voting period;\n      •\tAssist with dissemination of final materials; and \n      •\tAssist with the coordination of screening events.\n \nIn addition, other local LBGTQ+ organizations will be approached to partner in dissemination of the finished videos to the populations they serve."
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
   - Communications support
 Please list the organizations collaborating on this proposal.: SAGE
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Healthcare access
   - Older adult well-being
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your application will impact.: []
+year: 2021
 category: live
 filename: alzheimers-los-angeles
 order: 2

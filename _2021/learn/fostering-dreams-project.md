@@ -17,7 +17,7 @@ organization_website: 'https://www.fosteringdreamsproject.org'
 organization_twitter: ''
 organization_facebook: 'https://www.facebook.com/Fosteringdreamsproject/'
 organization_instagram: '@fostering_dreams_project'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Fostering Dreams Project is a dance and performing arts program to empower,
   educate and inspire foster and homeless youth. We use dance and a vehicle to
   build confidence, community and brighter futures. 
@@ -31,10 +31,10 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
 In which areas of Los Angeles will you be directly working?:
   - Antelope Valley
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Fostering Dreams Project is a dance and performing arts program to empower,
   educate and inspire youth foster and at-promise youth in underserved
   communities. Our 8-week dance education programs are designed specifically for
@@ -53,7 +53,7 @@ What is the need you’re responding to?: >-
   in foster care.  
 
    
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Fostering Dreams presents a framework for leveraging dance as a vehicle for
   addressing the unique needs of youth in foster care, clearing a new path for
   learning, building confidence and a host of 21st-century skills, that can help
@@ -69,7 +69,7 @@ Why is this project important to the work of your organization?: >-
   inspiration and support by sharing personal stories about the impact of dance
   to turn their lives around and achieve success. Together we create a community
   that leads to long-lasting connections and support.
-Please explain how you will define and measure success for your project.: >+
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >+
   Our vision is to be recognized nationally as a transformative dance education,
   performing arts program enriching the lives of our most underserved youth
   through creative self-expression. We aim to provide foster youth with
@@ -114,9 +114,9 @@ Please explain how you will define and measure success for your project.: >+
   gain targeted feedback for the program’s continued development. 
 
 
-Approximately how many people will be directly impacted by this proposal?: '470'
-Approximately how many people will be indirectly impacted by this proposal?: '2000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '470'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '2000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Fostering Dreams has been designed to respond to the shifting social,
   academic, legislative and policy landscape and offers an innovative strategy
   for the Palmdale School Unified District to build on the success of arts
@@ -135,11 +135,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: learn
 filename: fostering-dreams-project
 order: 30

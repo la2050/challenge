@@ -17,7 +17,7 @@ organization_website: 'https://www.danceartsfoundation.org/'
 organization_twitter: ''
 organization_facebook: ''
 organization_instagram: '@danceartsfoundation'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The deep-rooted mission of Dance Arts Foundation is to provide young,
   proficient dancers access to first-rate educational experiences that prepare
   them to succeed in a professional dance career; and to provide this degree of
@@ -36,10 +36,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   We are committed to providing young, adept dancers access to specialized
   educational experiences that heighten their chances of achieving a
   professional career in dance, regardless of the financial position of said
@@ -54,7 +54,7 @@ What is the need you’re responding to?: >-
   dance Studios and higher-level institutions. The coaching, mentorship, and
   exposure participating dancers will receive are bound to yield ample
   opportunity for growth and success.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Founder/President, Conny Mathot, possesses profound proficiency in the field
   of dance education, and therefore, ensures a high level of expertise is upheld
   throughout the Organization. Conny graduated College with a Bachelor of Arts
@@ -69,12 +69,12 @@ Why is this project important to the work of your organization?: >-
   Foundation Team possesses the passion and mastery required to educate,
   inspire, and connect young dancers to comparably successful futures in the art
   form.
-Please explain how you will define and measure success for your project.: |2-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: |2-
      Through our Workshop Series, and with the support of this grant, we seek to provide social-emotional, creative, constructive, and extensively valuable experiences for young dancers, both in the short-term and long-term. In the short-term, we strive to unite various dancers from throughout LA, allowing young, like-minded individuals to build relationships with and gain inspiration from one another, while simultaneously receiving coaching from Master Teachers in a uniquely intimate and nurturing environment. For the long-term, we trust the Workshop Series will help build the futures of participating dancers by granting them the opportunity to make lasting connections with Master Teachers closely affiliated with the Nation’s leading dance Conservatories, Universities, and Companies. In turn, the Master Teachers will have the opportunity to recruit these ambitious, able dancers for such higher-level places of education and work.
      In monitoring the artistic and developmental outcomes of our participants, the observable dance-related growth they achieve by way of our Workshop Series will provide clear insight into the effectiveness of our work. Our Master Teachers will work with participants on a daily basis, over the course of one full week, and thus, continually assess dancers’ progress and utilize their expertise in the field of dance education to encourage increased levels of individually-appropriate development throughout the course of the Workshop Series. In monitoring the overall response from our Program, we will utilize formal interviews and emailed questionnaires, through which Program participants, and Dance Studio Directors/Teachers affiliated with these participants, will be offered the opportunity to share their viewpoints regarding the strengths of our Program, as well as potential areas for growth.
-Approximately how many people will be directly impacted by this proposal?: '470'
-Approximately how many people will be indirectly impacted by this proposal?: '4500'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '470'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '4500'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The 470 individuals our proposal will directly impact include: 90
   participating dancers, [approx.] 180 parents, [approx.] 100 additional viewers
   of the Demonstration, Master Teachers/Pianists, and 90 “home”
@@ -91,14 +91,14 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Dance Studio Space
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - College matriculation
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CREATE
   - LA is the best place to PLAY
   - LA is the best place to CONNECT
-year: 2020
+year: 2021
 category: learn
 filename: dance-arts-foundation
 order: 22

@@ -17,7 +17,7 @@ organization_website: 'https://www.EverythingWellness.com'
 organization_twitter: '@EverythingWell5'
 organization_facebook: EverythingWellness882
 organization_instagram: '@EverythingWellness882'
-Please describe the mission of your organization.: >
+Describe the mission of your organization.: >
   Our mission is to PROVIDE an uplifting environment for the LA community of
   like-minded & like-hearted women in an effort to EDUCATE & embrace the concept
   that overall health is more than just a fitness goal -- it’s about community &
@@ -34,12 +34,12 @@ project_description: >
 Which LA2050 goal will your submission most impact?: LA is the best place to PLAY
 In which areas of Los Angeles will you be directly working?:
   - South LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Applying a proven model or solution to a new issue or sector (e.g, using a job
   recruiting software or strategy to match clients to supportive housing sites,
   applying demonstrated strategies from advocating for college affordability to
   advocating for housing affordability and homelessness, etc.)
-What is the need you’re responding to?: >+
+What is the problem that you are seeking to address?: >+
   The project will respond to the health & fitness needs of women in South LA
   giving them access to an affordable full-service fitness facility in a safe &
   nurturing environment. 60% of U.S. women do not engage in the recommended
@@ -58,7 +58,7 @@ What is the need you’re responding to?: >+
 
 
 
-Why is this project important to the work of your organization?: >+
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >+
   Women encounter many barriers to participation in physical activity such as
   embarrassment, intimidation & lack of body confidence. We will create an
   uplifting environment that will nurture & make members feel that they are a
@@ -73,7 +73,7 @@ Why is this project important to the work of your organization?: >+
   choose to tend & will be able to harvest to take home. The facility will help
   foster improvement in mood and feelings of wellness in women in South LA.
 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   The vision for our fitness center is to create a place that is surrounded by
   an urban sanctuary that aims to inspire healthy connections with the community
   and the environment.  The woman’s fitness center will serve to promote an
@@ -94,9 +94,9 @@ Please explain how you will define and measure success for your project.: >-
   performance.  The outcomes will be those that create a strong community,
   interacting with our members and neighbors, and using technology to frame this
   revolutionary business model.
-Approximately how many people will be directly impacted by this proposal?: '800'
-Approximately how many people will be indirectly impacted by this proposal?: '2400'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '800'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '2400'
+Describe how Los Angeles County will be different if your work is successful.: >
   Better health and fitness in women translates into better health for their
   families. Globally overweight infants & young children increased from 32
   million in 1990 to 41 million in 2016. In the US 13.7 million children and
@@ -115,13 +115,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Walking and biking
   - Obesity
   - Perceived neighborhood safety
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: play
 filename: everything-wellness
 order: 9

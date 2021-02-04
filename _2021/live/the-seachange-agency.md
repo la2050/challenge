@@ -17,7 +17,7 @@ organization_website: 'https://www.theseachangeagency.org'
 organization_twitter: '@SeaChangeagent'
 organization_facebook: '@theseachangeagency'
 organization_instagram: '@theseachangeagency'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The SeaChange Agency works to improve oceanic ecosystems for endangered marine
   species, as they indicate the health of the ocean. Through education & cleanup
   activities, we work to reduce water pollution & save our ocean. We believe
@@ -40,10 +40,10 @@ In which areas of Los Angeles will you be directly working?:
   - Westside
   - South Bay
   - Antelope Valley
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   This project is needed because there are 208 impaired waterbodies in LA. To
   bring this to fewer than 10 by 2050, all Angelenos must be involved,
   especially youth to continue the work. Our agency has been organizing cleanups
@@ -60,7 +60,7 @@ What is the need you’re responding to?: >-
   plastic trash in the ocean than fish by 2050. We must act the moment
   COVID-19’s social isolation mandate is lifted. We must restore hope and start
   living our lives & saving our ocean & ourselves now
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   We are uniquely suited to take on this project for several reasons: 1) Founded
   in 2010 as a volunteer-run agency, we have a decade of experience reducing
   water pollution to improve oceanic ecosystems; 2) While other agencies may
@@ -74,10 +74,10 @@ Why is this project important to the work of your organization?: >-
   events, 350 people, & 578 pounds of trash each year.) With funding to support
   this expanded project & to hire project staff, we can increase the amount
   removed from our waterways by 400% in one year to 2,900 pounds.
-Please explain how you will define and measure success for your project.: "We offer fun & educational activities to: 1) reduce LA’s water pollution in the short-term through trash removal & 2) prevent future pollution in the long-term through education on ways to reduce one’s environmental footprint (e.g, refuse, reuse, recycle). Activities include Stand Up Paddle Board Ocean Cleanups; Beach Cleanups; & Site Visits for agencies offering initial assessment, action plan, ongoing support, evaluation, & follow up.\n\nSuccess in the short-term will be measured by the following process indicators by 7/2021:\n*\tEngage 420 youth in 940 hours of ocean cleaning through 44 Paddle Board Ocean Cleanups\n*\tEngage 470 youth in 750 hours of beach cleaning through 8 Beach Cleanups\n*\tEvaluate 3 youth-serving organizations through 9 site visits\n\nSuccess in the longer-term will be measured by the following impact indicators by 7/2021:\n*\tReduced water pollution: Remove 2900 pounds of debris from the Santa Monica Bay \n*\tYouth engagement: Triple the # of youth engaged in environmental activism from 260 last year to 890\n*\tIndividual-level sustainable change: 50% of youth surveyed report an increase in their sense of power to create change\n*\tIndividual-level continued activism: 50% of youth surveyed report an increase in knowledge of how their actions impact the ocean & an increased intent to change behaviors to reduce pollution\n*\tOrganizational-level improved environmental footprint: End-of-year evaluation assessments document a sustainable 25% reduction in waste among all 3 organizations"
-Approximately how many people will be directly impacted by this proposal?: '890'
-Approximately how many people will be indirectly impacted by this proposal?: '5000000'
-Please describe the broader impact of your proposal.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "We offer fun & educational activities to: 1) reduce LA’s water pollution in the short-term through trash removal & 2) prevent future pollution in the long-term through education on ways to reduce one’s environmental footprint (e.g, refuse, reuse, recycle). Activities include Stand Up Paddle Board Ocean Cleanups; Beach Cleanups; & Site Visits for agencies offering initial assessment, action plan, ongoing support, evaluation, & follow up.\n\nSuccess in the short-term will be measured by the following process indicators by 7/2021:\n*\tEngage 420 youth in 940 hours of ocean cleaning through 44 Paddle Board Ocean Cleanups\n*\tEngage 470 youth in 750 hours of beach cleaning through 8 Beach Cleanups\n*\tEvaluate 3 youth-serving organizations through 9 site visits\n\nSuccess in the longer-term will be measured by the following impact indicators by 7/2021:\n*\tReduced water pollution: Remove 2900 pounds of debris from the Santa Monica Bay \n*\tYouth engagement: Triple the # of youth engaged in environmental activism from 260 last year to 890\n*\tIndividual-level sustainable change: 50% of youth surveyed report an increase in their sense of power to create change\n*\tIndividual-level continued activism: 50% of youth surveyed report an increase in knowledge of how their actions impact the ocean & an increased intent to change behaviors to reduce pollution\n*\tOrganizational-level improved environmental footprint: End-of-year evaluation assessments document a sustainable 25% reduction in waste among all 3 organizations"
+Approximately how many people will be directly impacted by this project, program, or initiative?: '890'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '5000000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Cleaner waters improves the quality of life for all Angelenos, including the
   5,000,000 visitors to the Santa Monica Bay each year. This project reduces
   water pollution by removing existing trash & educating Angelenos to prevent
@@ -96,10 +96,10 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Water pollution
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your application will impact.: []
+year: 2021
 category: live
 filename: the-seachange-agency
 order: 55

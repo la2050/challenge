@@ -17,7 +17,7 @@ organization_website: 'https://www.safeparkingla.org'
 organization_twitter: '@safeparkingla'
 organization_facebook: 'https://www.facebook.com/SafeParkingLA/'
 organization_instagram: '@safeparking_la'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Safe Parking LA (SPaLA), a project of Community Partners, supports people who
   are homeless and living in their vehicles by providing them with a safe place
   to park at night and connecting them with the supportive services and
@@ -39,8 +39,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   According to the LA Homeless Services Authority, more than 25% of the 58,936
   homeless people in Los Angeles live in their vehicles. The problem is worsened
   by the shortage of legal and safe places to park overnight. While Los Angeles
@@ -56,7 +56,7 @@ What is the need you’re responding to?: >-
   Flexible Funds. Changing the landscape for people living in their vehicles
   requires a unique approach pairing specialized case management with community
   support otherwise unavailable to safe parking clients. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Safe Parking LA is the largest safe parking program in LA, operating ten lots
   in the County. Working alongside our client services program, an innovative
   community engagement model has the power to help solve LA’s homeless crisis.  
@@ -76,10 +76,10 @@ Why is this project important to the work of your organization?: >-
   hosted the first-ever National Safe Parking Conference with idea partner Leo
   Baeck Temple to share best practices, positioning us as a leader in the safe
   parking movement. 
-Please explain how you will define and measure success for your project.: "Safe Parking LA will be successful when hire a Neighborhood Volunteer Coordinator and engage local volunteers in: \n\n*\tSupported On-site Lot Coordination: Volunteers welcome safe parking clients, collect basic information, and provide social engagement at lots. \n*\tSupported Client Outreach: Volunteers help connect prospective clients to safe parking and local resources. \n*\tSupportive Services: Volunteers provide services including dinners for safe parking clients.  \n*\tSupported Mentorship: Volunteers mentor safe parking clients to support education, training, work, and more. \n*\tTraining: Volunteers will get the tools they need to be effective in their service with extensive support from Safe Parking LA’s expert staff throughout the volunteer experience.   \n\nSuccess will be measured using the following benchmarks:\n*\tThree active Neighborhood Council partnerships established.\n*\tVolunteer toolkit completed and utilized with in-person training and ongoing engagement. \n*\tOn-site lot coordination yields two volunteers per night per lot.\n*\tClient outreach yields at least two volunteers ongoing per lot. \n*\tSupportive Services yields weekly community dinners per lot. \n*\tMentorship yields at least two pilot mentor-client partnerships per lot. \n\nBy introducing a new community engagement project to our innovative safe parking model, Safe Parking LA and LA2050 will be partners in change, powering our vision of an LA2050 without vehicular homelessness.  "
-Approximately how many people will be directly impacted by this proposal?: '100'
-Approximately how many people will be indirectly impacted by this proposal?: '300'
-Please describe the broader impact of your proposal.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "Safe Parking LA will be successful when hire a Neighborhood Volunteer Coordinator and engage local volunteers in: \n\n*\tSupported On-site Lot Coordination: Volunteers welcome safe parking clients, collect basic information, and provide social engagement at lots. \n*\tSupported Client Outreach: Volunteers help connect prospective clients to safe parking and local resources. \n*\tSupportive Services: Volunteers provide services including dinners for safe parking clients.  \n*\tSupported Mentorship: Volunteers mentor safe parking clients to support education, training, work, and more. \n*\tTraining: Volunteers will get the tools they need to be effective in their service with extensive support from Safe Parking LA’s expert staff throughout the volunteer experience.   \n\nSuccess will be measured using the following benchmarks:\n*\tThree active Neighborhood Council partnerships established.\n*\tVolunteer toolkit completed and utilized with in-person training and ongoing engagement. \n*\tOn-site lot coordination yields two volunteers per night per lot.\n*\tClient outreach yields at least two volunteers ongoing per lot. \n*\tSupportive Services yields weekly community dinners per lot. \n*\tMentorship yields at least two pilot mentor-client partnerships per lot. \n\nBy introducing a new community engagement project to our innovative safe parking model, Safe Parking LA and LA2050 will be partners in change, powering our vision of an LA2050 without vehicular homelessness.  "
+Approximately how many people will be directly impacted by this project, program, or initiative?: '100'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '300'
+Describe how Los Angeles County will be different if your work is successful.: >-
   In its pilot year, Neighbors for Home will connect three Neighborhood
   Councils, 45 council members, and their constituencies to their local safe
   lots for service to people experiencing vehicular homelessness. We will train
@@ -90,7 +90,7 @@ Please describe the broader impact of your proposal.: >-
   engage all 99 of LA’s Neighborhood Councils in Neighbors for Home over time.
   Through our work with Neighborhood Councils and other community partners, we
   will build a volunteer army to support change.  
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   While Safe Parking LA will be the sole administrator, we have already engaged
   four Neighborhood Councils to participate in the pilot project including the
   Palms Neighborhood Council, Del Rey Council, United Neighborhoods Neighborhood
@@ -113,9 +113,9 @@ Please list the organizations collaborating on this proposal.:
   - Del Rey Neighborhood Council
   - United Neighborhoods Neighborhood Council
   - Wilshire Center Koreatown Neighborhood Council
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Homelessness
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the healthiest place to CONNECT
 Has your proposal changed due to COVID-19?: >
   While our capacity has been challenged by the COVID-19 Pandemic, Safe Parking LA will activate a series of grassroots volunteer opportunities as planned. In response to the current landscape, Neighbors for Home activities will move forward as follows: 
@@ -155,7 +155,7 @@ Has your proposal changed due to COVID-19?: >
 
 
   Safe Parking LA is resilient. While our scope, timeline and outcomes will change, we are committed to developing an innovative community engagement model to address the problem of homelessness in LA’s neighborhoods and power our vision of an LA2050 without vehicular homelessness.
-year: 2020
+year: 2021
 category: live
 filename: safe-parking-la-a-project-of-community-partners
 order: 41

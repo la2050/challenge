@@ -17,7 +17,7 @@ organization_website: 'https://www.nfte.com/la'
 organization_twitter: '@nftegreaterla'
 organization_facebook: 'https://www.facebook.com/NFTELA/'
 organization_instagram: '@nftegreaterla'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The Network for Teaching Entrepreneurship (NFTE) activates the entrepreneurial
   mindset and builds start-up skills in youth from under-resourced communities
   to ensure their success and to create a more vibrant Los Angeles.
@@ -42,10 +42,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Entrepreneurship changes the way young people see their futures. NFTE aims to
   provide underserved, at-risk youth with new opportunities that give them
   skills, confidence, and know-how to take and maintain control over their
@@ -59,7 +59,7 @@ What is the need you’re responding to?: >-
   students respond well to this approach, performing better in school, enrolling
   in higher education, and outpacing national averages in employment and
   self-employment.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Since 2007, NFTE LA has reached over 20,000 youth in Los Angeles. NFTE
   partners with schools in under-resourced neighborhoods and community-based
   organizations with like-minded missions to integrate our uniquely suited small
@@ -70,10 +70,10 @@ Why is this project important to the work of your organization?: >-
   classroom by NFTE-certified teachers. Essential to the experience is our
   in-depth educator training, certification and ongoing professional
   development.
-Please explain how you will define and measure success for your project.: "Support will help NFTE implement its Entrepreneurship Pathway programs, thereby activating the students’ entrepreneurial mindset, resulting in the following: \n*\tIncreased student engagement, ownership, and motivation (career and college aspirations)\n*\tDevelopment of career-ready skills\n*\tStudents learn fundamentals of business startup\n*\tStudents develop an entrepreneurial mindset\n*\tStudents are prepared for business startup, workforce, or continued education\n*\tStudents demonstrate mastery of content through independently created business plans \n\nThrough this initiative, will track the following Key Performance Indicators (KPIs):\n*\tAt least 90% of NFTE students will develop a business idea and pitch, demonstrating basic knowledge of business development skills;\n*\tAt least 80% of NFTE students will participate in a pitch competition, demonstrating their entrepreneurial mindset skills;\n*\tNFTE students will demonstrate average growth of 8-10% when assessing their confidence in entrepreneurial ability and skills; and,\n*\tAt least 80% of students will participate in the Entrepreneurial Mindset assessment (using the Entrepreneurial Mindset Index).\n\nIn addition, NFTE students are now being prepared for an academic and industry-recognized credential, which they can earn by passing Certiport’s Entrepreneurship and Small Business (ESB) exam. The ESB certification has been recognized by the American Council on Education for lower division (100-200 level) college credit. \n"
-Approximately how many people will be directly impacted by this proposal?: '12'
-Approximately how many people will be indirectly impacted by this proposal?: '2000'
-Please describe the broader impact of your proposal.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "Support will help NFTE implement its Entrepreneurship Pathway programs, thereby activating the students’ entrepreneurial mindset, resulting in the following: \n*\tIncreased student engagement, ownership, and motivation (career and college aspirations)\n*\tDevelopment of career-ready skills\n*\tStudents learn fundamentals of business startup\n*\tStudents develop an entrepreneurial mindset\n*\tStudents are prepared for business startup, workforce, or continued education\n*\tStudents demonstrate mastery of content through independently created business plans \n\nThrough this initiative, will track the following Key Performance Indicators (KPIs):\n*\tAt least 90% of NFTE students will develop a business idea and pitch, demonstrating basic knowledge of business development skills;\n*\tAt least 80% of NFTE students will participate in a pitch competition, demonstrating their entrepreneurial mindset skills;\n*\tNFTE students will demonstrate average growth of 8-10% when assessing their confidence in entrepreneurial ability and skills; and,\n*\tAt least 80% of students will participate in the Entrepreneurial Mindset assessment (using the Entrepreneurial Mindset Index).\n\nIn addition, NFTE students are now being prepared for an academic and industry-recognized credential, which they can earn by passing Certiport’s Entrepreneurship and Small Business (ESB) exam. The ESB certification has been recognized by the American Council on Education for lower division (100-200 level) college credit. \n"
+Approximately how many people will be directly impacted by this project, program, or initiative?: '12'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '2000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   A person with an entrepreneurial mindset can recognize an otherwise overlooked
   opportunity, has the confidence to take a calculated risk, thinks critically
   and creatively, communicates ideas clearly, is able to collaborate
@@ -88,13 +88,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Office space for meetings, events, or for staff'
   - 'Capacity, including staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - College graduates
   - High school graduation rates
   - Proficiency in STEM
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: learn
 filename: network-for-teaching-entrepreneurship-los-angeles-nfte-la
 order: 49

@@ -19,7 +19,7 @@ organization_website: 'https://www.sharedstudios.com'
 organization_twitter: '@sharedstudios'
 organization_facebook: www.facebook.com/sharedstudios/
 organization_instagram: '@losangelesportal @sharedstudios'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   We create meaningful human connections between people separated by distance
   and difference. We bring communities together in immersive spaces called
   Portals to talk and collaborate as if in the same room to highlight our shared
@@ -46,10 +46,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   COVID-19 has accelerated the atomization and breakdown of our local and global
   communities. It has exposed existing fault lines in race and class. After
   social distancing tapers, there will be long-term impacts in how we gather and
@@ -69,7 +69,7 @@ What is the need you’re responding to?: >-
   to lead these multi- and cross-lingual conversations. We will share these
   stories with our global network, and position LA as a model for bottom-up
   community engagement.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Shared_Studios uses structured dialogues to build empathy and community on a
   global scale. We maintain 45 sites - from refugee camps to tech hubs - and
   co-create meaningful programming with each host community. 
@@ -88,7 +88,7 @@ Why is this project important to the work of your organization?: >-
   bookended by written surveys and helped communities define their own
   narratives and create connected political spaces. We will replicate a similar
   structure in LA. 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Our vision is for Angelenos to come together, reflect upon their individual
   and shared experiences with COVID-19, and share their vision for the future of
   LA. We will measure our impact by: 
@@ -122,9 +122,9 @@ Please explain how you will define and measure success for your project.: >-
   conversations will become a summary report and proposal on how to make LA a
   more resilient, inclusive, and vibrant place to live. We will also compile
   recorded oral histories to turn into one or more series of videos.
-Approximately how many people will be directly impacted by this proposal?: '1000'
-Approximately how many people will be indirectly impacted by this proposal?: '100000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '100000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Impact on Environment and Physical Space: The LA_Portal will temporarily
   reshape existing public spaces by serving as a pop-up resource where people
   can gather in small groups while flexibly modeling responsible and integrate
@@ -140,7 +140,7 @@ Please describe the broader impact of your proposal.: >-
 
   Policy Impact: We will crowdsource stories, ideas, and policy recommendations
   that articulate how LA residents envision the future of the city. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Shared_Studios is not applying with another organization but will work
   directly with LA-based organizations to co-author and co-create hyperlocal
   programming with local arts and civic organizations. These cultural
@@ -157,15 +157,15 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Public arts and cultural events
   - Residential segregation
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CREATE
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: connect
 filename: shared-studios-la-portal
 order: 50

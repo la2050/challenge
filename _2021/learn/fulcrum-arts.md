@@ -17,7 +17,7 @@ organization_website: 'https://www.fulcrumarts.org/emerge/big-city-forum/'
 organization_twitter: ''
 organization_facebook: big city forum
 organization_instagram: '@bigcityforum'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Big City Lab is a social practice and design education initiative that invests
   in the potential of urban youth to understand and define their sense of place
   and community. Through a design-based learning model, students become active
@@ -34,10 +34,10 @@ project_description: >
 Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
 In which areas of Los Angeles will you be directly working?:
   - Central LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >+
+What is the problem that you are seeking to address?: >+
   Through this yearlong arts education project, students from low-income
   communities in the Camino Nuevo Charter Academy network come together to
   explore their history, social conditions, neighborhoods, and storylines. 
@@ -63,7 +63,7 @@ What is the need you’re responding to?: >+
   kinesthetic skills key to fostering the “21st century skills” of
   collaboration, creativity, critical thinking, and communication.
 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   In 2016 we received a grant from the SPArt Foundation to pilot Big City Lab at
   Camino Nuevo Miramar High School in the MacArthur Park neighborhood. Through
   Big City Lab students explored the history, story lines, and social conditions
@@ -78,7 +78,7 @@ Why is this project important to the work of your organization?: >-
   by putting forth strategies in which they could express their own
   perspectives. The goal is to replicate the program with far more students
   across CNCA schools.
-Please explain how you will define and measure success for your project.: >+
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >+
   My vision for success for Big City Lab is based on bringing youth together who
   learn to think critically and express their thoughts and opinions on relevant
   issues about their own lives. Within every aspect of the program we strive to
@@ -128,9 +128,9 @@ Please explain how you will define and measure success for your project.: >+
   skills such as critical thinking, problem solving, leadership, and
   collaboration.
 
-Approximately how many people will be directly impacted by this proposal?: '360'
-Approximately how many people will be indirectly impacted by this proposal?: '600'
-Please describe the broader impact of your proposal.: >+
+Approximately how many people will be directly impacted by this project, program, or initiative?: '360'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '600'
+Describe how Los Angeles County will be different if your work is successful.: >+
   By focusing on the arts as a catalyst for change and growth, Big City Lab aims
   to reach out and bring together underserved youth by providing students with
   opportunities to learn and collaborate with professional artists, designers,
@@ -146,7 +146,7 @@ Please describe the broader impact of your proposal.: >+
 
 
 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   The lead collaborator for the project will be the charter school network -
   Camino Nuevo Charter Academy that run eight campuses in the MacArthur Park,
   Westlake, and Pico Union neighborhoods in Central Los Angeles. In working
@@ -158,13 +158,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Office space for meetings, events, or for staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: Camino Nuevo Charter Academy school network
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - College matriculation
   - High school graduation rates
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: learn
 filename: fulcrum-arts
 order: 33

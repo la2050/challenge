@@ -17,7 +17,7 @@ organization_website: 'https://www.creativeacts.us'
 organization_twitter: '@creative_acts'
 organization_facebook: '@creativeacts.us'
 organization_instagram: '@creative_acts'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   We seek to transform the most pressing social justice issues through the
   revolutionary power of the Arts; to heal trauma, build community, raise power
   and amplify the voices of the most marginalized to change commonly held
@@ -32,8 +32,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >
   When introducing AB 2477 in 2017, ensuring that people incarcerated in jails
   and juvenile detention facilities in California can exercise their right to
   vote, Asm Shirley Weber emphasized, “Civic participation can be a critical
@@ -48,7 +48,7 @@ What is the need you’re responding to?: >
   Expanding the program now will help increase those numbers among the most
   impacted communities in both local and national elections at this crucial
   time. 
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   Creative Acts founder Sabra Williams created The Actors’ Gang Prison Project
   in 2005, and has over 15 years of experience teaching adults and youth behind
   bars. In addition, the Art Attacks program employs teaching artists who are
@@ -62,7 +62,7 @@ Why is this project important to the work of your organization?: >
   backed up by research and evidence, documented by mental health professionals
   and nationally renowned researchers. Our experience with this type of
   programming makes us uniquely qualified to engage in this work. 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   The immediate goals of Art Attacks are to increase voter turnout among
   incarcerated and formerly incarcerated young people, connect systems impacted
   people to organizations whose work directly affects their communities and help
@@ -80,9 +80,9 @@ Please explain how you will define and measure success for your project.: >-
   Lives, we have the best chance of being able to continue our relationship with
   our alumni and develop teaching artists from the pool of young activists and
   systems-impacted youth for a long-term impact. 
-Approximately how many people will be directly impacted by this proposal?: '650'
-Approximately how many people will be indirectly impacted by this proposal?: '3000'
-Please describe the broader impact of your proposal.: >+
+Approximately how many people will be directly impacted by this project, program, or initiative?: '650'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '3000'
+Describe how Los Angeles County will be different if your work is successful.: >+
   Our Education system is not built to support children dealing with extreme
   violence & trauma so we lock them up. But given creative ways to learn these
   young people start to realize their power and importance. Over 95% of them
@@ -99,11 +99,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Communications support
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Neighborhood council participation
   - Voting rates
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CREATE
   - LA is the best place to PLAY
@@ -117,7 +117,7 @@ Has your proposal changed due to COVID-19?: >
   communication with peers who have found leadership roles in their communities will inspire even more voter turnout and civic engagement from our students. In the
   unlikely event that virtual classes are not possible, Creative Acts is prepared to take the program to the same population outside of the youth facilities
   through local community centers and community-based organizations.
-year: 2020
+year: 2021
 category: connect
 filename: creative-acts
 order: 14

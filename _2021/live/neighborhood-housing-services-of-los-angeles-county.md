@@ -17,7 +17,7 @@ organization_website: 'https://www.nhslacounty.org'
 organization_twitter: '@nhslacounty'
 organization_facebook: 'https://www.facebook.com/NHSLAC/'
 organization_instagram: '@nhslacounty'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   NHS’ mission is to serve as a catalyst for local residents, businesses and
   government representatives to work together to build stronger neighborhoods,
   improve the quality of life for low to moderate income families and revitalize
@@ -33,10 +33,10 @@ Which LA2050 goal will your submission most impact?: LA is the best place to LIV
 In which areas of Los Angeles will you be directly working?:
   - South LA
   - Compton
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   For most LMI communities, steadily increasing housing costs and stagnant or
   decreasing incomes create barriers to achieving the community health equity.
   The economic instability faced by these communities prevents local residents
@@ -53,7 +53,7 @@ What is the need you’re responding to?: >
   vibrant and equitable community for the residents of Compton and other LMI
   communities. The CSC is a space for healing the community trauma wrought from
   years of inequity. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   The SCI team is well-suited due to each of the organizations’ historic ability
   to serve as a catalyst in community development. Combining our work to have
   collective impact is the most effective path to achieve successful outcomes.
@@ -68,10 +68,10 @@ Why is this project important to the work of your organization?: >-
   Farms reconnects the lives of the formerly incarcerated back to the fabric of
   society through urban agriculture, gainful employment and job training
   programs. 
-Please explain how you will define and measure success for your project.: "By 2020, NHS will have expanded its loan production by 15% and PCR by 15%. By 2021 NHS hopes to raise an additional $30 million in capital for program leverage, and by 2022 plans to enter escrow on 6 land banking sites for development near transit. \n\nOur partners envision that SCI will deliver a systemic, replicable model with programming and service delivery that can be utilized in similar LMI communities throughout the country. In order to achieve the desired long-term social impact that NHS envisions for the City of Compton, SCI’s objectives include: \n\n*\tBlight mitigation and comprehensive neighborhood revitalization\n*\tIncrease neighborhood investment and small business capital in TOD neighborhoods to connect residents to economic opportunity \n*\tSupport urban agricultural, agribusiness, and local farmers. Increase access to healthy foods to increase food security\n*\tDevelop greener mixed-use residential and commercial development in the neighborhood, acquire 6 additional blighted properties \n*\tIncrease social capital, improve quality of life in the community, preserve culture, heritage and legacy neighborhoods\n"
-Approximately how many people will be directly impacted by this proposal?: '15000'
-Approximately how many people will be indirectly impacted by this proposal?: '95000'
-Please describe the broader impact of your proposal.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "By 2020, NHS will have expanded its loan production by 15% and PCR by 15%. By 2021 NHS hopes to raise an additional $30 million in capital for program leverage, and by 2022 plans to enter escrow on 6 land banking sites for development near transit. \n\nOur partners envision that SCI will deliver a systemic, replicable model with programming and service delivery that can be utilized in similar LMI communities throughout the country. In order to achieve the desired long-term social impact that NHS envisions for the City of Compton, SCI’s objectives include: \n\n*\tBlight mitigation and comprehensive neighborhood revitalization\n*\tIncrease neighborhood investment and small business capital in TOD neighborhoods to connect residents to economic opportunity \n*\tSupport urban agricultural, agribusiness, and local farmers. Increase access to healthy foods to increase food security\n*\tDevelop greener mixed-use residential and commercial development in the neighborhood, acquire 6 additional blighted properties \n*\tIncrease social capital, improve quality of life in the community, preserve culture, heritage and legacy neighborhoods\n"
+Approximately how many people will be directly impacted by this project, program, or initiative?: '15000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '95000'
+Describe how Los Angeles County will be different if your work is successful.: >
   Public policies are often enacted under the guise of creating new public
   spaces, combatting blight, or bolstering economic development. But over time,
   these policies have stripped minority communities of the wealth and financial
@@ -84,7 +84,7 @@ Please describe the broader impact of your proposal.: >
   food options and have suffered educational disparities.  SCI is expanding
   opportunity by offering financial and business education, low cost, affordable
   loans and healthcare, urban agriculture, and workforce development.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+'Describe the role of collaborating organizations on this project.': >
   •Metro CDC: personal development classes to assist formerly incarcerated
   individuals and at-risk youth to navigate obstacles that can block success
 
@@ -110,12 +110,12 @@ Please list the organizations collaborating on this proposal.:
   - Metro CDC
   - Watts Health Foundation
   - City of Compton
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Food insecurity
   - Housing affordability
   - Resilient communities
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your application will impact.: []
+year: 2021
 category: live
 filename: neighborhood-housing-services-of-los-angeles-county
 order: 33

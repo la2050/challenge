@@ -17,7 +17,7 @@ organization_website: 'https://www.sanpedromealsonwheels.org'
 organization_twitter: ''
 organization_facebook: sanpedromealsonwheels
 organization_instagram: '@sanpedromealsonwheels'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The Meals on Wheels of San Pedro mission is to provide nutritious, affordable
   meals to those who are unable to supply it for themselves and to offer caring,
   personal interaction.
@@ -34,10 +34,10 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to LIVE
 In which areas of Los Angeles will you be directly working?:
   - South Bay
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   San Pedro Meals on Wheels has been a successful program since 1972, serving
   approximately 1.5 million people to date.  The San Pedro senior population,
   the number of people with chronic illnesses and people recuperating following
@@ -45,7 +45,7 @@ What is the need you’re responding to?: >-
   available to serve these people in our community is limited, not keeping up
   with the demand and must be expanded.  This organization relies on donations
   to meet operating budget goals.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   San Pedro Meals on Wheels has proven it's success throughout the years,
   including receiving the Chamber of Commerce Non Profit of the Year Award in
   2018.  We have the facilities and overall capacity to grow and serve many more
@@ -53,14 +53,14 @@ Why is this project important to the work of your organization?: >-
   Directors, a helpful community and loving, caring volunteers.  With the
   financial backing, we can prepare and deliver many more meals throughout the
   San Pedro and neighboring communities.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Depending on the date funding is received, we will increase the number of
   people served, the number of meals prepared and served and the number of
   community volunteers utilized to expand San Pedro Meals on Wheels services. 
   These number will be easily accessible and shared.
-Approximately how many people will be directly impacted by this proposal?: '200'
-Approximately how many people will be indirectly impacted by this proposal?: '56000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '200'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '56000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Currently client average of 40/day.  Projected clients 200/day.  Currently San
   Pedro population is approximately 56,000.  Word of mouth and social media will
   spread regarding the additional program success and reach the entire
@@ -73,7 +73,7 @@ Please describe the broader impact of your proposal.: >-
   occurrence.  Additional programs developed to assist these people in creating
   simple craft products to donate to other organizations in need in the
   community.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >+
+'Describe the role of collaborating organizations on this project.': >+
   Willenberg Career & Transition center is one of LAUSD'S Schools rigorous
   providing vocational training for students with disabilities. As part of their
   alternative curriculum, students grow and distribute fresh vegetables from
@@ -96,12 +96,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Access to healthy food
   - Food insecurity
   - Older adult well-being
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your application will impact.: []
+year: 2021
 category: live
 filename: san-pedro-meals-on-wheels
 order: 43

@@ -17,7 +17,7 @@ organization_website: 'https://www.dreamcenter.org/relief/'
 organization_twitter: '@LADreamCenter'
 organization_facebook: 'https://www.facebook.com/LADreamCenter/'
 organization_instagram: '@LAdreamcenter'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The Dream Center reconnects economically and socially marginalized people to a
   community of support by funding free human services that address immediate and
   long-term needs in the areas of homelessness, hunger, poverty, addiction,
@@ -35,10 +35,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   History has shown that some of the greatest contributors to our society were
   at some point given help to survive with hope for a better life. The Dream
   Center has provided that help and hope to the most vulnerable children and
@@ -57,7 +57,7 @@ What is the need you’re responding to?: >-
   Today, we ask for emergency support in the form of a General Operating grant
   to help further our mission to respond to the current health and economic
   crisis of the COVID-19 pandemic.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   The Dream Center measures its impact in this capacity by counting the number
   of individuals in need that have access to our resources. In the surrounding
   neighborhood of Service Planning Area 4, approximately 228,148 or residents
@@ -74,7 +74,7 @@ Why is this project important to the work of your organization?: >-
   Areas through food distribution to 21 other sites across Los Angeles county.
   Again, we are doing all this in addition to our flagship residential
   programs. 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   We measure success by the number of individuals and families we are able to
   serve. 
 
@@ -88,9 +88,9 @@ Please explain how you will define and measure success for your project.: >-
   mentorship, and case management with access to community service
   opportunities, work experience, and our Adult Education program for GED
   attainment, financial literacy, and development of other life skills. 
-Approximately how many people will be directly impacted by this proposal?: '30000'
-Approximately how many people will be indirectly impacted by this proposal?: '50000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '30000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '50000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The Dream Center measures its impact in this capacity by counting the number
   of individuals in need that have access to our resources. In the surrounding
   neighborhood of Service Planning Area 4 (SPA 4), approximately 228,148 or
@@ -100,7 +100,7 @@ Please describe the broader impact of your proposal.: >-
   accessible as a resource to the entire population of LA County, we
   specifically target low-to-moderate income families with children and families
   experiencing homelessness. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': Not collaborating.
+'Describe the role of collaborating organizations on this project.': Not collaborating.
 Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Host public events or gatherings
@@ -108,13 +108,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Food insecurity
   - Older adult well-being
   - Homelessness
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: the-dream-center-foundation
 order: 51

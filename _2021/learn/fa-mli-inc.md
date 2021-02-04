@@ -17,7 +17,7 @@ organization_website: 'https://www.sambam.us'
 organization_twitter: ''
 organization_facebook: 'https://www.facebook.com/famliinc.org/'
 organization_instagram: '@famlisoul'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   To provide dynamic educational and artistic projects for inner-city youth
   (ages 11 to 24) through mentoring during school accredited courses, and
   after-school programs. We encourage positive self-identity, independence
@@ -33,10 +33,10 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
 In which areas of Los Angeles will you be directly working?:
   - South LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   FA-MLI’s services resonate naturally with our students as their lives
 
   are often filled with traumatic, life-altering events that inform their
@@ -55,7 +55,7 @@ What is the need you’re responding to?: >
   the curriculum are the development of life skills (i.e. anger management),
   preparing for job interviews, civic engagement, cultural literacy, and much
   more. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Due to the increase in low graduation rates, substance abuse, teenage
   pregnancies, gang involvement and death related shootings affecting African
   Americans and Hispanics between the ages of 12 to 30, FA-MLI Inc. is dedicated
@@ -74,7 +74,7 @@ Why is this project important to the work of your organization?: >-
   FA-MLI is proud to announce that for the past five years, its program efforts
   have graduated 100 percent of the youth who arrived to the 12th grade, with
   80% enrolling in college and 20% enlisting in the United States Military. 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   The program staff will collect data to determine whether activities outlined
   in the program outcomes are being implemented as planned. This will include
   attendance of students at each activity, session, workshops, field trips, and
@@ -89,9 +89,9 @@ Please explain how you will define and measure success for your project.: >-
   determine if the program produced its intended effect on students life without
   crime. Results from the surveys will be shared as a Progress Report with
   Program staff and any My LA2050200 appointed evaluator.
-Approximately how many people will be directly impacted by this proposal?: '325'
-Approximately how many people will be indirectly impacted by this proposal?: '4500'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '325'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '4500'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Our program reduces the number of youth involved in the justice system by
   preventing them from going in to begin with. At Locke High, we engage with
   campus security and administrators in an effort to provide alternative methods
@@ -105,7 +105,7 @@ Please describe the broader impact of your proposal.: >-
   multiple interconnected roots of social problems in our neighborhoods. It
   calls for collaborative, comprehensive and sustained efforts to transform
   these underlying conditions through participation. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+'Describe the role of collaborating organizations on this project.': >
   One Voice works now as a partner serving our students, as they look for
   guidance selecting a college, community college, or trade school upon high
   school graduation. Their Scholars Program prepares and supports 150 low-income
@@ -122,12 +122,12 @@ Please describe the broader impact of your proposal.: >-
 Which of LA2050’s resources will be of the most value to you?:
   - Communications support
 Please list the organizations collaborating on this proposal.: One Voice
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - College matriculation
   - High school graduation rates
   - Proficiency in STEM
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your application will impact.: []
+year: 2021
 category: learn
 filename: fa-mli-inc
 order: 28

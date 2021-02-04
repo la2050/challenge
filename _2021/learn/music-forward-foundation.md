@@ -17,7 +17,7 @@ organization_website: 'https://www.hobmusicforward.org'
 organization_twitter: '@HOBMusicForward'
 organization_facebook: 'https://www.facebook.com/HOBMusicForward'
 organization_instagram: '@hobmusicforward'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Music Forward's mission is to transform young lives, inspire careers, and
   champion a more inclusive music industry. Our vision is for all youth to learn
   how to leverage their creative passions to secure future employment, avert
@@ -36,10 +36,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Today’s youth in LA County face a crisis when it comes to education and
   employment. 11.7% of young people ages 16-24 are disconnected, meaning they
   are not currently enrolled in school or working and that disconnection is even
@@ -59,7 +59,7 @@ What is the need you’re responding to?: >-
   increase performance opportunities, improve mentorship effectiveness and
   provide greater access for underrepresented youth. It will also include
   digital strategies developed over the past few weeks.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Music Forward has served Los Angeles youth since 1994, and in recent years
   expanded its traditional arts education program to help fill the void in
   creative workforce development opportunities available to youth.
@@ -78,7 +78,7 @@ Why is this project important to the work of your organization?: >-
   program that facilitates paid gigs, job shadows, and additional learning
   opportunities with coveted music industry partners. And we are continually
   working to improve our services and impact.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Music Forward’s project GOALS are to: 
 
 
@@ -121,9 +121,9 @@ Please explain how you will define and measure success for your project.: >
   industry mentors, and partners are also surveyed on the value of their
   experience as it relates to personal and professional priorities and the
   quality of program content.
-Approximately how many people will be directly impacted by this proposal?: '3850'
-Approximately how many people will be indirectly impacted by this proposal?: '2750'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '3850'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '2750'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Music is a powerful force in society – a universal language that connects us
   all culturally and emotionally. That’s why it is so important to ensure
   diverse voices are represented at all levels of creation and dissemination.
@@ -136,7 +136,7 @@ Please describe the broader impact of your proposal.: >-
   we focus our recruitment on those currently underrepresented in the music
   industry (students of color, women, and from low-income households) through
   our network of partners, schools and community-based organizations.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Collaborations with LA City EWWD and ReLAY, a CSU5 initiative headquartered at
   California State University, Northridge, will help increase our ability to
   recruit youth and assess impact. Music Forward will bring programs focusing on
@@ -152,12 +152,12 @@ Please list the organizations collaborating on this proposal.:
   - ReLAY (Reconnecting Los Angeles Youth)
   - Economic & Workforce Development Department (EWDD)
   - City of Los Angeles
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - Opportunity youth (“Disengaged youth” 16-24 not working or in school)
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: learn
 filename: music-forward-foundation
 order: 48

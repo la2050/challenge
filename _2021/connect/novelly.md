@@ -17,7 +17,7 @@ organization_website: 'https://www.novelly.org'
 organization_twitter: '@novellyorg'
 organization_facebook: 'https://facebook.com/novellyorg'
 organization_instagram: '@novellyorg'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Novelly is on a mission to spark the changemaker in every young person, one
   young adult novel at a time.
 project_description: >-
@@ -34,10 +34,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   To solve the most complex and pressing issues of the 21st century, young
   people need the skills, knowledge, and motivation to not only identify issues
   in their communities but also to solve them through civic action. However,
@@ -50,7 +50,7 @@ What is the need you’re responding to?: >-
   other demographics and therefore easier to ignore by their decision-makers,
   resulting in long-term and far-reaching effects on equity in communities. in
   the United States.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Our staff is equipped to create high-quality civic education experiences for
   youth. I (CEO) have worked for 6 years in youth development and have extensive
   classroom experience teaching YA for social change with students. Janae
@@ -65,7 +65,7 @@ Why is this project important to the work of your organization?: >-
   teachers and students in the LA. Our social media following includes 1,120
   Instagram followers. Our community of educators includes 800 newsletter
   subscribers.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Our vision for success is that 100 students in Los Angeles County are
   empowered to deliver Novelly workshops using the Novelly reading app and
   facilitation guide with their peers. They will become confident in their
@@ -92,9 +92,9 @@ Please explain how you will define and measure success for your project.: >-
 
   Starting a Novelly Chapter - 20% of student start a Novelly Chapter within 12
   months of completing the program
-Approximately how many people will be directly impacted by this proposal?: '300'
-Approximately how many people will be indirectly impacted by this proposal?: '8000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '300'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '8000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Civic education and engagement among teenagers are associated with a wide
   range of positive outcomes. According to the UCLA Center for Health Policy
   Research, adolescents who are civically engaged are more likely to have better
@@ -111,13 +111,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Office space for meetings, events, or for staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Volunteerism
   - Voting rates
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
-year: 2020
+year: 2021
 category: connect
 filename: novelly
 order: 44

@@ -17,7 +17,7 @@ organization_website: 'https://www.livingbeauty.org'
 organization_twitter: '@livingbeautyorg'
 organization_facebook: 'https://www.facebook.com/foundationforlivingbeauty/'
 organization_instagram: '@livingbeautyorg'
-Please describe the mission of your organization.: >
+Describe the mission of your organization.: >
   The mission of The Foundation for Living Beauty is to empower women to
   increase their physical wellness and emotional stability while coping with the
   taxing effects of cancer and chemotherapy.
@@ -35,8 +35,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   The current need we are responding to is ensuring women have access to our
   services without having to go out in public or being in a group of people.
   Women who come to us are looking to empower themselves to participate in their
@@ -51,7 +51,7 @@ What is the need you’re responding to?: >-
   on transforming workshops and day retreats to be held live and on online
   platforms. Our virtual programs will be free to all we serve, as are all of
   our services. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Serving women with cancer is all we do. Most women facing a cancer diagnosis
   tend to isolate themselves or refuse to talk about the diagnosis in an effort
   to protect their loved ones. They continue to try to hold down jobs, mother
@@ -66,7 +66,7 @@ Why is this project important to the work of your organization?: >-
   holistic healing is a critical part of the cancer journey. We have a respect
   in local cancer communities and a solid reputation in the greater LA County
   community. 
-Please explain how you will define and measure success for your project.: >+
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >+
   We have recently come to realize that virtual programing is important to many
   women with cancer who have always had to live as many of us are living now.
   Although we started implementing this programing because of the current
@@ -91,9 +91,9 @@ Please explain how you will define and measure success for your project.: >+
   levels. Ensuring all women in these communities have more access to our
   programming will be the last way we measure success. 
 
-Approximately how many people will be directly impacted by this proposal?: '250'
-Approximately how many people will be indirectly impacted by this proposal?: '2500'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '250'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '2500'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Our virtual programming will allow us to serve more women, especially those in
   disenfranchised populations. Our overall message of physical and mental
   wellness while going through a cancer diagnosis to the virtual world will not
@@ -109,10 +109,10 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your application will impact.: []
+year: 2021
 category: connect
 filename: the-foundation-for-living-beauty
 order: 57

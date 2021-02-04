@@ -17,7 +17,7 @@ organization_website: 'https://www.sabancommunityclinic.org'
 organization_twitter: '@sabanclinic'
 organization_facebook: facebook/SabanClinic
 organization_instagram: '@sabanclinic'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   At Saban Community Clinic, we believe that health care is a right, not a
   privilege. Our mission is to serve as a medical home for the underserved and
   those who are most vulnerable by providing comprehensive, dependable and
@@ -36,10 +36,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   Health care should be a right, not a privilege.  The need for quality,
   affordable health care continues to grow in Los Angeles. In 2017, the SPA 4
   service area had the highest rate of childhood poverty in LA county. Poverty
@@ -55,7 +55,7 @@ What is the need you’re responding to?: >
   access live at or near the federal poverty line, struggling to meet their
   basic needs. Without access to a community health center, many patients will
   fall through the cracks.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Founded as The Los Angeles Free Clinic in 1967, our organization has built a
   reputable history in providing health care services to low-income, medically
   deprived people. Renamed in 2013 as Saban Community Clinic (SCC), SCC is now a
@@ -79,7 +79,7 @@ Why is this project important to the work of your organization?: >-
   help even more.
 
    
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   At the new Family Health Center, SCC will provide medical, dental and
   behavioral health services to more than 1400 patients by July 2021. By 2024,
   the Clinic will be at full capacity and able to serve at least 3,360
@@ -110,9 +110,9 @@ Please explain how you will define and measure success for your project.: >-
   dedicated doctors, nurses, medical assistants and other staff have been
   working tirelessly to make sure the most vulnerable get the help that they
   need. Public health matters to us all!
-Approximately how many people will be directly impacted by this proposal?: '1400'
-Approximately how many people will be indirectly impacted by this proposal?: '14000'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1400'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '14000'
+Describe how Los Angeles County will be different if your work is successful.: >
   The Family Health Center has tremendous potential to improve community health.
   The site is in a low-income, high need area. Within SPA 4, about 30% of Latino
   adults report having no regular source of medical care. In the Center's zip
@@ -126,7 +126,7 @@ Please describe the broader impact of your proposal.: >
   co-workers and community. The new Center answers the growing need for
   healthcare access, setting low-income families on the path to better health
   and well-being. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Although SCC is not submitting a formal collaborative proposal, SCC is a
   trusted safety net provider within Service Planning Area 4 (SPA 4) of Los
   Angeles County. SCC has a long history of collaborating with other area health
@@ -143,12 +143,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Healthcare access
   - Access to mental health services
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: saban-community-clinic
 order: 40

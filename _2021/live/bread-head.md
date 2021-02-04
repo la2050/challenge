@@ -16,7 +16,7 @@ organization_website: 'http://www.breadhead.org/'
 organization_twitter: '@breadheadvenice'
 organization_facebook: breadheadvenice
 organization_instagram: '@breadheadvenice'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Bread Head’s mission is to empower young adults experiencing housing
   insecurity with food literacy, life skills, and positive relationships.  With
   our intentional community, we hope to inspire personal growth, independence,
@@ -36,10 +36,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   In March 2019, we formed our Youth Advisory Board with the intention to gauge
   needs for PAN, our program to teach recently housed youth to cook on a
   CalFresh budget.  We left with an understanding of other serious issues: 1)
@@ -56,7 +56,7 @@ What is the need you’re responding to?: >-
   living is critical, no matter where a person is in the housing process. 
   Conducting outreach at city-wide agencies, Ambassadors communicate barriers
   that perpetuate cycles of vulnerability and collaborate to find solutions.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   In April 2019 we met to interview our first Ambassador, a struggling young
   artist facing chronic housing insecurity.  For years they faced challenges
   related to mental health, gender identity, and job security.  Though they had
@@ -73,7 +73,7 @@ Why is this project important to the work of your organization?: >-
   advocacy that reflects the diversity of our community we build resiliency. Our
   current Ambassador is a valued staff member and their voice is incorporated in
   this grant narrative.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Success is measured on key indicators of balanced lifestyle and community
   resiliency: increasing engagement, retention, food security, life skills
   developed, sense of self-efficacy and social connection, and placement into
@@ -99,9 +99,9 @@ Please explain how you will define and measure success for your project.: >-
   case plans for the year that support action to create and achieve goals.  The
   last three months of the program support participants while they apply for
   next steps that inspire and motivate them.
-Approximately how many people will be directly impacted by this proposal?: '500'
-Approximately how many people will be indirectly impacted by this proposal?: '2000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '500'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '2000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Through Community Ambassador outreach efforts, we discovered patterns at
   shelters that caused people to return to the streets: mandatory in person case
   management meetings that caused youth to choose between their shelter bed or
@@ -114,7 +114,7 @@ Please describe the broader impact of your proposal.: >-
   Expansion of this program increases opportunities to discover barriers
   experienced at systems that touch the lives of our community, and empowers
   people with lived experience to collaborate and find solutions.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   We know that collaboration is key to building community resilience. Our
   partnerships with SPY and VCH help us recruit Ambassadors for employment and
   assist members in maintaining stable housing. In this way, we strengthen
@@ -139,13 +139,13 @@ Please list the organizations collaborating on this proposal.:
   - UCLA Center for Community Learning (UCLA CCL)
   - Venice Community Housing (VCH)
   - Department of Mental Health (DMH)
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Food insecurity
   - Resilient communities
   - Homelessness
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: bread-head
 order: 4

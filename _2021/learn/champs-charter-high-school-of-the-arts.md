@@ -18,7 +18,7 @@ organization_website: 'https://www.champscharter.org'
 organization_twitter: ChampsCharter
 organization_facebook: ChampsCharter
 organization_instagram: '@champs_charter'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   CHAMPS Charter High School of the Arts educates, guides, and inspires creative
   and critical thinking through artistic experience.  We serve a
   socioeconomically diverse student body. Research shows that arts education
@@ -35,10 +35,10 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
 In which areas of Los Angeles will you be directly working?:
   - San Fernando Valley
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   Research has shown that the arts are critically important to educational
   outcomes, including graduation rates, college matriculation rates, and
   suspension/expulsion rates. The performing arts, in particular, provide
@@ -56,7 +56,7 @@ What is the need you’re responding to?: >
   outside venues for our performances and to charge for admission. This, in
   turn, limits access for families of lower-income students and community
   members
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   CHAMPS was founded specifically to provide students with an immersive,
   high-quality arts education that is not widely available in our public
   schools. In contrast, only 40 % of students in LA County were enrolled in at
@@ -71,10 +71,10 @@ Why is this project important to the work of your organization?: >
   in contrast to In LA County’s 81.8 percent graduation rate. That same year, 52
   percent of our students were admitted to four-year programs and 46 percent
   were admitted to 2-year colleges/universities. 
-Please explain how you will define and measure success for your project.: "We define success for our portable stage project on two fronts: benefit to the school and benefit to the community. The school will benefit through enhanced performance opportunities, increased school spirit, and reduced cost for performance venues. The community will benefit from increased access to our school performances and outreach programs.\nSpecific metrics for success include:\n*\tRevenue savings. CHAMPS currently spends $25,000 annually for venue rentals. We expect to be able to decrease that amount by at least half with a portable stage solution.\n*\tIncreased attendance at performances by students’ families, particularly lower-income families. Not having to pay rental fees means not having to charge as much (or at all) for attendance, and having more performances at the school eliminates transportation challenges for our families.\n*\tIncreased attendance at performances by members of the community. A portable stage solution allows us to hold more performances in Van Nuys (instead of more distant venues) and increases the desirability of the events for community members. \n*\tIncreased visibility for the school and community interest in the arts. More, and higher-quality, performances for our community will help local families learn about our school. They will inspire children and parents to consider participation in the arts, through enrollment at CHAMPS or otherwise. \n"
-Approximately how many people will be directly impacted by this proposal?: '750'
-Approximately how many people will be indirectly impacted by this proposal?: '208511'
-Please describe the broader impact of your proposal.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "We define success for our portable stage project on two fronts: benefit to the school and benefit to the community. The school will benefit through enhanced performance opportunities, increased school spirit, and reduced cost for performance venues. The community will benefit from increased access to our school performances and outreach programs.\nSpecific metrics for success include:\n*\tRevenue savings. CHAMPS currently spends $25,000 annually for venue rentals. We expect to be able to decrease that amount by at least half with a portable stage solution.\n*\tIncreased attendance at performances by students’ families, particularly lower-income families. Not having to pay rental fees means not having to charge as much (or at all) for attendance, and having more performances at the school eliminates transportation challenges for our families.\n*\tIncreased attendance at performances by members of the community. A portable stage solution allows us to hold more performances in Van Nuys (instead of more distant venues) and increases the desirability of the events for community members. \n*\tIncreased visibility for the school and community interest in the arts. More, and higher-quality, performances for our community will help local families learn about our school. They will inspire children and parents to consider participation in the arts, through enrollment at CHAMPS or otherwise. \n"
+Approximately how many people will be directly impacted by this project, program, or initiative?: '750'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '208511'
+Describe how Los Angeles County will be different if your work is successful.: >
   The proposal will directly impact the entire student body, faculty, and staff
   of CHAMPS, who will benefit from the cost savings the portable stage will
   provide and the enhanced opportunities to participate in performances. That
@@ -91,13 +91,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Communications support
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - College matriculation
   - High school graduation rates
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: learn
 filename: champs-charter-high-school-of-the-arts
 order: 12

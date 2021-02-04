@@ -17,7 +17,7 @@ organization_website: 'https://www.consciouskidsproject.org'
 organization_twitter: '@kidsconscious'
 organization_facebook: ''
 organization_instagram: '@consciouskidsproject'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Conscious Kids Project partners with schools in Los Angeles to teach students
   evidence-based yoga and meditation tools that improve physical and emotional
   health, academic potential, and overall well-being. We seek to make tools of
@@ -35,8 +35,8 @@ Which LA2050 goal will your submission most impact?: LA is the best place to CON
 In which areas of Los Angeles will you be directly working?:
   - South LA
   - Westside
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   Physical education (PE) standards mandated at federal and state levels are an
   integral component of a student’s learning and overall well-being. Yoga
   instruction strengthens a student’s fundamental motor skills, teaches them to
@@ -51,7 +51,7 @@ What is the need you’re responding to?: >-
   practice guidelines for yoga in SPED classrooms, there is virtually little or
   no research on how to be most impactful with yoga instruction in SPED
   classrooms.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Our organization grows when our instruction is diversified to reach more
   students. When we diversify our instruction, we can reach larger populations
   of students and school communities across Los Angeles. We realize that
@@ -66,7 +66,7 @@ Why is this project important to the work of your organization?: >-
   new and thus far, and develop project findings and research into a resource
   toolkit accessible to other yoga teachers, educators, our SPED students and
   their families.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   The ways we will define and measure success will largely fall under the
   categories of research, implementation, assessment and design. We will augment
   our current breadth of work by conducting a literature review on topics of
@@ -87,9 +87,9 @@ Please explain how you will define and measure success for your project.: >-
   student participation in yoga classes. Our vision for success is to reach 100
   SPED students at elementary schools in Los Angeles and inform a toolkit
   resource for yoga educators, teachers, SPED students and their families.
-Approximately how many people will be directly impacted by this proposal?: '350'
-Approximately how many people will be indirectly impacted by this proposal?: '2500'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '350'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '2500'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The latest research across medical, psychological, and educational fields show
   that children can get life-changing benefits from yoga. These benefits support
   physical and emotional awareness and well-being in dynamic ways unique to
@@ -106,12 +106,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Office space for meetings, events, or for staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Disability access and inclusion
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to PLAY
-year: 2020
+year: 2021
 category: connect
 filename: conscious-kids-project
 order: 13

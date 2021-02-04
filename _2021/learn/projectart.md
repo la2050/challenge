@@ -17,7 +17,7 @@ organization_website: 'https://www.projectart.org'
 organization_twitter: '@projectartusa'
 organization_facebook: '@projectartusa'
 organization_instagram: '@projectartusa'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   ProjectArt empowers youth, artists and communities through partnerships with
   public libraries. Resident artists teach free after school art classes to
   youth in divested areas while developing artwork in libraries. With a scalable
@@ -35,10 +35,10 @@ In which areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - South LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   ProjectArt LA vigorously responds to the need for quality, consistent,
   out-of-school arts education in LA’s highest need communities. In response to
   the lack of adequate arts learning opportunities in LA public schools, we take
@@ -58,7 +58,7 @@ What is the need you’re responding to?: >-
   ProjectArt LA serves as the response to the lack of access to arts learning
   opportunities, filling the void by providing consistent art classes to
   children ages 4-18 in some of LA’s highest need communities.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   In today’s world, we are turning to our youth to build a more equitable and
   resilient future: to tackle everything from climate change to gun violence.
   ProjectArt presents an unprecedented opportunity to work with students to
@@ -76,7 +76,7 @@ Why is this project important to the work of your organization?: >-
 
   We have served 500+ students over the course of three years. From increased
   self-esteem and improved social skills, our impact is proven year after year.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Our vision is to build the largest free art school in America without owning a
   single building. With this grant, we endeavor to impact the lives of even more
   children by expanding and enriching our proven model in LA’s most divested
@@ -107,9 +107,9 @@ Please explain how you will define and measure success for your project.: >-
   high-need students learned more about art and artists due to our classes;  95%
   noticed improvements in their own art-making; 78% checked out books before and
   after class, and 89% felt more confident overall. 
-Approximately how many people will be directly impacted by this proposal?: '200'
-Approximately how many people will be indirectly impacted by this proposal?: '400'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '200'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '400'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Today, ProjectArt LA students are taking on advanced art projects, learning
   art histories left out of the typical canon, and using creative
   problem-solving skills to challenge the status quo. They are being encouraged
@@ -128,11 +128,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: learn
 filename: projectart
 order: 56

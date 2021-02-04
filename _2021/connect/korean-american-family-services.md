@@ -17,7 +17,7 @@ organization_website: 'https://www.kfamla.org'
 organization_twitter: '@KFAMLA'
 organization_facebook: 'https://www.facebook.com/KFAMLA'
 organization_instagram: '@kfamla'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   KFAM’s mission is to empower underserved Korean American and Asian Pacific
   Islander families through culturally responsive programs. KFAM is a family
   resource center wholly dedicated to the safety and wellness, especially
@@ -37,10 +37,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   On average, there are 35,000 children under the protection of DCFS in LA
   county. Among them, 600-800 are Asian Pacific Islanders (API). KFAM's Asian
   Foster Family Initiative is the first and only foster family agency in the
@@ -53,7 +53,7 @@ What is the need you’re responding to?: >-
   2 children have been adopted. However, we also had to turn away over a dozen
   children to non-Asian homes because we didn't have enough homes to meet their
   needs. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Prior to 2014, there were very few API resource (foster) families in the
   greater LA area, including zero active Korean American resource families
   available to provide culturally appropriate homes to API foster children. Five
@@ -68,7 +68,7 @@ Why is this project important to the work of your organization?: >-
   person served. AFFI is active within the Korean, Chinese and Filipino
   communities, with bilingual staff, trainings and programming offered in
   Korean, Mandarin, Cantonese and Tagalog. 
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Objective 1 – Outreach & Recruitment: AFFI is launching a new recruitment
   strategy called “Family 2 Family” this year partnering with its experienced
   resource families.  The experienced families will be incentivized and
@@ -98,9 +98,9 @@ Please explain how you will define and measure success for your project.: >
   API youth and their families will receive financials support to cover basic
   necessities, as families have been financially severely impacted due to
   layoffs. 
-Approximately how many people will be directly impacted by this proposal?: '350'
-Approximately how many people will be indirectly impacted by this proposal?: '5000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '350'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '5000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Statistics show that foster children have the poorest educational outcomes of
   all at-risk groups – only 58% of kids in foster care graduate high school
   compared to 84% of the general statewide population. Only 2% of foster kids
@@ -118,11 +118,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Office space for meetings, events, or for staff'
   - 'Capacity, including staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Immigrant integration
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
-year: 2020
+year: 2021
 category: connect
 filename: korean-american-family-services
 order: 33

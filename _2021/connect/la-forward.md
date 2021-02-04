@@ -17,7 +17,7 @@ organization_website: 'https://www.LosAngelesForward.org'
 organization_twitter: '@LosAngelesFwd'
 organization_facebook: 'https://www.facebook.com/losangelesforward'
 organization_instagram: '@LAForward'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   LA Forward breaks down barriers to civic participation and makes local
   government accessible to everyday people, not just political insiders and
   lobbyists. We provide Angelenos with resources and training to turn their
@@ -39,10 +39,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   LA County is home to the largest, most powerful local government in the U.S.
   by far. We have more people than 42 states and a larger budget than over 180
   nations. The County and City of LA have immense influence over nearly every
@@ -59,7 +59,7 @@ What is the need you’re responding to?: >-
   national politics for the first time, but remain overwhelmed by the prospect
   of getting involved locally. The LA 101 guide will help convert that energy
   into powerful local organizing to transform our city.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   LA’s electeds and policies should reflect the people they serve, and LA 101
   can help make that happen. The project is led by experienced local advocates
   with a track record of reaching, teaching, and mobilizing Angelenos at the
@@ -79,7 +79,7 @@ Why is this project important to the work of your organization?: >-
   economic development initiatives. They have been a leading voice for economic
   justice since 2008, and a leader in the successful citywide effort to legalize
   and protect street vending.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   The goal of LA 101 is to support the people of LA in taking control of the
   systems and policies that shape their lives. In the short term, that means
   providing resources that lower barriers to entry for those who want to take
@@ -107,9 +107,9 @@ Please explain how you will define and measure success for your project.: >-
   advocacy groups, and voting and getting their friends to vote. We will survey
   workshop and online participants about their behavior to see how it changes
   based on their contact with LA 101.
-Approximately how many people will be directly impacted by this proposal?: '50000'
-Approximately how many people will be indirectly impacted by this proposal?: '500000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '50000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '500000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   We expect the LA 101 campaign to have a lasting impact on local policies,
   civic engagement, and the future of the region. By illuminating the workings
   of the city and county, the LA 101 guide and workshops will pave the way for
@@ -120,7 +120,7 @@ Please describe the broader impact of your proposal.: >-
   elections. Ultimately, the result we are working toward is a local government
   that is dramatically more representative of — and responsive to — the people
   it serves.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+'Describe the role of collaborating organizations on this project.': >
   LA 101 is a true partnership between LA Forward and Inclusive Action. The
   concept was developed collaboratively, and our plan calls for a near-even
   split in creating content, recruiting partners, organizing events, and
@@ -140,11 +140,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Communications support
 Please list the organizations collaborating on this proposal.: Inclusive Action for the City
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Government responsiveness to residents’ needs
   - Neighborhood council participation
   - Voting rates
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
   - LA is the healthiest place to LIVE
 Has your proposal changed due to COVID-19?: >
@@ -158,7 +158,7 @@ Has your proposal changed due to COVID-19?: >
 
 
   We’re also planning to include additional training on how to organize in a socially distanced world. And we’re exploring ways to speed up the public launch of the LA 101 guide to help equip LA’s diverse communities to participate in the crucial deliberations around how our region navigates and emerges from this crisis.
-year: 2020
+year: 2021
 category: connect
 filename: la-forward
 order: 35

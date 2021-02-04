@@ -17,7 +17,7 @@ organization_website: 'https://www.laworks.com'
 organization_twitter: '@LAWorksNow'
 organization_facebook: '@laworks'
 organization_instagram: '@laworksnow'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   L.A. Works strives to create a thriving and equitable LA by increasing
   volunteer participation in the community; building the capacity of nonprofit
   organizations through access to volunteer labor; and educating and encouraging
@@ -46,10 +46,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   While the 25,000 volunteers who participate in L.A. Works' programs annually
   are diverse in age, experience, skills, and background, they share a
   dedication to serving the greater good. More than 25% of our volunteers have
@@ -64,7 +64,7 @@ What is the need you’re responding to?: >-
   have found that these virtual volunteer opportunities are an excellent way to
   engage homebound volunteers, with enrollment in our April 5th bootcamp
   quadrupling.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   With nearly 30 years of experience in volunteer mobilization, recruitment, and
   management, L.A. Works knows how to engage volunteers to make an impact. With
   a database of 50,000 active Angelenos, we work with every demographic in every
@@ -78,7 +78,7 @@ Why is this project important to the work of your organization?: >-
   have a positive experience and the work being completed provides value to the
   nonprofit organization served. This is a proven model and is the framework for
   the Take Action bootcamps, whether held online or in person.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   We plan to launch Take Action Initiatives in three different areas – Climate
   Change, Homelessness and Equity in Education – each cohort to run monthly for
   six sessions from July to December 2020, then again from January to June 2021,
@@ -102,9 +102,9 @@ Please explain how you will define and measure success for your project.: >-
   as they share advice, setbacks and successes. It will also allow L.A. Works to
   follow participants work as they work to change broader institutional systems
   to help address their issue.
-Approximately how many people will be directly impacted by this proposal?: '1080'
-Approximately how many people will be indirectly impacted by this proposal?: '10800'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1080'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '10800'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Our goal with Take Action is to empower everyday Angelenos with the knowledge
   and expertise to be able to affect major issues on the grassroots level. Each
   volunteer will leave with the potential to affect city policy by sharing,
@@ -114,7 +114,7 @@ Please describe the broader impact of your proposal.: >-
   could affect millions of lives in the aggregate: those who find homes off of
   the streets; those who will be able to breathe clean air; and those who will
   have access to a better education. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   These are the nonprofit and civic partners we have to-date in each of our
   three issues, with each providing expertise and in-kind support as follows:
 
@@ -135,12 +135,12 @@ Please list the organizations collaborating on this proposal.:
   - Everyone In - United Way
   - 'LA Councilmember David Ryu, District 4'
   - Audubon Society at Debs Park
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Volunteerism
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: connect
 filename: l-a-works
 order: 34

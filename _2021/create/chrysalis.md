@@ -17,7 +17,7 @@ organization_website: 'https://www.changelives.org'
 organization_twitter: '@ChrysalisLA'
 organization_facebook: ChrysalisLA
 organization_instagram: '@ChrysalisLA'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Chrysalis’ mission is to create a pathway to self-sufficiency for homeless and
   low-income individuals by providing the resources and support needed to find
   and retain employment.
@@ -35,10 +35,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Chrysalis serves the most vulnerable in our community—those with the most
   barriers to employment. People who have criminal histories and past
   incarceration face big challenges finding and retaining jobs due to a lack of
@@ -53,7 +53,7 @@ What is the need you’re responding to?: >-
   in-house CE businesses to get them started on the road to permanent, outside
   jobs. Sixty percent (60%) of our clients are justice-involved and 47% have
   prior felony convictions.
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   Chrysalis helps CREATE opportunities for formerly incarcerated people to
   reenter society, find work, and get on the path to self-sufficiency.  We are
   leaders in the reentry community for the work that we do to create jobs,
@@ -73,7 +73,7 @@ Why is this project important to the work of your organization?: >
   processes to Salesforce, enhanced applications supported by LA2050 will
   increase our capacity to effectively create economic opportunities for the
   formerly incarcerated. 
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Chrysalis has a robust evaluation system. Our dashboard tracks short- and
   long-term outcomes, and our strategic plan includes a broader vision of
   success over time. We are now transitioning data collection and reporting to
@@ -103,9 +103,9 @@ Please explain how you will define and measure success for your project.: >
   To support LA2050’s dream metric, we will also track the employment rate among
   all of our formerly incarcerated clients throughout the grant term and
   beyond. 
-Approximately how many people will be directly impacted by this proposal?: '3120'
-Approximately how many people will be indirectly impacted by this proposal?: '150000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '3120'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '150000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Jobs help justice-involved people gain economic stability and reduce the
   likelihood that they return to prison, promoting greater public safety to the
   benefit of everyone. But people who have been to prison are often shut out of
@@ -124,10 +124,10 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Economic opportunities for formerly incarcerated
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your application will impact.: []
+year: 2021
 category: create
 filename: chrysalis
 order: 6

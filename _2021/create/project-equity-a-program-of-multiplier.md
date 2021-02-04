@@ -20,7 +20,7 @@ organization_website: 'https://www.project-equity.org'
 organization_twitter: '@projectequity'
 organization_facebook: www.facebook.com/ProjectEquity
 organization_instagram: ''
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Project Equity fosters economic resiliency with low- and middle-income
   communities by expanding employee ownership, a proven but little-known
   business structure that shares the wealth a company generates with its
@@ -40,10 +40,10 @@ In which areas of Los Angeles will you be directly working?:
   - East LA
   - San Fernando Valley
   - South LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   At the start of 2020, thousands of LA manufacturing jobs were at risk from
   baby boomer owners retiring without succession plans and closing their firms.
   Today, COVID-19 has made preserving LA’s manufacturing firms even more urgent
@@ -60,7 +60,7 @@ What is the need you’re responding to?: >-
   fewer layoffs and faster post-recession growth, and 3) EO produces more
   economically secure workers, who report 33% higher wages, better benefits, and
   92% higher net worth.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Project Equity (PE) is a national leader in the movement to harness employee
   ownership to maintain thriving local business communities, honor selling
   owners’ legacies, and address income and wealth inequality. Headquartered in
@@ -74,7 +74,7 @@ Why is this project important to the work of your organization?: >-
   ensure that they, and their businesses, thrive after the transition. We have
   counseled hundreds of California businesses on EO transitions; those that
   transitioned generate demonstrable financial benefits for their workers. 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   To date, PE has leveraged employee ownership as a succession strategy for baby
   boomer business owners retiring in the next 2-5 years. Today, COVID-19 has
   created an urgent need to prevent manufacturing closures due to owners seeking
@@ -109,9 +109,9 @@ Please explain how you will define and measure success for your project.: >-
   3. By building a pipeline of firms considering EO, creating future business
   ownership opportunities for 600 additional LMI and of color workers in
   additional firm(s) that may transition after the grant ends.
-Approximately how many people will be directly impacted by this proposal?: '370'
-Approximately how many people will be indirectly impacted by this proposal?: '4600'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '370'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '4600'
+Describe how Los Angeles County will be different if your work is successful.: >-
   PE's advancement of EO can:
 
 
@@ -140,12 +140,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - 'Office space for meetings, events, or for staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Manufacturing activity
   - Income inequality
   - Jobs per capita
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your application will impact.: []
+year: 2021
 category: create
 filename: project-equity-a-program-of-multiplier
 order: 29

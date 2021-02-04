@@ -17,7 +17,7 @@ organization_website: 'https://www.curling.la'
 organization_twitter: '@curling_la'
 organization_facebook: '@curling.la'
 organization_instagram: '@curling.la'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Southern California Curling Center aims to be the premiere destination for
   curling in the United States, bringing people of all ages, abilities, and
   backgrounds to participate socially and competitively. 
@@ -35,8 +35,8 @@ In which areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - South LA
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   There’s a constant refrain in cities that it's difficult to make friends and
   connect with people as adults. Friendships made through school, work, and
   physical proximity can be limiting in scope and create bubbles. Sports is a
@@ -51,7 +51,7 @@ What is the need you’re responding to?: >-
   and scientists, children and retirees. If you’re new to a city, you can go to
   a curling club and instantly find a welcoming group of folks to make you feel
   at home.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Southern California Curling Center is the only facility dedicated to the sport
   of curling in Southern California. Currently, Hollywood Curling runs curling
   activities at local ice rinks, but primarily at the Ice Station in Valencia.
@@ -63,7 +63,7 @@ Why is this project important to the work of your organization?: >-
 
   By bringing these groups together, we can broaden our participation and create
   a base of players that reflect Los Angeles in the 21st century.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   We will measure success with a few metrics. First, the sheer number of
   participants from each participating organization. These events will bring
   staff, volunteers, participants, and general supporters of the organization
@@ -79,9 +79,9 @@ Please explain how you will define and measure success for your project.: >-
   their time out and be one and done, but some will continue on and we want to
   foster their participation and grow the diverse base of players who convene
   every week
-Approximately how many people will be directly impacted by this proposal?: '400'
-Approximately how many people will be indirectly impacted by this proposal?: '500'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '400'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '500'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The broader impact of this proposal is to highlight the value of sports,
   competition, and physical activity in a highly urbanized world. It is very
   difficult to create new park space, so we have an opportunity to create
@@ -91,7 +91,7 @@ Please describe the broader impact of your proposal.: >-
   a common activity is a first step to bridging many of the social gaps we find
   ourselves with. While total number of people we reach will be in the hundreds,
   not thousands, the effect will be more impactful for those we do reach.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >
+'Describe the role of collaborating organizations on this project.': >
   Hollywood Curling is our primary partner, assisting in curling instruction and
   equipment.
 
@@ -119,14 +119,14 @@ Please list the organizations collaborating on this proposal.:
   - Angel City Sports
   - Scotweek
   - We are working on a number of other organizations as well.
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Volunteerism
   - Disability access and inclusion
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to PLAY
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: connect
 filename: southern-california-curling-center
 order: 53

@@ -17,7 +17,7 @@ organization_website: 'https://www.ciclavia.org'
 organization_twitter: '@ciclavia'
 organization_facebook: facebook.com/ciclavia
 organization_instagram: '@ciclavia'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The mission of CicLAvia is to catalyze vibrant public spaces, active
   transportation, and good health through car-free open street events. CicLAvia
   engages with people throughout Southern California to transform our
@@ -40,10 +40,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Historically, everyday Angelinos have been left out of planning of their
   communities resulting in dangerous civic infrastructure that costs lives.
   Recently, Covid-19 has ended community gatherings causing isolation and
@@ -63,7 +63,7 @@ What is the need you’re responding to?: >-
   will give voice to a diversity of residents in how they want to live and play
   in their own neighborhoods while producing timely and measurable data to share
   with high level decision makers. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   CicLAvia began as a grassroots initiative in 2008, led by a group of
   passionate individuals who recognized that open street events could address a
   variety of needs in Los Angeles. Inspired by Bogotá’s weekly ciclovía,
@@ -80,10 +80,10 @@ Why is this project important to the work of your organization?: >-
   million people catalyzing personal and collective change, inspiring a shared
   passion for Los Angeles while cultivating shared responsibility in creating
   the region’s future.
-Please explain how you will define and measure success for your project.: "CicLAvia’s goal is to shape a new narrative for a more inclusive and sustainable LA – one that works with all Angelenos to improve the quality of life in our region. Project success will be marked by community residents in greater LA once again feeling confident about connecting safely with each other in public gatherings. It will also mean residents having a voice in the planning of their neighborhoods resulting in more safe, accessible and inclusive public spaces that promote health, community wellbeing, and sustainability for all.\n\nWith the support of LA2050, we can introduce a large-scale public polling activation at our Heart of LA event. This event is expected to be one of the best-attended of the year, providing the largest opportunity to engage the greatest number of Angelenos. We hope to achieve the following outcomes with this project:\n\n*\tEngage thousands of LA County residents in a conversation about safer streets in a fun yet meaningful way, measured by attendance at outreach events, event day workshop participants and votes cast.\n*\tCollect measurable data around how neighborhood residents want to use their streets to strengthen community as evidenced by online and activation poll results.\n*\tShare actionable results with decision makers from LADOT, Mayor’s Office and key local stakeholders along with non-profits and community groups working on this issue to aid their efforts in making use of streets and public spaces more equitable in Los Angeles."
-Approximately how many people will be directly impacted by this proposal?: '7000'
-Approximately how many people will be indirectly impacted by this proposal?: '50000'
-Please describe the broader impact of your proposal.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "CicLAvia’s goal is to shape a new narrative for a more inclusive and sustainable LA – one that works with all Angelenos to improve the quality of life in our region. Project success will be marked by community residents in greater LA once again feeling confident about connecting safely with each other in public gatherings. It will also mean residents having a voice in the planning of their neighborhoods resulting in more safe, accessible and inclusive public spaces that promote health, community wellbeing, and sustainability for all.\n\nWith the support of LA2050, we can introduce a large-scale public polling activation at our Heart of LA event. This event is expected to be one of the best-attended of the year, providing the largest opportunity to engage the greatest number of Angelenos. We hope to achieve the following outcomes with this project:\n\n*\tEngage thousands of LA County residents in a conversation about safer streets in a fun yet meaningful way, measured by attendance at outreach events, event day workshop participants and votes cast.\n*\tCollect measurable data around how neighborhood residents want to use their streets to strengthen community as evidenced by online and activation poll results.\n*\tShare actionable results with decision makers from LADOT, Mayor’s Office and key local stakeholders along with non-profits and community groups working on this issue to aid their efforts in making use of streets and public spaces more equitable in Los Angeles."
+Approximately how many people will be directly impacted by this project, program, or initiative?: '7000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '50000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   CicLAvia has become a beloved institution in Los Angeles, and many mark their
   calendars for our open street events. We expect approximately 50,000 people to
   attend CicLAvia—Heart of LA and engage in an experiential education in
@@ -98,13 +98,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Walking and biking
   - Access to open space and park facilities
   - Open streets gatherings
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CONNECT
-year: 2020
+year: 2021
 category: play
 filename: ciclavia
 order: 5

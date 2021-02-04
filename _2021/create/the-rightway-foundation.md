@@ -18,7 +18,7 @@ organization_website: 'https://www.therightwayfoundation.org'
 organization_twitter: '@TheRightWay'
 organization_facebook: therightwayfoundation
 organization_instagram: '@therightwayfoundation'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The RightWay Foundation helps transition-age foster youth get and keep good
   jobs despite the overwhelming trauma they have endured throughout their lives.
   We partner with foster youth to build a healthy, self-sufficient life,
@@ -46,10 +46,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   California houses the largest foster care system in the country, and more than
   38% of foster youth in California live in LA County.  For foster youth exiting
   the system, the statistics are bleak.  In LA County, over 50% of former foster
@@ -66,7 +66,7 @@ What is the need you’re responding to?: >-
   welfare system.  80% of men incarcerated in California have been touched by
   the foster care system. The foster care system, especially for young boys of
   color, is a pipeline to prison. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   In 2011, Franco Vega, a former orphan and probation youth, founded RightWay to
   provide LA County transition-age foster youth with support and training to
   acquire and maintain employment.  Within months, in recognition of the
@@ -83,7 +83,7 @@ Why is this project important to the work of your organization?: >-
   losing employment. By expanding services, RightWay will ensure that
   transition-age youth have access to the tools and opportunities they need to
   weather hardship and reach toward an enriching, secure life.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   RightWay’s programs counter resistance to mental health treatment with the
   goal of a long-lasting job, building bridges to employers, housing, and
   support that enable youth to cross from a point of trauma and isolation to the
@@ -129,9 +129,9 @@ Please explain how you will define and measure success for your project.: >-
   process, the 3-month, 6-month, and 12-month periods, by collecting employment
   verification and paycheck stubs, and by evaluating a client’s self-reporting
   during clinical sessions.  
-Approximately how many people will be directly impacted by this proposal?: '125'
-Approximately how many people will be indirectly impacted by this proposal?: '500'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '125'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '500'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Through our core programs, RightWay serves foster youth and reentry youth,
   ages 18-26, from all over LA County, some referred by judges or the Department
   of Children and Family Services and some who find us through other youth. Of
@@ -151,16 +151,16 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Income inequality
   - Economic opportunities for formerly incarcerated
   - Unemployment rate
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
   - LA is the best place to PLAY
   - LA is the best place to CONNECT
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: create
 filename: the-rightway-foundation
 order: 39

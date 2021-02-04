@@ -20,7 +20,7 @@ organization_website: 'https://www.fulfillment.org'
 organization_twitter: '@fulfillmentFund'
 organization_facebook: facebook.com/ffund
 organization_instagram: '@fulfillmentfund'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Fulfillment Fund’s mission is to make college a reality for students growing
   up in educationally and economically under-resourced communities.  Our vision
   is that all students, regardless of circumstances, have the opportunity to
@@ -40,10 +40,10 @@ In which areas of Los Angeles will you be directly working?:
   - San Fernando Valley
   - South LA
   - Westside
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Across LAUSD, thousands of students lack adequate information, resources and
   counseling to help them get into and succeed in college. As a result, LAUSD
   college-readiness rates are low, with just 47% of 2018 graduates having
@@ -60,7 +60,7 @@ What is the need you’re responding to?: >-
   college-going and college-succeeding mindset among low-income students by
   providing them with a multi-faceted view of what to expect at college, how to
   prepare to get there, and how to succeed in college and career.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   In its 24th year, DC+’s enhancement and expansion is essential to further
   bridging the college access and success gap for 600-800 students who will
   attend. For many high schoolers, it will be the first time they visit a
@@ -75,7 +75,7 @@ Why is this project important to the work of your organization?: >-
   100% of graduates accepted to college; 88% of our college students continued
   to persist, with our most recent cohort achieving a 75% six-year graduation
   rate.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   DC+ is our most important program event aimed at making college going and
   college graduation a reality for students who are most economically
   vulnerable. In the short-term we hope to inspire high school students see
@@ -105,9 +105,9 @@ Please explain how you will define and measure success for your project.: >-
   college-level employment or a graduate degree; 80% report knowing where to get
   help completing college; and 75% report they are better equipped for the job
   market.
-Approximately how many people will be directly impacted by this proposal?: '1500'
-Approximately how many people will be indirectly impacted by this proposal?: '1000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1500'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '1000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The impact of DC+ extends far beyond the student and parent attendees,
   positively affecting the broader community. It aligns with and strengthens
   county-wide efforts to increase high school graduation rates, 2-and 4-year
@@ -119,7 +119,7 @@ Please describe the broader impact of your proposal.: >-
   cross-section of industries, while providing these individuals with the
   opportunity to share their skills, expertise and time with the next
   generation. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   We partner with these 8 LAUSD high schools, where we deliver our College
   Access programs, to help recruit and register students for DC+: 
 
@@ -147,13 +147,13 @@ Please list the organizations collaborating on this proposal.:
   - School for the Visual Arts and Humanities
   - UCLA Community School
   - SoCal CAN
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - College graduates
   - College matriculation
   - High school graduation rates
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CONNECT
-year: 2020
+year: 2021
 category: learn
 filename: fulfillment-fund
 order: 34

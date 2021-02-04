@@ -17,7 +17,7 @@ organization_website: 'https://laalliancefoundation.org'
 organization_twitter: ''
 organization_facebook: ''
 organization_instagram: ''
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The Alliance College-Ready Public Schools Foundation (Alliance Foundation) is
   a 501(c)(3) organization that exists for the sole purpose of strengthening the
   community support and investment that has lifted Alliance schools and scholars
@@ -39,10 +39,10 @@ In which areas of Los Angeles will you be directly working?:
   - South LA
   - South Bay
   - San Pedro
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Alliance opened in 2004 when only 49% of local youth graduated high school.
   Today, the network educates 13,000 scholars annually at 28 academies located
   in East, South, and Central Los Angeles, Huntington Park, San Pedro, and Sun
@@ -59,7 +59,7 @@ What is the need you’re responding to?: >-
   Once there, however, fewer than 30% earn a degree. Seeing a dissonance between
   scholars’ success under our high support model and the independent skills
   needed to manage college stressors, Alliance seeks to close the gap.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Alliance was founded on the belief that all youth, regardless of personal and
   environmental challenges, can achieve at high levels when provided the
   rightful opportunity to do so—and that we all have an important obligation to
@@ -74,7 +74,7 @@ Why is this project important to the work of your organization?: >-
   As one of the largest and highest performing charter networks in Los Angeles,
   and with this new team in place, Alliance is uniquely poised to advance the
   LEARN metrics.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   In this next phase of its strategic growth, Alliance is committed to ensuring
   that its scholars not only get into college, but that at least 75%
   successfully earn a college degree. This will be accomplished in part by
@@ -97,9 +97,9 @@ Please explain how you will define and measure success for your project.: >
   SEL Survey, which is a research-based tool that measures scholars’
   social-emotional functioning and perceptions. There is also a teacher survey
   component that will be used in conjunction with student surveys.
-Approximately how many people will be directly impacted by this proposal?: '13000'
-Approximately how many people will be indirectly impacted by this proposal?: '35500'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '13000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '35500'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Research shows that children who have traumatic life experiences are at
   increased risk for challenges in school, including spending more time out of
   the classroom and lost instructional minutes due to disciplinary consequences;
@@ -110,7 +110,7 @@ Please describe the broader impact of your proposal.: >-
   school leaders, and parents who are collectively invested in scholars’ safety
   and wellbeing, and who will benefit from scholars’ increased ability to
   discuss and regulate their emotional responses to stressors. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   The Alliance Foundation is serving as lead applicant for this proposal, with
   project implementation being carried out by Alliance College-Ready Public
   Schools. Existing solely to strengthen community support of and investment in
@@ -128,15 +128,15 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: Alliance College-Ready Public Schools
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - College graduates
   - High school graduation rates
   - Suspension and expulsion rates
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to PLAY
   - LA is the best place to CONNECT
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: learn
 filename: alliance-college-ready-public-schools-foundation
 order: 4

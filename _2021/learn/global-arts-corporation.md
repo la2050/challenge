@@ -19,7 +19,7 @@ organization_website: 'https://www.GlobalArtsCo.org'
 organization_twitter: '@GlobalArtsLA'
 organization_facebook: 'https://www.facebook.com/globalartsla'
 organization_instagram: '@globalartsla'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Global Arts is an after-school program in LA that provides music classes for
   underserved youth  and continual professional development for educators. By
   providing exceptional courses, we encourage students and educators to promote
@@ -38,8 +38,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   The purpose of the Professional Development Program is to provide a
   collaborative space that is centered around teaching and learning. We
   understand, firsthand, the impact a teacher can have on their students, and it
@@ -59,7 +59,7 @@ What is the need you’re responding to?: >-
   because it is a requirement. We want teachers to have a choice from a variety
   of workshops and we want them to see that we have the growth and development
   of their needs at the forefront of our mission.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Our team of educators has collectively over 30 years of teaching experience in
   educational programs in the Los Angeles area, and our time in the field has
   given us a unique perspective of how teachers can be better supported. We have
@@ -76,7 +76,7 @@ Why is this project important to the work of your organization?: >-
   people together so that we can all learn from them. We built Global Arts
   intentionally to ensure that educators are offered continual and impactful PD,
   and are presented by people that we know and trust in the field.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Our mission is to cultivate a community that is enjoyable, motivational, and
   time-effective so that attendees are inspired to return for multiple workshops
   and bring colleagues with them. Success for Global Arts’ Professional
@@ -97,9 +97,9 @@ Please explain how you will define and measure success for your project.: >-
   growing, and how many attendees we can project to see the following year. Our
   long-term goal for measuring success will also include gathering statistics on
   the attendees effectiveness in their classrooms.
-Approximately how many people will be directly impacted by this proposal?: '500'
-Approximately how many people will be indirectly impacted by this proposal?: '100000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '500'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '100000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   We will establish an accessible, long-term PD program with the goal of
   improving the academic lives of the teachers and students of LAUSD. LAUSD is
   the 2nd largest school district in the nation, with 35,000 teachers and an
@@ -118,11 +118,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - Enrollment in afterschool programs
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your application will impact.: []
+year: 2021
 category: learn
 filename: global-arts-corporation
 order: 37

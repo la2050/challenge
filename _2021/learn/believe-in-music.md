@@ -17,7 +17,7 @@ organization_website: 'http://webelieveinmusic.com/'
 organization_twitter: '@believeinmusic5'
 organization_facebook: 'https://www.facebook.com/believehon'
 organization_instagram: '@webelieveinmusic'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Our mission is to provide every student in Los Angeles County with access to
   innovative music education through mobile music technology, education and
   storytelling.
@@ -41,10 +41,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   Due to the cut backs on music and arts education in Los Angeles and throughout
   the country in general, there is a great need for additional organizations
   that can provide this.
@@ -55,7 +55,7 @@ What is the need you’re responding to?: >
   our young people rarely get. Through the centering of marginalized voices our
   programming supports the co-creation of counter-narratives that empower the
   students while fostering social and emotional connection. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Children who grow up in low income households typically lack access to
   innovative arts education. Through our unique programming and music industry
   and community partnerships we are able to make this possible.
@@ -67,7 +67,7 @@ Why is this project important to the work of your organization?: >-
   We target the most under resourced schools and communities to ensure our music
   technology programs have the largest impact. Technology access opens endless
   doors to creative opportunities for advancement in college and careers.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   The goal and vision of sucess for this project is providing students with a
   level of music education that gives them opportunities for expression of self
   and skills they can use in a future in music of otherwise.
@@ -85,9 +85,9 @@ Please explain how you will define and measure success for your project.: >-
   After each class; drawing on feedback from teachers and peers, students
   develop and implement strategies to improve and refine the technical and
   expressive aspects of draft compositions and improvisations.
-Approximately how many people will be directly impacted by this proposal?: '100'
-Approximately how many people will be indirectly impacted by this proposal?: '5000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '100'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '5000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Besides providing much needed arts education in a time when outlets for
   expression and process and vital for students social/emotional wellbeing, many
   of the students who participate in our programming go on to become
@@ -104,13 +104,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Office space for meetings, events, or for staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Arts education
   - Suspension and expulsion rates
   - Opportunity youth (“Disengaged youth” 16-24 not working or in school)
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: learn
 filename: believe-in-music
 order: 6

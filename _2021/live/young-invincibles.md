@@ -17,7 +17,7 @@ organization_website: 'https://www.https://younginvincibles.org/'
 organization_twitter: '@YoungInvincible'
 organization_facebook: 'https://www.facebook.com/together.invincible/'
 organization_instagram: '@YoungInvincibles'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Young Invincibles’ mission is to amplify the voices of young adults in the
   political process and expand economic opportunities for those aged 18-34
   years. Young people are a historically underrepresented constituency, and our
@@ -35,12 +35,12 @@ In which areas of Los Angeles will you be directly working?:
   - East LA
   - San Gabriel Valley
   - South LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Applying a proven model or solution to a new issue or sector (e.g, using a job
   recruiting software or strategy to match clients to supportive housing sites,
   applying demonstrated strategies from advocating for college affordability to
   advocating for housing affordability and homelessness, etc.)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   A 2019 article in the Journal of General Internal Medicine estimates 11% of
   young adults nationally are food insecure. A 2017 report from The Urban
   Institute estimated 11% of households with a 4-year college student
@@ -55,7 +55,7 @@ What is the need you’re responding to?: >-
   model to drive Medi-Cal uptake among young adults of color in LA, YI seeks the
   resources to expand the scope of our outreach to encompass both health care
   and nutrition.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   YI is a leader promoting expanded health coverage and anti-hunger policy for
   young adults. In 2017, YI partnered with iHeart Media and DPSS in a Medi-Cal
   health care outreach and enrollment program at 12 LA County barbershops,
@@ -70,7 +70,7 @@ Why is this project important to the work of your organization?: >-
   barbershops in LA Co., local elected officials, the Real 92.3 Big Boy's Hip
   Hop and iHeartradio. The series was so successful LA Co. requested adding
   locations.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   YI assesses the impact of our activities through tracking the number of
   beneficiaries reached, along with overall evidence of effective communication
   and benefit uptake among target demographics. Consistent with YI’s previous
@@ -86,9 +86,9 @@ Please explain how you will define and measure success for your project.: >-
   opportunities. Typically, each person directly impacted by our program reports
   having shared information and resources with 3 others. With this in mind, our
   indirect impact will be at least 3000 additional Angelinos.
-Approximately how many people will be directly impacted by this proposal?: '1000'
-Approximately how many people will be indirectly impacted by this proposal?: '3000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '3000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Following proven models of success driving benefit uptake among hard-to-reach
   populations, YI’s efforts will ensure that a generation of young people who
   might otherwise see their goals deferred or denied due to food and health
@@ -102,13 +102,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Access to healthy food
   - Food insecurity
   - Healthcare access
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
-year: 2020
+year: 2021
 category: live
 filename: young-invincibles
 order: 64

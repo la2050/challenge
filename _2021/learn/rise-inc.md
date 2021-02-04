@@ -17,7 +17,7 @@ organization_website: 'https://www.risefree.org'
 organization_twitter: '@risefreeorg'
 organization_facebook: 'https://www.facebook.com/RiseFreeOrg/'
 organization_instagram: '@risefreeorg'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Rise is a student-led nonprofit organization advocating for policies that make
   public higher education free and accessible to all.
 project_description: >-
@@ -40,10 +40,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   As many as 1 in 5 Los Angeles Community College students experiences
   homelessness, and 2 in 3 face food insecurity according to 2016 research from
   the Hope Center for College, Community, and Justice. Rise’s own survey
@@ -56,7 +56,7 @@ What is the need you’re responding to?: >-
   plans to lead an online advocacy course in 2020. In partnership with existing
   student organizations, we will train 1,000 or more students to scale our
   campaign to end student hunger and homelessness in Los Angeles. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Rise is the leading student advocacy organization dedicated to college
   affordability. Our work is dedicated not only to the idea that all students
   deserve to be healthy and safely housed on their path to graduation, but also
@@ -72,7 +72,7 @@ Why is this project important to the work of your organization?: >-
   policy victories by ensuring that when we tell students that “community
   college is free,” they know that also means they will be free from hunger and
   homelessness on their path to graduation. 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   This project will succeed if we scale our LA2050 Advocacy Corps across 20 or
   more campuses and institutionalize them with a sustainable growth model (e.g.,
   creating partnerships with existing campus organizations that receive funding
@@ -118,9 +118,9 @@ Please explain how you will define and measure success for your project.: >-
   When campuses deliver on the changes students advocate for, the resulting
   increases in food and housing security among students will increase college
   matriculation and college completion in Los Angeles. 
-Approximately how many people will be directly impacted by this proposal?: '1040'
-Approximately how many people will be indirectly impacted by this proposal?: '20000'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1040'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '20000'
+Describe how Los Angeles County will be different if your work is successful.: >
   Our proposal will:
 
   - Benefit low-income communities and communities of color: If these
@@ -143,11 +143,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - 'Office space for meetings, events, or for staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - College matriculation
   - Community college completion
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your application will impact.: []
+year: 2021
 category: learn
 filename: rise-inc
 order: 61

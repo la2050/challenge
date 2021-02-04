@@ -17,7 +17,7 @@ organization_website: 'https://www.renplan.com and https://www.monicadhiggins.co
 organization_twitter: '@monicadhiggins'
 organization_facebook: '@monicadhiggins'
 organization_instagram: '@@monicadhiggins'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Renovation Planners’ mission with Urban $marts LA is to help homeowners take
   charge of their finances by building a backyard home to rent out, while making
   their dreams of entrepreneurship and wealth building a reality, reducing their
@@ -37,10 +37,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Nearly 80% of the homeowners we speak with that are interested in building a
   backyard home, want to do so to generate additional income that will help
   offset their high housing costs as well as provide funds for home maintenance
@@ -51,7 +51,7 @@ What is the need you’re responding to?: >-
   as  feasibility studies  so they can make informed decisions.  We help
   homeowners get clear on what they want and map out a strategy to achieve their
   goals, so they can turn their dreams into reality.  
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   This work is important to us because every person has the right to a decent
   permanent home that is within their means. Also, backyard homes provide
   homeowners with the opportunity to do well (decrease their housing cost,
@@ -69,7 +69,7 @@ Why is this project important to the work of your organization?: >
   the founder of Renovation Planners brings an interesting perspective to
   educating homeowners, as well as a track record of helping them achieve
   project success. 
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Success for our project will be defined by homeowners' actions as a result of
   learning and transformation, as well as social engagement.  It will be
   measured by the following metrics:
@@ -104,9 +104,9 @@ Please explain how you will define and measure success for your project.: >
   relations, advertising, outreach, etc.)
 
   - What homeowners and tenants think and feel about our project
-Approximately how many people will be directly impacted by this proposal?: '200'
-Approximately how many people will be indirectly impacted by this proposal?: '33'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '200'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '33'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Our program will educate 200 homeowners living paycheck to paycheck on how a
   backyard home can help them  secure their financial futures.  Our goal is to
   become their trusted partner and during the grant year usher 33 homeowners
@@ -117,7 +117,7 @@ Please describe the broader impact of your proposal.: >-
   that we’ve created to leverage learning and transformation so homeowners
   actually take action, and not just consume content, has the potential to
   become a national model for supporting housing affordability. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >+
+'Describe the role of collaborating organizations on this project.': >+
   The following partner organization is collaborating on this project:
 
 
@@ -135,15 +135,15 @@ Which of LA2050’s resources will be of the most value to you?:
   - Strategy assistance and implementation
   - Host public webinars
 Please list the organizations collaborating on this proposal.: Reli Architecture
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Minority- and women-owned businesses
   - High-growth startups
   - Venture capital investment
   - Housing affordability
   - Homelessness
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: live
 filename: renovation-planners
 order: 38

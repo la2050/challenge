@@ -17,7 +17,7 @@ organization_website: 'https://www.climateresolve.org'
 organization_twitter: '@climateresolve'
 organization_facebook: facebook.com/climateresolve
 organization_instagram: '@climateresolve'
-Please describe the mission of your organization.: >
+Describe the mission of your organization.: >
   Climate Resolve is a Los Angeles nonprofit dedicated to combating climate
   change and helping vulnerable communities adapt to its impacts. We advocate,
   innovate, collaborate, convene, and more in support of our mission! 
@@ -40,8 +40,8 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >+
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >+
   Cars pollute our air and contribute to the crisis of climate change. Cars also
   clog our streets, maim our loved ones, and make us feel antagonistic toward
   our neighbors. Depending on cars for mobility is not a step in the right
@@ -58,7 +58,7 @@ What is the need you’re responding to?: >+
   build community bonds, and we’ll be relieved of the burden and risks of car
   ownership. We’ll be safer, healthier, happier, and doing right by the planet.
 
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   Climate Resolve has been successfully advocating for improvements to LA’s
   transportation system for nearly a decade. We created and lead the EnviroMetro
   coalition, a network of more than 70 groups dedicated to making public transit
@@ -74,7 +74,7 @@ Why is this project important to the work of your organization?: >
   thoroughfare. Climate Resolve also conducted a comprehensive study of
   ridership at the Sherman Way transit station in Canoga Park, looking at
   barriers to access and ways to improve the rider experience. 
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Climate Resolve’s overall vision for success is having people take public
   transit or active transportation for one day per week. More granular measures
   of success for this project will be:
@@ -103,9 +103,9 @@ Please explain how you will define and measure success for your project.: >
   campaign can truly make a difference in how Los Angeles views transportation.
   We will leverage our strong working relationship with Metro to obtain and
   examine ridership trends over the grant period. 
-Approximately how many people will be directly impacted by this proposal?: '20000'
-Approximately how many people will be indirectly impacted by this proposal?: '4000000'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '20000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '4000000'
+Describe how Los Angeles County will be different if your work is successful.: >
   The One Day campaign has the potential to change the narrative around cars in
   Los Angeles - especially the hundreds of thousands of single-occupant vehicles
   crowding the freeways every day. Climate Resolve believes this effort can
@@ -122,12 +122,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Travel time to work
   - Public transit ridership
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to PLAY
-year: 2020
+year: 2021
 category: connect
 filename: climate-resolve
 order: 11

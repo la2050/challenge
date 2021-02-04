@@ -17,7 +17,7 @@ organization_website: 'http://www.safeplaceforyouth.org/'
 organization_twitter: '@safeplace4youth'
 organization_facebook: 'https://www.facebook.com/SafePlaceForYouth/'
 organization_instagram: '@safeplaceforyouth'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The mission of Safe Place for Youth is to inspire, nurture, and empower the
   resilient human spirit of homeless and at-risk youth by providing immediate
   and lasting solutions, one young person at a time. 
@@ -32,12 +32,12 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to LIVE
 In which areas of Los Angeles will you be directly working?:
   - Westside
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Applying a proven model or solution to a new issue or sector (e.g, using a job
   recruiting software or strategy to match clients to supportive housing sites,
   applying demonstrated strategies from advocating for college affordability to
   advocating for housing affordability and homelessness, etc.)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   SPY was founded to address youth homelessness. Annually, 10,000 youth, ages
   18-24, experience homelessness in Los Angeles; roughly 4,000 can be found
   sleeping on the streets on any given night. The risk of homelessness increases
@@ -51,7 +51,7 @@ What is the need you’re responding to?: >-
   the streets into permanent housing by activating community sponsors to fund
   short-term co-living pods through PodShare. Youth will work with SPY to find
   employment, enroll in school, and locate permanent housing. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   SPY is an experienced youth service provider with a demonstrated history of
   success. Since 2011, SPY has helped youth obtain temporary housing as they
   search for and secure permanent housing. In 2016, the LA Homeless Services
@@ -68,7 +68,7 @@ Why is this project important to the work of your organization?: >-
   the youth who participate in our Host Home Program exit into permanent housing
   within 3-6 months. SPY has previously used PodShare pods to provide respite
   housing for youth enrolled in our Host Home Program. 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   There are two primary drivers of success for this project: the number of youth
   safely transitioned from the streets and into permanent housing and the number
   of community members or organizations activated to fund future pods for youth.
@@ -92,9 +92,9 @@ Please explain how you will define and measure success for your project.: >-
   in SPY and PodShare’s commitment to ending youth homelessness. Our goal is to
   activate 12 community sponsors (individual, corporate partners, community
   organizations) throughout the 12-month grant period.
-Approximately how many people will be directly impacted by this proposal?: '46'
-Approximately how many people will be indirectly impacted by this proposal?: '100'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '46'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '100'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Safe Pods for Youth encourages a community-driven movement based on corporate
   and non-profit collaboration and the growing co-living model, to
   compassionately yet quickly move youth off of the street. This project focuses
@@ -105,7 +105,7 @@ Please describe the broader impact of your proposal.: >-
   way for Angelenos to become part of the solution to youth homelessness. The
   ability to quickly house homeless individuals has become paramount amid the
   COVID-19 outbreak and this project is primed to support this effort. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Offering affordable co-living spaces that are fully-furnished, communal, and
   rented on a month-to-month basis, PodShare will provide SPY youth with
   short-term housing and amenities (pods) from its Westwood location for periods
@@ -123,13 +123,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - 'Office space for meetings, events, or for staff'
 Please list the organizations collaborating on this proposal.: PodShare
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Food insecurity
   - Housing affordability
   - Homelessness
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: safe-place-for-youth-a-project-of-community-partners
 order: 42

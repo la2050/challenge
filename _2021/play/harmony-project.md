@@ -18,7 +18,7 @@ organization_website: 'https://www.harmony-project.org'
 organization_twitter: '@HarmonyProject'
 organization_facebook: 'https://www.facebook.com/HarmonyProjectLA/'
 organization_instagram: '@harmonyprojectla'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Harmony Project harnesses the transformative power of music to increase access
   to higher education for underserved students by removing the systemic barriers
   to achievement through academic and social support.
@@ -42,10 +42,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Harmony Projects seeks to empower communities through high quality arts
   experiences and in doing so, create a touchpoint for holistic support and
   resources. After school programs are essential in fostering safe communities.
@@ -62,7 +62,7 @@ What is the need you’re responding to?: >-
   unique vulnerabilities our students face. In response, we established the
   Community and Relational Engagement (CARE) team, which provides educational
   workshops, community resources, as well as social emotional support.
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   Harmony Project has been involved in this work for nearly 20 years. Our
   program is unique in that we engage students throughout their entire
   childhood--from kindergarten through 12th grade and that we are dedicated to
@@ -79,7 +79,7 @@ Why is this project important to the work of your organization?: >
   partners who share our commitment to the communities we serve, including LA
   County Department of Parks and Recreation, the Compton Sheriff’s Department,
   the Los Angeles Unified School District’s Beyond the Bell, and LA Phil.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Our vision for success entails increasing our service population by enrolling
   students off our extensive waitlist of 1000+ students, simultaneously
   maintaining the high quality of our program and comprehensive wraparound
@@ -102,9 +102,9 @@ Please explain how you will define and measure success for your project.: >
   population, as well as identify opportunities for tailored improvement. We
   will measure the wider engagement of the communities we serve through 
   audience attendance, parent engagement, and partner involvement. 
-Approximately how many people will be directly impacted by this proposal?: '3500'
-Approximately how many people will be indirectly impacted by this proposal?: '7000'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '3500'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '7000'
+Describe how Los Angeles County will be different if your work is successful.: >
   While we know that music education is transformational, our work runs much
   deeper. We recognize that the children and families we work with face systemic
   inequities that can be difficult to overcome. Above all, Harmony Project
@@ -121,15 +121,15 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Prevalence of trauma and adverse childhood experiences
   - Students' sense of safety at and on the way to school
   - Perceived neighborhood safety
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CREATE
   - LA is the best place to CONNECT
-year: 2020
+year: 2021
 category: play
 filename: harmony-project
 order: 11

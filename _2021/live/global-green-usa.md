@@ -17,7 +17,7 @@ organization_website: 'https://www.globalgreen.org/'
 organization_twitter: '@globalgreen'
 organization_facebook: 'https://www.facebook.com/globalgreenfans/'
 organization_instagram: '@globalgreen'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Global Green leads an international effort to create green cities,
   neighborhoods, and businesses that promote environmental health and justice,
   improve livability and support our planet's natural systems. 
@@ -34,10 +34,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   According to the California Food Policy Advocates, "Across California, 4.7
   million adults and 2 million children live in low-income households affected
   by food insecurity. Food insecurity means having limited, uncertain, or
@@ -52,7 +52,7 @@ What is the need you’re responding to?: >-
   costs. Our project provides a sustainable solution to hunger by tackling
   systemic inefficiencies in food waste through food donation, diversion, and
   conversion. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   This project is important to the work of Global Green because it aligns with
   our mission, which includes creating green cities and businesses and improving
   livability. Global Green has been working in Los Angeles since we launched in
@@ -62,7 +62,7 @@ Why is this project important to the work of your organization?: >-
   pilot program, we are testing solutions to each of the barriers to urban food
   waste rescue so that the program can be scaled throughout the City of Los
   Angeles this next year and ultimately, replicated by many other communities.  
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   - Develop a semi-automated analytical framework that tracks interactions
   between restaurants and non-profits, demographic information, and greenhouse
   gas reductions.
@@ -91,9 +91,9 @@ Please explain how you will define and measure success for your project.: >-
   - Prototype and test new revenue models consisting of a surcharge revenue
   model to fund maintenance and scale of the food waste rescue system to create
   ongoing program sustainability
-Approximately how many people will be directly impacted by this proposal?: '5000'
-Approximately how many people will be indirectly impacted by this proposal?: '4000000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '5000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '4000000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Global Green's Food Recovery Program circularizes the urban food system and
   generates value from food waste to meet the needs of our underserved
   communities and populations. At least 5000 people will be fed by the food
@@ -108,11 +108,11 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - 'Office space for meetings, events, or for staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Access to healthy food
   - Food insecurity
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your application will impact.: []
+year: 2021
 category: live
 filename: global-green-usa
 order: 15

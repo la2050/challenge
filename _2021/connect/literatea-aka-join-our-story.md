@@ -17,7 +17,7 @@ organization_website: 'https://www.literatea.com'
 organization_twitter: ''
 organization_facebook: literateatime
 organization_instagram: ''
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   LiteraTea.com is a website where individuals can write, share, and discuss
   stories aided by interactive courses and tools, live video and communal
   support. Our mission is to build a self sustaining business where paid
@@ -37,10 +37,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     County of Los Angeles (please select only if your project has a countywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   LiteraTea delivers story sharing and writing instruction at scale while
   building a supportive community with profiles, member matching, live chats and
   workshops. Ad and spam free, the site is supported by low, possibly subsidized
@@ -58,7 +58,7 @@ What is the need you’re responding to?: >
   into their languages, and we would create new modules, like memoir, for
   seniors. To do so, we need to recruit experts and influencers from these
   groups  into our community. 
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   This project would increase LA area organizations' awareness and use of
   LiteraTea. In doing so, it will let us leverage our existing platform with
   tailored content and underscore how virtual community can complement existing
@@ -75,7 +75,7 @@ Why is this project important to the work of your organization?: >
   researching community and citizenship while teaching at UCLA, University of
   Washington and Yale. He also began writing computer code in third grade,
   attending MIT, before graduating UCLA in Communications.  
-Please explain how you will define and measure success for your project.: >2-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >2-
    
   LiteraTea's mission began when we witnessed the devastating effects that
   social isolation and diminished agency caused in our own families, the result
@@ -101,9 +101,9 @@ Please explain how you will define and measure success for your project.: >2-
   interactions. In all, we see success as a vibrant community of people
   connecting with each other, learning from and enjoying stories, so they feel
   more empowered, connected and happy. 
-Approximately how many people will be directly impacted by this proposal?: '450'
-Approximately how many people will be indirectly impacted by this proposal?: '27000'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '450'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '27000'
+Describe how Los Angeles County will be different if your work is successful.: >
   LiteraTea is an excellent resource for data collection among constituent
   populations via content analysis, surveys and polls. This data could help
   assess the needs of individuals within these groups, and, ultimately, inform
@@ -123,16 +123,16 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Disability access and inclusion
   - Immigrant integration
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CREATE
   - LA is the best place to PLAY
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: connect
 filename: literatea-aka-join-our-story
 order: 37

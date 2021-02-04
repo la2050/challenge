@@ -18,7 +18,7 @@ organization_website: 'https://www.neighborhoodmusic.org'
 organization_twitter: '@nmsmusicla'
 organization_facebook: NMSMusicLA
 organization_instagram: '@nmsmusicla'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   The Neighborhood Music School inspires minds and enriches our community
   through music education. We have served as a bellwether for arts equity and
   community engagement in eastern Los Angeles for 106 years.
@@ -32,10 +32,10 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to CONNECT
 In which areas of Los Angeles will you be directly working?:
   - East LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   Neighborhood Music School (NMS) is responding to the need for high quality
   public performances produced and performed by community members for community
   members. NMS serves students from Boyle Heights and the communities of eastern
@@ -52,7 +52,7 @@ What is the need you’re responding to?: >
   community members and creating opportunities, pipelines and collaborations
   inside and outside of the Boyle Heights arts ecosystem. The project promotes a
   positive image of music and arts in eastern L.A.
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   Neighborhood Music School was founded in 1914 as a Settlement House to teach
   one on one music instruction to the immigrant communities that had settled in
   Boyle Heights. 106 years later, NMS provides low cost/high quality one on one
@@ -71,7 +71,7 @@ Why is this project important to the work of your organization?: >
   own community and beyond. NMS holds deep relationships with many city and
   county offices and entities and is perfectly positioned to leverage those
   relationships to provide free public concerts. 
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Success will be defined in 5 key areas; performance quality, attendance,
   variety of community locations/venues, increased social capital of students
   including new partnerships and increased awareness and support of Neighborhood
@@ -100,9 +100,9 @@ Please explain how you will define and measure success for your project.: >-
   measured by an increase in social media followers, increase in financial
   donations, establishment of new relationships with city offices, local
   business and corporate entities and an increase in NMS student enrollment.
-Approximately how many people will be directly impacted by this proposal?: '375'
-Approximately how many people will be indirectly impacted by this proposal?: '4000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '375'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '4000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   The broader impact of NMS Community Performance Series is to foster autonomy
   and a sense of community pride for communities in eastern L.A. These
   neighborhoods are not thought of as vibrant, creative hubs but each day
@@ -120,12 +120,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - 'Office space for meetings, events, or for staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Public arts and cultural events
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: connect
 filename: neighborhood-music-school
 order: 42

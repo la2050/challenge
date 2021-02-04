@@ -18,7 +18,7 @@ organization_website: 'https://www.unionstationhs.org'
 organization_twitter: '@USHSNews'
 organization_facebook: 'https://www.facebook.com/USHSNews'
 organization_instagram: '@Ushsnews'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Guided by our belief that everyone deserves a life of dignity and a place to
   call home, Union Station Homeless Services’ mission is to help individuals and
   families rebuild their lives and end homelessness across the San Gabriel
@@ -35,10 +35,10 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to CONNECT
 In which areas of Los Angeles will you be directly working?:
   - San Gabriel Valley
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   During periods of homelessness, people often become disconnected from friends
   and families. Once housed, it can be difficult to organically reestablish a
   network capable of providing social and emotional support. Research and Union
@@ -55,7 +55,7 @@ What is the need you’re responding to?: >-
   for social engagement and community connections, our program facilitates a
   smooth transition into housing, furthering our work to end homelessness across
   the San Gabriel Valley.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Since our founding in 1973, Union Station has remained on the cutting edge of
   the homelessness sector, pairing innovation with individualized services that
   meet people where they are at. The Community Allies Program is a key example
@@ -70,10 +70,10 @@ Why is this project important to the work of your organization?: >-
   Area 3, and our successful record of adopting cutting-edge approaches, we are
   well-positioned to further advance the Community Allies Program across the San
   Gabriel Valley.
-Please explain how you will define and measure success for your project.: "Through the Community Allies Program, our vision for success includes:\n*\tServing at least 85 families and individuals in bridge housing or permanent supportive housing;\n*\tProviding 50 new participants with community integration support services;\n*\tRecruiting and training 30 new volunteer community allies;\n*\tSustaining engagement with 35 current program participants and 45 current volunteer community allies; and\n*\tCreating 30 new successful matches and maintain those connections for at least six months (NOTE: some participants and allies are not immediately matched; we engage them through events and referrals to ensure they receive reintegration services as they wait for the right match to be made).\n\nAs a result of our work, we anticipate:\n*\t90% of participants receiving community integration support services will retain their housing;\n*\t80% of participants are satisfied with their new housing and neighborhood;\n*\t75% of participants will feel an improved quality of life; and\n*\t50% of participants will report feeling connected to their new community.\n\nTo evaluate the success of our Community Allies program, we conduct surveys using a quality of life indicator tool to measure outcomes for participants who have been in the program for at least six months. Additionally, our housing programs collect data from participants about what services they are receiving and housing retention rates, which is entered into the Homeless Management Information System (HMIS) database."
-Approximately how many people will be directly impacted by this proposal?: '160'
-Approximately how many people will be indirectly impacted by this proposal?: '4700'
-Please describe the broader impact of your proposal.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "Through the Community Allies Program, our vision for success includes:\n*\tServing at least 85 families and individuals in bridge housing or permanent supportive housing;\n*\tProviding 50 new participants with community integration support services;\n*\tRecruiting and training 30 new volunteer community allies;\n*\tSustaining engagement with 35 current program participants and 45 current volunteer community allies; and\n*\tCreating 30 new successful matches and maintain those connections for at least six months (NOTE: some participants and allies are not immediately matched; we engage them through events and referrals to ensure they receive reintegration services as they wait for the right match to be made).\n\nAs a result of our work, we anticipate:\n*\t90% of participants receiving community integration support services will retain their housing;\n*\t80% of participants are satisfied with their new housing and neighborhood;\n*\t75% of participants will feel an improved quality of life; and\n*\t50% of participants will report feeling connected to their new community.\n\nTo evaluate the success of our Community Allies program, we conduct surveys using a quality of life indicator tool to measure outcomes for participants who have been in the program for at least six months. Additionally, our housing programs collect data from participants about what services they are receiving and housing retention rates, which is entered into the Homeless Management Information System (HMIS) database."
+Approximately how many people will be directly impacted by this project, program, or initiative?: '160'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '4700'
+Describe how Los Angeles County will be different if your work is successful.: >-
   LA County is at the center of our nation’s homelessness crisis with the
   largest unsheltered population in the nation. Union Station recognizes that
   addressing homelessness requires more than just providing shelter. Ensuring
@@ -89,10 +89,10 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Volunteerism
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the healthiest place to LIVE
 Has your proposal changed due to COVID-19?: >
   Community Allies believes that creating opportunities for authentic human connection is more important than ever in light of COVID-19. At this time, we are prioritizing the safety of our volunteers and participants by cancelling all in-person activities until further notice. We have adapted programming and expanded opportunities for connection through new pilot initiatives such as “Phone Pals,” in which new friendships are facilitated over the phone. This offering has been especially impactful for Project Roomkey residents, who are highly vulnerable people experiencing homelessness who have been sheltered in motel rooms, and are thus extremely isolated.
@@ -100,7 +100,7 @@ Has your proposal changed due to COVID-19?: >
   Volunteer Allies who were already matched with participants before March 2020 continue to log volunteer hours by checking on their participants by phone on a regular basis, providing social and emotional support. Our team has also built an extensive library of virtual community gatherings/activities that has been disseminated across our networks.  
 
   Additionally, we remain committed to elevating the voices of those with lived experience through our LEAP (Lived Expertise Advisory Panel) Committee. LEAP members have currently or formerly experienced homelessness and serve in an advisory capacity to the board of directors and staff on issues related to service provision, advocacy, and policy.  LEAP members have continued to meet virtually and are currently focused on advocacy efforts related to affordable housing.
-year: 2020
+year: 2021
 category: connect
 filename: union-station-homeless-services
 order: 63

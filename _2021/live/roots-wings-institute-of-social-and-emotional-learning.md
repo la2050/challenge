@@ -19,7 +19,7 @@ organization_website: 'https://www.rootsnwings.org'
 organization_twitter: ''
 organization_facebook: 'https://www.facebook.com/rootsandwingsinstitute'
 organization_instagram: '@rootsnwings_malibu'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Roots & Wings’ mission is to prevent childhood trauma, mental illness,
   substance abuse and violence by teaching evidence-based psychological tools to
   children, teens, parents and educators.
@@ -40,10 +40,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   The Good Life Academy addresses the urgent need for emotional support and
   mental health resources for teens. Due to stigma, cost and difficulty getting
   to a physical appointment, most teens who are in need of psychological support
@@ -59,7 +59,7 @@ What is the need you’re responding to?: >
   parents can exacerbate trauma rather than provide relief. This comprehensive
   model transforms teens’ entire ecosystem, creating a new environment of
   emotional support. 
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   Roots & Wings has ample experience in the treatment and prevention of
   childhood trauma, anxiety, and depression as well as parent education. Founded
   and run by a renowned clinical psychologist and led by a team of seasoned
@@ -75,7 +75,7 @@ Why is this project important to the work of your organization?: >
   virtual system. With funding from LA 2050, The Good Life Academy will expand
   our offerings with static virtual resources as well as live support through
   one-on-one and group sessions with our team of skilled psychologists.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   Roots & Wings will measure the success of this project through tracking
   multiple quantitative and qualitative outcomes. Data collection will focus on
   the overall social emotional learning and mental health awareness of students
@@ -94,9 +94,9 @@ Please explain how you will define and measure success for your project.: >
   supported by their parents, and to give all parties the trauma-informed,
   evidence-driven social emotional tools necessary to navigate the difficult
   situations they face everyday.
-Approximately how many people will be directly impacted by this proposal?: '70000'
-Approximately how many people will be indirectly impacted by this proposal?: '2250000'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '70000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '2250000'
+Describe how Los Angeles County will be different if your work is successful.: >
   While the primary audience for this project is students—parents, teachers and
   school administrators are secondary beneficiaries. The broader Los Angeles
   community will also be greatly impacted as all of our lives are touched by the
@@ -107,7 +107,7 @@ Please describe the broader impact of your proposal.: >
   to provide social emotional learning (SEL) curriculum which is linked to
   improved: academic achievement, graduation rates, employment prospects,
   teacher retention, college and career-ready skills, school climate and safety.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Roots & Wings is the sole applicant for this proposal and will partner with
   the Los Angeles Unified School District to provide access to The Good Life
   Academy online therapy, text therapy and psychology curriculum to students and
@@ -118,12 +118,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Access to the LA2050 community
   - Communications support
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Mental illness
   - Access to mental health services
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
-year: 2020
+year: 2021
 category: live
 filename: roots-wings-institute-of-social-and-emotional-learning
 order: 39

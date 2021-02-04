@@ -17,7 +17,7 @@ organization_website: 'https://www.lostangelscp.org'
 organization_twitter: '@LostAngelsCP'
 organization_facebook: '@lostangelscp'
 organization_instagram: '@lost_angels_childrens_project'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Lost Angels Children's Project (LACP) has a mission to provide low-income and
   at-risk youth with a safe, educational after-school program that promotes
   critical thinking and team building through vocational skills training in
@@ -34,8 +34,8 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to CREATE
 In which areas of Los Angeles will you be directly working?:
   - Antelope Valley
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   Located in Lancaster, an under-resourced community with high unemployment,
   poverty, homelessness, and the largest rates of child abuse, neglect and
   foster youth, LACP aims to provide a continuum of services that assist in
@@ -49,7 +49,7 @@ What is the need you’re responding to?: >-
   educational and social services from LACP, the City of Lancaster, America's
   Job Center of California, and the Los Angeles County of Education. Good Life
   Mfg. will produce high-quality furniture by skilled laborers at LACP. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Since 2014, LACP has provided vocational training and life skills development
   for foster, probation and socio-economically disadvantaged youth ages 13-18
   through vocational  Classic Car Restoration and Customization workshops. This
@@ -63,10 +63,10 @@ Why is this project important to the work of your organization?: >-
   provide better opportunities for vulnerable youth. The vision is to ensure all
   young adults graduating from LACP programming will be employed and will gain
   an improved quality of life.
-Please explain how you will define and measure success for your project.: "LACP will track and record the following criteria as a method of evaluation: 1) The number of students that receive certification in manufacturing as an intern and apprentice; 2) The number of students that complete 2460 hours of On-The-Job Training; 3) The number of orders received for Social Enterprise; 4) The number of sales made by the Social Enterprise; 5.) The profit margin of the Social Enterprise; and, 6.) The Growing Network of the Social Enterprise.\n\nHigh-level indicators that will serve as instruments to measure change over time and detect progress include the following:\n1)\tClass Enrollment at Maximum Capacity\n2)\tHigh Passage Rate of personal/professional competencies course\n3)\tHigh Number \"Manufacturing\" Certifications Issued: intern and apprentice\n4)\tComplete 240 hours of On-The-Job Training\n5)\tApprentices selected for a job interview with a Manufacturing Employer\n6)\tJob offers received and accepted from a Manufacturing Employer\n7)\tNumber of Orders Received for Social Enterprise\n8)\tSales \n9.)    Profits\n10.)  Growing Network (of consumer base)\n\nLACP has recently released a catalog of industrial furniture that will be manufactured through Good Life Mfg. (https://www.lostangelscp.org/goodlifemfg). Our organization is working to secure contracts for producing mass quantities of products, but will also fulfill individual orders. We expect a continuous flow and demand for manufacturing that will ensure each cohort of students has the opportunity to learn, apprentice and become employed. "
-Approximately how many people will be directly impacted by this proposal?: '30'
-Approximately how many people will be indirectly impacted by this proposal?: '100'
-Please describe the broader impact of your proposal.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "LACP will track and record the following criteria as a method of evaluation: 1) The number of students that receive certification in manufacturing as an intern and apprentice; 2) The number of students that complete 2460 hours of On-The-Job Training; 3) The number of orders received for Social Enterprise; 4) The number of sales made by the Social Enterprise; 5.) The profit margin of the Social Enterprise; and, 6.) The Growing Network of the Social Enterprise.\n\nHigh-level indicators that will serve as instruments to measure change over time and detect progress include the following:\n1)\tClass Enrollment at Maximum Capacity\n2)\tHigh Passage Rate of personal/professional competencies course\n3)\tHigh Number \"Manufacturing\" Certifications Issued: intern and apprentice\n4)\tComplete 240 hours of On-The-Job Training\n5)\tApprentices selected for a job interview with a Manufacturing Employer\n6)\tJob offers received and accepted from a Manufacturing Employer\n7)\tNumber of Orders Received for Social Enterprise\n8)\tSales \n9.)    Profits\n10.)  Growing Network (of consumer base)\n\nLACP has recently released a catalog of industrial furniture that will be manufactured through Good Life Mfg. (https://www.lostangelscp.org/goodlifemfg). Our organization is working to secure contracts for producing mass quantities of products, but will also fulfill individual orders. We expect a continuous flow and demand for manufacturing that will ensure each cohort of students has the opportunity to learn, apprentice and become employed. "
+Approximately how many people will be directly impacted by this project, program, or initiative?: '30'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '100'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Good Life Mfg. is expected to have a positive impact in the Antelope Valley,
   and for at-risk and high-risk groups of opportunity youth. Recognizing a lack
   of employment for young adults, particularly those transitioning out of foster
@@ -76,7 +76,7 @@ Please describe the broader impact of your proposal.: >-
   and opens opportunities for employment at a living wage. In addition, our
   younger students are motivated by Good Life Mfg. participant success—providing
   a continuum of services at LACP. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   LACP is not submitting a collaborative proposal. All proposed activities will
   be conducted at the LACP Industrial Arts Youth Center. However, we will
   continue to partner with the City of Lancaster, America's Job Center of
@@ -87,15 +87,15 @@ Which of LA2050’s resources will be of the most value to you?:
   - Communications support
   - 'Capacity, including staff'
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Manufacturing activity
   - Economic opportunities for formerly incarcerated
   - Unemployment rate
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
 Has your proposal changed due to COVID-19?: >
   Lost Angels Children’s Project (LACP) is honored to be an LA2050 Grants Challenge finalist. While our programs are designed to create opportunities for youth and young adults, we remain flexible to the communities we serve and are always ready to meet emerging needs. The COVID-19 crisis has altered the way we do business right now but our mission stays the same to improve the lives of vulnerable youth—particularly those affected by the child welfare and/or juvenile justice systems. In April 2020, we began a campaign for hunger relief, knowing that most of the families we serve experience food insecurity. We created t-shirts for charity, started fundraising online, and worked with local partners to secure healthy meals in ready to eat containers for distribution. The program has increased from 300 meals per week and 50 families, to currently 2000 meals per week and over 200 families. Recognizing the dire need for basic supplies in our nearby mobile home communities, we also found resources to purchase essential goods such as toilet paper, soap, baby wipes, detergent, sanitizer, masks, and more. On hot days we hand out popsicles, and also purchased toys, games and activities for our students and the neighborhood children who are staying “safer at home.” We will continue on this path for as long as needed; however, we expect to soon start back up with our social enterprise program for opportunity youth ages 18-24. In the next phase of CA reopening, we hope we can bring back our cohort of 10 students who are learning the Industrial Arts through Good Life Mfg. It is possible to social distance in the Lost Angels Children’s Project Industrial Arts Youth Center and we are confident our students will stay safe with proper PPE.
-year: 2020
+year: 2021
 category: create
 filename: lost-angels-childrens-project
 order: 23

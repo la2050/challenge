@@ -19,7 +19,7 @@ organization_website: 'https://www.bookclubforkids.org'
 organization_twitter: '@bookclubforkids'
 organization_facebook: Book Club for Kids
 organization_instagram: '@bookclubforkids'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Book Club for Kids is a free, 20-minute podcast for elementary and middle
   school kids, designed to turn reluctant readers into lifelong book lovers.
   Each show features a group of young readers who discuss a novel, interview the
@@ -52,10 +52,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     LAUSD (please select only if you have a district-wide partnership or
     project)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   We lose readers in middle school. 
 
 
@@ -84,7 +84,7 @@ What is the need you’re responding to?: >
 
   By taping episodes before live audiences at public schools and libraries, Los
   Angeles actively demonstrates that "LA is the Best Place for Bookworms!"
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   The podcast began in 2015 in Washington, DC. Creator Kitty Felde moved the
   show home to her native Southern California in 2020. We want to play a central
   role in LA's literary life.
@@ -110,7 +110,7 @@ Why is this project important to the work of your organization?: >
 
   Kitty Felde is a veteran public radio journalist who first created Book Club
   for Kids for her talk show on KPCC.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   We can measure success in a number of ways: 
 
 
@@ -133,9 +133,9 @@ Please explain how you will define and measure success for your project.: >
   include both surveys and focus groups. The research will be published as part
   of “LA is the Best Place for Bookworms! Creating Lifelong Readers With Digital
   Media”! final report and distributed widely in the press and academic media.
-Approximately how many people will be directly impacted by this proposal?: '1800'
-Approximately how many people will be indirectly impacted by this proposal?: '420000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1800'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '420000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Los Angeles has always been a city of readers. And writers. Has technology
   changed that forever? What happens to LA if its future citizens are poor
   readers? 
@@ -154,7 +154,7 @@ Please describe the broader impact of your proposal.: >-
   will directly participate in podcast tapings with another Angelenos; 1800 in
   the audience at live events. Additionally, we estimate the number of downloads
   of LA2050 podcast episodes to top 420,000.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Access Books has been building school libraries in Southern California for
   decades. They are assisting us to identify public schools that would like us
   to record on campus with their students. We will be providing books to
@@ -181,11 +181,11 @@ Please list the organizations collaborating on this proposal.:
   - LA Public Library
   - Access Books
   - Cal Poly Pomona College of Education and Integrative Studies
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Student proficiency in English & Language Arts
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to CONNECT
-year: 2020
+year: 2021
 category: learn
 filename: book-club-for-kids-podcast-a-project-of-community-partners
 order: 8

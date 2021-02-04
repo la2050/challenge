@@ -17,7 +17,7 @@ organization_website: 'https://www.weconverge.net'
 organization_twitter: '@w3converge'
 organization_facebook: '@w3converge'
 organization_instagram: '@w3converge'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   We are the entertainment capital of the world yet local talent struggles to
   thrive in our own marketplace. We create and publicize opportunities in
   performance and entrepreneurship through community driven marketing
@@ -35,12 +35,12 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Applying a proven model or solution to a new issue or sector (e.g, using a job
   recruiting software or strategy to match clients to supportive housing sites,
   applying demonstrated strategies from advocating for college affordability to
   advocating for housing affordability and homelessness, etc.)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   The recent pandemic is leading all industries to digitize day-to-day
   operations and initiatives.  Displaced artistic and entrepreneurial Angelenos
   need a place to converge and reevaluate their capabilities and the needs of
@@ -54,7 +54,7 @@ What is the need you’re responding to?: >-
   voice in the vision while inviting small businesses and corporations to
   participate as exhibitors and sponsors.  The digital convergence will lead to
   a live festival celebration where all participants can connect. 
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   We are brand development and growth strategists.  We developed this unique
   ability from joining grassroots festival organizations and contributing to
   their growth from in home operations to major corporations.  Our passion for
@@ -68,7 +68,7 @@ Why is this project important to the work of your organization?: >-
   initiatives.  This knack for brand growth, operations strategy, and talent
   fulfillment lead our projects to success based on data and results.  We will
   be applying this methodology and our network to this initiative.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   We will use marketing analysis, participation, and profitability as measures
   for this program’s success.  We are setting a goal of increasing your current
   digital footprint by at 25%.  Based on our previous community successes we are
@@ -87,9 +87,9 @@ Please explain how you will define and measure success for your project.: >-
   location of Hollenbeck Park to entice partners to invest in the vision.  Our
   business development team is setting a goal of $100,000 raised in partnership
   support and for Converge LA 2050.  
-Approximately how many people will be directly impacted by this proposal?: '6000'
-Approximately how many people will be indirectly impacted by this proposal?: '120000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '6000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '120000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   We are the marketers that built the digital reach of Coachella, Rock the
   Bells, and Electric Daisy Carnival.  We will combine LA 2050’s current
   marketing assets with our expertise to increase the program’s digital
@@ -100,7 +100,7 @@ Please describe the broader impact of your proposal.: >-
   programming with your current reach to secure 3,000 festival attendees.  That
   is 6,000 Angelenos directly affected.  Our marketing automations, SEO, and
   keyword strategies will allow us to exponentially grow that reach by 20. 
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   Puppet Master Marketing and Freeborn Productions in collaboration with
   Convergence, work as the service verticals that will allow for Convergence to
   scale as an operation.  By collectively building infrastructure, partnership
@@ -115,16 +115,16 @@ Which of LA2050’s resources will be of the most value to you?:
 Please list the organizations collaborating on this proposal.:
   - Puppet Master Marketing
   - Freeborn Productions
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Employment in the tech industries
   - Employment in the creative industries
   - Minority- and women-owned businesses
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
   - LA is the best place to PLAY
   - LA is the best place to CONNECT
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: create
 filename: convergence-creative-solutions
 order: 10

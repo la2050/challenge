@@ -18,7 +18,7 @@ organization_website: 'https://lanatureforall.org/'
 organization_twitter: '@lanatureforall'
 organization_facebook: lanatureforall
 organization_instagram: '@lanatureforall'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Nature for All’s mission is to work to build a diverse base of support for
   ensuring that everyone in the Los Angeles area —no matter where they live—has
   equitable access to the wide range of benefits that nature can provide.
@@ -33,10 +33,10 @@ In which areas of Los Angeles will you be directly working?:
   - East LA
   - San Gabriel Valley
   - San Fernando Valley
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   In Los Angeles, where you live determines your health. Communities with the
   least access to parks and recreation also have the worst health outcomes and
   are primarily inhabited by low-income families and people of color. A 2016 LA
@@ -53,7 +53,7 @@ What is the need you’re responding to?: >-
   shut out of the advocacy process for funding for their communities. To reduce
   health inequities and improve health, we need an engaged citizenry that can
   advocate for its community’s needs.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Nature for All’s Leadership Development program trains communities of color
   and low-income communities to engage in the decision-making that distributes
   voter-approved parks, water resilience, and transit funding. Nature for All
@@ -67,7 +67,7 @@ Why is this project important to the work of your organization?: >-
   that the diversity of community voices are heard and expressed in our policy
   choices, and we have seen great success in our efforts as evidenced by the
   passage of all of those funding measures by Los Angeles voters.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Our vision of success is that participants from communities that have long
   been absent from environmental decision-making begin to build their leadership
   and participation in crucial environmental decisions and funding opportunities
@@ -86,9 +86,9 @@ Please explain how you will define and measure success for your project.: >-
   know: 1) how access to parks and open space impacts their communities and
   families; and 2) how to communicate with the decision makers on issues that
   are important to them.
-Approximately how many people will be directly impacted by this proposal?: '7500'
-Approximately how many people will be indirectly impacted by this proposal?: '15000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '7500'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '15000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   It is critical that the communities that receive new parks and transit funding
   reflect the diversity of Los Angeles and that funding resources go to
   communities that have been historically under-resourced. The broader impact of
@@ -103,13 +103,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - 'Capacity, including staff'
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Access to open space and park facilities
   - Parks with intergenerational play opportunities
   - Easy access to a safe park
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the healthiest place to LIVE
-year: 2020
+year: 2021
 category: play
 filename: nature-for-all
 order: 17

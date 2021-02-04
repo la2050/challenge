@@ -17,7 +17,7 @@ organization_website: 'https://www.citizensofculture.com'
 organization_twitter: '@ctznsofculture'
 organization_facebook: 'https://www.facebook.com/CitizensOfCulture/'
 organization_instagram: '@ctznsofculture'
-Please describe the mission of your organization.: >
+Describe the mission of your organization.: >
   Citizens Of Culture uses arts to develop critical thinking, emotional
   intelligence, and combat resource inequality. We work with individuals,
   organizations, and communities to provide social emotional learning, arts
@@ -35,10 +35,10 @@ In which areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - South LA
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >
+What is the problem that you are seeking to address?: >
   Our work destigmatizes mental health, and creates an accessible, affordable
   entrypoint for people to explore the benefits of becoming more aware of their
   thoughts and emotions to their daily life. We host group therapy & discussion,
@@ -57,7 +57,7 @@ What is the need you’re responding to?: >
   Los Angeles’ sprawl can add to feelings of isolation, and this sense of
   disconnectedness contributes to depression. Our Community Practice reminds us
   that we are all in this together and gives us tools to get through.
-Why is this project important to the work of your organization?: >
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >
   Since 2010 Citizens Of Culture has done the work of bringing people together
   for intimate gatherings about the most important issues of our time. We have
   served as a contemporary platform for discourse on the matters of politics,
@@ -75,7 +75,7 @@ Why is this project important to the work of your organization?: >
   Now, with our audience and network of teaching artists, and mental health
   professionals we are positioned to establish our work as a contributing force
   in the space of community health and healing arts.
-Please explain how you will define and measure success for your project.: >
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
   The success of the project will be measured by both qualitative and
   quantitative metrics. The first of which will be a count of individuals we are
   able to attract to the program, along with information we will be recording
@@ -105,9 +105,9 @@ Please explain how you will define and measure success for your project.: >
   Another KPI is the interest the media takes in our work and story, and how
   that helps or hinders our marketing efforts, and ability to attract new
   participants.
-Approximately how many people will be directly impacted by this proposal?: '1000'
-Approximately how many people will be indirectly impacted by this proposal?: '5000'
-Please describe the broader impact of your proposal.: >
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1000'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '5000'
+Describe how Los Angeles County will be different if your work is successful.: >
   Whether the way we interact in traffic, at work, or in a global pandemic, we
   need soft skills to be able to maintain awareness of our thoughts and emotions
   and communicate with each other. We provide education & services that should
@@ -129,13 +129,13 @@ Which of LA2050’s resources will be of the most value to you?:
   - Strategy assistance and implementation
   - We'd love all the help we have access to.
 Please list the organizations collaborating on this proposal.: ''
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Public arts and cultural events
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CREATE
-year: 2020
+year: 2021
 category: connect
 filename: citizens-of-culture
 order: 9

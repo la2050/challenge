@@ -17,7 +17,7 @@ organization_website: 'https://www.flowproject.la'
 organization_twitter: '@flowprojectla'
 organization_facebook: 'https://www.facebook.com/unycyn.civic.arts/'
 organization_instagram: '@flowproject.la'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   Through our platform "flowproject.la,” Unycyn Civic Arts connects programs &
   projects to foster healthy civic environments with public art and urban
   gardens. We’re committed to cultivating “the art of being civic.”
@@ -33,8 +33,8 @@ project_description: >-
 Which LA2050 goal will your submission most impact?: LA is the best place to LIVE
 In which areas of Los Angeles will you be directly working?:
   - South Bay
-In what stage of innovation is this project?: Pilot project or new program (testing or implementing a new idea)
-What is the need you’re responding to?: >-
+In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+What is the problem that you are seeking to address?: >-
   Los Angeles recognized the need to invest in our city’s resiliency in its
   Resilience and Sustainability Plans. Our goal is to provide elements to
   catalyze their recommended “Neighborhood Resilience Hubs” and facilitate
@@ -54,7 +54,7 @@ What is the need you’re responding to?: >-
   Communities surrounding the school will have access to a sustainable water
   supply and renewable energy, vital resources in the event of a natural
   disaster. We believe an NRG is an investment in a community’s own resilience.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   Unycyn Civic Arts develops projects promoting “the art of being civic”. We aim
   to align visions that bring beauty and environmental wellness into the world.
   Flowproject.la is our platform for programs & projects uniting art &
@@ -73,7 +73,7 @@ Why is this project important to the work of your organization?: >-
   a hub for community self-reliance in the event of large-scale disasters, as
   well as cultivating and sustaining more resilient and healthy communities on a
   daily basis.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Placing an NRG at schools, often gathering places in civic emergencies, is a
   strategic choice. Within a 1 mile radius of San Pedro High are 2 other schools
   and 3 housing projects which could also benefit from this resiliency hub for
@@ -104,10 +104,10 @@ Please explain how you will define and measure success for your project.: >-
   Ultimately, successful NRGs will provide communities with access to clean
   water, electricity, and increase access to healthy food in the event of a
   disaster.
-Approximately how many people will be directly impacted by this proposal?: '1200'
-Approximately how many people will be indirectly impacted by this proposal?: '75000'
-Please describe the broader impact of your proposal.: "Neighborhood Resiliency Garden hubs provide tools for LA communities to use in case of natural and manmade disasters, plus healthy spaces to be enjoyed by people on a daily basis.\_\n\nThese gardens provide local food to promote healthy eating, community bonding, and green jobs. Using the WEDEW to recycle green waste into clean water, energy, and biochar, sequesters carbon emissions as well as repurposes waste into important resources.\_\n\_\nWith each container also a canvas for public art, plus educational programming associated with the activation and maintenance of the gardens, NRGs will inspire students of all ages.\n\nEasily scalable, NRGs have the potential to create a network of healthy and sustainable green spaces throughout LA county."
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '1200'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '75000'
+Describe how Los Angeles County will be different if your work is successful.: "Neighborhood Resiliency Garden hubs provide tools for LA communities to use in case of natural and manmade disasters, plus healthy spaces to be enjoyed by people on a daily basis.\_\n\nThese gardens provide local food to promote healthy eating, community bonding, and green jobs. Using the WEDEW to recycle green waste into clean water, energy, and biochar, sequesters carbon emissions as well as repurposes waste into important resources.\_\n\_\nWith each container also a canvas for public art, plus educational programming associated with the activation and maintenance of the gardens, NRGs will inspire students of all ages.\n\nEasily scalable, NRGs have the potential to create a network of healthy and sustainable green spaces throughout LA county."
+'Describe the role of collaborating organizations on this project.': >-
   Unycyn Civic Arts will administer the Neighborhood Resiliency Garden project.
 
 
@@ -136,16 +136,16 @@ Please list the organizations collaborating on this proposal.:
   - San Pedro High School Olguin Campus
   - AltaSea
   - Beautify Earth
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Access to healthy food
   - Local water
   - Resilient communities
-Are there any other LA2050 goal categories that your proposal will impact?:
+Indicate any additional LA2050 goals your application will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CREATE
   - LA is the best place to PLAY
   - LA is the healthiest place to CONNECT
-year: 2020
+year: 2021
 category: live
 filename: unycyn-civic-arts
 order: 60

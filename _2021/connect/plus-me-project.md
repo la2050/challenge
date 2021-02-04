@@ -17,7 +17,7 @@ organization_website: 'https://www.theplusmeproject.org'
 organization_twitter: '@PLUSMEproject'
 organization_facebook: www.facebook.com/theplusmeproject
 organization_instagram: '@theplusmeproject'
-Please describe the mission of your organization.: >-
+Describe the mission of your organization.: >-
   PLUS ME Project believes everyone has a story that matters. We are a community
   partner dedicated to empowering middle and high school youth to increase their
   confidence for college, career, and community advancement by teaching the art
@@ -35,10 +35,10 @@ In which areas of Los Angeles will you be directly working?:
   - >-
     City of Los Angeles (please select only if your project has a citywide
     benefit)
-In what stage of innovation is this project?: >-
+In what stage of innovation is this project, program, or initiative?: >-
   Expand existing program (expanding and continuing ongoing successful projects
   or programs)
-What is the need you’re responding to?: >-
+What is the problem that you are seeking to address?: >-
   Human connection is a necessity. Unfortunately, loneliness rates are on the
   rise. According to Cigna in 2020, at least 61% of adults in America feel
   disconnected, isolated, or alone.
@@ -60,7 +60,7 @@ What is the need you’re responding to?: >-
   Our goal is to ensure more adults and teens in LA feel less alone by unlocking
   the power within their own stories and empowering them to share their
   resiliency with each other.
-Why is this project important to the work of your organization?: >-
+Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
   PLUS ME Project has become an industry leading organization in LA known for
   helping youth and adults realize their stories matter. Since 2013, PLUS ME has
   impacted over 90,000 students throughout the city with inspirational
@@ -80,7 +80,7 @@ Why is this project important to the work of your organization?: >-
   inspires, and empowers thousands throughout our city. We strongly believe that
   everyone has a story that matters and we want to use this project to help
   ensure LA realizes it.
-Please explain how you will define and measure success for your project.: >-
+What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
   Our vision for success is for more people in LA to feel connected by
   increasing their social and emotional support through storytelling and for
   them to feel empowered by choosing to volunteer and share their stories with
@@ -111,9 +111,9 @@ Please explain how you will define and measure success for your project.: >-
   These experiences can help people feel united and less alone. Our success will
   be demonstrated through the data we receive and with a video showing how our
   project helped make LA a better place to CONNECT. 
-Approximately how many people will be directly impacted by this proposal?: '500'
-Approximately how many people will be indirectly impacted by this proposal?: '11000'
-Please describe the broader impact of your proposal.: >-
+Approximately how many people will be directly impacted by this project, program, or initiative?: '500'
+Approximately how many people will be indirectly impacted by this project, program, or initiative?: '11000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Our city will need immense social support and our residents will be yearning
   for motivational connection after this social distancing period ends. Our
   proposal will impact the future of our city by not only increasing rates of
@@ -126,7 +126,7 @@ Please describe the broader impact of your proposal.: >-
   any guest who wishes to attend. These events will remind us how resilient,
   empathetic, and diverse we are as a city - inspiring a ripple effect that will
   create deeper connections, less isolation, and remind us that we matter.
-'If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.': >-
+'Describe the role of collaborating organizations on this project.': >-
   GEAR UP 4 LA will support PLUS ME Project in ensuring we always have
   classrooms available that will host our volunteer guest speakers throughout
   the 2020 - 2021 school year. 
@@ -147,12 +147,12 @@ Which of LA2050’s resources will be of the most value to you?:
   - Host public events or gatherings
   - Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: GEAR UP 4 LA
-Which metrics will your submission impact?:
+Which metrics will you impact?:
   - Social and emotional support
   - Public arts and cultural events
   - Volunteerism
-Are there any other LA2050 goal categories that your proposal will impact?: []
-year: 2020
+Indicate any additional LA2050 goals your application will impact.: []
+year: 2021
 category: connect
 filename: plus-me-project
 order: 46
