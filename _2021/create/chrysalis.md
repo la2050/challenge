@@ -126,7 +126,7 @@ Which of LA2050’s resources will be of the most value to you?:
 Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:
   - Economic opportunities for formerly incarcerated
-Indicate any additional LA2050 goals your application will impact.: []
+Indicate any additional LA2050 goals your project will impact.: []
 year: 2021
 category: create
 filename: chrysalis

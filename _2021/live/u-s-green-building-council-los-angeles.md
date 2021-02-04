@@ -120,7 +120,7 @@ Which metrics will you impact?:
   - Housing affordability
   - Air quality
   - Resilient communities
-Indicate any additional LA2050 goals your application will impact.: []
+Indicate any additional LA2050 goals your project will impact.: []
 year: 2021
 category: live
 filename: u-s-green-building-council-los-angeles

@@ -142,7 +142,7 @@ Which metrics will you impact?:
   - Water pollution
   - Local water
   - Resilient communities
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to PLAY
 year: 2021
 category: live

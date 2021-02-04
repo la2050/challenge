@@ -100,7 +100,7 @@ Which metrics will you impact?:
   - Access to healthy food
   - Food insecurity
   - Older adult well-being
-Indicate any additional LA2050 goals your application will impact.: []
+Indicate any additional LA2050 goals your project will impact.: []
 year: 2021
 category: live
 filename: san-pedro-meals-on-wheels

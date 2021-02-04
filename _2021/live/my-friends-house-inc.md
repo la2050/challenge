@@ -95,7 +95,7 @@ Which metrics will you impact?:
   - Access to healthy food
   - Food insecurity
   - Homelessness
-Indicate any additional LA2050 goals your application will impact.: []
+Indicate any additional LA2050 goals your project will impact.: []
 year: 2021
 category: live
 filename: my-friends-house-inc

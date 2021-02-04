@@ -104,7 +104,7 @@ Which metrics will you impact?:
   - Minority- and women-owned businesses
   - High-growth startups
   - Venture capital investment
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CONNECT
 year: 2021
 category: create

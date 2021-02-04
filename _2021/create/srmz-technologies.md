@@ -96,7 +96,7 @@ Which metrics will you impact?:
   - Employment in the tech industries
   - Minority- and women-owned businesses
   - High-growth startups
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CONNECT
   - LA is the healthiest place to LIVE

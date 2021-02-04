@@ -117,7 +117,7 @@ Which metrics will you impact?:
   - Internet access
   - LGBTQ+ equity and inclusion
   - Disability access and inclusion
-Indicate any additional LA2050 goals your application will impact.: []
+Indicate any additional LA2050 goals your project will impact.: []
 year: 2021
 category: connect
 filename: human-i-t

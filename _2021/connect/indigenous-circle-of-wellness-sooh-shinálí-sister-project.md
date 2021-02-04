@@ -128,7 +128,7 @@ Please list the organizations collaborating on this proposal.:
 Which metrics will you impact?:
   - Social and emotional support
   - Public arts and cultural events
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the healthiest place to LIVE
 year: 2021
 category: connect

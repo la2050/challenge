@@ -116,7 +116,7 @@ Which metrics will you impact?:
   - Obesity
   - Youth sports participation
   - Crime rates
-Indicate any additional LA2050 goals your application will impact.: []
+Indicate any additional LA2050 goals your project will impact.: []
 year: 2021
 category: play
 filename: woodcraft-rangers

@@ -126,7 +126,7 @@ Please list the organizations collaborating on this proposal.: >-
   World Airports (LAWA)
 Which metrics will you impact?:
   - Access to mental health services
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the healthiest place to CONNECT
 year: 2021

@@ -127,7 +127,7 @@ Which metrics will you impact?:
   - Obesity
   - Youth sports participation
   - Prevalence of trauma and adverse childhood experiences
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CREATE
   - LA is the best place to CONNECT

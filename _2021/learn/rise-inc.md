@@ -146,7 +146,7 @@ Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:
   - College matriculation
   - Community college completion
-Indicate any additional LA2050 goals your application will impact.: []
+Indicate any additional LA2050 goals your project will impact.: []
 year: 2021
 category: learn
 filename: rise-inc

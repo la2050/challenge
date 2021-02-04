@@ -128,7 +128,7 @@ Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:
   - Parks with intergenerational play opportunities
   - Open streets gatherings
-Indicate any additional LA2050 goals your application will impact.: []
+Indicate any additional LA2050 goals your project will impact.: []
 year: 2021
 category: play
 filename: los-angeles-neighborhood-initiative-lani

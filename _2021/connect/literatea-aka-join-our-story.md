@@ -127,7 +127,7 @@ Which metrics will you impact?:
   - Social and emotional support
   - Disability access and inclusion
   - Immigrant integration
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CREATE
   - LA is the best place to PLAY

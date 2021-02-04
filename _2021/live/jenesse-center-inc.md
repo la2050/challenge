@@ -150,7 +150,7 @@ Which metrics will you impact?:
   - Housing affordability
   - Access to mental health services
   - Homelessness
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
 Has your proposal changed due to COVID-19?: >
   With the introduction of COVID-19 and since the implementation of the Safer at Home mandate, Jenesse has responded swiftly to continue to provide clients with the same level of exceptional services they have become accustomed to. Within 3 days of the implementation of the mandate, the Behavioral Health Program and Legal Services Program were able to switch to Skype, Zoom, and Telehealth formats so that clients could connect with our advocates, mental health interns, attorneys, and paralegals. It took a tremendous effort for our staff to establish the virtual platforms so quickly and to notifying our clients, but the change was seamless to the survivors we serve.

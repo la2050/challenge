@@ -138,7 +138,7 @@ Which metrics will you impact?:
   - Arts education
   - Enrollment in afterschool programs
   - High school graduation rates
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
 year: 2021
 category: learn

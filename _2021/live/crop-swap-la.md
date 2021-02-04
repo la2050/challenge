@@ -131,7 +131,7 @@ Which metrics will you impact?:
   - Access to healthy food
   - Water-use efficiency
   - Resilient communities
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the healthiest place to CONNECT
 Has your proposal changed due to COVID-19?: >
   Everyone will be required to wear masks, gloves, and to evaluate themselves as to whether they are healthy enough to assist in garden installations. Only minimal staff/volunteers are to be present for installations, and  interactions with the home residents will remain scarce. Other activities have minimized but are still moving forward: fruit picking with gloves and masks, and the West Adams Farmers Market continues to run with approval from the city having visited to observe our containment tactics. 

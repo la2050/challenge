@@ -147,7 +147,7 @@ Which metrics will you impact?:
   - Employment in the creative industries
   - Income inequality
   - Minority- and women-owned businesses
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
 year: 2021
 category: create

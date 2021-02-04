@@ -123,7 +123,7 @@ Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:
   - High school graduation rates
   - Student proficiency in English & Language Arts
-Indicate any additional LA2050 goals your application will impact.: []
+Indicate any additional LA2050 goals your project will impact.: []
 Has your proposal changed due to COVID-19?: >
   School closures resulting from COVID-19 have a significant impact on all students; however, for low-income communities, that impact is devastating. Students who were already falling will fall even further behind.
 

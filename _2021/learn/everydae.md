@@ -149,7 +149,7 @@ Please list the organizations collaborating on this proposal.: 21PSTEM
 Which metrics will you impact?:
   - College matriculation
   - Proficiency in STEM
-Indicate any additional LA2050 goals your application will impact.: []
+Indicate any additional LA2050 goals your project will impact.: []
 year: 2021
 category: learn
 filename: everydae

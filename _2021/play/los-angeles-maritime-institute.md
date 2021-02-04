@@ -98,7 +98,7 @@ Which metrics will you impact?:
   - Youth sports participation
   - Access to open space and park facilities
   - Parks with intergenerational play opportunities
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the healthiest place to LIVE
 Has your proposal changed due to COVID-19?: >

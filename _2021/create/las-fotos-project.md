@@ -114,7 +114,7 @@ Which metrics will you impact?:
   - Employment in the creative industries
   - Income inequality
   - Minority- and women-owned businesses
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
 Has your proposal changed due to COVID-19?: >
   The Las Fotos Project team has remained vigilant of the new changes to state and city-wide mandates, as well as health developments emerging from the CDC. We will be amending our project time-line to reflect these emerging recommendations.  Our project remains focused on mutual-aid, post-COVID19 support for our students, and women-owned businesses. In the interim, we will begin the launch of our project by supporting our students and women-owned businesses with safe, at-home product photography services in the upcoming months until we feel we can safely and adequately open the Foto Studio in person.

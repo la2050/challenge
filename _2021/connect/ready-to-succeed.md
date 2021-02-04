@@ -136,7 +136,7 @@ Please list the organizations collaborating on this proposal.: Stepping Forward 
 Which metrics will you impact?:
   - Social and emotional support
   - Volunteerism
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
 Has your proposal changed due to COVID-19?: >
   * Building community for RTS Scholars and SFLA youth will take place via virtual engagement opportunities. SFLA’s signature “First Saturday” events will transition to online workshops and events, web series, an online “life skills” academy, and a protected virtual community. All programming will be created and hosted by former foster youth and continue to bring people together to provide both learning and bonding activities.

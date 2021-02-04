@@ -144,7 +144,7 @@ Which metrics will you impact?:
   - Manufacturing activity
   - Income inequality
   - Jobs per capita
-Indicate any additional LA2050 goals your application will impact.: []
+Indicate any additional LA2050 goals your project will impact.: []
 year: 2021
 category: create
 filename: project-equity-a-program-of-multiplier

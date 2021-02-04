@@ -114,7 +114,7 @@ Which metrics will you impact?:
   - Arts education
   - High school graduation rates
   - Student proficiency in English & Language Arts
-Indicate any additional LA2050 goals your application will impact.: []
+Indicate any additional LA2050 goals your project will impact.: []
 year: 2021
 category: learn
 filename: get-lit-words-ignite

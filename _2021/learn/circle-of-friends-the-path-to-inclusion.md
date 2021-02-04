@@ -117,7 +117,7 @@ Which metrics will you impact?:
   - Suspension and expulsion rates
   - K-8 chronic absenteeism
   - Opportunity youth (“Disengaged youth” 16-24 not working or in school)
-Indicate any additional LA2050 goals your application will impact.: []
+Indicate any additional LA2050 goals your project will impact.: []
 year: 2021
 category: learn
 filename: circle-of-friends-the-path-to-inclusion

@@ -183,7 +183,7 @@ Please list the organizations collaborating on this proposal.:
   - Cal Poly Pomona College of Education and Integrative Studies
 Which metrics will you impact?:
   - Student proficiency in English & Language Arts
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CONNECT
 year: 2021
 category: learn

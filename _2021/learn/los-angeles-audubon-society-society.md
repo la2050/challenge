@@ -132,7 +132,7 @@ Which metrics will you impact?:
   - Enrollment in afterschool programs
   - College matriculation
   - Opportunity youth (“Disengaged youth” 16-24 not working or in school)
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to PLAY
   - LA is the healthiest place to LIVE
 Has your proposal changed due to COVID-19?: >

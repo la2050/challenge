@@ -108,7 +108,7 @@ Which metrics will you impact?:
   - Obesity
   - Youth sports participation
   - Access to open space and park facilities
-Indicate any additional LA2050 goals your application will impact.: []
+Indicate any additional LA2050 goals your project will impact.: []
 Has your proposal changed due to COVID-19?: >
   In response to the current situation involving COVID-19, RAP will need to make modifications to the Mobile Recreation Program proposal. The most significant modification will be the location of the program; instead of mobile recreation utilizing LAUSD schools on the weekends and after-school, this summer they will visit LA city parks that are not offering Summer 2020 Youth Programs.  Approximately 30 sites will participate with the mobile programs this summer.  High contact sports and activities will be substituted for activities that allow for social distancing and stable groups such as field hockey, tennis, and track & field.
 

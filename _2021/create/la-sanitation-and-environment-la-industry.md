@@ -112,7 +112,7 @@ Which metrics will you impact?:
   - Manufacturing activity
   - Employment in the creative industries
   - Jobs per capita
-Indicate any additional LA2050 goals your application will impact.: []
+Indicate any additional LA2050 goals your project will impact.: []
 Has your proposal changed due to COVID-19?: >
   Amid the current COVID-19 situation, our team wants to add an innovative challenge for upcycling enthusiasts to design reusable PPE with textile scrap. This would create a win-win situation in both protecting the environment by reducing the amount of waste going to landfills and supporting our frontline workers.
 

@@ -129,7 +129,7 @@ Which metrics will you impact?:
   - Public transit ridership
   - Volunteerism
   - Residential segregation
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the healthiest place to LIVE
 year: 2021
 category: connect

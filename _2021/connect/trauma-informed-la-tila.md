@@ -133,7 +133,7 @@ Which metrics will you impact?:
   - Public arts and cultural events
   - Disability access and inclusion
   - Resilient communities
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
   - LA is the healthiest place to CONNECT
   - LA is the best place to CREATE

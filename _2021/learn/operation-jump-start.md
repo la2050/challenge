@@ -102,7 +102,7 @@ Which metrics will you impact?:
   - College graduates
   - College matriculation
   - High school graduation rates
-Indicate any additional LA2050 goals your application will impact.: []
+Indicate any additional LA2050 goals your project will impact.: []
 year: 2021
 category: learn
 filename: operation-jump-start

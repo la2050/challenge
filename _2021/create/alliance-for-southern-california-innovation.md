@@ -167,7 +167,7 @@ Please list the organizations collaborating on this proposal.:
 Which metrics will you impact?:
   - Global cultural and economic influence (“soft power”)
   - High-growth startups
-Indicate any additional LA2050 goals your application will impact.: []
+Indicate any additional LA2050 goals your project will impact.: []
 year: 2021
 category: create
 filename: alliance-for-southern-california-innovation

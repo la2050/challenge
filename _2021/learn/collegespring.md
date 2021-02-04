@@ -128,7 +128,7 @@ Which metrics will you impact?:
   - College matriculation
   - Student proficiency in English & Language Arts
   - Proficiency in STEM
-Indicate any additional LA2050 goals your application will impact.: []
+Indicate any additional LA2050 goals your project will impact.: []
 year: 2021
 category: learn
 filename: collegespring

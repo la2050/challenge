@@ -128,7 +128,7 @@ Which metrics will you impact?:
   - Youth sports participation
   - Prevalence of trauma and adverse childhood experiences
   - Access to open space and park facilities
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
 year: 2021
 category: play

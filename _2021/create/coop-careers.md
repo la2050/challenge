@@ -144,7 +144,7 @@ Which metrics will you impact?:
   - Income inequality
   - Global cultural and economic influence (“soft power”)
   - Unemployment rate
-Indicate any additional LA2050 goals your application will impact.: []
+Indicate any additional LA2050 goals your project will impact.: []
 year: 2021
 category: create
 filename: coop-careers

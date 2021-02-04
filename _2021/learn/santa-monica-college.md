@@ -163,7 +163,7 @@ Which metrics will you impact?:
   - College graduates
   - College matriculation
   - Community college completion
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the healthiest place to LIVE
 year: 2021
 category: learn

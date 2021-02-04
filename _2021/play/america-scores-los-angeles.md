@@ -111,7 +111,7 @@ Which metrics will you impact?:
   - Obesity
   - Youth sports participation
   - Students' sense of safety at and on the way to school
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
 year: 2021
 category: play

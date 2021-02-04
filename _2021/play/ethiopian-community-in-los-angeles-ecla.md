@@ -134,7 +134,7 @@ Which metrics will you impact?:
   - Obesity
   - Youth sports participation
   - Access to open space and park facilities
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the healthiest place to LIVE
 year: 2021
 category: play

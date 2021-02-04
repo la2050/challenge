@@ -136,7 +136,7 @@ Which metrics will you impact?:
   - Housing affordability
   - Resilient communities
   - Homelessness
-Indicate any additional LA2050 goals your application will impact.: []
+Indicate any additional LA2050 goals your project will impact.: []
 year: 2021
 category: live
 filename: abundant-housing-la

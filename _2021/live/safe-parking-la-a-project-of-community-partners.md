@@ -115,7 +115,7 @@ Please list the organizations collaborating on this proposal.:
   - Wilshire Center Koreatown Neighborhood Council
 Which metrics will you impact?:
   - Homelessness
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the healthiest place to CONNECT
 Has your proposal changed due to COVID-19?: >
   While our capacity has been challenged by the COVID-19 Pandemic, Safe Parking LA will activate a series of grassroots volunteer opportunities as planned. In response to the current landscape, Neighbors for Home activities will move forward as follows: 

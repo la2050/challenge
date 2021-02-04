@@ -121,7 +121,7 @@ Please list the organizations collaborating on this proposal.:
 Which metrics will you impact?:
   - Public arts and cultural events
   - Voting rates
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
   - LA is the best place to CREATE
   - LA is the best place to PLAY

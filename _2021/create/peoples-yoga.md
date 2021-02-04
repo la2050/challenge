@@ -119,7 +119,7 @@ Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:
   - Employment in the creative industries
   - Minority- and women-owned businesses
-Indicate any additional LA2050 goals your application will impact.: []
+Indicate any additional LA2050 goals your project will impact.: []
 year: 2021
 category: create
 filename: peoples-yoga

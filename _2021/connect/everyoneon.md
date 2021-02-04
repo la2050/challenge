@@ -142,7 +142,7 @@ Please list the organizations collaborating on this proposal.: The Los Angeles P
 Which metrics will you impact?:
   - Internet access
   - Social and emotional support
-Indicate any additional LA2050 goals your application will impact.: []
+Indicate any additional LA2050 goals your project will impact.: []
 year: 2021
 category: connect
 filename: everyoneon

@@ -119,7 +119,7 @@ Which metrics will you impact?:
   - Access to open space and park facilities
   - Parks with intergenerational play opportunities
   - Perceived neighborhood safety
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the healthiest place to LIVE
 year: 2021
 category: play

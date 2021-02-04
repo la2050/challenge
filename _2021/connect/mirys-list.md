@@ -134,7 +134,7 @@ Which metrics will you impact?:
   - Social and emotional support
   - Volunteerism
   - Immigrant integration
-Indicate any additional LA2050 goals your application will impact.: []
+Indicate any additional LA2050 goals your project will impact.: []
 year: 2021
 category: connect
 filename: mirys-list

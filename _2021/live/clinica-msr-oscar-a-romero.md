@@ -106,7 +106,7 @@ Which metrics will you impact?:
   - Healthcare access
   - Resilient communities
   - Access to mental health services
-Indicate any additional LA2050 goals your application will impact.: []
+Indicate any additional LA2050 goals your project will impact.: []
 Has your proposal changed due to COVID-19?: >
   As a community health clinic, Clinica Romero is on the front lines of the health emergency caused by the COVID-19 pandemic and is playing a key role in both prevention and diagnosis of the virus. Our original proposal included a response to COVID-19 and additional details are included here. Through funding received from the LA2050 challenge, we aim to:
 

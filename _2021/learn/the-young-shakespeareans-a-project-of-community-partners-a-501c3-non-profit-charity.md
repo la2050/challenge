@@ -114,7 +114,7 @@ Which metrics will you impact?:
   - Arts education
   - Enrollment in afterschool programs
   - Student proficiency in English & Language Arts
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to PLAY
 year: 2021
 category: learn

@@ -98,7 +98,7 @@ Which metrics will you impact?:
   - Youth sports participation
   - Easy access to a safe park
   - Students' sense of safety at and on the way to school
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
 Has your proposal changed due to COVID-19?: >
   1. Switched to an on-line Game of Skate zoom program. Each session is made up of a group of 10-15 participants including mentors. It is an on-line competition, where participants perform a skateboarding trick. Tricks are voted on & the participant with the highest score wins the challenge & earns free skateboarding gear.

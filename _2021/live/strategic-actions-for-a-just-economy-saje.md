@@ -124,7 +124,7 @@ Please list the organizations collaborating on this proposal.: JustFix
 Which metrics will you impact?:
   - Housing affordability
   - Homelessness
-Indicate any additional LA2050 goals your application will impact.: []
+Indicate any additional LA2050 goals your project will impact.: []
 Has your proposal changed due to COVID-19?: >
   Eviction prevention has become an even higher priority as the covid-19 pandemic has caused millions of renters in LA County to wonder if they can pay their rent. Keeping our homes IS public health. Without a home, exposure to the coronavirus is dramatically worsened. Temporary emergency measures protect many tenants, but only for a limited time. Now more than ever, tenants need easy access to tools and resources to help exercise their rights and stay in their homes. In the coronavirus era, easy-to-use and multi-lingual online resources are essential to making critical services available to people who need it the most. In rapid response to the current crisis, we created NoRent.org, which has helped tenants throughout the County protect themselves from unlawful evictions. 
 

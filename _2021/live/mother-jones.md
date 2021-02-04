@@ -121,7 +121,7 @@ Which metrics will you impact?:
   - Access to healthy food
   - Housing affordability
   - Homelessness
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to PLAY
   - LA is the healthiest place to CONNECT
 year: 2021

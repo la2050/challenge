@@ -107,7 +107,7 @@ Please list the organizations collaborating on this proposal.: The Arts for Inca
 Which metrics will you impact?:
   - Prevalence of trauma and adverse childhood experiences
   - Crime rates
-Indicate any additional LA2050 goals your application will impact.:
+Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
 year: 2021
 category: play

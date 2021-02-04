@@ -91,7 +91,7 @@ Please list the organizations collaborating on this proposal.: SAGE
 Which metrics will you impact?:
   - Healthcare access
   - Older adult well-being
-Indicate any additional LA2050 goals your application will impact.: []
+Indicate any additional LA2050 goals your project will impact.: []
 year: 2021
 category: live
 filename: alzheimers-los-angeles
