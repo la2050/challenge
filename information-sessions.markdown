@@ -15,9 +15,6 @@ We are hosting three live, virtual information sessions for applicants to the My
 
 _Please click on one of the links below, depending on which date works best for you, and you will be redirected to register for the webinar through Zoom._
 
-[Tuesday, February 9, 2021](https://us02web.zoom.us/webinar/register/WN_FgUs5OZmRVCRninBpbVsIA)
-: from 11:00 am to 12:00 pm (PT)
-
 [Friday, February 26, 2021](https://us02web.zoom.us/webinar/register/WN_VLvOSgcZRy2PFHCfHhzxSA)
 : from 1:00 pm to 2:00 pm (PT)
 
