@@ -360,11 +360,6 @@ defaults:
       type: "2020"
     values:
       layout: project
-  - scope:
-      path: ""
-      type: "2021"
-    values:
-      layout: project
 
 collections:
   '2019':
@@ -373,6 +368,3 @@ collections:
   '2020':
     output: true
     permalink: /2020/:path/
-  '2021':
-    output: true
-    permalink: /2021/:path/
