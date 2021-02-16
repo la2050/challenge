@@ -23,6 +23,9 @@ The My LA2050 Grants Challenge is possible because of the support of many organi
 [![The Annenberg Foundation](/assets/images/partners/annenberg-foundation.png)](https://annenberg.org)
 : The Annenberg Foundation, providing $50,000 in grant funds to support efforts in diversity, equity, and inclusion.
 
+[![Snap Foundation](/assets/images/partners/snap-foundation.png)](https://snapfoundation.org)
+: The Snap Foundation, supporting projects that develop pathways to the creative economy for underrepresented youth in Los Angeles.
+
 <p style="margin-bottom: 1.5em" markdown="1">
 _If your organization is interested in sponsoring additional funding awards, please email [connect@la2050.org](mailto:connect@la2050.org)._
 </p>
