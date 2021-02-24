@@ -60,7 +60,7 @@ Please note that applications that do not account for COVID-19 restrictions and 
 <summary markdown="1">
 ## Do you receive inquiries or answer questions about the challenge via telephone?
 </summary>
-Unfortunately, we do not take phone calls or meetings during this time due to the number of inquiries we receive. If you have questions, please consider attending one of our <a href="{{ site.office_hours_url }}">live information sessions on February 9, February 26, or March 19</a>. We are also happy to answer your questions any time via email at [connect@la2050.org](mailto:connect@la2050.org).
+Unfortunately, we do not take phone calls or meetings during this time due to the number of inquiries we receive. If you have questions, please consider attending one of our <a href="{{ site.office_hours_url }}">live information sessions on February 9, February 26, or March 16</a>. We are also happy to answer your questions any time via email at [connect@la2050.org](mailto:connect@la2050.org).
 
 </details>
 
