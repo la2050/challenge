@@ -328,7 +328,7 @@ voting_test_mode: false
 voting_strict_mode: false
 
 # For cache busting
-version: 3.0.26
+version: 3.0.30
 
 
 permalink: pretty
@@ -352,19 +352,11 @@ defaults:
       layout: default
   - scope:
       path: ""
-      type: "2019"
-    values:
-      layout: project
-  - scope:
-      path: ""
       type: "2020"
     values:
       layout: project
 
 collections:
-  '2019':
-    output: true
-    permalink: /2019/:path/
   '2020':
     output: true
     permalink: /2020/:path/

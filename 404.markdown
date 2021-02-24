@@ -14,38 +14,3 @@ This page couldn’t be found.
 
 You may want to visit our [home page](/) instead.
 </div>
-
-
-<script>
-(function() {
-
-  if (window.location.pathname.includes("2020") === false) return;
-
-  // TEMPORARY SHIM: Redirect 2020 test URLs to the correct 2019 URL
-  // (This shim can be safely removed if these URLs no longer appear in search results)
-  //
-  // Example:
-  // /2020/connect/big-citizen-hub/ ==> /2019/connect/big-citizen-hub/
-
-  {% assign data_collection = site.collections | where: "label", "2019" | first %}
-  {% assign data_list = data_collection.docs %}
-
-  const proposals2019 = {
-
-  {% for project in data_list -%}
-    "{{ project.url }}": 1
-    {%- unless forloop.last == true -%},{%- endunless %}
-  {% endfor %}
-
-  };
-
-  // If the URL matches one of the 2019 proposals
-  const url2019 = window.location.pathname.replace("2020", "2019");
-  if (proposals2019[url2019] === 1) {
-    // Redirect to the 2019 URL
-    window.location.href = url2019;
-  }
-
-})();
-</script>
-

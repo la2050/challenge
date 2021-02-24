@@ -284,6 +284,7 @@
   header li,
   footer li {
     display: inline-block;
+    vertical-align: middle;
     margin: 0.25em 0.75em;
   }
 /*  header ul {
@@ -518,6 +519,40 @@
   header h2 a:focus {
     color: var(--banana);
   }*/
+
+  header .navigation ul:first-child,
+  footer .navigation ul:first-child {
+    margin-bottom: 0;
+  }
+  header .navigation ul + ul,
+  footer .navigation ul + ul {
+    margin-top: 0;
+  }
+
+  .la2050-navigation a {
+    font-weight: 300;
+    text-transform: none;
+  }
+
+  /* @media (max-width: 40em) {
+    .la2050-navigation {
+      padding-left: 0.75em;
+    }
+  } */
+
+  @media (min-width: 105em) {
+    header .navigation,
+    footer .navigation {
+      display: flex;
+      flex-wrap: wrap;
+    }
+    .la2050-navigation {
+      margin-left: 1.5em;
+      padding-left: 0.75em;
+      border-left: 1px solid;
+    }
+  }
+
 
 
   /* =Headline
