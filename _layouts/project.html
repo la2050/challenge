@@ -299,7 +299,7 @@ stylesheets:
 </p>
 {% endif %}
 
-{% if page.year == 2020 %}
+{% if page.year == 2021 %}
 <hr />
 
 <div class="comments">
@@ -312,15 +312,15 @@ stylesheets:
         this.page.url = 'https://challenge.la2050.org{{ page.url }}';  // Replace PAGE_URL with your page's canonical URL variable
         this.page.identifier = '{{ page.application_id }}'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+    (function() {
         var d = document, s = d.createElement('script');
 
-        s.src = 'https://2020-challenge-la2050-org.disqus.com/embed.js';
-        
+        s.src = 'https://2021-challenge-la2050-org.disqus.com/embed.js';
+
         s.setAttribute('data-timestamp', +new Date());
         (d.head || d.body).appendChild(s);
     })();
-</script>  
+</script>
 {% endif %}
 
 {% endunless %}
