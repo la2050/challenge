@@ -254,7 +254,7 @@ function mapAllColumnNames(data) {
     :"project_description",
 
     "[Q4_Goal_Category] 2. Please select the primary LA2050 goal your application will impact:"
-    :"Which LA2050 goal will your submission most impact?",
+    :"category",
 
     "[Connect_Metrics] 3. Which of the following CONNECT metrics will you impact?"
     //:"Which of the following CONNECT metrics will your proposal impact?",
@@ -278,6 +278,21 @@ function mapAllColumnNames(data) {
 
     // "5. Please select any other LA2050 goal categories your proposal will impact"
     // :"Are there any other LA2050 goal categories that your proposal will impact?",
+
+    "[Learn_Other] 4. Select any additional LA2050 goals your application will impact.Select all that apply."
+    :"learn_metrics_other",
+
+    "[Create_Other] 4. Select any additional LA2050 goals your application will impact.Select all that apply."
+    :"create_metrics_other",
+
+    "[Play_Other] 4. Select any additional LA2050 goals your application will impact.Select all that apply."
+    :"play_metrics_other",
+
+    "[Connect_Other] 4. Select any additional LA2050 goals your application will impact.Select all that apply."
+    :"connect_metrics_other",
+
+    "[Live_Other] 4. Select any additional LA2050 goals your application will impact.Select all that apply."
+    :"live_metrics_other",
 
     "5. In which areas of Los Angeles will you be directly working?Select all that apply."
     :"In which areas of Los Angeles will you be directly working?",
@@ -363,16 +378,13 @@ function createMarkdownFile(data) {
     getArrayFromString(data[`In which areas of Los Angeles will you be directly working?`]);
   // data[`Which of LA2050’s resources will be of the most value to you?`] =
   //   getArrayFromString(data[`Which of LA2050’s resources will be of the most value to you?`]);
+
   if (data['Please list the organizations collaborating on this proposal.'] &&
       data['Please list the organizations collaborating on this proposal.'] != "") {
     let items = getArrayFromDelimitedString(data[`Please list the organizations collaborating on this proposal.`]);
     if (items.length > 1) {
       data[`Please list the organizations collaborating on this proposal.`] = items;
     }
-  }
-
-  if (data["If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project."] == "") {
-    delete data["If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project."];
   }
 
   let metrics = getArrayFromString(data.create_metrics)
@@ -382,11 +394,11 @@ function createMarkdownFile(data) {
         .concat(getArrayFromString(data.play_metrics));
 
   const metricsOtherColumns = [
-    `[Learn_Other] 4. Select any additional LA2050 goals your application will impact.Select all that apply.`,
-    `[Create_Other] 4. Select any additional LA2050 goals your application will impact.Select all that apply.`,
-    `[Play_Other] 4. Select any additional LA2050 goals your application will impact.Select all that apply.`,
-    `[Connect_Other] 4. Select any additional LA2050 goals your application will impact.Select all that apply.`,
-    `[Live_Other] 4. Select any additional LA2050 goals your application will impact.Select all that apply.`
+    `learn_metrics_other`,
+    `create_metrics_other`,
+    `play_metrics_other`,
+    `connect_metrics_other`,
+    `live_metrics_other`,
   ];
 
   const reducer = (accumulator, currentValue) => accumulator.concat(currentValue);
@@ -402,14 +414,11 @@ function createMarkdownFile(data) {
   });
 
   data[`Which metrics will you impact?`] = metrics;
-  data[`Indicate any additional LA2050 goals your project will impact.`]   = metrics_other;
+  data[`Indicate any additional LA2050 goals your project will impact.`] = metrics_other;
 
   data.year = 2021;
 
-  // OPTIONAL: Move category to the bottom
-  let category = data["Which LA2050 goal will your submission most impact?"].toLowerCase().replace("la is the best place to ", "");
-  delete data.category
-  data.category = category
+  data.category = data.category.toLowerCase().replace("la is the best place to ", "");
 
   // Handle empty instagram values
   if (data.organization_instagram === '@') {
