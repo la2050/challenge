@@ -36,7 +36,7 @@ stylesheets:
     {% endif %}
   </a>
 </p>
-<h1 style="margin-bottom: 0">{{ page.title }}</h1>
+<h1 style="margin-bottom: 0">{{ page.organization_name }}</h1>
 </div>
 
 {% if page.organization_instagram contains "http" %}
@@ -112,7 +112,7 @@ stylesheets:
 
 <div class="proposal-description">
 {% unless page['organization_name'] == page['title'] %}
-<h2 style="margin-top: 0.75rem;" class="organization">{{ page.organization_name }}</h2>
+<h2 style="margin-top: 0.75rem;" class="organization">{{ page.title }}</h2>
 {% endunless %}
 <!-- TODO: Handle long lists of collaborators:
   /learn/wish-academy-high-school/

@@ -481,14 +481,14 @@
     filter: none;
   }
   */
-  .proposals a:hover  h3,
-  .proposals a:active h3,
-  .proposals a:focus  h3 {
+  .proposals a:hover  .organization,
+  .proposals a:active .organization,
+  .proposals a:focus  .organization {
     text-decoration: underline;
   }
 
-  .proposals h3,
   .proposals .organization,
+  .proposals .title,
   .proposals .description {
     padding-right: 1.5em;
   }
@@ -505,7 +505,7 @@
     font-size: 0.875em;
     font-weight: 500;
   }
-  .proposals.finalists .text h3 {
+  .proposals.finalists .text .organization {
     text-decoration: none !important;
   }
 
@@ -676,13 +676,14 @@
     }
   }
 
-  .proposals h3 {
+  .proposals .organization {
     font-size: inherit;
     line-height: inherit;
     font-weight: bold;
-    margin-top: 0.375em;
+    /* margin-top: 0.375em; */
     margin-bottom: 0.375em;
     max-width: none;
+    font-style: normal;
   }
 
   .proposals .play {
@@ -707,13 +708,13 @@
   }
 
 
-  .proposals .organization {
+  .proposals .title {
     margin-top: 0;
-    margin-bottom: 0;
+    margin-bottom: 0.375em;
     max-width: none;
     color: inherit !important;
   }
-  .proposals.finalists .organization {
+  .proposals.finalists .title {
 /*    font-size: 1.5em;
     line-height: 1.25;*/
 /*    max-width: 26.6666666667em;*/
@@ -721,17 +722,18 @@
     font-weight: 600;
   }
 
-  .proposals.finalists h3 {
+  .proposals.finalists .organization {
     font-size: 1.5em;
     line-height: 1.25;
+    margin-top: 0.375em;
   }
   @media (min-width: 70em) {
     .proposals.finalists .text .category,
-    .proposals.finalists .organization {
+    .proposals.finalists .title {
       font-size: 1.5vmax;
       line-height: 1.25;
     }
-    .proposals.finalists h3 {
+    .proposals.finalists .organization {
       font-size: 2.25vmax;
       line-height: 1.25;
     }
@@ -750,11 +752,11 @@
   }
 
   @media (min-width: 60em) {
-    .proposals:not(.finalists) .organization,
+    .proposals:not(.finalists) .title,
     .proposals:not(.finalists) .description {
       font-size: 0.875em;
     }
-    .proposals:not(.finalists) h3 {
+    .proposals:not(.finalists) .organization {
       line-height: 1.3125; /* Same line height as the organization and description (1.5 * 0.875) */
     }
   }
@@ -1065,7 +1067,7 @@ details summary:focus::-webkit-details-marker {
 
 
 @media (min-width: 70em) {
-  .proposals.winners h3 {
+  .proposals.winners .organization {
     font-size: 3vmax;
     line-height: 1.25;
   }
@@ -1268,20 +1270,20 @@ details summary:focus::-webkit-details-marker {
   .proposals.finalists li:nth-child(5) .image {
     flex-basis: 50%;
   }
-  .proposals.finalists li:nth-child(2) .text h3,
-  .proposals.finalists li:nth-child(3) .text h3,
-  .proposals.finalists li:nth-child(4) .text h3,
-  .proposals.finalists li:nth-child(5) .text h3 {
+  .proposals.finalists li:nth-child(2) .text .organization,
+  .proposals.finalists li:nth-child(3) .text .organization,
+  .proposals.finalists li:nth-child(4) .text .organization,
+  .proposals.finalists li:nth-child(5) .text .organization {
     font-size: 1.125em;
   }
   .proposals.finalists li:nth-child(2) .category,
   .proposals.finalists li:nth-child(3) .category,
   .proposals.finalists li:nth-child(4) .category,
   .proposals.finalists li:nth-child(5) .category,
-  .proposals.finalists li:nth-child(2) .organization,
-  .proposals.finalists li:nth-child(3) .organization,
-  .proposals.finalists li:nth-child(4) .organization,
-  .proposals.finalists li:nth-child(5) .organization {
+  .proposals.finalists li:nth-child(2) .title,
+  .proposals.finalists li:nth-child(3) .title,
+  .proposals.finalists li:nth-child(4) .title,
+  .proposals.finalists li:nth-child(5) .title {
     font-size: 0.875em;
     font-weight: normal;
     line-height: 1.5;
