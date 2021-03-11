@@ -99,11 +99,6 @@ function getArrayFromString(string) {
     .replace(/", '/g, '", "')
     .replace(/\['/g, '["')
     .replace(/'\]/g, '"]');
-  //string = `${string}`.replace(/'/g, '"');
-  // console.log('parsing JSON string: ' + string);
-  // console.log('');
-  // console.log('');
-  // console.log('');
 
   // return JSON.parse(string);
 
@@ -328,14 +323,6 @@ function mapAllColumnNames(data) {
     }
   }
 
-  // for (let name in columnNamesMap) {
-  //   if (columnNamesMap.hasOwnProperty(name)) {
-  //     if (data[name] !== undefined) {
-  //       delete data[name];
-  //     }
-  //   }
-  // }
-
   return newData;
 }
 
@@ -394,14 +381,6 @@ function createMarkdownFile(data) {
         .concat(getArrayFromString(data.live_metrics))
         .concat(getArrayFromString(data.play_metrics));
 
-  /*
-  let metrics_other = getArrayFromString(data.create_other)
-        .concat(getArrayFromString(data.connect_other))
-        .concat(getArrayFromString(data.learn_other))
-        .concat(getArrayFromString(data.live_other))
-        .concat(getArrayFromString(data.play_other))
-  */
-
   const metricsOtherColumns = [
     `[Learn_Other] 4. Select any additional LA2050 goals your application will impact.Select all that apply.`,
     `[Create_Other] 4. Select any additional LA2050 goals your application will impact.Select all that apply.`,
@@ -411,14 +390,6 @@ function createMarkdownFile(data) {
   ];
 
   const reducer = (accumulator, currentValue) => accumulator.concat(currentValue);
-  
-  // if (filename == "the-urban-warehouse") {
-  //   console.log({answer: data["5. Please select any other LA2050 goal categories your proposal will impact (a)"]});
-  //     console.log(data["5. Please select any other LA2050 goal categories your proposal will impact (b)"]);
-  //       console.log(data["5. Please select any other LA2050 goal categories your proposal will impact (c)"]);
-  //         console.log(data["5. Please select any other LA2050 goal categories your proposal will impact (d)"]);
-  //           console.log(data["5. Please select any other LA2050 goal categories your proposal will impact (e)"]);
-  // }
 
   let metrics_other = metricsOtherColumns
     .map(name => getArrayFromString(data[name]))
@@ -430,12 +401,6 @@ function createMarkdownFile(data) {
     delete data[name];
   });
 
-  // let metrics_other = getArrayFromString(data[`4. Please select any other LA2050 goal categories your proposal will impact (v)`])
-  //             .concat(getArrayFromString(data[`4. Please select any other LA2050 goal categories your proposal will impact (w)`]))
-  //             .concat(getArrayFromString(data[`4. Please select any other LA2050 goal categories your proposal will impact (x)`]))
-  //             .concat(getArrayFromString(data[`5. Please select any other LA2050 goal categories your proposal will impact (y)`]))
-  //             .concat(getArrayFromString(data[`4. Please select any other LA2050 goal categories your proposal will impact (z)`]))
-
   data[`Which metrics will you impact?`] = metrics;
   data[`Indicate any additional LA2050 goals your project will impact.`]   = metrics_other;
 
@@ -445,49 +410,6 @@ function createMarkdownFile(data) {
   let category = data["Which LA2050 goal will your submission most impact?"].toLowerCase().replace("la is the best place to ", "");
   delete data.category
   data.category = category
-
-  // if (!data.category) data.category = 'connect';
-  // 
-  // if (data.category.toLowerCase().includes('connect')) {
-  //   delete data.category;
-  //   data.category = "connect";
-  // } else if (data.category.toLowerCase().includes('play')) {
-  //   delete data.category;
-  //   data.category = "play";
-  // } else if (data.category.toLowerCase().includes('learn')) {
-  //   delete data.category;
-  //   data.category = "learn";
-  // } else if (data.category.toLowerCase().includes('live')) {
-  //   delete data.category;
-  //   data.category = "live";
-  // } else if (data.category.toLowerCase().includes('create')) {
-  //   delete data.category;
-  //   data.category = "create";
-  // }
-  
-  // if (!category) category = data.category.toLowerCase();
-  // data.category = category;
-
-  // data.uri = '/' + category + '/' + filename + '/';
-
-  // data.organization_website = data.organization_website.split('; ');
-  // data.organization_twitter = data.organization_twitter.split('; ');
-  // data.organization_facebook = data.organization_facebook.split('; ');
-  // data.organization_instagram = data.organization_instagram.split('; ');
-  /*
-  data.project_proposal_mobilize = getArrayFromString(data.project_proposal_mobilize);
-  data.project_video = data.project_video.replace('watch', 'embed');
-  */
-
-  /*
-  // TEMPORARY: The project video and newsletter fields might be mixed up
-  // https://stackoverflow.com/questions/6680825/return-string-without-trailing-slash#6680877
-  if (!data.link_newsletter && data.project_video && data.project_video != "" && data.project_video.replace(/\/$/, "") == data.organization_website.replace(/\/$/, "")) {
-    // data.link_newsletter = data.project_video;
-    data.project_video = "";
-  }
-  if (!data.project_video) data.project_video = '';
-  */
 
   // Handle empty instagram values
   if (data.organization_instagram === '@') {
@@ -507,7 +429,7 @@ function createMarkdownFile(data) {
   // TODO 2021: Enable and use to fix invalid video URLs. for example:
   // www.youtube.com/user/YIWantChange/
   // (missing https://)
-  
+
   if (data.project_video && data.project_video != "" && !data.project_video.startsWith("http")) {
     console.error(`Found an invalid project_video URL: ${data.project_video}`);
   }
@@ -516,100 +438,6 @@ function createMarkdownFile(data) {
   data.order = orderCursors[data.category]++;
 
   // if (!data.project_image) data.project_image = '/assets/images/' + category + '/' + filename + '.jpg';
-  
-  
-  let toDelete = [
-    '# Applicants',
-    'Decision:',
-    'Current stage',
-    `ABOUT YOU *  | Your name:`,
-    `ABOUT YOU *  | Your phone number:`,
-    `ABOUT YOU *  | Your email:`,
-    `Has your organization previously applied for a My LA2050 grant? Check all that apply*:`,
-    `How large is your organization?*`,
-    `If yes, how many collaborators are involved in this proposal? `,
-    `Is this proposal a collaboration? `,
-    `What is your organization‰Ûªs annual operating budget?*`,
-    `10. Please provide a timeline and description of the activities for this project (for the duration of the grant period - approx. July 2020 - July 2021; a high-level summary is sufficient). `,
-    `13. Please include a line-item budget describing how you will use the grant funding to implement your project or activities. Please provide a budget assuming your organization wins the full $100,000 grant. `,
-    `Has your organization previously applied for a My LA2050 grant? Check all that apply*`,
-    `How can people reach these organizations online? | Organization(s) Facebook page(s):`,
-    `How can people reach these organizations online? | Organization(s) Instagram username(s):`,
-    `How can people reach these organizations online? | Organization(s) Twitter handle(s):`,
-    `How can people reach these organizations online? | Organization(s) website(s):`,
-    `How did you hear about this challenge?`,
-    'learn_metrics',
-    'create_metrics',
-    'play_metrics',
-    'connect_metrics',
-    'live_metrics',
-    // `14. If you are submitting a collaborative proposal, please describe the specific role of partner organization/s in the project.`,
-    `What is your organization’s annual operating budget?*`
-    // 'Application name',
-    // 'Application state',
-    // 'Application status',
-    // 'Awarded',
-    // '3. Please select the primary LA2050 goal your submission will impact:',
-    // 'Current stage',
-    // 'Moderation Decision',
-    // 'What is your organization’s annual operating budget?*',
-    // `13. Please include a detailed line-item budget describing how you will use the grant funding to implement your project or activities.`,
-    // 'How can people reach these organizations online? | Organization(s) Facebook page(s):',
-    // 'How can people reach these organizations online? | Organization(s) Instagram username(s):',
-    // 'How can people reach these organizations online? | Organization(s) Twitter handle(s):',
-    // 'How can people reach these organizations online? | Organization(s) website(s):',
-    // `How did you hear about this challenge?`,
-    // 'If yes, how many collaborators are involved in this proposal?',
-    // 'Is this proposal a collaboration?',
-    // 'ABOUT YOU * | Your phone number:',
-    // 'ABOUT YOU * | Your name:',
-    // 'ABOUT YOU * | Your phone number:',
-    // 'ABOUT YOU * | Your email:',
-    // '10. Please list at least one major barrier, challenge, or opposing group(s) you anticipate facing. What is your strategy for overcoming this? *',
-    // '11. Are there other organizations doing similar work (whether complementary or competitive) and what differentiates yours? *',
-    // '14. If your proposal will cost more than the amount requested, how will you cover the additional costs?*',
-    // '9. If you are submitting a collaborative proposal, please describe the role of partner organization/s in the project.*',
-    // 'How large is your organization?*',
-    // 'Has your organization previously applied for a My LA2050 grant? Check all that apply*',
-    // 'learn_other',
-    // 'create_other',
-    // 'play_other',
-    // 'connect_other',
-    // 'live_other'
-  ];
-  
-  
-  toDelete.forEach(name => {
-    delete data[name];
-  })
-
-//   for (let key of Object.keys(data)) {
-//     if (typeof(data[key]) !== "string") continue;
-//     data[key] = data[key].replace(/\\r\\n/g, `
-// `);
-//   }
-
-
-
-// if (filename == "the-urban-warehouse") {
-//   console.log(data["Please explain how you will define and measure success for your project."]);
-// }
-
-  // for (let key of Object.keys(data)) {
-  //   if (typeof(data[key]) !== "string") continue;
-  // 
-  //   // if (data[key].startsWith(`"`) && data[key].endsWith(`"`)) {
-  //   //   console.log("Data start with a quote");
-  //   // }
-  //   // console.log(data[key]);
-  //   // data[key] = data[key].replace(/^"/g, "").replace(/"$/g, "");
-  // }
-
-  // const applicationIDs = {
-  //   'Los Angeles Conservation Corps': '5962365920',
-  //   `Lost Angels Children's Project`: '2827931015',
-  // 
-  // }
 
   // console.dir(data);
   let writePath = '../_' + data.year + '/' + data.category; // Example: _/2019/connect
@@ -754,10 +582,6 @@ function getApplicationID(data) {
     return string.toLowerCase().replace(/[^a-z]/g, "");
   }
   for (let record of recordsWithApplicationID) {
-    // if (data["ABOUT YOU *  | Your name:"] === "Lauren Arevalo") {
-    //   console.log(alphaOnly(record["User"]));
-    //   console.log(alphaOnly(data["ABOUT YOU *  | Your name:"]));
-    // }
     if (alphaOnly(record["Application"]) === alphaOnly(data["Organization Details: | Organization name: *"]) ||
         alphaOnly(record["User"]) === alphaOnly(data["ABOUT YOU *  | Your name:"]) ||
         alphaOnly(record["Email"]) === alphaOnly(data["ABOUT YOU *  | Your email:"])
