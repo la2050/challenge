@@ -104,7 +104,10 @@ function getArrayFromString(string) {
   // console.log('');
   // console.log('');
   // console.log('');
-  return JSON.parse(string);
+
+  // return JSON.parse(string);
+
+  return string.split(",");
 }
 
 function getArrayFromDelimitedString(string) {
@@ -150,10 +153,9 @@ function getRandomInt(min, max) {
 
 function getOrganizationType(type) {
   // console.log("getOrganizationType: " + type);
-  const organizationTypesMap = {
-    "Decision:"
-    :"decision",
 
+  // TRICKY: The keys in this map should be lowercase
+  const organizationTypesMap = {
     "for profit"
     :"For profit business",
 
@@ -178,6 +180,9 @@ function getOrganizationType(type) {
     "non-profit organization"
     :"Nonprofit",
 
+    "non-profit organization with independent 501(c)(3) status"
+    :"Nonprofit",
+
     "other"
     :"Other",
 
@@ -189,32 +194,32 @@ function getOrganizationType(type) {
     // console.log("organizationTypesMap[type.toLowerCase()]: " + organizationTypesMap[type.toLowerCase()]);
     return organizationTypesMap[type.toLowerCase()];
   } else {
-    // console.log("Unexpected organization type: " + type);
+    console.log(`Unexpected organization type: “${type}”`);
     return type;
   }
 }
 
 function mapAllColumnNames(data) {
   const columnNamesMap = {
-    'Application id':
+    'Application ID':
     'application_id',
 
-    "Project Title"
+    "Application title:"
     :"title",
 
-    "Describe your organization(s):"
+    "Describe your organization:"
     :"organization_description",
 
-    "Enter your video URL here:"
+    "17. If you'd like to submit a video as part of your application, enter the URL here:"
     :"project_video",
 
-    "Please share a direct link for people to donate to your organization: "
+    "Share a direct link for people to donate to your organization:"
     :"link_donate",
 
-    "Please share a direct link for people to sign up for volunteer opportunities:"
+    "Share a direct link for people to sign up for volunteer opportunities:"
     :"link_volunteer",
 
-    "Please share the direct link(s) for people to sign up for your newsletter(s):"
+    "Share a direct link for people to sign up for your newsletter:"
     :"link_newsletter",
 
     "Organization Details: | City:"
@@ -223,194 +228,125 @@ function mapAllColumnNames(data) {
     "Organization Details: | Mailing address: *"
     :"mailing_address_street",
 
-    "Organization Details: | Organization EIN: *"
+    "Organization details: | Organization EIN: *"
     :"ein",
 
-    "Organization Details: | Organization name: *"
+    "Organization details: | Organization name:"
     :"organization_name",
 
     "Organization Details: | State:"
     :"mailing_address_state",
 
-    "Organization Details: | ZIP:"
+    "Organization details: | ZIP: *"
     :"mailing_address_zip",
 
-    "How can people reach your organization online? | Organization(s) website(s):"
+    "How can people reach your organization online? | Organization website:"
     : "organization_website",
 
-    "How can people reach your organization online? | Organization(s) Twitter handle(s):"
+    "How can people reach your organization online? | Organization Twitter handle:"
     : "organization_twitter",
 
-    "How can people reach your organization online? | Organization(s) Facebook page(s):"
+    "How can people reach your organization online? | Organization Facebook page:"
     : "organization_facebook",
 
-    "How can people reach your organization online? | Organization(s) Instagram username(s):"
+    "How can people reach your organization online? | Organization Instagram handle:"
     : "organization_instagram",
 
-    "1. In one to two sentences, please describe the mission of your organization:"
-    :"Please describe the mission of your organization.",
+    "Organization mission statement: (350 character limit)"
+    :"Describe the mission of your organization.",
 
-    "2. In one to three sentences, please succinctly describe the project or activities your organization would like support for:"
+    "1. Please provide a one- to three-sentence blurb summarizing the project, program, or initiative this grant will support.&nbsp;"
     :"project_description",
 
-    "3. Please select the primary LA2050 goal your submission will impact:"
+    "[Q4_Goal_Category] 2. Please select the primary LA2050 goal your application will impact:"
     :"Which LA2050 goal will your submission most impact?",
 
-    "4. Which of the following CONNECT metrics will your proposal impact?"
+    "[Connect_Metrics] 3. Which of the following CONNECT metrics will you impact?"
     //:"Which of the following CONNECT metrics will your proposal impact?",
     :"connect_metrics",
 
-    "4. Which of the following CREATE metrics will your proposal impact?"
+    "[Create_Metrics] 3. Which of the following CREATE metrics will you impact?"
     //:"Which of the following CREATE metrics will your proposal impact?",
     :"create_metrics",
 
-    "4. Which of the following LEARN metrics will your proposal impact? "
+    "[Learn_Metrics] 3. Which of the following LEARN metrics will you impact?"
     //:"Which of the following LEARN metrics will your proposal impact?",
     :"learn_metrics",
 
-    "4. Which of the following LIVE metrics will your proposal impact?"
+    "[Live_Metrics] 3. Which of the following LIVE metrics will you impact?"
     //:"Which of the following LIVE metrics will your proposal impact?",
     :"live_metrics",
 
-    "4. Which of the following PLAY metrics will your proposal impact?"
+    "[Play_Metrics] 3. Which of the following PLAY metrics will you impact?"
     //:"Which of the following PLAY metrics will your proposal impact?",
     :"play_metrics",
 
     // "5. Please select any other LA2050 goal categories your proposal will impact"
     // :"Are there any other LA2050 goal categories that your proposal will impact?",
 
-    "6. In which areas of Los Angeles will you be directly working? "
+    "5. In which areas of Los Angeles will you be directly working?Select all that apply."
     :"In which areas of Los Angeles will you be directly working?",
 
-    "7. In what stage of innovation is this project?"
-    :"In what stage of innovation is this project?",
+    "6. In what stage of innovation is this project, program, or initiative?"
+    :"In what stage of innovation is this project, program, or initiative?",
 
-    "8a. What is the context for this project? What is the need you’re responding to?"
-    :"What is the need you’re responding to?",
+    "7. What is the problem that you are seeking to address?"
+    :"What is the problem that you are seeking to address?",
 
-    "8b. Why is this project important to the work of your organization? Why is your organization uniquely suited to take this on? "
-    :"Why is this project important to the work of your organization?",
+    "8. Describe the project, program, or initiative that this grant will support to address the problem identified in Question 7."
+    :"Describe the project, program, or initiative that this grant will support to address the problem identified.",
 
-    "9. Please explain how you will define and measure success for your project. What is your vision for success for this project?"
-    :"Please explain how you will define and measure success for your project.",
+    "10. If this is an existing project, program, or initiative, describe how you are measuring its impact and what evidence you have that it is working to address the problem you've identified.&nbsp;ORIf this is a proposed or early-stage project, program, or initiative, describe how you will define and measure success."
+    :"What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?",
 
-    "11. Approximately how many people will be… | a. Directly impacted by this proposal? (#)"
-    :"Approximately how many people will be directly impacted by this proposal?",
+    "13. Approximately how many people will be directly and indirectly impacted by this project, program, or initiative? | a. Direct impact (#):"
+    :"Approximately how many people will be directly impacted by this project, program, or initiative?",
 
-    "11. Approximately how many people will be… | b. Indirectly impacted by this proposal? (#)"
-    :"Approximately how many people will be indirectly impacted by this proposal?",
+    "13. Approximately how many people will be directly and indirectly impacted by this project, program, or initiative? | a. Indirect impact (#):"
+    :"Approximately how many people will be indirectly impacted by this project, program, or initiative?",
 
-    "12. Please describe the broader impact of your proposal. Depending on your proposal, you may want to include a description of its impact on the environment and physical space, its impact on policy, impact on the future of the city, a description of the population being served by this proposal, an explanation of the numbers provided in question 11, or other intangibles."
-    :"Please describe the broader impact of your proposal.",
+    "9. Describe how Los Angeles County will be different if your work is successful."
+    :"Describe how Los Angeles County will be different if your work is successful.",
 
-    "14. If you are submitting a collaborative proposal, please describe the specific role of partner organization/s in the project."
-    :"If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.",
+    "15. If you are submitting a collaborative proposal, describe the specific role of the partner organization(s) in the project, program, or initiative. If you are not submitting a collaborative proposal, leave this question blank."
+    :"Describe the role of collaborating organizations on this project.",
 
-    "15. LA2050 will serve as a partner on this project. Which of LA2050’s resources will be of the most value to you? "
+    "16. As a potential grantee, which of LA2050’s resources would be of the most value to you? * Select all that apply."
     :"Which of LA2050’s resources will be of the most value to you?",
 
-    "Please list the organizations collaborating on this proposal:"
+    "List the collaborating organizations:"
     :"Please list the organizations collaborating on this proposal."
   }
 
-  // const columnNamesMap = {
-  //     'Application id': 'application_id',
-  //     'Project Title': 'title',
-  //     '2. In one to three sentences, please succinctly describe the project or activities your organization would like support for:': 'project_description',
-  //     'Organization Details: | Organization name: *' : 'organization_name',
-  //     'Describe your organization(s):': 'organization_description',
-  //     'Enter your video URL here:' : 'project_video',
-  //     'Please share the direct link(s) for people to sign up for your newsletter(s):': 'link_newsletter',
-  //     'How can people reach your organization online? | Organization(s) website(s):': 'organization_website',
-  //     'How can people reach your organization online? | Organization(s) Twitter handle(s):': 'organization_twitter',
-  //     'How can people reach your organization online? | Organization(s) Facebook page(s):' : 'organization_facebook',
-  //     'How can people reach your organization online? | Organization(s) Instagram username(s):': 'organization_instagram',
-  //     'Please share a direct link for people to donate to your organization:': 'link_donate',
-  //     'Please share a direct link for people to sign up for volunteer opportunities:': 'link_volunteer',
-  //     '1. In one to two sentences, please describe the mission of your organization:': 'organization_activity',
-  //     '8. Briefly tell us a story that demonstrates how your organization turns inspiration into impact.': 'project_proposal_description',
-  //     '5. In which areas of Los Angeles will you be directly working?': 'project_areas',
-  //     '15. LA2050 will serve as a partner on this project. Which of LA2050’s resources will be of the most value to you?': 'project_la2050_community_resources',
-  //     "6. In what stage of innovation is this project?": 'project_innovation_stage',
-  //     'Please list the organizations collaborating on this proposal:': 'project_collaborators',
-  //     '12. Please explain how you will define and measure success for your project.*' : 'project_measure',
-  //     '4. Which of the following LEARN metrics will your activation impact?' : 'learn_metrics',
-  //     '4. Which of the following CREATE metrics will your activation impact?' : 'create_metrics',
-  //     '4. Which of the following PLAY metrics will your activation impact?' : 'play_metrics',
-  //     '4. Which of the following CONNECT metrics will your activation impact?' : 'connect_metrics',
-  //     '4. Which of the following LIVE metrics will your activation impact?' : 'live_metrics',
-  //     'Learn_Other' : 'learn_other',
-  //     'Create_Other' : 'create_other',
-  //     'Play_Other' : 'play_other',
-  //     'Connect_Other' : 'connect_other',
-  //     'Live_Other' : 'live_other',
-  //     'Organization Details: | Organization EIN: *': 'ein',
-  //     'Organization Details: | Mailing address: *': 'mailing_address_street',
-  //     'Organization Details: | City:': 'mailing_address_city',
-  //     'Organization Details: | State:': 'mailing_address_state',
-  //     'Organization Details: | ZIP:': 'mailing_address_zip',
-  //     'Application label': 'category',
-  // }
+  const newData = {};
 
   for (let name in columnNamesMap) {
     if (columnNamesMap.hasOwnProperty(name)) {
       if (data[name] !== undefined) {
-        data[columnNamesMap[name]] = data[name];
+        newData[columnNamesMap[name]] = data[name];
       }
     }
   }
 
-  for (let name in columnNamesMap) {
-    if (columnNamesMap.hasOwnProperty(name)) {
-      if (data[name] !== undefined) {
-        delete data[name];
-      }
-    }
-  }
-
-  /*
-  const bestPlaceMap = {
-    'connect7': 'project_proposal_best_place',
-    'create7': 'project_proposal_best_place',
-    'learn7': 'project_proposal_best_place',
-    'live7': 'project_proposal_best_place',
-    'play7': 'project_proposal_best_place'
-  }
-  */
-
-  // const bestPlaceMap = {
-  //   '7. Please provide the details of your project or activities, including: (1)': 'project_proposal_best_place',
-  //   '7. Please provide the details of your project or activities, including: (2)': 'project_proposal_best_place',
-  //   '7. Please provide the details of your project or activities, including: (3)': 'project_proposal_best_place',
-  //   '7. Please provide the details of your project or activities, including: (4)': 'project_proposal_best_place',
-  //   '7. Please provide the details of your project or activities, including: (5)': 'project_proposal_best_place'
-  // }
-  // 
-  // for (let name in bestPlaceMap) {
-  //   if (bestPlaceMap.hasOwnProperty(name)) {
-  //     if (data[name] !== undefined && data[name] != '') {
-  //       data[bestPlaceMap[name]] = data[name];
-  //     }
-  //   }
-  // }
-  // 
-  // for (let name in bestPlaceMap) {
-  //   if (bestPlaceMap.hasOwnProperty(name)) {
+  // for (let name in columnNamesMap) {
+  //   if (columnNamesMap.hasOwnProperty(name)) {
   //     if (data[name] !== undefined) {
   //       delete data[name];
   //     }
   //   }
   // }
 
+  return newData;
 }
 
 function createMarkdownFile(data) {
 
-  if (data["Decision:"]     !== "Approved") return;
+  // if (data["Decision:"]     !== "Approved") return;
 
   // data.application_id = getApplicationID(data) || "";
 
-  mapAllColumnNames(data);
+  data = mapAllColumnNames(data);
+  // console.log(`createMarkdownFile: ${data['title']}`);
 
   data = changeNAtoEmpty(data);
   data = addMailTo(data);
@@ -430,11 +366,6 @@ function createMarkdownFile(data) {
 
   // console.log("data.organization_description: " + data.organization_description);
 
-  // console.log('createMarkdownFile for ' + data.organization_name);
-
-  // Page title
-  //data.title = data.title + ' — My LA2050 Grants Challenge';
-
   // https://stackoverflow.com/questions/1117584/generating-guids-in-ruby#answer-1126031
   // https://gist.github.com/emacip/b28ba7e9203a38d440e23c38586c303d
   // >> rand(36**8).to_s(36)
@@ -443,8 +374,8 @@ function createMarkdownFile(data) {
 
   data[`In which areas of Los Angeles will you be directly working?`] =
     getArrayFromString(data[`In which areas of Los Angeles will you be directly working?`]);
-  data[`Which of LA2050’s resources will be of the most value to you?`] =
-    getArrayFromString(data[`Which of LA2050’s resources will be of the most value to you?`]);
+  // data[`Which of LA2050’s resources will be of the most value to you?`] =
+  //   getArrayFromString(data[`Which of LA2050’s resources will be of the most value to you?`]);
   if (data['Please list the organizations collaborating on this proposal.'] &&
       data['Please list the organizations collaborating on this proposal.'] != "") {
     let items = getArrayFromDelimitedString(data[`Please list the organizations collaborating on this proposal.`]);
@@ -472,11 +403,11 @@ function createMarkdownFile(data) {
   */
 
   const metricsOtherColumns = [
-    `5. Please select any other LA2050 goal categories your proposal will impact (a)`,
-    `5. Please select any other LA2050 goal categories your proposal will impact (b)`,
-    `5. Please select any other LA2050 goal categories your proposal will impact (c)`,
-    `5. Please select any other LA2050 goal categories your proposal will impact (d)`,
-    `5. Please select any other LA2050 goal categories your proposal will impact (e)`
+    `[Learn_Other] 4. Select any additional LA2050 goals your application will impact.Select all that apply.`,
+    `[Create_Other] 4. Select any additional LA2050 goals your application will impact.Select all that apply.`,
+    `[Play_Other] 4. Select any additional LA2050 goals your application will impact.Select all that apply.`,
+    `[Connect_Other] 4. Select any additional LA2050 goals your application will impact.Select all that apply.`,
+    `[Live_Other] 4. Select any additional LA2050 goals your application will impact.Select all that apply.`
   ];
 
   const reducer = (accumulator, currentValue) => accumulator.concat(currentValue);
@@ -505,10 +436,10 @@ function createMarkdownFile(data) {
   //             .concat(getArrayFromString(data[`5. Please select any other LA2050 goal categories your proposal will impact (y)`]))
   //             .concat(getArrayFromString(data[`4. Please select any other LA2050 goal categories your proposal will impact (z)`]))
 
-  data[`Which metrics will your submission impact?`] = metrics;
-  data[`Are there any other LA2050 goal categories that your proposal will impact?`]   = metrics_other;
+  data[`Which metrics will you impact?`] = metrics;
+  data[`Indicate any additional LA2050 goals your project will impact.`]   = metrics_other;
 
-  data.year = 2020;
+  data.year = 2021;
 
   // OPTIONAL: Move category to the bottom
   let category = data["Which LA2050 goal will your submission most impact?"].toLowerCase().replace("la is the best place to ", "");
@@ -689,6 +620,10 @@ function createMarkdownFile(data) {
   }
   data.application_id = String(data.application_id);
 
+  console.log(`writing file: ${filename}`);
+
+  // console.log(data);
+
   try {
     // if (!data.application_id) throw new Error("application_id is missing");
     // https://www.npmjs.com/package/js-yaml#safedump-object---options-
@@ -783,7 +718,7 @@ function generateCollections(file_path) {
   let records = parse(input, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
 
   function getValueForComparison(data) {
-    return stringToURI(fixDataCharactersInString(data['Organization Details: | Organization name: *']))
+    return stringToURI(fixDataCharactersInString(data['Organization details: | Organization name:']))
   }
 
   records.sort((a, b) => {
@@ -808,7 +743,7 @@ function generateCollections(file_path) {
   return records;
 }
 
-const recordsWithApplicationID = parse(fs.readFileSync('../../_data/application_id.csv', 'utf8'), {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
+const recordsWithApplicationID = parse(fs.readFileSync('../../_data/2021/Application Export Test 3.3.21 - Sheet1.csv', 'utf8'), {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
 function getApplicationID(data) {
   let matches = [];
   function alphaOnly(string) {
@@ -840,5 +775,5 @@ function getApplicationID(data) {
     console.log("Couldn’t find application ID for: " + data["Organization Details: | Organization name: *"]);
   }
 }
-generateCollections('../../_data/2020 Challenge Proposals, from SM Apply, with Decision and ID (April 21, 10am) - newdata421_Apr 21 2020 08_01 AM (PDT).csv');
+generateCollections('../../_data/2021/Application Export Test 3.3.21 - Sheet1.csv');
 
