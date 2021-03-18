@@ -339,8 +339,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - _node
+  - _jekyll
   - sitemap.txt
-  - test-finalists.txt
   - assets/images/goals/original
   - assets/images/home/original
   - assets/images/vote/original
