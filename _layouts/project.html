@@ -299,7 +299,7 @@ stylesheets:
 </p>
 {% endif %}
 
-{% if page.year == 2021 %}
+{% if site.disqus_embed_url %}
 <hr />
 
 <div class="comments">
@@ -315,7 +315,7 @@ stylesheets:
     (function() {
         var d = document, s = d.createElement('script');
 
-        s.src = 'https://2021-challenge-la2050-org.disqus.com/embed.js';
+        s.src = '{{ site.disqus_embed_url }}';
 
         s.setAttribute('data-timestamp', +new Date());
         (d.head || d.body).appendChild(s);

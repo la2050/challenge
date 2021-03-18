@@ -9,6 +9,7 @@ mailing_list_url: https://la2050.us6.list-manage.com/subscribe/post?u=81b6d7b4ef
 office_hours_url: /information-sessions
 # submission_url: https://challengela2050.smapply.io
 submission_url: /apply
+disqus_embed_url: https://2021-challenge-la2050-org.disqus.com/embed.js
 
 # Our form:
 vote_url: /vote/form/
