@@ -36,7 +36,7 @@ stylesheets:
     {% endif %}
   </a>
 </p>
-<h1 style="margin-bottom: 0">{{ page.title }}</h1>
+<h1 style="margin-bottom: 0">{{ page.organization_name }}</h1>
 </div>
 
 {% if page.organization_instagram contains "http" %}
@@ -112,7 +112,7 @@ stylesheets:
 
 <div class="proposal-description">
 {% unless page['organization_name'] == page['title'] %}
-<h2 style="margin-top: 0.75rem;" class="organization">{{ page.organization_name }}</h2>
+<h2 style="margin-top: 0.75rem;" class="organization">{{ page.title }}</h2>
 {% endunless %}
 <!-- TODO: Handle long lists of collaborators:
   /learn/wish-academy-high-school/
@@ -299,6 +299,7 @@ stylesheets:
 </p>
 {% endif %}
 
+{% if page.year == 2021 %}
 <hr />
 
 <div class="comments">
@@ -311,15 +312,17 @@ stylesheets:
         this.page.url = 'https://challenge.la2050.org{{ page.url }}';  // Replace PAGE_URL with your page's canonical URL variable
         this.page.identifier = '{{ page.application_id }}'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+    (function() {
         var d = document, s = d.createElement('script');
 
-        s.src = 'https://2020-challenge-la2050-org.disqus.com/embed.js';
-        
+        s.src = 'https://2021-challenge-la2050-org.disqus.com/embed.js';
+
         s.setAttribute('data-timestamp', +new Date());
         (d.head || d.body).appendChild(s);
     })();
-</script>  
+</script>
+{% endif %}
+
 {% endunless %}
 {% endif %}
 

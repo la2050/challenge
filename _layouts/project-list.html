@@ -533,9 +533,9 @@ main > h1:first-child::before {
           <span class="category" style="text-decoration: none; text-transform: none; letter-spacing: 0; font-weight: 400;"><strong style="color: var(--midnight)">{{ winner_award_place }}, </strong> <span style="font-weight: 600; color: var(--midnight)">{{ winner_award_amount }}</span>{% comment %}<br /><span style="text-transform: uppercase; font-weight: 700; letter-spacing: 0.05em;" onclick="window.location.href = '/{{ data['category']}}/#projects'; event.preventDefault()">{{ data['category'] }}</span> <span style="font-weight: 700; letter-spacing: 0.05em;">Winner</span>{% endcomment %} {% include ribbon.svg %}</span>
         </p>
         {% endif %}
-        <h3>{{ data['organization_name'] }}</h3>
+        <h3 class="organization">{{ data['organization_name'] }}</h3>
         {% unless data['organization_name'] == data['title'] %}
-        <p class="organization">{{ data['title'] }}</p>
+        <p class="title">{{ data['title'] }}</p>
         {% endunless %}
         {% unless page.winners %}
         <p class="organization-type">{{ data.organization_description }}</p>
@@ -617,10 +617,10 @@ main > h1:first-child::before {
       {% endif %}
       />
       </span>
+      <h3 class="organization">{{ data['organization_name'] }}</h3>
       {% unless data['organization_name'] == data['title'] %}
-      <p class="organization" >{{ data['organization_name'] }}</p>
+      <p class="title" >{{ data['title'] }}</p>
       {% endunless %}
-      <h3>{{ data['title'] }}</h3>
       {% unless page.finalists %}
       <p class="description">{{ data['project_description'] }}</p>
       {% endunless %}
