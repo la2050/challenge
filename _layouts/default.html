@@ -107,14 +107,18 @@
   {% if page.url == "/winners/" %}
     {% assign redirect_to_random_winners_page = true %}
   {% endif %}
-  {% if page.url == "/" and site.phase >= site.WINNERS_ANNOUNCED %}
+  {% if page.url == "/"
+        and site.phase >= site.WINNERS_ANNOUNCED
+        and site.redirect_home_page_to_winners == true %}
     {% assign redirect_to_random_winners_page = true %}
   {% endif %}
 
   {% if page.url == "/finalists/" %}
     {% assign redirect_to_random_finalist_page = true %}
   {% endif %}
-  {% if page.url == "/" and site.phase >= site.FINALISTS_ANNOUNCED %}
+  {% if page.url == "/"
+        and site.phase >= site.FINALISTS_ANNOUNCED
+        and site.redirect_home_page_to_finalists == true %}
     {% assign redirect_to_random_finalist_page = true %}
   {% endif %}
 

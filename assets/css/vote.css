@@ -424,8 +424,8 @@
       grid-column: 1/-1 !important;
       max-width: none;
       grid-template-columns: calc(50% - 0.375em) calc(50% - 0.375em); /* SHIM: 1fr 1fr would be better here, but causes uneven columns */
-      grid-column-gap: 0.75em;
-      grid-row-gap: 4em;
+      /* grid-column-gap: 0.75em;
+      grid-row-gap: 4em; */
       display: grid;
       margin-bottom: 6em;
     }
@@ -434,8 +434,8 @@
   @media (min-width: 30em) {
     form .category ul {
       grid-template-columns: repeat( auto-fit, minmax(15em, 1fr) );
-      grid-column-gap: 1.5em;
-      grid-row-gap: 6em;
+      /* grid-column-gap: 1.5em;
+      grid-row-gap: 6em; */
       width: auto;
       overflow: visible;
     }
