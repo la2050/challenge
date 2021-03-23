@@ -19,6 +19,9 @@ voting_postponed: false
 
 show_early_entries: false
 finalists_chosen_by_public_vote: false
+redirect_home_page_to_finalists: false
+redirect_home_page_to_winners: false
+
 redirect_winners_url: https://archive.la2050.org/search/?keywords=%222020+winner%22
 redirect_finalists_url: https://archive.la2050.org/search/?keywords=%222020+winner%22
 redirect_entries_url: https://archive.la2050.org/search/?keywords=2020

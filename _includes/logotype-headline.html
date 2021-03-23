@@ -1,7 +1,7 @@
 <h2>
-  {% if site.phase >= site.WINNERS_ANNOUNCED %}
+  {% if site.phase >= site.WINNERS_ANNOUNCED and site.redirect_home_page_to_winners == true %}
   <a href="/winners/">
-  {% elsif site.phase >= site.FINALISTS_ANNOUNCED %}
+  {% elsif site.phase >= site.FINALISTS_ANNOUNCED and site.redirect_home_page_to_finalists == true %}
   <a href="/finalists/">
   {% else %}
   <a href="/">

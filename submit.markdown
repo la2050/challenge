@@ -11,7 +11,7 @@ footer_image: true
 
 {% if site.phase < site.ENTRIES_BEING_ACCEPTED %}
 
-<div class="introduction" markdown="1">
+<div class="introduction" markdown="1" style="margin-bottom: 0;">
 
 <p>Starting <strong class="avoid-break">{{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong> <small class="avoid-break">({{ site.ENTRIES_BEING_ACCEPTED_TIME }})</small>, <span class="avoid-break">you can submit your proposal on this website.</span></p>
 
@@ -33,7 +33,7 @@ footer_image: true
 
 {% elsif site.phase == site.ENTRIES_BEING_ACCEPTED %}
 
-<div class="introduction" markdown="1">
+<div class="introduction" markdown="1" style="margin-bottom: 0;">
 
 Submissions are open! Apply by <strong>{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}</strong> <small>({{ site.ENTRY_PERIOD_ENDED_TIME }})</small>.
 
@@ -45,7 +45,7 @@ Submissions are open! Apply by <strong>{{ site.ENTRY_PERIOD_ENDED_DATE | date: "
 
 {% elsif site.phase == site.ENTRY_PERIOD_ENDED %}
 
-<div class="introduction" markdown="1">
+<div class="introduction" markdown="1" style="margin-bottom: 0;">
 
 The submission period is complete.
 
@@ -65,7 +65,7 @@ Voting begins on
 
 {% elsif site.phase == site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
 
-<div class="introduction" markdown="1">
+<div class="introduction" markdown="1" style="margin-bottom: 0;">
 
 The submission period is complete.
 
@@ -84,7 +84,7 @@ Voting begins on
 
 {% elsif site.phase == site.VOTES_BEING_ACCEPTED %}
 
-<div class="introduction" markdown="1">
+<div class="introduction" markdown="1" style="margin-bottom: 0;">
 
 The submission period is complete.
 
@@ -106,7 +106,7 @@ The submission period is complete.
 
 {% elsif site.phase == site.VOTING_PERIOD_ENDED %}
 
-<div class="introduction" markdown="1">
+<div class="introduction" markdown="1" style="margin-bottom: 0;">
 
 The submission period is complete.
 
@@ -125,7 +125,7 @@ The submission period is complete.
 
 {% elsif site.phase == site.FINALISTS_ANNOUNCED %}
 
-<div class="introduction" markdown="1">
+<div class="introduction" markdown="1" style="margin-bottom: 0;">
 
 The finalists have been selected!
 
@@ -144,7 +144,7 @@ The finalists have been selected!
 
 {% elsif site.phase == site.WINNERS_ANNOUNCED %}
 
-<div class="introduction" markdown="1">
+<div class="introduction" markdown="1" style="margin-bottom: 0;">
 
 The winners have been announced!
 
@@ -247,7 +247,7 @@ If you have any questions about the information on this page, [please review our
 
 * * *
 
-<div class="introduction" markdown="1">
+<div class="introduction" markdown="1" style="margin-bottom: 0;">
 
 <p>Starting <strong class="avoid-break">{{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong> <small class="avoid-break">({{ site.ENTRIES_BEING_ACCEPTED_TIME }})</small>, <span class="avoid-break">you can submit your proposal on this website.</span></p>
 
@@ -269,7 +269,7 @@ If you have any questions about the information on this page, [please review our
 
 * * *
 
-<div class="introduction" markdown="1">
+<div class="introduction" markdown="1" style="margin-bottom: 0;">
 
 The submission period has started! Apply by <strong>{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}</strong> <small>({{ site.ENTRY_PERIOD_ENDED_TIME }})</small>.
 

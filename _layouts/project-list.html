@@ -28,11 +28,11 @@ stylesheets:
 <h1>
   <span>
     Congratulations to the <strong>{{ page.category }}</strong> winners!<br />
-    <small style="font-style: normal;display: block; text-transform: none;">
+    <!-- <small style="font-style: normal;display: block; text-transform: none;">
       <small style="letter-spacing: 0; font-style: normal;">
         Learn <strong style="font-weight: inherit; color: inherit;"><a href="/about/" style="color: inherit; font-weight: inherit;">about the challenge</a></strong>.
       </small>
-    </small>
+    </small> -->
     <a href="#project-list">
       <svg aria-label="Winners" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="44.8" height="51.2">
         <title>Winners</title>
@@ -193,19 +193,19 @@ main > h1:first-child::before {
         <strong style="font-weight: inherit; color: inherit;"><a href="/vote/" style="color: inherit; font-weight: inherit;">Public voting</a></strong> begins on <span class="avoid-break"><strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong>.</span>
       {% endif %}
     </small>
-    <small style="letter-spacing: 0; font-style: normal;" class="avoid-break">
+    <!-- <small style="letter-spacing: 0; font-style: normal;" class="avoid-break">
       Learn <strong style="font-weight: inherit; color: inherit;"><a href="/about/" style="color: inherit; font-weight: inherit;">about the challenge</a></strong>.
-    </small>
+    </small> -->
   </p>
 </div>
 {% else %}
 <h1>
   Finalists{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong> category{% endif %}
-  <small style="font-style: normal;display: block; text-transform: none;">
+  <!-- <small style="font-style: normal;display: block; text-transform: none;">
     <small style="letter-spacing: 0; font-style: normal;">
       Learn <strong style="font-weight: inherit; color: inherit;"><a href="/about/" style="color: inherit; font-weight: inherit;">about the challenge</a></strong>.
     </small>
-  </small>
+  </small> -->
 </h1>
 {% endif %}
 

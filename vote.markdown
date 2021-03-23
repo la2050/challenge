@@ -9,7 +9,7 @@ footer_image: true
   Public Voting
 </h1>
 
-<div class="introduction" markdown="1">
+<div class="introduction" markdown="1" style="margin-bottom: 0;">
 
 {% if site.phase < site.FINALISTS_ANNOUNCED %}
 Starting **{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}** <small class="avoid-break">({{ site.VOTES_BEING_ACCEPTED_TIME }})</small>, <span class="avoid-break">you can vote for the finalists on this website.</span>
@@ -31,24 +31,26 @@ Starting **{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}** <smal
 <p style="max-width: 23em" markdown="1">Starting **{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}** <small class="avoid-break">({{ site.VOTES_BEING_ACCEPTED_TIME }})</small>, you can vote for the finalists on this website.</p>
 
 <p class="action" markdown="1">
-  <a href="/finalists/">Check out the finalists!</a>
+  <a href="/finalists/">I’m ready to vote</a>
 </p>
 <p style="font-size: inherit; margin-top: 2.25em;" markdown="1">
   <small style="font-size: 0.875em;">You can cast five votes, one per [goal category](/about/#goals).
-  Vote by pressing the “Vote for this proposal” button on any [finalist](/finalists/) page.</small>
+  <!-- Vote by pressing the “Vote for this proposal” button on any [finalist](/finalists/) page. -->
+  </small>
 </p>
 
 {% elsif site.phase == site.VOTES_BEING_ACCEPTED %}
 
-<p style="max-width: 23em" markdown="1">Vote by <strong>{{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}</strong> <small class="avoid-break">({{ site.VOTING_PERIOD_ENDED_TIME }})</small>.</p>
-
 <p class="action" markdown="1">
-  <a href="/finalists/">Check out the finalists!</a>
+  <a href="/vote/form/">Vote now</a>
 </p>
-<p style="font-size: inherit; margin-top: 2.25em;" markdown="1">
+<p style="margin-top: 1.5rem; max-width: 23em" markdown="1">Vote by <strong>{{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}</strong> <small class="avoid-break">({{ site.VOTING_PERIOD_ENDED_TIME }})</small>.</p>
+
+<p style="font-size: inherit;" markdown="1">
   <small style="font-size: 0.875em;">You can cast five votes, one per [goal category](/about/#goals).
-  Vote by pressing the “Vote for this proposal” button on any [finalist](/finalists/) page.</small><br />
-  <small style="font-size: 0.875em;">You can also visit the <a href="/vote/form/">voting form</a> directly.</small>
+  <!-- Vote by pressing the “Vote for this proposal” button on any [finalist](/finalists/) page. -->
+  </small>
+  <!-- <br /><small style="font-size: 0.875em;">You can also visit the <a href="/vote/form/">voting form</a> directly.</small> -->
 </p>
 
 {% elsif site.phase == site.VOTING_PERIOD_ENDED %}
