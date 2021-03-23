@@ -5,7 +5,12 @@ main_class: standard-layout
 footer_image: true
 ---
 
-{% if site.phase >= site.FINALISTS_ANNOUNCED %}
+{% if site.phase >= site.WINNERS_ANNOUNCED and site.redirect_home_page_to_winners == true %}
+
+{% capture about %}{% include about-the-challenge.md %}{% endcapture %}
+{{ about | markdownify }}
+
+{% elsif site.phase >= site.FINALISTS_ANNOUNCED and site.redirect_home_page_to_finalists == true %}
 
 {% capture about %}{% include about-the-challenge.md %}{% endcapture %}
 {{ about | markdownify }}

@@ -1,0 +1,14 @@
+---
+layout: null
+---
+{% comment %}
+Test redirects from the challenge to the archive
+https://challenge.la2050.org/2020/*/*/ ==> https://archive.la2050.org/$2/
+{% endcomment %}
+
+{%- assign data_collection = site.collections | where: "label", "2020" | first -%}
+{%- assign data_list = data_collection.docs -%}
+
+{%- for project in data_list %}
+curl -Is https://archive.la2050.org{{ project.url | replace: "/2020/", "/" | replace: "/create/", "/" | replace: "/live/", "/" | replace: "/play/", "/" | replace: "/connect/", "/" | replace: "/learn/", "/" }} | head -1
+{%- endfor %}
