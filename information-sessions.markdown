@@ -21,6 +21,6 @@ _Tuesday, February 9, 2021_
 _Friday, February 26, 2021_
 : Registration closed
 
-[Tuesday, March 16, 2021](https://us02web.zoom.us/webinar/register/WN_hAH81JsvQG2-EOJcj4UCqQ)
-: from 11:00 am to 12:00 pm (PT)
+_Tuesday, March 16, 2021_
+: Registration closed
 
