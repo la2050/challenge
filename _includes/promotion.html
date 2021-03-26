@@ -1,7 +1,7 @@
 {% if site.phase == site.NEW_CHALLENGE_ANNOUNCED %}
 
       <p>
-        Submissions open on {{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%B %-d, %Y" }}.
+       Submissions open on {{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%B %-d, %Y" }}.
         <span class="avoid-break"><a href="/submit/">Read the guidelines</a> and sign up for a virtual <a href="{{ site.office_hours_url }}">information session</a>.</span>
       </p>
       <p class="action">
@@ -11,8 +11,8 @@
 {% elsif site.phase == site.ENTRIES_BEING_ACCEPTED %}
 
       <p>
-       Submissions are open now through {{ site.ENTRY_PERIOD_ENDED_DATE | date: "%B %-d, %Y" }}!
-        <span class="avoid-break"> It's not too late to apply!</span>
+      Don't miss out! 
+       <span class="avoid-break"> Submissions are open now through {{ site.ENTRY_PERIOD_ENDED_DATE | date: "%B %-d, %Y" }}.</span>
       </p>
 
       <p class="action">
