@@ -182,14 +182,17 @@ function getOrganizationType(type) {
     :"Other",
 
     "social enterprise or b-corps"
-    :"Social enterprise or B-corps"
+    :"Social enterprise or B-corps",
+
+    "fiscally-sponsored organization with sponsored 501(c)(3) status"
+    : "A fiscally sponsored group",
   }
 
   if (organizationTypesMap[type.toLowerCase()]) {
     // console.log("organizationTypesMap[type.toLowerCase()]: " + organizationTypesMap[type.toLowerCase()]);
     return organizationTypesMap[type.toLowerCase()];
   } else {
-    console.log(`Unexpected organization type: “${type}”`);
+    console.log(`Unexpected organization type: “${type.toLowerCase()}”`);
     return type;
   }
 }
@@ -441,6 +444,18 @@ function createMarkdownFile(data) {
 
   if (data.project_video && data.project_video != "" && !data.project_video.startsWith("http")) {
     console.error(`Found an invalid project_video URL: ${data.project_video}`);
+
+    // UCLA Volunteer Center
+    if (data.project_video.includes("https://www.youtube.com/channel/UCuj9g7DotnLzE74IkYSHUYA/videos")) {
+      data.project_video = "https://www.youtube.com/channel/UCuj9g7DotnLzE74IkYSHUYA/videos"
+      console.error(`Auto-corrected project_video URL to: ${data.project_video}`);
+    }
+
+    // WORCS: Worker Ownership Resources and Cooperative Services
+    if (data.project_video.includes("https://www.ted.com/talks/niki_okuk_when_workers_own_companies_the_economy_is_more_resilient?language=en")) {
+      data.project_video = "https://www.ted.com/talks/niki_okuk_when_workers_own_companies_the_economy_is_more_resilient?language=en"
+      console.error(`Auto-corrected project_video URL to: ${data.project_video}`);
+    }
   }
 
   data.filename = filename;
@@ -608,5 +623,5 @@ function getApplicationID(data) {
     console.log("Couldn’t find application ID for: " + data["Organization Details: | Organization name: *"]);
   }
 }
-generateCollections('../../_data/2021/Application Export Test 3.3.21 - Sheet1.csv');
+generateCollections('../../_data/2021/03-30/proposals.csv');
 

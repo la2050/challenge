@@ -186,10 +186,10 @@ function updateLocations(folder) {
 }
 
 
-let submissionFiles = getAllFilesFromFolder('../../_data/download-2020');
+let submissionFiles = getAllFilesFromFolder('../../_data/2021/03-30/images');
 
-updateLocations('../_2020/learn');
-updateLocations('../_2020/create');
-updateLocations('../_2020/play');
-updateLocations('../_2020/connect');
-updateLocations('../_2020/live');
+updateLocations('../_2021/learn');
+updateLocations('../_2021/create');
+updateLocations('../_2021/play');
+updateLocations('../_2021/connect');
+updateLocations('../_2021/live');
