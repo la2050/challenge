@@ -60,10 +60,10 @@ VOTING_PERIOD_ENDED_TIME:          5pm Pacific Time
 # phase: 1
 
 # Entries being accepted:
-phase: 2
+# phase: 2
 
 # Entry period ended: 
-# phase: 3
+phase: 3
 
 # Entries shown on the website: 
 # phase: 4
