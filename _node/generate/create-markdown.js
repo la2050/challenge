@@ -163,6 +163,9 @@ function getOrganizationType(type) {
     "government"
     :"Government",
 
+    "government entity"
+    :"Government",
+
     "individual"
     :"Individual",
 
@@ -456,6 +459,31 @@ function createMarkdownFile(data) {
       data.project_video = "https://www.ted.com/talks/niki_okuk_when_workers_own_companies_the_economy_is_more_resilient?language=en"
       console.error(`Auto-corrected project_video URL to: ${data.project_video}`);
     }
+
+    // FoodCycle - Feeding People, Nourishing Communities
+    if (data.project_video.includes("Video https://youtu.be/Ls2J_9BJ21M")) {
+      data.project_video = "https://youtu.be/Ls2J_9BJ21M"
+      console.error(`Auto-corrected project_video URL to: ${data.project_video}`);
+    }
+
+    // Give Your Gift Los Angeles
+    if (data.project_video.includes("17.\thttps://vimeo.com/531947712/25e57033e0")) {
+      data.project_video = "https://vimeo.com/531947712/25e57033e0"
+      console.error(`Auto-corrected project_video URL to: ${data.project_video}`);
+    }
+
+    // Sensagrate''s SensaVision: Reducing Traffic Congestion
+    if (data.project_video.includes("SensaVision Web App Analytics LiDAR Counts - https://youtu.be/i_VAIqJpsbU;")) {
+      data.project_video = "https://youtu.be/i_VAIqJpsbU"
+      console.error(`Auto-corrected project_video URL to: ${data.project_video}`);
+    }
+
+    // Westside Pacific Villages COVID-19 Action Response for Elderly Suppor
+    if (data.project_video.includes("www.youtube.com/watch?reload=9&v=GH1W4ZU-q7A&feature=youtu.be")) {
+      data.project_video = "https://www.youtube.com/watch?v=GH1W4ZU-q7A"
+      console.error(`Auto-corrected project_video URL to: ${data.project_video}`);
+    }
+
   }
 
   data.filename = filename;
@@ -595,33 +623,34 @@ function generateCollections(file_path) {
   return records;
 }
 
-const recordsWithApplicationID = parse(fs.readFileSync('../../_data/2021/Application Export Test 3.3.21 - Sheet1.csv', 'utf8'), {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
-function getApplicationID(data) {
-  let matches = [];
-  function alphaOnly(string) {
-    if (!string) return;
-    if (string === "Sprouts of Promise") string = "Sprouts of Promise Foundation";
-    if (string === "LIFT-LA") string = "LIFT-Los Angeles"; 
-    if (string === "Lauren Arevalo-Downes") string = "Lauren Arevalo";
-    return string.toLowerCase().replace(/[^a-z]/g, "");
-  }
-  for (let record of recordsWithApplicationID) {
-    if (alphaOnly(record["Application"]) === alphaOnly(data["Organization Details: | Organization name: *"]) ||
-        alphaOnly(record["User"]) === alphaOnly(data["ABOUT YOU *  | Your name:"]) ||
-        alphaOnly(record["Email"]) === alphaOnly(data["ABOUT YOU *  | Your email:"])
-      ) {
-      matches.push(record["Application ID"]);
-    }
-  }
-  if (matches.length === 1) {
-    // console.log("Found one match: " + data["Organization Details: | Organization name: *"]);
-    return matches[0];
-  }
-  if (matches.length > 1) {
-    console.log("Found multiple matches for: " + data["Organization Details: | Organization name: *"]);
-  } else {
-    console.log("Couldn’t find application ID for: " + data["Organization Details: | Organization name: *"]);
-  }
-}
-generateCollections('../../_data/2021/03-30/proposals.csv');
+// const recordsWithApplicationID = parse(fs.readFileSync('../../_data/2021/Application Export Test 3.3.21 - Sheet1.csv', 'utf8'), {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
+// function getApplicationID(data) {
+//   let matches = [];
+//   function alphaOnly(string) {
+//     if (!string) return;
+//     if (string === "Sprouts of Promise") string = "Sprouts of Promise Foundation";
+//     if (string === "LIFT-LA") string = "LIFT-Los Angeles"; 
+//     if (string === "Lauren Arevalo-Downes") string = "Lauren Arevalo";
+//     return string.toLowerCase().replace(/[^a-z]/g, "");
+//   }
+//   for (let record of recordsWithApplicationID) {
+//     if (alphaOnly(record["Application"]) === alphaOnly(data["Organization Details: | Organization name: *"]) ||
+//         alphaOnly(record["User"]) === alphaOnly(data["ABOUT YOU *  | Your name:"]) ||
+//         alphaOnly(record["Email"]) === alphaOnly(data["ABOUT YOU *  | Your email:"])
+//       ) {
+//       matches.push(record["Application ID"]);
+//     }
+//   }
+//   if (matches.length === 1) {
+//     // console.log("Found one match: " + data["Organization Details: | Organization name: *"]);
+//     return matches[0];
+//   }
+//   if (matches.length > 1) {
+//     console.log("Found multiple matches for: " + data["Organization Details: | Organization name: *"]);
+//   } else {
+//     console.log("Couldn’t find application ID for: " + data["Organization Details: | Organization name: *"]);
+//   }
+// }
+
+generateCollections('../../_data/2021/04-03/proposals.csv');
 
