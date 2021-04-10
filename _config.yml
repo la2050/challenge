@@ -80,241 +80,6 @@ phase: 4
 # Winners announced: 
 # phase: 8
 
-
-finalists:
-
-  # Learn
-
-  # 1)
-  # Central American Resource Center
-  - /2021/learn/central-american-resource-center-carecen-of-california/
-
-  # 2)
-  # Los Angeles Audubon Society
-  - /2021/learn/los-angeles-audubon-society-society/
-
-  # 3)
-  # Pediatric Therapy Network
-  - /2021/learn/pediatric-therapy-network/
-
-  # 4)
-  # Reading Partners
-  - /2021/learn/reading-partners/
-
-  # 5)
-  # SoCal College Access Network
-  - /2021/learn/southern-california-college-access-network/
-
-
-  # Create
-
-  # 1)
-  # Flintridge Center
-  - /2021/create/flintridge-center/
-
-  # 2)
-  # Grid110
-  - /2021/create/grid110/
-
-  # 3)
-  # LA Sanitation and the Environment
-  - /2021/create/la-sanitation-and-environment-la-industry/
-
-  # 4)
-  # Las Fotos Project
-  - /2021/create/las-fotos-project/
-
-  # 5)
-  # Los Angeles Children's Project
-  - /2021/create/lost-angels-childrens-project/
-
-
-  # Play
-
-  # 1)
-  # City of LA Dept. of Recreation & Parks
-  - /2021/play/city-of-los-angeles-department-of-recreation-and-parks/
-
-  # 2)
-  # Los Angeles Dodgers Foundation
-  - /2021/play/los-angeles-dodgers-foundation/
-
-  # 3)
-  # Los Angeles Maritime Institute
-  - /2021/play/los-angeles-maritime-institute/
-
-  # 4)
-  # Public Matters
-  - /2021/play/public-matters/
-
-  # 5)
-  # Urban Warehouse
-  - /2021/play/the-urban-warehouse/
-
-
-  # Connect
-
-  # 1)
-  # Boyle Heights Beat / Radio Pulso
-  - /2021/connect/boyle-heights-beat-radio-pulso/
-
-  # 2)
-  # Creative Acts
-  - /2021/connect/creative-acts/
-
-  # 3)
-  # LA Forward
-  - /2021/connect/la-forward/
-
-  # 4)
-  # Ready to Succeed
-  - /2021/connect/ready-to-succeed/
-
-  # 5)
-  # Union Station Homeless Services
-  - /2021/connect/union-station-homeless-services/
-
-
-  # Live
-
-  # 1)
-  # Clínica Msr. Oscar Romero
-  - /2021/live/clinica-msr-oscar-a-romero/
-
-  # 2)
-  # Crop Swap LA
-  - /2021/live/crop-swap-la/
-
-  # 3)
-  # Jenesse Center, Inc.
-  - /2021/live/jenesse-center-inc/
-
-  # 4)
-  # Safe Parking LA
-  - /2021/live/safe-parking-la-a-project-of-community-partners/
-
-  # 5)
-  # Strategic Actions for a Just Economy
-  - /2021/live/strategic-actions-for-a-just-economy-saje/
-
-
-winners:
-
-  # Learn
-
-  # 1)
-  # Pediatric Therapy Network
-  - /2021/learn/pediatric-therapy-network/
-
-  # 2)
-  # SoCal College Access Network
-  - /2021/learn/southern-california-college-access-network/
-
-  # 3)
-  # Reading Partners
-  - /2021/learn/reading-partners/
-
-  # 4)
-  # Los Angeles Audubon Society
-  - /2021/learn/los-angeles-audubon-society-society/
-
-  # 5)
-  # Central American Resource Center
-  - /2021/learn/central-american-resource-center-carecen-of-california/
-
-
-  # Create
-
-  # 1)
-  # Las Fotos Project
-  - /2021/create/las-fotos-project/
-
-  # 2)
-  # Los Angeles Children's Project
-  - /2021/create/lost-angels-childrens-project/
-
-  # 3)
-  # LA Sanitation and the Environment
-  - /2021/create/la-sanitation-and-environment-la-industry/
-
-  # 4)
-  # Grid110
-  - /2021/create/grid110/
-
-  # 5)
-  # Flintridge Center
-  - /2021/create/flintridge-center/
-
-
-  # Play
-
-  # 1)
-  # City of LA Dept. of Recreation & Parks
-  - /2021/play/city-of-los-angeles-department-of-recreation-and-parks/
-
-  # 2)
-  # Los Angeles Dodgers Foundation
-  - /2021/play/los-angeles-dodgers-foundation/
-
-  # 3)
-  # Los Angeles Maritime Institute
-  - /2021/play/los-angeles-maritime-institute/
-
-  # 4)
-  # Public Matters
-  - /2021/play/public-matters/
-
-  # 5)
-  # Urban Warehouse
-  - /2021/play/the-urban-warehouse/
-
-
-  # Connect
-
-  # 1)
-  # Ready to Succeed
-  - /2021/connect/ready-to-succeed/
-
-  # 2)
-  # Union Station Homeless Services
-  - /2021/connect/union-station-homeless-services/
-
-  # 3)
-  # LA Forward
-  - /2021/connect/la-forward/
-
-  # 4)
-  # Boyle Heights Beat / Radio Pulso
-  - /2021/connect/boyle-heights-beat-radio-pulso/
-
-  # 5)
-  # Creative Acts
-  - /2021/connect/creative-acts/
-
-
-  # Live
-
-  # 1)
-  # Clínica Msr. Oscar Romero
-  - /2021/live/clinica-msr-oscar-a-romero/
-
-  # 2)
-  # Crop Swap LA
-  - /2021/live/crop-swap-la/
-
-  # 3)
-  # Jenesse Center, Inc.
-  - /2021/live/jenesse-center-inc/
-
-  # 4)
-  # Strategic Actions for a Just Economy
-  - /2021/live/strategic-actions-for-a-just-economy-saje/
-
-  # 5)
-  # Safe Parking LA
-  - /2021/live/safe-parking-la-a-project-of-community-partners/
-
-
 auth0_js_url: https://cdn.auth0.com/js/auth0/9.5.1/auth0.min.js
 # auth0_domain: activation-la2050.auth0.com
 auth0_domain: auth0-activation.la2050.org
@@ -364,3 +129,236 @@ collections:
   '2021':
     output: true
     permalink: /2021/:path/
+
+finalists:
+
+  # Learn
+
+  # 1)
+  # artworxLA
+  - /2021/learn/artworxla/
+
+  # 2)
+  # Junior Achievement of Southern California
+  - /2021/learn/junior-achievement-of-southern-california/
+
+  # 3)
+  # Building Blocks for Kids
+  - /2021/learn/building-blocks-for-kids/
+
+  # 4)
+  # Acceler8
+  - /2021/learn/acceler8/
+
+  # 5)
+  # Griffith Observatory Foundation
+  - /2021/learn/griffith-observatory-foundation/
+
+
+  # Create
+
+  # 1)
+  # Reel Start
+  - /2021/create/reel-start/
+
+  # 2)
+  # Las Fotos Project
+  - /2021/create/las-fotos-project/
+
+  # 3)
+  # On The Go LA
+  - /2021/create/on-the-go-la/
+
+  # 4)
+  # Fund for Guaranteed Income (F4GI)
+  - /2021/create/fund-for-guaranteed-income-f4gi/
+
+  # 5)
+  # Social Justice League
+  - /2021/create/social-justice-league/
+
+
+  # Play
+
+  # 1)
+  # Sprouts of Promise
+  - /2021/play/sprouts-of-promise/
+
+  # 2)
+  # Integrated Recovery Network
+  - /2021/play/integrated-recovery-network/
+
+  # 3)
+  # Southern California Committee for the Olympic Games
+  - /2021/play/southern-california-committee-for-the-olympic-games/
+
+  # 4)
+  # Nature for All
+  - /2021/play/nature-for-all/
+
+  # 5)
+  # Street Soccer USA
+  - /2021/play/street-soccer-usa/
+
+
+  # Connect
+
+  # 1)
+  # commuteLAX (Los Angeles World Airports)
+  - /2021/connect/commutelax-los-angeles-world-airports/
+
+  # 2)
+  # UCLA Volunteer Center
+  - /2021/connect/ucla-volunteer-center/
+
+  # 3)
+  # Los Angeles Choral Lab (LACL)
+  - /2021/connect/los-angeles-choral-lab-lacl/
+
+  # 4)
+  # NOW Art
+  - /2021/connect/now-art/
+
+  # 5)
+  # Generation Connect
+  - /2021/connect/generation-connect/
+
+
+  # Live
+
+  # 1)
+  # Garden School Foundation
+  - /2021/live/garden-school-foundation/
+
+  # 2)
+  # YWCA of the Harbor Area
+  - /2021/live/ywca-of-the-harbor-area/
+
+  # 3)
+  # Los Angeles Room & Board
+  - /2021/live/los-angeles-room-board/
+
+  # 4)
+  # The RightWay Foundation
+  - /2021/live/the-rightway-foundation/
+
+  # 5)
+  # Foster Nation
+  - /2021/live/foster-nation/
+
+
+winners:
+
+  # Learn
+
+  # 1)
+  # artworxLA
+  - /2021/learn/artworxla/
+
+  # 2)
+  # Junior Achievement of Southern California
+  - /2021/learn/junior-achievement-of-southern-california/
+
+  # 3)
+  # Building Blocks for Kids
+  - /2021/learn/building-blocks-for-kids/
+
+  # 4)
+  # Acceler8
+  - /2021/learn/acceler8/
+
+  # 5)
+  # Griffith Observatory Foundation
+  - /2021/learn/griffith-observatory-foundation/
+
+
+  # Create
+
+  # 1)
+  # Reel Start
+  - /2021/create/reel-start/
+
+  # 2)
+  # Las Fotos Project
+  - /2021/create/las-fotos-project/
+
+  # 3)
+  # On The Go LA
+  - /2021/create/on-the-go-la/
+
+  # 4)
+  # Fund for Guaranteed Income (F4GI)
+  - /2021/create/fund-for-guaranteed-income-f4gi/
+
+  # 5)
+  # Social Justice League
+  - /2021/create/social-justice-league/
+
+
+  # Play
+
+  # 1)
+  # Sprouts of Promise
+  - /2021/play/sprouts-of-promise/
+
+  # 2)
+  # Integrated Recovery Network
+  - /2021/play/integrated-recovery-network/
+
+  # 3)
+  # Southern California Committee for the Olympic Games
+  - /2021/play/southern-california-committee-for-the-olympic-games/
+
+  # 4)
+  # Nature for All
+  - /2021/play/nature-for-all/
+
+  # 5)
+  # Street Soccer USA
+  - /2021/play/street-soccer-usa/
+
+
+  # Connect
+
+  # 1)
+  # commuteLAX (Los Angeles World Airports)
+  - /2021/connect/commutelax-los-angeles-world-airports/
+
+  # 2)
+  # UCLA Volunteer Center
+  - /2021/connect/ucla-volunteer-center/
+
+  # 3)
+  # Los Angeles Choral Lab (LACL)
+  - /2021/connect/los-angeles-choral-lab-lacl/
+
+  # 4)
+  # NOW Art
+  - /2021/connect/now-art/
+
+  # 5)
+  # Generation Connect
+  - /2021/connect/generation-connect/
+
+
+  # Live
+
+  # 1)
+  # Garden School Foundation
+  - /2021/live/garden-school-foundation/
+
+  # 2)
+  # YWCA of the Harbor Area
+  - /2021/live/ywca-of-the-harbor-area/
+
+  # 3)
+  # Los Angeles Room & Board
+  - /2021/live/los-angeles-room-board/
+
+  # 4)
+  # The RightWay Foundation
+  - /2021/live/the-rightway-foundation/
+
+  # 5)
+  # Foster Nation
+  - /2021/live/foster-nation/

@@ -1,22 +1,4 @@
 
 hide_from_search_engines: true
 
-# Votes being accepted:
 phase: 5
-
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default
-  - scope:
-      path: ""
-      type: "2021"
-    values:
-      layout: project
-
-collections:
-  '2021':
-    output: true
-    permalink: /2021/:path/

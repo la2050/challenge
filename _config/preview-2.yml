@@ -5,19 +5,3 @@ hide_from_search_engines: true
 phase: 2
 
 # show_early_entries: true
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default
-  - scope:
-      path: ""
-      type: "2021"
-    values:
-      layout: project
-
-collections:
-  '2021':
-    output: true
-    permalink: /2021/:path/
