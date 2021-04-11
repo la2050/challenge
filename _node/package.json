@@ -9,27 +9,19 @@
     "markdown:update": "node ./generate/update-markdown.js",
     "markdown:to-csv": "node ./generate/markdown-to-csv.js",
     "images:create": "gulp",
-    "images:copy": "node ./generate/copy-images.js"
+    "images:copy": "node ./generate/copy-images.js",
+    "test": "cypress open"
   },
   "devDependencies": {
     "concurrent-transform": "^1.0.0",
     "csv-parse": "^4.6.5",
     "csv-stringify": "^3.1.1",
+    "cypress": "^7.0.1",
     "gulp": "^4.0.2",
     "gulp-image-resize": "^0.13.1",
     "gulp-imageoptim": "^1.0.9",
     "inline-css": "^2.6.1",
     "js-yaml": "^3.13.1",
     "mkdirp": "^1.0.4"
-  },
-  "disabled-scripts": {
-    "test:cypress": "cypress open",
-    "test:nightwatch": "nightwatch ./test/test.js --config ./test/nightwatch.config.js"
-  },
-  "disabled-devDependencies": {
-    "chromedriver": "^2.33.2",
-    "cypress": "^2.1.0",
-    "nightwatch": "^0.9.16",
-    "selenium-server": "^3.7.1"
   }
 }

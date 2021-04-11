@@ -652,5 +652,5 @@ function generateCollections(file_path) {
 //   }
 // }
 
-generateCollections('../../_data/2021/04-03/proposals.csv');
+generateCollections('../../_data/2021/04-09/proposals.csv');
 
