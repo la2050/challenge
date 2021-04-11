@@ -3,8 +3,7 @@ application_id: 0956000034
 title: 'CreateLA.org (Frmly: The Decameron Project)'
 organization_description: Nonprofit
 project_video: >-
-  https://www.youtube.com/c/StellaAdlerAcademy/videos. - the first video is the
-  tour of our campus.
+  https://www.youtube.com/watch?v=zPHXVp0l1a4
 link_donate: 'https://legacy-fund-stellaadler.causevox.com/'
 link_volunteer: 'https://stellaadler.la/contact/'
 link_newsletter: >-

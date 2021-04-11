@@ -2,7 +2,7 @@
 application_id: '4376887765'
 title: Agency of Assets – Incubating LA’s Future Arts Leaders
 organization_description: Nonprofit
-project_video: 'https://vimeo.com/531393710/d9e019253c'
+project_video: 'https://vimeo.com/531393710'
 link_donate: 'https://www.theicala.org/en/donate'
 link_volunteer: ''
 link_newsletter: >-

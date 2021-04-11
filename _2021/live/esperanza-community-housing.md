@@ -2,7 +2,7 @@
 application_id: '1480868088'
 title: Esperanza’s Promotores de Salud (Community Health Promoters)
 organization_description: Nonprofit
-project_video: 'https://www.youtube.com/watch?app=desktop&v=uBROt-j_hVw#action=share'
+project_video: 'https://www.youtube.com/watch?v=uBROt-j_hVw'
 link_donate: 'https://www.esperanzacommunityhousing.org/donate-support-us/'
 link_volunteer: 'https://www.esperanzacommunityhousing.org/get-involved/volunteer-positions/'
 link_newsletter: 'https://www.esperanzacommunityhousing.org/contact-info-2/'

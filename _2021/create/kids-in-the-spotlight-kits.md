@@ -2,7 +2,7 @@
 application_id: '5564716670'
 title: Bridging the Gap
 organization_description: Nonprofit
-project_video: 'https://vimeo.com/532403759'
+project_video: ''
 link_donate: PayPal.Me/KidsintheSpotlight
 link_volunteer: 'https://www.kitsinc.org/the-village'
 link_newsletter: 'https://www.kitsinc.org/subscribe-to-kits'

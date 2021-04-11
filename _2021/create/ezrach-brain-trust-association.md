@@ -2,7 +2,7 @@
 application_id: '3546155251'
 title: RE-ACH! Boots for the New American Dream
 organization_description: Nonprofit
-project_video: 'https://vimeo.com/532020329/a5a5fe668d'
+project_video: 'https://vimeo.com/532020329'
 link_donate: 'https://paypal.me/ezrachbraintrust?locale.x=en_US'
 link_volunteer: www.ezrach.org
 link_newsletter: www.ezrach.org

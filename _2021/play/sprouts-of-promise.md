@@ -2,7 +2,7 @@
 application_id: '3448577759'
 title: LA's Mobile Farm
 organization_description: Nonprofit
-project_video: 'https://vimeo.com/531510036/d581511b03'
+project_video: 'https://vimeo.com/531510036'
 link_donate: 'https://www.farmermark.com/donate'
 link_volunteer: >-
   https://forms.zohopublic.com/farmermark/form/VolunteerApplication/formperma/TRqESrm8dYehx1o4LCK-1vkU0Vh6tY8LJmhAaPKD9J4

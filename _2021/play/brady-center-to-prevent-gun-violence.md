@@ -5,7 +5,7 @@ title: >-
   L.A.
 organization_description: Nonprofit
 project_video: >-
-  https://www.google.com/url?q=https://www.youtube.com/watch?v%3DWte6SsZCQ00&sa=D&source=editors&ust=1617030784052000&usg=AOvVaw0wPOEQ6HRBaKiqb7Ke3suh
+  https://www.youtube.com/watch?v=Wte6SsZCQ00
 link_donate: 'https://www.bradyunited.org/donate/tax'
 link_volunteer: 'https://www.bradyunited.org/join'
 link_newsletter: 'https://secure.everyaction.com/XS0pwdQ1ckq1cUDF9lrYMw2'

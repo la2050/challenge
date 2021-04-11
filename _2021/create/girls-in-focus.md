@@ -2,7 +2,7 @@
 application_id: '8247818644'
 title: Fearless Filmmakers
 organization_description: Nonprofit
-project_video: 'https://www.youtube.com/watch?v=s4NGXWZ3mbo'
+project_video: ''
 link_donate: 'https://www.girls-in-focus.com/donate'
 link_volunteer: 'https://www.girls-in-focus.com/partner'
 link_newsletter: 'https://www.girls-in-focus.com/newsletters'

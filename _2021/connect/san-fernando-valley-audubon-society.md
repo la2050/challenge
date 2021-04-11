@@ -3,8 +3,7 @@ application_id: '8454013897'
 title: 'Wildlife for Everyone: Accessibility at Sepulveda Basin'
 organization_description: Nonprofit
 project_video: >-
-  https://www.youtube.com/watch?v=mGjLX6AJ9Nc, "A Walk through Sepulveda Basin",
-  by Douglas R. Welch (permission granted)
+  https://www.youtube.com/watch?v=mGjLX6AJ9Nc
 link_donate: www.sfvaudubon.org (contact Board members)
 link_volunteer: www.sfvaudubon.org (contact Board members)
 link_newsletter: www.sfvaudubon.org (FREE membership for 2021)

@@ -2,7 +2,7 @@
 application_id: '8687191418'
 title: Access! Outdoor Sculpture in West LA
 organization_description: Nonprofit
-project_video: 'https://vimeo.com/artmusela/academyaccess'
+project_video: ''
 link_donate: 'https://www.artmusela.com/art-muse-academy'
 link_volunteer: ''
 link_newsletter: ''

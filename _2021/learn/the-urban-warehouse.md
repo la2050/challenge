@@ -1,6 +1,6 @@
 ---
 application_id: '2258907463'
-title: XXXX
+title: The Urban Warehouse
 organization_description: Nonprofit
 project_video: 'https://www.instagram.com/tv/CMnzdG6Dc3f/?igshid=1kdmddyf9wnti'
 link_donate: 'https://www.facebook.com/The-Garage-Board-Shop-155402207883024/'
