@@ -3,8 +3,7 @@ application_id: '4652327091'
 title: All Aboard for Nature Community Access Program
 organization_description: Nonprofit
 project_video: >-
-  https://www.youtube.com/watch?v=JaXzhDbc32Q  & 
-  https://www.youtube.com/watch?v=AY5dRGVb4Eo
+  https://www.youtube.com/watch?v=JaXzhDbc32Q
 link_donate: 'https://lanatureforall.org/donate/'
 link_volunteer: 'https://lanatureforall.org/volunteers/'
 link_newsletter: >-

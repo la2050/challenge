@@ -2,7 +2,7 @@
 application_id: '5927146802'
 title: CDI Early Learning Center Reseda Outdoor Garden Area
 organization_description: Nonprofit
-project_video: 'https://vimeo.com/460825280/f428874200'
+project_video: 'https://vimeo.com/460825280'
 link_donate: 'https://cdikids.org/give/'
 link_volunteer: 'https://cdikids.org/get-involved/volunteer/'
 link_newsletter: 'https://lp.constantcontactpages.com/su/JS95aI3/signmeupcdi'

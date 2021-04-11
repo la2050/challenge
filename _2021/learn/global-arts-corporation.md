@@ -4,7 +4,7 @@ title: >-
   Global Arts Professional Development Series: Using Teacher Development to
   Increase Student Success
 organization_description: Nonprofit
-project_video: 'https://vimeo.com/507210400/bc73c87533'
+project_video: 'https://vimeo.com/507210400'
 link_donate: 'https://www.globalartsco.org/donate/'
 link_volunteer: 'https://www.globalartsco.org/get-involved/'
 link_newsletter: 'https://www.globalartsco.org/news-2/'

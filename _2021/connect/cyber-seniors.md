@@ -2,7 +2,7 @@
 application_id: '4620465667'
 title: Cyber-Seniors Intergenerational Technology Los Angeles Training Program
 organization_description: A fiscally sponsored group
-project_video: 'https://vimeo.com/231808774'
+project_video: ''
 link_donate: 'https://www.paypal.com/donate/?hosted_button_id=8GBN424BTFPTU'
 link_volunteer: 'https://cyberseniors.org/volunteers/'
 link_newsletter: 'https://cyberseniors.org/newsletter/'

@@ -2,7 +2,7 @@
 application_id: '3889259286'
 title: Mental Health Resources for Culturally Diverse Communities
 organization_description: Nonprofit
-project_video: 'https://vimeo.com/manage/videos/532077585'
+project_video: 'https://vimeo.com/532077585'
 link_donate: 'https://namisangabrielvalley.org/donate_now/'
 link_volunteer: 'https://namisangabrielvalley.org/get-involved/volunteer/'
 link_newsletter: 'https://namisangabrielvalley.org/the-journal/'

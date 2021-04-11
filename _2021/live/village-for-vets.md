@@ -4,7 +4,7 @@ title: >-
   Veterans Street Academy – A Community-centered Solution to Meeting Homeless
   Vets Where They’re At
 organization_description: Nonprofit
-project_video: 'https://www.youtube.com/watch?app=desktop&v=kYWPPMIkhSo&feature=youtu.be'
+project_video: 'https://www.youtube.com/watch?v=kYWPPMIkhSo'
 link_donate: 'https://www.villageforvets.org/donate'
 link_volunteer: 'https://www.villageforvets.org/contact'
 link_newsletter: 'https://www.villageforvets.org/news'

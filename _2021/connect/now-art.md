@@ -2,7 +2,7 @@
 application_id: '1207720558'
 title: LUMINEX
 organization_description: Nonprofit
-project_video: 'https://vimeo.com/532411811'
+project_video: ''
 link_donate: ''
 link_volunteer: ''
 link_newsletter: ''

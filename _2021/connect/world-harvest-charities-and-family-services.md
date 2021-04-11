@@ -6,7 +6,7 @@ project_video: 'https://www.worldharvestla.org/videos'
 link_donate: 'https://www.worldharvestla.org/donate'
 link_volunteer: 'https://www.worldharvestla.org/volunteer'
 link_newsletter: ''
-ein: xxxxxxxxx
+ein: ''
 organization_name: WORLD HARVEST CHARITIES AND FAMILY SERVICES
 mailing_address_zip: '90019'
 organization_website: 'https://www.worldharvestla.org/our-team'

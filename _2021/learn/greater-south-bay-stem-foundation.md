@@ -4,7 +4,7 @@ title: >-
   Help Reduce Elementary Grade Students Math Skills Erosion Due To Covid-19
   Closure
 organization_description: Nonprofit
-project_video: 'https://vimeo.com/530298728'
+project_video: ''
 link_donate: gsbstem.org
 link_volunteer: techakids.com
 link_newsletter: techakids.com

@@ -2,7 +2,7 @@
 application_id: '7688806251'
 title: Space for high-quality child care for babies!
 organization_description: Nonprofit
-project_video: 'https://www.youtube.com/watch?v=wFHi6kf0eVg'
+project_video: ''
 link_donate: 'https://interland3.donorperfect.net/weblink/weblink.aspx?name=E29067&id=1'
 link_volunteer: ''
 link_newsletter: 'mailto:rcarrell@lbdn.org'

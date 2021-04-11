@@ -2,7 +2,7 @@
 application_id: '8906778860'
 title: Give Your Gift Los Angeles
 organization_description: Nonprofit
-project_video: 'https://vimeo.com/531947712/25e57033e0'
+project_video: 'https://vimeo.com/531947712'
 link_donate: 'https://pages.donately.com/sbcc-ead9/donate'
 link_volunteer: 'mailto:info@sbaycenter.com'
 link_newsletter: 'https://linktr.ee/StrengthBasedCommunityChange'
