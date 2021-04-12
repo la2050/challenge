@@ -112,6 +112,7 @@ And then start running the Jekyll application like this...
 ```
 jekyll serve
 ```
+
 ## Generating responsive images
 
 Some of the images on the website are available in multiple sizes, to save bandwidth. For example, you can regenerate the “goals” images by following these steps…

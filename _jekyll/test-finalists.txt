@@ -9,30 +9,35 @@ finalists:
   # Learn
 {% for project in next_data_list %}
   # {{ forloop.index }})
+  # {{ project.organization_name }}
   - {{ project.url }}
 {% endfor %}
 {% assign next_data_list = data_list | where: "category", "create" | sample: 5 %}
   # Create
 {% for project in next_data_list %}
   # {{ forloop.index }})
+  # {{ project.organization_name }}
   - {{ project.url }}
 {% endfor %}
 {% assign next_data_list = data_list | where: "category", "play" | sample: 5 %}
   # Play
 {% for project in next_data_list %}
   # {{ forloop.index }})
+  # {{ project.organization_name }}
   - {{ project.url }}
 {% endfor %}
 {% assign next_data_list = data_list | where: "category", "connect" | sample: 5 %}
   # Connect
 {% for project in next_data_list %}
   # {{ forloop.index }})
+  # {{ project.organization_name }}
   - {{ project.url }}
 {% endfor %}
 {% assign next_data_list = data_list | where: "category", "live" | sample: 5 %}
   # Live
 {% for project in next_data_list %}
   # {{ forloop.index }})
+  # {{ project.organization_name }}
   - {{ project.url }}
 {% endfor %}
 

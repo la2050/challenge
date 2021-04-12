@@ -1,161 +1,140 @@
 ---
-published: true
-application_id: '9209914725'
-title: Destination College +
+application_id: '2554634532'
+title: Rebuilding the Bridge to College
 organization_description: Nonprofit
-project_video: |+
-  https://www.youtube.com/watch?v=m2aD8KL3qEE
-
-
+project_video: 'https://youtu.be/tzWpVCrbO8s'
 link_donate: 'https://fulfillment.org/donate/'
 link_volunteer: 'https://fulfillment.org/get-involved/'
-link_newsletter: 'https://fulfillment.org/about-us/'
-mailing_address_city: Los Angeles
-mailing_address_street: '6100 Wilshire Blvd., Ste. 600'
+link_newsletter: 'https://fulfillment.org/contact-us/'
 ein: 95-3180934
 organization_name: Fulfillment Fund
-mailing_address_state: California
 mailing_address_zip: '90048'
 organization_website: 'https://www.fulfillment.org'
-organization_twitter: '@fulfillmentFund'
+organization_twitter: '@fulfillmentfund'
 organization_facebook: facebook.com/ffund
 organization_instagram: '@fulfillmentfund'
 Describe the mission of your organization.: >-
-  Fulfillment Fund’s mission is to make college a reality for students growing
-  up in educationally and economically under-resourced communities.  Our vision
-  is that all students, regardless of circumstances, have the opportunity to
-  attend college, graduate, and actively create a better society. 
+  Our mission is to make college a reality for students growing up in
+  educationally and economically under-resourced communities. Our vision is that
+  all students, regardless of their circumstances, will one day have the
+  opportunity to attend college, graduate, and actively participate in
+  transforming their communities to create a better society. 
 project_description: >-
-  Destination College+ (DC+) is an inspiring, information-packed day-long
-  college conference designed to inspire and empower low-income students to
-  enroll in post-secondary institutions and complete a college degree. Featuring
-  grade-specific workshops and a College Fair for high school students and their
-  parents, as well as a Career Fair and career readiness workshops for
-  post-secondary students, DC+ brings together the full continuum of the pathway
-  to college, post-secondary academic achievement, and career readiness.
-Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
+  The pandemic has widened the educational achievement gap, particularly among
+  low-income students of color. After a year of significant disengagement, we
+  need to help students rebuild connections—to their sense of purpose, their
+  peers, their educational community. Fulfillment Fund will add social-emotional
+  interventions to our college access program for 9th-12th graders in our
+  partner schools. Now more than ever, students need help finding hope and
+  getting back on a path to college, which is key to economic mobility and
+  uplifting diverse voices.
+category: learn
+connect_metrics: ''
+create_metrics: ''
+learn_metrics: 'College graduates, College matriculation, High school graduation rates'
+live_metrics: ''
+play_metrics: ''
 In which areas of Los Angeles will you be directly working?:
   - Central LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-In what stage of innovation is this project, program, or initiative?: >-
-  Expand existing program (expanding and continuing ongoing successful projects
-  or programs)
+  - LAUSD (select only if you have a district-wide partnership or project)
+'In what stage of innovation is this project, program, or initiative?': >-
+  Expand existing project, program, or initiative (expanding and continuing
+  ongoing, successful work)
 What is the problem that you are seeking to address?: >-
-  Across LAUSD, thousands of students lack adequate information, resources and
-  counseling to help them get into and succeed in college. As a result, LAUSD
-  college-readiness rates are low, with just 47% of 2018 graduates having
-  completed the required coursework for college admission. The rates remain even
-  lower for low-income, ethnically diverse, and first-generation college
-  students. Despite the benefits of higher education, only about 67% of students
-  from low-income households enroll in college nationally, and merely 11% earn
-  bachelor’s degrees. 
-
-
-  Students from low-income backgrounds, particularly those who are the first in
-  their family, struggle to meet the complex requirements necessary to gain
-  access to college and to persist in earning a college degree. DC+ fosters a
-  college-going and college-succeeding mindset among low-income students by
-  providing them with a multi-faceted view of what to expect at college, how to
-  prepare to get there, and how to succeed in college and career.
-Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
-  In its 24th year, DC+’s enhancement and expansion is essential to further
-  bridging the college access and success gap for 600-800 students who will
-  attend. For many high schoolers, it will be the first time they visit a
-  college and the content they learn in workshops along with exposure to 70-80
-  colleges galvanizes their college-going plans. For college students, the
-  college fair and professional development workshops help them take important
-  steps toward workforce readiness and increase college persistence. Since 1977,
-  we have empowered LA youth to access and succeed in college. Today, more than
-  2,600 first-generation and lower-income students go through our life-changing
-  college access and success programs each year. We have a long history of
-  demonstrated impact. Last year, 90% of our seniors graduated high school, with
-  100% of graduates accepted to college; 88% of our college students continued
-  to persist, with our most recent cohort achieving a 75% six-year graduation
-  rate.
-What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
-  DC+ is our most important program event aimed at making college going and
-  college graduation a reality for students who are most economically
-  vulnerable. In the short-term we hope to inspire high school students see
-  college as a desirable goal that is within their reach. For college students,
-  we aim to guide them toward persistence, graduation and meaningful career
-  entry. Education is a lever for economic opportunity and our end goal is about
-  creating pathways out of poverty through education.
-
-
-  Our definition of success for DC+ is two-fold. Among high schoolers we aim to
-  empower students to have greater self-advocacy, more positive attitudes
-  towards going to college, and a greater understanding of where to receive help
-  to attend college. Among college students we aim to empower students to have
-  more positive attitudes towards a post-college career, and a greater
-  understanding of where to obtain help to complete college, find employment or
-  go to graduate school.
-
-
-  The success of DC+ is measured through post-event surveys that demonstrate the
-  following outcomes:
-
-  Among high school students—90% report a more positive attitude toward going to
-  college; 90% report knowing where and how to get help to go to college and how
-  to get into college.
-
-  Among college students—90% report feeling inspired to work towards
-  college-level employment or a graduate degree; 80% report knowing where to get
-  help completing college; and 75% report they are better equipped for the job
-  market.
-Approximately how many people will be directly impacted by this project, program, or initiative?: '1500'
-Approximately how many people will be indirectly impacted by this project, program, or initiative?: '1000'
+  Our students have been disproportionately affected by distance learning (64%
+  of LAUSD middle and high school students did not “actively participate''
+  online last spring) and the stress of the pandemic (US teens had a 31%
+  increase in mental health-related ER visits). Moreover, college applications
+  are declining dramatically (immediate college enrollment fell by 21.7% in
+  2020, nearly 8 times the pre-pandemic loss rate) especially among low-income
+  and first-generation youth and at campuses that primarily serve disadvantaged
+  students (e.g., CSU Dominguez Hills saw a 17% plunge in applications). This is
+  the greatest educational crisis of our generation. Without significant
+  intervention, previous gains to close the opportunity gap for underserved
+  students will slide precipitously. After a year of record disengagement, as
+  our school partners work to get students back on track academically, we know
+  they will need more help than ever with college counseling and
+  social-emotional supports.
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  Fulfillment Fund will help 9th-12th grade students in our partner schools
+  rebuild social-emotional connections to their peers, their educational
+  community, and their sense of purpose through on-site and/or virtual
+  workshops. Delivered with a college access and trauma-informed care lens,
+  these workshops will engage and re-connect students through team-building
+  exercises, identity development/empowerment activities, wellness checks, guest
+  speakers, and community service/civic engagement opportunities. Offered in
+  tandem with our existing programming, workshops will focus on fostering
+  social-emotional development, improving mental health and well-being in a fun
+  and interactive learning environment. Our high school programs will continue
+  to include personalized college counseling, college access lessons, college
+  tours, financial aid workshops, programming for parents in English and
+  Spanish, a summer bridge program, scholarships, and financial aid counseling
+  (all offered in-person, hybrid, or virtual as allowed by LAUSD). By creating
+  safe spaces where students are encouraged to rebuild relationships, we will
+  instill hope that their futures are still bright and their college dreams are
+  attainable and more important than ever.  (Note: Apart from this grant,
+  Fulfillment Fund continues to serve our students at both 2- and 4-year
+  colleges and universities through our College Success program, where we are
+  also ramping up social-emotional support services and career readiness
+  activities.)
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  Fulfillment Fund has a long track record of providing deep and meaningful
+  College Access and Success programs in L.A. Last year we served 2,794
+  students: 99% BIPOC, 90% low-income, and 83% first in their family to earn a
+  college degree. In 2020 our high school seniors achieved a 92% graduation rate
+  (vs. 80% for LAUSD overall). In 2019 (the most recent year for which data is
+  available) only 70% of LAUSD seniors enrolled in college after graduation,
+  while among Fulfillment Fund’s graduated seniors that year, college enrollment
+  was nearly 100% (in 2020 it was 94%). In addition, only about 25% of LAUSD
+  high school graduates overall finish a college degree within six years, while
+  in 2020 our most recent cohort achieved an 84% six-year graduation rate. The
+  success of our new social-emotional components will be measured by specific
+  pre-and post-intervention surveys, along with measurement of high school
+  graduation and college matriculation rates despite the challenges caused by
+  the pandemic.
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '1900'
 Describe how Los Angeles County will be different if your work is successful.: >-
-  The impact of DC+ extends far beyond the student and parent attendees,
-  positively affecting the broader community. It aligns with and strengthens
-  county-wide efforts to increase high school graduation rates, 2-and 4-year
-  college matriculation rates, and college persistence and graduation rates,
-  particularly within communities of color. Last year, 78% of student
-  participants were Latino/a, 14% Black/African American, and 10% Asian
-  American. In addition, it engages and connects students, who are the future
-  workforce, with volunteers, mentors, and professionals from a broad
-  cross-section of industries, while providing these individuals with the
-  opportunity to share their skills, expertise and time with the next
-  generation. 
-'Describe the role of collaborating organizations on this project.': >-
-  We partner with these 8 LAUSD high schools, where we deliver our College
-  Access programs, to help recruit and register students for DC+: 
-
-  Alexander Hamilton HS, Alliance Alice M. Baxter College-Ready HS, Alliance
-  Collins Family College-Ready HS, Ambassador School of Global Leadership, Boys
-  Academic Leadership Academy, New Open World Academy, School for the Visual
-  Arts and Humanities, and UCLA Community School. We also invite
-  students/families from community-based organizations (e.g., Big Brothers Big
-  Sisters, LA Promise Fund High School, Fulfillment Fund Las Vegas, et al.).
-  Further, as a founding member of Southern California College Access Network
-  (SoCal CAN), we share best practices, reach out to members to volunteer and
-  facilitate workshops, and invite their constituents to attend.
-Which of LA2050’s resources will be of the most value to you?:
-  - Access to the LA2050 community
-  - Communications support
-  - 'Capacity, including staff'
-Please list the organizations collaborating on this proposal.:
-  - Alexander Hamilton High School
-  - Alliance Alice M. Baxter College Ready High School
-  - >-
-    Alliance Collins College Ready High School Ambassador School of Global
-    Leadership
-  - Boys Academic Leadership Academy
-  - New Open World Academy
-  - School for the Visual Arts and Humanities
-  - UCLA Community School
-  - SoCal CAN
+  We believe that education is key to breaking the cycle of poverty and forging
+  a path to meaningful economic mobility while uplifting the diverse voices we
+  are privileged to serve. In the short term, our students will overcome their
+  pandemic-related learning loss, will be hopeful about their futures and
+  prepared for the expectations of college, will graduate high school with the
+  courses needed for college admission, will have the funding required to
+  matriculate in the Fall, and will be accepted to the school that makes the
+  most sense for them. In the long-term, our students will graduate college and
+  embark on meaningful career paths, the opportunity gap will decrease, our
+  target communities will be healthier and live longer, and median household
+  incomes will rise, for this generation of students as well as for future
+  generations. Like so many others we have served, these students will give back
+  to their communities, thus creating a growing cycle of support in Los Angeles
+  and beyond.
+Describe the role of collaborating organizations on this project.: >-
+  Since we began partnering with LAUSD high schools to offer our college access
+  services we have served thousands of students across dozens of schools. Today,
+  we have contractual full-service partnerships with five Title I LAUSD public
+  schools, plus two additional partner schools receiving opt-in services, a
+  formal vendor partnership with all LAUSD, and active efforts to increase our
+  number of partner schools. We specifically target Title I schools due to the
+  high incidence of students that require additional resources beyond that which
+  can be provided by school staff. For this project, our full-service partner
+  schools will provide access to students and will collaborate on service
+  delivery based on needs assessments unique to each partner school.
+Which of LA2050’s resources will be of the most value to you?: >-
+  Capacity-building and training,Other:: Access to community of education
+  funders
+Please list the organizations collaborating on this proposal.: >-
+  Ambassador School of Global Leadership Los Angeles High School of the Arts New
+  Open World Academy School for the Visual Arts and Humanities UCLA Community
+  School
 Which metrics will you impact?:
   - College graduates
-  - College matriculation
-  - High school graduation rates
+  - ' College matriculation'
+  - ' High school graduation rates'
 Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CONNECT
+  - ' LA is the healthiest place to LIVE'
 year: 2021
-category: learn
 filename: fulfillment-fund
-order: 34
+order: 26
 
 ---

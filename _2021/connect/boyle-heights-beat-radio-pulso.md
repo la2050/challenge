@@ -1,172 +1,127 @@
 ---
-published: true
-application_id: '3302299041'
+application_id: '3384960100'
 title: Voices/Voces
 organization_description: A fiscally sponsored group
-project_video: ''
-link_donate: 'https://boyleheightsbeat.com/how-to-support/'
+project_video: 'https://www.dropbox.com/s/b6f87xw6v60p0jv/My%20Movie.mp4?dl=0'
+link_donate: >-
+  https://www.paypal.com/donate?token=nj2ESN6DOalBLtZKFss2VHxvrfrR7DLEq4n3yBmblkOaPbHSfznHCtMIrsyL6LLaXE_ztfisOT7HC5Y2
 link_volunteer: 'https://boyleheightsbeat.com/contribute/'
-link_newsletter: ''
-mailing_address_city: Boyle Heights
-mailing_address_street: '2016 E. 1st Street #33219'
+link_newsletter: >-
+  https://visitor.r20.constantcontact.com/manage/optin?v=001I2RsqMRJGm_Os94HkTxBTNPHEm2FeBU_LYdGlgKWZQj0horGdZahUFD-R71PAS61biDHSTYqcgPkz6Ig5qD123-9Mwy6lEMOCDg7UYW8NB4K9g1QoB4zi8KH3UqjYnVCYqZojV9LlZybxYcmvwlZtxHt548os77PNC-psLnkgB-0hBrF77SteA%3D%3D
 ein: 95-4116679
 organization_name: Boyle Heights Beat/Radio Pulso
-mailing_address_state: California
 mailing_address_zip: '90033'
 organization_website: 'https://www.boyleheightsbeat.com'
-organization_twitter: '@boyleheightsbt '
-organization_facebook: 'Boyle Heights Beat '
+organization_twitter: '@boyleheightsbt'
+organization_facebook: 'https://www.facebook.com/boyleheightsbt/'
 organization_instagram: '@boyleheightsbt'
 Describe the mission of your organization.: >-
-  Boyle Heights Beat is a bilingual community news project produced by youth,
-  offering news “por y para la comunidad." The bi-lingual paper, its companion
-  website, podcast and social media presence serve as important news sources in
-  a low-income, largely immigrant community.
+  Boyle Heights Beat is a bilingual community news project and youth development
+  training program offering news "por y para la comunidad." The paper, its
+  website, podcast and social media serve as an important news source in a
+  low-income, largely immigrant community. 
 project_description: >-
-  Voices is a story-sharing project with audio and photography elements which
-  will encourage youth to engage with elders. The project will help raise
-  awareness around issues in their neighborhood, while building and
-  strengthening intergenerational social networks.
-
-
-  At the most basic level, storytelling is a way of keeping a family’s or a
-  community’s stories alive. Interview topics can be tailored to address
-  specific themes or community issues. Stories will be collected and archived as
-  a means to create further dialogues and grow networks 
-Which LA2050 goal will your submission most impact?: LA is the best place to CONNECT
+  Voices is a story-sharing project which will encourage youth to engage with
+  elders. The project, with both audio and visual elements, will help raise
+  awareness around issues in the community, while building and strengthening
+  intergenerational social networks.   At the most basic level, storytelling is
+  a way of keeping a community's stories alive. In this second installation of
+  our Voices project, we will be expanding to focus on specific hard to reach
+  elderly groups and communities within the neighborhood.
+category: connect
+connect_metrics: >-
+  Social and emotional support, LGBTQ+ equity and inclusion, Immigrant
+  integration
+create_metrics: ''
+learn_metrics: ''
+live_metrics: ''
+play_metrics: ''
 In which areas of Los Angeles will you be directly working?:
   - East LA
-  - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
-  - Boyle Heights
-In what stage of innovation is this project, program, or initiative?: >-
-  Expand existing program (expanding and continuing ongoing successful projects
-  or programs) 
+  - City of Los Angeles (select only if your project has a citywide benefit)
+  - 'Other:: Boyle Heights'
+'In what stage of innovation is this project, program, or initiative?': >-
+  Expand existing project, program, or initiative (expanding and continuing
+  ongoing, successful work)
 What is the problem that you are seeking to address?: >-
-  Boyle Heights is a neighborhood in the East Los Angeles area of nearly 100,000
-  residents. Only 5% of the population over 25 has a four-year college degree.
-  Sixty-two percent of residents are low-income, with 62% having limited English
-  proficiency.
-
-
-  Over the past decade, Boyle Heights Beat has catered to much of the
-  neighborhood’s need for information in Spanish by producing a bilingual print
-  newspaper, website and podcast. This need has become even more apparent during
-  this time of the Covid-19 Pandemic, where limited information has been readily
-  available to the Spanish speaking population, especially with the elderly
-  population.
-
-
-  With many youth no longer communicating in Spanish, young and older
-  populations are becoming further isolated from each other. Through "Voices"
-  Boyle Heights Beat will work to build and strengthen relationships between
-  youth and the elderly; creating dialogues and giving voice to both
-  populations, which often are overlooked and ignored. 
-Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
-  Over the last decade, Boyle Heights Beat has a proven track record in the
-  neighborhood and has become a source the community relies on for information
-  and engagement. Many of the issues reported by youth journalists focus on
-  transformative policy and systems of change.
-
-  A healthy community requires opportunities for residents to engage with each
-  other and their leaders and a way to know their voices are heard. Through its
-  storytelling Boyle Heights Beat provides residents these opportunities and
-  helps influence the development of community priorities.
-
-   By training youth as community reporters and conveners, Boyle Heights Beat helps empowers them as community leaders and agents of change. Youth reporters can help train others and help both young and old tell their stories.
-
-  With our connections in the community, Boyle Heights Beat can partner with
-  other local non-profits to publish exhibit the oral histories to create an
-  even greater reach and deepen community connections.
-What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
-  From our program’s beginnings researchers at UCSF created a survey to measure
-  our project’s success and impact. We conduct these surveys and interviews with
-  participant’s and community members while
-
-
-  Carmen González, an undocumented former youth reporter, is currently attending
-  Santa Monica City College and hosting and producing her own radio show. “Boyle
-  Heights Beat taught me that I can give a voice to the voiceless. I’ve learned
-  so much from my community and how to see it through different lenses. Boyle
-  Heights Beat has given me the tools to uplift everyone’s story.”
-
-
-  Another former youth reporter, Ricardo Ayala, graduated from UCLA and now
-  works a legal assistant working to help reunite families who were separated at
-  the US/Mexico border. “Boyle Heights Beat was the beginning of my journey
-  towards working in community work. As a journalist, documenting the reality of
-  residents in my community, I gained valuable skills that I have been able to
-  put into practice.”
-
-
-  District 14 Councilman José Huizar said, “Boyle Heights Beat has elevated and
-  articulated a greater understanding of the issues of our day- our history, our
-  triumphs, and our challenges.”
-
-
-  With the help of a LA2050 grant our storytelling project can continue to tell
-  important stories of our community and uplift those who don’t always have a
-  voice. With the focus of connecting youth and the elderly in the community, we
-  hope to add more value to our mission and develop symbiotic relationships
-  which benefit the community and its residents as a whole. Our success will be
-  measured by the ability to both create and sustain these relationships,
-  elevate voices and issues in the community and create a network which can be
-  used to help advocate for those in need. 
-Approximately how many people will be directly impacted by this project, program, or initiative?: '10000'
-Approximately how many people will be indirectly impacted by this project, program, or initiative?: '100000'
+  Boyle Heights is a neighborhood in East Los Angeles with nearly 100,000
+  residents. Sixty-two percent of residents are low-income, with 62% also having
+  limited English proficiency. Over the past decade, Boyle Heights Beat has
+  catered to much of the community's need for information in Spanish by
+  producing a bilingual print newspaper, website and podcast.  This need has
+  become even more apparent during the COVID-19 Pandemic, where limited
+  information has been readily available to the Spanish speaking population.
+  WIth disproportionately high numbers of COVID cases and deaths, the pandemic
+  has also resulted in increased isolation of senior citizen residents, and
+  increased rates of depression and anxiety among young people.   With many
+  youth no longer communicating in Spanish, the young and older populations are
+  becoming further estranged from each other. This project is aimed at
+  connecting these two groups, to create mutually beneficial relationships for
+  both individuals and the community. 
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  Through its "Voices" project, Boyle Heights Beat will work to build and
+  strengthen relationships between youth and elderly; creating dialogues, giving
+  voice to both populations and allowing both groups to learn about each other's
+  differences and similarities. These types of intergenerational relationships
+  help strengthen individuals and the community. Studies have shown these
+  relationships offer benefits to youth such as improved academic performance,
+  enhanced social skills and increased stability.  Over the last decade BHB has
+  a proven track record in the neighborhood and is a source the community relies
+  on for information and engagement. A healthy community requires opportunities
+  for residents to engage with each other and their leaders. Through its
+  storytelling projects, BHB provides residents with these opportunities. By
+  training youth as storytellers and conveners, BHB empowers youth as leaders
+  and agents of change. BHB can partner with other local nonprofits to publish
+  and exhibit these oral histories and create an even greater reach, deepening
+  community connections.  In this second installation of the project, we will go
+  further to deepen our impact and reach and expand our work in some of Boyle
+  Heights' most underserved areas, the neighborhood around the Ramona Gardens
+  housing project. We will also work with local organizations and nonprofits who
+  work with further marginalized groups within the community like undocumented
+  and LGBTQ residents.  
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  From our program's beginnings researchers at UCSF created a survey to measure
+  our project's success and impact. We conduct these surveys with students, who
+  are asked about what they've learned about reporting, their confidence levels,
+  the academic impact, and community engagement. Overwhelmingly students self
+  report that the program, and working with journalist mentors has improved
+  their self confidence and heightened their career ambitions and sparked an
+  interest in journalism. They also report a new understanding and appreciation
+  for their community.   In the first "Voices" series, youth report at senior at
+  Roosevelt High School Anayram Corona interviewed Carlos Montes, an activist in
+  the Chicano movement. "It's very important to connect with older community
+  members to not only learn lessons from the many stories they have to tell, but
+  also to be able to share those stories with a larger group. Sharing those
+  stories is what makes the difference in the community," she says.   
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '10000'
 Describe how Los Angeles County will be different if your work is successful.: >-
-  Direct impact includes not only participants, but our average followers on our
-  website and social media channels. Our indirect impact includes the number of
-  Boyle Heights residents who can benefit by increasing connections in the
-  community.
-
-
-  Research shows that aging adults play critical roles in the lives of young
-  people, especially the most vulnerable in society. The key is to change social
-  norms to encourage relationship building between generations. This
-  storytelling project can help cultivate a sense of purpose for both youth and
-  the elderly, and help reduce isolation and the likelihood of depression.
-
-
-  Through storytelling, residents are able to connect with, uplift each other
-  and give voice to the issues facing the community. 
-Which of LA2050’s resources will be of the most value to you?:
-  - Access to the LA2050 community
-  - Host public events or gatherings
-  - Communications support
-  - 'Office space for meetings, events, or for staff'
-  - 'Capacity, including staff'
-  - Strategy assistance and implementation
+  Research shows that aging adults play a critical role in the lives of young
+  people, especially the most vulnerable in society.  Intergenerational
+  relationships are also crucial to happiness and well-being in our later years.
+  The goal is to change social norms to encourage relationship building between
+  generations. This storytelling project is one way to bring older adults and
+  youth together, creating an opportunity for both to learn new skills and help
+  create long-lasting relationships.  These relationships can help cultivate a
+  sense of purpose for both young and old, and help reduce isolation and the
+  likelihood of depression. Through our storytelling project Voices, we hope
+  that residents are able to better connect, to find new understanding and
+  appreciation of each other, and a way to uplift each other and the issues
+  facing the community- making Los Angeles a better place. 
+Describe the role of collaborating organizations on this project.: ''
+Which of LA2050’s resources will be of the most value to you?: >-
+  Hosting virtual events or gatherings,Communications support,Capacity-building
+  and training
 Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:
   - Social and emotional support
-  - Government responsiveness to residents’ needs
-  - Immigrant integration
+  - ' LGBTQ+ equity and inclusion'
+  - ' Immigrant integration'
 Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
-  - LA is the best place to CREATE
-  - LA is the healthiest place to LIVE
-Has your proposal changed due to COVID-19?: >
-  Boyle Heights Beat has been continuing with its programming virtually since stay-at-home orders were put into place in mid-March. Mentors continue to meet with students on Zoom calls and students report and conduct interviews online and by phone; writing articles focusing on the current pandemic.      
-
-
-  To protect their safety and the safety of others, our youth reporters can begin the Voices project with elderly persons existing in their family circles and then branch outward as safety concerns are lifted.
-
-
-  If we are unable to conduct interviews in-person in the near future, Boyle Heights Beat will work with other non-profit organizations and churches serving the elderly communities to set up recording equipment to enable interviews to be done digitally.  With the additional grant funding, we can provide organizations with laptops and WIFI connections to create storytelling spaces throughout the neighborhood. 
-
-
-  In light of the Covid-19 pandemic and the uncertainty of the future, we can focus our storytelling and reporting to highlight the changing and emerging needs of the community resulting from the quarantine and its aftermath- economic, mental, and social. 
-
-
-  Stories will be edited, transcribed and translated as needed and aired on our podcast and published on our website and print editions. Journalist mentors and producers will work with students and outside organizations to promote and publish the content on local and national outlets. 
-
-
-  Stories throughout the year will be gathered and archived. It is still our hope to create installations of the oral histories, either in public or online, as a means to engage the youth and elderly communities and further dialogues and grow intergenerational networks.
+  - ' LA is the best place to CREATE'
+  - ' LA is the healthiest place to LIVE'
 year: 2021
-category: connect
 filename: boyle-heights-beat-radio-pulso
-order: 3
+order: 5
 
 ---

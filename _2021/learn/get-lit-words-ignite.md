@@ -1,18 +1,14 @@
 ---
-published: true
-application_id: '3519765724'
-title: Get Lit – Words Ignite Online Curriculum
+application_id: '3692208629'
+title: 'Uni(verse), the world''s first interactive classroom poetry platform'
 organization_description: Nonprofit
-project_video: 'https://www.youtube.com/watch?v=YpqO9tmttuI'
-link_donate: 'https://getlit.org/donate/'
-link_volunteer: 'https://getlit.org/get-involved/'
+project_video: 'https://www.youtube.com/watch?v=k1xI7Vba9w0'
+link_donate: 'https://www.getlit.org/contribute'
+link_volunteer: 'https://www.getlit.org/opportunities'
 link_newsletter: >-
   https://getlit.us14.list-manage.com/subscribe?u=34c3d6a6d4a53dc48145d88b5&id=a92bfa8739
-mailing_address_city: Los Angeles
-mailing_address_street: '672 South La Fayette Park Place, #10'
 ein: 26-4644018
 organization_name: Get Lit - Words Ignite
-mailing_address_state: California
 mailing_address_zip: 90057-3251
 organization_website: 'https://www.getlit.org'
 organization_twitter: '@getlitpoet'
@@ -24,100 +20,104 @@ Describe the mission of your organization.: >-
   emboldened to inspire social consciousness in diverse communities,
   transforming students into artists, activists, scholars, and stars.
 project_description: >-
-  This grant will support the launch of Get Lit’s Online In-School Curriculum
-  for all students and teachers in L.A. County. Our award-winning and impactful
-  poetry, literacy, and youth empowerment curriculum is the only program in the
-  nation that combines learning classic literature with the creation of poems by
-  youth. It is approved as a Univ of CA ‘A-G’ college prep elective, and has
-  been proven to significantly raise youth literacy, reduce drop-out rates and
-  improve graduation rates, and deeply affect students’ socio-emotional
-  wellbeing.
-Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
+  Get Lit’s Uni(verse) is the world's first interactive poetry platform designed
+  with youth voices and stories at the center. Based on our award-winning
+  curriculum, this learning management system invites students to dialogue with
+  the past, bring it to the present, and build new worlds through the gravity
+  and impact of their voice. Our hybrid, deeply personal call-and-response model
+  enables students across L.A. to share art in and outside of school with
+  peer-to-peer feedback, and engage in activism to affect change in their
+  classes and community.
+category: learn
+connect_metrics: ''
+create_metrics: ''
+learn_metrics: >-
+  Arts education, High school graduation rates, Student proficiency in English &
+  Language Arts
+live_metrics: ''
+play_metrics: ''
 In which areas of Los Angeles will you be directly working?:
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-  - >-
-    LAUSD (please select only if you have a district-wide partnership or
-    project)
-In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+  - County of Los Angeles (select only if your project has a countywide benefit)
+'In what stage of innovation is this project, program, or initiative?': >-
+  Pilot or new project, program, or initiative (testing or implementing a new
+  idea)
 What is the problem that you are seeking to address?: >-
-  We are responding to three urgent needs specifically regarding online
-  curricula for L.A. students: academic rigor, structure, and connectedness.
-  What the COVID-19 crisis has made clear is that the current offerings in
-  distance education are often shells of classroom curricula, and do not provide
-  students with adequate, or in some cases any, opportunity for intellectual
-  challenges, or for feedback, discussion, and connection. Through our robust
-  program, students improve their reading comprehension, vocabulary, and writing
-  skills; increase critical thinking and public speaking abilities; develop
-  greater academic engagement and self-efficacy; and build vital social skills
-  rooted in self-awareness, confidence, personal responsibility, and compassion.
-  We currently serve 120 southern CA schools with approximately 8,500 students.
-  Because of our strong belief in educational equity and inclusion, our goal is
-  to provide our life changing program to all L.A. students at this critical
-  juncture.
-Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
-  Get Lit is perfectly poised for this project. We have been a leader and
-  innovator in education for 14 years with a reputation for integrity in program
-  implementation and effectiveness. We have a long partnership with LAUSD for
-  delivery of our In-School Program. Our curriculum aligns with the Common Core
-  and VAPA Standards and is Univ of CA ‘A-G’ approved. Because of its success in
-  engaging students at risk of missing on-time graduation, LAUSD has certified
-  our curriculum as an Intervention Course. Whereas other organizations are only
-  beginning to ramp up online programs, we are prepared, savvy, and secure in
-  this arena, with a vast amount of content at the ready. We are already working
-  with tech companies Agency 39A and Extension Engine in preparation for the
-  launch, and LAUSD is now using Flipgrid video technology to record our
-  students’ performances. We have provided online content for youth for other
-  partners including The California Endowment and the L.A. Dept. of Mental
-  Health.
-What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
-  The outcome of this project will be that the Get Lit common-core aligned
-  curriculum is available online to all students in L.A. County. Currently,
-  there is no similar program in existence, especially with the outreach,
-  academic rigor, and adaptability to student needs that ours features. The
-  online curriculum will be designed to be interactive, exciting, and engaging.
-  It will include “Blitz” performances by our teen poetry troupe the Get Lit
-  Players, virtual mentoring sessions, guest speakers, the Get Lit Scoremetrics
-  app where students and teachers can see writing and performance feedback from
-  their peers in real time, as well settings for teacher/student and
-  student/student interactions. The app collects and analyzes evaluations,
-  enabling teachers to record and document student growth, in both writing and
-  performance, as well as assess the effectiveness of the curriculum. This
-  cutting-edge curriculum will culminate in the opportunity for youth to compete
-  in our Classic Slam. Lessons will incorporate video links, Google Docs, and
-  Zoom sessions, offering students sequential instruction, a nimble forum for
-  dialogues on pertinent subjects, mentorship, and support for youth who feel
-  isolated and traumatized, especially during COVID-19. To evaluate the online
-  program, Get Lit staff will survey teachers and students utilizing the
-  curriculum each semester, focusing on ease of use, content quality, depth of
-  learning, and the number of schools that are implementing the system.
-Approximately how many people will be directly impacted by this project, program, or initiative?: '800000'
-Approximately how many people will be indirectly impacted by this project, program, or initiative?: '1500000'
+  According to The Literacy Project, 25% of California’s 6 million students lack
+  basic reading skills. With such poor readers, 44% of students entering Cal
+  State schools need remediation. Without the ability to read at a proficient
+  level, our youth face great impediments to their success, including roadblocks
+  to careers, to full participation in their communities, and to comprehension
+  of national and global issues affecting their lives. Add to this the COVID-19
+  pandemic’s traumatic effect on our students, teachers, and schools,
+  interrupting the education of those already struggling, widening the
+  achievement gap between economic strata, and creating skyrocketing rates of
+  depression among isolated youth.  Uni(verse) offers youth a straightforward
+  entry into literacy and self-expression. It provides academic rigor and
+  structure that many online learning programs lack, with opportunities for
+  intellectual challenges, feedback, discussion, meaningful connection, and
+  deeply addressing emotions.
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  In August 2021, Get Lit will launch Uni(verse), the world's first interactive
+  poetry platform for the classroom. Based on “Words Ignite,” our award-winning,
+  impactful poetry, literacy, and youth empowerment curriculum, Uni(verse) will
+  give L.A. students the ability to access our curriculum online and to exchange
+  ideas within and outside of school. Uni(verse) provides deeply personalized,
+  hybrid learning through video and written modules, peer-to-peer feedback, and
+  engaging content with Get Lit alumni. It features teacher professional
+  development, guest speakers, contests, a library of resources, performances by
+  our award-winning youth poetry troupe the Get Lit Players, virtual visits
+  between classrooms, and a poetry exchange through which youth poets can share
+  their work and score and converse about one another's art. It includes our
+  annual poetry Anthology (getlitanthology.org/) with videos, bios, and
+  downloadable poems filterable by poet, theme, literary device, etc. Uni(verse)
+  participants may also compete in our annual Classic Slam, the largest youth
+  classic poetry competition in the world. Uni(verse) will give students and
+  teachers, especially in under-resourced areas, the broadest educational access
+  and options. It will support and make connections between youth who feel
+  isolated; facilitate collaborations; provide vital socio-emotional outlets;
+  and enable us to reach the greatest number and widest socio-economic strata of
+  L.A. youth with our life-changing services.
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  Our goal in 2021-22 is for Uni(verse) to be utilized by at least 48,000 L.A.
+  County students, with availability to all students in 2022-23. Our curriculum
+  is aligned with CA Common Core, VAPA, and CASEL Social and Emotional Learning
+  Standards, approved by the University of CA as an “A-G” college preparatory
+  credit, and by LAUSD as an Intervention Course. The platform incorporates our
+  Scoremetrics app for tracking student growth in writing, performing,
+  articulation, and emotional connection to material. Using real-time teacher
+  and peer-to-peer evaluation, this game-like app improves Level 4 Depth of
+  Knowledge skills and builds relationships among youth. We will also administer
+  student surveys at the start and end of each semester. In addition to artistic
+  skills and knowledge, surveys will measure retention rates, engagement, and
+  overall depth of learning. Evidence of our impact will include significant
+  improvement in students’ attendance, grades, and literacy after participation.
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '48000'
 Describe how Los Angeles County will be different if your work is successful.: >-
-  We will  transform the format of education by improving literacy on a broad
-  scale. This project will close the achievement gap by providing an online
-  personalized learning experience to all students (traditional or homeschool),
-  regardless of income or social class. It will ignite students’ love of
-  language, provide them with tools for empowerment and success, and support
-  college readiness. It will change the dynamics and power structures, allowing
-  all students, including those not comfortable speaking, to share stories and
-  engage in cross-city dialogue. It will provide socio-emotional support,
-  facilitate connection and active civic engagement. Our plan is to offer this
-  curriculum to all of California, followed by nationally.  
-Which of LA2050’s resources will be of the most value to you?:
-  - Access to the LA2050 community
-  - Communications support
-  - Strategy assistance and implementation
+  Uni(verse) reimagines the student experience for L.A. youth, will transform
+  the format of education, and will improve literacy on a broad scale. It will
+  close the achievement gap by providing online personalized learning
+  experiences to all students regardless of socio-economic level. Students’
+  voices and students’ stories are at the center of Uni(verse). It will ignite
+  their love of language, support college readiness, and change classroom
+  dynamics allowing all students to share and engage in cross-county dialogue.
+  With our call-and-response model, students claim a classic poem that resonates
+  with their own stories and write original responses, placing the greatest
+  poets in history in dialogue with L.A. youth. Uni(verse) guides students in
+  discovering, developing, and amplifying their voices, supports communicating
+  both among youth and to a larger ecosystem, fosters empowerment, and develops
+  leaders prepared to generate tangible change in their communities.
+Describe the role of collaborating organizations on this project.: ''
+Which of LA2050’s resources will be of the most value to you?: >-
+  Access to the LA2050 community,Communications support,Strategy assistance and
+  implementation
 Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:
   - Arts education
-  - High school graduation rates
-  - Student proficiency in English & Language Arts
+  - ' High school graduation rates'
+  - ' Student proficiency in English & Language Arts'
 Indicate any additional LA2050 goals your project will impact.: []
 year: 2021
-category: learn
 filename: get-lit-words-ignite
-order: 35
+order: 28
 
 ---

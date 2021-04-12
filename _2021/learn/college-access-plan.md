@@ -1,19 +1,13 @@
 ---
-published: true
-application_id: '5773414508'
-title: PUSD to College Graduation
+application_id: '4336152275'
+title: 100% Financial Aid for PUSD
 organization_description: Nonprofit
 project_video: 'https://vimeo.com/268692736'
 link_donate: 'https://collegeaccessplan.org/donate/'
-link_volunteer: >-
-  https://docs.google.com/forms/d/e/1FAIpQLSf8o4NiVi5PdFd2aqYHzmkYZXKZYC93ch8q83j_A-fhiEm3Uw/viewform
-link_newsletter: >-
-  https://collegeaccessplan.us12.list-manage.com/subscribe?u=da41563e916f847308e3ceda5&id=9c41370ed4
-mailing_address_city: Pasadena
-mailing_address_street: '871 E. Washington Blvd., Suite 207'
+link_volunteer: 'https://collegeaccessplan.org/volunteer/'
+link_newsletter: 'https://collegeaccessplan.org/'
 ein: 20-8371402
 organization_name: College Access Plan
-mailing_address_state: California
 mailing_address_zip: '91104'
 organization_website: 'https://www.collegeaccessplan.org'
 organization_twitter: '@iheartcollege'
@@ -24,100 +18,112 @@ Describe the mission of your organization.: >-
   mission is to prepare students who attend Pasadena Unified schools for college
   success.
 project_description: >-
-  CAP offers easy-to-access college readiness support through dynamic drop-in
-  advisement that meets individual needs; prioritizes student-driven
-  relationships; and is open to all regardless of grades, ability to attend, or
-  immigration status. This grant will support CAP’s existing programs at six
-  traditional and alternative high schools in PUSD with the goal of increasing
-  the college-going rate from 72% to 90% in the next decade through increased
-  student and family access to application support, test prep, financial aid
-  guidance, and more. 
-Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
+  90% of students who complete financial aid applications enroll in a
+  postsecondary institution upon high school graduation versus 50% of their
+  non-completing peers. Our community collaborative aims to creatively achieve
+  100% FAFSA/California Dream Act application completion for all eligible
+  Pasadena Unified 12th graders to increase college matriculation among
+  underrepresented groups in our diverse community.
+category: learn
+connect_metrics: ''
+create_metrics: ''
+learn_metrics: 'Enrollment in afterschool programs, College graduates, College matriculation'
+live_metrics: ''
+play_metrics: ''
 In which areas of Los Angeles will you be directly working?:
   - San Gabriel Valley
-In what stage of innovation is this project, program, or initiative?: >-
-  Expand existing program (expanding and continuing ongoing successful projects
-  or programs)
+'In what stage of innovation is this project, program, or initiative?': >-
+  Pilot or new project, program, or initiative (testing or implementing a new
+  idea)
 What is the problem that you are seeking to address?: >-
-  PUSD has faced deep cuts and is unable to support a population where a
-  majority of the students are low-income and first generation college-going.
-  Despite a large number of college access organizations in Los Angeles County,
-  CAP is the only one serving PUSD students without barriers, requirements, or
-  limits. As in all public school districts in California, our counselors manage
-  large caseloads and can’t possibly provide all college readiness supports —
-  including personal statement writing, college list curation, test preparation,
-  and more — without external support. We all know that families with the
-  resources to do so pay for these services. Education is a public good. Those
-  without the luxury to pay still deserve equitable access to the college
-  degrees that will help them to become tomorrow’s leaders.
-
-
-  It is not yet clear what the impact of COVID-19 will be on educational
-  funding; however, we are as dedicated as ever to supporting PUSD students
-  through and beyond this global event.
-Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
-  CAP began serving 2 students at John Muir High School in 2006 and has grown to
-  serve 1,600 students attending or who have graduated from 6 high schools and 7
-  middle schools. Our staff and board are educators, advocates, experts, PUSD
-  grads, community members, parents, and leaders. We are Pasadena proud.
-
-
-  We collaborate with teachers, counselors, administrators, families, and —
-  above all — students to ensure every future leader can attend and graduate
-  from college. We consider ourselves tireless advocates for educational access,
-  and our students’ experiences shape our responsive support. 
-
-
-  We will not change what we do; rather, we will ensure that our services remain
-  open to all students even as budgets tighten. We do not yet know what the
-  impact of COVID-19 will be, but we do know that it will be great. In an
-  ecosystem of declining resources, CAP will remain steadfast, even increasing
-  the number of students and families we support, encouraging more students that
-  college is for them.
-What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "CAP tracks the daily attendance of all students who attend programs and does not remove any students from data analysis. Thanks to a Memorandum of Agreement with PUSD, CAP is able to track students after graduation through the National Student Clearinghouse (NSC) – both CAP attendees and non-attendees – to compare college attendance rates. The district provides detailed information, including student demographics and A-G course completion. CAP is able to use the demographic information to generate descriptive statistics on the graduating class as a whole and on the population served by CAP.\n\nCAP success is measured by the following:\n-75% of 12th grade participants who are A-G-ready are accepted to four-year colleges\n-90% of 12th grade participants at all levels of ability plan to attend college\L-100% of eligible senior participants complete at FAFSA or Dream Act application\n-45%+ of participants are male\n-25% of 12th grade attendees have 10+ meaningful interactions with staff/attend 10+ drop-in sessions\n-80% of regular attendees (10+) enroll in CAP’s I Heart College alumni program\n\nSuccess, Defined: All students, regardless of prior academic performance, feel like they are college bound, feel that a trusted adult believes in their potential to graduate with a bachelor’s degree, and have the resources and support to apply to a range of best-fit colleges. CAP students’ number of college applications exceed the average and all students make informed decisions on where they enroll in and how they pay for college. By 2030, we seek to see college enrollment in PUSD increase by 20%."
-Approximately how many people will be directly impacted by this project, program, or initiative?: '800'
-Approximately how many people will be indirectly impacted by this project, program, or initiative?: '3000'
+  A 2017 NCAN-commissioned study found that students in “higher-poverty school
+  districts are less likely to complete the FAFSA than students in wealthier
+  districts” and that billions in funding for eligible students is left on the
+  table annually. These data ring true in Pasadena, where 74% of high school
+  students are “socioeconomically disadvantaged” according to the CDE, and 86%
+  come from racial/ethnic groups that are underrepresented in our nation’s
+  colleges; however, only 44% of students completed one of these forms in
+  2019-2020.   This collaborative effort will draw from proven best practices
+  and local community initiatives to increase financial aid access and,
+  therefore, increase college matriculation and graduation rates. In this
+  historically Black and Latinx community, the effort to reach 100% FAFSA/Dream
+  Act completion aims to maintain our rich, local diversity while ensuring the
+  people who live, work, and learn here can thrive.
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  This community-wide effort to achieve 100% FAFSA/CADAA completion will: 
+  -Create an engaged and energized committee of site, district, and community
+  leaders that meets regularly and involves partners from a variety of sectors 
+  -Rely on student-level data to identify 12th graders who may need additional
+  support completing forms and to track those who have started, submitted, and
+  completed -Use these data to identify students who are A-G eligible and must
+  submit by the state’s March 2nd Cal Grant deadline for four-year colleges
+  -Build capacity of staff across the district and in community partnerships to
+  share the skills and knowledge to implement and continue financial aid
+  application completion assistance -Provide in-person and Zoom presentations
+  across schools and the community in Spanish and English -Coordinate across the
+  district to inspire healthy competition between schools through prizes and
+  kudos focused on those with the greatest percent of students meeting key
+  benchmarks -Use positive messaging to build excitement around financial aid
+  goal, including a completion thermometer at the district and school sites,
+  community-focused marketing and celebrations, etc.  -Through workshops, town
+  halls, and marketing, leverage resources provided by a grant from the federal
+  Office of Minority Health to Day One and Young & Healthy in order to provide
+  free tax preparation support and key information about available tax credits
+  and financial aid forms to low-income community members
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  While PUSD and related partners each have their own internal FAFSA/CADAA
+  goals, the key members of this collaborative (CAP, PUSD, and PEF) have never
+  shared a plan for financial aid attainment for all students.   Measurement of
+  this goal is straightforward as financial aid form completion data are updated
+  regularly by the California Student Aid Commission (CSAC). We will measure
+  success via two key outcome measures:  1- % of A-G eligible students who
+  complete one of these forms by the March 2nd deadline 2- Percent of A-G
+  non-eligible students who complete one of these forms by the end of the school
+  year  Secondary measures include:   1- Number of students who are identified
+  and receive additional support through student-level data 2- Success of
+  marketing and social media campaigns based on traffic, shares, likes, etc. 3-
+  Qualitative impact of collaboration as measured by surveys of steering
+  committee members, counselors, teachers, and stakeholders
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '1300'
 Describe how Los Angeles County will be different if your work is successful.: >-
-  Michael entered our SAT prep course unsure he’d attend a 4-year college. It’d
-  be too expensive. He couldn’t get in. 
-
-
-  Michael graduates from Stanford in May and is now a CAP board member. With our
-  program staff support, he completed his college portfolio. In college he
-  served 2 terms on our Alumni Advisory Council, encouraging his peers. At
-  Stanford he’s been a tireless advocate for educational access. Michael has
-  shared his CAP experience with hundreds. His advocacy work in college has
-  impacted thousands. 
-
-
-  CAP works in a complicated community and we do one thing: support students
-  through college success. We are a thread in a web of local supports, and our
-  shared efforts are amplified by collaboration and student voice.
-'Describe the role of collaborating organizations on this project.': >-
-  PUSD is CAP’s once and future partner in supporting students’ college
-  aspirations. CAP particularly partners with PasadenaLEARNs, PUSD’s after
-  school program, and the two alternative high schools to provide our signature
-  drop-in programs. Collaborations with PUSD’s Linked Learning Academies and
-  with John Muir High School Early College Magnet help us to engage more deeply
-  with teachers and students during the school day. While PUSD invests funds in
-  its partnership with CAP in addition to providing in-kind access to rooms and
-  other resources, these funds have stagnated or in some cases decreased over
-  the past few years even as our collaborative efforts have grown. CAP seeks to
-  buttress PUSD’s diminished resources and ensure that our collaboration can
-  continue to grow and deepen.
-Which of LA2050’s resources will be of the most value to you?:
-  - Access to the LA2050 community
-  - Communications support
-  - 'Capacity, including staff'
-Please list the organizations collaborating on this proposal.: Pasadena Unified School District
+  The community served by PUSD covers Pasadena, Altadena, and Sierra Madre -- a
+  geographical area that is wildly economically, ethnically, and culturally
+  diverse and home to one of the largest historically Black populations in the
+  county. Our area serves as a manageably-sized microcosm of Los Angeles County
+  itself. Financial aid completion is a key indicator of college enrollment and
+  success, and, in the current year and pandemic crisis, our FAFSA/CADAA
+  completion rates lag behind those of LAUSD and the county, at 59% and 52%
+  respectively to our 40%, according to the California Student Aid Commission.  
+  If successful, our community-wide and multi-sector effort can serve as a
+  blueprint for others in our county. If our financial aid form completion rates
+  can increase dramatically next year, closing the gap from 40% to nearly 100%,
+  the practices we test can be adapted and adopted by partnering districts and
+  improved upon by our own community efforts in the coming years. 
+Describe the role of collaborating organizations on this project.: >-
+  CAP will liaison between key collaborators and CBO partnerships that support
+  tax form completion and spread the word to our community’s most vulnerable
+  families. CAP will serve as content experts alongside PUSD counselors and
+  provide the bulk of dedicated staffing and curriculum development. PUSD is
+  where the action happens. They will lead the effort on the ground, provide key
+  data, and drive the district-wide vision for financial aid form completion.
+  PEF will support key school site partners to spread the word about FAFSA/CADAA
+  completion to students and families. They will ensure messaging is included in
+  all communication about graduation, require FAFSA/CADAA completion for
+  scholarship awards, and solicit new donors to increase the size and number of
+  scholarships.
+Which of LA2050’s resources will be of the most value to you?: >-
+  Access to the LA2050 community,Communications support,Strategy assistance and
+  implementation
+Please list the organizations collaborating on this proposal.: Pasadena Educational Foundation Pasadena Unified School District
 Which metrics will you impact?:
   - Enrollment in afterschool programs
-  - College matriculation
-  - Community college completion
+  - ' College graduates'
+  - ' College matriculation'
 Indicate any additional LA2050 goals your project will impact.:
-  - LA is the best place to CONNECT
+  - LA is the best place to CREATE
+  - ' LA is the best place to CONNECT'
+  - ' LA is the healthiest place to LIVE'
 year: 2021
-category: learn
 filename: college-access-plan
 order: 17
 

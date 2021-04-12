@@ -1,126 +1,129 @@
 ---
-published: true
-application_id: '1789502797'
-title: A Girl-Powered Foto Studio by Las Fotos Project
-organization_description: Nonprofit
-project_video: ''
+application_id: '6957203686'
+title: 'The Foto Forum: A Creative Advocacy Space for Teen Girls'
+organization_description: A fiscally sponsored group
+project_video: 'https://youtu.be/J3f049PXnmQ'
 link_donate: >-
   https://lasfotosproject.networkforgood.com/projects/59604-thank-you-for-supporting-las-fotos-project
-link_volunteer: 'http://lasfotosproject.org/get-involved'
-link_newsletter: 'http://lasfotosproject.org/contact'
-mailing_address_city: Los Angeles
-mailing_address_street: 1000. N. Alameda Street Suite 240
+link_volunteer: 'https://lasfotosproject.org/mentorapplication/'
+link_newsletter: 'https://lasfotosproject.org/contact/'
 ein: 95-4302067
 organization_name: Las Fotos Project
-mailing_address_state: California
 mailing_address_zip: '90012'
-organization_website: 'https://www.lasfotosproject.org'
+organization_website: 'https://lasfotosproject.org/'
 organization_twitter: '@lasfotosproject'
-organization_facebook: www.facebook.com/lasfotosproject
+organization_facebook: Las Fotos Project
 organization_instagram: '@lasfotosproject'
 Describe the mission of your organization.: >-
-  The mission of Las Fotos Project is to elevate the voices of teenage girls
-  through photography and mentorship, inspiring them to use cameras to explore
-  their identity, advocate for their community, and create their future career.
+  Las Fotos Project’s mission is to elevate the voices of teenage girls from
+  communities of color through photography and mentoring, empowering them to
+  channel their creativity for the benefit of themselves, their community, and
+  future careers.
 project_description: >-
-  Las Fotos Project is opening a youth-centered photography studio in the heart
-  of Boyle Heights where teen girls can build up their professional skills and
-  earn an income by providing culturally relevant services for the community.
-  During the school day, the studio will be made available as an affordable
-  option for local artists/creatives, and after-school and on weekends the
-  studio will be used by our students to conduct photoshoots and e-commerce
-  photography services for women/POC-owned small businesses.
-Which LA2050 goal will your submission most impact?: LA is the best place to CREATE
+  Our vision is to provide a new platform for young women who are using their
+  photography as a means to advocate for their communities. Turning the outdoor
+  space of our new gallery into an outdoor exhibition space where young women
+  can display their photo essays that highlight injustices found throughout
+  their communities will also provide the community a safe forum to use these
+  images as a catalyst for dialogue and advocacy for issues from housing  to
+  food insecurity and economic equity.
+category: create
+connect_metrics: ''
+create_metrics: >-
+  Arts establishments, instillations, and exhibitions, Employment in the
+  creative industries, Income inequality
+learn_metrics: ''
+live_metrics: ''
+play_metrics: ''
 In which areas of Los Angeles will you be directly working?:
+  - Central LA
   - East LA
-  - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
-In what stage of innovation is this project, program, or initiative?: >-
-  Expand existing program (expanding and continuing ongoing successful projects
-  or programs)
+  - South LA
+'In what stage of innovation is this project, program, or initiative?': >-
+  Expand existing project, program, or initiative (expanding and continuing
+  ongoing, successful work)
 What is the problem that you are seeking to address?: >-
-  Las Fotos Project was created for teenage girls to have the freedom to express
-  themselves and explore their identity. When our students completed our
-  creative programs, they asked ‘what next?’ We knew that simply pointing them
-  toward careers in the creative economy would be setting them down an
-  inequitable path of racial and gender roadblocks. Our students' question
-  inspired a vision for a youth-centered photography studio where teen girls can
-  begin to dismantle roadblocks by building their professional and economic
-  capital. In the midst of COVID19, we are refining our vision to support
-  recovery and healing by launching a model that supports students, offers
-  affordable services to the community and partners with some of the 200,000
-  women business owners in L.A. This mutual-aid effort will invite creatives to
-  work in the studio through low-cost memberships, offer e-commerce product
-  photography packages and provide opportunities for students to receive paid
-  on-the-job training. 
-Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
-  We launched a small photography entrepreneurial training program for teen
-  girls in 2017, providing our students opportunities to work as hired
-  photographers with the support of professional photographer mentors. The
-  program grew from 7 girls generating $24,700 in revenue during our first year
-  to 15 girls generating $38,800 in revenue our second year; there are currently
-  23 teen girls learning everything from event photography to post-production.
-  We attribute the successful growth of the program to the guidance of our
-  strong women of color leaders and mentors. Additionally, Las Fotos Project has
-  always been a youth-centered photography nonprofit organization; there is a
-  power-sharing between adults and youth—where youth are entrusted with the big
-  issues and encouraged to drive our gender equity work with their feedback.
-  This power-sharing gives youth a seat at the table, value, and respect, while
-  still receiving support and guidance from adults through a generative learning
-  process. 
-What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
-  Through the youth-led photography studio, Las Fotos Project is applying its
-  community-centered engagement approach to build a mutually-beneficial and
-  sustainable site for youth, artists and small businesses to support one
-  another and recover from the economic fallout caused by COVID19. We envision
-  the Las Fotos Project’s youth-centered photography studio as both an incubator
-  and accelerator, ensuring that more teenage girls have the skills and support
-  to pursue lucrative creative careers while also providing local creatives and
-  small business owners with accessible and culturally-responsive photography
-  services. LFP defines success as working to reduce income inequality by
-  removing barriers for emerging artists to access professional networks and
-  launch entrepreneurial business models for the creative economy. We will
-  identify women-owned businesses seeking to build their online presence to
-  provide affordable e-commerce and marketing photography services, creating an
-  economic support loop between women and girls. We are also currently
-  developing service pricing models that will be accessible and affordable to
-  the local community. The outcomes of our activities will be measured through
-  pre/post-program assessments for students, pre/post-surveys for venue renters,
-  and client satisfaction surveys. Our regular Youth Advisory Council meetings
-  and LFP member meetings will also create an avenue for direct feedback on the
-  effectiveness and accessibility of our business model.
-Approximately how many people will be directly impacted by this project, program, or initiative?: '100'
-Approximately how many people will be indirectly impacted by this project, program, or initiative?: '1200'
+  Los Angeles County BIPOC residents have been historically marginalized by
+  institutions and systems. Adverse effects of this systematic disempowerment
+  may include health disparities, stigma, limited resources for wellbeing, and
+  limited outlets for youth-centered leadership. These disparities have been
+  further exposed by the toll the pandemic has taken in these communities and
+  the subsequent inaccessibility to the vaccine as it became available. In
+  contributing to the transformation of what is deemed as equitable and
+  inclusive, greater steps need to be taken to ensure that institutions and
+  those in office are implementing such a change. By adapting an
+  evidence-informed public health promotora (advocacy) model, credible youth
+  leaders who participate in the Las Fotos Project Digital Promotora program,
+  and who are trusted by the community can create innovative partnerships to
+  gather and share stories, dismantle stigma, challenge misinformation, and
+  share resources.
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  Since our founding in 2010, the organization has not only helped empower young
+  girls through photography, but has given them the opportunity to explore a
+  potential career path and as a tool for self-expression and exploration. To
+  help further our mission, we have begun to establish a studio space for young
+  creative entrepreneurs, which will act as an incubator for their own small
+  businesses and launch pad for their future careers. This process, coupled with
+  the impact of COVID19 on our communities, has surfaced the need to provide a
+  similar space for young creative advocates. Our new studio location also has
+  the capacity to create an outdoor exhibition & community space which would
+  allow for community members to safely gather and host intentional exchange
+  ideas. Our project, The Foto Forum: A Creative Advocacy Space for Teen Girls,
+  will build on our existing Digital Promotoras program which works with youth
+  leaders to use social media, photojournalism, and multimedia to promote
+  awareness of social inequities facing their community. Their projects serve as
+  first-person digital narratives that inform audiences of available health
+  resources and the actions being taken to create healthier neighborhoods,
+  families, and communities. The Foto Forum will amplify our students’ voices
+  and their calls to action by actively engaging community members in
+  solutions-based dialogue, an opportunity that is rarely experienced in
+  traditional gallery spaces.
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  The organization’s mission of empowering young girls from communities of color
+  is rooted in our three core programs: Esta Soy Yo, Digital Promotoras, and
+  Creative Entrepreneurship Opportunities. The Digital Promotoras program,
+  started in 2014 is modeled after the culturally and linguistically competent
+  community-based health education “promotora” model with an infusion of
+  artistic expression through participatory photography and digital media
+  storytelling. For the past 7 years, we have successfully adapted a proven
+  model for improving health outcomes in multicultural communities and
+  repurposed it to document social issues through creative expression. Our
+  previous project, a ‘Girl-Powered Foto Studio by Las Fotos Project’ centered
+  on providing students with resources to advance their creative careers. While
+  building out the studio, we saw the opportunity to provide a physical
+  community creative & advocacy space, flexible enough to adapt to ever-changing
+  COVID19 protocols.
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '150'
 Describe how Los Angeles County will be different if your work is successful.: >-
-  Las Fotos Project supports the agency of teenage girls from communities of
-  color by creating an environment that both values and validates their lived
-  experiences. They are mentored by and create images of people who look like
-  them, living lives that may be similar to their own lived experiences. We've
-  seen how this environment empowers girls to self-advocate and explore their
-  own cultural, community and professional identities further. Our new studio
-  will allow us to continue this work on a much greater level by creating a
-  venue where girls from the community can launch into their creative careers by
-  providing their families, neighbors and local small businesses with the
-  relevant photography resources they need to rebound and flourish.
-Which of LA2050’s resources will be of the most value to you?:
-  - Access to the LA2050 community
-  - Host public events or gatherings
-  - Communications support
-  - 'Capacity, including staff'
-  - Strategy assistance and implementation
+  Work that our students complete through our Digital Promotoras,
+  photojournalism classes highlight communities and social injustices that are
+  embedded in their daily lives. Given the equipment & resources to participate,
+  our students go on a semester-long journey that invites them to delve deeper
+  into their communities and examine inequalities that have been embedded in
+  their own neighborhoods. Through our proposed project, teenage girls in the
+  Los Angeles community will have the space to have their voices amplified as
+  they identify challenges within their communities and the proposed steps that
+  their communities can take to come together and enact change. With youth
+  highlighting their communities and placing issues important to them at the
+  center of their photography, residents & communities throughout Los Angeles
+  will have their stories told, all the while having a space where they can come
+  together, connect with other community members and build dialogue & action
+  through photography.
+Describe the role of collaborating organizations on this project.: ''
+Which of LA2050’s resources will be of the most value to you?: >-
+  Access to the LA2050 community,Communications support,Capacity-building and
+  training,Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:
-  - Employment in the creative industries
-  - Income inequality
-  - Minority- and women-owned businesses
+  - Arts establishments
+  - ' instillations'
+  - ' and exhibitions'
+  - ' Employment in the creative industries'
+  - ' Income inequality'
 Indicate any additional LA2050 goals your project will impact.:
-  - LA is the best place to LEARN
-Has your proposal changed due to COVID-19?: >
-  The Las Fotos Project team has remained vigilant of the new changes to state and city-wide mandates, as well as health developments emerging from the CDC. We will be amending our project time-line to reflect these emerging recommendations.  Our project remains focused on mutual-aid, post-COVID19 support for our students, and women-owned businesses. In the interim, we will begin the launch of our project by supporting our students and women-owned businesses with safe, at-home product photography services in the upcoming months until we feel we can safely and adequately open the Foto Studio in person.
+  - LA is the best place to CONNECT
 year: 2021
-category: create
 filename: las-fotos-project
-order: 20
+order: 24
 
 ---

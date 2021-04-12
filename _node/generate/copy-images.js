@@ -56,8 +56,7 @@ function loadMarkdown(filename) {
 function getMatchingFile(application_id) {
   // console.dir(submissionFiles);
   for (let index = 0; index < submissionFiles.length; index++) {
-    if (submissionFiles[index].indexOf(application_id) >= 0 &&
-        submissionFiles[index].indexOf('.pdf') < 0) {
+    if (submissionFiles[index].indexOf(application_id) >= 0) {
         return submissionFiles[index];
     }
   }
@@ -186,10 +185,12 @@ function updateLocations(folder) {
 }
 
 
-let submissionFiles = getAllFilesFromFolder('../../_data/download-2020');
+const submissionFiles = getAllFilesFromFolder('../../_data/2021/04-03/images').filter(file => file.endsWith('.pdf') !== true);
 
-updateLocations('../_2020/learn');
-updateLocations('../_2020/create');
-updateLocations('../_2020/play');
-updateLocations('../_2020/connect');
-updateLocations('../_2020/live');
+// console.log(submissionFiles);
+
+updateLocations('../_2021/learn');
+updateLocations('../_2021/create');
+updateLocations('../_2021/play');
+updateLocations('../_2021/connect');
+updateLocations('../_2021/live');

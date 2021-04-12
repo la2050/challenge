@@ -1,101 +1,111 @@
 ---
-published: true
-application_id: 0006072821
-title: The Urban Cyclists Collective
+application_id: '1656539543'
+title: Cycle Community Change
 organization_description: Nonprofit
-project_video: ''
-link_donate: ''
-link_volunteer: ''
-link_newsletter: ''
-mailing_address_city: Los Angeles
-mailing_address_street: 1513 E. 103rd Street
+project_video: 'https://www.youtube.com/watch?v=PB2E8GjjwuQ'
+link_donate: 'https://www.esrbc.org/donate'
+link_volunteer: 'https://www.esrbc.org/apply'
+link_newsletter: 'https://www.esrbc.org/contact'
 ein: 27-1119835
-organization_name: East Side Riders Bike Club
-mailing_address_state: California
-mailing_address_zip: '90002'
+organization_name: East Side Rider's Bike Club
+mailing_address_zip: '90059'
 organization_website: 'https://www.esrbc.org'
 organization_twitter: '@eastsideriders'
-organization_facebook: facebook.com/eastsideriders
+organization_facebook: East Side Riders BC
 organization_instagram: '@eastsideriders'
-Describe the mission of your organization.: >-
-  East Side Riders Bike Club’s mission is to improve Watts through community
-  service, charity work, and bike programs aimed at keeping local youth out of
-  gang and drug activity.
-project_description: >-
-  The Urban Cycling Collective is a project that aims to increase urban cycling
-  ridership in South LA through bike/trike & equipment giveaways, bike safety
-  training, marshaling rides, and establishing new bicycle clubs in surrounding
-  neighborhoods. Based in Watts, ESRBC has been cultivating bike culture and
-  steering youth & their families away from drugs and gang activity for over 10+
-  years. We intend to scale our program in Watts in addition to 4 communities
-  surrounding our neighborhoods: Compton, Lynwood, Florence-Firestone, and
-  Willowbrook.
-Which LA2050 goal will your submission most impact?: LA is the best place to PLAY
+Describe the mission of your organization.: "Our mission is to prevent kids from being in gangs and doing drugs, helping those in need and educating\_all who seek to enrich the community. "
+project_description: "East Side Riders Bike Club gives children in Watts an alternative to gangs and drugs by hosting COVID-safe group bike rides,\_purchasing helmets and used bikes for children living in poverty, teaching bicycle safety and repair, and working with government and community leaders to create safe bike travel lanes.   We practice community service, which helps children build their confidence and self esteem while building a sense of community. During COVID-19 we've been feeding hungry families and community cleanups in addition to our group rides. "
+category: play
+connect_metrics: ''
+create_metrics: ''
+learn_metrics: ''
+live_metrics: ''
+play_metrics: 'Walking and biking, Obesity, Youth sports participation'
 In which areas of Los Angeles will you be directly working?:
   - South LA
-In what stage of innovation is this project, program, or initiative?: >-
-  Expand existing program (expanding and continuing ongoing successful projects
-  or programs)
+'In what stage of innovation is this project, program, or initiative?': >-
+  Expand existing project, program, or initiative (expanding and continuing
+  ongoing, successful work)
 What is the problem that you are seeking to address?: >-
-  The Urban Cyclists Collective project was created in response to the poor
-  physical & mental health and low ridership plaguing South LA. In LA County’s
-  Service Planning Area 6, which houses our project area, physical & mental
-  health is in poor condition. Several stressful triggers leave little room for
-  residents to cope with depression and anxiety in a healthy way. Also, with few
-  options to exercise, residents find it difficult to manage health indicators
-  like weight, BMI, heart rate, and blood pressure. Even though a lot of work
-  has been done to bring healthier food choices into our area, lack of exercise
-  still remains a problem for youth & their families. ESRBC believes group bike
-  rides is the solution to these issues. Riding helps lower the chance of
-  depression & anxiety; encourages weight loss & decreases BMI; and positively
-  manages heart rate, blood pressure, and other health indicators. Increasing
-  ridership in our area by 250 people will ignite a change in lifestyle and
-  health.
-Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
-  East Side Riders Bicycle Club has been leading bicycle rides in the Watts and
-  surrounding community since 2008. Birthed from the need for alternative social
-  & community engagement among heavy gang violence and substance abuse, the
-  organization has become a fixture in creating positive ways for residents
-  within the community to build the type of community they want to have. Our
-  organization is a change agent. It is fueled by connectedness in an area that
-  is historically divisive. It is sustained by the hope of a safer community for
-  families to live and grow together.
-
-  We believe it is healthy to stay connected to each other and our community as
-  we ride. Our goal is to expand what we currently do to the neighborhoods and
-  cities surrounding Watts. Expanding our love for cycling and deepening our
-  connections with our neighbors builds stronger relationships as we serve each
-  other and our section of Los Angeles County. 
-What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "We envision our neighborhoods and the surrounding communities as interconnected places where youth and their families can live healthy lives biking. The goals to get there are: \n1. Recruit 250 participants ages 10 to 80 from the 5 communities.\n2. Give 50 bikes/trikes and equipment to participants in each community: Watts, Compton, Lynwood, Willowbrook, and Florence-Firestone.\n3. Hold month bike-related workshops, including bike safety, how to marshal a ride, and establishing a successful bicycle club.\n4. Collected the initial and subsequent physical health data: weight, BMI, blood pressure, resting rate and chest, waist, & hip circumference. Surveys regarding miles traveled and ride destinations, in addition to questions regarding mental health.\nWe are aiming for the following project outcomes:\nA.\t250 new urban bi-/tricyclists in our part of South LA County.\nB.\t4 new active bicycle clubs in South LA\nC.\tA riding average of 7 miles/week per person.\nD.\tAn average of 10 lbs weight loss per person\nE.\tAn average decrease of 2 BMI points\nF.\tDecrease in 5 inches of chests, hips, and waists\nG.\tAll participants’ blood pressure in a healthy range\nH.\t25% decrease in chronic depression, anxiety, and feelings of isolation\nI.\t50% increase of daily ridership."
-Approximately how many people will be directly impacted by this project, program, or initiative?: '250'
-Approximately how many people will be indirectly impacted by this project, program, or initiative?: '3750'
+  Children and teens who live in Watts and surrounding communities face
+  unrelenting peer pressure to take drugs and join gangs. There are few
+  alternatives to gang life, due to a lack of safe recreational areas and
+  activities. Due to the COVID-19 school closures, children lost almost all of
+  their access to recreation and socialization opportunities.   Over 70% of
+  families in Los Angeles do not have safe access to a park or live within a
+  quarter mile of one. Families in Watts are food-insecure and need safe,
+  inexpensive recreational opportunities and a sense of community.  Children
+  need bikes, helmets, training and supervision to be safe biking in a dense
+  urban environment. They need to be supervised to ensure that safety guidelines
+  are followed, including social distancing and the use of PPE. They need to
+  meet other children who are not in gangs and they need community support to
+  help them stay away from drugs. Children who are in gangs need to make
+  connections outside of gangs.
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  East Side Riders Bike Club (ESRBC) is more than a bike club because that's
+  what the community needs. It is not enough to teach a family in Watts how to
+  ride bikes. They need a safe place to ride and community support to keep
+  riding. Children and teens need to experience alternatives to a life of drugs
+  and gangs.  We work with the community to provide safe access for bike rides
+  in Watts and surrounding areas. We organize group rides for children and their
+  families, teach proper use of masks and other COVID-19 safety protocols, bike
+  safety, and bicycle maintenance. We provide helmets, lights, and, whenever
+  possible, bikes, if the parents can’t afford them.  We incorporate community
+  service into our rides to reinforce the concept of “giving back.” Giving back
+  increases self-esteem and self-reliance, and strengthens the sense of
+  community in an area that is often overlooked.   Our Bike Education and Safety
+  Training (B.E.A.S.T.) classes are open for the whole family to make biking
+  easy and fun for everyone. It also saves families money on bike repair, which
+  helps keep them riding.   Our volunteer supervisors ensure that everyone rides
+  safely, obeys traffic laws, and that everyone maintain a safe distance from
+  each other. Due to COVID-19, people are using bikes to commute to and from
+  school and work more than ever. They do not want to risk using public
+  transportation.   In the event of another COVID surge, bike rides will cease
+  but we will continue to feed children and families.  
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  East Side Riders Bike Club tracks the number of people who participate in our
+  group rides by the number of riders, the number of repeat riders, and, by
+  observation, the level of enjoyment. We want to ensure that everyone feels
+  safe and has a good time.   We partner with other bike clubs and plan rides to
+  different locations, so we monitor participation in those areas. By providing
+  a variety of destinations and partnering with other clubs, we can provide a
+  safe, enjoyable experience for the whole family. Participants can meet other
+  families in the neighborhood and have a good time without spending a lot of
+  money, which strengthens the community.   We track the number of people we
+  teach, the number of people who receive bikes, helmets, and bike parts.   We
+  track the number of people who volunteer in pancake breakfasts, community
+  cleanups, and the number of community leaders and agencies that work with us
+  to make Watts and the surrounding areas a better place to live, bike, and
+  play.
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '800'
 Describe how Los Angeles County will be different if your work is successful.: >-
-  The Urban Cycling Collective is designed to create exercise options for
-  residents. We know from our 10+ years of experience that bike riding keeps
-  individuals healthy & happy, strengthens our connections to neighbors, and
-  deepens our roots in our community.  Our intention is to attract all ages, all
-  race, and all cultures to this cycling program. We also aim to train residents
-  to incorporate exercise into their daily lives: school, grocery store, paying
-  bills at local utility, senior center, etc. Our hope is that these 250 people
-  will influence their social circle. A 2018 article in the Financial Times
-  stated humans devote two-thirds of our deepest connections and social time
-  with 15 people. We are hoping to influence 250x15= 3,750 people.
-Which of LA2050’s resources will be of the most value to you?:
-  - Access to the LA2050 community
-  - Host public events or gatherings
-  - Communications support
-  - 'Capacity, including staff'
-  - Strategy assistance and implementation
+  Children will have more opportunities to make friends with other children who
+  are not in gangs and not doing drugs. They will receive community support to
+  stay in school and seek alternatives to gang life. Families will have
+  COVID-safe way to get outside, exercise, and have fun.   Watts and surrounding
+  communities will continue to develop a sense of community through our
+  activities. More people from around L.A. County will be introduced to the
+  Watts community, strengthening outside participation in the Watts community
+  and increasing opportunities to ride bikes safely here.  More people will
+  learn bike maintenance and safety, which increases family participation and
+  ridership. Biking is a good alternative public transportation, especially with
+  COVID-19, and more people will be able to commute to and from work because
+  they will learn how to maintain their bikes, bike safely, and keep their bikes
+  safe from theft.  
+Describe the role of collaborating organizations on this project.: ''
+Which of LA2050’s resources will be of the most value to you?: >-
+  Capacity-building and training,Strategy assistance and
+  implementation,Volunteer recruitment
 Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:
   - Walking and biking
-  - Obesity
+  - ' Obesity'
+  - ' Youth sports participation'
 Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CONNECT
-  - LA is the healthiest place to LIVE
+  - ' LA is the healthiest place to LIVE'
 year: 2021
-category: play
 filename: east-side-riders-bike-club
-order: 7
+order: 9
 
 ---

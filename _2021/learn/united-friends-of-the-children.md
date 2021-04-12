@@ -1,19 +1,13 @@
 ---
-published: true
-application_id: '8256636473'
-title: United Friends Scholars Program
+application_id: '8901571065'
+title: Foster Youth Equity Through Financial Empowerment
 organization_description: Nonprofit
-project_video: 'https://vimeo.com/340266148'
+project_video: ''
 link_donate: 'https://www.unitedfriends.org/donate/'
-link_volunteer: >-
-  https://unitedfriends.us1.list-manage.com/subscribe/post?u=6f67f929d7f1c76e00bc7372f&id=e7a3358d20
-link_newsletter: >-
-  https://unitedfriends.us1.list-manage.com/subscribe/post?u=6f67f929d7f1c76e00bc7372f&id=e7a3358d20
-mailing_address_city: Los Angeles
-mailing_address_street: 1055 Wilshire Blvd. Suite 1955
-ein: 95-3665186
+link_volunteer: 'https://www.unitedfriends.org/about/'
+link_newsletter: 'https://www.unitedfriends.org/about/'
+ein: '953665186'
 organization_name: United Friends of the Children
-mailing_address_state: California
 mailing_address_zip: '90017'
 organization_website: 'https://www.unitedfriends.org'
 organization_twitter: '@unitedfriends'
@@ -25,81 +19,73 @@ Describe the mission of your organization.: >-
   housing programs, advocacy, and consistent relationships with a community of
   people who care.
 project_description: >-
-  The Scholars Program is specifically designed to meet the critical need for
-  high-touch, relationship-focused programming focusing on the educational
-  attainment of youth in Los Angeles County’s foster care system. Providing a
-  suite of services including educational case management and advocacy,
-  college-readiness workshops, college tours, enrichment activities, youth
-  development, and peer-led leadership opportunities, academic support, and
-  financial aid, LA foster youth are able to bridge the gap between them and
-  their non-foster peers.
-Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
+  United Friends of the Children and TWINSPIRE are partnering to provide
+  financial literacy workshops to 50 youth in Los Angeles County’s foster care
+  system. Participants will gain valuable knowledge and economic opportunities
+  to disrupt generational poverty. Led by former foster youth and financial
+  expert, Demonte “Tray” Thompson, TAY foster youth (ages 16-24) will
+  participate in cohort-based workshops designed to increase the financial
+  health and stability of foster youth as they transition to college and
+  adulthood. 
+category: learn
+connect_metrics: ''
+create_metrics: ''
+learn_metrics: 'College graduates, College matriculation, High school graduation rates'
+live_metrics: ''
+play_metrics: ''
 In which areas of Los Angeles will you be directly working?:
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-In what stage of innovation is this project, program, or initiative?: >-
-  Expand existing program (expanding and continuing ongoing successful projects
-  or programs)
+  - County of Los Angeles (select only if your project has a countywide benefit)
+'In what stage of innovation is this project, program, or initiative?': >-
+  Pilot or new project, program, or initiative (testing or implementing a new
+  idea)
 What is the problem that you are seeking to address?: >-
-  Los Angeles County is home to the largest population of foster youth in the
-  country with nearly 30,000 youth in care. Often without supports and stable a
-  home life, too many foster youth confront far too many obstacles to their
-  success in life. The mental and emotional challenges, lack of stability and
-  attachments, and sadly, the violence and abuse often experienced by young
-  people in the system translate into disproportionately high rates of
-  homelessness, incarceration, poor academic achievement, unemployment, and a
-  reliance on public assistance. Youth in foster care experience particular
-  challenges related to obtaining an education. In academic year 2018/19, only
-  57.3% of LA County foster youth graduated high school compared to 84.2%
-  overall. This represents a significant achievement gap, especially when
-  compared against graduation rates for other vulnerable subgroups –
-  socioeconomically disadvantaged (82.6%), migrant youth (89.1%), and homeless
-  youth (75.5%).  
-Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
-  United Friends has been providing educational support services to Los Angeles
-  County’s foster youth since 2003. The experience and success of youth in our
-  programs (+90% graduation rate, 80% college matriculation rate), makes us
-  uniquely qualified to expand services into the Antelope Valley. To deliver
-  these services, we hire and train college-focused counselors with professional
-  backgrounds in college counseling and/or the social services field, providing
-  a unique and effective blend of expertise. United Friends also utilizes the
-  evidence-based practices Motivational Interviewing and Positive Youth
-  Development Strategies to work in tandem with academic improvement and college
-  preparation. Finally, COVID-19 has wreaked havoc on the educational systems
-  further exacerbating the need for Scholars Program counselors to provide
-  one-on-one educational case management and oversight to ensure youth in foster
-  care receive the individual attention necessary in such an isolating
-  situation.  
-What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "Evaluating the success of the programs is achieved through in-depth data collection and analysis and is led by our Director of Impact and Evaluation. The organization currently utilizes Social Solution’s Apricot system, an encrypted cloud-based case management/outcomes database, to record and analyze participant and administrative data for our programs. This upgraded software allows for more efficient tracking of data points such as participation in key activities, indicators for success, and a youth’s progress toward their goals. Program staff routinely monitor progress towards outcomes utilizing this data monthly and at annual retreats. We also use the National Student Clearinghouse (NSC) database to help confirm the attendance and progression of students through college. This enables us to further track student progress beyond their participation in our program. \n\nOur vision is to close the significant achievement gap between youth in foster care and their non-foster peers. We will be successful when foster youth access institutions of higher education at rates meeting and exceeding the general population – in turn providing the ability to take back control of their lives and create the future they desire. To this end, outcomes for Scholars Program include: \n*\t90% of students will graduate high school \n*\t85% of students will matriculate to college \n*\t70% of college scholars will earn a college degree  \n"
-Approximately how many people will be directly impacted by this project, program, or initiative?: '700'
-Approximately how many people will be indirectly impacted by this project, program, or initiative?: '500'
+  Each year, youth in LA County’s foster care system emancipate into young
+  adulthood ill prepared for life on their own. High school graduation rates are
+  significantly lower than their non-foster peers (58% vs. 81.6%), only 3-7%
+  will ever matriculate and earn a bachelor degree, and foster youth continue to
+  be overrepresented in LA’s annual homeless counts. Additionally, the foster
+  care system is racially biased against the Black community with Black youth
+  making up just 7% of the overall youth population, yet 24% of youth in LA’s
+  foster care system. This project seeks to increase the financial literacy and
+  management skills of transition age foster youth (16-24) to immediately
+  improve their educational and life situations. Studies have shown a better
+  understanding of how and why to pay for training and education after high
+  school increases the likelihood of degree completion, career fulfillment, and
+  manageable debt (Texas Higher Education Coordinating Board, 2017). 
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': "TWINSPIRE Financial Literacy Program will host a Financial Literacy workshop every two weeks over a week 2-month period. An initial Intake Survey will be used to understand the current needs of the students and tailor the material to meet them where they are. Target youth will be transition age foster youth in UFC’s education and housing programs. Each session we will include community builders, financial literacy curriculum and activities, and Q&A time. Participants who complete the entire workshop series will receive a $200 “investment” stipend to use toward establishing financial stability (savings account, college tuition, work readiness, etc.)   Workshop topic schedule includes: \tSession 1: Intake Survey and Review  \tSession 2: Budgeting  \tSession 3: Credit Cards & Debt Management  \tSession 4: Credit Reports & Scores \tSession 5: Identity Theft / Social-emotional goal setting \tSession 6: Workforce Development / Career Exploration  \tSession 7: One-on-One Sessions \tSession 8: Program Graduation   UFC staff will be provided a two-day financial counseling training provided by TWINSPIRE. Staff members will receive an overview of personal financial literacy and management skills necessary for young adults to become self-sufficient. Staff members will integrate training components into current case management and workshops.   "
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': "This project will be an extension of UFC’s existing programs, Scholars (education-focused) and Pathways to Independence (transitional housing for TAY foster youth). UFC will leverage the financial expertise of TWINSPIRE to build the financial literacy and health of TAY foster youth as they pursue higher education and/or a stable life after experiencing homelessness.   While outcomes for youth in UFC's programs are significantly higher than their foster peers, a comprehensive understanding of personal finances is currently not being provided by UFC. Outcomes measures will include:  1.\t85% of youth will complete all workshop sessions 2.\tCollege-focused youth will have student loan repayment plans consisting of 8-10% of expected gross monthly income 3.\t100% of program participants will have a personalized budget and spending plan 4.\t100% of program participants will receive credit score and report  5.\t100% of UFC staff participants will increase their ability to financially counsel youth "
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '50'
 Describe how Los Angeles County will be different if your work is successful.: >-
-  The broader impact is observed in the foster and biological families as well.
-  Counselors are a frequent presence in the home, building relationships with
-  caregivers who become a primary referral source for the program. Additionally,
-  an annual conference draws hundreds of foster youth, caregivers, social
-  workers, and group home staff providing college readiness workshops and
-  motivation to key stakeholders throughout the county. In response to COVID-19,
-  families are provided technology to ensure digital touchpoints are accessible
-  in lieu of face-to-face contact. Finally, as youth transition from college and
-  into careers, they begin to provide the much-needed stability as pillars of
-  support to their own communities and family units.  
-Which of LA2050’s resources will be of the most value to you?:
-  - Access to the LA2050 community
-  - Communications support
-  - 'Capacity, including staff'
-  - Strategy assistance and implementation
-Please list the organizations collaborating on this proposal.: ''
+  In the long-term, this project will create stronger communities and
+  neighborhoods throughout LA County by providing youth with the knowledge and
+  skills needed to create generational wealth in the places and families where
+  they live, work, and go to school. This will be achieved by increasing the
+  financial independence and self-sufficiency of foster youth. Rather than
+  suffering from the effects of poor money management or lack of financial
+  advice, youth will be able to create balanced personal budgets and achieve
+  their financial goals including establishing strong credit histories, opening
+  checking and savings accounts, financing higher educational degrees, securing
+  a livable wage job/career, and eventual homeownership. By building the blocks
+  of financial stability, foster youth participants will transition from
+  recipients of public assistance, to self-sufficient community members
+  investing their time, talents, and resources back into their local economies,
+  families, and neighborhoods. 
+Describe the role of collaborating organizations on this project.: >-
+  Twinspire is the collaborating partner for the project and will provide
+  financial literacy workshop curriculum and facilitation. Tray Thompson, a
+  founding member of Twinspire and former foster youth will facilitate group
+  workshops. Tray brings a professional background in finance and lived
+  experience that will benefit youth in UFC’s programs. United Friends will
+  provide workshop space, free transportation to all program participants and/or
+  technology (laptops and wifi) if conducted virtually, and logistics support. 
+Which of LA2050’s resources will be of the most value to you?: 'Access to the LA2050 community,Hosting virtual events or gatherings'
+Please list the organizations collaborating on this proposal.: TWINSPIRE
 Which metrics will you impact?:
   - College graduates
-  - College matriculation
-  - High school graduation rates
-Indicate any additional LA2050 goals your project will impact.:
-  - LA is the best place to CONNECT
-  - LA is the healthiest place to LIVE
+  - ' College matriculation'
+  - ' High school graduation rates'
+Indicate any additional LA2050 goals your project will impact.: []
 year: 2021
-category: learn
 filename: united-friends-of-the-children
 order: 77
 

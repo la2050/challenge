@@ -1,148 +1,130 @@
 ---
-published: true
-application_id: '8935601147'
-title: Open Spaces
+application_id: '8041270440'
+title: End College Student Homelessness
 organization_description: Nonprofit
-project_video: 'https://www.youtube.com/watch?v=ga9tL4gsO8M&feature=youtu.be'
-link_donate: 'http://www.larnb.org/donate'
-link_volunteer: 'http://www.larnb.org/contactus'
-link_newsletter: 'http://www.larnb.org/contactus'
-mailing_address_city: Alhambra
-mailing_address_street: 106 N. 3rd Street
+project_video: 'https://abc7.com/college-homelessness-los-angeles-housing/6379003/'
+link_donate: 'https://www.larnb.org/donatenow'
+link_volunteer: 'https://www.larnb.org/contact'
+link_newsletter: 'https://www.larnb.org/blog'
 ein: 83-3172348
 organization_name: Los Angeles Room & Board
-mailing_address_state: California
-mailing_address_zip: '91801'
-organization_website: 'https://www.larnb.org'
+mailing_address_zip: '90024'
+organization_website: 'https://www.larnb.org/'
 organization_twitter: '@LA_RoomAndBoard'
 organization_facebook: 'https://www.facebook.com/losangelesroomandboard/'
 organization_instagram: '@laroomandboard'
 Describe the mission of your organization.: >-
-  Our mission is to ensure LA’s community college students achieve their college
-  completion goals by providing affordable housing that ends homelessness,
-  empowers them through our residential education program, and promotes
-  completion from their certificate, associate’s and bachelor’s degree programs.
+  End student homelessness and promote college completion among community
+  college students in the greater Los Angeles area.
 project_description: >-
-  This grant will support our Open Spaces project, allowing us to sponsor 50
-  community college students with a stable place to live, learn, and grow. Open
-  Spaces fosters partnerships with college student housing programs to reimagine
-  the use of their vacant dorm rooms to provide stability to community college
-  students experiencing housing insecurity. Supportive programs such as academic
-  mentorship, tutoring, and job readiness will get students to self-sufficiency,
-  and equip them with tools for success both inside and outside of the
-  classroom.
-Which LA2050 goal will your submission most impact?: LA is the best place to LIVE
+  LA Room & Board is on a mission to end housing insecurity among community
+  college students. In 2020, we achieved our ambitious goal to open Opportunity
+  House, an affordable live-learn community in Westwood that helps students
+  overcome barriers and graduate with stability. We formed a strong network of
+  nonprofit partners and quickly filled our space to capacity. Now, in response
+  to ongoing demand, we are scaling our unique model – not just to house more
+  students, but to formalize, with our network, a replicable solution to student
+  homelessness.
+category: live
+connect_metrics: ''
+create_metrics: ''
+learn_metrics: ''
+live_metrics: 'Food insecurity, Housing affordability, Homelessness'
+play_metrics: ''
 In which areas of Los Angeles will you be directly working?:
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+  - County of Los Angeles (select only if your project has a countywide benefit)
+'In what stage of innovation is this project, program, or initiative?': >-
+  Expand existing project, program, or initiative (expanding and continuing
+  ongoing, successful work)
 What is the problem that you are seeking to address?: >-
-  1 in 5 of LA’s community college students are facing housing insecurity &
-  homelessness. The cost of living in LA, lack of affordable housing, and
-  insufficient financial aid that's $7000 short in covering living expenses, has
-  pushed vulnerable students out of college. Take Anna for example, a
-  first-generation freshman who’d come to campus carrying with her the hopes &
-  dreams of her family. Two-thirds into the semester, her professor noticed a
-  pattern of absences and, out of concern, contacted my office. Anna had been
-  living between a friend’s couch and a homeless shelter. I connected her to
-  emergency resources, but it was too late. Anna failed all of her courses and
-  lost her financial aid. As a result, Anna dropped out this semester. This is
-  the outcome we’re hoping to prevent. We must get our students from couch
-  surfing & living in cars to housing stability, thriving in college &
-  graduation. 
-Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
-  Our strategy is focused on maximizing efficiency on college campuses. Many
-  dorms operate at less than 100% occupancy, leaving hundreds of rooms vacant
-  each year. We’ll enter into agreements with colleges to reimagine the use of
-  their open spaces to house community college students experiencing
-  homelessness. In LA, students are often unable to access city/county
-  resources, and shelters lack capacity. Our unique model could rapidly scale;
-  and our interventions are evidence-based & student-centered. Our team has the
-  expertise to execute this strategy. Sam Prater has 13 years experience as a
-  college housing professional; he will guide the development of residential
-  communities to meet academic & personal goals of students in spaces we
-  operate. Andres Cantero is a real estate attorney with skillful negotiation
-  experience with campuses & property owners. Our approach has gained traction;
-  we've secured a partnership with LA Community College District to pilot this
-  program with their students.
-What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >+
-  The success indicators for this program will be measured against these three
-  primary goals:
-
-
-  1) To provide housing for at least 50 students experiencing homelessness &
-  housing insecurity.
-
-  2) To equip students with the tools to gain self-sufficiency.
-
-  3) To set students up with academic support and resources needed to stay in
-  college.
-
-
-  We envision our project’s success by achieving these goals:
-
-
-  a.) Collaborating with local community college staff persons tasked with
-  administering basic needs services to connect their students in need to the
-  support LARNB provides.  We will house 50 students for the 2020-2021 academic
-  school year through these outreach efforts;
-
-  b) Teaching life & social skills that empower students to make sound
-  interpersonal and career choices that will enable them to secure permanent
-  housing upon completion of the program;
-
-  c) Connecting students to available resources on their college campus and
-  within the community to support their social, emotional, health and wellness
-  needs; and 
-
-  d) Tracking each student’s progress including enrollment record (e.g., GPA)
-  and degree progress and development of academic plans for each semester.
-
-
-  To measure the success of our program’s goals and aims, student participants
-  will complete a pre- and post-assessment evaluation to obtain data that
-  includes, current housing status, readiness for self-sufficiency, GPA,
-  retention from one semester to the next, etc. These assessments will guide
-  LARNB’s supportive services to students, track their individual growth, and
-  our overall impact. We will know our project is successful when we can offer
-  viable & affordable housing options for students with programming which builds
-  life skills that promote financial planning and security, academic mentorship
-  in support of a career, and interpersonal skills to navigate life’s
-  challenges. Success is realized when we give students like Anna the tools to
-  live out their full potential. 
-
-Approximately how many people will be directly impacted by this project, program, or initiative?: '50'
-Approximately how many people will be indirectly impacted by this project, program, or initiative?: ''
+  The need for safe, affordable housing among LA County’s community college
+  student population is significant: 1 in 5 report facing housing insecurity and
+  homelessness. When we opened the doors to Opportunity House in September 2020,
+  we received 350 applications for our 50-bed facility. Pandemic restrictions
+  required us to limit our initial intake to 20 students, but we have an
+  80-person waitlist ready to fill our capacity as soon as regulations allow.  
+  Housing stability is essential not only for immediate wellbeing, but for
+  setting students up for long-term success. When survival and safety needs
+  aren't met, individuals have difficulty learning, planning, and thinking about
+  the future. We believe this is a key factor contributing to the fact that
+  upwards of 70% of community college students statewide fail to graduate or
+  transfer. This puts them at risk for long-term negative outcomes, while our
+  communities miss out on the talent, energy, and potential these young people
+  have to offer.
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  Funding will help us meet rapidly growing demand following the launch of our
+  first location. The Los Angeles Community College District is interested in
+  having us open a second location at Marymount California University to house
+  30 additional students.   We believe our unique model can help establish a
+  replicable solution for ending college student homelessness regionally,
+  statewide, and even nationally. We leverage existing resources through
+  agreements with community colleges and four-year universities that reimagine
+  the use of vacant dorm rooms or nearby campus housing. Opportunity House, our
+  first location, is a converted, formerly vacant sorority house near UCLA.  
+  More than provide an affordable option, we create a thriving community.
+  Recognizing that our students often lack financial, family, or social
+  resources, we maximize their time in the shared space with support that
+  promotes degree completion and builds life skills and a foundation for
+  self-sufficiency. Our network of local nonprofits provide healthy meals,
+  tutoring, mental health support, career development, mentorship, and financial
+  literacy.   Thanks to our partners' belief in our vision, over the last year
+  they provided services on a volunteer basis to help us develop proof of
+  concept. Now, with strong initial data and growing demand, we can begin to
+  honor these partnerships with formal, paid agreements as we scale. 
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  We utilize a robust evaluation system designed by our founder Sam Prater, who
+  has 13 years of experience in higher education, plus a doctorate in
+  educational leadership and policy.  Upon joining our community, students
+  complete an intake assessment, demonstrating current housing status, readiness
+  for self-sufficiency, GPA, mental health, financial wellbeing, etc. These
+  assessments guide our delivery of individualized supportive services. Our
+  primary goal is to improve the trajectory of degree completion among community
+  college students. Initial results from our first semester shows we are on the
+  right track:   • 77% of students ended the fall semester with a GPA of 3.0 or
+  higher • 58% increased their GPA • 85% of attempted credits were earned   In
+  addition, 73% of students improved financial wellbeing, and we also observed
+  initial decreases in PTSD and depression. We will continue to track student
+  progress in each area of support provided by our nonprofit partners. 
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '80'
 Describe how Los Angeles County will be different if your work is successful.: >-
-  One of the broader impacts of our proposal is in the local economy. The
-  California Budget & Policy Center forecasts a deficit of 1 million
-  college-educated workers by 2030. We understand that failure to end student
-  homelessness & promote community college completion will not only impact
-  individuals & families, but also the economic vitality of our region,
-  especially poor communities. We will address this deficit by ensuring the 20%
-  of community college students facing homelessness & housing insecurity have
-  their basic needs met, thus allowing students to focus on graduating. This
-  ensures they won't need this kind of support in the future since a college
-  degree is related to success in the job market. LA’s vitality depends on local
-  talent.
-Which of LA2050’s resources will be of the most value to you?:
-  - Access to the LA2050 community
-  - Host public events or gatherings
-  - Communications support
-  - 'Office space for meetings, events, or for staff'
-  - 'Capacity, including staff'
-  - Strategy assistance and implementation
+  While our short-term goal is to open a second site housing 30 students, we
+  ultimately envision an end to student homelessness in LA County.    Over the
+  next year, we will build additional proof of concept needed to continue
+  expanding our model throughout the county, particularly as students face
+  continuing economic hardship due to the pandemic. By providing a thriving
+  transitional housing solution, we set them up for success and prevent
+  longer-term homelessness.   By utilizing existing, vacant spaces, we create
+  win-win partnerships that meet student needs, while helping colleges maximize
+  facilities to meet revenue goals and making efficient use of philanthropic
+  donations.   After expanding locally, we eventually aim to be a center for
+  excellence that advises leaders outside LA on building similar models in their
+  communities. We also seek to raise awareness with elected officials,
+  institutes of higher education, and nonprofits to influence public policy
+  aimed at homelessness prevention.
+Describe the role of collaborating organizations on this project.: >-
+  We currently partner with the following nonprofit organizations to provide a
+  full spectrum of support to our students:    – Tutor Me LA provides academic
+  coaching and tutoring   –  Everytable provides healthy, home-cooked meals, and
+  culinary and nutrition education –  Twinspire builds students’ skills in
+  budgeting, saving, banking, credit, investing, and more –  Stepping Forward LA
+  provides workshops and 1-1 and group mentoring to help students build social
+  capital and positive relationships with caring adult –  Ready to Succeed LA
+  helps students explore career pathways and connect with industry
+  professionals, many of whom are former foster youth themselves  We will
+  continue building essential service partnerships throughout Los Angeles County
+  as we scale to new locations. 
+Which of LA2050’s resources will be of the most value to you?: >-
+  Access to the LA2050 community,Capacity-building and training,Strategy
+  assistance and implementation,Volunteer recruitment
 Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:
   - Food insecurity
-  - Housing affordability
-  - Homelessness
+  - ' Housing affordability'
+  - ' Homelessness'
 Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
 year: 2021
-category: live
 filename: los-angeles-room-board
-order: 29
+order: 36
 
 ---

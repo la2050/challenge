@@ -1,125 +1,117 @@
 ---
-published: true
-application_id: '7536454657'
-title: Angel City Sports
+application_id: '2095679573'
+title: Building Accessibility For Persons With Disabilities
 organization_description: Nonprofit
-project_video: ''
+project_video: 'https://youtu.be/KYkQwMNJlC4'
 link_donate: 'https://app.mobilecause.com/vf/ANGEL'
 link_volunteer: 'http://angelcitysports.org/volunteer-interest-signup'
 link_newsletter: 'https://app.mobilecause.com/vf/ANGEL'
-mailing_address_city: Los Angeles
-mailing_address_street: '2355 Westwood Blvd., #1139'
 ein: 82-2603747
 organization_name: Angel City Alliance
-mailing_address_state: California
 mailing_address_zip: '90064'
-organization_website: 'http://angelcitysports.org'
+organization_website: 'https://www.angelcitysports.org'
 organization_twitter: '@angelcitysports'
-organization_facebook: 'https://www.facebook.com/angelcitysports/'
+organization_facebook: 'https://www.facebook.com/angelcitysports'
 organization_instagram: '@angelcitysports'
 Describe the mission of your organization.: >-
-  The mission of Angel City Sports (ACS) is to create sports opportunities for
-  individuals with physical disabilities, encourage physical activity and
-  demonstrate leadership to strengthen the adaptive sports movement. 
+  Angel City Sports is a nonprofit organization founded in 2013 to create a
+  broad spectrum of in-person and virtual wellness opportunities for adults and
+  children with physical disabilities to support their physical, mental, and
+  emotional well-being.  
 project_description: >-
-  ACS focuses on the training and development of athletes of all abilities and
-  skill levels. Major programs include year-round clinics for adaptive athletes
-  and The Angel City Games with seven sports - wheelchair tennis, wheelchair
-  basketball, archery, swimming, track and field, sitting volleyball and table
-  tennis. The ultimate goal is to empower physically disabled individuals living
-  to cultivate a healthy and independent lifestyle through the physical, mental,
-  and emotional benefits of physical activity. 
-Which LA2050 goal will your submission most impact?: LA is the best place to PLAY
+  Angel City Sports supports people with disabilities reaching their fullest
+  potential to engage with their communities as well as help the community
+  discover how to proactively and respectfully practice disability inclusion. 
+  To accomplish this, we create a broad spectrum of adaptive wellness
+  opportunities for adults and children with physical disabilities to support
+  their physical, mental, and emotional well-being.  The general public has an
+  opportunity to participate in these adaptive activities, creating greater
+  connection and awareness. 
+category: play
+connect_metrics: ''
+create_metrics: ''
+learn_metrics: ''
+live_metrics: ''
+play_metrics: 'Obesity, Youth sports participation'
 In which areas of Los Angeles will you be directly working?:
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-In what stage of innovation is this project, program, or initiative?: >-
-  Expand existing program (expanding and continuing ongoing successful projects
-  or programs)
-What is the problem that you are seeking to address?: >
-  According to the CDC, over 23% of Californians 18+ years old are living with a
-  physical disability. CDC researchers have found that 47% of those with
-  disabilities get no aerobic physical activity. The significant number of
-  individuals with disabilities who are inactive is particularly alarming,
-  researchers said, because they found this group is 50% more likely to report
-  having a chronic condition like cancer, diabetes, stroke, or heart disease.
-
-
-  Adaptive sports are essential for differently-abled individuals’ overall
-  health. Without such activity, individuals are at higher risk for physical and
-  mental health problems, such as obesity, heart disease, and depression.
-  Physical activity is especially important for special needs children as it can
-  help boost self-confidence and self-worth. It can also improve skills in
-  relationship building and working as part of a team.  These skills and tools
-  help youth build the foundation for healthy, productive and successful lives
-  as adults.
-Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
-  ACS’ CEO’s, Clayton Frech’s, son, Ezra, was born with congenital limb
-  differences.  Growing up, Ezra developed into a competitive athlete and is
-  currently a U.S. Paralympics track and field athlete.  In addition, Ezra
-  serves as a motivational speaker and ambassador for adaptive sports. Angel
-  City Sports began in June 2013 when Clayton and Ezra Frech were on the track
-  at the Endeavor Games wondering why there were not more adaptive programs in
-  Southern California. In October 2014, the ACS Games found a facility and
-  programming partner in UCLA Recreation. Today, ACS has leveraged the
-  relationships and partnerships Clayton and Ezra have developed with
-  organizations that serve the adaptive sports community and is leading a
-  growing network of resources and opportunities to support this underserved
-  population.
-What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
-  The goal of ACS is to ensure physically disabled individuals of all ages and
-  abilities have access to activities that support their physical, mental, and
-  emotional health.
-
-
-  The effectiveness, outcomes and impact of ACS’ programs are evaluated on a
-  regular basis through post-activity surveys of various stakeholders, including
-  athletes, volunteers, coaches, and other stakeholders. Information tracked
-  includes quantitative and qualitative metrics that provide valuable insight as
-  to how effectively the clinics are meeting the needs of physically disabled
-  adult and youth athletes to enhance the organization’s current offerings as
-  well as gain information about unmet needs to guide ACS’ expansion efforts.
-  The primary quantitative metric will be how many adults and youth attended and
-  will be tracked by signed participation waivers.
-
-
-  Qualitatively, the key criteria for success is that adults and youth feel
-  positive about the overall experience – that they feel accomplished,
-  confident, and motivated to repeat that feeling again and again.  Having
-  coaches and staff that create this positive experience, as well as serve as
-  role models themselves as many are athletes with disabilities, is essential to
-  building this success.
-Approximately how many people will be directly impacted by this project, program, or initiative?: '3000'
-Approximately how many people will be indirectly impacted by this project, program, or initiative?: '18000'
-Describe how Los Angeles County will be different if your work is successful.: >
-  In 2019, the Games drew 425 athletes and 600+ volunteers for a total of 4,200+
-  total attendees. ACS anticipates these numbers will continue to grow for the
-  June 2021 event. Typically, ACS adaptive sports clinics draw over 600 adult
-  and youth participants throughout the year.  The addition of the VR activities
-  is unprecedented for ACS and it is challenging to predict the numbers that
-  will be served.
-
-
-  Staying active is for disabled individuals is important under normal
-  circumstances. During the COVID-19 shelter-in-place restrictions and mandates,
-  remaining active is critical as it lifts mood; helps people sleep and manage
-  stress better, manage weight, and; works to boost overall immunity.
-Which of LA2050’s resources will be of the most value to you?:
-  - Access to the LA2050 community
-  - Host public events or gatherings
-  - Communications support
-  - 'Capacity, including staff'
-  - Strategy assistance and implementation
+  - County of Los Angeles (select only if your project has a countywide benefit)
+'In what stage of innovation is this project, program, or initiative?': >-
+  Expand existing project, program, or initiative (expanding and continuing
+  ongoing, successful work)
+What is the problem that you are seeking to address?: >-
+  Today 22.6% of L.A. County adults (LA County Dept. of Public Health) and 3% of
+  youth (KidsData) – a total of 2,560,000 members of our community - are living
+  with a disability.  Many are not fully participating in our community due to
+  various barriers.  The main five barriers to accessibility for persons with
+  disabilities are: Attitudinal (how they are perceived by others and
+  themselves); Systemic (policies, procedures, and practices); Physical (lack of
+  adaptive modifications); Communications (lack of adaptions for sensory
+  disabled); and Technological (lack of assistive devices).      ACS works to
+  reduce these barriers to help persons with disabilities reach their fullest
+  potential to engage with their communities as well as help the community
+  discover how to proactively and respectfully practice disability inclusion. 
+  By creating greater accessibility and inclusion for people with disabilities,
+  the entire Los Angeles community becomes stronger. 
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  ACS creates a broad spectrum of adaptive activities and wellness programs for
+  adults, children, and veterans who are living with physical disabilities and
+  impairments. Through a holistic combination of year-round clinics, events,
+  workshops, and classes, ACS supports the physical, mental, and emotional
+  well-being for persons with disabilities so they can: 1) Maintain a positive
+  mood and prevent depression; 2) Develop a greater sense of independence and
+  self-efficacy; 3) Feel more included and empowered in their communities; 4)
+  More readily access adaptive wellness activities; 5) Connect with positive
+  mentors and peers with similar disabilities; and 6) Cultivate the positive
+  mindset that supports obtaining and maintaining employment.   ACS serves over
+  1,000 people with disabilities annually through its year-round programs which
+  are currently virtual but will resume in-person when it is safe to do so.   In
+  addition, ACS provides opportunities for community members to develop greater
+  understanding about disabilities through awareness events, volunteering, and
+  opportunity to participate in adaptive activities. By learning more about and
+  interacting with individuals with disabilities, people learn respectful
+  terminology, to not make assumptions, and most importantly, to see the person
+  before the disability and make a more conscious effort towards accessible
+  actions.         
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  The goals of ACS programs include:  Removing barriers, promoting access, and
+  encouraging participation in adaptive fitness and wellness activities; 
+  Promoting self-efficacy and independence;  Addressing diverse regional needs
+  and connecting people with disabilities with available resources;  Creating an
+  ecosystem that connects people with disabilities and partners to spark the
+  adaptive sports movement; and  Increasing awareness in the community around
+  the importance and need for adaptive activities and opportunities through
+  various types of media, volunteer opportunities, and participation in adaptive
+  events alongside people with disabilities.  ACS measures its quantitative
+  impact through participation and engagement numbers.  Qualitative impact data
+  is primarily evaluation through comprehensive surveys that inquire about
+  post-participation levels of confidence, esteem, and motivation to continue to
+  engage in adaptive health/wellness activities.  
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '6600'
+Describe how Los Angeles County will be different if your work is successful.: >-
+  According to the CDC, communities that are attentive to the health of its
+  members can reduce the inequality among their residents.  By addressing the
+  physical, mental, and emotional needs of people with disabilities, they are
+  empowered to be engaged, contributing community members.  In addition to their
+  strengths and skills, people with disabilities often model creativity,
+  resiliency, and a solution-based approach to challenges. Adults and youth,
+  with and without disabilities, learning and working side-by-side helps
+  everybody appreciate the talents and gifts everyone brings with them.  As a
+  community, we have the responsibility to promote the inclusion of our
+  differences. Having a people-first mindset creates inclusivity where there
+  have previously been barriers. This shared personal relatedness supports
+  perpetual growth of ourselves, each other, and our community.  ACS’ vision is
+  that adults and youth with disabilities are healthy and embraced as equal
+  members of their communities. 
+Describe the role of collaborating organizations on this project.: ''
+Which of LA2050’s resources will be of the most value to you?: Volunteer recruitment
 Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:
   - Obesity
-  - Youth sports participation
+  - ' Youth sports participation'
 Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CONNECT
 year: 2021
-category: play
 filename: angel-city-alliance
-order: 2
+order: 0
 
 ---

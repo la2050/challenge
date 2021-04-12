@@ -1,146 +1,124 @@
 ---
-published: true
-application_id: '1309257008'
-title: >-
-  Help ReDiscover Center establish one of the largest Youth Makerspace
-  Facilities in the entire country!
+application_id: '0467745674'
+title: Build CA's Largest Public Kids' Makerspace
 organization_description: Nonprofit
-project_video: 'https://youtu.be/QKhKvu73_40'
+project_video: 'https://youtu.be/R4hQham_tdo'
 link_donate: 'https://rediscovercenter.org/donors-and-sponsorships-information/'
-link_volunteer: www.rediscovercenter.org
-link_newsletter: 'https://rediscovercenter.org'
-mailing_address_city: Los Angeles
-mailing_address_street: 12958 W Washington Blvd.
+link_volunteer: 'https://rediscovercenter.org/about/'
+link_newsletter: 'https://rediscovercenter.org/about/'
 ein: 20-0192617
 organization_name: reDiscover Center
-mailing_address_state: California
 mailing_address_zip: '90066'
 organization_website: 'https://www.rediscovercenter.org'
 organization_twitter: '@reDiscoverCtr'
-organization_facebook: 'https://www.facebook.com/reDiscoverCenter/'
+organization_facebook: 'https://www.facebook.com/reDiscoverCenter'
 organization_instagram: '@rediscoverctr'
 Describe the mission of your organization.: >-
-  reDiscover develops children's creativity through hands-on making with
-  sustainable materials.  reDiscover utilizes donated, sustainable materials in
-  all of its projects, furthering our mission of educating our youth to become
-  powerful, creative and responsible makers.
+  Our Mission is to develop children's creativity through hands-on making with
+  sustainable materials. Our Vision is for all people to have an outlet for
+  acquiring and donating reusable materials, and a resource to develop skills
+  for making and tinkering. 
 project_description: >-
-  Envision 4,000 sf of Kids Makerspace, specially designed to develop the
-  creativity, collaboration skills, and ingenuity of LA County's youth - serving
-  up to 75 "tinkerers" at once, establishing one of the largest facilities in
-  the entire U.S. Our youth learn practical making (Building a Dog House! Design
-  a Bookshelf!) to large-scale, highly imaginative creating (a 6' Squirrel
-  Robot! A Unicorn Cart!) Your vote will put tools, confidence, and
-  eco-awareness in our children's lives. Let's do this! 
-Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
+  Envision a 4,000 sf makerspace designed just for kids, where youth can develop
+  creativity and collaboration skills. A makerspace serving up to 100 youth at a
+  time from across LA, staffed by educators, makers, and artists as diverse as
+  the city itself. Where youth gain practical skills by building functional
+  projects (Design a Bookshelf!), then use those skills to large-scale
+  collaborative creations (6' Squirrel Robot! A Unicorn Cart!) as wild as their
+  imaginations. All using sustainable materials sourced from recyclables and
+  industrial offcuts.
+category: learn
+connect_metrics: ''
+create_metrics: ''
+learn_metrics: 'Arts education, Enrollment in afterschool programs, Proficiency in STEM'
+live_metrics: ''
+play_metrics: ''
 In which areas of Los Angeles will you be directly working?:
   - Central LA
-  - San Fernando Valley
   - Westside
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-In what stage of innovation is this project, program, or initiative?: >-
-  Expand existing program (expanding and continuing ongoing successful projects
-  or programs)
-What is the problem that you are seeking to address?: >+
-  In too many schools, particularly in LAUSD, arts education has become a sad
-  afterthought, and students are not gaining the STEAM skills necessary for full
-  engagement with our increasingly knowledge-intensive, globally integrated and
-  innovation-based economy. The vast majority of students go through their
-  entire education without exposure to the shop classes utilized by previous
-  generations to gain manual skills, resilience, and 3D reasoning. Most students
-  graduate unable to safely use tools for even basic construction and repairs.
-  Our unique ethos and methods have been incredibly effective at imparting STEM
-  and STEAM lessons in an organic, intuitive way. We are responding to
-  children's needs to learn both how to DO and how to CREATE: How to learn the
-  practical, the mathematical, and the common sense skills that come from, say,
-  constructing a nightstand from scratch- to the sheer exhilaration that comes
-  from creating something huge and fantastical. 
-
-Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
-  Since 2003, reDiscover Center has been providing hands-on creativity education
-  programs to over 10,000 children per year in Los Angeles County. Based out of
-  our current 2,000 sf kids makerspace in Venice, we engage children through
-  camps, workshops, in-school programs, and community events throughout the
-  Westside and beyond. Our programs combine large quantities of sustainable and
-  reclaimed materials, like industrial offcuts, commercial discards, and
-  recyclables, with real power tools like drills and saws, to create a tinkering
-  environment where children can create projects as wild and vivid as their
-  imaginations!  With this expansion, we will reach and impact more youth, and
-  become a regional anchor for parents and their children to learn to make and
-  tinker. Our work will soar exponentially-and allow us to impact and change the
-  lives of so many more deserving youth. We were one of the first independent
-  kids' makerspaces, and have been pioneers ever since! 
-What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
-  This expansion into a 4,000 sf makerspace facility will allow reDiscover to
-  triple the number of youth served annually in our spring and summer intensive
-  Tinkering Camp Programs, double the capacity to serve the youth in our
-  Tinkering Club program, and allow us to expand the number of LAUSD school
-  trips by 250%, as well as greatly expand our current outreach services to
-  local parks and community festivals such as CicLAvia. In addition, we serve as
-  a vital space for artists, teachers and parents to inexpensively purchase
-  quantities of recycled and upcycled materials. With new materials processing
-  and storage capacity, we can help to reduce LA's carbon footprint while
-  providing great maker and arts materials to the community. Our visiting
+  - County of Los Angeles (select only if your project has a countywide benefit)
+  - City of Los Angeles (select only if your project has a citywide benefit)
+'In what stage of innovation is this project, program, or initiative?': >-
+  Expand existing project, program, or initiative (expanding and continuing
+  ongoing, successful work)
+What is the problem that you are seeking to address?: >-
+  The COVID-19 pandemic has negatively impacted children's abilities to learn in
+  concrete, hands-on ways. In addition, many underserved youth stuck at home
+  have not had the resources/materials to do so. When we are back in person, our
+  children are going to need a place to access their creativity and
+  ingenuity.This is where we come in: In too many schools, particularly in
+  LAUSD, arts education has become a sad afterthought, and students aren't
+  gaining the STEAM skills necessary for full engagement with our increasingly
+  knowledge-intensive, globally integrated and innovation-based economy.  For
+  over 15 years, our unique ethos and methods have been incredibly effective at
+  imparting STEAM lessons in an intuitive way. This new facility will allow us
+  to serve youth in need of a hands-on creative learning environment. We can't
+  wait to get into our new space, and provide our Tinkering Camps and Classes
+  for those youth who need it most- all while using materials that are
+  sustainable and recycled.
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  reDiscover develops the creative potential of LA’s youth using real tools and
+  sustainable materials. The need for reDiscover’s services and demand for our
+  maker programs outstrips the 2,400 sf makerspace we’ve operated in Venice
+  since 2015. To better serve our existing community, reach more underserved
+  children, and stay true to our core competency of creating inspirational
+  environments where all children can learn, make, and tinker, we are moving to
+  a new and larger facility in West LA, with excellent highway access to serve
+  as a regional resource. In the initial move, we will transform 4,000 sf of the
+  facility into makerspaces and a Creative Reuse Materials Warehouse, and have
+  an option from the landlord to double this footprint as our programming
+  continues to grow. This will create the largest public kids' makerspace in
+  California, perfect for school groups, camps, and classes.  The new reDiscover
+  Center will be an anchor for LA's youth maker community. A place where
+  community organizations and local artists meet and make together, sharing
+  ideas anchored in reDiscover’s vision of a creative, sustainable Los Angeles.
+  Where each year, thousands of young people from all walks of life get deep
+  into learning maker skills, raising their sights to careers in the creative
+  economy, and making something amazing.  Vote for reDiscover this year, and
+  help youth in Los Angeles get back to their creative, inventive selves- as we
+  all try and get back to "normal" together. 
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  This expansion into a 4,000 sf makerspace will allow reDiscover to triple the
+  number of youth served annually in our intensive Tinkering Camp Programs,
+  double the capacity to serve the youth in our Tinkering Club program, and
+  allow us to expand the number of LAUSD school trips by 250%. In addition, we
+  serve as a vital space for artists, teachers and parents to inexpensively
+  purchase quantities of recycled and upcycled materials. With new materials
+  processing and storage capacity, we can help to reduce LA's carbon footprint
+  while providing great maker and arts materials to the community. Our visiting
   schools can now send whole buses of students, train teachers, and gain access
-  to our curriculum for in-school maker lessons. In addition to tripling our
-  client capacity, we will be able to open a retail facility to sell tools,
-  materials, maker resources, and serve as a gallery for youth artists. rDC
-  participates in the California Cultural Data Project to track our impact in
-  the community, including measures such as:
-
-
-  *          Children 18 and under attendance
-
-
-  *          Classes and workshops attendance
-
-
-  *          Number of temporary exhibitions
-
-
-  *          Number of exhibition openings
-
-
-  *          Number of off-site school programs
-
+  to our curriculum for in-school maker lessons. In addition to tripling the
+  number of youth served, we will be able to open a retail facility to sell
+  maker resources, and serve as a gallery for youth artists. rDC participates in
+  the California Cultural Data Project to track our impact in the community. 
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '20000'
+Describe how Los Angeles County will be different if your work is successful.: >-
   Our vision is to facilitate 20,000 children per year as they learn to not
   simply to problem-solve, but expand upon their own solutions; not only to
-  express creativity, but to become experienced makers and tinkerers-learning to
-  design things with their own hands, making something real. Our youth become
-  young adults who are unafraid to make their world a better place-and we
-  literally give them the tools to do just that.
-Approximately how many people will be directly impacted by this project, program, or initiative?: '20000'
-Approximately how many people will be indirectly impacted by this project, program, or initiative?: '25000'
-Describe how Los Angeles County will be different if your work is successful.: >-
-  reDiscover Center's programs have always followed our mission to instill
-  resiliency, creativity, and efficiency in our youth. We are not only
-  developing skilled makers, we are preparing future leaders and thinkers-
-  runners of thriving households, starters of essential companies, and beacons
-  of light and environmental innovation in community volunteer groups and
-  neighborhood and city councils alike. Our youth experience greater confidence,
-  utilize practical skill sets, gain an increased interest in careers in STEM,
-  develop a great sense of responsibility and awareness for the environment,
-  change consumption habits, and increase their abilities to collaborate and
-  problem solve-across differences. We're creating the future citizens L.A.
-  needs.
-Which of LA2050’s resources will be of the most value to you?:
-  - Host public events or gatherings
-  - Communications support
-  - 'Capacity, including staff'
-  - Strategy assistance and implementation
-Please list the organizations collaborating on this proposal.: ''
+  express creativity, but to become experienced makers and tinkerers- learning
+  to design things with their own hands, making something real.   Impact:  
+  Differentiated makerspaces for different interests and skill levels, ranging
+  from paper and scissors to 3D scanners and CNC routers.   Program
+  collaboration bridging arts and maker organizations, including government,
+  non-profit, and industry.  Joint programming of our shared spaces to result in
+  new and more robust curriculum used by strategic partners to reach 100,000+
+  additional youth.   Engagement with schools across LA County serving BIPOC
+  youth, providing accessible maker experiences rooted in LA's richly diverse
+  craft, art, engineering, and maker traditions. 
+Describe the role of collaborating organizations on this project.: ''
+Which of LA2050’s resources will be of the most value to you?: >-
+  Access to the LA2050 community,Hosting virtual events or
+  gatherings,Capacity-building and training,Volunteer recruitment
+Please list the organizations collaborating on this proposal.: P.S. Arts
 Which metrics will you impact?:
   - Arts education
-  - Enrollment in afterschool programs
-  - Proficiency in STEM
+  - ' Enrollment in afterschool programs'
+  - ' Proficiency in STEM'
 Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
-  - LA is the best place to PLAY
+  - ' LA is the best place to PLAY'
 year: 2021
-category: learn
 filename: rediscover-center
-order: 59
+order: 64
 
 ---

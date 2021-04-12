@@ -31,7 +31,7 @@ describe('Entries', function () {
         cy.wait(500) // Give the video or image time to load
 
         // https://on.cypress.io/screenshot
-        cy.screenshot(`figure-${filename}`)
+        cy.screenshot(`figure-${filename}`, { capture: 'viewport' })
       })
     }
 

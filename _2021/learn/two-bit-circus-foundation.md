@@ -1,128 +1,116 @@
 ---
-published: true
-application_id: '5704897650'
-title: 'STEAM Lab Makerspace: Learn, Create, Play!'
+application_id: 0530247182
+title: STEAM Guide to the Galaxy
 organization_description: Nonprofit
-project_video: 'http://twobitcircus.org/TBCF2050.mp4'
+project_video: 'https://youtu.be/xrJj6LhXTUc'
 link_donate: 'http://www.info@twobitcircus.org'
 link_volunteer: 'http://www.info@twobitcircus.org'
 link_newsletter: 'http://www.info@twobitcircus.org'
-mailing_address_city: GARDENA
-mailing_address_street: 12815 S. Western Ave
 ein: 56-2464067
-organization_name: TWO BIT CIRCUS FOUNDATION
-mailing_address_state: California
-mailing_address_zip: 90249-1915
+organization_name: Two Bit Circus Foundation
+mailing_address_zip: '90249'
 organization_website: 'https://www.twobitcircus.org'
 organization_twitter: '@TwoBitCircusOrg'
-organization_facebook: '@twobitcircusOrg'
-organization_instagram: '@ twobitcircusorg'
-Describe the mission of your organization.: >
-  Two Bit Circus Foundation (2BCF) serves children in all economic situations by
-  creating learning experiences to inspire entrepreneurship, encourage young
-  inventors, and instill environmental stewardship.  
+organization_facebook: '@twobitcircusorg'
+organization_instagram: '@Twobitcircusorg'
+Describe the mission of your organization.: >-
+  We serve children in all economic situations by creating learning experiences
+  to inspire entrepreneurship, encourage young inventors, and instill
+  environmental stewardship. Imagine a giant circus tent for creative play,
+  making, curiosity, imagination, & community. That’s us!
 project_description: >-
-  2BCF will install its signature program, STEAM Lab Makerspace (SLM), in 20
-  low/moderate income elementary, middle and high schools in Los Angeles that
-  have been wait-listed since 2017, benefitting over 13,000 diverse,
-  under-served students.  Installed with upcycled materials and original
-  curriculum, each SLM is a career-readiness incubator of ideas - a “student
-  think tank” where students can build STEAM (Science, Technology, Engineering,
-  Art, Math)-related skills to understand how things work, experiment, redesign
-  and invent projects. 
-Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
+  STEAM Guide to the Galaxy is 2BCF's online learning/play library, designed to
+  address  distance learning and offer in-classroom resources for preK-12
+  students. Project Playbooks contain project-based science, technology,
+  engineering, art, and math (STEAM).  The  Two Bit Remote Gameshow uses our
+  team's live stream gameshow platform to present STEAM-related quizzes,
+  classes, clown calisthenics, a fully immersive online STEAM learning carnival.
+  Each of these, with this grant, will be adapted for special needs students
+  in/out of the classroom.
+category: learn
+connect_metrics: ''
+create_metrics: ''
+learn_metrics: 'High school graduation rates, K-8 chronic absenteeism, Proficiency in STEM'
+live_metrics: ''
+play_metrics: ''
 In which areas of Los Angeles will you be directly working?:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - Westside
-In what stage of innovation is this project, program, or initiative?: >-
-  Expand existing program (expanding and continuing ongoing successful projects
-  or programs)
+  - County of Los Angeles (select only if your project has a countywide benefit)
+  - City of Los Angeles (select only if your project has a citywide benefit)
+'In what stage of innovation is this project, program, or initiative?': >-
+  Expand existing project, program, or initiative (expanding and continuing
+  ongoing, successful work)
 What is the problem that you are seeking to address?: >-
-  There are sustained, documented inequities in Science, Technology,
-  Engineering, Art and Mathematics (STEAM) education throughout the US.
-  Minorities and economically disadvantaged students are less prepared in STEAM
-  coursework, leaving them less informed about science and technology, less
-  prepared for the workforce, more likely to wind up with lower social and
-  economic mobility, and experience a diminished quality of life. This "under
-  educating" of a substantial number of local students negatively impacts LA's
-  viability as a strong employment market.  According to US Dept. of Labor, over
-  50% of today's jobs require some degree of technology skills, which experts
-  say will increase to 77% in the next decade.  Yet, LA has the nation's 5th
-  largest job skills gap, primarily in technology. For  disadvantaged students
-  preparing for the future,  SLMs level the playing field by providing the space
-  and resources with which to learn, innovate, experiment and build employable
-  skills.
-Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
-  Since its founding in 2004 as T4T.org, Two Bit Circus Foundation has been
-  committed to two over-arching goals:  1) providing critically-needed STEAM
-  resources to under-served schools and their educators; and, 2) presenting
-  STEAM principles, grounded in Project Based Learning, in an
-  environmentally-sustainable and playful manner that nurtures innovation,
-  creativity and critical thinking.  Over the years, the SLM has emerged as
-  2BCF's most popular program.  Since 2015, 2BCF has provided 173 STEAM Lab
-  Makerspaces to PreK-12 schools throughout Los Angeles and Orange Counties, as
-  well as two in Tennessee.  These unique educational spaces come with upcycled
-  materials, a range of tools, and original, innovative PBL-based curriculum
-  that is both grade-specific and aligned with State-approved STEAM-related
-  standards.  Through its SLM program, 2BCF has introduced over 200,000 preK-12
-  students, well over half of them from diverse, low/moderate income families,
-  to STEAM/STEM.  
-What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
-  Pre-then-post surveys are 2BCF's primary form of evaluation, measuring
-  expectations against results.  The pre-survey is conducted before the SLM is
-  in place, and the post-survey at the end of the academic year, giving 2BCF
-  staff the opportunity to take appropriate corrective action. The positive
-  impact of the SLM on student attitudes toward STEM is evident in some of the
-  student responses, for example:
-
-
-  What I learn in science class doesn't have much to do with the real world.
-
-  Pre  -  58% Strongly agree
-
-  Post - 15% Strongly agree
-
-
-  I believe I am going to fail science this year.
-
-  Pre  -  52% Strongly agree
-
-  Post - 10% Strongly agree
-
-
-  2BCF's vision of success is that up to 13,000 students each year from these 20
-  schools will become increasingly proficient at STEAM/STEM, continue their
-  education and have meaningful careers.  
-Approximately how many people will be directly impacted by this project, program, or initiative?: '13030'
-Approximately how many people will be indirectly impacted by this project, program, or initiative?: '26060'
+  2BCF's STEAM programming is being used locally in over 180 preK-12 schools,
+  over half of them Title I schools.  When COVID-19 halted our in-school
+  programming, we immediately pivoted to converting our Project Playbooks to
+  virtual platforms.  This experience showed us how few resources there are
+  where teachers, students and parents can access remotely innovative
+  curriculum-related project-based learning. When we looked into distance
+  learning for special  needs kids, we discovered even less. With distance
+  learning, beyond adapting to learning from home, the special needs child has
+  to learn from a voice on a computer. What we are hearing from many parents is
+  that kids are simply opting out.  Our children are falling dangerously behind
+  in their STEAM skills.  The marketplace needs resources for playful learning
+  where these skills are developed through play both in the classroom and from
+  home. 
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  2BCF is committed to providing high-quality, innovative educational resources
+  to all students regardless of race, gender, income, ability status or delivery
+  format.  As such, we are continuing to build our growing online library, which
+  we call "STEAM Guide to the Galaxy."  The library already contains five
+  Project Playbooks that contain hundreds of standards-aligned
+  project-based-learning activities that can be done alone, as a class, online,
+  or by families. In response to a troubling lack of online resources for
+  students with different learning abilities, we will be adapting each Playbook
+  for students with special needs, and all future Playbooks will come with a
+  special needs companion.  And, since we don't believe in all work and no fun,
+  we are adapting our 2020 Two Bit Circus Remote quiz show program to offer a
+  playful collection of STEAM games and challenges for the whole family.  Using
+  the live streaming gameshow platform, we have developed a virtual STEAM
+  Carnival that includes our gameshow, quizzes, classes, clown calisthenics, and
+  more - a fully immersive online Carnival designed to replace the Science Fair.
+  Our premise is that you get the science enthusiasts to attend a Science Fair,
+  while everyone wants to go to a Carnival! In person or online, we will educate
+  while entertaining and engaging students.  
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  When delivering curriculum to preK-12 classrooms in Los Angeles Counties, 2BCF
+  has used pre-then-post surveys to gauge the receptivity and effectiveness of
+  the curriculum.  2BCF will continue using that technique as we continue to
+  develop options for the Project Playbook library.  Once adapted, we will test
+  run the special needs curriculum in one LA County school district.  Our
+  special needs consultant is working with us to design the survey which will be
+  administered by special education teachers.  We will complete that evaluation
+  before making our special needs materials available to all.  For the STEAM
+  Carnival, we will provide a voluntary evaluation survey about the content and
+  ease of use. We will also keep track of the Library's popularity and use by
+  monitoring unique visits, lengths of stay and returns.
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '260000'
 Describe how Los Angeles County will be different if your work is successful.: >-
-  SLMs provide STEM/STEAM resources for preK-12 students as they prepare for
-  future education and an increasingly tech-heavy workplace.  This is
-  particularly critical for the nearly 500,000 non-white LAUSD students who live
-  at or below the poverty line, and, for the most part, attend under-served
-  schools. Without outside active support, these schools struggle to provide
-  educational resources for their STEM/STEAM classes and professional
-  development for their teachers.  A solid STEM education that fosters critical
-  thinking and creativity benefits all students and their families to come; it
-  benefits our local businesses who look to our graduates for their workforce;
-  and, it benefits our city as a place where businesses want to relocate. 
-Which of LA2050’s resources will be of the most value to you?:
-  - Access to the LA2050 community
-  - Communications support
+  With this grant, 2BCF will complete our STEAM projects adding to the 5 current
+  Playbooks. Los Angeles teachers, students and families will have a rich
+  resource of project-based and playful educational assets, including for
+  students with special needs.  As dedicated and innovative as our local
+  teachers are, no one can deny that we were all caught short with the
+  conversion to distance-learning.  For special needs teachers, it was even more
+  challenging.  2BCF believes that even when schools re-open distance learning
+  will remain a valuable asset.  With our intellectual heart grounded in
+  standards-aligned playful learning, 2BCF is uniquely qualified to fill this
+  need through our STEAM Guide to the Galaxy that will support all teachers,
+  students and families, regardless of geography.  Our kids can enjoy developing
+  their STEAM skills, teachers can breathe easier, and Los Angeles will become
+  the center of the creative in class and distance learning universe. 
+Describe the role of collaborating organizations on this project.: ''
+Which of LA2050’s resources will be of the most value to you?: 'Access to the LA2050 community,Strategy assistance and implementation'
 Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:
-  - Arts education
   - High school graduation rates
-  - Proficiency in STEM
+  - ' K-8 chronic absenteeism'
+  - ' Proficiency in STEM'
 Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
-  - LA is the best place to PLAY
-  - LA is the best place to CONNECT
+  - ' LA is the best place to PLAY'
+  - ' LA is the best place to CONNECT'
 year: 2021
-category: learn
 filename: two-bit-circus-foundation
 order: 76
 

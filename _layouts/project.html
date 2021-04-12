@@ -49,7 +49,7 @@ stylesheets:
 
 {% if page.project_video and page.project_video != "" %}
 {% if page.project_video contains "youtu" or page.project_video contains "vimeo" %}
-{% unless page.project_video contains "youtube.com/user/" %}
+{% unless page.project_video contains "youtube.com/user/" or page.project_video contains "youtube.com/channel/" %}
   {% assign video_embed_url = page.project_video %}
 
   {% if page.project_video contains "youtu" %}

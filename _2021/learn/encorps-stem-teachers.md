@@ -1,180 +1,114 @@
 ---
-published: true
-application_id: '2250134777'
-title: EnCorps STEM Teachers in Los Angeles
+application_id: '1301881291'
+title: EnCorps STEMx (Expert) Tutors
 organization_description: Nonprofit
-project_video: 'https://www.youtube.com/watch?v=Nr64mAuelrM&t=10s'
-link_donate: 'https://encorps.org/donate/'
-link_volunteer: 'https://encorps.org/join/'
-link_newsletter: 'https://www.encorps.org/contact'
-mailing_address_city: Redondo Beach
-mailing_address_street: '608 Meyer Lane, Suite 204-B'
-ein: 38-3771471
+project_video: 'https://youtu.be/SVX5b3TFc6M'
+link_donate: 'https://encorps.org/get-involved/donate'
+link_volunteer: 'https://encorps.org/volunteer-programs'
+link_newsletter: 'https://encorps.org/about'
+ein: '383771471'
 organization_name: EnCorps STEM Teachers
-mailing_address_state: California
 mailing_address_zip: '90278'
 organization_website: 'https://www.encorps.org'
 organization_twitter: '@EnCorps'
 organization_facebook: 'https://www.facebook.com/EnCorps/'
 organization_instagram: '@encorpsstemteachers'
 Describe the mission of your organization.: >-
-  We are STEM professionals transforming classrooms by teaching in high needs
-  classrooms.
+  We are STEM professionals providing high quality education to close
+  achievement gaps for students in low income communities. All students
+  regardless of socioeconomic status must have a strong STEM foundation to
+  navigate and be successful in an increasingly complex world.
 project_description: >-
-  EnCorps has been working earnestly since 2007 to recruit the best and
-  brightest science, technology, engineering and mathematics (STEM)
-  professionals to teach in California, providing meaningful opportunities to
-  impact disadvantaged students. We believe all students deserve access to a
-  great STEM teacher, a great STEM education and all the opportunities that
-  those can provide. EnCorps educators are connecting students to real-world
-  math and science career and economic opportunities and transforming public
-  education statewide.
-Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
+  We train and support STEM professionals from fields such as biotech, aerospace
+  engineering, information technology, and medicine to become tutors, guest
+  teachers, and fulltime teachers who transform learning as they gain the
+  respect of students with their real-world experience. STEMx (Expert) Tutors
+  will provide one-one-one virtual math tutoring to grades 6-8 students.
+  Identified students cannot make sufficient progress without intervention. Our
+  goals are to improve academic achievement in math AND to develop a STEM
+  identity for these students.
+category: learn
+connect_metrics: ''
+create_metrics: ''
+learn_metrics: 'College matriculation, High school graduation rates, Proficiency in STEM'
+live_metrics: ''
+play_metrics: ''
 In which areas of Los Angeles will you be directly working?:
-  - Central LA
   - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
   - South LA
-  - South Bay
-  - >-
-    LAUSD (please select only if you have a district-wide partnership or
-    project)
-In what stage of innovation is this project, program, or initiative?: >-
-  Expand existing program (expanding and continuing ongoing successful projects
-  or programs)
+  - City of Los Angeles (select only if your project has a citywide benefit)
+'In what stage of innovation is this project, program, or initiative?': >-
+  Expand existing project, program, or initiative (expanding and continuing
+  ongoing, successful work)
 What is the problem that you are seeking to address?: >-
-  Enduring STEM achievement, access and opportunity gaps continue to
-  disproportionately limit low-income and minority student opportunities In Los
-  Angeles. Access to quality STEM education can close these gaps, but Los
-  Angeles County has the greatest need statewide for qualified math and science
-  teachers. 
-
-
-  The percentage of underprepared teachers is the most significant predictor of
-  low achievement, particularly for students of color, yet districts continue to
-  hire under-credentialed teachers. Underprepared teachers have a 2-3 times
-  higher turnover rate than fully-credentialed teachers, which has a greater
-  disruptive effect on low-income students and students of color, who already
-  lag behind their white and Asian peers in math and science proficiency.  The
-  STEM teacher shortage exacerbates this achievement gap, and undermines efforts
-  to prepare a diverse future workforce with career-relevant STEM education.
-Describe the project, program, or initiative that this grant will support to address the problem identified.: >
-  EnCorps STEM TEachers is the only nonprofit in California recruiting and
-  placing STEM professionals as long-term educators for underrepresented
-  students in high-need schools. Fellows bring years of industry experience and
-  professional maturity to classrooms, and are career role models for
-  disadvantaged students. Our unique program model results in an EnCorps teacher
-  5+ year retention rate of 89%, compared to the national average of 50%.
-
-
-  Many efforts have been made to increase educational equity, decrease the
-  teacher shortage, and diversify the future STEM workforce, but no other
-  organization tackles all three issues with one cost-effective and long-term
-  solution. With experience in the public education and nonprofit sectors, we
-  continuously refine support strategies to be responsive to the changing
-  demands of teaching and learning.  EnCorps’ leadership has the experience,
-  broad knowledge of educational ecosystems, and the commitment to educational
-  equity to achieve our mission.
-What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
-  We define success by the number of trained and supported STEM teachers and
-  teacher candidates in our pipeline, their student impact and by the efficacy
-  of our educators in the classroom. To measure program successes, we track the
-  number of Fellows: recruited, in each phase of teacher preparation, those who
-  transition into teaching positions, the number of Teachers retained in their
-  positions each year and the number of students that they have taught. Surveys
-  measuring the efficacy of Fellows in the classroom are conducted each semester
-  with students and mentor teachers.
-
-
-  Executive and program staff review program implementation quarterly to assess
-  status against Key Performance Indicators, which are used to revise and
-  evaluate EnCorps’ recruitment strategies, levels of support for Fellows, and
-  professional development opportunities as preparation for full-time teaching.
-  EnCorps’ steady progress towards closing the gap of qualified STEM teachers,
-  and thereby addressing the STEM achievement gap of our state's most
-  disadvantaged students, is its ultimate indicator of success.
-
-
-  The EnCorps Fellowship has seen consistent success year after year, evidenced
-  by our growing Fellowship numbers, and by the impact Fellows have on their
-  students, as recently reported by their students and Host Teachers:  86% of
-  students experienced an increased level of academic achievement and 88% had a
-  better understanding of real-world connections with math and science due to
-  their EnCorps Guest Teacher.
-Approximately how many people will be directly impacted by this project, program, or initiative?: '300'
-Approximately how many people will be indirectly impacted by this project, program, or initiative?: '15000'
-Describe how Los Angeles County will be different if your work is successful.: >
-  The Fellowship serves middle and high school students, ages 11-18, in Title 1
-  schools where over 60% of students are low-income, as defined by qualifying
-  for free or reduced-price lunch. 77% of our students are of populations
-  traditionally underrepresented in higher education, 16% are English Language
-  Learners, and only 30% meet or exceed math proficiency standards.
-
-
-  On average, Fellows have been employed 17 years in STEM fields, 68% have a
-  Masters or Ph.D. in a STEM subject, and 48% report as people of color. EnCorps
-  Fellows have experience as engineers, principal research scientists, and data
-  architects,; and have worked in energy, engineering, banking and finance,
-  research, biotech, and pharmaceutical industries. 
-'Describe the role of collaborating organizations on this project.': >
-  We are not submitting a collaborative proposal, but we do partner with
-  multiple public schools in Los Angeles. EnCorps has MOUs with the following
-  schools in Los Angeles:
-
-
-  * Alliance Alice M. Baxter College-Ready HS
-
-  * Alliance Health Services Academy 
-
-  * Alliance Marine Innovation & Technology 6-12 Complex
-
-  * Alliance Tennenbaum Family Technology HS
-
-  * Bright Star Secondary
-
-  * Canoga Park HS
-
-  * Collegiate Charter HS
-
-  * Dymally  HS
-
-  * Edwin Markham Middle School 
-
-  * George Washington Carver Middle School
-
-  * Hollenbeck Middle School
-
-  * John Muir  HS
-
-  * Jordan HS
-
-  * Lennox Math, Science, and Technology Academy
-
-  * Lennox Middle School
-
-  * STEM Academy of Hollywood
-
-  * Synergy Quantum Academy 
-
-  * Synergy Kinetic Academy
-
-  * Stevenson College and Career Preparatory Middle School 
-
-  * William Workman HS
-Which of LA2050’s resources will be of the most value to you?:
-  - Access to the LA2050 community
-  - Host public events or gatherings
-  - Communications support
-  - 'Office space for meetings, events, or for staff'
-  - 'Capacity, including staff'
+  A high-quality STEM education can set students on a path towards upward
+  economic mobility, but persistent access and literacy gaps continue to
+  disproportionately and unjustly limit children of color and low income student
+  opportunities. COVID-19 has further disrupted learning and progress toward
+  improving student outcomes. Public Policy Institute of California (Jan 2021)
+  reports that only 54% of current ninth graders in low income communities will
+  attend college; only 20% will earn a bachelor's degree.  Critical shortages of
+  math and science teachers compounds the problem. Districts with a majority of
+  students of color and students living in poverty struggle to attract and
+  retain qualified STEM educators. We believe that the unequal distribution of
+  quality instruction is not only a function of the allocation of scarce
+  financial resources, but also an attribute of the systemic equity issues that
+  reflect the unspoken and widely held traditional normative values that we aim
+  to change.    
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  STEMx (Expert) Tutors will serve as mentors and provide academic assistance to
+  middle school students currently under-performing in math. We aim to prepare
+  students for the rigor of high school mathematics that will provide them
+  access to education that will help them break the cycle of poverty, pursue
+  higher education, and secure jobs in the 21st century.  The program will be
+  overseen by an EnCorps Program Coordinator who will recruit STEMx Tutors and
+  conduct training in collaboration with Site Coordinators at each school.  Site
+  Coordinators will ensure resources and connectivity for students, collaborate
+  with STEMx Tutors and EnCorps staff, and be responsible for reporting program
+  success via students' outcomes over the academic year.   Working with
+  teachers, Site Coordinators  select students based on their sub-standard
+  proficiency in math.  Although all tutoring will be virtual, a "Site
+  Orientation" will take place. STEMx Tutors  will learn about the school
+  community in which they will serve, including student demographics,  school
+  history, school culture and other relevant information.  Throughout their
+  service, they will receive multiple trainings which will help them to
+  incorporate culturally responsive teaching strategies and STEMx Tutors will
+  learn to foster an inclusive culture where different backgrounds, talents and
+  capabilities are welcomed and leveraged for learning.    
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  EnCorps STEMx Tutors will be responsible for increasing students' math
+  literacy as evidenced by 1.) homework completion and 2.) improvement in
+  overall math achievement as evaluated by students' classroom teachers within
+  one academic year. School Site Coordinators will be responsible for supplying
+  this data to EnCorps.   Separately, EnCorps will be partnering with The
+  Partnerships in Education and Resilience (PEAR) Institute, utilizing its
+  assessment tools with our students to measure STEM related attitudes including
+  career knowledge and interest over time AND the development of 21st century
+  skills and socio-emotional learning such us perseverance and critical
+  thinking.   We will also gather data about our educators and their attitudes
+  about the impact of their demography, degree of self-efficacy and perceptions
+  of student outcomes.  
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '380'
+Describe how Los Angeles County will be different if your work is successful.: >-
+  EnCorps STEMx Tutors  VISION for SUCCESS  By providing academic enrichment,
+  tutoring and mentoring to our target population of middle school children
+  educationally and economically under-resourced communities, we believe that we
+  ensure equity and access to quality math and science education out of school
+  via STEMx (virtual) Tutors' and we empower students and families to advocate
+  for and pursue further STEM education.  In the short term, we will create
+  greater confidence and interest in STEM subjects. This will result  in
+  improved academic achievement, and subsequently, higher graduation and college
+  attendance rates, and more graduates entering STEM-related fields. 
+Describe the role of collaborating organizations on this project.: ''
+Which of LA2050’s resources will be of the most value to you?: 'Communications support,Volunteer recruitment'
 Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:
-  - Proficiency in STEM
+  - College matriculation
+  - ' High school graduation rates'
+  - ' Proficiency in STEM'
 Indicate any additional LA2050 goals your project will impact.: []
 year: 2021
-category: learn
 filename: encorps-stem-teachers
-order: 26
+order: 20
 
 ---

@@ -1,126 +1,121 @@
 ---
-published: true
-application_id: 0264910508
-title: '#include'
+application_id: '5904004065'
+title: '.connectLA: Internet Assistance for LA Households'
 organization_description: Nonprofit
 project_video: ''
-link_donate: human-i-t.org/donate-funds
+link_donate: 'https://www.human-i-t.org/donate-funds'
 link_volunteer: 'https://www.human-i-t.org/volunteer'
-link_newsletter: ''
-mailing_address_city: Long Beach
-mailing_address_street: '230 E. 3rd St., Suite A'
+link_newsletter: >-
+  https://smarthuman.us10.list-manage.com/subscribe?u=155ddf5129029f2b88c819545&id=fcbfcea3c3
 ein: 46-0773284
 organization_name: human-I-T
-mailing_address_state: California
-mailing_address_zip: '90746'
-organization_website: 'https://www.human-i-t.org/'
+mailing_address_zip: '90802'
+organization_website: 'https://www.human-i-t.org'
 organization_twitter: '@human_i_t'
-organization_facebook: 'https://www.facebook.com/humanitofficial'
-organization_instagram: '@human_i_t/'
+organization_facebook: 'https://www.facebook.com/humanitofficial/'
+organization_instagram: '@human_i_t'
 Describe the mission of your organization.: >-
-  human-I-T believes that through social entrepreneurship, opportunities are
+  human-I-T believes that through social entrepreneurship opportunities are
   created for our world to become more inclusive, sustainable, and bold. We
-  support low income individuals by providing access to digital resources
-  including computers, low cost internet connection, and digital literacy
-  courses
+  empower people through technology and information to achieve their full
+  potential. Our core focus is to shrink the digital divide to ensure every
+  person has access to the opportunity that exists online.
 project_description: >-
-  human-I-T provides low-income individuals & nonprofits with technology,
-  internet, and digital literacy training. We collect used electronics from
-  companies to refurbish and more people are provided with computers/laptops and
-  the skills needed to use the technology effectively. We will provide Angelenos
-  with the means to learn how to use the internet through digital literacy
-  courses, provide them with a laptop and support in getting low-cost internet. 
-Which LA2050 goal will your submission most impact?: LA is the best place to CONNECT
+  An internet connection is no longer a luxury; it’s a necessity. One that is
+  out of reach for tens of thousands of low-income Angelenos. That is why our
+  team of Internet Assistance Advocates works to connect as many households as
+  possible to affordable broadband solutions by offering unbiased guidance to
+  struggling households as they identify and sign up for low-cost internet
+  plans. Through this program, human-I-T empowers low-income households to
+  access the limitless vital online resources and opportunities from their own
+  homes.
+category: connect
+connect_metrics: >-
+  Internet access, Social and emotional support, Government responsiveness to
+  residents’ needs
+create_metrics: ''
+learn_metrics: ''
+live_metrics: ''
+play_metrics: ''
 In which areas of Los Angeles will you be directly working?:
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - South Bay
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-  - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
-  - >-
-    LAUSD (please select only if you have a district-wide partnership or
-    project)
-In what stage of innovation is this project, program, or initiative?: >-
-  Expand existing program (expanding and continuing ongoing successful projects
-  or programs)
+  - County of Los Angeles (select only if your project has a countywide benefit)
+'In what stage of innovation is this project, program, or initiative?': >-
+  Expand existing project, program, or initiative (expanding and continuing
+  ongoing, successful work)
 What is the problem that you are seeking to address?: >-
-  Despite California being the birthplace of the internet, substantial
-  disparities persist in who does and does not have access to technology in the
-  Golden State. This “digital divide” disproportionately affects low-income
-  individuals and people of color. In Los Angeles County, 24% of the population
-  does not have a computer with internet access at home. This means
-  approximately 2.5 million people are cut off from tools for self-sufficiency.
-  More recently, in light of the global pandemic, there is also a growing
-  increase in remote learning. Still, 1 in 4 students do not have the proper
-  access to the internet or home device to participate. 
-Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
-  human-I-T’s Include program is designed to help adult learners harness all of
-  the opportunity that lives online. It is a self-paced, student-centered
-  digital literacy class offered in English and Spanish. Because learners enter
-  digital literacy training with different needs, goals, and motivations, the
-  course allows each individual to choose which lessons to study, and how much
-  time to devote to each topic. human-I-T works with community partners to
-  create satellite sites (either live sites or remote hubs) where digital
-  literacy classes can take place in a computer lab setting, or individuals can
-  complete the course from the comfort of their own home. 
-
-
-  human-I-T is the only nonprofit in Southern California that collects
-  electronic waste from companies, refurbishes it, and redistributes it to low
-  income households and community centers. Other organizations that take in
-  e-waste either 1) break the devices down for commodities or 2) re purpose the
-  device for resale on the market.
-What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
-  e track several outputs to gauge the effectiveness of our programs, including
-  the number of computers donated, households connected to the internet,
-  individuals who have completed our digital literacy training program, and the
-  pounds of e-waste diverted from landfills. We define success as educating
-  1,400 individuals through our digital literacy program with the support of our
-  satellite partners. Another measure in 2020 will be connecting 15,000
-  households to free or low-cost internet. 
-
-
-  Beyond the numbers, we use qualitative data to gauge the programs’ success
-  through post-donation surveys to measure how each connection makes an impact
-  on users’ lives. We collect data about how many households use the device to
-  apply to college, find affordable housing, secure new jobs, establish
-  permanent residency, increase their social network, and access social
-  services. Success is achieved when over 95% of recipients use their connection
-  in a way to deepen their presence in their community, whether through
-  education, civic engagement, housing, or participation in grassroots
-  organizing. 
-Approximately how many people will be directly impacted by this project, program, or initiative?: '1000'
-Approximately how many people will be indirectly impacted by this project, program, or initiative?: '4000'
+  In some LA neighborhoods, as many as 62% of households lack an internet
+  connection according to Census data. While in the past, one could survive by
+  using public WiFi at local libraries or fast food restaurants, the COVID-19
+  pandemic turned the world upside down and eliminated even those public
+  connectivity options. It is becoming the new norm for aspects of everyday life
+  to exist predominantly online - managing finances, attending school,
+  consulting with a physician using telehealth platforms, and working remotely
+  are a few common examples. As a result, in-home broadband has become an even
+  greater imperative than ever before. That is why human-I-T is working hard to
+  connect as many households as possible to affordable internet connectivity
+  solutions, empowering them to access the vital resources and opportunities
+  that exist online in the safety and privacy of their own homes.
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  human-I-T’s .connectLA program connects low-income households with high-speed,
+  low-cost internet options starting at $10-25 per month, roughly 70% less
+  costly than the average plan. While Internet Services Providers (ISPs) are
+  required to offer low-cost options, most do little to market these offerings.
+  Research shows that up to 70% of consumers who qualify for these low-cost
+  programs are unaware of their existence. This makes the process of finding an
+  affordable internet plan difficult to navigate for households already
+  experiencing the stress of financial instability.  To combat this, our
+  Programs Team conducts rigorous outreach efforts within communities with low
+  internet adoption rates. We form relationships with schools, community-based
+  organizations, and other nonprofits to identify households that could benefit
+  from low-cost broadband options. Through our community partnerships and word
+  of mouth, we’re able to expand our internet assistance program and encourage
+  people without home internet to contact us for assistance at no cost to them.
+  Our team of Internet Assistance Advocates then supports eligible households by
+  educating residents on the various plans that are available to them based on
+  income level, zip code, and other demographic factors. Our Assistance
+  Advocates offer neutral guidance in selecting an internet plan depending on a
+  user’s need via text and phone support in English and Spanish.  
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  We measure impact by the number of households we assist in signing up for
+  low-cost internet. Since the program’s inception in 2012, we have assisted
+  over 65,700 households. We also regularly send out recipient surveys to gather
+  valuable data about the impact that a digital connection has on peoples’
+  lives. Some of the impact metrics we gather include: number of recipients that
+  unlocked new job opportunities, number of student recipients that saw an
+  increase in academic performance, and the number of recipients that began
+  managing their finances online. Our team never pressures a household to sign
+  up for a plan before they are fully confident in their decision. This builds
+  community trust and allows our team to provide compassionate service. It also
+  opens access to provide additional support such as digital literacy training
+  and low-cost devices. Even if a household does not sign up for an internet
+  plan through us, we provide community education and support to vulnerable
+  Angelenos. 
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '1666'
 Describe how Los Angeles County will be different if your work is successful.: >-
-  Through the #include program there are various ways that our city will change,
-  but one of the most important ways will be at home. One in four students do
-  not have the necessary hardware or internet to connect only, that means 1 in 4
-  families does not have everything they need to connect online. Through
-  #include, parents and older family members will learn the basics of using a
-  computer and be able to access online resources they never had before. At the
-  same time, children will be able to connect online without the need of going
-  long distance or staying long hours in the library to do so. Families around
-  LA County would be taking the future into their own hands and becoming
-  self-sufficient. 
-Which of LA2050’s resources will be of the most value to you?:
-  - Access to the LA2050 community
-  - Communications support
-  - Strategy assistance and implementation
+  Successful implementation of our program will end digital disenfranchisement
+  for low-income families, helping them break the restraints of generational
+  poverty. Our scalable solution to internet connectivity can easily set off a
+  long-term ripple effect of accessibility to low-cost broadband options,
+  leading to an intergenerational bridging of the digital divide for the over
+  800,000 LA County residents currently living without an internet connection.
+  By assisting residents to connect, we’re empowering struggling Angelenos to
+  tap into the limitless opportunities for upward social mobility that exist
+  online. In the long term, our program leads to higher graduation rates, better
+  job prospects, and a lower Gini coefficient - i.e. greater economic equality -
+  for Los Angeles. human-I-T hopes to play a key role in the LA2050 community as
+  we strive to make Los Angeles the best place to learn, connect, and live.
+Describe the role of collaborating organizations on this project.: ''
+Which of LA2050’s resources will be of the most value to you?: Access to the LA2050 community
 Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:
   - Internet access
-  - LGBTQ+ equity and inclusion
-  - Disability access and inclusion
-Indicate any additional LA2050 goals your project will impact.: []
+  - ' Social and emotional support'
+  - ' Government responsiveness to residents’ needs'
+Indicate any additional LA2050 goals your project will impact.:
+  - LA is the best place to LEARN
+  - ' LA is the best place to CREATE'
 year: 2021
-category: connect
 filename: human-i-t
-order: 24
+order: 29
 
 ---

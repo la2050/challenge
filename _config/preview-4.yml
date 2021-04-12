@@ -3,20 +3,3 @@ hide_from_search_engines: true
 
 # Entries shown on the website: 
 phase: 4
-
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default
-  - scope:
-      path: ""
-      type: "2021"
-    values:
-      layout: project
-
-collections:
-  '2021':
-    output: true
-    permalink: /2021/:path/

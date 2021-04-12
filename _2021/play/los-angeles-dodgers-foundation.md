@@ -1,19 +1,17 @@
 ---
-published: true
-application_id: '7527198279'
-title: Bigger than Baseball
+application_id: '8601772285'
+title: >-
+  Leveling the Playing Field for Black Youth, Girls, and Teens through Dodgers
+  RBI
 organization_description: Nonprofit
-project_video: 'https://www.youtube.com/watch?v=bt1CM_Hy4vc'
+project_video: 'https://www.youtube.com/watch?v=hdn-zUl4g9Y'
 link_donate: 'https://www.mlb.com/dodgers/community/foundation/support/donation'
 link_volunteer: ''
 link_newsletter: 'https://www.mlb.com/dodgers/forms/ladf-newsletter-registration'
-mailing_address_city: Los Angeles
-mailing_address_street: 1000 Vin Scully Ave
 ein: 95-4623022
 organization_name: Los Angeles Dodgers Foundation
-mailing_address_state: California
 mailing_address_zip: '90012'
-organization_website: 'https://www.mlb.com/dodgers/community/foundation'
+organization_website: 'http://www.dodgers.com/ladf'
 organization_twitter: '@DodgersFdn'
 organization_facebook: 'https://www.facebook.com/LosAngelesDodgersFoundation/'
 organization_instagram: '@dodgersfoundation'
@@ -22,153 +20,105 @@ Describe the mission of your organization.: >-
   Angeles Dodgers Foundation (LADF) is bigger than baseball, envisioning a city
   where every Angeleno, regardless of zip code, has the opportunity to thrive.
 project_description: >-
-  LADF will unveil three Dodgers Dreamfields at Gonzales Park, which honor
-  Jackie Robinson and revive baseball and softball play in the area, as youth
-  develop from T-ball to high school and college athletics. 
-
-
-  This project will also include features that further benefit the local
-  community, such as Fitness and Training Zones (named for Kershaw’s Challenge),
-  solar elements on scoreboards, PV carports and EV charging stations in the
-  parking lot, and the LADF Science of Baseball curriculum for grades 3-8, that
-  uses baseball as a fun STEM textbook.
-Which LA2050 goal will your submission most impact?: LA is the best place to PLAY
+  Through Dodgers RBI, LADF levels the playing field for low-income communities
+  and those experiencing social injustices by making baseball/softball more
+  accessible to racial/ethnic minority youth, refurbishing dilapidated fields in
+  underserved areas, and delivering health, educational, racial equity and
+  leadership development resources to promote healing for Los Angeles’ most
+  vulnerable youth.  Black youth, girls, and teens are significantly
+  underrepresented in sports, and why we focus on recruiting these groups to
+  participate in Dodgers RBI.
+category: play
+connect_metrics: ''
+create_metrics: ''
+learn_metrics: ''
+live_metrics: ''
+play_metrics: >-
+  Youth sports participation, Access to open space and park facilities, Parks
+  with intergenerational play opportunities
 In which areas of Los Angeles will you be directly working?:
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-In what stage of innovation is this project, program, or initiative?: >-
-  Expand existing program (expanding and continuing ongoing successful projects
-  or programs)
+  - County of Los Angeles (select only if your project has a countywide benefit)
+'In what stage of innovation is this project, program, or initiative?': >-
+  Expand existing project, program, or initiative (expanding and continuing
+  ongoing, successful work)
 What is the problem that you are seeking to address?: >-
-  Understanding cost, lack of community safety and park access, and poor quality
-  fields are significant barriers to baseball/softball participation and health
-  outcomes in Compton, LADF identified Gonzales Park as the site for Dodgers
-  Dreamfields #55-57. The Los Angeles County Department of Parks and Recreation
-  recognizes a standard of 4 acres of parkland per 1,000 people, but
-  predominately African American neighborhoods have only 1.7 acres and Latino
-  communities only 0.6 acres per 1,000 people.
-
-
-  Gonzales Park has become a baseball desert due to rising costs of baseball
-  equipment, lack of quality coaches, and decreased local investment. With lack
-  of activity at the park, gangs and community violence made it an unsafe
-  environment for youth to visit, leaving 28,000 Compton youth under 18 (29% of
-  total residents) with limited opportunities to play baseball/softball in their
-  neighborhood. In Compton, poverty levels are significant, as 30% of families
-  with children live below the poverty line.
-Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
-  LADF has invested over $10 million to build and refurbish 51 Dodgers
-  Dreamfields across some of Los Angeles’ most underserved communities. 
-
-
-  Alongside Vision to Learn, American Heart Association and Compton Police
-  Department, LADF has worked to build vibrant futures for Compton’s youth by
-  providing district-wide eye screenings and a CPR skills program, which have
-  impacted thousands of Compton Unified School District students. LADF uses
-  sports and fields to unlock access to health and education resources.
-
-
-  LADF aims to build upon its work in the community and honor Jackie Robinson’s
-  legacy, through its largest Dodgers Dreamfields project to-date at Gonzales
-  Park. The Dodgers Dreamfields associated with this project will support youth
-  from T-ball to high school and college athletics, as Field 42 will be for
-  baseball/softball players ages 5-8, Rachel Robinson Field for baseball players
-  ages 9-12 and softball players ages 9-18, and Jackie Robinson Stadium for
-  baseball players ages 13+. 
-What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
-  The goal for the Dodgers Dreamfields at Gonzales Park is to revive baseball
-  and softball play in the area while providing access to safe, playable fields
-  for the community.
-
-
-  LADF employs a full-time Manager of Strategy & Impact to oversee its
-  comprehensive evaluation system to ensure program models are using best
-  practices and factoring in relevant data. Measurement tools are tailored to
-  capture Dodgers Dreamfields’ goals and outcomes, and include field assessment
-  surveys, pre and post program surveys, demographic data collection, focus
-  groups with parents and program coaches, pre and post interviews with park
-  staff, surveys from special events, meetings with community partners, and
-  interviews with grantees. The data obtained provides direct insight on
-  participant’s and partner’s experiences with Dodgers Dreamfields, as well as
-  program success, benefits, effectiveness and opportunities for growth.
-
-
-  Dodgers Dreamfields are significant, as they promote a safe park environment
-  according to 95% of park directors and contribute to a positive change in the
-  park’s environment according to 94.7% of park sites. Additionally, Dodgers
-  Dreamfields increase overall park usage and programming as reported by 66.7%
-  of parks, increase baseball participation for 81.5% of parks, and increase
-  softball participation for 61.8% of parks, which validates the value Dodgers
-  Dreamfields bring to the community, meeting the intended goals of the program.
-  LADF anticipates similar outcomes at Gonzales Park.
-Approximately how many people will be directly impacted by this project, program, or initiative?: '1000'
-Approximately how many people will be indirectly impacted by this project, program, or initiative?: '96000'
+  According to the Robert Wood Johnson Foundation, 62% of youth living in
+  poverty have experienced at least one Adverse Childhood Experience (ACEs),
+  which significantly impact a child’s development and social-emotional
+  functioning. Studies also show poverty disproportionately affects
+  racial/ethnic minority youth, making it a social and racial justice issue.  
+  The impact of poverty is great, leading to diminished health and decreased
+  readiness to learn and graduate from high school for Black and Brown youth,
+  which only grows more severe, as the low-income communities where they live
+  are exposed to traumatic experiences associated with poor housing, food and
+  income insecurity, limited resources, inadequate schools, and high crime and
+  violence.  The COVID-19 pandemic compounded these effects while illuminating
+  the social disparities and systemic oppressions plaguing Black and Brown, and
+  low-income communities, which further demonstrates the need for racial equity
+  and social justice support.
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  LADF works closely with Parks and Recreation departments and non-profit
+  organizations to make baseball/softball more accessible to racial/ethnic
+  minority youth and to recruit Black youth, girls, and teens to participate in
+  Dodgers RBI.  Once in the program, these groups gain access to resources that
+  promote healthier life outcomes, including college tours and workshops, STEM
+  education, racial equity curriculum, mental wellness support, health, dental
+  and vision screenings, free glasses, fitness and nutrition clinics, and
+  more.   Coaches and parents/caregivers are incredible resources to promote a
+  child's healthy development, which is why we offer coaches training and parent
+  workshops centered around trauma-informed approaches in Dodgers RBI. Here,
+  coaches, parents and caregivers receive training on how to create
+  intergenerational, healing environments where youth can grow social-emotional
+  learning (SEL) attributes, such as positive identity, discipline, and
+  pro-social connections.   Seeing racial equity, social justice support, and
+  leadership development as critical needs of the youth we serve, Dodgers RBI
+  also provides RISE leadership workshops for youth, coaches, and parents to
+  empower them to be community leaders. RISE leadership workshops cover
+  Identity, Diversity Concepts, Perspective Taking, Privilege, Sports as a
+  Vehicle for Change, Civic Engagement, Leadership, and Goal Setting, and will
+  help Black youth, girls, and teens in Dodgers RBI grow in critical areas of
+  life.
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': "To measure success of Dodgers RBI on the social-emotional development of youth, we use pre/post-program and workshop surveys, demographic data collection, focus groups with youth, parents/guardians and coaches, and interviews with Dodgers RBI partners.   LADF’s Manager of Strategy & Impact oversees data collection and analyzes assessments at the start and end of the Dodgers RBI program to determine youth’s physical and social-emotional development through sport. \t Evaluation from 2019 found 77% of Dodgers RBI players ages 5-8 reported an increase or maximum feeling of safety at the park and 73% reported an increase or maximum feeling of Self-Confidence. Using the Hello Insight Tool by Algorhythm, LADF also found 97% of Dodgers RBI players ages 9-18 succeeded in social-emotional learning development, gaining in at least one SEL capacity, and nearly two-thirds (65%) developed in 3 or more SEL capacities, like social connections, academic self-efficacy, and self-management, to name a few."
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '7000'
 Describe how Los Angeles County will be different if your work is successful.: >-
-  Dodgers Dreamfields are game-changers because revitalized green spaces help
-  revitalize communities, boosting the safety of local parks and providing a
-  place where neighbors can gather, exercise and play. We construct them and
-  give them back to the community to serve as resource hubs for communities to
-  access resources they need to live healthier lives.
-
-
-  These Dodgers Dreamfields are also part of Compton’s beautification
-  initiatives, which will encourage youth to play baseball/softball and empower
-  community members to gather in outdoor recreational spaces for many years to
-  come.
-
-
-  Roughly 28,000 youth live in Compton (29% of residents; 66.8% Latino, 30.4%
-  Black/African American). More than 91% of students receive free or reduced
-  school lunch.
-'Describe the role of collaborating organizations on this project.': >-
-  Kershaw’s Challenge will sponsor the Fitness and Training Zones, which include
-  an outdoor training area, two enclosed batting cages and bullpens, infield
-  practice area, and outdoor fitness equipment to engage the community to visit
-  the park.
-
-
-  The City of Compton will support these Dodgers Dreamfields as part of
-  Compton’s 2020 citywide beautification initiative to encourage youth to play
-  baseball/softball in their neighborhood.
-
-
-  The Annenberg Foundation, San Manuel Band of Mission Indians, LA84 Foundation,
-  Security Benefit, The Leon Lowenstein Foundation, Office of Supervisor Mark
-  Ridley-Thomas, and The Water Buffalo Club have committed funding for this
-  project, bringing about a renewed energy to the sustainability and revival of
-  Compton, a neighborhood that has been historically neglected.
-Which of LA2050’s resources will be of the most value to you?:
-  - Access to the LA2050 community
-Please list the organizations collaborating on this proposal.:
-  - Kershaw’s Challenge
-  - City of Compton
-  - The Annenberg Foundation
-  - San Manuel Band of Mission Indians
-  - LA84 Foundation
-  - Security Benefit
-  - The Leon Lowenstein Foundation
-  - Office of Supervisor Mark Ridley-Thomas
-  - The Water Buffalo Club
+  According to a recent survey by Hello Insight and Laureus USA, sports-based
+  youth development (SBYD) programs, like Dodgers RBI, are highly important for
+  youth development, as they play a significant role in growing the social,
+  emotional learning (SEL) skills of youth. This study found a particularly
+  strong impact between SBYD and SEL among young men of color and youth in
+  under-resourced communities, making it clear that Dodgers RBI is more
+  important now than ever.  Research shows strong SEL skills give youth the
+  ability to manage themselves, as they engage with the world, build and
+  maintain relationships, and face challenges. Strong SEL skills are necessary
+  to be successful in school, career and life.   This is why we are committed to
+  ensure sports and SEL opportunities are made accessible to low-income youth
+  through Dodgers RBI, so they are not only healthier in the short-term, but
+  also more confident, equipped and successful to achieve their dreams in the
+  long-term. 
+Describe the role of collaborating organizations on this project.: >-
+  Up2Us Sports, Positive Coaching Alliance, and We Coach will provide
+  parents/caregivers, coaches, and volunteers with coaches training that
+  includes trauma-informed approaches and positive youth development strategies,
+  so adults involved in the program are equipped to offer powerful support to
+  Dodgers RBI players.  Through RISE, Dodgers RBI participants will participate
+  in a multi-week leadership program to be leaders in addressing racism and
+  improving race relations. The program will cover how to break barriers, build
+  trust and create pathways for positive communication. RISE will also help
+  facilitate parent workshops, to discuss the power of sport to improve
+  diversity, equity, and inclusion and to create positive change in the areas of
+  race and equality. 
+Which of LA2050’s resources will be of the most value to you?: Access to the LA2050 community
+Please list the organizations collaborating on this proposal.: Up2Us Sports Positive Coaching Alliance We Coach RISE
 Which metrics will you impact?:
   - Youth sports participation
-  - Access to open space and park facilities
-  - Easy access to a safe park
+  - ' Access to open space and park facilities'
+  - ' Parks with intergenerational play opportunities'
 Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
-  - LA is the best place to CONNECT
-  - LA is the healthiest place to LIVE
-Has your proposal changed due to COVID-19?: >
-  At the Los Angeles Dodgers Foundation (LADF), we know that we must be bigger than baseball and that means taking a leadership role in not only helping “flatten the curve” of COVID-19 spreading throughout our communities, but by doubling down and expanding access to assistance so many of us need during this crisis. Since our community groundbreaking event in February, LADF launched relief efforts but has remained in constant communication with Gonzales Park project and construction partners. LADF is currently evaluating the project completion timeline in accordance with LA County Department of Public and Health orders and local Compton and LA Mayors’ Safer at Home directives.
-
-  LADF and its partners remain committed to this project. There have been no changes made to the project scope or design. Plans for continued construction are tentatively set for later this fall. We envision a significant grand opening celebration in spring 2021 honoring Jackie Robinson and uplifting the Compton community.
-
-  This project will include building three Dodgers Dreamfields and Fitness and Training Zones, alongside lead partners Kershaw’s Challenge and the City of Compton. This project will help restore Gonzales Park to its prior baseball glory and promote a positive environment for youth to play baseball and softball. We believe that Dodgers Dreamfields are game-changers, because revitalized green spaces help revitalize communities, boosting the safety of local parks and providing a place where neighbors can gather, exercise and play.
-
-  LADF looks forward to project completion so that, when it's safe to gather again, our youth and families can reenter and enjoy this new community space together.
+  - ' LA is the best place to CONNECT'
+  - ' LA is the healthiest place to LIVE'
 year: 2021
-category: play
 filename: los-angeles-dodgers-foundation
-order: 13
+order: 17
 
 ---

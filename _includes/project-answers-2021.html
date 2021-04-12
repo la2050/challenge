@@ -9,8 +9,8 @@
   <li>
     {{
       area
-        | replace: "(please select only if your project has a countywide", ""
-        | replace: "(please select only if your project has a citywide", ""
+        | replace: "(select only if your project has a countywide", ""
+        | replace: "(select only if your project has a citywide", ""
         | replace: "benefit)", ""
     }}
   </li>
@@ -30,7 +30,9 @@
     | replace: "(testing or implementing a new idea)", ""
 }}
 
-{% if page["Approximately how many people will be directly impacted by this project, program, or initiative?"] != "" and
+{% if page["Approximately how many people will be directly impacted by this project, program, or initiative?"] and
+      page["Approximately how many people will be directly impacted by this project, program, or initiative?"] != "" and
+      page["Approximately how many people will be indirectly impacted by this project, program, or initiative?"] and
       page["Approximately how many people will be indirectly impacted by this project, program, or initiative?"] != "" %}
 <h3>Approximately how many people will be impacted by this project, program, or initiative?</h3>
 
@@ -49,7 +51,8 @@
   </dl>
 </div>
 
-{% elsif page["Approximately how many people will be directly impacted by this project, program, or initiative?"] != "" %}
+{% elsif page["Approximately how many people will be directly impacted by this project, program, or initiative?"] and
+         page["Approximately how many people will be directly impacted by this project, program, or initiative?"] != "" %}
 <h3>Approximately how many people will be impacted by this project, program, or initiative?</h3>
 
 <div class="numbers">
@@ -62,7 +65,8 @@
   </dl>
 </div>
 
-{% elsif page["Approximately how many people will be indirectly impacted by this project, program, or initiative?"] != "" %}
+{% elsif page["Approximately how many people will be indirectly impacted by this project, program, or initiative?"] and
+         page["Approximately how many people will be indirectly impacted by this project, program, or initiative?"] != "" %}
 <h3>Approximately how many people will be impacted by this project, program, or initiative?</h3>
 
 <div class="numbers">

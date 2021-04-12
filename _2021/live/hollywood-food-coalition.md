@@ -1,159 +1,118 @@
 ---
-published: true
-application_id: '6458849630'
-title: Hollywood Food Coalition "Food Hub"
+application_id: '1039313643'
+title: 'Community Exchange: building our food safety net with empathy and precision'
 organization_description: Nonprofit
-project_video: 'https://vimeo.com/310706884'
+project_video: 'https://youtu.be/3wYJuGQmaJ8'
 link_donate: 'https://hofoco.org/donate/'
 link_volunteer: 'https://hofoco.org/volunteer/'
-link_newsletter: 'https://hofoco.dm.networkforgood.com/forms/mailing-list'
-mailing_address_city: Los Angeles
-mailing_address_street: PO Box 480157
+link_newsletter: 'https://hofoco.org/newsletters/'
 ein: 46-4079214
 organization_name: Hollywood Food Coalition
-mailing_address_state: California
 mailing_address_zip: '90048'
 organization_website: 'https://www.hofoco.org'
 organization_twitter: '@hollywoodfoodco'
-organization_facebook: 'https://www.facebook.com/HoFoCo/'
+organization_facebook: HoFoCo
 organization_instagram: '@hollywoodfoodco'
 Describe the mission of your organization.: >-
-  The mission of the Hollywood Food Coalition is to feed and serve the immediate
-  needs of the hungry every night of the year so they can build better lives. 
-  Our vision is a city where everyone has food, community and support.  
+  The Hollywood Food Coalition’s mission is to feed and serve the immediate
+  needs of the hungry every night of the year so they can build better lives.
 project_description: >-
-  The Hollywood Food Coalition has been addressing food insecurity for 33 years
-  by providing hot, nutritious meals to the hungry and homeless every night of
-  the year.  Our food recovery program now rescues more food then we can serve -
-  up to 6,000 pounds a week - and we share this food with fellow social service
-  agencies that need help with their own food programs.   We want to expand by
-  building L.A.’s first “Food Hub”, designed to better connect excess food with
-  hungry Angelenos in need.    
-Which LA2050 goal will your submission most impact?: LA is the best place to LIVE
+  The Community Exchange Program is developing a concierge model designed to
+  provide small- to medium-sized nonprofits throughout LA County with the
+  healthy, fresh food their communities need, when they need it, so they can
+  focus on their missions. Our vision is a city where everyone has food,
+  community, and support.
+category: live
+connect_metrics: ''
+create_metrics: ''
+learn_metrics: ''
+live_metrics: 'Access to healthy food, Food insecurity, Resilient communities'
+play_metrics: ''
 In which areas of Los Angeles will you be directly working?:
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-In what stage of innovation is this project, program, or initiative?: >-
-  Expand existing program (expanding and continuing ongoing successful projects
-  or programs)
+  - County of Los Angeles (select only if your project has a countywide benefit)
+'In what stage of innovation is this project, program, or initiative?': >-
+  Expand existing project, program, or initiative (expanding and continuing
+  ongoing, successful work)
 What is the problem that you are seeking to address?: >-
-  Over 11% of the people living in Los Angeles county are food insecure.  Well
-  over one million of our neighbors do not know where their next meal is coming
-  from: this is the largest 'food insecure' population in the U.S.  Structural
-  economic disparities push people into poverty. Wages have remained stagnant
-  for decades, while the cost of housing, food, and medical care have
-  skyrocketed.  The result is that the nation's western breadbasket sees many of
-  its own citizens go to bed hungry.   To make matters worse, more than a third
-  of the food in this country is thrown out.  This food ends up in landfills
-  where it releases methane, a greenhouse gas 25 times more potent than carbon
-  dioxide.   The fact that Los Angeles faces problems of both food waste and
-  food insecurity is tragic, but it is a problem that can be solved: the HFC has
-  created, and hopes to expand, mechanisms to address all aspects of the
-  problem. 
-Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
-  Solving the problems of food waste and food insecurity is what we have done
-  since inception.  In l987 we started serving people in need sandwiches. 
-  Within a few years we grew into a meal service agency that now serves over
-  50,000 hot meals annually.  All our food is donated from grocery stores,
-  restaurants, farmer’s markets, and TV/film productions.  We rescue up to 6,000
-  pounds of food a week - in excess of our needs - and we share our surplus with
-  fellow social service agencies that don’t have funds for their own meal
-  programs.  We often hear from them that the food we provide helps their
-  client's dig into the work of 'getting better'.  For battered women, at risk
-  teens, recovering alcoholics, 'recovery' is not possible when you are hungry. 
-  We possess the knowledge, the relationships, the volunteer base, and an
-  understanding of the logistical challenges needed to create LA's first “Food
-  Hub”: where food can be stored, repackaged, repurposed and ultimately shared
-  throughout LA. 
-What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
-  We will measure success by how much food we collect and how much we
-  distribute.  Our goal is to triple the amount of food we rescue and share to
-  18,000 pounds a week by July 2021.  Securing a facility separate from our
-  existing kitchen, with dramatically expanded storage space, will be a key
-  first step towards the creation of our 'Food Hub.” Additionally, while we have
-  over 40 available volunteers (“Pickup Artists”), as well as paid drivers, all
-  poised every day to rescue food, we lack the organizational infrastructure to
-  expand this program (which involves recruiting, training, and 'dispatching'
-  food procurement and rescue teams, dealing with complexities of scheduling,
-  etc.) .  Building our capacity requires us to professionalize our program by
-  hiring our first Director of Food Procurement (who would also be tasked with
-  the job of locating additional sources for food, and introducing these donors
-  to our program). Finally, we lack a refrigerated truck, which dramatically
-  limits our ability to travel 'far afield' to rescue and share food (for fear
-  of food spoilage): adding such a vehicle to our 'fleet' would go a long way
-  towards expanding the scope, scale, and thus the success, of our efforts.  Our
-  vision of success is ambitious: success, for us, means that nobody goes hungry
-  in the city of Los Angeles.  Success would mean replicating our 'hub' model,
-  in community after community after community, until our entire city's food
-  needs are met.
-Approximately how many people will be directly impacted by this project, program, or initiative?: '5000'
-Approximately how many people will be indirectly impacted by this project, program, or initiative?: '10000'
+  Food insecurity in LA has spiked dramatically since 2020, extending to both
+  housed and unhoused neighbors. Before the pandemic, 2 million people in LA
+  County were living with food insecurity (about 1 in 5). Now, LA has the
+  largest food-insecure population in the nation with 2.5 million people (about
+  1 in 4). According to the LA Food Policy Council, food insecurity is often
+  clustered in low-income neighborhoods and communities of color, which
+  generally have 2-3 times fewer options when it comes to healthy, high-quality
+  food. Nonprofits serving these populations have very specific needs, which are
+  not sufficiently met through the existing food sharing systems. Attempts to
+  solve this problem are made through technology and one-size-fits-all
+  approaches, yet many communities remain disconnected from resources. Simply
+  put, existing models don’t accommodate the diversity of nonprofit communities
+  and their food needs, resulting in inequitable access to high quality food
+  donations. 
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  The Community Exchange is developing an empathetic, culturally-sensitive, and
+  customizable model that treats nonprofits like high-value customers, catering
+  to the diversity of their needs, constraints, and schedules. Through our
+  nonprofit partners, we deliver the right food to the people who need it most.
+  Food is personal, and we want all Angelenos to feel the joy that comes from a
+  great meal.   As a kitchen ourselves, we understand the complicated nature of
+  receiving food donations and preparing high-quality meals that meet an
+  individual’s personal needs. Our careful nonprofit intake and feedback
+  process, paired with our innovative food rescue inventory system, allows us to
+  redirect resources more precisely to underrepresented communities. We
+  emphasize quality over quantity, centralizing great food donations and
+  efficiently dispersing them around the city, so donors can give to one place
+  and nonprofits can better choose what they receive and when they get it.  
+  Most importantly, we layer on strong, active relationship building. We take a
+  bottom-up approach and work with each organization to develop a deep
+  understanding of their programs’ needs, preferences, populations served, and
+  constraints. We have ongoing conversations, often weekly, to improve our
+  offerings and ensure our service is responsive to changing needs in their
+  community. With personalized knowledge of our over 80 nonprofit partners, we
+  can match them with food that fits their community outreach and programs.
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  In the last year, we rescued 1.1 million pounds of food from over 150
+  businesses and food recovery groups, equating to about 700,000 meals. We moved
+  to a temporary site in May and by December, our monthly food rescue grew by
+  1,471% to 264,000 pounds. This was accomplished with very limited storage and
+  refrigeration capacity, which we are increasing by moving to a better-equipped
+  facility in April 2021.  While we’re proud of our numbers, the formal and
+  informal feedback collected from nonprofit partners - forms, in-person
+  conversations, and phone calls - signal our model is on the right track. We’ve
+  learned that we’re providing a level of service and choice not available
+  elsewhere, and communities are gaining access to healthy, culturally-sensitive
+  food like never before. Our ability to adapt to both temporary and permanent
+  changes is key to meeting the on-the-ground realities of their operations, and
+  we’re continuing to refine our program based on this essential feedback. 
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '100000'
 Describe how Los Angeles County will be different if your work is successful.: >-
-  We believe in building coalitions, first and foremost, and we believe food is
-  a critical medium through which coalitions can be built.  We are invested in
-  helping other Not For Profit organizations achieve their missions by ensuring
-  that they are providing their clients with access to good food.  We see
-  ourselves as integral to the re-construction of a badly tattered social safety
-  net.  We believe that everyone in Los Angeles can lead a dignified, joyful
-  life if they are well fed.  We believe that no food should end up in landfills
-  and that food rescue is an integral part of a solution to the problem of
-  global warming.  Bottom line: we believe that everyone should always have
-  access to delicious, healthy food.
-'Describe the role of collaborating organizations on this project.': >-
-  Partners not only play a role in our project, they are our project.  Our
-  partners are our clients, the hundreds of donors who share food, and the raft
-  of recipient organizations (20, approximately, as of this writing). 
-  Restaurants, grocery stories, farmer’s markets: nobody wants to throw out
-  food.   What potential donors lack is a reliable partner, an organization with
-  a well run, well directed volunteer base who can be counted on to pick up food
-  at the appropriate time and location, transport it to a facility for sorting,
-  and then deliver it to one of a network of agencies who will make immediate
-  use of it.  We are that solution.  This is what we have been doing for years,
-  with a proven track record, and we are ready to go big.  We thank you for
-  supporting the Hollywood Food Coalition.
-Which of LA2050’s resources will be of the most value to you?:
-  - Access to the LA2050 community
-  - Host public events or gatherings
-  - Communications support
-  - 'Office space for meetings, events, or for staff'
-  - 'Capacity, including staff'
-  - Strategy assistance and implementation
-Please list the organizations collaborating on this proposal.:
-  - Alexandria House
-  - Blessed Sacrament
-  - Carson Victory Outreach
-  - Cochran Baptist Church
-  - Downtown Victory Outreach
-  - Dream Center
-  - Eagle Rock Victory Outreach
-  - Reseda Victory Outreach
-  - San Fernando Valley Rescue Mission
-  - SELAH
-  - Hollywood Silvercrest Senior Housing
-  - Trinity Lutheran Church
-  - Van Ness Recovery House
-  - Village Family Services
-  - NBC
-  - Paramount
-  - Fox/ABC (Modern Family)
-  - Fox/ABC (Fresh off the Boat)
-  - Canyon Partners
-  - Panda Express
-  - Sprinkles
-  - Coffee Commisary
-  - Lawry's Prime Rib
-  - Canter's Deli
-  - Whole Foods
-  - Trader Joe's
+  The Community Exchange has the potential to dramatically reduce food
+  insecurity throughout LA, leading the way for a more efficient and equitable
+  system. Just this year, we can rescue and organize over two million pounds of
+  food and partner with fellow nonprofits to share 1.6 million meals with
+  disadvantaged communities. Whether it's immune-boosting citrus, veggie bacon
+  bits, or sustainably-raised striped bass, we will connect with more large food
+  distributors and wholesalers to develop regular donations of healthy food and
+  increase the quality, variety, and cultural-relevance of food donated to
+  nonprofits.  Long term, the model we are developing can be replicated and
+  customized for any community. We will help partner nonprofits develop programs
+  in their community, ensuring that all food-insecure Angelenos have consistent,
+  local access to meals, regardless of neighborhood, income level or emergency
+  conditions. Ultimately, this will result in healthier, more resilient
+  communities.
+Describe the role of collaborating organizations on this project.: ''
+Which of LA2050’s resources will be of the most value to you?: >-
+  Access to the LA2050 community,Hosting virtual events or
+  gatherings,Communications support,Capacity-building and training,Strategy
+  assistance and implementation,Volunteer recruitment
+Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:
   - Access to healthy food
-  - Food insecurity
-  - Homelessness
-Indicate any additional LA2050 goals your project will impact.: []
+  - ' Food insecurity'
+  - ' Resilient communities'
+Indicate any additional LA2050 goals your project will impact.:
+  - LA is the healthiest place to CONNECT
 year: 2021
-category: live
 filename: hollywood-food-coalition
-order: 19
+order: 27
 
 ---

@@ -1,18 +1,15 @@
 ---
-published: true
-application_id: '7642086687'
-title: Union Station Homeless Services Community Allies Program
+application_id: '5950923626'
+title: >-
+  Union Station Homeless Services: Championing the Lived Experience to connect
+  with community and advocate for change
 organization_description: Nonprofit
-project_video: >-
-  https://abc7.com/society/local-program-takes-one-on-one-approach-to-helping-homeless/5304222/
+project_video: 'https://www.youtube.com/watch?v=ylEbv7MpC1I&t=1s'
 link_donate: 'https://unionstationhs.org/help/donate/'
 link_volunteer: 'https://unionstationhs.org/help/volunteer/'
 link_newsletter: 'https://unionstationhs.org/contact/'
-mailing_address_city: Pasadena
-mailing_address_street: 825 E Orange Grove Blvd
 ein: 95-3958741
 organization_name: Union Station Homeless Services
-mailing_address_state: California
 mailing_address_zip: '91104'
 organization_website: 'https://www.unionstationhs.org'
 organization_twitter: '@USHSNews'
@@ -24,85 +21,94 @@ Describe the mission of your organization.: >-
   families rebuild their lives and end homelessness across the San Gabriel
   Valley. 
 project_description: >-
-  The Community Allies Program was launched in response to the isolation and
-  loneliness reported by families and individuals we served as they settled into
-  their new homes. The program seeks to increase housing retention rates,
-  improve community connection, and foster community integration of currently
-  homeless families and individuals in bridge-housing and those that are
-  formerly homeless in permanent supportive housing by providing social and
-  recreational activities and pairing individuals with a supportive community
-  volunteer ally.
-Which LA2050 goal will your submission most impact?: LA is the best place to CONNECT
+  Ending homelessness in LA County requires effective community engagement to
+  educate people and dispel myths in order to build support for systemic change
+  and equitable policy solutions. Union Station’s Lived Expertise Advisory Panel
+  (LEAP) amplifies the voices of people who have experienced homelessness in an
+  advisory capacity on policy and program planning. With LA2050 funds, we will
+  provide training and civic participation opportunities to LEAP members and
+  launch a texting campaign to educate and engage others in advocating for
+  change. 
+category: connect
+connect_metrics: >-
+  Government responsiveness to residents’ needs, Neighborhood council
+  participation, Volunteerism
+create_metrics: ''
+learn_metrics: ''
+live_metrics: ''
+play_metrics: ''
 In which areas of Los Angeles will you be directly working?:
   - San Gabriel Valley
-In what stage of innovation is this project, program, or initiative?: >-
-  Expand existing program (expanding and continuing ongoing successful projects
-  or programs)
+'In what stage of innovation is this project, program, or initiative?': >-
+  Expand existing project, program, or initiative (expanding and continuing
+  ongoing, successful work)
 What is the problem that you are seeking to address?: >-
-  During periods of homelessness, people often become disconnected from friends
-  and families. Once housed, it can be difficult to organically reestablish a
-  network capable of providing social and emotional support. Research and Union
-  Station’s nearly five decades of work indicate that formerly homeless people
-  often experience persistent social isolation after moving into permanent
-  housing. In a recent study, people who were formerly homeless cited,
-  “disconnection and alienation in their neighborhoods” (Fields, 2010). 
-
-
-  Through our Community Allies Program, we address this need by building a
-  network of personalized care to help families and individuals currently
-  experiencing homelessness or formerly homeless increase their likelihood of
-  retaining housing and thriving in their new environments. By providing avenues
-  for social engagement and community connections, our program facilitates a
-  smooth transition into housing, furthering our work to end homelessness across
-  the San Gabriel Valley.
-Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
-  Since our founding in 1973, Union Station has remained on the cutting edge of
-  the homelessness sector, pairing innovation with individualized services that
-  meet people where they are at. The Community Allies Program is a key example
-  of how we continue to be responsive and evolve our programming to meet the
-  holistic needs of homeless and newly-housed individuals and families. Since
-  launching the program in 2017, we have seen the immeasurable benefits of
-  providing community integration and social-emotional support services
-  including improved housing retention rates and feeling connected to the
-  community. Union Station therefore seeks to expand the program to engage more
-  participants and volunteers. Through our position as Lead Agency of the
-  Coordinated Entry System for Families and for Individuals in Service Planning
-  Area 3, and our successful record of adopting cutting-edge approaches, we are
-  well-positioned to further advance the Community Allies Program across the San
-  Gabriel Valley.
-What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "Through the Community Allies Program, our vision for success includes:\n*\tServing at least 85 families and individuals in bridge housing or permanent supportive housing;\n*\tProviding 50 new participants with community integration support services;\n*\tRecruiting and training 30 new volunteer community allies;\n*\tSustaining engagement with 35 current program participants and 45 current volunteer community allies; and\n*\tCreating 30 new successful matches and maintain those connections for at least six months (NOTE: some participants and allies are not immediately matched; we engage them through events and referrals to ensure they receive reintegration services as they wait for the right match to be made).\n\nAs a result of our work, we anticipate:\n*\t90% of participants receiving community integration support services will retain their housing;\n*\t80% of participants are satisfied with their new housing and neighborhood;\n*\t75% of participants will feel an improved quality of life; and\n*\t50% of participants will report feeling connected to their new community.\n\nTo evaluate the success of our Community Allies program, we conduct surveys using a quality of life indicator tool to measure outcomes for participants who have been in the program for at least six months. Additionally, our housing programs collect data from participants about what services they are receiving and housing retention rates, which is entered into the Homeless Management Information System (HMIS) database."
-Approximately how many people will be directly impacted by this project, program, or initiative?: '160'
-Approximately how many people will be indirectly impacted by this project, program, or initiative?: '4700'
+  Every day, Union Station sees the impact of widening inequities in income,
+  wealth, and opportunity in LA County. Stagnant incomes have combined with the
+  dire shortage of affordable housing to produce a devastating homelessness
+  crisis. Despite LA County providers housing more individuals than ever before
+  in 2019, the lack of affordable housing is outpacing the sector’s capacity,
+  resulting in 82,995 individuals falling into homelessness. The pandemic has
+  only exacerbated this issue. The inability to meet this growing demand
+  highlights the need for broad, structural reform. A key barrier in creating
+  the systemic change necessary to address this crisis is a lack of education
+  and awareness among the public and policymakers on the experience of
+  homelessness and the varied factors perpetuating it. As such, ending
+  homelessness in LA County requires changing the narrative around homelessness
+  to garner widespread support for more equitable and informed policy
+  solutions. 
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  With nearly 50 years of direct service experience, Union Station is well
+  positioned to lead regionally-focused advocacy efforts to advance the
+  structural reform necessary to end homelessness in LA County. In the coming
+  year, Union Station will pilot a program designed to empower individuals with
+  lived experience of homelessness to serve as advocates for more equitable and
+  informed housing, criminal justice, and drug policies. Union Station will
+  offer members of our Lived Expertise Advisory Panel (LEAP) advocacy training
+  and facilitate opportunities to speak at community events including city
+  council meetings. LEAP members, who are individuals who are currently or have
+  formerly experienced homelessness, will be paid a stipend for participation in
+  monthly LEAP meetings and for speaking events, and will also receive a gift at
+  the end of the year, such as furniture or other home goods, as compensation
+  for their work. Given the expertise conferred by lived experience, Union
+  Station believes LEAP members are uniquely equipped to educate others about
+  the causes of and solutions to homelessness.  To engage the broader community
+  in this work, Union Station will launch a new texting platform to share
+  information about advocacy and civic engagement opportunities, local elections
+  and ballot initiatives, and community events. We aim to lead one texting
+  campaign per month with the goal of changing the narrative around homelessness
+  and advancing equitable policies at the local level.
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': "Union Station seeks to measure the effectiveness of the proposed program in inspiring and mobilizing more community members to take an active role in identifying the systems that have failed people and advocating for equitable solutions. Ultimately, we seek to change the narrative around homelessness through public education and push for the policies and structural solutions necessary to address this crisis. Within the 12-month grant period, we aim to produce the following outputs: •\tHost one LEAP meeting per month for a total of 12 meetings; •\tTrain at least five LEAP members on how to lead campaigns on the texting platform;  •\tLead one texting advocacy campaign per month, following training and the launch of the platform, for a total of 10 text campaigns; •\tEngage LEAP members in 1-5 speaking events per month for a total of 12-60 events;  •\tSend at least 500 initial texts and 250 text responses per advocacy campaign for a total of 22,500 texts; and  •\tEngage at least 500 individuals."
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '520'
 Describe how Los Angeles County will be different if your work is successful.: >-
-  LA County is at the center of our nation’s homelessness crisis with the
-  largest unsheltered population in the nation. Union Station recognizes that
-  addressing homelessness requires more than just providing shelter. Ensuring
-  that newly-housed individuals have the resources and supports necessary to
-  thrive in their community is critical to increasing housing retention. As a
-  lead agency in our region, Union Station seeks to pave the way for wide-scale
-  implementation of community integration services by expanding our effective,
-  replicable model. In so doing, we aim to combat homelessness while making LA
-  County a region where all residents have the opportunity to engage and
-  contribute meaningfully to their community.
-Which of LA2050’s resources will be of the most value to you?:
-  - Access to the LA2050 community
-  - Host public events or gatherings
-  - Strategy assistance and implementation
+  Union Station seeks to provide meaningful avenues for all community members to
+  engage in the civic process and contribute to the development of a more
+  equitable county. We aim to build a base of effective community advocates with
+  lived expertise to educate others about the experience of homelessness, dispel
+  myths, and work with policymakers to advance solutions at the local level to
+  address this growing crisis. Key areas of focus include affordable housing,
+  permanent supportive housing, criminal justice, and drug policy reform. By
+  engaging with and educating community members on these critical issues, we
+  seek to foster greater support among the public for models of service
+  provision and polices that are evidence-based and informed by a comprehensive
+  understanding of the experience of homelessness. If successful, this advocacy
+  work will be a driving force in changing the narrative around homelessness and
+  creating the public awareness and support required for broad, structural
+  change.
+Describe the role of collaborating organizations on this project.: ''
+Which of LA2050’s resources will be of the most value to you?: >-
+  Access to the LA2050 community,Hosting virtual events or gatherings,Strategy
+  assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:
-  - Social and emotional support
-  - Volunteerism
+  - Government responsiveness to residents’ needs
+  - ' Neighborhood council participation'
+  - ' Volunteerism'
 Indicate any additional LA2050 goals your project will impact.:
   - LA is the healthiest place to LIVE
-Has your proposal changed due to COVID-19?: >
-  Community Allies believes that creating opportunities for authentic human connection is more important than ever in light of COVID-19. At this time, we are prioritizing the safety of our volunteers and participants by cancelling all in-person activities until further notice. We have adapted programming and expanded opportunities for connection through new pilot initiatives such as “Phone Pals,” in which new friendships are facilitated over the phone. This offering has been especially impactful for Project Roomkey residents, who are highly vulnerable people experiencing homelessness who have been sheltered in motel rooms, and are thus extremely isolated.
-
-  Volunteer Allies who were already matched with participants before March 2020 continue to log volunteer hours by checking on their participants by phone on a regular basis, providing social and emotional support. Our team has also built an extensive library of virtual community gatherings/activities that has been disseminated across our networks.  
-
-  Additionally, we remain committed to elevating the voices of those with lived experience through our LEAP (Lived Expertise Advisory Panel) Committee. LEAP members have currently or formerly experienced homelessness and serve in an advisory capacity to the board of directors and staff on issues related to service provision, advocacy, and policy.  LEAP members have continued to meet virtually and are currently focused on advocacy efforts related to affordable housing.
+  - LA is the healthiest place to CONNECT
 year: 2021
-category: connect
 filename: union-station-homeless-services
-order: 63
+order: 65
 
 ---

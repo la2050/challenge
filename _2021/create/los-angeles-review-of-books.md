@@ -1,130 +1,128 @@
 ---
-published: true
-application_id: '6829199879'
-title: Los Angeles Review of Books Publishing Workshop
+application_id: '6916039285'
+title: 'LITLIT: The Little Literary Fair'
 organization_description: Nonprofit
-project_video: 'https://youtu.be/bT1LqoeupZg'
-link_donate: 'https://lareviewofbooks.org/donate'
-link_volunteer: 'https://lareviewofbooks.org/get-involved'
-link_newsletter: 'https://lareviewofbooks.org/newsletter'
-mailing_address_city: Los Angeles
-mailing_address_street: '6671 Sunset Blvd., Suite 1521'
+project_video: ''
+link_donate: 'https://lareviewofbooks.org/join/'
+link_volunteer: 'https://lareviewofbooks.org/about/get-involved/'
+link_newsletter: 'https://lareviewofbooks.org/about/newsletter/'
 ein: '900977045'
 organization_name: Los Angeles Review of Books
-mailing_address_state: California
 mailing_address_zip: '90028'
 organization_website: 'https://www.lareviewofbooks.org'
-organization_twitter: '@lareviewofbooks'
-organization_facebook: 'https://www.facebook.com/lareviewbooks/'
-organization_instagram: '@lareviewofbooks'
+organization_twitter: '@LAReviewofBooks'
+organization_facebook: 'https://www.facebook.com/lareviewbooks'
+organization_instagram: '@LAReviewofBooks'
 Describe the mission of your organization.: >-
-  The Los Angeles Review of Books promotes and disseminates rigorous and
-  engaging writing on literature and the arts. A vibrant, multimedia platform,
-  LARB covers, represents, and shapes today’s cultural landscape in a manner
-  that reflects Los Angeles's catholicity of taste and embrace of diversity.
+  The Los Angeles Review of Books is a nonprofit organization dedicated to
+  promoting and disseminating rigorous, incisive, and engaging writing and
+  conversation on literature, culture, and the arts.
 project_description: >-
-  The LARB Publishing Workshop is a three-week intensive summer course offering
-  students a comprehensive overview of how the publishing industry works and
-  where it is heading. Our curriculum and program of speakers reflect LARB’s
-  commitment to innovation, inclusivity, and independent literary production,
-  featuring students and leading professionals from wide-ranging backgrounds and
-  a robust scholarship program. Our goal is to train a new, diverse, and
-  forward-thinking generation of publishing professionals here in Los Angeles.
-Which LA2050 goal will your submission most impact?: LA is the best place to CREATE
+  LITLIT brings together independent publishers and literary arts organizations
+  from LA, SoCal, and beyond for a two-day festival of books, panels, and
+  discussions. This free and public event creates space for cross-cultural and
+  collaborative dialogue between writers, readers, and publishers about the
+  literary arts as a form of community activism, enrichment, and engagement.
+  LITLIT is dedicated to cultivating and promoting the Los Angeles literary
+  scene by raising public awareness and creating new opportunities for
+  collaboration and engagement.
+category: create
+connect_metrics: ''
+create_metrics: >-
+  Arts establishments, instillations, and exhibitions, Employment in the
+  creative industries, Minority- and women-owned businesses
+learn_metrics: ''
+live_metrics: ''
+play_metrics: ''
 In which areas of Los Angeles will you be directly working?:
-  - Central LA
-In what stage of innovation is this project, program, or initiative?: >-
-  Expand existing program (expanding and continuing ongoing successful projects
-  or programs)
+  - County of Los Angeles (select only if your project has a countywide benefit)
+  - City of Los Angeles (select only if your project has a citywide benefit)
+'In what stage of innovation is this project, program, or initiative?': >-
+  Expand existing project, program, or initiative (expanding and continuing
+  ongoing, successful work)
 What is the problem that you are seeking to address?: >-
-  The publishing industry shapes the stories we read and determines whose
-  stories we encounter. As a result, its acute lack of diversity—predominantly
-  white (76%), straight (81%), and non-disabled (89%)—raises concerns about not
-  only its hiring practices, but also its cultural gatekeeping. Recent literary
-  controversies have borne out such concerns, highlighting troubling blindspots
-  in how publishers treat authors of color and stories about people of color. 
-
-
-  At LARB, we see the lack of diversity within publishing as partly a function
-  of its traditionally high financial bar of entry. Publishing, centered largely
-  in New York City, has historically been built on unpaid internships or
-  underpaid jobs, legacy connections, and expensive programs that offer little
-  to no financial aid. We created the Publishing Workshop to train and support
-  talented students regardless of their finances or location, and, in doing so,
-  to highlight the innovative work of independent publishers here in LA. 
-Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
-  Democratizing access to the smart, vibrant exchange of ideas is the
-  cornerstone of LARB. Our flagship magazine gives voice to more socially and
-  intellectually diverse writers than the legacy outlets. We provide free online
-  content to six million readers annually in all 50 states and 200+ countries.
-  Our civic arts programs, the Publishing Workshop and the Little Literary Fair
-  (LITLIT), were created to advance the next generation of writers, editors, and
-  publishers with the same commitment to access and creative exchange in mind.
-
-  LARB is uniquely situated to offer the Publishing Workshop because of our
-  professional relationships and the extensive network of community support we
-  have established over the years. We welcome 60 leading publishing
-  professionals from all over the industry every year and offer 90% of students
-  financial aid through the support of LARB’s readers, eight university
-  partnerships, individual sponsors, and grant funders including the LA
-  Department of Arts and Culture.
-What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
-  Success to us means:
-
-  —Meeting admitted fellows’ need for tuition assistance. We measure this
-  through a review process where we evaluate statements of need and finances,
-  and work with students, donors, and institutional partners on a case-by-case
-  basis to establish funding packages that make attendance possible. 
-
-
-  —Seeing our fellows flourish in publishing jobs. Through a biweekly
-  newsletter, monthly events, and comprehensive directory, we continue to
-  support our students and celebrate their career achievements as they’ve gone
-  on to work at places such as Jack Jones Literary Arts, Palgrave Macmillan,
-  Prospect Park Books, Stanford University Press, W.W. Norton, and many more.
-
-
-  —Helping fellows launch new creative ventures in publishing. Through our
-  project incubator programs and tailored workshops on entrepreneurship, we’ve
-  fostered nearly two dozen magazines, publishing houses, websites, workshops,
-  and residencies, both in the U.S. and abroad.
-
-
-  —Building a diverse and supportive community within the publishing industry.
-  Through the application process, we’ve learned that they’ve joined us from all
-  over the U.S. and nine other countries; half are people of color (versus 15%
-  in similar programs); and many can only attend through varying levels of
-  financial assistance. By maintaining our alumni network, we know that they’ve
-  gone on to work together on projects, find jobs and mentorship with our
-  speakers and faculty, and a few have even returned to staff the Publishing
-  Workshop itself. 
-Approximately how many people will be directly impacted by this project, program, or initiative?: '60'
-Approximately how many people will be indirectly impacted by this project, program, or initiative?: '120000'
+  Literary production can feel like an insider's world, concentrated in and
+  around New York’s publishing scene and largely dominated by a handful of
+  ever-consolidating corporations. California’s thriving independent publishing
+  houses have long offered more inclusive, diverse, and adventurous
+  alternatives, but lack the interconnective network, outreach infrastructure,
+  and financial resources wielded by larger firms. Independent literary arts
+  organizations, driven by community rather than pure profit, serve communities
+  often underrepresented in and misrepresented by big trade publishing. LITLIT
+  offers local independent publishers and literary arts organizers the
+  opportunity to forge and reinforce direct connections with their readers and
+  fellow professionals. By bringing together California’s literary arts
+  community and the reading public, LITLIT will foster a more diverse cultural
+  landscape, increasing access to the arts for writers, publishers, readers, and
+  curious passers-by alike.
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  Over the course of a weekend, LITLIT will gather together 30-40 local
+  publishers and literary arts organizations and host 6–7 panel discussions and
+  workshops. The free, outdoor book fair will run from 10AM–5PM on both days,
+  with ample room for socially distanced and masked activity, should such
+  precautions be necessary. Attendees will have the opportunity to mingle with
+  booksellers, authors, publishers, and organizers from their communities, and
+  to engage in printing workshops and other interactive craft projects. We will
+  feature panels and discussions between literary artists and publishers on a
+  range of topics. We will tailor programming to the groups and causes our
+  exhibitors serve, inviting those interested to not only participate in panels,
+  but also to cultivate these discussions with us. This year, we plan to feature
+  conversations on topics such as Politics & Publishing, Art & Poetry Across
+  Borders, Adaptations from Page to Screen, and more.  This grant will
+  facilitate participation from small presses and nonprofit publishers by
+  helping us offer exhibitors booths free of charge, rather than at the often
+  prohibitive standard rates of $350–950+ for comparable events and conferences.
+  It will also support advertising and outreach efforts to communities all over
+  Los Angeles and fund panel discussions, which will be recorded and uploaded
+  onto LARB’s YouTube channel and website to maximize content accessibility and
+  engagement, and for archival purposes. 
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  In our inaugural (and as-yet, because of the pandemic, only) run, our
+  exhibitors garnered between 25–150+ new email sign-ups, building their
+  following and customer base. LITLIT 2019, co-hosted by LARB and Hauser & Wirth
+  Publishers, welcomed over 5,000 visitors across two days, and our goal is to
+  host over 6,000 this year. Exhibitors reported that they sold more books at
+  LITLIT than at other book fairs and events, and some sold out on the first
+  day.   We have learned that regular in-person check-ins with exhibitors are
+  essential during the event to create a welcoming and casual atmosphere
+  conducive to a positive experience. After the event, we also provided
+  exhibitors with emailed surveys for more extensive feedback about the quality
+  and efficacy of the event, details regarding the number of products exhibitors
+  sold and new contacts and collaborations made, and their willingness to
+  participate in future events. (All of our respondents were eager to join us
+  again.)
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '40'
 Describe how Los Angeles County will be different if your work is successful.: >-
-  Our emphasis is on creating access for students underrepresented in the
-  publishing industry and amplifying the work of independent publishers. Fellows
-  that we train this year will go on to be the next generation of publishing
-  professionals and leaders both in LA and across the country. If an average of
-  75% of this year's cohort go on to careers in publishing, we estimate that in
-  the course of their careers they will have a hand in the careers of 120,000+
-  writers, and countless readers across the globe. As editors, agents,
-  publicists, designers, and marketers, LARB Publishing Workshop Fellows will
-  enter a rapidly changing field and shape its future into one that is
-  inclusive, diverse, and reflective of the world we live in.
-Which of LA2050’s resources will be of the most value to you?:
-  - Access to the LA2050 community
-  - Host public events or gatherings
-  - Communications support
+  Cutting-edge and attuned to the needs of local communities, independent
+  presses in California have done much to shape Los Angeles’s cultural identity.
+  LITLIT will strengthen public and institutional support for their work and
+  bring broader recognition of the vibrant literary community here in LA. It
+  will also foster access to and engagement in the world of literary production,
+  especially among readers and writers from underserved populations. By bringing
+  together publishers and readers, LITLIT will help each of our exhibitors,
+  which have included Tia Chucha, World Stage Press, Kaya Press, Red Hen, and
+  others, to increase their audiences and better tailor their products to the
+  communities they serve. LITLIT exposes the public to local literary
+  communities, generating dozens of new library card enrollments each day and a
+  long list of new volunteers for programs such as WordsUncaged. Our goal is to
+  attract at least 6,000 members of the public in 2022. 
+Describe the role of collaborating organizations on this project.: ''
+Which of LA2050’s resources will be of the most value to you?: >-
+  Access to the LA2050 community,Hosting virtual events or
+  gatherings,Communications support,Capacity-building and training,Strategy
+  assistance and implementation,Volunteer recruitment
 Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:
-  - 'Arts establishments, instillations, and exhibitions'
-  - Employment in the creative industries
-  - Minority- and women-owned businesses
+  - Arts establishments
+  - ' instillations'
+  - ' and exhibitions'
+  - ' Employment in the creative industries'
+  - ' Minority- and women-owned businesses'
 Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
+  - ' LA is the best place to CONNECT'
 year: 2021
-category: create
 filename: los-angeles-review-of-books
-order: 22
+order: 25
 
 ---

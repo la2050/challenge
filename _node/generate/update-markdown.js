@@ -213,11 +213,11 @@ function processFile(filename) {
   let data = loadMarkdown(filename);
   if (!data) return;
 
-  for (let key of Object.keys(data.yaml)) {
-    if (typeof(data.yaml[key]) === "string") {
-      data.yaml[key] = makeBulletedListsMarkdownFriendly(data.yaml[key]);
-    }
-  }
+  // for (let key of Object.keys(data.yaml)) {
+  //   if (typeof(data.yaml[key]) === "string") {
+  //     data.yaml[key] = makeBulletedListsMarkdownFriendly(data.yaml[key]);
+  //   }
+  // }
 
   // if (data.yaml['Please list the organizations collaborating on this proposal.'].includes(",")) {
   //   console.log(data.yaml['Please list the organizations collaborating on this proposal.'])
@@ -365,8 +365,8 @@ function updateMarkdownFiles(folder) {
   }
 }
 
-updateMarkdownFiles('../_2020/learn');
-updateMarkdownFiles('../_2020/create');
-updateMarkdownFiles('../_2020/play');
-updateMarkdownFiles('../_2020/connect');
-updateMarkdownFiles('../_2020/live');
+updateMarkdownFiles('../_2021/learn');
+updateMarkdownFiles('../_2021/create');
+updateMarkdownFiles('../_2021/play');
+updateMarkdownFiles('../_2021/connect');
+updateMarkdownFiles('../_2021/live');

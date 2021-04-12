@@ -1,93 +1,124 @@
 ---
-published: true
-application_id: '1465056182'
-title: Center For Powerful Public Schools
+application_id: 0868724234
+title: Building Highly Effective Educators For Students in High Need Areas
 organization_description: Nonprofit
 project_video: ''
 link_donate: >-
   https://powerfuled.networkforgood.com/projects/23016-give-the-gift-of-education
-link_volunteer: 'http://powerfuled.org/contact/'
-link_newsletter: 'http://powerfuled.org/contact/'
-mailing_address_city: Los Angeles
-mailing_address_street: '350 S. Bixel St., Suite 180'
+link_volunteer: ''
+link_newsletter: 'https://www.powerfuled.org'
 ein: 26-0326342
 organization_name: Center for Powerful Public Schools
-mailing_address_state: California
 mailing_address_zip: '90017'
 organization_website: 'https://www.powerfuled.org'
 organization_twitter: '@4PowerfulEdOrg'
-organization_facebook: 'https://www.facebook.com/4PowerfulEdOrg/'
-organization_instagram: '@@4PowerfulEdOrg'
+organization_facebook: 'https://www.facebook.com/4PowerfulEdOrg'
+organization_instagram: '@4powerfuledorg'
 Describe the mission of your organization.: >-
-  The mission of the Center for Powerful Public Schools is to build the capacity
-  of educators in order to create and sustain powerful public schools that
-  prepare every student for college, career and life. 
+  The Center helps teachers and schools in high-need
+  areas to build their capacity to meet the academic and social-emotional needs
+  of Black and Latino students. This supports their ability to better prepare
+  students reach their full potential in school, college, and career, while
+  closing the equity gaps existing for our most underserved students.  
 project_description: >-
-  The Center’s work focuses on strengthening the capacity of teachers and school
-  leaders, so they can better prepare students to reach their full potential in
-  school, in postsecondary education, and in 21st-century careers, while closing
-  the equity gaps existing for our most underserved students. By working
-  directly with teachers and administrators, the Center empowers schools and
-  school districts in Los Angeles County to improve education for public school
-  students of color and those living in poverty, creating impactful system
-  change. 
-Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
+  The Center builds the capacity of teachers and schools in high-need areas so
+  they can better prepare student of color and low-income students to access
+  rigorous education, opportunity pathways, and be college and/or career ready. 
+  By boosting social-emotional and culturally responsive practices, students
+  realize their value, develop their strengths, and are prepared to fulfill
+  their full post-secondary future.  This whole-child approach is an essential
+  step to building systemic educational equity in Los Angeles schools.   
+category: learn
+connect_metrics: ''
+create_metrics: ''
+learn_metrics: >-
+  High school graduation rates, Student proficiency in English & Language Arts,
+  Proficiency in STEM
+live_metrics: ''
+play_metrics: ''
 In which areas of Los Angeles will you be directly working?:
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-  - >-
-    LAUSD (please select only if you have a district-wide partnership or
-    project)
-In what stage of innovation is this project, program, or initiative?: >-
-  Expand existing program (expanding and continuing ongoing successful projects
-  or programs)
-What is the problem that you are seeking to address?: >
-  The primary goal of K–12 education should be to empower young people to reach
-  their full potential. Meeting this goal requires an inclusive and supportive
-  learning environment designed to meet the promise for each and every child.
-  Unfortunately, data show that historically underserved youth— including youth
-  of color, those with disabilities, and those from low-income
-  families—frequently fail to receive the attention, information, and
-  high-quality supports they need and deserve within the education system. As a
-  result, these students are often left disempowered by the process. According
-  to the Learning Policy Institute, this marginalization is most evident in
-  disparate rates of graduation, incarceration, and unemployment. 
-
-
-  A higher level and quality of education means increased earnings, better
-  health, and a longer life. Equity in education requires putting systems in
-  place to ensure that every child has an equal chance for this success. 
-Describe the project, program, or initiative that this grant will support to address the problem identified.: "The Center has a proven history of helping schools develop the equitable educational environments their underserved students desperately need. Since 2003, the Center has partnered with LAUSD and five other school \tdistricts to build powerful schools through the customization and \timplementation of a combination of professional development, coaching, \tevaluation processes, and technical assistance designed to build the capacity of teachers and school leaders. As a result of working with the Center, some of the region’s lowest-performing schools have improved their ability, to ensure students are well-known, valued, and challenged, and engage parents in their children’s learning.  The Center is widely acknowledged as a leader in achieving systems-level impact. Our guidance led to \tLAUSD’s adoption of the Zones of Choice model, which offers students and their families increased choice in determining the type of instruction and the type of school focus that best match their needs. "
-What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: "The Center’s goals is that underserved students receive equitable opportunities to support their success both now and as adults.  Qualitative and quantitative metrics evaluated at the schools with which the Center is working include:\n\n*\t85% of students who are attending schools in the pilot school network will be college or career ready;\n*\t90% of participating instructional leadership team members will report that they are able to set clearer instructional outcomes;\n*\t90% of participating instructional leadership team members will report that they are comfortable using a variety of protocols and engagement strategies to aid students; and\n*\t90% of participating instructional leadership team members will report that they regularly use student work and formative assessments to guide instruction;\n\nTo ensure our work has a measurable impact on students served, the Center compiles and analyzes data surrounding student outcomes on an ongoing basis. We track multiple college and career-readiness measures for all schools we serve, which includes: A-G completion, 11th grade English and math standardized test scores, attendance and graduation rates, and other California Department of Education data, including the College/Career Indicator.   \n\nOver the past year, the Center's team has been developing evaluation tools to measure the qualitative impact of its work. Our recently developed Powerful Educator rubric is a scoring guide designed to gather impact on teacher, leader, school, and district support.  The rubric is given at the beginning, middle, and end of our intensive support.  In addition, the schools with which we work complete surveys directly connected to the service they received.  \n\nTo date, we have helped improve the practice of more than 3,500 educators, impacting the lives of more than 500,000 students.\n"
-Approximately how many people will be directly impacted by this project, program, or initiative?: '300'
-Approximately how many people will be indirectly impacted by this project, program, or initiative?: '22000'
+  - County of Los Angeles (select only if your project has a countywide benefit)
+'In what stage of innovation is this project, program, or initiative?': >-
+  Applying a proven model or solution to a new issue or sector (e.g., using a
+  job recruiting software or strategy to match clients to supportive housing
+  sites, applying demonstrated strategies from advocating for college
+  affordability to advocating for housing affordability and homelessness, etc.)
+What is the problem that you are seeking to address?: >-
+  In LA, the number of low-income students and students of color are threatened
+  by the lack of rigor and cultural insensitivities in public schools in
+  high-poverty communities. Statistics demonstrate that these students have
+  consistently faced systemic barriers and lacked the supports necessary to
+  access higher education, opportunity pathways, and navigate successfully to a
+  four-year degree. This marginalization is most evident in disparate rates of
+  graduation, incarceration, and unemployment.     Distance learning has
+  significantly exacerbated learning loss among low-income, Black, and Hispanic
+  students.  In addition, the virus has disrupted many of the supports that help
+  vulnerable youth stay in school.  It is anticipated that these challenges will
+  lead to an increase in high school dropout rates, academic performance gaps,
+  socio-emotional challenges, and even more students leaving school unprepared
+  for college and/or career, inhibiting their potential to achieve stable
+  lives.  
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  The Center supports teachers’ efficacy to address barriers to student
+  achievement and illuminate postsecondary opportunities, creating a clear path
+  from high school to college/career success.  To accomplish this, the Center
+  collaborates with school administrators and instructional leadership teams to
+  custom design and implement a combination of professional development,
+  technical assistance, and assessment protocols.  Our approach leverages best
+  practices from applied research and collaborative partnerships in the public
+  sector. We focus on improving the region’s lowest-performing schools to ensure
+  1) Teachers are equipped to meet the needs of each student in their classroom;
+  2) Students are well-known, valued, and challenged; 3) Curriculum is relevant
+  and rigorous; and 4) Every student has the skills and knowledge that places
+  them on a trajectory for college, career, and life success.       The Center’s
+  student support programs are critical components in transforming school
+  systems’ ability to provide high-quality education.  It is through these
+  bespoke programs that students of color have access to opportunities to the
+  social-emotional learning that will support them in overcoming barriers to
+  future success, as well as to discover and explore college and career
+  possibilities for their future.  With this whole-child approach, students of
+  color realize their value, develop their strengths, and imagine pathways that
+  prepare them to fulfill their full post-secondary future.  
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  Students of schools and districts that have participated in the
+  Center’s professional development training have increased their performance
+  across multiple college and career-readiness metrics, including: A-G
+  completion, 11th grade English and math standardized test scores, attendance,
+  graduation rates, and other California Department of Education data, including
+  the College/Career Indicator. On average, students of schools and school
+  districts whose teachers have participated in the Center’s training have a
+  graduation rate of 84%, as compared to the 75% graduation rate of non-Center
+  trained schools and districts.     Over the past 18 years, the Center has
+  helped improve the practice of more than 3,500 educators, helping more than
+  500,000 students in underserved communities attain the skills and outcomes
+  that support them in successfully preparing for postsecondary educational and
+  career opportunities.  
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '400'
 Describe how Los Angeles County will be different if your work is successful.: >-
-  Those who provide education in our public schools are critical to the success
-  of their students and to the outcomes of our education system as a whole. Our
-  evidence-based approach responds to the critical needs of schools by
-  leveraging best practices from applied research and collaborative partnerships
-  with leaders in the fields of business, philanthropy, and the public sector.
-  By focusing on strengthening the capacity of teachers and school leaders, we
-  are empowering them to better prepare students to reach their full potential
-  in school, in postsecondary education, and in 21st-century careers, while
-  closing the equity gaps existing for our most underserved students.
-Which of LA2050’s resources will be of the most value to you?:
-  - Access to the LA2050 community
-  - Host public events or gatherings
-  - Communications support
-  - 'Capacity, including staff'
-  - Strategy assistance and implementation
+  An equitable community is one where everyone is included in the full benefits
+  of society. In such a community, everyone is treated with fairness and justice
+  and empowered to participate fully in social, cultural, and economic life.   
+  For Los Angeles youth, this means putting systems and supports in place to
+  ensure that every child has an equal chance for success. That requires
+  understanding the unique challenges and barriers faced by students of color
+  and low-income students to help them overcome those barriers. While this in
+  itself may not ensure equal outcomes, we all should strive to ensure that
+  every child has equal opportunity for success.    With the empowerment from
+  equitable education benefits everyone in Los Angeles County through higher
+  rates of economic stability, lower crime, healthier lifestyles, reduction in
+  poverty, higher civic involvement, and a stronger sense of inclusiveness. 
+  This is the Los Angeles the Center envisions through its work. 
+Describe the role of collaborating organizations on this project.: ''
+Which of LA2050’s resources will be of the most value to you?: Capacity-building and training
 Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:
   - High school graduation rates
-  - Student proficiency in English & Language Arts
-  - Proficiency in STEM
+  - ' Student proficiency in English & Language Arts'
+  - ' Proficiency in STEM'
 Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CONNECT
 year: 2021
-category: learn
 filename: center-for-powerful-public-schools
-order: 10
+order: 13
 
 ---

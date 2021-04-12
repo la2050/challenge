@@ -1,130 +1,100 @@
 ---
-published: true
-application_id: '6812960741'
+application_id: '1070373239'
 title: >-
-  Global Arts Professional Development Series: The Use of Teacher Development to
+  Global Arts Professional Development Series: Using Teacher Development to
   Increase Student Success
 organization_description: Nonprofit
-project_video: ''
-link_donate: 'https://www.globalartsla.com/donate-1'
-link_volunteer: 'https://www.globalartsla.com/volunteer'
-link_newsletter: ''
-mailing_address_city: Los Angeles
-mailing_address_street: 405 N Ave 53
+project_video: 'https://vimeo.com/507210400'
+link_donate: 'https://www.globalartsco.org/donate/'
+link_volunteer: 'https://www.globalartsco.org/get-involved/'
+link_newsletter: 'https://www.globalartsco.org/news-2/'
 ein: 83-4028238
 organization_name: Global Arts Corporation
-mailing_address_state: California
 mailing_address_zip: '90042'
-organization_website: 'https://www.GlobalArtsCo.org'
-organization_twitter: '@GlobalArtsLA'
+organization_website: 'https://www.globalartsco.org'
+organization_twitter: ''
 organization_facebook: 'https://www.facebook.com/globalartsla'
 organization_instagram: '@globalartsla'
 Describe the mission of your organization.: >-
-  Global Arts is an after-school program in LA that provides music classes for
-  underserved youth  and continual professional development for educators. By
-  providing exceptional courses, we encourage students and educators to promote
-  educational equity and evoke social change in their own communities. 
+  Global Arts provides music classes for underserved youth in Los Angeles and
+  professional development workshops for educators worldwide. By providing
+  exceptional courses, we encourage students and educators to promote
+  educational equity and evoke social change in their own communities.
 project_description: >-
   We believe teachers who are constantly inspired to learn make the best
   educators, however, there is a severe lack of access to high-quality
-  professional development for all educators. We are requesting $100,000 in
-  funding for our Professional Development (PD) Program, which will provide free
-  workshops for all. This program will consist of a series of workshops, held
-  every other Friday afternoon throughout the academic year, as well as one
-  5-day, Summer Seminario that will bring back our most effective presenters
-  from the year’s workshop series.
-Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
+  professional development for all educators. A grant from LA2050 will fund our
+  Professional Development Series outright, providing free workshops for all.
+  Our series consists of 17 biweekly workshops on Friday afternoons throughout
+  the academic year, as well as a five-day Summer Seminario that brings back our
+  most effective presenters from the year’s workshop series.
+category: learn
+connect_metrics: ''
+create_metrics: ''
+learn_metrics: 'Arts education, Enrollment in afterschool programs'
+live_metrics: ''
+play_metrics: ''
 In which areas of Los Angeles will you be directly working?:
-  - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
-In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
+  - County of Los Angeles (select only if your project has a countywide benefit)
+  - City of Los Angeles (select only if your project has a citywide benefit)
+'In what stage of innovation is this project, program, or initiative?': >-
+  Expand existing project, program, or initiative (expanding and continuing
+  ongoing, successful work)
 What is the problem that you are seeking to address?: >-
-  The purpose of the Professional Development Program is to provide a
-  collaborative space that is centered around teaching and learning. We
-  understand, firsthand, the impact a teacher can have on their students, and it
-  is our objective to create an environment that recognizes and encourages
-  teachers’ continual learning.
-
-
-  The workshops will focus on educational psychology, musical excellence, and
-  social justice, and will be led by world-class presenters from varying
-  backgrounds. They will provide engaging and edifying material, as well as
-  tangible tools that attendees can take into their classrooms and apply
-  immediately.
-
-
-  The major need we are responding to is the severe lack of resources put toward
-  teacher development. PD for teachers is often an afterthought or only offered
-  because it is a requirement. We want teachers to have a choice from a variety
-  of workshops and we want them to see that we have the growth and development
-  of their needs at the forefront of our mission.
-Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
-  Our team of educators has collectively over 30 years of teaching experience in
-  educational programs in the Los Angeles area, and our time in the field has
-  given us a unique perspective of how teachers can be better supported. We have
-  seen how the effects of a positive and supportive environment affects learning
-  and we believe that our expertise can help develop a strong backbone for other
-  educators.
-
-
-  Throughout our time in the field, we have built numerous curricula that have
-  been implemented in multiple programs within LAUSD, reaching thousands of
-  teachers and students. But, more importantly, we have met educators and
-  specialists who have valuable stories to tell,  and beneficial tools to share
-  with other educators; we feel that it is our responsibility to bring those
-  people together so that we can all learn from them. We built Global Arts
-  intentionally to ensure that educators are offered continual and impactful PD,
-  and are presented by people that we know and trust in the field.
-What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
-  Our mission is to cultivate a community that is enjoyable, motivational, and
-  time-effective so that attendees are inspired to return for multiple workshops
-  and bring colleagues with them. Success for Global Arts’ Professional
-  Development Workshop Program will be defined by the number and quality of
-  workshops as well as the number of attendees per workshop. We will host 17
-  high-quality professional workshops per academic year, and for our Pilot Year
-  (beginning September 2020) we aim to have at least 30 attendees per session,
-  making our annual attendance over 500. Additionally, we plan to have between
-  50 and 75 attendees for our Summer Seminario.
-   
-  Data will be collected at the end of each workshop and the seminario through
-  questionnaires. These will provide us with qualitative feedback about
-  attendees’ perceived effectiveness of the workshop and their desire to return
-  for future workshops. This feedback will allow us to improve upon the topics
-  we present, the workshops that we host, as well as help us identify potential
-  returning presenters. In addition, questionnaires will provide us with data on
-  the number of attendees, attendee retention, how our number of attendees are
-  growing, and how many attendees we can project to see the following year. Our
-  long-term goal for measuring success will also include gathering statistics on
-  the attendees effectiveness in their classrooms.
-Approximately how many people will be directly impacted by this project, program, or initiative?: '500'
-Approximately how many people will be indirectly impacted by this project, program, or initiative?: '100000'
+  There is a severe lack of resources dedicated to teacher development.
+  Professional development for teachers is often an afterthought or only offered
+  because it is a requirement. We want arts educators in Los Angeles to have
+  access to a variety of relevant continuing education workshops to support
+  their teaching practice.
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  Our Professional Development Program provides a collaborative space centered
+  around teaching and learning. As a staff of educators ourselves, we understand
+  firsthand the impact a teacher can have on their students. It is our objective
+  to create an environment that recognizes and encourages teachers’ continual
+  learning.  Global Arts Professional Development Program workshops focus on
+  educational psychology, musical excellence, and social justice, and are led by
+  world-class presenters from varying backgrounds. Our workshops provide
+  engaging and edifying material, as well as tangible tools that attendees can
+  take into their classrooms and apply immediately. Since we launched our
+  program online in September 2020, we have served over 100 educators in Los
+  Angeles and elsewhere in the United States, Australia, Canada, Colombia,
+  Eswatini (formerly Swaziland), and Venezuela.
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  At the end of each workshop, surveys are distributed to all participants.
+  These surveys have provided us with qualitative feedback about attendees’
+  perceived effectiveness of the workshop and their desire to return for future
+  workshops. All participant comments allow Global Arts staff to make
+  adjustments to the topics presented and the workshop format, as well as to
+  identify potential returning presenters. Additionally, we also use workshop
+  registrations to monitor the number of attendees, attendee retention, school
+  or organization affiliation, and how many attendees we can project to see the
+  following year.
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '500'
 Describe how Los Angeles County will be different if your work is successful.: >-
-  We will establish an accessible, long-term PD program with the goal of
-  improving the academic lives of the teachers and students of LAUSD. LAUSD is
-  the 2nd largest school district in the nation, with 35,000 teachers and an
-  average age of 45. Last year’s Teacher Strike opened the public’s eyes to the
-  conditions in our school system; educators demanded development opportunities
-  and conducive learning environments not only for their students, but for
-  themselves and other educators. Unfortunately, nationwide, only 29% of
-  teachers are highly satisfied by professional development offerings, and this
-  concern trickles down as it directly affects students' learning shown by
-  LAUSD’s low graduation rate of 77% and high dropout rate of 13.6%.
-Which of LA2050’s resources will be of the most value to you?:
-  - Access to the LA2050 community
-  - Host public events or gatherings
-  - Communications support
-  - 'Office space for meetings, events, or for staff'
-  - 'Capacity, including staff'
-  - Strategy assistance and implementation
+  Global Arts envisions an accessible, long-term professional development
+  program that improves the academic lives of the teachers and students of
+  LAUSD. LAUSD is the 2nd largest school district in the nation with over 35,000
+  teachers. The 2019 Teacher Strike opened the public’s eyes to the conditions
+  in our school system; educators demanded development opportunities and
+  conducive learning environments not only for their students, but for
+  themselves and other educators. Unfortunately, nationwide only 29% of teachers
+  are highly satisfied by professional development offerings, and this concern
+  trickles down as it directly affects students' learning. This effect can be
+  seen in LAUSD’s high dropout rate of 13.6%. The success of our program will
+  manifest itself in reinvigorated LAUSD educators and lower student dropout
+  rates across the district.
+Describe the role of collaborating organizations on this project.: ''
+Which of LA2050’s resources will be of the most value to you?: >-
+  Access to the LA2050 community,Hosting virtual events or
+  gatherings,Communications support,Capacity-building and training,Strategy
+  assistance and implementation,Volunteer recruitment
 Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:
   - Arts education
-  - Enrollment in afterschool programs
+  - ' Enrollment in afterschool programs'
 Indicate any additional LA2050 goals your project will impact.: []
 year: 2021
-category: learn
 filename: global-arts-corporation
-order: 37
+order: 30
 
 ---

@@ -1,143 +1,120 @@
 ---
-published: true
-application_id: '2759763697'
-title: Help Support Children Impacted by Cancer
+application_id: 0643687027
+title: Virtual Platform to support children impacted by cancer
 organization_description: Nonprofit
-project_video: 'https://www.youtube.com/watch?v=HQUYBXXZRqE'
-link_donate: 'https://donate.walkwithsally.org/campaign/friends-of-sally/c102536'
+project_video: 'https://www.youtube.com/watch?v=zecyysZQ8aI'
+link_donate: 'https://donate.walkwithsally.org/give/326422/#!/donation/checkout'
 link_volunteer: 'https://www.walkwithsally.org/get-involved/volunteer-now/'
 link_newsletter: 'http://go.walkwithsally.org/l/129421/2016-02-29/8kdfz'
-mailing_address_city: El Segundo
-mailing_address_street: '840 Apollo Street, Ste 324'
 ein: 61-1472800
 organization_name: Walk With Sally
-mailing_address_state: California
 mailing_address_zip: '90245'
 organization_website: 'https://www.walkwithsally.org'
 organization_twitter: '@walkwithsally'
-organization_facebook: facebook.com/walkwithsally
+organization_facebook: 'https://www.facebook.com/walkwithsally'
 organization_instagram: '@walkwithsally'
 Describe the mission of your organization.: >-
-  Walk With Sally believes no child should walk alone in the face of a loved
-  one’s cancer. Therefore, Walk With Sally provides hope through our
-  individualized mentoring and community support services to empower children
-  experiencing trauma through a parent, guardian or sibling's cancer journey.
+  Walk With Sally provides hope through our individualized mentoring and
+  community support services to empower children experiencing trauma through a
+  parent, guardian, or sibling's cancer journey. We created a platform for
+  community and social connections, globally connecting both adult mentors and
+  our kids through their shared cancer experience.
 project_description: >-
-  Today, 5 million children in the United States are living with a parent who is
-  battling or has survived cancer. The National Cancer Institute estimates 1 in
-  4 cancer patients are parents of a child under the age of 18. In order to help
-  more of these children and families in LA County, Walk With Sally is asking
-  for a $50,000 grant from LA2050 to expand its reach and impact through a
-  satellite office in DTLA. From here we will recruit 60 more volunteers from
-  DTLA, East LA as well as Glendale and Pasadena to support these children and
-  families. 
-Which LA2050 goal will your submission most impact?: LA is the best place to CONNECT
+  Walk With Sally transformed the virtual community, based on cancer's shared
+  experience to improve health outcomes, specifically better psychological
+  well-being, for cancer-affected families. Our pivot during the pandemic to
+  meet the urgent needs of our families demonstrated deep impact through art
+  healing, mindfulness, enrichment programs, deepening relationships through
+  activities, roundtables, and workshops. Knowing we could not break our promise
+  to the families we serve, we created an innovative virtual community.
+category: connect
+connect_metrics: 'Social and emotional support, Volunteerism'
+create_metrics: ''
+learn_metrics: ''
+live_metrics: ''
+play_metrics: ''
 In which areas of Los Angeles will you be directly working?:
-  - Central LA
-  - East LA
-  - South LA
-  - South Bay
-In what stage of innovation is this project, program, or initiative?: >-
-  Expand existing program (expanding and continuing ongoing successful projects
-  or programs)
-What is the problem that you are seeking to address?: >+
-  Cancer changes everything. According to a 2017 study by Shah, B. K., Armaly,
-  J., & Swieter, E., “...children in particular have a higher risk of emotional
-  and behavioral problems. The disruption of schedules and daily routine,
-  shifting of household roles, financial stress, and the physical and emotional
-  availability of either parent all contribute to these problems. If overlooked
-  or untreated, these problems can persist into adulthood.”  Although responses
-  to parental cancer can vary based on age and the individual, common themes
-  among these children are uncertainty, fear, guilt, and anxiety. Furthermore,
-  in a study conducted in 2007, 53% of siblings of cancer patients between ages
-  8 and 18 reported moderate to severe post-traumatic stress symptoms. These
-  high rates of post-traumatic stress among siblings included emotional
-  reactions such as fear, worry, sadness, helplessness, anger and guilt, as well
-  as school and academic difficulties.
-
-Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
-  WWS knows the need in Los Angeles County is larger than can be incorporated
-  into our one South Bay office. These programs succeed in part due to the
-  addition of an annual curriculum of events and support programs that keep both
-  mentee and mentor engaged in the full benefits of the community such as
-  activities that bring all mentor and mentee or Friendships together as
-  community, art healing allowing for each child begin learning to express
-  themselves, leadership groups that teach about giving back, applying for jobs
-  and careers that are available to them, scholarships to help with secondary
-  education and connection to county wide resources for the child and family.
-  Finally, we provide emergency financial assistance to help families in crisis.
-
-  Developing and supporting these programs throughout LA County is something
-  that is challenging unless these same services are able to be provided within
-  a closer proximity to each family and mentor. 
-What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
-  Walk With Sally’s individualized support helps children adjust to and cope
-  with traumatic situations. Through the growth of our directors and staff as
-  well as our relationships with LAUSD school counselors, a primary source of
-  mentees and families, WWS has built the capacity to serve more youth. However,
-  in order to reach the most children in need throughout the county as well as
-  provide the most benefits including the annual curriculum, WWS will focus on
-  expansion through a satellite office in downtown Los Angeles. With an
-  additional Program Coordinator as well as a small rented space within a
-  creative workspace, we feel we can grow the program by 20% in one year. 
-
-
-  Currently, Walk With Sally serves approximately 155 children annually. Our
-  goal is to increase this number to 185 in a 12-month period, a growth of 20%.
-  Each year, we look to reach more children experiencing trauma and grief, which
-  requires critical growth in volunteer recruitment, retention, and management.
-  Right now, WWS has 40 mentees in the South Bay and 15 in LAUSD South. With
-  expansion into LAUSD Central & East, which has double the number of schools as
-  LAUSD South, WWS would have 200 additional schools to recruit from. Based on
-  our current successes in the South Bay and with one new staff member at a
-  satellite office focused on recruitment in these new LAUSD districts, we
-  foresee that within a year, we could recruit 20 mentees. Hiring this new staff
-  member to focus on LAUSD Central would allow our other case managers to focus
-  on the South Bay and LAUSD South, allowing them to add an additional 10
-  mentorships in these areas. 
-
-
-  In addition, this Program Coordinator, along with our lead staff, would meet
-  with business owners, corporations, and volunteer and community organizations
-  to recruit the volunteer mentors needed to match with new mentees. This would
-  be executed through new connections as well as referrals and introductions
-  from our 80-person Board and Advisory Board, current sponsors and donors. Most
-  importantly we would also need the help of the LA2050 Community to recruit
-  these special volunteers. From our experience, about 50% of our trained
-  mentors complete the additional requirements and become matched with a mentee.
-  This is due in part to changing circumstances for volunteers, proximity of
-  current mentees on the waiting list as well as making just the right match to
-  the right child. We believe with the recruitment and training of 60 new
-  volunteer mentors, the total increase would be 30 new Friendships and
-  therefore children in our program in 1 year. With graduates and friendship
-  closures, we would meet our goal of supporting 185 total mentor-friendships
-  annually throughout Los Angeles County.
-Approximately how many people will be directly impacted by this project, program, or initiative?: '60'
-Approximately how many people will be indirectly impacted by this project, program, or initiative?: '90'
+  - County of Los Angeles (select only if your project has a countywide benefit)
+  - LAUSD (select only if you have a district-wide partnership or project)
+'In what stage of innovation is this project, program, or initiative?': >-
+  Expand existing project, program, or initiative (expanding and continuing
+  ongoing, successful work)
+What is the problem that you are seeking to address?: >-
+  Our youth-initiated mentoring model is based on the power of cancer's shared
+  experience, bringing an immediate, long-lasting bond to relationships; our
+  goal is to share our virtual platform with every child who needs our services.
+  When our kids were compelled to adapt to virtual learning and cope with
+  isolation, mentoring and community became more critical than ever. Our kids
+  impacted by cancer need a positive community to connect with, as many of them
+  have lasting social isolation issues, anxiety, in addition to being in
+  immunocompromised homes. Worry and isolation will only increase long-term
+  mental health problems. Our mentors and the team have stepped up and are
+  providing a positive and healthy relationship and connection. Technology
+  allows us to continue to bring our community of kids impacted by cancer
+  together and be an essential part of our kids' well-being. We want to bring
+  that collective story of cancer together in a positive healing way, more
+  globally than we have before.
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  As the world changed around us this past year, we set goals to ensure the
+  pandemic's effects would not impact our program and expanded with fewer
+  monetary and staff resources. Our demographic is historically underserved, and
+  the pandemic only magnified the disparities and racial divides. We learned to
+  do more with less money and staff; however, our immunocompromised families
+  will be forever devastated by job loss, anxiety, poverty, and isolation.
+  During an exploding demand for service, our programs are being thought of on a
+  continuum of care, falling somewhere between more intensive professional care
+  and an exceptional teacher's informal support. We saw an immediate need to
+  bring our community together virtually and exist as the hub of urgent
+  resources and basic needs. We took action to move our communities into the
+  Zoom space through meditation, art healing, dance parties, and mentor
+  connections. Our goal is to aggregate the Walk With Sally’s mission through a
+  global network in order to recruit more families and mentors, as well as serve
+  those who wouldn’t otherwise have access. We are keenly thinking of
+  demographics we are not reaching due to overwhelming obstacles and removing
+  those through technology. Potential to create a new pod of community while
+  changing the model for efficiency and cost savings through analytics.
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  Cancer changes everything for families and can have a significant impact on
+  children and teens. These high rates of post-traumatic stress among siblings
+  included emotional reactions such as fear, worry, sadness, helplessness,
+  anger, guilt, and social and academic difficulties.   Our surveys include
+  questions about academic performance, emotional and behavioral development,
+  and the mentee's future goals as a result of their Mentor relationship and the
+  WWS program. Results demonstrated that since being in our program, 83% of
+  mentees have opened up about their feelings, 72% felt more confident, 89% felt
+  less lonely, 89% felt like they now had a support system, 67% felt better able
+  to control their temper or outbursts, 78% were interested in volunteering, 44%
+  were interested in leadership roles, 78% felt better able to cope, 89% felt
+  less stressed or anxious, and 100% were more often in a better mode and better
+  able to handle change.  
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '600'
 Describe how Los Angeles County will be different if your work is successful.: >-
-  While Walk With Sally's core program is its individualized one-on-one
-  mentoring program. However, our additional programs such as our Friendship
-  Activities, bringing together all our mentors, mentees and families as well as
-  prospective children and families, additional resources we have compiled from
-  all our partners across the county as well as our Temporary Financial Support
-  programs that provide emergency financial assistance to families who are
-  forced to choose between rent or medical expenses and holiday time support of
-  gifts and cheer during one of the toughest times each year, affect each entire
-  family including siblings and parents as well as children and families that
-  are waiting to be matched with a WWS Mentor.
-Which of LA2050’s resources will be of the most value to you?:
-  - Access to the LA2050 community
-  - Host public events or gatherings
-  - Communications support
-  - 'Office space for meetings, events, or for staff'
+  As our youth struggle with isolation due to immunocompromised family members,
+  challenges, and hardships related to the pandemic, youth mentoring is more
+  critical today than at any other time in recent history.  Safe, stable, and
+  nurturing relationships and environments can be protective for kids who are
+  experiencing adversity. Sometimes it only takes is one person to make a
+  difference in that child's entire future. Our families need consistent love,
+  nurturing, and support to combat the trauma our families face. When one person
+  mentors, two people benefit, there is a radical transformation and our
+  community becomes infinitely stronger. A mentor can be a critical healer of
+  adverse childhood experiences that have proved to be responsible for so much
+  pain in a child's cancer journey.  Our vision is to positively lift and impact
+  all those in need throughout Los Angeles County, and ensure no child walks
+  alone in the face of a loved one's cancer.
+Describe the role of collaborating organizations on this project.: ''
+Which of LA2050’s resources will be of the most value to you?: >-
+  Access to the LA2050 community,Hosting virtual events or
+  gatherings,Capacity-building and training,Strategy assistance and
+  implementation,Volunteer recruitment
 Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:
   - Social and emotional support
-  - Volunteerism
-Indicate any additional LA2050 goals your project will impact.: []
+  - ' Volunteerism'
+Indicate any additional LA2050 goals your project will impact.:
+  - LA is the healthiest place to LIVE
 year: 2021
-category: connect
 filename: walk-with-sally
-order: 66
+order: 67
 
 ---

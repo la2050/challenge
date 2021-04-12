@@ -1,135 +1,126 @@
 ---
-published: true
-application_id: '4814835196'
-title: City Year Inglewood USD Expansion
+application_id: '8785106435'
+title: City Year Los Angeles Whole School Whole Child Program
 organization_description: Nonprofit
-project_video: >-
-  https://www.youtube.com/watch?v=_Ok-r9ywLjY&list=PLQmnJ-zhcZRAjhsuAOra6lTU9rHZiDAWo&index=1
+project_video: 'https://vimeo.com/456359181'
 link_donate: >-
-  https://secure.qgiv.com/for/cyiddp/restriction/LosAngeles?_ga=2.177033251.707392047.1584484374-143730428.1540270748
+  https://secure.qgiv.com/for/cyiddp/restriction/?_ga=2.141238130.1391389220.1617299976-1621541515.1614969024
 link_volunteer: 'https://www.cityyear.org/apply-now/'
-link_newsletter: >-
-  http://info.cityyear.org/Subscription_Center.html?_ga=2.203249815.707392047.1584484374-143730428.1540270748
-mailing_address_city: Los Angeles
-mailing_address_street: '606 S. Olive Street, 2nd Floor'
+link_newsletter: 'https://www.cityyear.org/alumni-life/stay-involved/subscribe/'
 ein: 22-2882549
 organization_name: City Year Los Angeles
-mailing_address_state: California
 mailing_address_zip: '90014'
-organization_website: 'https://www.cityyear.org/losangeles'
-organization_twitter: '@CityYearLA'
-organization_facebook: 'https://www.facebook.com/City-Year-Los-Angeles-473497739805451/'
+organization_website: 'https://www.cityyear.org/la'
+organization_twitter: '@cityyearla'
+organization_facebook: facebook.com/cityyearlosangeles
 organization_instagram: '@cityyearla'
 Describe the mission of your organization.: >-
   Our mission is to build democracy through citizen service, civic leadership
-  and social entrepreneurship. We fulfill our mission by leveraging the service
-  of our AmeriCorps members to address the inequitable distribution of
-  educational resources for children living across the Los Angeles area.
+  and social entrepreneurship. We leverage the service of our AmeriCorps members
+  to address the inequitable distribution of educational resources across Los
+  Angeles, which we believe strengthens our democracy and develops civic leaders
+  and social entrepreneurs. 
 project_description: >-
-  This school year, City Year Los Angeles partnered for the first time with the
-  Inglewood Unified School District (IUSD). Inglewood is prioritizing City Year
-  as part of their turnaround strategy to help further the district’s mission to
-  nurture, educate and graduate students who are self-responsible and
-  self-disciplined. This grant would support City Year’s continued presence in
-  its two IUSD pilot schools - Crozier Middle School and Woodworth-Monroe
-  Academy - with a long-term plan to expand onto more Inglewood campuses.
-Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
+  City Year believes all children can succeed. Every day, our AmeriCorps members
+  serve as student success coaches, helping students build on their strengths
+  and cultivate social, emotional and academic skills - from mastering fractions
+  to learning to work in teams. City Year partners with schools in
+  under-resourced communities to create learning environments where all students
+  have the tools to grow and fully engage in their education.  
+category: learn
+connect_metrics: ''
+create_metrics: ''
+learn_metrics: >-
+  Enrollment in afterschool programs, Student proficiency in English & Language
+  Arts, Proficiency in STEM
+live_metrics: ''
+play_metrics: ''
 In which areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - South LA
-In what stage of innovation is this project, program, or initiative?: >-
-  Expand existing program (expanding and continuing ongoing successful projects
-  or programs)
+  - 'Other:: Inglewood'
+'In what stage of innovation is this project, program, or initiative?': >-
+  Expand existing project, program, or initiative (expanding and continuing
+  ongoing, successful work)
 What is the problem that you are seeking to address?: >-
-  This school year, City Year Los Angeles (CYLA) began a partnership with IUSD.
-  As mentioned above, Inglewood is prioritizing City Year as part of their
-  turnaround strategy to help further the district’s mission to nurture, educate
-  and graduate students who are self-responsible and self-disciplined. Thelma
-  Melendez de Santa Ana, the former State Administrator for IUSD, stated the
-  district is experiencing “declining student enrollment, changing demographics,
-  challenging socioeconomic conditions for families, a drop in school funding,
-  and the expansion of charter schools” but, IUSD’s “mission remains unchanged:
-  providing effective educational experiences for every student in our care.”
-  CYLA is an important part of helping IUSD maintain this mission. City Year’s
-  “Whole School Whole Child” approach to student-success, with a strong focus on
-  social-emotional learning, is uniquely equipped to support Inglewood Unified
-  in its goals to improve student outcomes and enrollment.
-Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
-  CYLA is uniquely positioned to work in partnership with IUSD as we have 13
-  years of experience doing similar work in LAUSD. For over a decade, we have
-  been implementing our Whole School Whole Child program in schools across Los
-  Angeles. Through this program, CYLA has the ability to add capacity to
-  under-resourced schools and help meet the holistic needs of all students by
-  integrating academic and social-emotional supports throughout the school day.
-  Our AmeriCorps members forge positive, caring relationships with students and
-  help create an environment in which students can build on their strengths,
-  take risks in their learning and feel connected to their school. Expansion
-  into IUSD is deeply aligned with CYLA’s goals and priorities, as we seek to
-  provide support to schools where students can benefit the most. Ultimately, we
-  see potential to grow into more districts like IUSD that have the same level
-  of need as LAUSD and also work collaboratively with us to ensure
-  sustainability.  
-What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
-  CYLA measures success in terms of our students’ growth. City Year has
-  determined the following objectives for 2020-21 school year:
-
-
-  *Deploying two teams of AmeriCorps members, one to Crozier Middle School and
-  one to Woodworth-Monroe Academy
-
-  *Providing support to approximately 150 “focus list” students with at least 15
-  hours of targeted intervention;
-
-  *Offering support to focus list students through attendance monitoring, social
-  emotional guidance, tutoring in English Language Arts and math, and
-  after-school offerings; and
-
-  *Ensuring that 50% of students City Year AmeriCorps members work with in math
-  and English improve their “D” or “F” at least one grade level, maintain a “C”
-  grade or higher in Math and English, or meet/exceed their expected growth on
-  the Math and English Inventories.
-
-
-  CYLA uses the Houghton Mifflin Harcourt (HMH) Inventory exams to measure
-  academic growth, and the Deveraux Student Strengths Assessment (DESSA), to
-  measure students’ social emotional growth.
-
-
-  In the long term, it is our goal to deepen our presence in the key communities
-  we serve by filling out school “feeder patterns” - the series of schools a
-  child will attend along his or her educational trajectory. It is our goal to
-  continue expanding our services across IUSD, replicating the success we are
-  seeing at Crozier Middle School and Woodworth-Monroe Academy.
-Approximately how many people will be directly impacted by this project, program, or initiative?: '150'
-Approximately how many people will be indirectly impacted by this project, program, or initiative?: '1034'
+  Students in the communities we serve often don’t have access to educational
+  opportunities and tend to face systemic obstacles that can further drain their
+  capacity to learn. Students in these circumstances graduate high school at
+  rates that are nearly 22 percentage points lower than their middle- and
+  upper-income peers. This inequity is due in part to a lack of access to
+  educational opportunities and individualized supports that are designed to
+  meet the intensity of student need. Current school closures and distance
+  learning undoubtedly create more barriers that can compromise students’
+  academic and life outcomes. According to the NWEA, students will likely see
+  learning loss similar to that of other disruptive crises or to the “summer
+  slide” crises. This learning loss is likely to be exacerbated by the
+  additional aspects of trauma students are experiencing, particularly the
+  students we serve who come from households impacted the most economically. 
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  As Los Angeles and Inglewood Unified Schools Districts operate via remote
+  virtual learning, our AmeriCorps members continue to serve as student success
+  coaches in a virtual capacity. We focus on the three types of interventions
+  known as “Early Warning Indicators” of being off-track from graduation for
+  students – attendance, behavior, and course performance.    We have pivoted
+  our service to adapt to the ever-changing needs of our schools and students.
+  City Year Los Angeles has developed a variety of options to implement our
+  course performance and social-emotional development interventions virtually or
+  in a hybrid remote/in-person capacity, when the time comes. Our AmeriCorps
+  members lead breakout rooms to review specific academic concepts with small
+  groups of students, call home to promote attendance or assist with
+  technological issues, host virtual afterschool spaces where they can help with
+  homework and class material, set goals with students around social-emotional
+  competencies, and perform regular check-ins with students to monitor their
+  growth in those areas, among a myriad of other supports. AmeriCorps members’
+  invaluable presence in virtual classrooms will help to mitigate learning
+  loss.  This grant award will help us maintain a strong cohort of AmeriCorps
+  members who work hard to decrease the potentially widening skill gaps of our
+  students, help create differentiation in the virtual and in person
+  environments, and to assist teachers in virtual settings. 
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  We will continue to evaluate our impact via qualitative feedback from our
+  partner schools. We elicit this feedback from our partner teachers and
+  principals regarding our impact on students via mid-year and end of year
+  surveys. Through the surveys, teachers and principals can assess their
+  satisfaction with City Year and evaluate the impact of our service on students
+  and school culture.  This year, we have our highest ever approval ratings from
+  our partner teachers! 95% believe that CYLA AmeriCorps members are having a
+  positive impact with students.  During a typical school year, we would measure
+  our academic impact by using the Houghton Mifflin Harcourt (HMH) Inventory
+  exams and the Deveraux Student Strengths Assessment (DESSA) to measure
+  students’ academic and social-emotional development. This year, we will not
+  administer the HMH inventory or DESSA, as those tests have not been built for
+  the virtual space and as AmeriCorps members must be physically present when
+  the tests are taken.  
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '13000'
 Describe how Los Angeles County will be different if your work is successful.: >-
-  City Year is contributing to a bolder vision of what public schools can and
-  should be for all children: places of learning, exploration, and risk-taking,
-  where data informs practices that promote student growth and achievement and
-  where all students have access to positive relationships and personalized
-  learning environments that encourage them to persevere through challenges and
-  thrive. With this proposal we want to continue to bring these enhancements to
-  our two Inglewood Unified School District campuses. Since 2007, City Year Los
-  Angeles has partnered with teachers and schools in communities challenged by
-  the persistent inequity in our education system to create learning
-  environments where all students can reach their full potential.
-'Describe the role of collaborating organizations on this project.': >-
-  City Year Los Angeles will work closely with the Inglewood Unified School
-  District for the duration of this project. However, this is not a
-  collaborative proposal. 
-Which of LA2050’s resources will be of the most value to you?:
-  - Access to the LA2050 community
-  - Communications support
+  If our work is successful, our students will be better equipped academically
+  and social-emotionally to return to in-person learning.   Prior to the
+  pandemic, City Year was the subject of a study with the Everyone Graduates
+  Center at Johns Hopkins University to explore whether there is a connection
+  between social-emotional and academic outcomes and understand whether there is
+  a correlation between time with an AmeriCorps member (ACM) and student
+  outcomes.  The study found a strong connection between social-emotional
+  development and academic outcomes. According to the study, improving in just
+  one area of social-emotional development is equivalent to gaining a year of
+  schooling. This analysis validated City Year’s holistic approach by revealing
+  that we support improvements in academic outcomes through the direct effect of
+  English Language Arts or math tutoring time with an ACM, and through
+  social-emotional support from an ACM, which correlated with stronger academic
+  outcomes.   
+Describe the role of collaborating organizations on this project.: ''
+Which of LA2050’s resources will be of the most value to you?: >-
+  Access to the LA2050 community,Communications support,Strategy assistance and
+  implementation
 Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:
-  - High school graduation rates
-  - Student proficiency in English & Language Arts
-  - Proficiency in STEM
+  - Enrollment in afterschool programs
+  - ' Student proficiency in English & Language Arts'
+  - ' Proficiency in STEM'
 Indicate any additional LA2050 goals your project will impact.: []
 year: 2021
-category: learn
 filename: city-year-los-angeles
-order: 16
+order: 15
 
 ---

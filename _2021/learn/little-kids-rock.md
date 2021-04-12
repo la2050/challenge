@@ -1,161 +1,121 @@
 ---
-published: true
-application_id: '2892563613'
-title: Modern Band Los Angeles County
+application_id: '9085522329'
+title: Modern Band Music Education
 organization_description: Nonprofit
-project_video: 'https://youtu.be/5lEwOLdfC28'
+project_video: 'https://youtu.be/dQMh6H86dWg'
 link_donate: 'https://www.littlekidsrock.org/support-us/donation/'
 link_volunteer: 'https://www.littlekidsrock.org/support-us/get-involved-2/'
 link_newsletter: bit.ly/LKRnewsletter
-mailing_address_city: Verona
-mailing_address_street: '271 Grove Ave, Building E2'
 ein: 94-3396568
 organization_name: Little Kids Rock
-mailing_address_state: New Jersey
-mailing_address_zip: '7044'
+mailing_address_zip: 07043-0369
 organization_website: 'https://www.littlekidsrock.org/'
-organization_twitter: '@littlekidsrock'
+organization_twitter: littlekidsrock
 organization_facebook: Little Kids Rock
-organization_instagram: '@littlekidsrock'
+organization_instagram: littlekidsrock
 Describe the mission of your organization.: >-
-  With its mission “to transform lives by restoring, expanding, and innovating
-  music education in our schools,” Little Kids Rock (LKR) has become the
-  national thought leader in the field of inclusive, culturally relevant, and
-  student-centered music education.
+  Little Kids Rock “transforms lives by restoring, expanding, and innovating
+  music education in our schools.” Using genres including hip hop, rock, pop,
+  Latin, and others, our modern band program empowers teachers to build music
+  classrooms as diverse as the kids they serve.
 project_description: >-
-  LKR will democratize music education across LA County through the expansion of
-  our modern band program. Modern band trains and equips music teachers to
-  connect learning to the music that kids already know and love—including rock,
-  pop, Latin, and hip-hop, and others—performed with guitars, keyboards, drums,
-  vocals, and technology. The program has resulted in increased participation in
-  music, as well as improved social, emotional, and academic outcomes especially
-  for students who do not feel represented by traditional music education
-  offerings.
-Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
+  Little Kids Rock’s modern band program unlocks students’ inner music makers!
+  Using the music that kids already know and love (styles like pop, hip hop, and
+  Latin), modern band empowers students to play their favorite songs within
+  minutes of picking up an instrument; boosting self-confidence, improving
+  school attendance, and giving them the tools for a lifelong healthy, creative
+  self-expression. By training additional teachers to launch modern band
+  programs, more kids in LA County will have access to diverse, student-centered
+  music education.
+category: learn
+connect_metrics: ''
+create_metrics: ''
+learn_metrics: Arts education
+live_metrics: ''
+play_metrics: ''
 In which areas of Los Angeles will you be directly working?:
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-  - >-
-    LAUSD (please select only if you have a district-wide partnership or
-    project)
-In what stage of innovation is this project, program, or initiative?: >-
-  Expand existing program (expanding and continuing ongoing successful projects
-  or programs)
+  - County of Los Angeles (select only if your project has a countywide benefit)
+  - City of Los Angeles (select only if your project has a citywide benefit)
+  - LAUSD (select only if you have a district-wide partnership or project)
+'In what stage of innovation is this project, program, or initiative?': >-
+  Expand existing project, program, or initiative (expanding and continuing
+  ongoing, successful work)
 What is the problem that you are seeking to address?: >-
-  Music education cannot impact the lives of children it does not reach. In
-  LAUSD, for example, 80%+ of students are eligible for free/reduced-fee meals,
-  a strong indicator of the socio-economic realities that students and their
-  families face. When buying groceries is a challenge, obtaining an instrument
-  or getting lessons outside of school is almost impossible. Additionally, 70%+
-  of the student population is Latino/Hispanic, meaning many young people may
-  choose not to participate in traditional music programs as they do not reflect
-  their likes and diverse cultural perspectives. The need then is two-fold:
-  music education must be both accessible and relevant to be effective. At a
-  time when the benefits of music education are better understood than ever
-  before, LKR is improving participation and inspiring young people to unlock
-  their inner music-makers with profound results including enhanced emotional
-  literacy, improved attendance, and increased engagement in the school
-  community.
-Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
-  No other service provider combines teacher training, instruments, and
-  curriculum and offers them as a direct investment in the district’s existing
-  infrastructure. For instance, LKR’s modern band approach is implemented by
-  full-time district employees, offered during the academic day or as a
-  sustained after-school program, and is made available at no fee to the
-  students, teachers, or schools.
-
-
-  LKR also has a proven track of working with school districts across LA County,
-  including LAUSD where we’ve worked in partnership since 2004. Currently, we
-  serve more than 17,000 students in 175 classrooms across LA County (in cities
-  including Los Angeles, Pasadena, Altadena, Compton, and many others). For an
-  overview of our current program schools, find a LA County Impact Map here:
-  https://bit.ly/2xzG95o 
-
-
-  With a modest initial investment, and by leveraging students’ cultural capital
-  through inclusive curricula, LKR can scale modern band exponentially to
-  transform music education across LA County.
-What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
-  The Modern Band Los Angeles County project will dramatically expand access to
-  culturally relevant music education in LA County. LKR currently serves over
-  17,000 students in 175 classrooms across the county. During the 2020-2021
-  school year, with support of My LA2050, LKR will:
-
-  - Train and equip 20 new modern band teachers who’ll each launch new programs
-  at their schools
-
-  - Serve 3,000 additional students (helping us reach 20,000+ total students
-  county-wide)
-
-  - Provide 250+ hours of teacher training and professional development
-
-  - Provide over 700,000 hours of student instructional time
-
-
-  To measure the program’s impact, LKR will conduct classroom site visits,
-  solicit teacher feedback, and require program teachers to complete an annual
-  year-end assessment survey gathering feedback on four key markers: Youth
-  Development, Youth Musical Development, Teacher Development, and School
-  Outcomes.
-
-
-  Based on historical data, we propose the following student/school outcomes as
-  a result of modern band participation: 
-
-  - 80% of students are more likely to express themselves and their emotions 
-
-  - 80% of teachers say the program has engaged students who were not previously
-  engaged in school
-
-  - 75% of students say the program makes them want to come to school
-
-  - 75% of teachers say the program has improved the school environment/culture
-
-  - 70% of teachers observe improved behavior among students who had previously
-  behaved poorly in class
-Approximately how many people will be directly impacted by this project, program, or initiative?: '3000'
-Approximately how many people will be indirectly impacted by this project, program, or initiative?: '20000'
+  Music education must be accessible and relevant to be effective. Research
+  shows that, even in schools that can offer music programs, 80% of students
+  will leave as soon as it becomes an elective.   Little Kids Rock first
+  increases accessibility by addressing financial barriers to music education.
+  In LAUSD, 72% of students qualify for free/reduced-fee lunch. When buying
+  groceries is a challenge, getting lessons outside of school is nearly
+  impossible, so in-school offerings are essential to providing a creative
+  outlet to kids.   We increase participation by building a curriculum that is
+  relevant to, and as diverse as the students we serve. In LAUSD, nearly 75% of
+  students are Latinx, meaning the majority of students are not represented by
+  traditional music classes. By teaching today’s most popular music
+  genres—including hip hop, Latin, and R&B, which were largely pioneered by
+  people of color—students who feel represented by these genres get the means to
+  express themselves and be heard.
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  Little Kids Rock’s modern band program prepares teachers to incorporate
+  popular genres into their music classes by providing them with professional
+  development, curricula, and classroom resources. Because Little Kids Rock
+  invests directly in district teachers, modern band is offered during the
+  school day and at no cost to all the students that teacher reaches. This
+  highly sustainable model allows the program to grow each year as new students
+  immediately fill the seats of recent graduates.   During the 2021-2022 school
+  year, Little Kids Rock will train and equip up to 30 new modern band teachers,
+  to reach 3,000+ additional students. Grant funds will support up to two
+  certification workshops for new teachers, such as our “Modern Band 101” or
+  “Digital Songwriting and Production” series. Courses will be held online or
+  in-person as current health guidelines allow.  Los Angeles County is currently
+  one of our largest program markets, serving approximately 16,000 students
+  annually through the efforts of 160 teachers. LAUSD administrators facilitate
+  the recruitment of teachers to participate in our workshops, and many LAUSD
+  teachers have become modern band ambassadors who mentor new teachers.
+  Workshops are open to any teacher who expresses their interest, but our
+  district partners help us identify high-needs schools that would benefit from
+  targeted recruitment. For an overview of our current program schools, find a
+  LA County Impact Map here: https://bit.ly/3udMQBR
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  Since launching LA County’s first modern band program in 2004, Little Kids
+  Rock has provided 4,200 PD hours to 345 teachers to bring engaging music
+  instruction to kids.    To measure our qualitative impact, we conduct
+  classroom site visits (as current health guidelines permit), solicit teacher
+  feedback, and require program teachers complete an annual survey on student,
+  teacher, and school outcomes.   In response to this survey, students have
+  shared: • “My confidence grew, and I completed one of my life goals which was
+  learning how to play the guitar.” • “I like the band because it is fun working
+  with other kids. It's fun to get to know each other.” • “I like that it gives
+  me an excuse to be myself in front of people.”  Countless studies have shown
+  that music education enhances students’ creative thinking, emotional
+  development, and intellectual curiosity, among other benefits. Modern band’s
+  collaborative, hands-on approach amplifies these benefits through
+  student-centered instruction.
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '190'
 Describe how Los Angeles County will be different if your work is successful.: >-
-  Ours is an age of unprecedented diversity, but traditional music education
-  excludes students who do not recognize themselves or their culture in the
-  music being offered in school. By teaching genres like rap, hip hop, Latin and
-  R&B, which have been historically excluded from classrooms, modern band gives
-  students that feel represented by these genres the means to express themselves
-  and be heard, thus radically democratizing music education. Beyond the 20,000
-  public-school students who’ll participate directly in a modern band class, our
-  data shows that access and exposure to inclusive music education practices
-  positively impact the entire school and many modern band programs are a point
-  of pride throughout the larger community.
-'Describe the role of collaborating organizations on this project.': >-
-  While this is not a collaborative proposal, partnerships are at the core of
-  all of LKR’s work. We have a strong relationship with LAUSD, which supports
-  our introductory workshops, Ambassador-led professional developments, and
-  guest artist visits. They have also been supportive of the LA All-City Modern
-  Band which was created in 2018, and have incorporated modern band methods into
-  Beyond the Bell, their district-wide after-school program. 
-
-
-  LKR also has a great collaborative relationship with Partnership LA and has
-  ensured that all 20 LAUSD schools they oversee have a modern band program. We
-  also partner with LA Works, which provides volunteers to assist teachers in
-  the classroom. Their volunteers with musical backgrounds work with our LA
-  All-City Modern Band students during rehearsals. 
-Which of LA2050’s resources will be of the most value to you?:
-  - Access to the LA2050 community
-  - Host public events or gatherings
-  - 'Office space for meetings, events, or for staff'
+  Little Kids Rock believes that music is best learned experientially. This
+  means modern band provides students with hands-on experiences with an
+  instrument and opportunities to collaborate with their peers. By emphasizing
+  songwriting and improvisation, kids learn to use music as a tool for
+  self-expression.   Based on historical data, we anticipate the following
+  outcomes in students who participate in modern band:  • 85% will feel happier
+  and/or more confident • 85% will want to come to school  • 80% will be more
+  likely to express themselves  In the long-term, we aim to use modern band to
+  address systemic inequities in education. We seek to provide alternate avenues
+  for music education for students without instruments at home, ways to
+  integrate music production technology into music education, and opportunities
+  for students of color to express themselves through their music-making. We
+  believe that this approach will make music education more diverse, inclusive,
+  and equitable.
+Describe the role of collaborating organizations on this project.: ''
+Which of LA2050’s resources will be of the most value to you?: Access to the LA2050 community
 Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:
   - Arts education
-  - Enrollment in afterschool programs
-  - K-8 chronic absenteeism
 Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
 year: 2021
-category: learn
 filename: little-kids-rock
-order: 45
+order: 48
 
 ---

@@ -1,92 +1,104 @@
 ---
-published: true
-application_id: '8286348431'
-title: Mi Terro Food Waste
+application_id: 0891329814
+title: >-
+  Ocean degradable and home compostable flexible packaging materials made from
+  agricultural waste
 organization_description: For profit business
-project_video: 'https://youtu.be/Z8dU0mKXJoQ'
-link_donate: ''
+project_video: 'https://youtu.be/dzISrfX4d4k'
+link_donate: www.miterro.com
 link_volunteer: www.miterro.com
 link_newsletter: www.miterro.com
-mailing_address_city: City of Industry
-mailing_address_street: 18058 Rowland St.
-ein: 83-2207962
+ein: 85-0507711
 organization_name: Mi Terro
-mailing_address_state: California
 mailing_address_zip: '91748'
 organization_website: 'https://www.miterro.com'
-organization_twitter: '@mi_terro'
-organization_facebook: 'https://www.facebook.com/miterro.fashion'
-organization_instagram: '@miterro.fashion'
+organization_twitter: '@miterro'
+organization_facebook: 'https://www.facebook.com/miterro'
+organization_instagram: '@mi.terro'
 Describe the mission of your organization.: >-
-  We are a new material technology company that turns food waste into
-  sustainable fibers that can apply to apparel, bed linen, and packaging.
+  Mi Terro creates ocean degradable and home compostable flexible packaging
+  materials made from agricultural waste. We are giving agricultural waste a new
+  life by repurposing it to replace plastic and paper-based materials and giving
+  additional incomes to farmers all around the world
 project_description: >-
-  We would like to have support in marketing, branding, building partnership and
-  distribution channels, and PR. 
-Which LA2050 goal will your submission most impact?: LA is the best place to CREATE
+  This grant will help us launch a pilot with our partner and build a
+  small-scale production line, which equals 10,000 rolls of films. We will be
+  upcycling 125 tons of agricultural waste and replace hundreds of tons of
+  plastic films.
+category: create
+connect_metrics: ''
+create_metrics: 'Federal research grant funding, Patents, Venture capital investment'
+learn_metrics: ''
+live_metrics: ''
+play_metrics: ''
 In which areas of Los Angeles will you be directly working?:
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-In what stage of innovation is this project, program, or initiative?: >-
-  Applying a proven model or solution to a new issue or sector (e.g, using a job
-  recruiting software or strategy to match clients to supportive housing sites,
-  applying demonstrated strategies from advocating for college affordability to
-  advocating for housing affordability and homelessness, etc.)
+  - East LA
+  - San Gabriel Valley
+  - County of Los Angeles (select only if your project has a countywide benefit)
+  - City of Los Angeles (select only if your project has a citywide benefit)
+'In what stage of innovation is this project, program, or initiative?': >-
+  Pilot or new project, program, or initiative (testing or implementing a new
+  idea)
 What is the problem that you are seeking to address?: >-
-  Food waste creates 3.3 billion tons of greenhouse gases. 128 million tons of
-  milk are thrown away every year globally. The world doesn't need another food
-  delivery service, it needs a solution to solve food waste. 
-
-  Currently, there are two types of fibers in the world: petroleum-based (ex.
-  polyester) and plant-based (ex. cotton, bamboo, modal, etc.). We are creating
-  a third type of fiber, which is made from food waste. 
-Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
-  Fashion is the second most polluting industry in the world. In order to save
-  the fashion industry issue, we have to target the root problems, which are the
-  big fashion/apparel brands. We are the perfect team to deliver the result.
-  Robert is a three-time entrepreneur. He sold his first company for $300,000
-  while he studied at the University of Southern California. He is a Forbes
-  Under 30 Scholar and Global Shaker's Sustainable Fashion Innovator 2019. He is
-  also an Entrepreneur Hall of Fame at the University of Southern California
-  Marshall School of Business. We have a team of Ph.D. material scientists and
-  chemists. 
-What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
-  There are two trajectories for Mi Terro. First, we will develop a variety of
-  fibers from different types of protein-based food waste, not just milk waste.
-  Second, we will continue to experiment with milk polymer; we already know that
-  milk can be made into packaging film, bed sheets, medical appliances, and
-  tissue.
-Approximately how many people will be directly impacted by this project, program, or initiative?: '4000'
-Approximately how many people will be indirectly impacted by this project, program, or initiative?: '100000000'
+  The increasing amount of synthetic plastic waste is a huge problem that could
+  potentially be solved with bioplastics. Despite increasing efforts to recycle,
+  approximately 53% of waste in the US is still sent to landfill and plastic
+  waste makes up about 19% of that. People are becoming more aware of the damage
+  that plastic waste can cause to the environment, it is still extremely
+  prevalent in daily lives, from packaging to clothing. The plastic used for
+  food and beverage packaging makes up 2/3 of the world’s plastic waste.
+  Flexible packaging is a growing segment of the world’s packaging market. The
+  world produces 78 million tons of flexible packaging film every year. Even
+  though the volume of flexible packaging is smaller by weight and space, most
+  flexible packaging cannot be practically recycled. Flexible packaging isn’t
+  made of pure plastic polymers but rather made by blending several materials.
+  These blended materials make flexible packaging complicated for separation and
+  recycling. 
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  Unlike current alternatives to microplastics, which are based on plant
+  polysaccharides, such as cellulose and algae, Mi Terro’s plant protein
+  materials do not rely on chemical cross-linking for their performance. This
+  enables them to decompose quickly and completely in the natural environment.
+  Our proprietary technology re-engineers agricultural waste into
+  plastic-alternative packaging material. Our packaging film is 3-4 times
+  cheaper than other bio-based materials (PLA, PHA, PBAT), is at a similar price
+  as LDPE film, home compostable, ocean degradable, heat sealable, excellent
+  water and oxygen barrier, low thickness, and potentially edible. Our
+  technology can potentially apply to any type of agricultural byproducts and
+  surplus food, including plant, dairy, and vitamin supplement byproducts. Our
+  process uses less energy than paper and plastic production while creating 90%
+  less CO2 than plastic. Our material accommodates a diverse range of fully
+  compostable packaging applications for fresh produce, dry food, fashion, and
+  standard product packaging.
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  We measure success by the amount of agricultural waste we upcycle and plastic
+  film we replace. In addition, we measure our success by the number of
+  employees we hire. 2022: we will start manufacturing at a small scale, which
+  equals 10,000+ rolls of films.   2023: we will start manufacturing at a
+  semi-commercial scale, which equals 200,000+ rolls of films.    2024: we start
+  manufacturing at a commercial scale, which equals 1,000,000+ rolls of
+  films.   
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '4'
 Describe how Los Angeles County will be different if your work is successful.: >-
-  We can reduce LA's food waste problem, the fashion pollution problem, and the
-  plastic problem. We would like to collaborate with supermarkets to recycle and
-  reuse their milk waste into fibers for apparel factories. 
-
-  We would replace plastic packaging with milk waste packaging.
-
-  Our process uses 60% less water than cotton. 
-Which of LA2050’s resources will be of the most value to you?:
-  - Access to the LA2050 community
-  - Host public events or gatherings
-  - Communications support
-  - Strategy assistance and implementation
+  Selective agricultural waste and food waste at commercial buildings, schools,
+  grocery stores, and home can be upcycled and processed into
+  plastic-alternative materials. We will create hundreds of jobs to
+  underrepresented communities.
+Describe the role of collaborating organizations on this project.: ''
+Which of LA2050’s resources will be of the most value to you?: >-
+  Access to the LA2050 community,Communications support,Capacity-building and
+  training,Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:
-  - Global cultural and economic influence (“soft power”)
-  - High-growth startups
-  - Venture capital investment
-  - Social and emotional support
-  - Public arts and cultural events
-  - LGBTQ+ equity and inclusion
+  - Federal research grant funding
+  - ' Patents'
+  - ' Venture capital investment'
 Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
-  - LA is the best place to PLAY
-  - LA is the best place to CONNECT
+  - ' LA is the best place to PLAY'
+  - ' LA is the best place to CONNECT'
 year: 2021
-category: create
 filename: mi-terro
-order: 24
+order: 27
 
 ---

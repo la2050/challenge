@@ -1,107 +1,94 @@
 ---
-published: true
-application_id: '7658940821'
-title: Beauty of Survival Project- Empowering Survivors of Sexual Assault
+application_id: '7865459634'
+title: 'Survivor Empowerment Retreats: Connecting, Healing and Learning'
 organization_description: Nonprofit
-project_video: 'https://www.youtube.com/watch?v=I1pab8m4hKU'
-link_donate: 'https://www.voicesbeyondassault.org/copy-2-of-about'
-link_volunteer: 'https://www.voicesbeyondassault.org/volunteer'
-link_newsletter: 'https://www.voicesbeyondassault.org/subscribe'
-mailing_address_city: Los Angeles
-mailing_address_street: '634 S Gramercy Place #705'
+project_video: 'https://www.youtube.com/watch?v=Th4oruOfR-E&feature=youtu.be'
+link_donate: 'https://voicesbeyondassault.org/donate/'
+link_volunteer: 'https://voicesbeyondassault.org/volunteer/'
+link_newsletter: 'https://voicesbeyondassault.org/subscribe/'
 ein: 81-1869608
 organization_name: Voices Beyond Assault
-mailing_address_state: California
 mailing_address_zip: '90005'
 organization_website: 'https://www.voicesbeyondassault.org'
-organization_twitter: '@voicesbeyond'
-organization_facebook: Voices Beyond Assault
+organization_twitter: '@voicesbeyondassault'
+organization_facebook: www.facebook.com/voicesbeyondassault
 organization_instagram: '@voicesbeyondassault'
 Describe the mission of your organization.: >-
-  Voices Beyond Assault is an organization that is dedicated to providing aid,
-  resources and innovative therapy for survivors of sexual assault.  We aim to
-  empower and encourage survivors that healing from the inside out is essential
-  in order to thrive past sexual trauma.
+  Voices Beyond Assault believes in amplifying the voices of survivors and
+  changing the narrative of post-traumatic healing. Through our three pronged
+  approach of education, advocacy and resource delivery, we aim to provide a
+  place of empowerment to survivors, so they can become the newfound leaders in
+  our world’s fight against sexual violence. 
 project_description: >-
-  Voices Beyond Assault would like the support in providing resources and a safe
-  space for survivors of sexual assault. We want to create an environment where
-  survivors can unwind from stress, fear, anxiety, hopelessness, and any other
-  ailments that effect them due to sexual trauma. A space of peace and calm,
-  that increases their self-esteem, self confidence while they are healing. We
-  are also excited to have the support to create programs and events that assist
-  in thriving. We also request support of our one of a kind survival retreats.
-Which LA2050 goal will your submission most impact?: LA is the best place to CONNECT
+  Voices Beyond Assault believes in providing aid, resources, innovative therapy
+  methods for survivors of sexual assault.  We believe by amplifying the voices
+  of survivors and changing the process of post-traumatic healing. Through our
+  three pronged approach of education, advocacy and resource delivery, we aim to
+  provide new resources to survivors so they can be healers and become the
+  newfound leaders in our world’s fight against sexual violence. 
+category: connect
+connect_metrics: >-
+  Social and emotional support, Public arts and cultural events, LGBTQ+ equity
+  and inclusion
+create_metrics: ''
+learn_metrics: ''
+live_metrics: ''
+play_metrics: Prevalence of trauma and adverse childhood experiences
 In which areas of Los Angeles will you be directly working?:
   - Central LA
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-  - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
-  - >-
-    LAUSD (please select only if you have a district-wide partnership or
-    project)
-In what stage of innovation is this project, program, or initiative?: Pilot project or new program (testing or implementing a new idea)
-What is the problem that you are seeking to address?: "The latest reports in the City of Los Angeles from Jan 1–June 30, 2019, there were 468 reported rapes. These numbers likely don’t reflect the total incidents, rape is one of the most underreported crimes. Nationwide, only about one quarter of rapes are reported, meaning about 75% of rapes and sexual assaults are not reported to the police. Issues of sexual violence are linked to some of our most prevalent social problems including addictions, mental illness, sexual exploitation, medical problems, self-harm, suicide, parenting challenges, poverty, homelessness and domestic violence. In other words, sexual violence is a serious public health issue. Having direct access to information, support, therapy and therapeutic activities can positively change lives. Every survivor deserves the chance to resolve\_their internal trauma and restore their\_future progression. VBA plans to be\_readily available to assist with this need. Our programs will empower and encourage survivors to heal and thrive."
-Describe the project, program, or initiative that this grant will support to address the problem identified.: "This project is important to the work of our organization because by educating individuals of the community about sexual assault can surely decrease the amount of sexual violence within the City of Los Angeles. Providing the resources necessary if abuse/sexual assault happens it will encourage survivors to either report the crime and/or start a journey to heal from the trauma. By having to safe environments where we can have therapy, meditation, yoga, conversation sessions, writing experiences, etc. will create self confidence, self awareness and hope for survivors. Our Survival Retreats are survival celebration and a healing experience like no other. The healing\_process for survivors starts with a space where they feel comfortable expressing themselves. VBA is an organization that knows first hand what sexual violence and the effects of sexual trauma look like. Our Founder was brutally raped and kidnapped so the passion behind out work is notable. We are dedicated to seeing change!\n "
-What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
-  Our organization has a clear mission: to provide aid, education, resources and
-  therapeutic methods to survivors of sexual assault/abuse. We want nothing more
-  to provide survivors with the tools necessary to heal and thrive. 
-
-  Our success is obtaining sponsors, donors and the LA2050 grant so we can
-  develop the capacity to provide rapid, appropriate and effective response and
-  services to every survivor who that contacts us. 
-
-  Creating a culture of awareness, education, prevention and zero tolerance on
-  sexual assault/abuse.
-
-  Building the confidence of survivors within the city of Los Angeles.
-
-  To address this critical area of need and have the ability to expand our
-  services
-
-  To ultimately reduce the likelihood of sexual assault 
-
-  Our vision of success it to provide services that will empower an army of
-  survivors to stand strong and firm in their survival.  That each survivor that
-  comes through our organization feels compelled to empower and encourage other
-  survivors who are living in silence to come forth and heal. 
-Approximately how many people will be directly impacted by this project, program, or initiative?: '300'
-Approximately how many people will be indirectly impacted by this project, program, or initiative?: '3000'
+  - East LA
+  - Westside
+  - County of Los Angeles (select only if your project has a countywide benefit)
+  - City of Los Angeles (select only if your project has a citywide benefit)
+'In what stage of innovation is this project, program, or initiative?': >-
+  Expand existing project, program, or initiative (expanding and continuing
+  ongoing, successful work)
+What is the problem that you are seeking to address?: "23% of women and 9% of men report forced sexual activity ever in their lifetime, according to national data from 2019. In Los Angeles 63 to every 100,000 person has experience sexual violence. This trauma can result in severe physical and emotional trauma. Deploying targeted psychotherapeutic treatment that is individualized for the survivor is important to achieving optimal patient outcomes. There are several valid and evidence-based treatments available for post-traumatic stress disorder (PTSD) and interpersonal difficulties that can result from sexual abuse and assault. Voices Beyond Assault is working to end the societal issue of sexual violence and focus on survivor rehabilitation and healing. stereotypical of victimhood and powerlessness is of the past. We aim to dismantle and reconstruct the notion. VBA has employed an intersectional approach with radical inclusion. Sexual violence must be addressed because of the society-wide damage it has done and continues to do to date. \t\t\t "
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  Voices Beyond Assault believes in the power of healing, the power of
+  connecting and a network that is empowered by survival. We have based our
+  organization around innovative ways of healing such as yoga, meditation,
+  boxing, pole dancing, self-care activities, etc.  The programs are innovative
+  and unique to healing. We recognize that a conscious relationship with your
+  sexuality after sexual abuse is essential to a happy, healthy life. That’s why
+  we address this as a key component.  We assist by creating a safe environment
+  to heal, examining beliefs built around your trauma, empowering survivors to
+  live fully and successfully.  The Survivor Retreat builds a community of
+  survivors which can encourage collective healing and honor the inherent beauty
+  of our diverse survivor community. We will create a network of empowered
+  survivors who will support one another and become future leaders in the fight
+  to end sexual violence. We want to completely abolish the old stereotypes
+  perpetuated.
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': "VBA plans to define and measure the success of our of our innovative programs through metrics such as: (1) program evaluation forms, (2) survivors engagement  (3) reoccurring survivors  (4) the word of mouth, and (4) the research done on healing and progression. This information will all be collected, stored and published through our annual reports. \t"
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '250'
 Describe how Los Angeles County will be different if your work is successful.: >-
-  Addressing sexual violence will require action and input across government
-  ministries and a collaborative, coordinated approach ensuring that the
-  political, social and economic issues related to sexual violence are included
-  in government policies and practices.
-
-  A coordinated multidisciplinary approach is essential to ensure that every
-  survivor is able to access a full continuum of responsive, effective sexual
-  violence services and support systems across their life span if needed.
-  Programs and services must be continuously evaluated and ongoing sexual
-  violence research is essential to ensure that current practices are always up
-  to standard. The survivors within Los Angeles will be able to be a healthy,
-  active members within the community.
-   
-Which of LA2050’s resources will be of the most value to you?:
-  - Access to the LA2050 community
-  - Host public events or gatherings
-  - Communications support
-  - 'Office space for meetings, events, or for staff'
-  - 'Capacity, including staff'
-  - Strategy assistance and implementation
+  Sexual assault results in neurobiological impacts on survivors of sexual
+  violence that creates PTSD, anxiety, violence, drug use and possibly suicide. 
+  All of the effect will determine a person effectivity within their community.
+  Incorporating healing modalities that address the impact of sexual trauma on
+  one’s body, mind and spirit allows survivors to fully address the fullest
+  depth and scope of their wounds, while regaining a deep sense of wholeness
+  that enhances their way of life. Our core belief is that "healing looks good
+  on you," which truly bring about progression and success in life.  Our Los
+  Angeles Community can be safer, happier and more progressive knowing that
+  survivors of sexual assault are healing and paving a way for other survivors
+  to heal within our community.
+Describe the role of collaborating organizations on this project.: ''
+Which of LA2050’s resources will be of the most value to you?: >-
+  Access to the LA2050 community,Hosting virtual events or
+  gatherings,Communications support,Capacity-building and training,Volunteer
+  recruitment
 Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:
   - Social and emotional support
-  - Public arts and cultural events
+  - ' Public arts and cultural events'
+  - ' LGBTQ+ equity and inclusion'
+  - Prevalence of trauma and adverse childhood experiences
 Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to LEARN
-  - LA is the best place to CREATE
-  - LA is the healthiest place to LIVE
+  - ' LA is the best place to PLAY'
 year: 2021
-category: connect
 filename: voices-beyond-assault
-order: 65
+order: 66
 
 ---

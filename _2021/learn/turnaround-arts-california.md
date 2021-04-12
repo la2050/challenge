@@ -1,17 +1,13 @@
 ---
-published: true
-application_id: '8349407454'
-title: 'Turnaround Arts: CA Los Angeles School Partnerships'
+application_id: '7701968296'
+title: Creating Equity and Access Through the Arts for Students along the LA River
 organization_description: Nonprofit
-project_video: 'https://vimeo.com/312808905'
-link_donate: 'https://turnaroundartsca.org/support/'
+project_video: ''
+link_donate: 'https://turnaroundartsca.org/donate/'
 link_volunteer: ''
-link_newsletter: 'https://turnaroundartsca.org/ (at bottom of page)'
-mailing_address_city: Los Angeles
-mailing_address_street: 12541 Beatrice Street
+link_newsletter: 'https://mailchi.mp/8f937eef2503/turnaround-arts-california-email-list'
 ein: 47-2446628
 organization_name: 'Turnaround Arts: California'
-mailing_address_state: California
 mailing_address_zip: '90066'
 organization_website: 'https://www.turnaroundartsca.org'
 organization_twitter: '@TurnarndArtsCA'
@@ -19,92 +15,108 @@ organization_facebook: 'https://www.facebook.com/TurnaroundArtsCA/'
 organization_instagram: '@turnaroundartsca'
 Describe the mission of your organization.: >-
   The mission of Turnaround Arts: California (TACA) is to harness the power of
-  the arts to engage, empower and transform high-need schools and communities. 
+  the arts to engage, empower, and transform historically marginalized schools
+  and communities throughout the state.
 project_description: >-
-  We will support 9 high-need elementary and middle schools in LA County, using
-  the arts to support whole school change. We will act as a thought partner to
-  each school, offering financial, strategic planning, and implementation
-  support to principals and teachers. This includes regularly convening our
-  school and community arts partners for professional development and to
-  exchange best practices. Through the arts, we will empower schools to build
-  equity and lead for change, improve culture and climate, and increase student
-  and family engagement. 
-Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
+  As an education partner for the comprehensive revitalization plan for
+  communities along the LA River, Turnaround Arts: California will launch
+  partnerships with two schools to support them in boldly re-designing their
+  approach to teaching & learning with the arts at the center. Through
+  professional development, coaching, planning & financial support, we will
+  build the capacity of teachers & principals to leverage the arts to create
+  safe, inclusive, & engaging learning environments where all students have the
+  opportunity to thrive & succeed.
+category: learn
+connect_metrics: ''
+create_metrics: ''
+learn_metrics: >-
+  Arts education, Student proficiency in English & Language Arts, K-8 chronic
+  absenteeism
+live_metrics: ''
+play_metrics: ''
 In which areas of Los Angeles will you be directly working?:
+  - South LA
   - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-In what stage of innovation is this project, program, or initiative?: >-
-  Expand existing program (expanding and continuing ongoing successful projects
-  or programs)
+    Other:: LA River Project is focused in South and Southeast LA but our work
+    supports schools across the county of LA
+'In what stage of innovation is this project, program, or initiative?': >-
+  Expand existing project, program, or initiative (expanding and continuing
+  ongoing, successful work)
 What is the problem that you are seeking to address?: >-
-  There is a large opportunity gap in our schools, with students from affluent
-  communities significantly outperforming their less affluent peers. Studies
-  consistently show a strong connection between arts education and positive
-  outcomes, yet students who need art the most are getting it the least. 6
-  million children in this country - nearly all of who live in poverty - have no
-  access to the arts in school. We support schools by adding the arts as a key
-  strategy for building equity and as an intervention to chronic
-  underperformance. Our partner schools are considered state and federal
-  “priority” schools, in the lowest 5-10% of achievement in the state. 
-Describe the project, program, or initiative that this grant will support to address the problem identified.: >-
-  TACA’s innovative partnership model allows us to have a broader and deeper
-  impact through collaboration. By nurturing partnerships at the national,
-  state, district, and community levels, the students we reach benefit from the
-  shared expertise and best practices that are continuously being developed by
-  those who understand the unique needs of each school community best. Our
-  approach relies on eight key pillars: 1) principal leadership, 2) the
-  strategic use of arts specialists, 3) non-arts classroom teachers integrating
-  arts into core content, 4) the use of teaching artists and community
-  organizations, 5) the engagement of the district, parents, and community, 6)
-  strategic arts planning, 7) professional development, and 8) improvements to
-  the school environment. By leveraging support in these key areas, we ensure
-  the arts are well supported, resourced, and sustainable within the schools
-What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >-
-  Throughout the year we gather quantitative and qualitative data to measure
-  improvement and success in 4 key areas: 
-
-  - Development of shared vision and collaborative leadership in and through the
-  arts. We work with our schools to develop a school-wide strategic arts plan,
-  outlining goals for bringing their shared vision to life. 
-
-  - Improved teacher capacity to integrate arts into classroom instruction,
-  providing multiple, culturally responsive entry points for learning. 
-
-  - Improved school culture and climate that, through strategic use of the arts,
-  embraces an equity and growth mindset, supports risk-taking, collaboration and
-  empathy, and honors student voices. 
-
-  - Increased family and community engagement that builds advocates, volunteers,
-  and equitable partners in our students’ learning through arts-based
-  strategies.
-
-  - We also anticipate continuing to see macro level improvement at our partner
-  schools within english language arts and math proficiency rates, along with
-  suspension rates decreasing. 
-Approximately how many people will be directly impacted by this project, program, or initiative?: '299'
-Approximately how many people will be indirectly impacted by this project, program, or initiative?: '6000'
+  Communities along the LA River are disproportionately impacted by poverty and
+  racial inequity. Lower socioeconomic status translates to other disadvantages
+  including little to no access to arts and culture and under-resourced schools.
+  LA County data shows that schools with a larger share of students of color
+  offer less and lower quality arts instruction. Quantity and quality are also
+  lower in schools with larger percentages of students enrolled in free and
+  reduced price meals and schools with larger percentages of English learners.
+  This is an issue of basic equity. While there is a clear connection between
+  arts education and positive outcomes - including increased student engagement,
+  sense of connection, academic achievement, attendance and graduation rates,
+  and more - low income and students of color are routinely denied access to
+  high quality arts education. 
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  TACA is serving as the education partner of the LA River revitalization
+  project, a comprehensive plan to support nearby communities. We launched
+  partnerships with four Southeast LA schools in 2018 with a commitment to
+  expand to ten over a five year period. During the 21/22 school year we will
+  launch partnerships with two additional schools. Along with an intensive
+  onboarding process, we will provide:  Arts Integration Coaching - We partner
+  with P.S. ARTS to provide ongoing hands-on technical support at each school to
+  help with implementation of school-wide arts goals, such as helping teachers
+  design lessons that integrate arts into core subjects.  Principal Coaching -
+  One-on-one coaching helps principals build their leadership skills in and
+  through the arts.   Artistic Residencies and Community Engagement Projects -
+  TACA will match each school with partner arts organizations to provide two
+  hands-on artistic residency experiences for students during the school year,
+  underwritten by TACA. This may include theatre with the Actor’s Gang or poetry
+  with Get Lit: Words Ignite. In addition to exposing students to new artistic
+  mediums, these residencies also build the capacity of teachers to integrate
+  these art forms into curriculum. Funding also supports projects to engage
+  families and boost school culture, such as Family Art Nights.   Convenings
+  with Statewide Network - We bring our schools from across CA together
+  regularly for planning, peer exchange, and professional development. 
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  Our eval tools including surveys, arts logs, and mid-year and year-end reports
+  gather extensive qualitative and quantitative data. We track and have seen
+  significant impact in 4 key areas: 1. Teachers have increased capacity to
+  integrate the arts into classroom instruction to provide multiple, culturally
+  and linguistically responsive entry points for learning. 2. Principals,
+  teachers and other school staff share a clear vision and model collaborative
+  leadership. 3. School culture and climate is improved and embraces an equity
+  and growth mindset, supports risk-taking, collaboration, and empathy, and
+  honors student voice and agency. 4. Family and community members are engaged
+  as participants, advocates, volunteers, and equitable partners in learning. 
+  We also see improvements in English Language Arts and math proficiency, as
+  well as a decrease in suspension and chronic absenteeism rates. We are
+  currently exploring and piloting the measurement of more student-centered
+  impacts. 
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '1550'
 Describe how Los Angeles County will be different if your work is successful.: >-
-  Schools in need of improvement often have principals and teachers that aren’t
-  equipped, nor empowered, to lead for change. We directly serve 299 teachers
-  and principals in LA County by building their capacity to integrate the arts
-  into all facets of the school and across subject matter. TACA’s deep focus on
-  building equity and culturally responsive teaching practices through the arts,
-  indirectly benefits 6,000 students. We aim to create learning environments
-  responsive to the varying needs of students in high-need communities.
-  Additionally, many of the future jobs young people will have are yet to be
-  created. We are helping to mold creative, innovative thinkers who will be
-  better prepared for an ever-changing job market and economy. 
-Which of LA2050’s resources will be of the most value to you?:
-  - Access to the LA2050 community
-  - Host public events or gatherings
-  - 'Office space for meetings, events, or for staff'
+  TACA’s innovative approach leverages a collaborative model for expanded
+  impact. Through our partnerships with arts and education organizations in LA
+  County we are supporting and complementing their work while also bringing
+  together a diverse set of expertise to provide holistic solutions to the
+  complex and interwoven social issues impacting the school communities along
+  the LA River.   In communities that have historically been denied access to
+  resources and who have faced trauma, the arts are an effective tool to build
+  connections across teachers and students from different backgrounds, and
+  create an equitable and inclusive environment where students feel seen,
+  celebrated, and supported. We empower teachers to take risks and create spaces
+  that nurture innovative, critical 21st century thinkers who will be better
+  prepared for the ever-changing job market and economy. Through the arts, we
+  envision vibrant school environments where all students can thrive and
+  succeed. 
+Describe the role of collaborating organizations on this project.: ''
+Which of LA2050’s resources will be of the most value to you?: 'Hosting virtual events or gatherings,Communications support'
 Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:
   - Arts education
-Indicate any additional LA2050 goals your project will impact.: []
+  - ' Student proficiency in English & Language Arts'
+  - ' K-8 chronic absenteeism'
+Indicate any additional LA2050 goals your project will impact.:
+  - LA is the best place to CREATE
 year: 2021
-category: learn
 filename: turnaround-arts-california
 order: 75
 

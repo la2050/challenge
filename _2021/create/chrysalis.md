@@ -1,17 +1,13 @@
 ---
-published: true
-application_id: '4038677148'
-title: Pathways to Stability for Justice-involved Individuals
+application_id: '9687848138'
+title: 'Jobs for Justice: Support Chrysalis’ Reentry Initiatives'
 organization_description: Nonprofit
-project_video: 'https://www.youtube.com/watch?v=AVP5jV11H-Y&feature=youtu.be'
+project_video: ''
 link_donate: 'https://www.changelives.org/other-ways-to-donate/'
 link_volunteer: 'https://www.changelives.org/volunteer/'
 link_newsletter: 'https://www.changelives.org/newsroom/'
-mailing_address_city: Los Angeles
-mailing_address_street: 522 S. Main Street
-ein: 95-3972624
+ein: '953972624'
 organization_name: Chrysalis
-mailing_address_state: California
 mailing_address_zip: '90013'
 organization_website: 'https://www.changelives.org'
 organization_twitter: '@ChrysalisLA'
@@ -20,116 +16,83 @@ organization_instagram: '@ChrysalisLA'
 Describe the mission of your organization.: >-
   Chrysalis’ mission is to create a pathway to self-sufficiency for homeless and
   low-income individuals by providing the resources and support needed to find
-  and retain employment.
+  and retain employment
 project_description: >-
   Chrysalis is the leading organization in LA focused on helping formerly
-  incarcerated individuals attain self-sufficiency through employment.  Each
-  year, through supportive services and our social enterprise “Chrysalis
-  Enterprises” (CE), we provide job readiness training and transitional jobs for
-  over 3000 justice-involved people, offering them a second chance. LA2050 funds
-  will support innovative technology upgrades that will make Chrysalis more
-  efficient and effective in our efforts to help justice-involved clients find
-  and retain employment.
-Which LA2050 goal will your submission most impact?: LA is the best place to CREATE
+  incarcerated individuals attain self-sufficiency through work.  Each year,
+  through classes, supportive services, and our social enterprise “Chrysalis
+  Enterprises” (CE), we provide comprehensive job readiness training and
+  employment for over 1,600 participants in transitional jobs. We offer these
+  motivated individuals, 81% of whom are justice-involved, and 72% of whom have
+  past felony convictions, a second chance in life when they need it most. 
+category: create
+connect_metrics: ''
+create_metrics: Economic opportunities for formerly incarcerated
+learn_metrics: ''
+live_metrics: ''
+play_metrics: ''
 In which areas of Los Angeles will you be directly working?:
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-In what stage of innovation is this project, program, or initiative?: >-
-  Expand existing program (expanding and continuing ongoing successful projects
-  or programs)
+  - County of Los Angeles (select only if your project has a countywide benefit)
+'In what stage of innovation is this project, program, or initiative?': >-
+  Expand existing project, program, or initiative (expanding and continuing
+  ongoing, successful work)
 What is the problem that you are seeking to address?: >-
-  Chrysalis serves the most vulnerable in our community—those with the most
-  barriers to employment. People who have criminal histories and past
-  incarceration face big challenges finding and retaining jobs due to a lack of
-  education, vocational skills, and/or work history, as well as employers’
-  reluctance to hire those who have been justice-involved. Also, the criminal
-  justice system disproportionately impacts African Americans and other people
-  of color, and thus, it is important to provide them with services and
-  opportunities to thrive following incarceration. We offer job-readiness
-  services, through social programs and paid, transitional jobs, that strengthen
-  our clients’ employability and help them secure work. For clients with the
-  most barriers to employment Chrysalis offers paid, transitional jobs with our
-  in-house CE businesses to get them started on the road to permanent, outside
-  jobs. Sixty percent (60%) of our clients are justice-involved and 47% have
-  prior felony convictions.
-Describe the project, program, or initiative that this grant will support to address the problem identified.: >
-  Chrysalis helps CREATE opportunities for formerly incarcerated people to
-  reenter society, find work, and get on the path to self-sufficiency.  We are
-  leaders in the reentry community for the work that we do to create jobs,
-  connect people to employment, and assist formerly incarcerated people to
-  increase their incomes. 
-
-
-  Our clients participate in our job-readiness program, including classes, case
-  management and supplemental supports.  Those with additional barriers can work
-  in our CE transitional jobs program. Last year, we helped 910 justice-involved
-  individuals find outside employment and employed 1265 in transitional jobs, so
-  they can to rebuild their lives. 
-
-
-  Chrysalis is an inclusive, data-driven, learning organization, committed to
-  delivering highly effective programming.   As Chrysalis transitions our data
-  processes to Salesforce, enhanced applications supported by LA2050 will
-  increase our capacity to effectively create economic opportunities for the
-  formerly incarcerated. 
-What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
-  Chrysalis has a robust evaluation system. Our dashboard tracks short- and
-  long-term outcomes, and our strategic plan includes a broader vision of
-  success over time. We are now transitioning data collection and reporting to
-  Salesforce. LA2050 funding will support important technology enhancements
-  across Salesforce and related apps, resulting in transformative impacts to
-  program effectiveness and efficiency, and more jobs for our justice-involved
-  clients. 
-
-
-  The enhancements will include processes to auto-generate resumes, job-matching
-  applications, resource tracking, and communication tools. Staff will save time
-  on data and spend more time with clients, clients will see improved service
-  delivery, and managers will have real-time tools they need. We have a strong
-  data-driven culture, and through this critical investment, we will leverage
-  that culture to produce improvements in our programs now and as we scale for
-  future growth. 
-
-
-  During the grant term, Chrysalis will provide workforce development services
-  for 3120 justice-involved individuals. Of those, 1000 will find outside
-  employment and 1370 will work a transitional job. We will also develop and
-  implement a Salesforce database that will increase efficiency and
-  effectiveness in our programs, driving a 10% increase in the number of
-  justice-involved clients finding employment.
-
-
-  To support LA2050’s dream metric, we will also track the employment rate among
-  all of our formerly incarcerated clients throughout the grant term and
-  beyond. 
-Approximately how many people will be directly impacted by this project, program, or initiative?: '3120'
-Approximately how many people will be indirectly impacted by this project, program, or initiative?: '150000'
+  Over 60% of formerly incarcerated individuals are unemployed one year after
+  release. Due in part to changes in public policy, as well as inmate releases
+  since COVID-19 arrived, the number of ex-offenders in need of employment
+  support as they reenter society has risen dramatically. Regardless of the
+  efforts to plan for a seamless transition, reentering individuals face
+  enormous challenges to establishing a pro-social lifestyle, including
+  difficulty in finding and maintaining employment due to a lack of job search
+  experience, education, vocational skills, and/or work history, as well as
+  employers’ reluctance to hire those who have been involved in the justice
+  system. In addition, the post-pandemic unemployment rate in LA County in
+  February 2021 was 10.9%.  Justice-involved people, already facing challenges
+  in finding employment, will be competing in the job market with high numbers
+  of recently unemployed people without criminal backgrounds.
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': "For clients with significant barriers to employment, Chrysalis offers paid, transitional employment with our in-house businesses to get them started on the road to permanent, outside employment. Transitional jobs deliver marketable experience and occupational skills while providing a closely supervised, supportive working environment that allows clients to demonstrate and practice their hard and soft skills.   Chrysalis Enterprise Businesses include:   •\tChrysalis Works: a professional street maintenance company, providing work experience in trash and recycling pick-up, landscaping, graffiti removal, hauling, and street sweeping.   •\tChrysalis Roads: employs people with justice system involvement to do litter abatement and freeway maintenance with Caltrans.  •\tChrysalis Staffing: a temp to permanent staffing agency that allows clients to re-enter the job market through short-term, full-time, and part-time work assignments in administrative office support, property management, and janitorial services, among others  Throughout the pandemic, our CE businesses have been deemed essential. We have even been able to identify new opportunities for transitional jobs, such as providing support for Project Roomkey Program, which is placing high-risk people experiencing homeless in hotels and motels during the COVID-19 crisis.   "
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  A steady job is a key step to a person’s transition out of poverty and onto a
+  pathway to self-sufficiency. We define success as helping our formerly
+  incarcerated clients succeed by becoming ready for a job, getting a job, and
+  retaining their job for at least 6 months. A 2010 Mathematica Policy Research
+  study showed that an adult with barriers to employment who can stay employed
+  or in a program for 6 months will have improved employment and social outcomes
+  for the long term.   We measure success by collecting impact data about our
+  programs and clients, including the number of clients 1) completing our
+  program, 2) transitioning to outside, permanent jobs, 3) retaining employment
+  for 6 months, and 4) wages earned. Data is collected from a variety of sources
+  and tracked in our organization-wide database. We create a monthly dashboard,
+  which tracks information about the services each client has accessed and the
+  time it takes for clients to complete our program and find a job.  
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '1500'
 Describe how Los Angeles County will be different if your work is successful.: >-
-  Jobs help justice-involved people gain economic stability and reduce the
-  likelihood that they return to prison, promoting greater public safety to the
-  benefit of everyone. But people who have been to prison are often shut out of
-  the labor market. Justice-involved people are some of the most vulnerable
-  already. With the new economy emerging after the COVID-19 crisis, their
-  struggles to find jobs will increase.  We need to be better equipped to serve
-  them, and to elevate our program model to help them in what promises to be a
-  more challenging environment. As they become successfully employed, we can
-  help dispel the stigma against giving them a second chance and ensure that
-  they can actively participate in our community’s economic recovery. 
-Which of LA2050’s resources will be of the most value to you?:
-  - Access to the LA2050 community
-  - Host public events or gatherings
-  - Communications support
-  - 'Office space for meetings, events, or for staff'
-  - 'Capacity, including staff'
-  - Strategy assistance and implementation
+  If successful, Chrysalis will CREATE opportunities for over 1,100 formerly
+  incarcerated people to reenter society, find work and get on the path to
+  self-sufficiency during the grant year. Our approach to reentry is jobs.  We
+  are recognized leaders in the reentry community connecting people to
+  employment and assisting people to increase their incomes.    CE workers earn
+  wages and pay taxes, reducing their recidivism rates and dependence on
+  government assistance.  They receive on-the-job training from supervisors with
+  lived experience in homelessness and incarceration. And they are paired with
+  an Employment Specialist, to support their job search throughout their
+  transitional employment, helping to move them successfully into mainstream
+  employment.  Employment improves housing stability, increases self-esteem and
+  sense of dignity, and creates better physical and mental health, while also
+  setting in motion changes that have positive ripple effects on families,
+  communities, and society.  
+Describe the role of collaborating organizations on this project.: ''
+Which of LA2050’s resources will be of the most value to you?: >-
+  Access to the LA2050 community,Hosting virtual events or
+  gatherings,Communications support,Capacity-building and training,Volunteer
+  recruitment
 Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:
   - Economic opportunities for formerly incarcerated
-Indicate any additional LA2050 goals your project will impact.: []
+Indicate any additional LA2050 goals your project will impact.:
+  - LA is the healthiest place to LIVE
 year: 2021
-category: create
 filename: chrysalis
-order: 6
+order: 3
 
 ---

@@ -1,20 +1,16 @@
 ---
-published: true
-application_id: '4390601037'
-title: Heart of Los Angeles’s (HOLA) Visual Arts Department
+application_id: '1774112875'
+title: College to Career Launch Program
 organization_description: Nonprofit
-project_video: ''
-link_donate: 'https://www.heartofla.org/ways-to-give/donate'
+project_video: 'https://www.youtube.com/watch?v=m0zt-v_kjqw'
+link_donate: 'https://www.heartofla.org/ways-to-give'
 link_volunteer: 'https://www.heartofla.org/volunteer'
-link_newsletter: 'https://app.etapestry.com/onlineforms/HeartsofLosAngeles-HOLA/email-sign.html'
-mailing_address_city: Los Angeles
-mailing_address_street: 2701 Wilshire Blvd.
+link_newsletter: 'https://www.heartofla.org/contact-us'
 ein: 95-4397418
 organization_name: Heart of Los Angeles (HOLA)
-mailing_address_state: California
-mailing_address_zip: '90075'
+mailing_address_zip: '90057'
 organization_website: 'https://www.heartofla.org'
-organization_twitter: '@heartofla'
+organization_twitter: '@HeartofLA'
 organization_facebook: 'https://www.facebook.com/heartoflosangeles/'
 organization_instagram: '@heartoflosangeles'
 Describe the mission of your organization.: >-
@@ -23,106 +19,104 @@ Describe the mission of your organization.: >-
   environment, empowering them to develop their potential, pursue their
   education and strengthen their communities.
 project_description: >-
-  Each year, HOLA’s Visual Arts Department provides intensive visual arts
-  programming to 250+ youth with limited or no access to art at school. HOLA
-  offers over 100 classes in 22 different art forms (ceramics, photography,
-  painting, sculpture, illustration, printmaking and more). Students express
-  themselves artistically, gain confidence, and build transferable skills. In
-  response to the COVID-19 crisis, the department has implemented remote
-  programming with individual phone calls, weekly instructional videos and
-  take-home art kits. 
-Which LA2050 goal will your submission most impact?: LA is the best place to LEARN
+  Through College to Career Launch, Heart of Los Angeles will advance economic
+  mobility for young people of color by providing them with crucial resources
+  including mentorship, career coaching and fellowship opportunities.   Building
+  on the remarkable success of HOLA’s college access work, College to Career
+  Launch will provide a critical job attainment framework for our students to
+  take on leadership in LA County’s workforce, helping shape the economic
+  landscape as vibrant and inclusive of all Angelenos. 
+category: learn
+connect_metrics: ''
+create_metrics: ''
+learn_metrics: 'College graduates, College matriculation, Community college completion'
+live_metrics: ''
+play_metrics: ''
 In which areas of Los Angeles will you be directly working?:
-  - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
-In what stage of innovation is this project, program, or initiative?: >-
-  Expand existing program (expanding and continuing ongoing successful projects
-  or programs)
-What is the problem that you are seeking to address?: >
-  HOLA serves youth and families living in and around the Rampart District and
-  Westlake area of Los Angeles. Of the families HOLA serves, 96% live in
-  poverty, and all are impacted by the neighborhood's struggling economy and
-  culture of violence, crime, gang activity, limited school resources and
-  inequitable educational opportunities that put youth at risk, threaten their
-  academic success and their ability to overcome poverty. Nearly 90% of the
-  area’s youth are enrolled in LAUSD schools which are often underperforming and
-  understaffed, and many of HOLA’s local feeder schools have seen a significant
-  decline in access to quality arts education programs. The recent COVID-19
-  crisis and subsequent closure of local schools has further exacerbated these
-  problems: job loss among HOLA parents is widespread, and for youth already
-  dealing with the crushing pressures of poverty, these events have a dramatic
-  impact on learning, emotional wellbeing and physical health.
-Describe the project, program, or initiative that this grant will support to address the problem identified.: >
-  Over 30 years, HOLA has strived to give kids all they need to achieve their
-  full potential through free, high-quality programs in a safe and nurturing
-  environment. HOLA’s Visual Arts Department provides 250+ students with access
-  to 100 annual art classes (ceramics, photography, painting, sculpture and
-  more), workshops, public art projects and cultural field trips. Students have
-  access to academic support services (tutoring, college prep courses,
-  mentorship), college scholarships and alumni support services.
-   
-  In the COVID-19 crisis, HOLA is leveraging longstanding quality relationships
-  with students and parents to ensure an adaption and continuation of services
-  to meet emerging and emergency needs. Weekly, the Visual Arts team conducts
-  check-in calls with each student and provides recorded how-to videos designed
-  to minimize screen time and using at-hand supplies. The department will use
-  social media to share students’ art and positive stories during this socially
-  isolating period.
-What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?: >
-  HOLA’s Visual Arts Department utilizes both quantitative and qualitative
-  methods that include year-end surveys, evaluations, staff, peer and self
-  reflections and feedback, and more. HOLA’s Visual Arts Department anticipates
-  the following results:  
-
-  Each year, HOLA’s Visual Arts Department will provide 250 youth with access to
-  free quality arts education programs. 
-
-  HOLA will provide youth with 100+ visual arts classes, public art projects,
-  field trips, access to professional artists, access to academic and wraparound
-  support services, and more.
-
-  By the end of each year, 85% of surveyed art-focused students will agree that
-  they have improved as artists.
-
-  By the end of each year, 85% of surveyed art-focused students will agree that
-  they can work together with others to make things better and strengthen their
-  community.
-
-
-  During this time that students are staying home, HOLA will measure the success
-  of its existing online-based arts programming through the number of video
-  views and weekly individual phone calls with youth and families. HOLA will
-  consider the programming a success if students are able to successfully
-  complete the art projects taught in the videos, continue to develop an
-  appreciation for art and are eager to engage in HOLA’s Visual Arts programming
-  upon their return to our campus. 
-Approximately how many people will be directly impacted by this project, program, or initiative?: '250'
-Approximately how many people will be indirectly impacted by this project, program, or initiative?: '500'
+  - County of Los Angeles (select only if your project has a countywide benefit)
+  - City of Los Angeles (select only if your project has a citywide benefit)
+'In what stage of innovation is this project, program, or initiative?': >-
+  Expand existing project, program, or initiative (expanding and continuing
+  ongoing, successful work)
+What is the problem that you are seeking to address?: >-
+  HOLA seeks to address educational and career inequity by providing access to
+  those in our community with the least educational resources. Through this
+  project, HOLA serves college-enrolled alumni who came through its rigorous
+  after-school programs, beginning as early as 1st grade. More than 96% of
+  HOLA’s families live below the poverty line (defined by free/reduced lunch),
+  now reaching 100% due to COVID-19 and subsequent job loss; all are impacted by
+  educational inequity.  HOLA serves a majority Latino community in LA’s Rampart
+  District with one of the lowest rates of educational attainment in the nation
+  (48% holding a high school diploma, 14% a Bachelor's degree). The majority of
+  HOLA’s youth are first-generation college students. HOLA has seen significant
+  outcomes in its college access work, yet many graduates struggle to land
+  career jobs or advance to leadership due to real barriers including lack of
+  social capital, experiences of imposter syndrome and family financial
+  hardship. 
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  HOLA is poised to grow our work to improve outcomes for college graduates in
+  attaining career-aligned jobs, a boost needed now more than ever due to the
+  impact of COVID-19 on the economic landscape for college graduates entering
+  the workforce. Following Safer at Home protocols, HOLA’s comprehensive
+  programming is delivered through digital platforms with plans for in-person
+  opportunities as soon as it is safe to do so. HOLA’s College to Career Launch
+  builds on our successful college access model and includes the following: 
+  Career Readiness Fellowship:  3-day intensive bootcamp providing an immediate
+  professional opportunity for recent graduates to include a stipend, resume
+  building, goal setting, job search strategies and one-on-one mentorship. 
+  Career Readiness Workshop Series:  3-part series for college-enrolled HOLA
+  alumni to include professional speakers, career development and leadership
+  workshops, networking and wellness services.  Mentor Matching with Industry
+  Professionals:  HOLA will recruit established professionals from our vast
+  network in a wide array of industries to provide field-specific guidance to
+  recent HOLA graduates seeking entry level roles.  HOLA will invest in the
+  hiring of its first-ever Career Coach who will work one-on-one with HOLA
+  students graduating from and post-graduate alumni to support their workforce
+  journeys, with an emphasis on nurturing social capital and pathways aligned
+  with professional interests and educational background. 
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  Founded in 1989, HOLA serves more than 2,100 youth each year through
+  transformational programs (academics, music and youth orchestra, visual arts,
+  athletics, leadership and STEAM, wellness services); 90% of HOLA's elementary
+  school students perform at or above grade level and more than 95% of our high
+  school seniors graduate and go on to college. All programs are completely free
+  and offered to youth who wouldn't otherwise have access to quality
+  after-school activities, college access programs and college scholarships.
+  Since 2009, HOLA has seen 642 seniors complete its senior programming, 99% of
+  whom graduated from high school and 98% matriculated to college. Through its
+  formal Scholarship Program, HOLA has awarded more than $4.7 million to HOLA
+  youth since 2009, helping to further eliminate barriers to their education. In
+  recent years, HOLA has seen its 5- and 6-year bachelor completion rate
+  steadily increase, this year reaching a record 87%. 
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '177'
 Describe how Los Angeles County will be different if your work is successful.: >-
-  HOLA’s Visual Arts programming immerses underserved youth in cultural and arts
-  education experiences they otherwise may not experience. Believing that art
-  can be a powerful agent of social change and that education can provide
-  empowerment, liberation and pride, HOLA’s Visual Arts staff works to instill a
-  creative process in each student that will last a lifetime--skills that can
-  provide strength during times of crisis such as now. HOLA staff focuses on
-  exposing students to diverse, inclusive modes of artistic expression and
-  prioritizes opportunities such as art rooted in indigenous culture. A recent
-  evaluation showed that 96% of surveyed students felt they had improved as an
-  artist after one year of program participation. 
-Which of LA2050’s resources will be of the most value to you?:
-  - Access to the LA2050 community
-  - Communications support
+  College to Career Launch will result in more college graduates finding
+  in-roads to career-aligned jobs, bringing well-educated, yet
+  under-represented, professionals into LA County’s workforce. Through this
+  grant, HOLA will achieve: - 75% of college students will show increased
+  understanding of career field options and steps to career attainment. - 100%
+  of participants will develop a focused job search strategy. - 100% of recent
+  college graduates seeking mentorship will be matched with a profession-aligned
+  mentor.  HOLA’s long term vision is to grow the scope and impact of College to
+  Career Launch by creating a replicable model that can be implemented by HOLA’s
+  vast college access network, including Southern California College Access
+  Network, an alliance of 100+ organizations working together to support the
+  college and career aspirations of 150,000 students in the region. Through this
+  innovative intensive track, thousands of young people can access careers
+  previously inaccessible.  
+Describe the role of collaborating organizations on this project.: ''
+Which of LA2050’s resources will be of the most value to you?: >-
+  Access to the LA2050 community,Communications support,Capacity-building and
+  training,Strategy assistance and implementation,Volunteer recruitment
 Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:
-  - Arts education
-  - Enrollment in afterschool programs
-  - High school graduation rates
+  - College graduates
+  - ' College matriculation'
+  - ' Community college completion'
 Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
 year: 2021
-category: learn
 filename: heart-of-los-angeles-hola
-order: 38
+order: 37
 
 ---
