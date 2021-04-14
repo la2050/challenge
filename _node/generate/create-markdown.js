@@ -318,7 +318,7 @@ function mapAllColumnNames(data) {
     "13. Approximately how many people will be directly and indirectly impacted by this project, program, or initiative? | a. Direct impact (#):"
     :"Approximately how many people will be directly impacted by this project, program, or initiative?",
 
-    "13. Approximately how many people will be directly and indirectly impacted by this project, program, or initiative? | a. Indirect impact (#):"
+    "13. Approximately how many people will be directly and indirectly impacted by this project, program, or initiative? | b. Indirect impact (#):"
     :"Approximately how many people will be indirectly impacted by this project, program, or initiative?",
 
     "9. Describe how Los Angeles County will be different if your work is successful."
@@ -652,5 +652,5 @@ function generateCollections(file_path) {
 //   }
 // }
 
-generateCollections('../../_data/2021/04-09/proposals.csv');
+generateCollections('../../_data/2021/04-13/proposals.csv');
 
