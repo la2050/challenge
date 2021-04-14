@@ -8,7 +8,7 @@ link_donate: >-
 link_volunteer: 'https://civicas.net/contact-us'
 link_newsletter: 'https://civicas.net/news-blog'
 ein: 47-3612459
-organization_name: Civicas (dba of Unycyn Civic Arts)
+organization_name: Civicas
 mailing_address_zip: '90272'
 organization_website: 'https://www.civicas.net'
 organization_twitter: ''
