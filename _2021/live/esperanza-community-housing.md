@@ -2,7 +2,7 @@
 application_id: '1480868088'
 title: Esperanza’s Promotores de Salud (Community Health Promoters)
 organization_description: Nonprofit
-project_video: 'https://www.youtube.com/watch?v=uBROt-j_hVw'
+project_video: 'https://www.youtube.com/watch?app=desktop&v=uBROt-j_hVw#action=share'
 link_donate: 'https://www.esperanzacommunityhousing.org/donate-support-us/'
 link_volunteer: 'https://www.esperanzacommunityhousing.org/get-involved/volunteer-positions/'
 link_newsletter: 'https://www.esperanzacommunityhousing.org/contact-info-2/'
@@ -17,7 +17,7 @@ Describe the mission of your organization.: >-
   Esperanza Community Housing Corporation is a social justice non-profit in
   South Central LA that achieves long-term, comprehensive community development
   through affordable housing, health equity and access to care, environmental
-  justice, local economic opportunities, arts and culture and advocacy. 
+  justice, local economic opportunities, arts and culture and advocacy.
 project_description: >-
   Esperanza’s Promotores de Salud (Community Health Promotors) provide
   life-saving culturally accessible in-home health education, primary prevention
@@ -45,12 +45,12 @@ What is the problem that you are seeking to address?: >-
   higher than the rest of the county, and we have had higher rates of job and
   business losses than wealthier communities. We have seen that many residents
   have had to choose between foregoing work and face homelessness or continuing
-  to work and putting their lives and loved ones at risk.   This project will
+  to work and putting their lives and loved ones at risk. This project will
   support Esperanza’s Promotores De Salud. It is an effort to improve community
   health and reduce the collateral effects of the Covid-19 pandemic due to the
   global economic downturn, high rates of infection, social isolation, increased
   slum housing conditions, and movement restriction measures that are unequally
-  affecting people in underserved communities like South Los Angeles. 
+  affecting people in underserved communities like South Los Angeles.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   South Central Los Angeles has been hard hit by systemic racism and economic
   inequality, and the Covid-19 pandemic has put that in sharp relief. Our goal
@@ -64,14 +64,14 @@ What is the problem that you are seeking to address?: >-
   problem to know what is needed to create meaningful systemic change. Our
   Promotora training supports career wage employment in the health field and
   last year we connected more than 40 Promotoras to COVID-related outreach,
-  education, and contact tracing jobs.  The outreach program will serve 350
-  families in the project period.  Over the next year we will: 1) increase
-  access to health care services, conduct vaccine awareness and referrals, and
-  reduce the number of patients returning to the ER for acute asthma care  2)
-  improve community health through primary prevention measures 3) Increase
-  access to other vital services, including mental health and tenant rights
-  clinics  We measure the project’s success by analyzing in-home health surveys,
-  follow-up assessments, and periodic community health surveys.
+  education, and contact tracing jobs. The outreach program will serve 350
+  families in the project period. Over the next year we will: 1) increase access
+  to health care services, conduct vaccine awareness and referrals, and reduce
+  the number of patients returning to the ER for acute asthma care 2) improve
+  community health through primary prevention measures 3) Increase access to
+  other vital services, including mental health and tenant rights clinics We
+  measure the project’s success by analyzing in-home health surveys, follow-up
+  assessments, and periodic community health surveys.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   In 1996 we pioneered the Promotores de Salud model, a strategy for reducing
   health disparities and increasing access to health services for low-income
@@ -79,20 +79,21 @@ What is the problem that you are seeking to address?: >-
   leaders. Promotores conduct free life-saving home health assessments that
   provide education and resources to low-income households, and connect families
   to important services. Through our program’s education and environmental
-  assessments, ER visits by clients for asthma decreased by 77% last year.  This
+  assessments, ER visits by clients for asthma decreased by 77% last year. This
   significant reduction in ER visits results in health improvements for patients
   and invaluable cost savings for community hospitals and clinics who are
-  already overloaded with COVID-19 patients.  Promotores provide culturally
+  already overloaded with COVID-19 patients. Promotores provide culturally
   accessible health education, primary prevention, and advocacy to families and
   children. Esperanza has advanced city-wide and national policies on housing,
   habitability, code enforcement, workforce development, and asthma home
-  visitation. 
+  visitation.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '350'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1200'
 Describe how Los Angeles County will be different if your work is successful.: >-
   This project will support the healing and just recovery of South Central’s
   most vulnerable communities. The Promotora Model is a successful strategy in
   targeting disparities and increasing access to health services for community
-  residents and building community trust through home visits and mentoring. 
+  residents and building community trust through home visits and mentoring.
   Through this work, we will ensure more holistic, quality care for South LA
   residents as well as expand our evidence base for our Promotora home health
   model; and we will increasing respect, job opportunities, and pay for

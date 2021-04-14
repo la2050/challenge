@@ -19,13 +19,13 @@ Describe the mission of your organization.: >-
   Los Angeles County can grow healthy food in their neighborhood.
 project_description: >-
   Solano Canyon Community Garden is a 5 acre open space located in Elysian Park
-  in Central Los Angeles near Dodger Stadium.  We are a community garden and
-  farm open to everyone.  We have individual beds which are leased on a yearly
-  basis with a membership of approximately 20 people and a communal farm with a
+  in Central Los Angeles near Dodger Stadium. We are a community garden and farm
+  open to everyone. We have individual beds which are leased on a yearly basis
+  with a membership of approximately 20 people and a communal farm with a
   volunteer base which has currently reached approximately 120 people. The
   garden is currently seeking funded upgrades to expand the capacity of
   volunteers to serve the community via weekly empowerment workshops, food
-  pantries and much more. 
+  pantries and much more.
 category: live
 connect_metrics: ''
 create_metrics: ''
@@ -42,7 +42,7 @@ What is the problem that you are seeking to address?: >-
   food insecurity; housing affordability; water pollution; air quality;
   healthcare access; renewable energy use; property rate; water-use efficiency;
   local water; resilient communities; mental illness; access to mental health
-  services; tree canopy cover; older adult well-being; and homelessness.   — 
+  services; tree canopy cover; older adult well-being; and homelessness. —
   Through supported community outreach, the problems listed above are impacted
   by 1) Hosting two work-days a week which serve as community building and
   informal education on farming techniques, 2) Hosting City Plants Tree Adoption
@@ -51,26 +51,26 @@ What is the problem that you are seeking to address?: >-
   volunteers and the public, 5) Donating food from the farm to local food
   pantries, and 6) Hosting weekly food for donation sales.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
-  Safety, Action, and Maintenance:  Clip on/Drill on Monitored Solar lights $500
+  Safety, Action, and Maintenance: Clip on/Drill on Monitored Solar lights $500
   Retaining walls- to be built and repaired, ≈300 linear feet. The fence
   surrounding the orchard (CALTrans land) needs to be reinforced. Labor for
-  retaining walls 200-600 hours at $25.00 per hour, $5,000 - 15,000    Signs
-  made and installed in the garden, stating rules, hours, listing resources such
-  as mental health and public safety contacts. $150 - 200 Increase composting
+  retaining walls 200-600 hours at $25.00 per hour, $5,000 - 15,000 Signs made
+  and installed in the garden, stating rules, hours, listing resources such as
+  mental health and public safety contacts. $150 - 200 Increase composting
   capacity- increasing capacity to process 10,000+lbs food waste per year.
-  Upgrading and expanding composting capacity.  $4,000 Design and build
+  Upgrading and expanding composting capacity. $4,000 Design and build
   greenhouse ≈200 sq.ft. $5,000 - 9,000 Funding for education programs- 125
   teaching hours and materials for bi weekly workshops. Education Program Labor
   125 hours @ 25 $3,125 labor + $1,200 materials. Tree maintenance, 100 hours. @
-  $50.00 per hour. $5,000. Tree limbs removed from large eucalyptuses. 
-  Equipment and tools- 6” Wood Chipper ($3,500), 90cc Chainsaw ($1,800), 25cc
-  Climbing Chainsaw ($1,800), 36” Alaskan Mill ($400), 2000 watt Generator
-  ($1,500), Hand Tools (1/2” Drill, 5” Grinder, 36” Felco pruners,10” Chopsaw, 2
-  1/2lbs Forestry Axe, Handsaws (Japanese pruning+crosscutting)) ($800), 2nd
-  Knaak Job Box ($1500) Funds to pay 1 to 2 part time staff, $25,000 year Drip
-  irrigation for farm- repairing and utilizing existing infrastructure.
-  Repairing and setting up drip irrigation $8,000 Hire Professional web designer
-  for building Solano Community Garden’s Website $5,000- 10,000 
+  $50.00 per hour. $5,000. Tree limbs removed from large eucalyptuses. Equipment
+  and tools- 6” Wood Chipper ($3,500), 90cc Chainsaw ($1,800), 25cc Climbing
+  Chainsaw ($1,800), 36” Alaskan Mill ($400), 2000 watt Generator ($1,500), Hand
+  Tools (1/2” Drill, 5” Grinder, 36” Felco pruners,10” Chopsaw, 2 1/2lbs
+  Forestry Axe, Handsaws (Japanese pruning+crosscutting)) ($800), 2nd Knaak Job
+  Box ($1500) Funds to pay 1 to 2 part time staff, $25,000 year Drip irrigation
+  for farm- repairing and utilizing existing infrastructure. Repairing and
+  setting up drip irrigation $8,000 Hire Professional web designer for building
+  Solano Community Garden’s Website $5,000- 10,000
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Our current outlook on data analysis is throughout our websites, social media,
   virtually, and socially distant in-person in generating a flowing capacity of
@@ -82,8 +82,9 @@ What is the problem that you are seeking to address?: >-
   communities, mental illness, access to mental health services, tree canopy
   cover, older adult well-being, and homelessness. We are honored to generate
   and identify information and expand capacity since the Solano Canyon Community
-  Garden has shown great promise in Community Outreach. 
+  Garden has shown great promise in Community Outreach.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '10000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1000000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   1. Producing 10,000lbs of food from the communal farm per year. To be given
   away or exchanged for donation in 2022. 2. Education programs offering free

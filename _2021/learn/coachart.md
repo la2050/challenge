@@ -15,8 +15,8 @@ organization_facebook: 'https://www.facebook.com/coachart'
 organization_instagram: '@coachartorg'
 Describe the mission of your organization.: >-
   CoachArt's mission is to create a transformative arts and athletics community
-  for families impacted by childhood chronic illness.  Our vision is that one
-  day every family impacted by childhood chronic illness will be connected to a
+  for families impacted by childhood chronic illness. Our vision is that one day
+  every family impacted by childhood chronic illness will be connected to a
   community of support and opportunity to learn and grow together.
 project_description: >-
   CoachArt's mission is to create a transformative arts and athletics community
@@ -59,7 +59,7 @@ What is the problem that you are seeking to address?: >-
   providing ongoing, adaptive lessons in arts and athletics at no cost to
   families. Lessons accommodate special needs, inspire lifelong passions, build
   self-confidence, and encourage children to remove the label of “sick kid” and
-  redefine themselves as an artist or athlete.  CoachArt’s current initiative is
+  redefine themselves as an artist or athlete. CoachArt’s current initiative is
   to further develop the online programs launched during the start of the
   COVID-19 pandemic. 96% of parents reported that lessons were engaging for
   their child and requested to continue online learning even after Los Angeles
@@ -91,6 +91,7 @@ What is the problem that you are seeking to address?: >-
   stress and depression, build peer relations, and enhance their sense of
   agency.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '650'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Joining LA2050 in shaping the future, CoachArt makes LA a more inclusive place
   to learn. LA residents who volunteer with CoachArt teach children valuable
@@ -98,7 +99,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   ukulele, culinary arts, robotics and coding, creative writing, dance, martial
   arts, and yoga. Mentorship empowers kids to recognize their full potential and
   thrive despite adversity and isolation, while creating a supportive community
-  for parents.  Our goal is to further develop high-quality, online service
+  for parents. Our goal is to further develop high-quality, online service
   models in order to provide equitable access to immunocompromised children and
   ultimately improve their social and emotional wellbeing. CoachArt ignites the
   creativity, passion, and confidence of children with chronic illness who are

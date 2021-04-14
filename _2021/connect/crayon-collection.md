@@ -18,7 +18,7 @@ Describe the mission of your organization.: >-
   consciousness and the infusion of art education in underfunded schools.
 project_description: >-
   Crayon Collection has donated over 20 million crayons into vulnerable schools
-  along with  access to free Art Education lesson plans.Created by professional
+  along with access to free Art Education lesson plans.Created by professional
   artists and using crayons as the main tool, these lesson plans teach
   vulnerable students STEM, literacy and social emotional learning connections
   through engaging art projects. With your support, Crayon Collection will add
@@ -45,7 +45,7 @@ What is the problem that you are seeking to address?: >-
   (est. 560,000) of which are eligible for the Free and Reduced Lunch Program
   and are classified as coming from ‘low-income’ families. Currently, only 40%
   of these students have access to art programs while well-served schools report
-  60% of students having access.  “A growing body of evidence suggests that at
+  60% of students having access. “A growing body of evidence suggests that at
   virtually every stage of life, the arts can foster openness to novelty,
   encourage connections to people, places, things, and concepts, and promote the
   ability to take multiple perspectives, among other positive outcomes (National
@@ -79,9 +79,10 @@ What is the problem that you are seeking to address?: >-
   plan views and social-emotional learning of the students served. To track
   changes in SEL, Crayon Collection utilizes teacher surveys to determine how
   our programs changed students' confidence, participation and interactions with
-  others in the classroom.  Crayons Recycled: 20,000,000 + Students Served:
+  others in the classroom. Crayons Recycled: 20,000,000 + Students Served:
   30,000 + per year Volunteers: 550 Lesson Plan Clicks: 6,000 per year
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '5000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '6000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Through our work, we are providing materials to help make Los Angeles a place
   where residents are encouraged and empowered to engage with others. Currently,
@@ -96,7 +97,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   individuals across Los Angeles. We want to build a future where residents
   support their neighbors, have the tools to seek out and process new
   perspectives and take an active role in building a better, more connected Los
-  Angeles. 
+  Angeles.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Capacity-building and training,Volunteer

@@ -77,7 +77,7 @@ What is the problem that you are seeking to address?: >-
   Cancer changes everything for families and can have a significant impact on
   children and teens. These high rates of post-traumatic stress among siblings
   included emotional reactions such as fear, worry, sadness, helplessness,
-  anger, guilt, and social and academic difficulties.   Our surveys include
+  anger, guilt, and social and academic difficulties. Our surveys include
   questions about academic performance, emotional and behavioral development,
   and the mentee's future goals as a result of their Mentor relationship and the
   WWS program. Results demonstrated that since being in our program, 83% of
@@ -86,12 +86,13 @@ What is the problem that you are seeking to address?: >-
   to control their temper or outbursts, 78% were interested in volunteering, 44%
   were interested in leadership roles, 78% felt better able to cope, 89% felt
   less stressed or anxious, and 100% were more often in a better mode and better
-  able to handle change.  
+  able to handle change.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '600'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '2400'
 Describe how Los Angeles County will be different if your work is successful.: >-
   As our youth struggle with isolation due to immunocompromised family members,
   challenges, and hardships related to the pandemic, youth mentoring is more
-  critical today than at any other time in recent history.  Safe, stable, and
+  critical today than at any other time in recent history. Safe, stable, and
   nurturing relationships and environments can be protective for kids who are
   experiencing adversity. Sometimes it only takes is one person to make a
   difference in that child's entire future. Our families need consistent love,
@@ -99,7 +100,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   mentors, two people benefit, there is a radical transformation and our
   community becomes infinitely stronger. A mentor can be a critical healer of
   adverse childhood experiences that have proved to be responsible for so much
-  pain in a child's cancer journey.  Our vision is to positively lift and impact
+  pain in a child's cancer journey. Our vision is to positively lift and impact
   all those in need throughout Los Angeles County, and ensure no child walks
   alone in the face of a loved one's cancer.
 Describe the role of collaborating organizations on this project.: ''

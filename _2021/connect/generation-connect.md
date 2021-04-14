@@ -66,7 +66,7 @@ What is the problem that you are seeking to address?: >-
   we’ve found that technology training is important. We practice how to use
   different platforms, like Zoom and test accessories, like headphones. We
   require everyone to attend at least one onboarding session and give the option
-  for additional 1 on 1 help if needed.  Week 1 is a group session used to
+  for additional 1 on 1 help if needed. Week 1 is a group session used to
   introduce all participants to each other. Week 2 we pick a topic like tech
   support and teens lead the discussion in 1 on 1 breakouts to assist seniors.
   Week 3 we do a group activity like online trivia. Week 4 and 5 the teens and
@@ -95,6 +95,7 @@ What is the problem that you are seeking to address?: >-
   crucial time in our history and for you and your organization to provide this
   opportunity, we are more than grateful.”
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '20000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '200000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Our mission is to improve the quality of life for our users through
   participation in our programming. We use our platform to safely connect two

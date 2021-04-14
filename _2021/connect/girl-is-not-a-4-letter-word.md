@@ -18,7 +18,7 @@ Describe the mission of your organization.: >-
   skateboarding, where female skaters are still an "afterthought" and are rarely
   seen in skateboard magazines, videos, and contests. We work to create female
   inclusive contests in LA, we also strive to create and achieve visual exposure
-  so other girls know that "they can do it too"! 
+  so other girls know that "they can do it too"!
 project_description: >-
   Girl is NOT a 4 Letter Word is the go-to destination for any girl or womxn in
   skateboarding that wants to be heard, or just needs help or advice dealing
@@ -26,7 +26,7 @@ project_description: >-
   products for girls who wish to skate but may not be able to afford to do so.
   We have an online website that promotes female and non-binary skaters & events
   daily, and we also work behind the scenes to encourage (and PUSH) large
-  male-dominated skate companies to step up and support female riders. 
+  male-dominated skate companies to step up and support female riders.
 category: connect
 connect_metrics: 'Social and emotional support, Volunteerism, LGBTQ+ equity and inclusion'
 create_metrics: ''
@@ -44,7 +44,7 @@ What is the problem that you are seeking to address?: >-
   meet-ups, and getting more female and non-binary people together on
   skateboards as well as those who may not be able to afford the gear and
   creating an environment that feels safe when learning or skating at the
-  skatepark.  If this is not possible during the COVID timeline - we feel that
+  skatepark. If this is not possible during the COVID timeline - we feel that
   virtual meetups via zoom have been a good way to have meet-ups and even
   discuss techniques and encourage skaters. Girls usually drop out of
   skateboarding in their late teens as they can not pursue a career as a skater
@@ -52,7 +52,7 @@ What is the problem that you are seeking to address?: >-
   girls are out there skating, the more skate companies - and others will start
   changing that financial landscape. If you want to skate for fun, we love it -
   if you want to pursue it at the pro or Olympic level we feel that the support
-  should be there for the women too. 
+  should be there for the women too.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   If COVID does not allow in-person strategies, we plan on continuing visual
   support through multiple social media channels, interviews on the website,
@@ -60,20 +60,21 @@ What is the problem that you are seeking to address?: >-
   schools that can not afford them. IF ALLOWED we'd also add in - Monthly
   meet-ups and skill-building / learn to skate groups, events and contests. Also
   identifying and donating gear to communities where female and non-binary
-  skaters live and play. 
+  skaters live and play.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   We have been the co-chair, along with our fiscal sponsor, of the Venice Ladies
   Skate Jam for 4 years and each year more and more girls and womxn come out,
   take over Venice Skatepark, make new friends, and skate - our goal continues
-  to be to have it grow every single year.  While we are dealing with COVID we
+  to be to have it grow every single year. While we are dealing with COVID we
   have shifted our focus to more social media representation and website
   coverage. A hardback book we self-published continues to show these young
   womxn that there are many other female skaters out there - they are not alone.
   Visual representation is key. We'd like to continue our interviews with these
   skaters on our website as we know from past web traffic - those interviews are
   a big source of inspiration. We also do collaborations and create products
-  that give back financially to womxn in skate. 
+  that give back financially to womxn in skate.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '900'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '5400'
 Describe how Los Angeles County will be different if your work is successful.: >-
   We will have more gender equality at community skateparks through Los Angeles
   County. Girls and womxn will feel safer and more confident going out to skate

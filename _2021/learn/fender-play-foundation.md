@@ -85,6 +85,7 @@ What is the problem that you are seeking to address?: >-
   parent, teacher and student surveys throughout the semester, we can gauge the
   impact our program has on learning, engagement, confidence and mental health.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '6000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '12000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Our vision is to inspire and unite students and families in Los Angeles County
   through music. To scale and reach more students, we need partners who

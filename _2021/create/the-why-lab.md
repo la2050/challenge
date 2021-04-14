@@ -49,11 +49,11 @@ What is the problem that you are seeking to address?: >-
   Our society is at a tipping point of broken systems and services that have led
   us to inequity, injustice, and unsustainable futures. In order to address the
   urgent need to redesign these, we need new types of skills, new modes of
-  thinking, and new ways of working together as a community.   According to the
+  thinking, and new ways of working together as a community. According to the
   World Economic forum, 50% of all employees will need reskilling by 2025:
   including creative problem solving, critical thinking, and empathy, among many
-  others.  But we don’t have many spaces to learn and practice all this. In
-  order to work towards meaningful change, we need new educational formats that
+  others. But we don’t have many spaces to learn and practice all this. In order
+  to work towards meaningful change, we need new educational formats that
   address the redesign of systems around us, in a way that centers the lived
   experiences and needs of our communities. We need facilitated experiences that
   bring together citizens of all backgrounds, skills, and abilities in a safe
@@ -62,21 +62,21 @@ What is the problem that you are seeking to address?: >-
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   This is an educational program that is delivered in the form of a three-day
   pop up social innovation lab, bringing together LA residents and professionals
-  to solve complex challenges within our city.   These innovation labs will
-  teach the methods of service design thinking and systems redesign while
-  exploring real-time challenges. Participants will learn and practice important
-  skills required for the future of work, such as creative problem solving,
-  critical thinking, and empathy.  Each pop up social innovation lab will result
-  in fully-formed prototypes for new services as well as improvements for
-  existing services and systems. These can then continue on to be tested within
-  organizations, setting measurable goals for each idea.  The outcomes are part
+  to solve complex challenges within our city. These innovation labs will teach
+  the methods of service design thinking and systems redesign while exploring
+  real-time challenges. Participants will learn and practice important skills
+  required for the future of work, such as creative problem solving, critical
+  thinking, and empathy. Each pop up social innovation lab will result in
+  fully-formed prototypes for new services as well as improvements for existing
+  services and systems. These can then continue on to be tested within
+  organizations, setting measurable goals for each idea. The outcomes are part
   entrepreneurship development, part systems redesign, part workforce
-  development.   The curriculum is designed for accessibility and equity. A
+  development. The curriculum is designed for accessibility and equity. A
   special emphasis will be placed on inviting under-represented populations of
-  BIPOC, immigrants, LGBTQ+, and people with neurodiversity and disabilities.  
+  BIPOC, immigrants, LGBTQ+, and people with neurodiversity and disabilities.
   Each event will bring together local and global experts in the facilitation of
   complex problem solving, sharing expertise and examples from other cities
-  around the world which are utilizing these methods.  The program supports
+  around the world which are utilizing these methods. The program supports
   hosting three cycles of this lab in the next 12 months, focusing on three
   different industries or challenge areas, to be selected in partnership with LA
   2050 and the City of LA.
@@ -85,24 +85,25 @@ What is the problem that you are seeking to address?: >-
   event called the Los Angeles Service Jam, produced by the same team. In the
   Los Angeles Service Jam, community members come together to reimagine new
   services in a variety of topics, ending with dozens of service prototypes
-  created and tested at each event.   Our current impact is measured by the
-  number of participants and number of new services that are created during the
-  event. We’ve had 10 years of this event, with an average of 60 participants
-  per year, and an average of 12 projects produced each year.  This curriculum
-  has been tested in various cities around the world, measuring for educational
-  outcomes, mindset changes, new skill adoptions.   We will measure with
-  qualitative interviews of understanding baseline mindsets toward innovation,
-  before and after the event. We will also set individual industry-wide goals
-  for each of the three events. 
+  created and tested at each event. Our current impact is measured by the number
+  of participants and number of new services that are created during the event.
+  We’ve had 10 years of this event, with an average of 60 participants per year,
+  and an average of 12 projects produced each year. This curriculum has been
+  tested in various cities around the world, measuring for educational outcomes,
+  mindset changes, new skill adoptions. We will measure with qualitative
+  interviews of understanding baseline mindsets toward innovation, before and
+  after the event. We will also set individual industry-wide goals for each of
+  the three events.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '390'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '3900'
 Describe how Los Angeles County will be different if your work is successful.: >-
   As famed work activist Grace Lee Boggs once said, “HOW we change the world and
-  how we THINK about changing the world has to change.”  This program will
-  create a regenerative impact for the city, by up-skilling our workforce to
-  approach their work through lenses of equity, creative problem-solving, and
-  future-facing innovations.   We will see an immediate impact with the creation
+  how we THINK about changing the world has to change.” This program will create
+  a regenerative impact for the city, by up-skilling our workforce to approach
+  their work through lenses of equity, creative problem-solving, and
+  future-facing innovations. We will see an immediate impact with the creation
   of new ideas during these pop up events. And we will see ripple effects as
-  these new ways of thinking are then taken into participants’ workplaces.  LA
+  these new ways of thinking are then taken into participants’ workplaces. LA
   has an opportunity to be a cultural and economic influencer by prioritizing
   the development of the skills of the future and actively creating
   conversations around redesigning for systems and services.

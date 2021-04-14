@@ -65,14 +65,14 @@ What is the problem that you are seeking to address?: >-
   restrict us from gathering in person for some or all of the sessions, we will
   increase our allocation of funds to marketing and outreach and will carry out
   the programs through an online platform, as we have all of our activities over
-  the past year.  This initiative is multi-faceted and will address the
-  following priorities: -Increase access to free and accessible public arts
-  experiences in Los Angeles communities; -Provide community space to
-  individually and collectively process our personal stories and our place in
-  our communities through music; -Connect community members to free
-  socio-emotional resources; -Engage middle and high school students in
-  community-based volunteer activities; -Support the vitality of the arts
-  industry by providing job opportunities for community-based artists.
+  the past year. This initiative is multi-faceted and will address the following
+  priorities: -Increase access to free and accessible public arts experiences in
+  Los Angeles communities; -Provide community space to individually and
+  collectively process our personal stories and our place in our communities
+  through music; -Connect community members to free socio-emotional resources;
+  -Engage middle and high school students in community-based volunteer
+  activities; -Support the vitality of the arts industry by providing job
+  opportunities for community-based artists.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   While this particular initiative is new and has not yet been evaluated, our
   organization has a 20-year history of earnestly evaluating our program
@@ -88,6 +88,7 @@ What is the problem that you are seeking to address?: >-
   music created during music labs and the enthusiasm with which community
   members participate.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '2600'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '15000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   In the short-term, our goal is to increase access to public arts experiences
   in historically marginalized communities that often have less access to the
@@ -96,7 +97,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   especially as communities and individuals begin to heal from the effects of
   the pandemic. In the long term, our goal is that these music labs will serve
   as a launching point for communities to feel empowerment in community dialogue
-  and mobilization. 
+  and mobilization.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: 'Access to the LA2050 community,Capacity-building and training'
 Please list the organizations collaborating on this proposal.: ''

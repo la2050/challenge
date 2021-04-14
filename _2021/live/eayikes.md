@@ -47,7 +47,7 @@ What is the problem that you are seeking to address?: >-
   received stay-at-home orders. Our unhoused neighbors stayed at home, outside,
   directly facing multitudes of insecurities. While we started fighting for
   toilet paper, they continued struggling for survival. Homelessness endured
-  with greater visibility.  As the impact of homelessness magnified, Eayikes, a
+  with greater visibility. As the impact of homelessness magnified, Eayikes, a
   collective manifesting social connection beyond physical touch, and Polo’s
   Pantry, a respectfully prominent mobile food pantry, joined hands. Together,
   we sought to address, replenish, and reallocate the displacement of resources—
@@ -75,6 +75,7 @@ What is the problem that you are seeking to address?: >-
   partner organizations in order to improve operations and the impact of each
   meal.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '800'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1300'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Since Safer At Home Emergency Order began in March 2020, we've served 47,376
   meals by engaging 877 volunteers in a time when the homelessness crisis was

@@ -2,7 +2,7 @@
 application_id: '8906778860'
 title: Give Your Gift Los Angeles
 organization_description: Nonprofit
-project_video: 'https://vimeo.com/531947712'
+project_video: '17. https://vimeo.com/531947712/25e57033e0'
 link_donate: 'https://pages.donately.com/sbcc-ead9/donate'
 link_volunteer: 'mailto:info@sbaycenter.com'
 link_newsletter: 'https://linktr.ee/StrengthBasedCommunityChange'
@@ -78,7 +78,7 @@ What is the problem that you are seeking to address?: >-
   Leveraging the platform, SBCC’s goal will be greater accessibility to the vast
   personal capacity within SBCC's community. The map will be both desktop and
   mobile friendly with provisions for SBCC community members to personalize
-  relevant mapped elements and information. 
+  relevant mapped elements and information.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   SBCC will utilize both qualitative and quantitative data to measure the
   success of this campaign, which launched in 2020. “Give your gift” allowed
@@ -95,7 +95,22 @@ What is the problem that you are seeking to address?: >-
   strategy. We believe that there is value in expanding this project into a
   countywide initiative.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '10000'
-Describe how Los Angeles County will be different if your work is successful.: "9.\tMost public information about communities is deficit based. SBCC flips that script, allowing residents, CBOs, and public systems to share the strengths and assets of communities that can be leveraged to create lasting change. SBCC is laying the groundwork for a new kind of “gift economy,” which reinforces the importance of each individual contribution. GYG is about organizing and scaling a community’s capacity to help itself. Asset Based Community Development (ABCD) is the philosophical cornerstone of building a resilient, connected, thriving community. SBCC’s GYG is boldly solving what John McKnight, founder of the ABCD model, called the social services and professional problem. By building strengths and supporting residents rather than trying to solve deficit-based problems, communities will drive lasting change. After the grant, this initiative will continue to drive a conversation around a shared asset based economy completely owned and driven by the residents themselves."
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '100000'
+Describe how Los Angeles County will be different if your work is successful.: >-
+  9. Most public information about communities is deficit based. SBCC flips that
+  script, allowing residents, CBOs, and public systems to share the strengths
+  and assets of communities that can be leveraged to create lasting change. SBCC
+  is laying the groundwork for a new kind of “gift economy,” which reinforces
+  the importance of each individual contribution. GYG is about organizing and
+  scaling a community’s capacity to help itself. Asset Based Community
+  Development (ABCD) is the philosophical cornerstone of building a resilient,
+  connected, thriving community. SBCC’s GYG is boldly solving what John
+  McKnight, founder of the ABCD model, called the social services and
+  professional problem. By building strengths and supporting residents rather
+  than trying to solve deficit-based problems, communities will drive lasting
+  change. After the grant, this initiative will continue to drive a conversation
+  around a shared asset based economy completely owned and driven by the
+  residents themselves.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: Access to the LA2050 community
 Please list the organizations collaborating on this proposal.: ''

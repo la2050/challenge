@@ -27,7 +27,7 @@ project_description: >-
   media, thousands of minors are in federal custody in massively overcrowded
   conditions. We secure the release of minors and provide family reunification
   services, social and legal services, case management, and educational testing
-  & placement.  Our sister organization, the Center for Human Rights &
+  & placement. Our sister organization, the Center for Human Rights &
   Constitutional Law Foundation, represents all detained minors and can gain
   their release to Casa Libre.
 category: connect
@@ -54,7 +54,7 @@ What is the problem that you are seeking to address?: >-
   the release of minors, to help them reunite with their families, and to
   address their need for continuing education, help to legalize their
   immigration status, and case management and social services to address their
-  most immediate emotional and daily needs. 
+  most immediate emotional and daily needs.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Our sister organization, CHRCL Foundation, is the only organization in the
   country with the right tot access facilities where minors are detained through
@@ -85,8 +85,9 @@ What is the problem that you are seeking to address?: >-
   school, the number reunited with families or transitioned into safe and more
   permanent housing, the number who stay drug and alcohol free, the number who
   successfully legalize their status. We measure these metrics both while minors
-  are residents as well as after they graduate from the program. 
+  are residents as well as after they graduate from the program.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '27'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '200'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Through our work LA County is a place where unaccompanied minors can land in a
   safe place while arrangements are made for family reunification or transfer to

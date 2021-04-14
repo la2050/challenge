@@ -89,6 +89,7 @@ What is the problem that you are seeking to address?: >-
   Grow stronger as individuals, as a community, and as a collection of
   anti-racist partners
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '1000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '10000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   If our work is successful, LA beach culture will completely transform.
   Marginalized communities will have genuine access to the ocean. Surfing will

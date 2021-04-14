@@ -22,7 +22,7 @@ project_description: >-
   low-cost music lessons on a wide variety of instruments led by caring mentors
   and over 107 years of community enrichment. Together we will remove financial
   barriers, place violins in hands, pianos in homes and create vibrant
-  communities filled with music, self-expression, and connection. 
+  communities filled with music, self-expression, and connection.
 category: learn
 connect_metrics: ''
 create_metrics: ''
@@ -46,14 +46,14 @@ What is the problem that you are seeking to address?: >-
   so that every student can explore their unique journey and gain transferrable
   skills through one-to-one music lessons on a variety of instruments led by
   caring, qualified, mentor teaching artists. The arts are a right and not a
-  privilege. 
+  privilege.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Although tuition is designed to be affordable, many of our families are unable
   to pay $68 per month and almost half of our students currently receive
   financial assistance ranging from a 25-90% reduction in tuition. In
   partnership with LA2050, we will award more scholarships than ever before so
   that more students can experience the transformative benefits of music
-  education.   Students will meet their teaching artist either in person or via
+  education. Students will meet their teaching artist either in person or via
   Zoom for a weekly 30-minute lesson on an instrument of their choice. Students
   can learn piano, violin, cello, voice, guitar, drums, sax, trumpet, ukulele
   and more. We also understand the importance of students having their own
@@ -67,7 +67,7 @@ What is the problem that you are seeking to address?: >-
   students the opportunity to share their newfound skills and connect to the
   larger community. Teaching artists serve as mentors and work individually with
   each student and craft a personalized plan to meet artistic, musical and
-  performance benchmarks.  
+  performance benchmarks.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   This is an existing program and our model has created deep impact for over a
   century. We measure our impact by the technical and performance skills each
@@ -81,8 +81,9 @@ What is the problem that you are seeking to address?: >-
   February 2020, NMS students performed at Idyllwild Arts Sustainability
   Symposium with Idyllwild students and Lakota Strings. We also measure our
   impact by the quality and quantity of community engagement and sustained and
-  increased enrollment. 
+  increased enrollment.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '400'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '5000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   When students have access to high quality instruction led by mentors, the
   whole community of LA benefits. Students take pride and care in their

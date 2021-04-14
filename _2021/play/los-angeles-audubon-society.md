@@ -25,7 +25,7 @@ project_description: >-
   all of Los Angeles Audubon’s outdoor and online programs that connect diverse
   communities to nature walks, community-based science programs, habitat
   restoration, and nature sketching at schools, neighborhoods, parks and beaches
-  throughout LA County. 
+  throughout LA County.
 category: play
 connect_metrics: ''
 create_metrics: ''
@@ -89,6 +89,7 @@ What is the problem that you are seeking to address?: >-
   disparity. The Baldwin Hills parklands, in particular, offer an oasis of
   much-needed green space for the community.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '500'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '5000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   We envision Los Angeles as a place where all people feel welcome and safe when
   connecting to nature outdoors; where diverse communities have easy access to
@@ -99,7 +100,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
 Describe the role of collaborating organizations on this project.: >-
   LA Audubon is collaborating with three organizations leading small groups in
   nature activities, and/or including these sites on the “Ballona Nature Is in
-  Play” publication.  1) Exceptional Children's Foundation where children and
+  Play” publication. 1) Exceptional Children's Foundation where children and
   adults with developmental disabilities meet each week at Kenneth Hahn Park for
   nature-based activities; 2) Hike to Yoga where LA Audubon leads a pre-Yoga
   ecology hike up the hill to the top of Kenneth Hahn; and 3) the Westwood

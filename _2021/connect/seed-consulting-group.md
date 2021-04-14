@@ -96,6 +96,7 @@ What is the problem that you are seeking to address?: >-
   program. These include: - 95% of volunteers report an increase in their
   technical and professional abilities
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '550'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1500'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Prior success from our Pro-Bono Consulting Program is two-pronged: we help
   create a Los Angeles where non-profits are able to do more and positively

@@ -4,7 +4,7 @@ title: >-
   Global Arts Professional Development Series: Using Teacher Development to
   Increase Student Success
 organization_description: Nonprofit
-project_video: 'https://vimeo.com/507210400'
+project_video: 'https://vimeo.com/507210400/bc73c87533'
 link_donate: 'https://www.globalartsco.org/donate/'
 link_volunteer: 'https://www.globalartsco.org/get-involved/'
 link_newsletter: 'https://www.globalartsco.org/news-2/'
@@ -51,7 +51,7 @@ What is the problem that you are seeking to address?: >-
   around teaching and learning. As a staff of educators ourselves, we understand
   firsthand the impact a teacher can have on their students. It is our objective
   to create an environment that recognizes and encourages teachers’ continual
-  learning.  Global Arts Professional Development Program workshops focus on
+  learning. Global Arts Professional Development Program workshops focus on
   educational psychology, musical excellence, and social justice, and are led by
   world-class presenters from varying backgrounds. Our workshops provide
   engaging and edifying material, as well as tangible tools that attendees can
@@ -70,6 +70,7 @@ What is the problem that you are seeking to address?: >-
   or organization affiliation, and how many attendees we can project to see the
   following year.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '500'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '100000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Global Arts envisions an accessible, long-term professional development
   program that improves the academic lives of the teachers and students of

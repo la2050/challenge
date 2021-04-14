@@ -52,7 +52,7 @@ What is the problem that you are seeking to address?: >-
   resulted in wonderful job placements for Corpsmembers, but some would benefit
   from a dedicated connection to Corps support and services. Others are looking
   for a way to give back and build up the next generation of Corpsmembers coming
-  up. 
+  up.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   The Corps is a two phase program. Phase 1 is general work experience, case
   management, personal and professional development for all participants. It's a
@@ -72,7 +72,7 @@ What is the problem that you are seeking to address?: >-
   challenges the alumni is facing in being successful. From there the program
   can grow to provide peer-to-peer support between former Corpsmembers, ongoing
   professional development opportunities, and a network of camaraderie and
-  encouragement.   
+  encouragement.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   We would begin by setting a goal for the percentage of newly graduated
   Corpsmembers who maintain contact with the Corps and take advantage of the
@@ -89,6 +89,7 @@ What is the problem that you are seeking to address?: >-
   participants will help in the design of program offerings and refine
   successful efforts.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '50'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '500'
 Describe how Los Angeles County will be different if your work is successful.: >-
   First and foremost, we intend that this continued early support will increase
   employment persistence rates for newly graduated Corpsmember 3 months, 6

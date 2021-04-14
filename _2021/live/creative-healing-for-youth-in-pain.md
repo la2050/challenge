@@ -18,7 +18,7 @@ Describe the mission of your organization.: >-
   youth who suffer from chronic pain, anxiety, depression, sleep problems,
   over/under eating, and more by providing exposure to creative healing
   experiences, social support, and educational resources to youth and to their
-  parents. 
+  parents.
 project_description: >-
   To meet the demands exacerbated by COVID-19, Creative Healing for Youth in
   Pain (CHYP) is looking to expand its current online social groups for teens.
@@ -61,7 +61,7 @@ What is the problem that you are seeking to address?: >-
   the child remains in pain. Pain causes isolation from peers, along with stress
   and sleep issues, and COVID-19 has only increased these problems. Anxiety,
   depression, and suicide rates in teens have escalated. Studies show that 70%
-  of teens with significant pain will continue having that pain into adulthood. 
+  of teens with significant pain will continue having that pain into adulthood.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Creative Healing for Youth in Pain’s (CHYP) program utilizes evidence-based,
   creative healing techniques -- dancing, art expression, songwriting,
@@ -69,20 +69,20 @@ What is the problem that you are seeking to address?: >-
   alleviate chronic pain and improve daily functioning. Using the brain in
   creative ways has been shown to alter the brain’s pain signals in a more
   lasting way than most medications. Providing online programs helps teens
-  re-engage socially, while finding passion in creative arts.  CHYP created an
+  re-engage socially, while finding passion in creative arts. CHYP created an
   online platform in order to reach as many teens with chronic pain as possible
   -- teens whose families can’t access practitioners or afford treatments. CHYP
   features a unique online community -- called “CHYPchat” -- where teens with
   chronic pain meet through Zoom for an eight-week program. The first four
   sessions are structured as a psychoeducational group, guided by a lead
-  facilitator and a peer mentor.   The program covers important topics such as
-  the mind/body connection, mental health, and stress management -- with an
-  approach specifically built for teens -- while instilling new ways to think
-  about their own strengths, self-care, self-expression, and strategies for
-  finding hope.   The following four sessions focus on social connectedness,
-  teen discussions of their issues, and support for each other’s path to
-  wellness. This provides an open forum for teens to interact and enjoy time
-  with others virtually, from the comfort of their own homes.
+  facilitator and a peer mentor. The program covers important topics such as the
+  mind/body connection, mental health, and stress management -- with an approach
+  specifically built for teens -- while instilling new ways to think about their
+  own strengths, self-care, self-expression, and strategies for finding hope.
+  The following four sessions focus on social connectedness, teen discussions of
+  their issues, and support for each other’s path to wellness. This provides an
+  open forum for teens to interact and enjoy time with others virtually, from
+  the comfort of their own homes.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   CHYPchat has been offered in a variety of forms: weekly socialization groups,
   Creative Healing Workshops, and Summer Camp. Participant feedback through
@@ -91,14 +91,15 @@ What is the problem that you are seeking to address?: >-
   like to continue participating in CHYP programs, and the weekly attendance
   illustrates the group members’ enthusiasm. When asked to describe in one word
   how CHYP teens feel about CHYPchats, most identified, “community, friendship,
-  inclusive, inspirational, and helpful.”  With this CHYPchat expansion,
-  focusing on a specific cohort that completes a program cycle together, the
-  definition and measurements for success will be adjusted. The program will be
-  considered successful if at least 60% of participants complete their
-  designated cycle. Furthermore, the program will be deemed effective if at
-  least 50% of participants report improved feelings of connectedness during a
-  pre- and post-survey.
+  inclusive, inspirational, and helpful.” With this CHYPchat expansion, focusing
+  on a specific cohort that completes a program cycle together, the definition
+  and measurements for success will be adjusted. The program will be considered
+  successful if at least 60% of participants complete their designated cycle.
+  Furthermore, the program will be deemed effective if at least 50% of
+  participants report improved feelings of connectedness during a pre- and
+  post-survey.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '48'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '480'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Chronic pain in teens affects quality of life: school, friendships, physical
   activities, family life, sleep, mood, anxiety, eating behaviors, substance

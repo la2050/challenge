@@ -2,13 +2,13 @@
 application_id: '4376887765'
 title: Agency of Assets – Incubating LA’s Future Arts Leaders
 organization_description: Nonprofit
-project_video: 'https://vimeo.com/531393710'
+project_video: 'https://vimeo.com/531393710/d9e019253c'
 link_donate: 'https://www.theicala.org/en/donate'
 link_volunteer: ''
 link_newsletter: >-
   https://us12.list-manage.com/subscribe?u=284715b20e7bc05541dacf217&id=0fee3e9d47
 ein: 95-3992968
-organization_name: "Santa Monica Museum of Art DBA\_Institute of Contemporary Art Los Angeles"
+organization_name: Santa Monica Museum of Art DBA Institute of Contemporary Art Los Angeles
 mailing_address_zip: '90021'
 organization_website: 'https://www.theicala.org'
 organization_twitter: '@theicala'
@@ -60,14 +60,14 @@ What is the problem that you are seeking to address?: >-
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Agency of Assets addresses the lack of diversity in the arts by shifting the
   opportunity disparity for local youth today and incubating a diverse and
-  inspired arts workforce for tomorrow.   The program empowers underserved youth
-  through:  - Personal Agency and Community Empowerment: AoA is offered at a
+  inspired arts workforce for tomorrow. The program empowers underserved youth
+  through: - Personal Agency and Community Empowerment: AoA is offered at a
   critical and formative period of young people’s development to recognize and
   grow their capacity as creative leaders, civic stakeholders, and community
-  advocates.  - Important professional skills: As their first real-world
+  advocates. - Important professional skills: As their first real-world
   experience in the creative sector, students develop essential work skills,
   including: using software/hardware, verbal and written communication,
-  interpersonal skills, teamwork, office management, and workplace attire.  -
+  interpersonal skills, teamwork, office management, and workplace attire. -
   Understanding of the arts sector: Art projects, direct encounters with arts
   leaders, and immersive professional experiences give participants an
   understanding and appreciation for the range of arts organizations that make
@@ -75,24 +75,25 @@ What is the problem that you are seeking to address?: >-
   studios, as well as the businesses that support them--and introduces them to
   the professional roles in creative development, production, conservation,
   communications, publishing, fundraising, relationship management, and
-  administration.  - Financial literacy: Students, all of whom come from LMI
+  administration. - Financial literacy: Students, all of whom come from LMI
   households, receive training to develop fiscal survival skills, such as how to
   exercise good judgment about earning, spending, investing, and saving.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   "I always think about my time with AoA and the Ball-Nogues Studio. It was
   there that I found out that architecture is where I belong." - Angel Simental
   (2019) studies architecture at Santa Monica College, and founded a chapter of
-  the National Organization of Minority Architecture Students.  Total number of
+  the National Organization of Minority Architecture Students. Total number of
   internship placements: 31 = 11 students (2017), 9 (2018), and 11 (2019). Total
-  number of host sites: 17    Following our 3-year pilot period, AoA is already
+  number of host sites: 17 Following our 3-year pilot period, AoA is already
   making an impact. 100% of AoA’s 13 high school seniors are now attending
   university (54%) or community college (36%). Of the 54% already working on art
   career paths, 18% still work at their AoA site. ICA LA will continue
   collecting qualitative and quantitative data on college attendance, employment
   status, and alumni retention. AoA will deepen its student/alumni engagement,
   expand its partnership network, build bridges to extant diversity pipelines,
-  and hire a program evaluation consultant. 
+  and hire a program evaluation consultant.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '200'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '30000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   The success of Agency of Assets will play an integral and significant role in
   creating a vibrant, equitable, accessible, and inclusive arts industry in Los
@@ -106,7 +107,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   inclusive for many generations to come. By diversifying the creative labor
   force, arts organizations will support the work of those who have been
   marginalized in the past, tell the stories of diverse communities, and commit
-  to structural change that will make these institutions truly equitable. 
+  to structural change that will make these institutions truly equitable.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or

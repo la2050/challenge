@@ -26,7 +26,7 @@ project_description: >-
   experiencing homelessness, but also to build community resource hubs in
   partnership with other service provider agencies (mental health, substance
   abuse recovery, housing) where individuals in need can receive hygiene, meals,
-  dignity, and a path out of homelessness. 
+  dignity, and a path out of homelessness.
 category: live
 connect_metrics: ''
 create_metrics: ''
@@ -46,7 +46,7 @@ What is the problem that you are seeking to address?: >-
   a roof over their heads. For many, experiencing means losing access to
   sanitation and hygiene, which leads to a lack of self-worth and lowered sense
   of dignity which in itself creates another obstacle towards ending their cycle
-  of homelessness. 
+  of homelessness.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   With the Shower of Hope, we believe in the importance and power of having
   access to a shower for not just sanitation and health purposes, but in
@@ -59,21 +59,22 @@ What is the problem that you are seeking to address?: >-
   service centers, our community hubs serve to bring the services, hygiene and
   dignity to our unhoused Angelenos. A $100,000 grant would allow us to open two
   new community resource hubs in service deprived areas of LA County allowing us
-  to serve an additional 80 Angelenos weekly. 
+  to serve an additional 80 Angelenos weekly.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   As of the first quarter of 2021, we have partnered with Occidental College’s
   Department of Critical Theory and Social Justice to examine the impact and
   well being of guests at 6-7 of our shower sites in order to fully gauge their
   behavior and the impact of our services. We measure a wide range of KPIs to
   understand and measure success in the following areas: Distance travelled to
-  attend a shower site    Self-reported satisfaction before and after a shower
+  attend a shower site Self-reported satisfaction before and after a shower
   Reported statements on next action (e.g. are you going to see a case manager
-  after the shower?)  We also measure success by daily showers provided at each
+  after the shower?) We also measure success by daily showers provided at each
   side in order to gauge how many individuals we are able to provide showers
   with on a daily and monthly basis. We want to ensure that we are setting our
   Organization up where we are truly needed and where we can meet our unhoused
-  neighbors who have been overlooked. 
+  neighbors who have been overlooked.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '4000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '66000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Since our launch back in 2017, we have expanded operations across LA county
   and the wider Southern California region to provide services to our neighbors
@@ -87,7 +88,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   but dignity that showers can entail. Through our community engagement, we
   believe that our shower sites can become a critical spoke in connecting case
   managers with individuals experiencing homelessness to build an effective
-  solution towards ending homelessness in our county. 
+  solution towards ending homelessness in our county.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or

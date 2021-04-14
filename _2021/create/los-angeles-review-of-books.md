@@ -68,14 +68,14 @@ What is the problem that you are seeking to address?: >-
   exhibitors serve, inviting those interested to not only participate in panels,
   but also to cultivate these discussions with us. This year, we plan to feature
   conversations on topics such as Politics & Publishing, Art & Poetry Across
-  Borders, Adaptations from Page to Screen, and more.  This grant will
-  facilitate participation from small presses and nonprofit publishers by
-  helping us offer exhibitors booths free of charge, rather than at the often
-  prohibitive standard rates of $350–950+ for comparable events and conferences.
-  It will also support advertising and outreach efforts to communities all over
-  Los Angeles and fund panel discussions, which will be recorded and uploaded
-  onto LARB’s YouTube channel and website to maximize content accessibility and
-  engagement, and for archival purposes. 
+  Borders, Adaptations from Page to Screen, and more. This grant will facilitate
+  participation from small presses and nonprofit publishers by helping us offer
+  exhibitors booths free of charge, rather than at the often prohibitive
+  standard rates of $350–950+ for comparable events and conferences. It will
+  also support advertising and outreach efforts to communities all over Los
+  Angeles and fund panel discussions, which will be recorded and uploaded onto
+  LARB’s YouTube channel and website to maximize content accessibility and
+  engagement, and for archival purposes.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   In our inaugural (and as-yet, because of the pandemic, only) run, our
   exhibitors garnered between 25–150+ new email sign-ups, building their
@@ -83,7 +83,7 @@ What is the problem that you are seeking to address?: >-
   Publishers, welcomed over 5,000 visitors across two days, and our goal is to
   host over 6,000 this year. Exhibitors reported that they sold more books at
   LITLIT than at other book fairs and events, and some sold out on the first
-  day.   We have learned that regular in-person check-ins with exhibitors are
+  day. We have learned that regular in-person check-ins with exhibitors are
   essential during the event to create a welcoming and casual atmosphere
   conducive to a positive experience. After the event, we also provided
   exhibitors with emailed surveys for more extensive feedback about the quality
@@ -92,6 +92,7 @@ What is the problem that you are seeking to address?: >-
   participate in future events. (All of our respondents were eager to join us
   again.)
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '40'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '6000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Cutting-edge and attuned to the needs of local communities, independent
   presses in California have done much to shape Los Angeles’s cultural identity.
@@ -105,7 +106,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   communities they serve. LITLIT exposes the public to local literary
   communities, generating dozens of new library card enrollments each day and a
   long list of new volunteers for programs such as WordsUncaged. Our goal is to
-  attract at least 6,000 members of the public in 2022. 
+  attract at least 6,000 members of the public in 2022.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or

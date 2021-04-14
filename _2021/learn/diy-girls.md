@@ -60,19 +60,19 @@ What is the problem that you are seeking to address?: >-
   organization providing a continuum of STEM curriculum exclusively to girls of
   color in the Northeast San Fernando Valley, and by introducing girls to STEM
   early, we are able to dramatically alter the trajectory of their education.
-  Our two core programs are:   Creative Electronics, an intensive 10-week
+  Our two core programs are: Creative Electronics, an intensive 10-week
   after-school program for 5th-grade girls held at partnering elementary school
   sites. This program will engage 210 girls, sparking curiosity and exploration
   with technology by providing experiences that promote the development of
   technical skills, expression of creativity and confidence in their abilities.
   Instructors meet with participants for 2-hour sessions once per week in
-  on-site classrooms.   HustleNCode, which is tailored to develop students'
+  on-site classrooms. HustleNCode, which is tailored to develop students'
   interest in coding and computer science. We will partner with Urban TXT to
   implement HustleNCode, which has proven successful due to its simple and
   straight-forward presentation and foundation. While learning to build personal
   websites, middle school girls explore themes like college and career as they
   learn how to code. This highly engaging 10-week curriculum will be provided to
-  144 girls, who will meet with instructors for 2 hours per week.   If COVID
+  144 girls, who will meet with instructors for 2 hours per week. If COVID
   protocols require, we can adjust to distance learning as we have since Spring
   2020, as detailed below.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
@@ -91,6 +91,7 @@ What is the problem that you are seeking to address?: >-
   reported thinking about different ways to solve a problem to come up with the
   best solution.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '11'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '354'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Our vision for success is best illustrated by 4 girls from our first program
   at Telfair Elementary School in 2012. Lori, April, Marisol, and Maritza all

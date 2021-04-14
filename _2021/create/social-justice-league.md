@@ -62,23 +62,37 @@ What is the problem that you are seeking to address?: >-
   have a passion for subjects such as photography, graphic design, producing,
   etc. We will co-create targeted art skills and career programs aligning
   interests and connecting youth across our non-profit partners through classes,
-  activities, virtual career showcases, and live art shows.  Bringing in our
+  activities, virtual career showcases, and live art shows. Bringing in our
   social impact network, our content will be critically curated and engaging.
-  Great care will be taken in our research, selection, and preparation stage. 
+  Great care will be taken in our research, selection, and preparation stage.
   Once finalized, spanning over 3 months, the kids will attend virtual group
   classes once a week. Between classes there will be additional activities. Each
   course will include a final art project, where SJL will host both in-person LA
-  art showcases and amplify young talent via virtual platforms and social
-  media.  At the end of the program, if completed, the youth will have one of
-  two options: be paid for their time or continue forward in the program,
-  keeping the tools we’ve provided for them and seeking employment, internships,
-  or formal education within the industry. If they choose to continue, we will
+  art showcases and amplify young talent via virtual platforms and social media.
+  At the end of the program, if completed, the youth will have one of two
+  options: be paid for their time or continue forward in the program, keeping
+  the tools we’ve provided for them and seeking employment, internships, or
+  formal education within the industry. If they choose to continue, we will
   support them through access to our network, their mentors, and industry
   professionals. All attendees will be given a chance to publicize their work
   and use our website to sell, showcase, or market to a global network of buyers
   and supporters.
-'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': "Having already achieved this program’s success on an individual level, SJL is prepared to implement this on a grander scale. With a network consisting of the world’s leading music company, industry professionals, youth organizations, corporate sponsors, and high-profile artists, musicians, and entertainers, the foundation has already been built.  \tBy utilizing beginning and end of program surveys among the kids, youth organizations, and industry mentors, we will constantly be on the pulse of how the program is doing, adjusting as needed. Success will be achieved by: number of signups; number of graduates who choose to continue; number of 17/18 year old’s who obtain internships or jobs, start their own business, or sell their work; engagement of additional corporate sponsors; engagement from industry experts involved in the program;  and press and media reach. As we see all these numbers grow, surveys returned positively, and students thriving, success will be achieved. "
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  Having already achieved this program’s success on an individual level, SJL is
+  prepared to implement this on a grander scale. With a network consisting of
+  the world’s leading music company, industry professionals, youth
+  organizations, corporate sponsors, and high-profile artists, musicians, and
+  entertainers, the foundation has already been built.  By utilizing beginning
+  and end of program surveys among the kids, youth organizations, and industry
+  mentors, we will constantly be on the pulse of how the program is doing,
+  adjusting as needed. Success will be achieved by: number of signups; number of
+  graduates who choose to continue; number of 17/18 year old’s who obtain
+  internships or jobs, start their own business, or sell their work; engagement
+  of additional corporate sponsors; engagement from industry experts involved in
+  the program; and press and media reach. As we see all these numbers grow,
+  surveys returned positively, and students thriving, success will be achieved.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '100'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   In everything SJL does, we aim to create a culture of impact. Exposing youth
   to arts, music, and entertainment on a personal level has potential to turn

@@ -47,22 +47,22 @@ What is the problem that you are seeking to address?: >-
   approaches, yet many communities remain disconnected from resources. Simply
   put, existing models don’t accommodate the diversity of nonprofit communities
   and their food needs, resulting in inequitable access to high quality food
-  donations. 
+  donations.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   The Community Exchange is developing an empathetic, culturally-sensitive, and
   customizable model that treats nonprofits like high-value customers, catering
   to the diversity of their needs, constraints, and schedules. Through our
   nonprofit partners, we deliver the right food to the people who need it most.
   Food is personal, and we want all Angelenos to feel the joy that comes from a
-  great meal.   As a kitchen ourselves, we understand the complicated nature of
+  great meal. As a kitchen ourselves, we understand the complicated nature of
   receiving food donations and preparing high-quality meals that meet an
   individual’s personal needs. Our careful nonprofit intake and feedback
   process, paired with our innovative food rescue inventory system, allows us to
   redirect resources more precisely to underrepresented communities. We
   emphasize quality over quantity, centralizing great food donations and
   efficiently dispersing them around the city, so donors can give to one place
-  and nonprofits can better choose what they receive and when they get it.  
-  Most importantly, we layer on strong, active relationship building. We take a
+  and nonprofits can better choose what they receive and when they get it. Most
+  importantly, we layer on strong, active relationship building. We take a
   bottom-up approach and work with each organization to develop a deep
   understanding of their programs’ needs, preferences, populations served, and
   constraints. We have ongoing conversations, often weekly, to improve our
@@ -75,15 +75,16 @@ What is the problem that you are seeking to address?: >-
   to a temporary site in May and by December, our monthly food rescue grew by
   1,471% to 264,000 pounds. This was accomplished with very limited storage and
   refrigeration capacity, which we are increasing by moving to a better-equipped
-  facility in April 2021.  While we’re proud of our numbers, the formal and
+  facility in April 2021. While we’re proud of our numbers, the formal and
   informal feedback collected from nonprofit partners - forms, in-person
   conversations, and phone calls - signal our model is on the right track. We’ve
   learned that we’re providing a level of service and choice not available
   elsewhere, and communities are gaining access to healthy, culturally-sensitive
   food like never before. Our ability to adapt to both temporary and permanent
   changes is key to meeting the on-the-ground realities of their operations, and
-  we’re continuing to refine our program based on this essential feedback. 
+  we’re continuing to refine our program based on this essential feedback.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '100000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '2500000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   The Community Exchange has the potential to dramatically reduce food
   insecurity throughout LA, leading the way for a more efficient and equitable
@@ -93,7 +94,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   bits, or sustainably-raised striped bass, we will connect with more large food
   distributors and wholesalers to develop regular donations of healthy food and
   increase the quality, variety, and cultural-relevance of food donated to
-  nonprofits.  Long term, the model we are developing can be replicated and
+  nonprofits. Long term, the model we are developing can be replicated and
   customized for any community. We will help partner nonprofits develop programs
   in their community, ensuring that all food-insecure Angelenos have consistent,
   local access to meals, regardless of neighborhood, income level or emergency

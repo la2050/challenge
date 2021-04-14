@@ -75,7 +75,7 @@ What is the problem that you are seeking to address?: >-
   partnerships to provide local, inspirational and rigorous case study stories
   for the curriculum. 23 schools around the country have launched 3DE
   curriculum. Surveys show greater student interest in learning, including
-  improvement of graduation rates at some schools from 62% to 92%. 
+  improvement of graduation rates at some schools from 62% to 92%.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   This is a pilot effort to apply this educational model to the Los Angeles
   area, learning from the successful launches of 3DE in 23 public schools
@@ -91,6 +91,7 @@ What is the problem that you are seeking to address?: >-
   assessed. Students will be offered ongoing surveys to help assess students’
   experiences of 3DE and understand the benefits they describe.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '45'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '118'
 Describe how Los Angeles County will be different if your work is successful.: >-
   3DE educational models have significantly improved disparities in educational
   outcomes in other major urban communities. We believe 3DE will achieve similar
@@ -108,20 +109,20 @@ Describe how Los Angeles County will be different if your work is successful.: >
   inequities.
 Describe the role of collaborating organizations on this project.: >-
   Crenshaw High School – Executes the 3DE curriculum for 9th grade in regular
-  school operations.  Principal, teachers and staff responsible for adopting the
+  school operations. Principal, teachers and staff responsible for adopting the
   3DE model based on training and support of 3DE staff. Teachers and staff at
   Crenshaw remain employees of the public school system and part of LAUSD.
   Crenshaw staff are dedicated experts in the needs of the students and families
-  they have served for decades.  3DE by JA – the 3DE national partner – The 3DE
+  they have served for decades. 3DE by JA – the 3DE national partner – The 3DE
   model has been launched in 23 schools in other cities, and staff have the
   practical experience from these pilots. They understand the needs and
-  expectations of teachers, students and community families.  The embedded staff
+  expectations of teachers, students and community families. The embedded staff
   for the site are recruited from a variety of backgrounds and are trained
   extensively by 3DE national staff.
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Communications support,Capacity-building and
   training
-Please list the organizations collaborating on this proposal.: "•\t3DE by JA •\tCrenshaw High School"
+Please list the organizations collaborating on this proposal.: • 3DE by JA • Crenshaw High School
 Which metrics will you impact?:
   - High school graduation rates
 Indicate any additional LA2050 goals your project will impact.:

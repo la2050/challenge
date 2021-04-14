@@ -54,7 +54,7 @@ What is the problem that you are seeking to address?: >-
   As a Classical Theatre company noted for Shakespeare and other Classical
   productions, new American plays, and as a nationally recognized provider of
   arts education, we believe that we must look to and genuinely engage with our
-  history in order to make authentic progress.  Through this adaptation of
+  history in order to make authentic progress. Through this adaptation of
   Trouble the Water, we hope to tell the story of Robert Smalls, and through
   telling that story to engage deeply with the realities of slavery, the Civil
   War, the Reconstruction era, and the beginnings of Jim Crow, alongside the
@@ -69,20 +69,20 @@ What is the problem that you are seeking to address?: >-
   of Robert Smalls, from his dramatic seafaring escape from slavery right under
   the Confederate army’s noses, to his election and service in the House of
   Representatives, and his valiant yet ultimately thwarted attempts to stop the
-  abhorrent rise of Jim Crow laws.   Alongside a cast of ~17 multiethnic actors,
+  abhorrent rise of Jim Crow laws. Alongside a cast of ~17 multiethnic actors,
   Theatricum will collaborate with members of a local Gospel choir, Agape
   International Choir, as part of each performance, forming a total cast of
   25-30. In addition to Repertory performances, and student matinees through our
   School Days Field Trip program, the schedule will include a public Q&A with
-  creative team and actors and a “pay what you can” performance.   As we
-  consider and re-consider our relationship to American history, we must also
-  reevaluate what is included in the canon or considered “Classic.” We must
-  present more Black histories - which is to say, American history - and lift
-  these stories up alongside other iconic Americans. This production will
-  powerfully speak to the history and present of race relations in the US and
-  spark necessary conversations about racism. This production will also create
-  ~40 paying jobs and create a pathway for union membership for up and coming
-  actors and stage managers through our internship program.
+  creative team and actors and a “pay what you can” performance. As we consider
+  and re-consider our relationship to American history, we must also reevaluate
+  what is included in the canon or considered “Classic.” We must present more
+  Black histories - which is to say, American history - and lift these stories
+  up alongside other iconic Americans. This production will powerfully speak to
+  the history and present of race relations in the US and spark necessary
+  conversations about racism. This production will also create ~40 paying jobs
+  and create a pathway for union membership for up and coming actors and stage
+  managers through our internship program.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Theatricum Botanicum has been one of the premier arts providers in Southern
   California for nearly 50 years, with a sterling reputation for professional
@@ -99,6 +99,7 @@ What is the problem that you are seeking to address?: >-
   together. We intend to contribute to that honest healing with this world
   premiere production.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '4000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': ''
 Describe how Los Angeles County will be different if your work is successful.: >-
   Theatricum’s core values include building community by inviting a diverse
   populace to the table; brokering conversation and fostering understanding

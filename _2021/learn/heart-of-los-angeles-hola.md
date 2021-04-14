@@ -21,11 +21,11 @@ Describe the mission of your organization.: >-
 project_description: >-
   Through College to Career Launch, Heart of Los Angeles will advance economic
   mobility for young people of color by providing them with crucial resources
-  including mentorship, career coaching and fellowship opportunities.   Building
+  including mentorship, career coaching and fellowship opportunities. Building
   on the remarkable success of HOLA’s college access work, College to Career
   Launch will provide a critical job attainment framework for our students to
   take on leadership in LA County’s workforce, helping shape the economic
-  landscape as vibrant and inclusive of all Angelenos. 
+  landscape as vibrant and inclusive of all Angelenos.
 category: learn
 connect_metrics: ''
 create_metrics: ''
@@ -45,14 +45,14 @@ What is the problem that you are seeking to address?: >-
   after-school programs, beginning as early as 1st grade. More than 96% of
   HOLA’s families live below the poverty line (defined by free/reduced lunch),
   now reaching 100% due to COVID-19 and subsequent job loss; all are impacted by
-  educational inequity.  HOLA serves a majority Latino community in LA’s Rampart
+  educational inequity. HOLA serves a majority Latino community in LA’s Rampart
   District with one of the lowest rates of educational attainment in the nation
   (48% holding a high school diploma, 14% a Bachelor's degree). The majority of
   HOLA’s youth are first-generation college students. HOLA has seen significant
   outcomes in its college access work, yet many graduates struggle to land
   career jobs or advance to leadership due to real barriers including lack of
   social capital, experiences of imposter syndrome and family financial
-  hardship. 
+  hardship.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   HOLA is poised to grow our work to improve outcomes for college graduates in
   attaining career-aligned jobs, a boost needed now more than ever due to the
@@ -60,20 +60,20 @@ What is the problem that you are seeking to address?: >-
   the workforce. Following Safer at Home protocols, HOLA’s comprehensive
   programming is delivered through digital platforms with plans for in-person
   opportunities as soon as it is safe to do so. HOLA’s College to Career Launch
-  builds on our successful college access model and includes the following: 
-  Career Readiness Fellowship:  3-day intensive bootcamp providing an immediate
+  builds on our successful college access model and includes the following:
+  Career Readiness Fellowship: 3-day intensive bootcamp providing an immediate
   professional opportunity for recent graduates to include a stipend, resume
-  building, goal setting, job search strategies and one-on-one mentorship. 
-  Career Readiness Workshop Series:  3-part series for college-enrolled HOLA
+  building, goal setting, job search strategies and one-on-one mentorship.
+  Career Readiness Workshop Series: 3-part series for college-enrolled HOLA
   alumni to include professional speakers, career development and leadership
-  workshops, networking and wellness services.  Mentor Matching with Industry
-  Professionals:  HOLA will recruit established professionals from our vast
+  workshops, networking and wellness services. Mentor Matching with Industry
+  Professionals: HOLA will recruit established professionals from our vast
   network in a wide array of industries to provide field-specific guidance to
-  recent HOLA graduates seeking entry level roles.  HOLA will invest in the
+  recent HOLA graduates seeking entry level roles. HOLA will invest in the
   hiring of its first-ever Career Coach who will work one-on-one with HOLA
   students graduating from and post-graduate alumni to support their workforce
   journeys, with an emphasis on nurturing social capital and pathways aligned
-  with professional interests and educational background. 
+  with professional interests and educational background.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Founded in 1989, HOLA serves more than 2,100 youth each year through
   transformational programs (academics, music and youth orchestra, visual arts,
@@ -87,8 +87,9 @@ What is the problem that you are seeking to address?: >-
   formal Scholarship Program, HOLA has awarded more than $4.7 million to HOLA
   youth since 2009, helping to further eliminate barriers to their education. In
   recent years, HOLA has seen its 5- and 6-year bachelor completion rate
-  steadily increase, this year reaching a record 87%. 
+  steadily increase, this year reaching a record 87%.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '177'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '150000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   College to Career Launch will result in more college graduates finding
   in-roads to career-aligned jobs, bringing well-educated, yet
@@ -97,13 +98,13 @@ Describe how Los Angeles County will be different if your work is successful.: >
   understanding of career field options and steps to career attainment. - 100%
   of participants will develop a focused job search strategy. - 100% of recent
   college graduates seeking mentorship will be matched with a profession-aligned
-  mentor.  HOLA’s long term vision is to grow the scope and impact of College to
+  mentor. HOLA’s long term vision is to grow the scope and impact of College to
   Career Launch by creating a replicable model that can be implemented by HOLA’s
   vast college access network, including Southern California College Access
   Network, an alliance of 100+ organizations working together to support the
   college and career aspirations of 150,000 students in the region. Through this
   innovative intensive track, thousands of young people can access careers
-  previously inaccessible.  
+  previously inaccessible.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Communications support,Capacity-building and

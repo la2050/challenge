@@ -27,7 +27,7 @@ project_description: >-
   and skilled practitioners. The GR818ERS x UNITE provides artistic and athletic
   leadership development programs, produces community events and cultural arts
   festivals, and connects community members to local advocacy efforts that
-  advance equity and inclusivity. 
+  advance equity and inclusivity.
 category: create
 connect_metrics: ''
 create_metrics: >-
@@ -48,7 +48,7 @@ What is the problem that you are seeking to address?: >-
   L.A. Unified campus that has more students classified as homeless than any
   other,” while another highlighted that local residents “breathe some of
   California’s worst air and suffer from asthma-related hospitalizations at
-  rates far higher than most of the state.”  Structural poverty and racial
+  rates far higher than most of the state.” Structural poverty and racial
   inequity plague San Fernando Valley communities. The lack of public investment
   coupled with the overcriminalization brought on by social inequity, has
   created a culture of nihilism in youth that increases at-risk behaviors, as
@@ -92,6 +92,7 @@ What is the problem that you are seeking to address?: >-
   crucial insight for program staff to assess impact, influence design, and fine
   tune measures of success to prioritize community needs.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '100'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '10000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   AWOKE maintains that developing a supportive social ecosystem for youth—one
   that extends to the home—contributes to reductions of at-risk behaviors and

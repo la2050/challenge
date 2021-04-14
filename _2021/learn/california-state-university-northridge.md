@@ -88,6 +88,7 @@ What is the problem that you are seeking to address?: >-
   inform continuous program improvement, including fidelity of implementation
   measures and feedback from teachers and students on their perceptions of PFTs.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '40'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '6000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   In the short-term, mathematics education at the schools represented in our
   training cohort will be more engaging and effective. In turn, students will be

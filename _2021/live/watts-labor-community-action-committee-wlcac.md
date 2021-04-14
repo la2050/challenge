@@ -7,7 +7,7 @@ link_donate: 'http://www.wlcac.org/donate-now.htm'
 link_volunteer: 'http://www.wlcac.org/volunteer.htm'
 link_newsletter: ''
 ein: 95-2412869
-organization_name: "Watts Labor Community Action Committee\_(WLCAC)"
+organization_name: Watts Labor Community Action Committee (WLCAC)
 mailing_address_zip: '90059'
 organization_website: 'https://www.wlcac.org'
 organization_twitter: '@WLCAC'
@@ -23,7 +23,7 @@ project_description: >-
   subsidized apprenticeships, land access, cultural heritage, business networks,
   farm planning, and social safety net supports. New urban farmers will use
   self-determination and entrepreneurship to address food insecurity, food
-  quality, and unemployment for themselves, their families, and the community. 
+  quality, and unemployment for themselves, their families, and the community.
 category: live
 connect_metrics: ''
 create_metrics: ''
@@ -61,7 +61,7 @@ What is the problem that you are seeking to address?: >-
   beds, and vegetable cultivation on historic, fertile, unbuilt and
   uncontaminated farmland. MudTown Farms’ innovative urban farming course will
   include subsidized apprenticeships, land access, and customized farm business
-  planning.   Urban farming offers both individual and community economic
+  planning. Urban farming offers both individual and community economic
   improvement by reducing food costs, improving diet quality, and producing a
   good return on investment. Even with barriers of limited language, education,
   and startup capital, Watts residents can gain useful, employable skills in a
@@ -87,6 +87,7 @@ What is the problem that you are seeking to address?: >-
   career options, and access to healthy food will demonstrate longer-term
   success.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '20'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '80'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Through deep engagement, this innovative program will change the employment
   and income trajectory for significantly disadvantaged individuals, launching

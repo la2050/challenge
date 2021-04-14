@@ -63,15 +63,16 @@ What is the problem that you are seeking to address?: >-
   scrappiness, we quickly launched a minimum viable product in June of 2020 and
   have since experienced 200% growth across more than 50 food partners. Most
   importantly, over the last 5 months, we have been at an 80% monthly booking
-  capacity, with 70% of our partners booking multiple times.   Today, On The Go
-  LA is seeing significant demand and we are poised for growth and expansion.
-  We've just implemented an online reservation system, and are pre-booking
-  multi-day bundles. Given the demand from local food entrepreneurs, we are
-  preparing to launch a second and third truck. As we grow, we have an
-  opportunity to leverage our local data to deliver a recommendation engine to
-  further help entrepreneurs select hot stops, and in the longer-term, allow us
-  to expand across the greater Los Angeles area.
+  capacity, with 70% of our partners booking multiple times. Today, On The Go LA
+  is seeing significant demand and we are poised for growth and expansion. We've
+  just implemented an online reservation system, and are pre-booking multi-day
+  bundles. Given the demand from local food entrepreneurs, we are preparing to
+  launch a second and third truck. As we grow, we have an opportunity to
+  leverage our local data to deliver a recommendation engine to further help
+  entrepreneurs select hot stops, and in the longer-term, allow us to expand
+  across the greater Los Angeles area.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '150'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '41350'
 Describe how Los Angeles County will be different if your work is successful.: >-
   In the last 10 months, we have been able to provide a lifeline for more than
   50 local food entrepreneurs in Los Angeles. On The Go LA is now in a position

@@ -59,8 +59,8 @@ What is the problem that you are seeking to address?: >-
   Disabilities (IDD) that we decided to create our Marketplace Initiative
   program in 2016 to employ our clients. Today, there are three different
   businesses in this program: The Hermosa Coffee Co., the ICAN Photo Booth, and
-  our Etsy shop, which sells artwork and crafts created by our clients.  Our
-  goal is to provide employment opportunities for our PWCIP clients and to do
+  our Etsy shop, which sells artwork and crafts created by our clients. Our goal
+  is to provide employment opportunities for our PWCIP clients and to do
   everything in our power to protect them from the pandemic in the process by
   helping them get vaccinated, providing them with masks, and placing plastic
   barriers between them and the customers. This program will help us to shrink
@@ -78,19 +78,19 @@ What is the problem that you are seeking to address?: >-
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Due to COVID-19, our Marketplace Initiative has been on hiatus since April
   2020. However, now that businesses are reopening and our clients are getting
-  vaccinated, we are in the process of relaunching and expanding this program. 
+  vaccinated, we are in the process of relaunching and expanding this program.
   We will measure the success of our Marketplace Initiative in the following
-  ways:  -The number of employment opportunities we are able to provide our
+  ways: -The number of employment opportunities we are able to provide our
   clients. -The amount of clients able to get jobs outside of our organization
   through the work experience they received in our program. -Increased donations
   due to working events out in the community, which will allow us to hire more
   clients. -Increased awareness of our program in our communities, leading to
-  more work for our clients.  Before COVID, we were able to consistently grow
-  our Marketplace Initiative by working events throughout our communities,
-  allowing us to provide increasingly more job opportunities for our clients. We
-  firmly believe this model will continue to work for us as we relaunch this
-  program. 
+  more work for our clients. Before COVID, we were able to consistently grow our
+  Marketplace Initiative by working events throughout our communities, allowing
+  us to provide increasingly more job opportunities for our clients. We firmly
+  believe this model will continue to work for us as we relaunch this program.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '150'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Our primary goal and marker of success will be if our program helps toward
   lowering the unemployment rate for people with IDD. If we succeed in this,

@@ -46,7 +46,7 @@ What is the problem that you are seeking to address?: >-
   decade. However, there are still large and persistent gaps for SELA students
   that include college preparation, access, and completion. These gaps are also
   on course to widen due to the pandemic with only an estimated 54% of the class
-  of 2022 on track to graduate.  The disparity is even wider in college: only 7%
+  of 2022 on track to graduate. The disparity is even wider in college: only 7%
   of SELA residents have a bachelor’s degree or higher, compared to 31.2% and
   32.6% of LA County and CA, respectively. A recovery plan that is responsive
   and inclusive is necessary to close poverty gaps, decision makers need to make
@@ -58,17 +58,17 @@ What is the problem that you are seeking to address?: >-
   Prioritize Preparedness for First- Generation Students, (3) Increase College
   Preparedness Support Options in High School, (4) Strengthen Post-Secondary
   Support Options, (5) Create a SELA College-Going Culture, and (6) Prioritize
-  Career Readiness and Expand Workforce Development.  ABC will focus on
+  Career Readiness and Expand Workforce Development. ABC will focus on
   collaboration and alignment efforts with partners, develop and align
   communication strategies to build awareness of educational needs,
   opportunities, and action on budgets and learning recovery plans, ABC will
   engage in relationship building with decision makers and convene
   cross-sectoral stakeholders to implement the framework and align systems - put
-  solution ideas to action.  ABC will also provide presentations, briefings, and
+  solution ideas to action. ABC will also provide presentations, briefings, and
   capacity training to parents, targeting monolingual Spanish speakers, to build
   awareness of efforts.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
-  Success will be measured by:  Parents/caregivers and students are better
+  Success will be measured by: Parents/caregivers and students are better
   prepared to complete the financial aid application evidenced by a pre/post
   survey Increase in the # of financial aid applications that are completed in
   specific SELA schools An increase in the college counselor-to-student ratio
@@ -79,10 +79,11 @@ What is the problem that you are seeking to address?: >-
   least one K-12 school district and local colleges/universities to promote
   access to higher education pathways Increased access to dual enrollment and
   concurrent enrollment programs in SELA Increased access to public and
-  non-profit college and career readiness in SELA  Cross-sector partnerships
-  with 8 key local organizations/educational agencies to further workforce
+  non-profit college and career readiness in SELA Cross-sector partnerships with
+  8 key local organizations/educational agencies to further workforce
   development opportunities in SELA
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '3000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '440000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   By implementing the College Access & Success in the Southeast framework, ABC
   will lay the groundwork for an economic and educational recovery plan that

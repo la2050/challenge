@@ -26,7 +26,7 @@ project_description: >-
   their own experiences. Women are encouraged to return monthly, build
   relationships and practice networking skills. Women who most need networking
   skills and a strong community of professional peers are often those least able
-  to afford it. Table for Ten aims to make attendance accessible for all women. 
+  to afford it. Table for Ten aims to make attendance accessible for all women.
 category: create
 connect_metrics: ''
 create_metrics: 'Income inequality, Minority- and women-owned businesses, Unemployment rate'
@@ -62,7 +62,7 @@ What is the problem that you are seeking to address?: >-
   times more likely to get a better job than women without that same support.
   Promoting women is not simply a diversity issue – it’s an economic one.
   According to McKinsey, $4.3 trillion could be added to the economy if gender
-  parity were reached by 2035. 
+  parity were reached by 2035.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Table of Ten started in September of 2020, born out of the isolation caused by
   the shutdown from a global pandemic. COVID19 has disproportionately impacted
@@ -72,9 +72,9 @@ What is the problem that you are seeking to address?: >-
   networking, in new spaces, felt more urgent. No matter the number of
   attendees, at Table for Ten, each networking group is capped at 12 maximum, to
   encourage intimate, meaningful and memorable interactions, and minimize stage
-  fright or fears.  We believe that nobody was born good at networking – it
-  takes practice. Currently, attendees have to purchase tickets, which may be a
-  barrier to some women.  With the grant, Table for Ten would create annual
+  fright or fears. We believe that nobody was born good at networking – it takes
+  practice. Currently, attendees have to purchase tickets, which may be a
+  barrier to some women. With the grant, Table for Ten would create annual
   memberships for women throughout LA2050 at a heavily discounted, nominal rate
   to allow more women to join. A nominal fee is preferable to offering free
   tickets. Experience shows that when something is offered for free, it fails to
@@ -83,7 +83,7 @@ What is the problem that you are seeking to address?: >-
   women to feel they have some skin in the game. With a grant, we would also
   reach out to influential and powerful men who are supportive of women's
   advancement and invite them to lead tables. Table for Ten will need both male
-  and female leaders to ensure success for women. 
+  and female leaders to ensure success for women.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Network growth and future opportunities can be tricky to measure
   quantitatively. We plan to track the engagement of attendees with forms that
@@ -91,15 +91,16 @@ What is the problem that you are seeking to address?: >-
   and will carry out assessments to measure the size of their network over time,
   while also working to prioritize connections to achieve defined goals.
   Qualitative feedback in the 7 months so far shows that attendees value the
-  platform.  "As someone who doesn’t feel comfortable making conversation at
+  platform. "As someone who doesn’t feel comfortable making conversation at
   large networking events, or has availability in events with business peers –
   like golf or baseball games - I’ve loved participating in the Table for Ten,”
   says one manager at a publicly traded company who is one of only a few female
   leaders in a firm of 22,000 employees. “The small groups are very accessible,
   and the topics and selection of host are relevant and interesting. Table for
   Ten introduces me to new people, and builds my network across multiple
-  industries." 
+  industries."
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '1010'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '505000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   In both the short and long-term, we expect that strong local female networks
   will result in job opportunities, better access to funding and capital, and an

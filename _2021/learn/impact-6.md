@@ -15,7 +15,7 @@ organization_facebook: 'https://www.facebook.com/weareimpact6'
 organization_instagram: '@weareimpact6'
 Describe the mission of your organization.: >-
   Our mission is to empower the youth from under-resourced communities through
-  education, mentorship, and opportunity. 
+  education, mentorship, and opportunity.
 project_description: >-
   A year of distance learning and pandemic living has left LA students
   struggling with school. Socioeconomically disadvantaged youth are particularly
@@ -23,7 +23,7 @@ project_description: >-
   tutoring program is designed to not only increase math scores for high school
   students in underserved communities, but to also help foster a passion and
   love for the subject, resulting in more engaged students who are better
-  prepared to pursue careers in STEM. 
+  prepared to pursue careers in STEM.
 category: learn
 connect_metrics: ''
 create_metrics: ''
@@ -49,7 +49,7 @@ What is the problem that you are seeking to address?: >-
   students’ test scores afloat, especially during a pandemic, never have they
   been more at risk of falling graduate rates. Students unengaged and
   underperforming in math are less likely to pursue careers in STEM areas, and
-  are less likely to feel adequately prepared for college or higher education. 
+  are less likely to feel adequately prepared for college or higher education.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   This 1:1 virtual tutoring program for socioeconomically disadvantaged youth in
   LA communities aims to not only raise their math scores, but instill a passion
@@ -70,7 +70,7 @@ What is the problem that you are seeking to address?: >-
   taught effective study habits, proper testing techniques, and how to apply
   what’s learned to real world solutions. Most importantly, students who cannot
   get the help they need in class will be given the attention and mentorship
-  they deserve. 
+  they deserve.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Impact 6 has researched this program and built a solid foundation for it,
   already having dedicated, passionate tutors from all areas of LA ready to
@@ -85,8 +85,9 @@ What is the problem that you are seeking to address?: >-
   overall, with the goal of 80 - 100% of parents satisfied with it. Tutors will
   have end of program interviews with the program director for feedback,
   adjusting as needed. We’re hoping they express satisfaction as well and see a
-  retention rate above 75%.  
+  retention rate above 75%.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '400'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '2000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Students who enroll in our program will leave with higher scores, increasing
   the city’s SBAC’s scores. They’ll also leave with a genuine interest in math,
@@ -96,12 +97,12 @@ Describe how Los Angeles County will be different if your work is successful.: >
   success. Students who otherwise would’ve never pursued careers in math will be
   eager to do so, resulting in an increase in STEM employment. Uplifting them in
   turn uplifts their communities, helping families and neighborhoods be exposed
-  to greater opportunities.  The tutors walk away either paid for their time or
+  to greater opportunities. The tutors walk away either paid for their time or
   with credits in service to their name, and a strong sense of fulfillment.
   Their positive experience will be shared with friends, who we hope in turn
   also sign up, increasing volunteerism in the city. The program helps to foster
   a culture that values education, volunteerism, and the pursuit of STEM
-  subjects. 
+  subjects.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: 'Access to the LA2050 community,Volunteer recruitment'
 Please list the organizations collaborating on this proposal.: ''

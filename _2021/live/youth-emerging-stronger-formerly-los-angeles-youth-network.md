@@ -7,7 +7,7 @@ link_donate: 'https://www.youthemergingstronger.org/donate'
 link_volunteer: 'mailto:Development@YouthEmergingStronger.org'
 link_newsletter: 'https://www.youthemergingstronger.org/enewsletter'
 ein: 95-3953979
-organization_name: "Youth Emerging Stronger\_(formerly Los Angeles Youth Network)"
+organization_name: Youth Emerging Stronger (formerly Los Angeles Youth Network)
 mailing_address_zip: '90028'
 organization_website: 'https://www.youthemergingstronger.org'
 organization_twitter: '@WeAreYesYouth'
@@ -60,7 +60,7 @@ What is the problem that you are seeking to address?: >-
   material for the first time in their lives. Or they learn to believe that
   their most passionate interests can be parlayed into a living-wage job. They
   also begin to interact with others in the community who can help them realize
-  their goals for adult self-sufficiency.  These positive connections—with YES
+  their goals for adult self-sufficiency. These positive connections—with YES
   staff and with individuals/agencies in the community—are essential to
   sustaining the healthy trajectories that are begun while in shelter, and YES’s
   Staying Strong program guarantees those connections will be cultivated. Our
@@ -69,7 +69,7 @@ What is the problem that you are seeking to address?: >-
   with youth as they confront the challenges that young adults often face. By
   sticking with them through these early years of their independence, we prevent
   challenges from becoming crises. We prevent the youth we serve today from
-  becoming the adult homeless of tomorrow. 
+  becoming the adult homeless of tomorrow.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   We measure impact through youth-directed Individualized Service Plans that are
   introduced at intake and then guide programming through the articulation and
@@ -86,6 +86,7 @@ What is the problem that you are seeking to address?: >-
   Staying Strong’s long-term structure is essential to realizing lasting
   impacts.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '100'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '400'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Every homeless youth who does not later experience adult homelessness
   represents a better future for LA County, and YES’s intended impact is to

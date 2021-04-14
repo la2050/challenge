@@ -19,7 +19,7 @@ Describe the mission of your organization.: >-
 project_description: >-
   Muralism connects Angelenos with special needs to the community through public
   art projects while providing employment to a population underrepresented in
-  the work force.  Muralism artists will design and paint 100 murals across Los
+  the work force. Muralism artists will design and paint 100 murals across Los
   Angeles County by the 2028 Summer Olympics.
 category: connect
 connect_metrics: 'Public arts and cultural events, Volunteerism, Disability access and inclusion'
@@ -45,8 +45,7 @@ What is the problem that you are seeking to address?: >-
   something new every day, not just with art but with tools and new techniques.”
   By involving community volunteers to help paint, our artists engage with a
   range of personalities. Each mural is unique and creates a sense of place and
-  belonging. Our initiative aims to propel adults with ASD toward
-  self-reliance. 
+  belonging. Our initiative aims to propel adults with ASD toward self-reliance.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Muralism provides paid work experience and social interaction to adults on the
   autism spectrum while creating public art. Muralism will paint 100 murals
@@ -69,7 +68,7 @@ What is the problem that you are seeking to address?: >-
   needs can contribute in impactful ways to our city. We hope our platform opens
   doors to future employment for our artists.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
-  Muralism has completed 17 projects on our way to a goal of 100 by 2028.  Each
+  Muralism has completed 17 projects on our way to a goal of 100 by 2028. Each
   project is distinctive and allows us the ability to engage a range of
   stakeholders in the process. Our artists with special needs have painted
   alongside LAPD officers & cadets, burn survivors, Veterans, business owners,
@@ -84,6 +83,7 @@ What is the problem that you are seeking to address?: >-
   training, Muralism has helped three artists secure additional employment in LA
   County.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '15'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '250000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Each mural project is an opportunity to engage underrepresented young adults
   in the LA County workforce. Our initiative aims to increase disability

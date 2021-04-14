@@ -29,7 +29,7 @@ project_description: >-
   traumas experienced by youth. The program will assist and facilitate access to
   basic needs and safety-net support to mitigate the impact of the Covid-19
   pandemic to a population that had been in affected by the pandemic, with the
-  lockdown and school closing.    
+  lockdown and school closing.
 category: live
 connect_metrics: ''
 create_metrics: ''
@@ -61,13 +61,13 @@ What is the problem that you are seeking to address?: >-
   pandemic is much larger on younger adults," said Dr. Shaker Saxena of The
   Harvard School of Public Health. According to the National Alliance on Mental
   Illness, 50% of all lifetime mental illnesses develop by age 14, and 75%
-  develop by age 24. 
+  develop by age 24.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   The peer educators support program, will share informations on the education
   and medical rights of pregnant and parenting teens currently in school. The
   resource also will offer information on where teen parents can access support
   resources such as, finding child care, finding support groups, financial
-  benefits, and recommendations to stay healthy. 
+  benefits, and recommendations to stay healthy.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Our mission is to create access to Reproductive Health and Mental Health
   education to youth and young adults. The Outreach and Education Peers will
@@ -79,6 +79,7 @@ What is the problem that you are seeking to address?: >-
   increase of teens enrolling in our mental health Peers to Peers education
   programs, after 6 months of Outreach, Education and Engagement program.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '300'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '9000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   The program will help: Reduce early pregnancy,high risks pregnancy symptoms
   hospitalizations, mortality. Increase social support and participation in the
@@ -92,9 +93,9 @@ Describe how Los Angeles County will be different if your work is successful.: >
   lows, according to the newest data, from 2017. It shows California with a rate
   of nearly 14 births per 1,000 females ages 15 to 19. That’s the 16th lowest
   teen birth rate in the nation, and below the national average of nearly 19
-  births per 1,000 females in that age range. Arkansas ranks highest with 33. 
+  births per 1,000 females in that age range. Arkansas ranks highest with 33.
 Describe the role of collaborating organizations on this project.: >-
-  WE CAN FOUNDATION:  works to build the people who will help to build bridges
+  WE CAN FOUNDATION: works to build the people who will help to build bridges
   between various communities in our diverse society, engaging parents,
   families, students, schools and community partners to serve as a New Village
   to raise our youth to be successful citizens in a multi–cultural society and
@@ -110,7 +111,7 @@ Which of LA2050’s resources will be of the most value to you?: >-
   gatherings,Communications support,Capacity-building and training,Strategy
   assistance and implementation,Volunteer recruitment
 Please list the organizations collaborating on this proposal.: >-
-  WECAN Foundation:  US-AFRICA INSTITUTE Healthy African American Families
+  WECAN Foundation: US-AFRICA INSTITUTE Healthy African American Families
   HEMP4HEALING Clinic NAMI (National Association Of Mental Illness) CALTEK EWOEC
   (Eagle Wings of Enlightenment Center)
 Which metrics will you impact?:

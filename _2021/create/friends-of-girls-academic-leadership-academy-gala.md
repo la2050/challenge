@@ -22,7 +22,7 @@ project_description: >-
   The LA2050 grant will help prepare girls from a public STEAM school to become
   leaders in the entertainment fields of broadcast technology, multimedia,
   animation, sound engineering, and lighting. The grant will fund the startup
-  equipment for production of music, art  and broadcasting. Most importantly,
+  equipment for production of music, art and broadcasting. Most importantly,
   this grant will enable our art program to make the latest digital technology
   available to a diverse community that has been grossly underserved. Please
   help us level the playing field for the creative geniuses of tomorrow.
@@ -45,7 +45,7 @@ In which areas of Los Angeles will you be directly working?:
   ongoing, successful work)
 What is the problem that you are seeking to address?: >-
   There is a profound lack of gender and racial diversity In the digital and
-  technological sectors of the entertainment industry.  In almost every tv
+  technological sectors of the entertainment industry. In almost every tv
   studio, recording studio, or soundstage you’ll find the majority of white men
   working the sound, lighting, and animation boards. We want to address this
   problem here in Los Angeles, the entertainment capital of the world, by
@@ -57,21 +57,21 @@ What is the problem that you are seeking to address?: >-
   The grant will support a number of programs at GALA. In the music area, we
   would acquire new music production software that would be instrumental in
   establishing a dedicated space for producing new music. This technology would
-  help us establish a Recording Club for aspiring musicians and sound
-  engineers.   The grant would also help us expand our broadcast technology.
-  Specifically, we could advance our lighting and graphics/animation
-  capabilities,which would allow increased collaboration between students and
-  teachers that promote novel initiatives and diverse campus voices. Teachers on
-  campus will have opportunities to receive training on new software systems,
-  equipment, and specialty curriculum to develop the students’ skills and
-  professionalize their own expertise.   The grant will provide GALA girls with
-  the experience and confidence to secure internships in the entertainment
-  industry as well as build and foster community relationships with web
-  developers, art directors, architects, game developers, broadcast operations
-  professionals, and sound engineers. These relationships between GALA girls and
-  industry professionals can provide the opportunity for targeted career days
-  that will expand the reach of the programs as more and more students become
-  aware of the myriad of career options open to them. 
+  help us establish a Recording Club for aspiring musicians and sound engineers.
+  The grant would also help us expand our broadcast technology. Specifically, we
+  could advance our lighting and graphics/animation capabilities,which would
+  allow increased collaboration between students and teachers that promote novel
+  initiatives and diverse campus voices. Teachers on campus will have
+  opportunities to receive training on new software systems, equipment, and
+  specialty curriculum to develop the students’ skills and professionalize their
+  own expertise. The grant will provide GALA girls with the experience and
+  confidence to secure internships in the entertainment industry as well as
+  build and foster community relationships with web developers, art directors,
+  architects, game developers, broadcast operations professionals, and sound
+  engineers. These relationships between GALA girls and industry professionals
+  can provide the opportunity for targeted career days that will expand the
+  reach of the programs as more and more students become aware of the myriad of
+  career options open to them.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Our broadcasting elective is one of the top three sought after electives at
   GALA. The broadcasting students produce a weekly Good Morning GALA news
@@ -87,17 +87,18 @@ What is the problem that you are seeking to address?: >-
   operated by the women and minorities who developed their skills in this
   program.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '700'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '5000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   With this grant from LA2050 we intend to change the playing field for young
   women entering the fields of music technology, sound engineering, broadcasting
-  tech, graphic arts, and lighting. A  successful program will create a pipeline
+  tech, graphic arts, and lighting. A successful program will create a pipeline
   of talent, developing young women entering the tech sectors of entertainment.
   By the time these students are high school seniors, they can change the face
   of the traditionally white male entertainment industry. Our vision is to bring
   passionate, qualified people into the networks that are crucial for landing
   STEAM jobs in the entertainment industry. The LA2050 grant will provide GALA
   girls with a shot to become an integral part of the.Los Angeles hub of
-  creativity by merging technology, the arts and personal expression.   
+  creativity by merging technology, the arts and personal expression.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or

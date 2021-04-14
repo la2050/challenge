@@ -21,9 +21,9 @@ Describe the mission of your organization.: >-
   help them grow into the best versions of themselves.
 project_description: >-
   What do you get from a group of passionate STEM providers faced with a
-  pandemic and students stuck at home? STEM for All Seasons!  Leading LA STEM
+  pandemic and students stuck at home? STEM for All Seasons! Leading LA STEM
   organizations have come together in the ExpandLA network to provide
-  coordinated STEM learning to thousands of students.  By working
+  coordinated STEM learning to thousands of students. By working
   collaboratively, the program provides under-resourced students access to
   unique STEM experiences, nurturing curiosity and empowering self-development
   through hands-on learning activities that highlight the rich STEM assets of
@@ -46,37 +46,37 @@ What is the problem that you are seeking to address?: >-
   intersect. Students from marginalized communities lack access to robust
   out-of-school STEM learning experiences that expand their awareness of STEM.
   This exposure can equip children with skills and connections needed to benefit
-  from a shifting economy.    A study by WestEd, the Lawrence Hall of Science
-  and SRI International showed that 40% of elementary teachers spend 60 min. or
-  less teaching science each week and only 33% say they feel prepared to teach
+  from a shifting economy. A study by WestEd, the Lawrence Hall of Science and
+  SRI International showed that 40% of elementary teachers spend 60 min. or less
+  teaching science each week and only 33% say they feel prepared to teach
   science. It also found that only 44% of principals believe it is likely for
   students to receive high-quality science instruction in their schools. The
   study showed that high-quality teaching requires specialized materials and
   experiences that schools are strapped to provide. The study was done
   pre-pandemic; COVID19 and its impact on the lives and education of LA’s youth
   created an even more urgent need to support the STEM learning and well-being
-  of students. 
+  of students.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   A group of LA STEM organizations, working through network organization
   ExpandLA, responded to the COVID19 crisis and created a program to increase
   access to STEM experiences to thousands of youth from marginalized
   communities. Called Season of STEM, the program has delivered STEM-based
   curriculum and enrichment programs to about 80,000 LAUSD students since its
-  inception.  This spring we served about 730 classrooms. This proposal aims to
+  inception. This spring we served about 730 classrooms. This proposal aims to
   grow the program’s reach to an additional 300 classrooms for a total of 1,000
-  each season. The intent is to expand the program from LAUSD to countywide. 
-  The program will continue the unprecedented coordination of the work of the
-  STEM organizations around common goals and practices, while providing STEM
-  learning both as after-school enrichment and, more significantly, as part of
-  the regular, core school day. Collaborating with teachers and building upon
-  the methods of STEM learning proven effective this year, providers will reach
-  as many upper elementary students from marginalized communities as possible
-  with a hybrid approach that offers access through live, online platforms
-  combined with customized asynchronous resources and featuring in-person STEM
-  learning experiences either at students’ locations or provider sites, per
-  County and District health guidelines. Recognizing the needs of students after
-  a year of disruption, the program will also integrate social-emotional
-  learning with STEM, emphasizing the natural connections between them. 
+  each season. The intent is to expand the program from LAUSD to countywide. The
+  program will continue the unprecedented coordination of the work of the STEM
+  organizations around common goals and practices, while providing STEM learning
+  both as after-school enrichment and, more significantly, as part of the
+  regular, core school day. Collaborating with teachers and building upon the
+  methods of STEM learning proven effective this year, providers will reach as
+  many upper elementary students from marginalized communities as possible with
+  a hybrid approach that offers access through live, online platforms combined
+  with customized asynchronous resources and featuring in-person STEM learning
+  experiences either at students’ locations or provider sites, per County and
+  District health guidelines. Recognizing the needs of students after a year of
+  disruption, the program will also integrate social-emotional learning with
+  STEM, emphasizing the natural connections between them.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Since 2020, the Season of STEM program has brought together STEM providers
   around LA, including major science museums and small STEM non-profits, to
@@ -84,13 +84,14 @@ What is the problem that you are seeking to address?: >-
   district, as it dealt with the disruption in student learning. The program
   provided coordinated STEM learning both as after-school enrichment and, more
   significantly, as part of the regular, core school day, delivering synchronous
-  online experiences, and brand new asynchronous resources.  To date Season of
+  online experiences, and brand new asynchronous resources. To date Season of
   STEM has covered Summer 2020, Fall 2020, and Spring 2021 semesters, in
   partnership with LAUSD. A comprehensive evaluation looking at teacher, student
   and provider impacts is currently underway. Preliminary survey results
   indicate that 93% of teachers rated the program as excellent and 87% felt that
-  the program was effective in engaging students.  
+  the program was effective in engaging students.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '30000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '330'
 Describe how Los Angeles County will be different if your work is successful.: >-
   With a coordinated network of out-of-school time (OST) STEM providers under
   ExplandLA, Greater Los Angeles will gain and achieve a few critical goals: 1.
@@ -107,10 +108,10 @@ Describe how Los Angeles County will be different if your work is successful.: >
   organizations the chance to expand their reach in the new school year.
 Describe the role of collaborating organizations on this project.: >-
   By design, Expand LA aims to support, connect, and advocate for out-of-school
-  time (OST) programs in the Greater Los Angeles area.  The initiative’s main
+  time (OST) programs in the Greater Los Angeles area. The initiative’s main
   thrust is to remove barriers that currently exist so students can easily
   access rich programs that help develop each student’s understanding of the
-  world around them.  By strengthening these programs, ExpandLA can help ensure
+  world around them. By strengthening these programs, ExpandLA can help ensure
   that all children and youth in Los Angeles benefit from OST programs that
   nurture their thirst for knowledge and creative pursuit and help them grow
   into the best versions of themselves.
@@ -128,7 +129,7 @@ Please list the organizations collaborating on this proposal.:
   - >-
     Inc. (non-profit that manages the Roundhouse Aquarium) Pacific Battleship
     Center Resource Conservation District of Santa Monica Mountains TreePeople
-    TXT: Teens Exploring Technology USC Sea Grant Program  USC Viterbi K-12 STEM
+    TXT: Teens Exploring Technology USC Sea Grant Program USC Viterbi K-12 STEM
     Center Waterfront Education The Wildwoods Foundation
 Which metrics will you impact?:
   - Enrollment in afterschool programs

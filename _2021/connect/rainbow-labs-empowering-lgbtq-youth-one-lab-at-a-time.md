@@ -40,7 +40,7 @@ In which areas of Los Angeles will you be directly working?:
 What is the problem that you are seeking to address?: >-
   The benefits of mentoring programs are not reaching LGBTQ+ youth. MENTOR
   National, a national mentoring and capacity building organization, states for
-  every 5,000 youth mentoring programs only five focus on LGBTQ+ youth.   LGBTQ+
+  every 5,000 youth mentoring programs only five focus on LGBTQ+ youth. LGBTQ+
   youth face unprecedented challenges without mentors. In a 2019 report on the
   California School Climate, UCLA’s Williams Institute stated, “LGBTQ+ youth
   reported having less meaningful school participation, lower expectations from
@@ -59,33 +59,47 @@ What is the problem that you are seeking to address?: >-
   problematic behavior. Grant funds will act on the intervention of mentoring.
   We will expand our summer pilot program's success to five high schools by
   January 2022. Mentors and youth will meet ten hours each week for program.
-  Funding will support:  -Curriculum Design: Curriculum will focus on
+  Funding will support: -Curriculum Design: Curriculum will focus on
   storytelling and entrepreneurship. Youth will explore different ways to
   express their stories through podcasts, videos, cover letters, and college
-  essays. Our second module, entrepreneurship, will focus on the elements of 
+  essays. Our second module, entrepreneurship, will focus on the elements of
   business development and forming relationships with LGBQT+ professionals.
-  Youth will be given funding to support their business development idea. 
+  Youth will be given funding to support their business development idea.
   -Full-Time Program Manager: The program manager will support on-going
-  programming with mentors and youth.  -Youth Advisory Council: Ten youth will
+  programming with mentors and youth. -Youth Advisory Council: Ten youth will
   serve on our youth advisory council, where they'll provide feedback on our
-  mentors and program activities.  -Program Supplies & Events: We'll be hosting
+  mentors and program activities. -Program Supplies & Events: We'll be hosting
   monthly mentor-mentee events. Program supplies will support mentors to reach
-  their youth effectively.  -Program Evaluation: A program evaluator will
-  support the implementation and analysis of our surveys.
-'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': "This program is in early-stage development. The foundation of our success will be how our program will need to adjust from a pilot to an after-school program. Our goals for our program include: (1) Build positive mentor/mentee relationships; (2) Build positive peer relationships; and (3) Provide an environment for LGBTQ+ youth that is safe and inclusive. To measure these goals, we'll conduct a pre an post survey with youth and mentors. We anticipate the following outcomes:  •\t90% of mentees report having a positive relationship with their mentor at the end of the program •\t90% of mentors report having a positive relationship with their mentee(s) at the end of the program •\t90% of youth participants report that they enjoyed connecting to other young people in the queer community •\t90% of youth participants report that the program was a safe space for them •\t90% of mentors report that the program created a safe environment"
+  their youth effectively. -Program Evaluation: A program evaluator will support
+  the implementation and analysis of our surveys.
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  This program is in early-stage development. The foundation of our success will
+  be how our program will need to adjust from a pilot to an after-school
+  program. Our goals for our program include: (1) Build positive mentor/mentee
+  relationships; (2) Build positive peer relationships; and (3) Provide an
+  environment for LGBTQ+ youth that is safe and inclusive. To measure these
+  goals, we'll conduct a pre an post survey with youth and mentors. We
+  anticipate the following outcomes: • 90% of mentees report having a positive
+  relationship with their mentor at the end of the program • 90% of mentors
+  report having a positive relationship with their mentee(s) at the end of the
+  program • 90% of youth participants report that they enjoyed connecting to
+  other young people in the queer community • 90% of youth participants report
+  that the program was a safe space for them • 90% of mentors report that the
+  program created a safe environment
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '100'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '150'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Mentors are life-changing, especially for LGBTQ+ youth who do not have near as
   much access to mentors as other youth. In Los Angeles, for LGBTQ+ youth,
   finding a mentoring program that aligns with their needs. Also, they battle
   the other typical program access challenges such as transportation, time, and
-  cost.  We envision a Los Angeles, where LGBTQ+ youth feel supported, safe, and
+  cost. We envision a Los Angeles, where LGBTQ+ youth feel supported, safe, and
   empowered. No LGBTQ+ youth will face dropping out at school or feel isolated
   because of who they are. With our program, we will eliminate those challenges
   and increase access to mentoring for LGBTQ+ youth. LGBTQ+ youth will move on
   from our program graduating high school and college, forming deep
   relationships with their peers, and building the next new world-changing
-  business  In this grant year, we plan to reach 100 youth and engage 25 mentors
+  business In this grant year, we plan to reach 100 youth and engage 25 mentors
   in weekly empowering activities. Over five years, we plan to engage 1,000
   youth and 500 mentors to expand our reach to additional afterschool providers.
 Describe the role of collaborating organizations on this project.: ''

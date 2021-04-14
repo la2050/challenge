@@ -20,16 +20,16 @@ organization_instagram: '@solaican'
 Describe the mission of your organization.: >-
   If you CAN see it, you CAN be it. Working to end inter-generational poverty in
   South Los Angeles through community development and access to education and
-  economic opportunity.  
+  economic opportunity.
 project_description: >-
   South LA’s Black and Latinx youth live in a technology desert and lack equal
   access to tech education and opportunity. The SoLa Technology and
   Entrepreneurship Center (the first in South LA) will close this digital
   divide, provide access to high quality, cutting edge technology and
   entrepreneurship education and open new pathways for Black and Latinx youth to
-  become the next generation of tech leaders and entrepreneurs.  We aspire to
+  become the next generation of tech leaders and entrepreneurs. We aspire to
   systemically address these game-changing outcomes with support and input from
-  the LA2050 community.   
+  the LA2050 community.
 category: learn
 connect_metrics: ''
 create_metrics: >-
@@ -79,10 +79,10 @@ What is the problem that you are seeking to address?: >-
   bringing new opportunities for 21st Century skills-building to South L.A. We
   are currently seeking funding to expand our STEAM programming free of charge
   to more than 1000 students annually as we believe the Center will be a game
-  changer that sparks creativity and innovation in our students. 
+  changer that sparks creativity and innovation in our students.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
-  SoLa I CAN is a data driven operation and the Center’s  impact will continue
-  to be recorded in pre- and post-participation surveys tracking technical and
+  SoLa I CAN is a data driven operation and the Center’s impact will continue to
+  be recorded in pre- and post-participation surveys tracking technical and
   psychological impacts. Additionally, impact data from partners (including
   several higher education institutions) are shared. Since our virtual launch,
   115 students have entered the program. Impact data shows 75 students were
@@ -96,6 +96,7 @@ What is the problem that you are seeking to address?: >-
   his coding class because “it is a new experience for all and a new world to
   explore.”
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '500'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1500'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Our vision for Los Angeles County is built upon inclusive and sustainable
   economic development where everyone - no matter their race, socio-economic
@@ -112,23 +113,22 @@ Describe how Los Angeles County will be different if your work is successful.: >
   wealth-creation employment opportunities, business ownership and creation.
 Describe the role of collaborating organizations on this project.: >-
   South LA Robotics Black woman led educational company providing robotics,
-  coding and engineering classes.  Hidden Genius Project  Black-led educational
-  non-profit providing coding and computer education programming.  Black Girls
-  Code Coding education nonprofit working with Black female youth.   Otis
-  College of Art & Design SoLa I CAN is the first partner of Otis in South LA,
-  which provides classes in graphic, animation and video game design. 
-  Film2Future Film industry immersion experience exploring creative careers in
-  Hollywood;  inspiring more people of color to enter the industry.   LAUSD
-  Southern District The Center is in talks to become an authorized curriculum
-  partner.  WeThrive A youth entrepreneurship and leadership training
-  nonprofit. 
+  coding and engineering classes. Hidden Genius Project Black-led educational
+  non-profit providing coding and computer education programming. Black Girls
+  Code Coding education nonprofit working with Black female youth. Otis College
+  of Art & Design SoLa I CAN is the first partner of Otis in South LA, which
+  provides classes in graphic, animation and video game design. Film2Future Film
+  industry immersion experience exploring creative careers in Hollywood;
+  inspiring more people of color to enter the industry. LAUSD Southern District
+  The Center is in talks to become an authorized curriculum partner. WeThrive A
+  youth entrepreneurship and leadership training nonprofit.
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Capacity-building and training,Strategy
   assistance and implementation,Volunteer recruitment
 Please list the organizations collaborating on this proposal.: >-
-  Our partnerships include the following:   - South LA Robotics  - Hidden
-  Genius  - Kai XR  - Otis College of Art & Design  - Film2Future  - LAUSD
-  Southern District  - WeThrive
+  Our partnerships include the following: - South LA Robotics - Hidden Genius -
+  Kai XR - Otis College of Art & Design - Film2Future - LAUSD Southern District
+  - WeThrive
 Which metrics will you impact?:
   - Employment in the tech industries
   - ' Income inequality'
@@ -142,6 +142,6 @@ Indicate any additional LA2050 goals your project will impact.:
   - ' LA is the healthiest place to LIVE'
 year: 2021
 filename: sola-i-can-foundation
-order: 67
+order: 68
 
 ---

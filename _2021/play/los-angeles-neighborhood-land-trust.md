@@ -18,7 +18,7 @@ Describe the mission of your organization.: >-
   mission is to contribute to the equity and well-being of neighborhoods through
   the development of parks, gardens, and community-driven organizing across
   greater Los Angeles. We focus our efforts in low-income communities of color
-  that have little access to green space. 
+  that have little access to green space.
 project_description: >-
   Every child deserves the ability to walk to a park no matter their zip code.
   The Los Angeles Neighborhood Land Trust will work until every child in Los
@@ -51,7 +51,27 @@ What is the problem that you are seeking to address?: >-
   health benefits, including lower blood pressure and cholesterol levels, lower
   self-reported stress, lower rates of crime and domestic violence, and improved
   air and water quality.
-'Describe the project, program, or initiative that this grant will support to address the problem identified.': "A grant from LA 2050 will help LANLT engage and move forward 1-3 prospective projects in underserved communities in LA County while maintaining and activating the 12 parks and gardens we manage year-round. \t Core to the LANLT's mission and key to its successful model are the equally important pillars of organizing, design and development, and stewardship. The first phase of a new park, garden or renovation project always starts with deep community engagement and stakeholder involvement, where residents help to identify spaces and envision the projects by identifying their priorities. Through door-to-door outreach, workshops, focus groups, park-based events, and monthly meetings, we develop not only residents who engage in their own neighborhood vision, but resident leaders who take pride and steward their open spaces.   Key to our successful model is our Park and Garden Stewardship Program, which engages local community residents to be the caretakers of their neighborhood greenspaces. This unique approach to operating, maintaining and activating our parks and gardens fosters both community ownership and economic development. LANLT Stewards help to ensure that our sites are clean and safe so that they can continue to serve as welcoming community spaces promoting mental wellbeing and healthy lifestyles.  Our sites have proven track records of less vandalism, increased safety, and high utilization, while our residents are empowered and trained to address neighborhood issues."
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  A grant from LA 2050 will help LANLT engage and move forward 1-3 prospective
+  projects in underserved communities in LA County while maintaining and
+  activating the 12 parks and gardens we manage year-round. Core to the LANLT's
+  mission and key to its successful model are the equally important pillars of
+  organizing, design and development, and stewardship. The first phase of a new
+  park, garden or renovation project always starts with deep community
+  engagement and stakeholder involvement, where residents help to identify
+  spaces and envision the projects by identifying their priorities. Through
+  door-to-door outreach, workshops, focus groups, park-based events, and monthly
+  meetings, we develop not only residents who engage in their own neighborhood
+  vision, but resident leaders who take pride and steward their open spaces. Key
+  to our successful model is our Park and Garden Stewardship Program, which
+  engages local community residents to be the caretakers of their neighborhood
+  greenspaces. This unique approach to operating, maintaining and activating our
+  parks and gardens fosters both community ownership and economic development.
+  LANLT Stewards help to ensure that our sites are clean and safe so that they
+  can continue to serve as welcoming community spaces promoting mental wellbeing
+  and healthy lifestyles. Our sites have proven track records of less vandalism,
+  increased safety, and high utilization, while our residents are empowered and
+  trained to address neighborhood issues.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Our 12 owned or managed sites have consistent year-round care by resident
   caretakers, are active with community events and free programming and have
@@ -63,8 +83,9 @@ What is the problem that you are seeking to address?: >-
   diabetes, heart disease, hunger, and depression. Our parks frequently include
   community gardens that supply fresh and healthy produce and promote vibrant
   neighborhood life by providing a space for colorful celebrations/events that
-  unite neighbors and families. 
+  unite neighbors and families.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '255000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '500000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   If we are successful at not only managing and activating the 12 parks and
   gardens we manage year-round as well as achieving the ability to move forward

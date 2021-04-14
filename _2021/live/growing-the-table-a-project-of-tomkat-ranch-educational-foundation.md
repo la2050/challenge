@@ -69,6 +69,7 @@ What is the problem that you are seeking to address?: >-
   Need Families and Individuals: 43,300 • Small Farmers Helped Financially: 158
   • Wholesale Payments Made Directly to Farmers so far: $500,000.00
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '500'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': ''
 Describe how Los Angeles County will be different if your work is successful.: >-
   We will have accomplished another set of major milestones towards the
   following: 1. Securing harvests and jobs for the farmers who feed us. 2.

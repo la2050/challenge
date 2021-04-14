@@ -51,7 +51,7 @@ What is the problem that you are seeking to address?: >-
   populations, and many of the families we exist to serve are delaying health
   related services such as routine well-child visits and early intervention
   services because of concerns about exposure to COVID-19, cost, accessibility
-  and access.  With the current pandemic quickly becoming an educational crisis
+  and access. With the current pandemic quickly becoming an educational crisis
   with devastating long-term implications, it is essential that PTN expand the
   delivery of innovative early education services that lay a foundation for
   life-long learning.
@@ -60,7 +60,7 @@ What is the problem that you are seeking to address?: >-
   with and at-risk for developmental delays and disabilities, PTN provides
   families throughout LA County access to evidence-based, family-centered
   education and therapeutic services during the most critical time of
-  development, birth to age three.  With the onset of COVID-19, PTN immediately
+  development, birth to age three. With the onset of COVID-19, PTN immediately
   recognized the need to innovate our programming to provide a continuum of care
   to young children isolated at home. This included transitioning the full scope
   of our Best We Can Be early education services to a tele-health platform as
@@ -72,7 +72,7 @@ What is the problem that you are seeking to address?: >-
   prospective clients to therapeutically-enriched early education content even
   before they are enrolled in our programs, and these virtual resources,
   designed by trained therapists and experienced educators, are available to the
-  general public, providing support to even more children and families in need. 
+  general public, providing support to even more children and families in need.
   PTN will use grant funding to continue this trajectory, providing
   educationally-enriched programming to young children throughout the County
   both digitally and in-person.
@@ -84,7 +84,7 @@ What is the problem that you are seeking to address?: >-
   treatment notes and surveys. Baseline data is gathered for all children
   enrolled in PTN’s Early Education programs and measured against
   post-intervention assessments. Progress is tracked by therapist/teacher
-  observations throughout the course of treatment.   Program data and survey
+  observations throughout the course of treatment. Program data and survey
   results from the most recent fiscal year substantiate the effectiveness of our
   targeted early education services; 90% of Leaps & Bounds clients demonstrated
   developmental improvements in speech, language, physical, cognitive,
@@ -92,6 +92,7 @@ What is the problem that you are seeking to address?: >-
   ESDM clients demonstrated improvements in intellectual ability and behavior
   upon completion of the program.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '1083'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '7050'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Through the expansion of our hybrid early intervention program model, PTN is
   increasing our ability to mitigate developmental setbacks as a result of the
@@ -101,7 +102,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   education and therapeutic services, whether they be virtual or in-person. We
   expect in the short-term for 90% of our early intervention clients to
   demonstrate improvements in their physical, cognitive, sensory and
-  social/emotional capabilities and development.  PTN’s vision of success for
+  social/emotional capabilities and development. PTN’s vision of success for
   this project is twofold: expand access and increase participation in
   high-quality, early education programs for young children with and at-risk for
   developmental delays; and engage and support parents/caregivers as they act as

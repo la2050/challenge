@@ -27,7 +27,7 @@ project_description: >-
   Lives anti-gun violence organization and those with lived experience of
   incarceration to make real change together in their communities as they return
   from prison. In 2020, 100% of our eligible students voted in the Presidential
-  election! 
+  election!
 category: play
 connect_metrics: ''
 create_metrics: ''
@@ -49,13 +49,13 @@ What is the problem that you are seeking to address?: >-
   circuitry, which can facilitate attention and action. Through play, young
   people practice social interaction and build skills and interests to draw upon
   in the years to come, while also bringing down the barriers of gang
-  affiliation and race that are so prevalent behind bars.  This program inspires
+  affiliation and race that are so prevalent behind bars. This program inspires
   our students to raise their voices in their communities and become leaders in
   movements that create meaningful change, through play. We are firm believers
   that substantive, effective reform can only come from those who are impacted
   by the harms of systemic racism, a punitive justice system, poverty, and
   violence. Our students know what their communities need, and our program shows
-  them how their participation and leadership can help achieve it.  
+  them how their participation and leadership can help achieve it.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Art Attacks! is a civic engagement workshop for incarcerated youth that uses
   the arts and play as a means to teach students about the many paths they can
@@ -63,18 +63,18 @@ What is the problem that you are seeking to address?: >-
   national conversation around political and social justice issues. A typical
   class may include theatre games, slam poetry writing, music, drawn art and
   open discussion centered around such topics as the history of peaceful
-  activism, local government, community organizing, etc.   Each teaching team
+  activism, local government, community organizing, etc. Each teaching team
   consists of an artist, a formerly incarcerated teacher, and a youth
   representative from the March For Our Lives anti-gun violence organization.
   The inclusion of peer teachers and people who are formerly incarcerated is
-  vital to showing our students how powerful their voices can be.  In 2020, we
+  vital to showing our students how powerful their voices can be. In 2020, we
   brought the program into all 7 LA County camps and halls virtually, due to
   COVID, and 100% of our students voted in the Presidential Election, an
   unprecedented turnout. In addition, we made connections between our students
   and March for Our Lives, so that they could join their local chapters upon
-  returning home.   At the end of the session we took student-created protest
+  returning home. At the end of the session we took student-created protest
   signs and poetry to display in the community in order to amplify the voices of
-  our youth and change public narratives about who they are.  
+  our youth and change public narratives about who they are.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Each iteration of Art Attacks! has included pre and post anonymous surveys
   which have been created in partnership with a Mental Health Expert who
@@ -84,13 +84,14 @@ What is the problem that you are seeking to address?: >-
   students have gone from answers like "How does my vote as a young, black,
   incarcerated woman matter as much as a white person's?", to answers like "We
   have community. We built something in this short time...my peers, my brothers,
-  we're all in this together."   Additionally we have been able to measure voter
+  we're all in this together." Additionally we have been able to measure voter
   turnout amongst our students, which reached 100% in 2020. In future programs
   we will keep track of students who contact us or one of our partner
   organizations to join in engaging in their communities, as well as interview
   staff at the camps and halls about the impact on the students while they are
-  inside. 
+  inside.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '650'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '2000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Our vision of Los Angeles County is one where the voices of those most
   impacted by systemic racism, the legal system, poverty, and gun violence are
@@ -99,12 +100,12 @@ Describe how Los Angeles County will be different if your work is successful.: >
   election, the involvement of youth from the most underestimated communities in
   this country can completely transform the outcomes. The recent passage of
   Measure J in LA County is a good example of legislation actuated including
-  voices of our systems-impacted youth.    Art Attacks! is not only about
+  voices of our systems-impacted youth. Art Attacks! is not only about
   education, but also empowerment. Often our youth have been confronted with low
   expectations, through play and access to the Arts, our program presents them
   with an alternative view of themselves which they rise to. We envision a Los
   Angeles County where they are involved in meaningful change that ultimately
-  creates a safer, more equitable, inclusive, playful community for us all.  
+  creates a safer, more equitable, inclusive, playful community for us all.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or

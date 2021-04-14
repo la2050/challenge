@@ -62,7 +62,7 @@ What is the problem that you are seeking to address?: >-
   and the community. Over the course of the grant year, we will identify,
   connect with, and share the journeys of 100 entrepreneurs of color based in LA
   County while compiling data and facts on the success of their businesses to
-  present to potential investors.   A unique aspect to this project is the
+  present to potential investors. A unique aspect to this project is the
   intention to work with LA County community college students to intern on this
   project. To identify the MINT100, we will hire a Communications major to
   develop a campaign that will be a call for entrepreneurs to be considered for
@@ -85,6 +85,7 @@ What is the problem that you are seeking to address?: >-
   the MINT100 will allow them to have the opportunity to create even more impact
   in LA county through their businesses.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '112'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '6000000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   LA County can become the center of a diversely impactful funding hub and the
   MINT100 project will be the catalyst for this change. Through the success of

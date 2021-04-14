@@ -15,14 +15,14 @@ organization_facebook: ''
 organization_instagram: '@nuleep'
 Describe the mission of your organization.: >-
   Nuleep’s mission is to create personal and professional growth opportunities
-  for students and empower them through hands-on, experiential learning. 
+  for students and empower them through hands-on, experiential learning.
 project_description: >-
   Nuleep’s HEXAGON program empowers opportunity youth in Los Angeles with
   professional and technical skills through experiential learning, peer to peer
   accountability, and mentorship in STEAM. Through HEXAGON, youths will focus on
   project management, transferable, and technical job skills to directly apply
   to work on projects or intern at local LA companies and nonprofits; creating
-  impact and community for the businesses of LA. 
+  impact and community for the businesses of LA.
 category: learn
 connect_metrics: ''
 create_metrics: ''
@@ -47,19 +47,19 @@ In which areas of Los Angeles will you be directly working?:
   ongoing, successful work)
 What is the problem that you are seeking to address?: >-
   As of 2018, there are 153,457 residents in LA that qualify as opportunity
-  youth.  By 2030, almost 40% of jobs that exist today will no longer exist, and
+  youth. By 2030, almost 40% of jobs that exist today will no longer exist, and
   1 billion individuals globally will be professionally displaced. Nonprofits,
   bootcamps, and workforce centers exist but opportunity youth don’t have a
-  clear pathway to these opportunities.   Nuleep’s team will provide a platform
+  clear pathway to these opportunities. Nuleep’s team will provide a platform
   for youths to access and utilize the resources and opportunities in LA.
   Nuleep’s HEXAGON program builds community with peer to peer experiential
   learning based on building transferable work readiness skills such as
-  leadership, project management, and communication skills across STEAM
-  sectors.   HEXAGON Youths will be part of a 10 week program focused on
-  experiential learning in STEAM to learn the fundamentals of project management
-  and work readiness, followed by hands on work experience at companies and
-  nonprofits. Youths will help businesses scale impact in their communities
-  while building work experience.
+  leadership, project management, and communication skills across STEAM sectors.
+  HEXAGON Youths will be part of a 10 week program focused on experiential
+  learning in STEAM to learn the fundamentals of project management and work
+  readiness, followed by hands on work experience at companies and nonprofits.
+  Youths will help businesses scale impact in their communities while building
+  work experience.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Nuleep addresses the lack of support for opportunity youth in LA and provides
   STEAM afterschool programs with our HEXAGON program. HEXAGON is a
@@ -69,7 +69,7 @@ What is the problem that you are seeking to address?: >-
   will feature diverse 10-week focused programs by providing transferable
   skills, from leadership, communications, and public speaking to technical job
   skills such as marketing, data science, UX design, software development,
-  business operations, and project management.   The culminating annual HEXAGON
+  business operations, and project management. The culminating annual HEXAGON
   Conference will double as a pitch competition for students to be able to share
   what they have learned and accomplished in their partnership with the local
   companies. Students will be evaluated based on a 100 point system with 1. 25
@@ -77,26 +77,27 @@ What is the problem that you are seeking to address?: >-
   personal growth and project community impact, 3. 25 points for their project &
   presentation, and 4.25 points for technical skills. The HEXAGON Conference
   will be an opportunity for students to apply the skills they learned in a
-  real-life context.  We will partner and deliver these programs to local high
+  real-life context. We will partner and deliver these programs to local high
   schools, community schools, colleges, and nonprofits in LA County. Hexagon’s
   mission is to empower students on their career journeys through hands-on, real
-  work experience and experiential learning.  
+  work experience and experiential learning.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   HEXAGON prioritizes opportunity youth in STEAM to build peer to peer
   communities that enable youths to stay on track and continue learning. Working
   with over 1000 youth in LA County during the pandemic with a 95% success rate,
   Nuleep created scalable professional and personal development opportunities
   for opportunity youth by providing after school programs; we’ll track our data
-  by using our in-house database system built using MongoDB.   We hope to
-  increase the number of 16-24 youth placed into afterschool, work, and
-  internship programs at 5 HEXAGON programs, through the following: 95% of
-  HEXAGON youths will have a career journey map  95% of HEXAGON youths will be
-  enrolled in an afterschool program 95% of HEXAGON youths will be able to
-  successfully apply, interview, and project manage their work 90% of HEXAGON
-  youths will be ready to be placed and perform at work or internship 85% of
-  HEXAGON youths will build direct transferable skills 75% of HEXAGON youths
-  will increase STEAM skills 
+  by using our in-house database system built using MongoDB. We hope to increase
+  the number of 16-24 youth placed into afterschool, work, and internship
+  programs at 5 HEXAGON programs, through the following: 95% of HEXAGON youths
+  will have a career journey map 95% of HEXAGON youths will be enrolled in an
+  afterschool program 95% of HEXAGON youths will be able to successfully apply,
+  interview, and project manage their work 90% of HEXAGON youths will be ready
+  to be placed and perform at work or internship 85% of HEXAGON youths will
+  build direct transferable skills 75% of HEXAGON youths will increase STEAM
+  skills
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '250'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Every youth in San Francisco receives $1901 of funding compared to opportunity
   youth in LA at $75. The lack of funding and resources is prevalent throughout
@@ -106,7 +107,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   professional growth for these opportunity youth. With our student group
   partnerships, we have youths that will actively engage and be committed to
   completion since their peers, friends, and community will be part of the
-  journey.   Not only will youths be activated for HEXAGON across the chain of
+  journey. Not only will youths be activated for HEXAGON across the chain of
   student clubs, we will have businesses growing and thriving in Los Angeles by
   leveraging local LA youths and their potential. Opportunity youth in LA County
   will be able to successfully enter the job market as prepared employees with

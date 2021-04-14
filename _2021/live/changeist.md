@@ -27,7 +27,7 @@ project_description: >-
   charge. We are contracting a team of mental health professionals to support
   the learning of mentors and will be “on-call” for emergency and ongoing needs
   of youth, including counseling, mental health first aid training, and
-  facilitated reflection for the community around impactful current events. 
+  facilitated reflection for the community around impactful current events.
 category: live
 connect_metrics: ''
 create_metrics: ''
@@ -57,21 +57,20 @@ What is the problem that you are seeking to address?: >-
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Changeist plans to invest in a strategy that reimagines mental health access
   for our youth. For our 2021-22 program, we will contract a suite of mental
-  health professionals that will be “on-call” for the following needs:  -
+  health professionals that will be “on-call” for the following needs: -
   Immediate and free (to youth) access to mental health professionals for youth
-  with emergency needs, including counseling services   - Proactive mental
-  health first aid training for staff and college-aged mentors   - Facilitated
-  reflection sessions for mentors periodically throughout the year and
-  especially when impactful events occur (ie. violence toward racial groups,
-  school shootings)   We believe this strategy will uniquely allow us to address
-  mental health needs in our community. This suite of professionals will allow
-  us to respond more quickly to youth needs, while also strengthening our
-  capacity as leaders to support our community during challenging times. We
-  think this strategy will be more beneficial than bringing on a single staff
-  member because it will allow us to contract professionals with different
-  specialties and identities that will better serve more of our youth. It also
-  allows us to truly measure the needs and costs associated with those needs,
-  for future years.
+  with emergency needs, including counseling services - Proactive mental health
+  first aid training for staff and college-aged mentors - Facilitated reflection
+  sessions for mentors periodically throughout the year and especially when
+  impactful events occur (ie. violence toward racial groups, school shootings)
+  We believe this strategy will uniquely allow us to address mental health needs
+  in our community. This suite of professionals will allow us to respond more
+  quickly to youth needs, while also strengthening our capacity as leaders to
+  support our community during challenging times. We think this strategy will be
+  more beneficial than bringing on a single staff member because it will allow
+  us to contract professionals with different specialties and identities that
+  will better serve more of our youth. It also allows us to truly measure the
+  needs and costs associated with those needs, for future years.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   To date, we have identified some needs within our community and have begun
   talking with professionals that are interested in the contract work. Some
@@ -85,6 +84,7 @@ What is the problem that you are seeking to address?: >-
   serve youth realistic for future fundraising? Do we have the correct policies
   in place to manage the strategy? Is this strategy replicable?
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '70'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '350'
 Describe how Los Angeles County will be different if your work is successful.: >-
   We hope to pilot a strategy that could be replicated at other youth programs
   that don’t already serve the mental health needs of their participants. Youth

@@ -50,7 +50,7 @@ What is the problem that you are seeking to address?: >-
   challenges. The students we serve are mostly (93%+) from low-income or very
   low-income households in South/Central Los Angeles, Watts, Lennox and
   surrounding areas. Approximately 75% of students attending these schools
-  identify as Hispanic/Latina and 21% identify as Black/African American.  Youth
+  identify as Hispanic/Latina and 21% identify as Black/African American. Youth
   in these areas must overcome a myriad of systemic barriers to success,
   including poverty, food insecurity, racism and homelessness. They contend with
   higher crime rates, more gang activity and fewer amenities than peers in
@@ -63,7 +63,7 @@ What is the problem that you are seeking to address?: >-
   Our combination of long-lasting mentoring relationships, pro-girl environment
   and research-based curriculum equips girls in low-income, underserved
   communities to navigate and overcome gender and socio-economic barriers to
-  their success.  Girls Inc. delivers programs to girls in grades K-12 that make
+  their success. Girls Inc. delivers programs to girls in grades K-12 that make
   a significant impact on numerous areas of their lives, from social skills to
   college prep. Skilled program leaders, many of whom come from the communities
   in which they teach, deliver educational enrichment curriculum during the
@@ -87,15 +87,16 @@ What is the problem that you are seeking to address?: >-
   participate in the annual Girls Inc. national Strong, Smart, Bold Outcomes
   Survey (SSBOS), measuring attitudes, dietary habits, activity levels, academic
   interest, diligence and investment. Girls also self-report their grades each
-  year, which gives us another data point.  Our most recent SSBOS results
+  year, which gives us another data point. Our most recent SSBOS results
   provided these data points: 60% of Girls Inc. L.A. girls report they finish
   all their homework all the time, while another 28% finish all of it most of
   the time; 70% said they will definitely or probably go to graduate school to
   get a Masters, Medical Degree, Law Degree, or Doctorate when asked how far
   they think they’ll go in school; 76% of girls said even when they get bad
   grades, they don’t ever give up; and 94% agreed that they think science is fun
-  and interesting. 
+  and interesting.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '1800'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '325'
 Describe how Los Angeles County will be different if your work is successful.: >-
   A 2-year study by The American Institutes for Research (AIR) shows that Girls
   Inc. girls stand out as leaders across multiple indicators, exhibiting the

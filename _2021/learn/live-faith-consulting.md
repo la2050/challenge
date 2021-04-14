@@ -40,11 +40,11 @@ What is the problem that you are seeking to address?: >-
   still seen as a footnote. In 2014, President Barack Obama announced a national
   initiative called My Brother’s Keeper to improve the lives of young Black men.
   A few months later, Kimberle Crenshaw, a professor and scholar of race theory,
-  wrote an opinion article titled “The Girls Obama Forgot.”  Black women need
+  wrote an opinion article titled “The Girls Obama Forgot.” Black women need
   workplaces and experiential learning opportunities where they are a priority,
   their challenges are acknowledged, and their authenticity is celebrated. These
   women need career paths, professional experiences, and life skills to break
-  the poverty cycle and achieve a prosperous life.  Black women earn $0.63 for
+  the poverty cycle and achieve a prosperous life. Black women earn $0.63 for
   every dollar earned by white men, highlighting the income inequality in our
   country. Black women not only need supportive workplaces, they need
   opportunities to earn fair wages and tangible skills to advocate for equal
@@ -58,13 +58,13 @@ What is the problem that you are seeking to address?: >-
   industries including consulting, healthcare, engineering, banking,
   construction, and IT. By 2023, 80% of organizations will utilize a project,
   program, or product management office to deliver outputs. On average, these
-  individuals earn a 22% higher salary compared to those without a PMP.  The
+  individuals earn a 22% higher salary compared to those without a PMP. The
   Summer Internship is a 10-week program introducing students to PM and the
   world of business. The students will complete the course work to earn their
   Certified Associate in Project Management Certification and gain applied
   learning experience through supporting firm projects. Students will be offered
-  the opportunity to join the firm’s Associate Program.  The Associate Program
-  is offered year around for graduates of the Summer Internship Program or
+  the opportunity to join the firm’s Associate Program. The Associate Program is
+  offered year around for graduates of the Summer Internship Program or
   postgraduate students. This program is designed to support firm projects and
   provide students with work experience on the pathway towards earning their PMP
   Certification and/or to gain professional experience and transferable skills.
@@ -78,13 +78,14 @@ What is the problem that you are seeking to address?: >-
   career path # of College Graduates (Associate’s Degree) - Shows firm’s ability
   to support students on their educational journey while in program Job
   Placement Rate - Shows students have developed skills needed to transition to
-  desired career paths  Associate Program Metrics: # of College Graduates
+  desired career paths Associate Program Metrics: # of College Graduates
   (Associate’s, Bachelor’s, Master’s) - Similar to Intern Program # of Full Time
   Hires - Shows interest in PM as a career. Hiring shows they’ve fully mastered
   skills needed to work in PM field Job Placement Rate - Similar to Intern
   Program # of PMP Certifications - Long-term goal (3 - 5 years after program)
   due to hours of work experience required for exam
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '10'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '30'
 Describe how Los Angeles County will be different if your work is successful.: >-
   To launch our Internship Program, the first group of students entering the
   LIVE & FAITH Consulting ecosystem will come from community colleges in
@@ -92,12 +93,12 @@ Describe how Los Angeles County will be different if your work is successful.: >
   students in 2022, the firm is targeting students throughout Los Angeles
   County. As the program begins to scale, the firm will then work with high
   school students to introduce the career of project management and encourage
-  students to start to dream at an earlier stage.  As our firm reaches more
-  young Black women in Los Angeles, we believe that through each woman a career
-  is started, a family is impacted and eventually a whole community. Our vision
-  is to increase awareness of the project management career path, provide
-  training, mentorship, and applied learning experience to Black women, and
-  support these women along their educational and career journey.
+  students to start to dream at an earlier stage. As our firm reaches more young
+  Black women in Los Angeles, we believe that through each woman a career is
+  started, a family is impacted and eventually a whole community. Our vision is
+  to increase awareness of the project management career path, provide training,
+  mentorship, and applied learning experience to Black women, and support these
+  women along their educational and career journey.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Capacity-building and training,Strategy

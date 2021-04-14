@@ -16,8 +16,8 @@ organization_instagram: '@veniceica'
 Describe the mission of your organization.: >-
   We are devoted to identifying, protecting and sustaining the diversity, unique
   stories, history, art and culture of one of the most important centers of
-  independent artistic expression -  Venice Beach/Southern California. We
-  present the art world from the perspective of its artists, writers, curators,
+  independent artistic expression - Venice Beach/Southern California. We present
+  the art world from the perspective of its artists, writers, curators,
   collectors, and the art viewing public.
 project_description: >-
   We mentor youth and young adults from low income families to help them make
@@ -72,23 +72,24 @@ What is the problem that you are seeking to address?: >-
   will mentor and instruct these youth and young adults in real world projects
   in skills such as arts administration, education, documentation, conservation,
   support staff, and infrastructure that they can use to succeed in the art
-  world, and any other world they choose to live in thereafter.  
+  world, and any other world they choose to live in thereafter.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   We have worked with the Felix Organization and the LA Unified School District
   to identify and mentor youth in the arts, and are keeping in touch with them
   to see progress in our efforts. In their regular reports, they have identified
   and implemented demonstrably successful programs and we emulate and expand
-  upon.  Most importantly we plan to keep in touch with our mentees and
+  upon. Most importantly we plan to keep in touch with our mentees and
   supporters to document evidence of the sustained success of the people we
   serve.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '100'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1500'
 Describe how Los Angeles County will be different if your work is successful.: >-
   If our work is successful, we will provide the art world with a much needed
-  infusion of people  previously marginalized, formerly at risk youth, and
-  people of color that the art world needs. For us to be a truly diverse
-  community we must embrace and empower everyone who has the goal to speak
-  freely, especially our young people. We must provide the environment to help
-  people tell the stories that matter to them, and to us. 
+  infusion of people previously marginalized, formerly at risk youth, and people
+  of color that the art world needs. For us to be a truly diverse community we
+  must embrace and empower everyone who has the goal to speak freely, especially
+  our young people. We must provide the environment to help people tell the
+  stories that matter to them, and to us.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or
@@ -106,6 +107,6 @@ Indicate any additional LA2050 goals your project will impact.:
   - ' LA is the healthiest place to LIVE'
 year: 2021
 filename: venice-institute-of-contemporary-art
-order: 80
+order: 81
 
 ---

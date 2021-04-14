@@ -87,15 +87,16 @@ What is the problem that you are seeking to address?: >-
   a more positive attitude toward themselves, 72% of members find their life to
   be more meaningful, and 86% of members feel more satisfied with their lives.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '122'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '350'
 Describe how Los Angeles County will be different if your work is successful.: >-
   BoMF defines success as sustainable, long-term employment supporting
   individuals in breaking the cycle of poverty and homelessness. Through the
-  BoMF Next Steps program, 80 individuals will gain meaningful employment. 
+  BoMF Next Steps program, 80 individuals will gain meaningful employment.
   BoMF’s transformational impact and vision expand to our broader communities as
   well. As volunteers from our surrounding LA communities engage with members in
   our initial programming and through Next Steps, impactful relationships are
-  built and barriers are broken down for the entire LA community.  Our program
-  is also cost-effective with an economic impact on the Greater Los Angeles
+  built and barriers are broken down for the entire LA community. Our program is
+  also cost-effective with an economic impact on the Greater Los Angeles
   community. On average, the cost to serve one individual experiencing
   homelessness in LA is $34,000 annually while the cost for BoMF to serve one
   member through our highly individualized program is a one-time investment of

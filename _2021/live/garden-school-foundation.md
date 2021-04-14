@@ -78,7 +78,7 @@ What is the problem that you are seeking to address?: >-
   crafting a permanent Service Agreement for GSF.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   We measure the impact of our program by the: 1) amount of food waste diverted
-  from the cafeteria to the compost piles; 2)  amount of unused food that we
+  from the cafeteria to the compost piles; 2) amount of unused food that we
   recover from the cafeteria and redistribute to the school community, both at
   lunch and after school; 3) number of other GSF schools that have adopted the
   program; and 4) number of opportunities we have to share our results via
@@ -92,6 +92,7 @@ What is the problem that you are seeking to address?: >-
   landfill was over 9,000 lbs. See the full 2019-20 24th St. stats archive:
   https://bit.ly/3d6hhTF.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '1398'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1450'
 Describe how Los Angeles County will be different if your work is successful.: >-
   From a City-funded pilot in 2018, we’ve built our program slowly over three
   years, fine tuning and collecting data. During the grant year, we’ll prove

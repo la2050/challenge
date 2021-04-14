@@ -2,7 +2,7 @@
 application_id: '8687191418'
 title: Access! Outdoor Sculpture in West LA
 organization_description: Nonprofit
-project_video: ''
+project_video: 'https://vimeo.com/artmusela/academyaccess'
 link_donate: 'https://www.artmusela.com/art-muse-academy'
 link_volunteer: ''
 link_newsletter: ''
@@ -52,13 +52,13 @@ What is the problem that you are seeking to address?: >-
   outdoor sculpture is found, from Beverly Hills and Century City to the campus
   of UCLA. We envision this project Access! Outdoor Sculpture in West LA as a
   pilot that can serve as a model for similar accessible guides to public art
-  found in other LA neighborhoods, for example in downtown LA and South LA.  
+  found in other LA neighborhoods, for example in downtown LA and South LA.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Art Muse initiated the outdoor sculpture project in January 2021 with the idea
   of encouraging the public to make better use of outdoor art spaces. In this
   way we encourage art appreciation in open-air environments during the covid-19
   pandemic when restricted admission to museums and other arts institutions is
-  enforced.   Our plan is to determine the content and format for the guide over
+  enforced. Our plan is to determine the content and format for the guide over
   the spring and summer by researching best practices for visitor engagement
   with public art collections (audio and written guides, QR codes, video
   highlights, and family activities). We will begin working on the research and
@@ -71,17 +71,17 @@ What is the problem that you are seeking to address?: >-
   to the initial development of the West LA Public Sculpture Guide. We will
   consult with artists working with the Arts & Disability Program at UCLA as
   well as organizations focused on specific disabilities: visually impaired,
-  deaf and hard of hearing, and mobility.   If funding is secured, we will
+  deaf and hard of hearing, and mobility. If funding is secured, we will
   schedule monthly weekend get-togethers for community and family groups,
-  starting with pilot programs in the early 2022. 
+  starting with pilot programs in the early 2022.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Coordination, cooperation, and input. Our first measure of success for this
   new project is to establish coordinated, open lines of communication with and
   among the various stakeholders which currently include the Century City
   Chamber of Commerce, The Arts Council, City of Beverly Hills Art & Cultural
-  Events, and the Hammer Museum.  With their input and knowledge of each other's
+  Events, and the Hammer Museum. With their input and knowledge of each other's
   commitment to the project, the final West LA outdoor sculpture access will
-  reflect cooperation within the community as a whole.  Another measure of
+  reflect cooperation within the community as a whole. Another measure of
   success is to solicit input from a group of consultants-- artists, educators,
   disability advocates, and specialists-- to inform the design and content of
   the guide and its formats in order to effectively address special needs for
@@ -89,20 +89,21 @@ What is the problem that you are seeking to address?: >-
   focus groups to determine effectiveness and areas for refinement before
   launching the public Access! Outdoor Sculpture in West LA.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '50'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '500'
 Describe how Los Angeles County will be different if your work is successful.: >-
-  Access!  Outdoor Sculpture in West LA will stimulate access to fine art for
-  all Angelenos as well as visitors to our city.  Participants will learn about
-  their city's neighborhoods through visits to public art venues, starting with
-  West LA.  These visits will be enhanced by informative, engaging guides,
-  offered in a variety of formats in order to offer access to art for all
-  people.  In particular, the formats of the guides will be developed to give
-  access to public art for people with disabilities by addressing particular
-  needs such as verbal descriptions and "touch" tours for the visually impaired
-  and identifying particular sculpture that can be easily approached for those
-  participants with mobility disabilities.  We will consult with specialists to
+  Access! Outdoor Sculpture in West LA will stimulate access to fine art for all
+  Angelenos as well as visitors to our city. Participants will learn about their
+  city's neighborhoods through visits to public art venues, starting with West
+  LA. These visits will be enhanced by informative, engaging guides, offered in
+  a variety of formats in order to offer access to art for all people. In
+  particular, the formats of the guides will be developed to give access to
+  public art for people with disabilities by addressing particular needs such as
+  verbal descriptions and "touch" tours for the visually impaired and
+  identifying particular sculpture that can be easily approached for those
+  participants with mobility disabilities. We will consult with specialists to
   confirm the sculpture is placed in accordance with ADA guidelines. Ultimately,
   Access! will celebrate the public arts found in the parks and open spaces of
-  Los Angeles. 
+  Los Angeles.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Hosting virtual events or gatherings,Communications support,Strategy

@@ -59,7 +59,7 @@ What is the problem that you are seeking to address?: >-
   This grant will primarily fund student projects, especially underprivileged
   students, increasing representation in creative, technological,
   entrepreneurial, and social change fields, as these are the most
-  underrepresented in this cultural climate.   The curriculum consists of
+  underrepresented in this cultural climate. The curriculum consists of
   workshops on personal boundaries/consent, healthy relationships, and financial
   planning, which provides a basis for project development and implementation
   (grant proposals, piloting, and reassessment), empowering them through a
@@ -69,7 +69,7 @@ What is the problem that you are seeking to address?: >-
   change methods are useful long after their individual project is completed and
   applicable to many fields. We give them a safe place to create, which will
   ripple through their lives and community, ultimately affecting many through
-  this social change. 
+  this social change.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   This project began as The Why Project in 2020 but has expanded to include a
   more holistic curriculum and purpose. Our pilot program targeted New Designs
@@ -77,15 +77,15 @@ What is the problem that you are seeking to address?: >-
   40+ students (~75% of students approached). Unfortunately, after our pilot
   meeting, schools were shut down due to COVID. We used this time to refine and
   expand our curriculum. With vaccination updates and student safety in mind, we
-  will continue the program in person this upcoming school year.   Moving
-  forward, considering our past numbers, we plan on involving at least 3 schools
-  to reach our intended direct impact. Based on the interest generated from our
-  pilot project, it is clear that we meet a real need experienced by students.
-  Initial measures of success involve student engagement but would later expand
-  to include project milestones (research, funding/grants, pilot,
-  implementation, refinement) and survey results of student satisfaction and
-  confidence.
+  will continue the program in person this upcoming school year. Moving forward,
+  considering our past numbers, we plan on involving at least 3 schools to reach
+  our intended direct impact. Based on the interest generated from our pilot
+  project, it is clear that we meet a real need experienced by students. Initial
+  measures of success involve student engagement but would later expand to
+  include project milestones (research, funding/grants, pilot, implementation,
+  refinement) and survey results of student satisfaction and confidence.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '150'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '2000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Our empowerment of underprivileged students to pursue passions that may not be
   supported in school curriculum would lead to more informed citizenship while

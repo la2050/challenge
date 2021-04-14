@@ -64,20 +64,34 @@ What is the problem that you are seeking to address?: >-
   elements include: mentoring, academic support, clinical mental health support,
   leadership development opportunities, community service experiences, life
   skills and family engagement activities that strengthen familial protective
-  factors.  The program is unique in its participant population of youth and
+  factors. The program is unique in its participant population of youth and
   families most impacted by Pasadena’s inequities and systems of poverty,
   violence and incarceration. The program specifically targets Pasadena youth at
   high-risk of justice involvement – as determined by: credit deficiency;
   failing grades; chronic truancy; or exposure to multiple ACEs including
   familial incarceration – and youth diverted to our services by the Pasadena
-  Police Department in lieu of justice involvement.  Through this grant, we will
+  Police Department in lieu of justice involvement. Through this grant, we will
   launch a stipend initiative for YOP participants in which youth receive modest
   financial compensation for each hour of program engagement. Beyond
   incentivizing engagement with program activities, stipends compensate youth
   for investing in themselves. Financial stipends are an evidence-based
   intervention that support positive social emotional outcomes for youth.
-'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': "YOP is modeled after the Eisenhower Quantum Opportunities Program (QOP), an evidenced-based framework that posits that a combination of educational support, service opportunities, youth development opportunities, and financial stipends will improve academic and socioemotional skills. While YOP has been in operation since 2015, financial stipends will be a new initiative made possible by this funding.  Outcomes for the 2019-2020 school year include:  •\t85% of youth did not enter or return to the justice system  •\t90% of youth decreased or did not demonstrate high-risk behavior, demonstrated by decreased discipline reports and noted changes in behavior.  •\t85% of youth participating for one year or more demonstrated improvements in interpersonal communication, conflict resolution and self-management.   The new stipend initiative will be evaluated by measuring 2021-2022 outcomes against the above metrics and evaluating youth engagement and retention in program activities."
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  YOP is modeled after the Eisenhower Quantum Opportunities Program (QOP), an
+  evidenced-based framework that posits that a combination of educational
+  support, service opportunities, youth development opportunities, and financial
+  stipends will improve academic and socioemotional skills. While YOP has been
+  in operation since 2015, financial stipends will be a new initiative made
+  possible by this funding. Outcomes for the 2019-2020 school year include: •
+  85% of youth did not enter or return to the justice system • 90% of youth
+  decreased or did not demonstrate high-risk behavior, demonstrated by decreased
+  discipline reports and noted changes in behavior. • 85% of youth participating
+  for one year or more demonstrated improvements in interpersonal communication,
+  conflict resolution and self-management. The new stipend initiative will be
+  evaluated by measuring 2021-2022 outcomes against the above metrics and
+  evaluating youth engagement and retention in program activities.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '100'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '500'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Exposure to trauma and adverse childhood experiences (ACEs) can cause severe
   or persistent harm, also known as toxic stress that disrupts brain development

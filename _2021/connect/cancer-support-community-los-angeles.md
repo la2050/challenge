@@ -15,7 +15,7 @@ organization_facebook: 'https://www.facebook.com/CancerSupportLA/'
 organization_instagram: '@cancersupportla'
 Describe the mission of your organization.: >-
   To ensure that all people impacted by cancer are empowered by knowledge,
-  strengthened by action and sustained by community. 
+  strengthened by action and sustained by community.
 project_description: >-
   We provide education, support & community to everyone in L.A. affected by
   cancer, particularly through our psychosocial support groups that help to
@@ -23,7 +23,7 @@ project_description: >-
   strategic plan, we are focusing our efforts on extending programming to the
   most underserved populations, with an eye to particular challenges faced by
   cancer patients & caregivers of color, and those that are LGBTQ+ and have
-  disabilities.                                                                                       
+  disabilities.
 category: connect
 connect_metrics: >-
   Social and emotional support, LGBTQ+ equity and inclusion, Disability access
@@ -49,7 +49,7 @@ What is the problem that you are seeking to address?: >-
   There are roughly 1.8 million new cancer diagnoses in the US each year. 5.42%
   of the American population has cancer. In 2017, there were 14,600 cancer
   deaths in L.A. County alone. Each cancer diagnosis brings trauma and stress
-  for everyone involved.  A survey of cancer in L.A. reveals what CSCLA already
+  for everyone involved. A survey of cancer in L.A. reveals what CSCLA already
   knows: cancer and its associated financial stress is disproportionately
   visited on Angelenos of color. Black men have the highest incidence rate for
   all cancers among men, and Black women the third highest. Hawaiian/Samoan
@@ -67,7 +67,7 @@ What is the problem that you are seeking to address?: >-
   workshops; and, child, teen and family programs—for all ages, all diagnoses,
   at all stages, and for the whole family. Because of the Cancer Support
   Community’s global efforts, these services are now considered to be an
-  integral part of quality cancer care.  The participants will benefit from our
+  integral part of quality cancer care. The participants will benefit from our
   evidence-based psychosocial support group model, which is proven to have
   positive effects on cancer patients’ anxiety and depression, especially when
   they had high levels of distress before starting the group. Support groups
@@ -82,16 +82,16 @@ What is the problem that you are seeking to address?: >-
   seen since our inception in 1982. These effects are measured through the
   number of participants in our programs; number of new participants,
   particularly members of Los Angeles minority groups; and results from our
-  CancerSupportSource Distress Screening Survey.  The use of
-  CancerSupportSource® Distress Screening Surveys is based on our knowledge that
-  routine screening for social and emotional distress is a key component to
-  comprehensive quality cancer care and is a recommendation of the 2008
-  Institute of Medicine’s Report, Cancer Care for the Whole Patient, Meeting
-  Psychosocial Health Needs and also the new patient-centered standards from the
-  American College of Surgeon’s Commission on Cancer which state that beginning
-  in 2015, all cancer patients must be screened for distress if seen in an
-  accredited cancer center. 
+  CancerSupportSource Distress Screening Survey. The use of CancerSupportSource®
+  Distress Screening Surveys is based on our knowledge that routine screening
+  for social and emotional distress is a key component to comprehensive quality
+  cancer care and is a recommendation of the 2008 Institute of Medicine’s
+  Report, Cancer Care for the Whole Patient, Meeting Psychosocial Health Needs
+  and also the new patient-centered standards from the American College of
+  Surgeon’s Commission on Cancer which state that beginning in 2015, all cancer
+  patients must be screened for distress if seen in an accredited cancer center.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '2500'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '40000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   If successful, all residents of Los Angeles county impacted by cancer will
   know of Cancer Support LA’s services, and exercise the option to participate

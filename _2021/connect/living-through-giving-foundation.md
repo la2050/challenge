@@ -62,11 +62,12 @@ What is the problem that you are seeking to address?: >-
   networks reach tens of thousands of individuals who engage with us. Many folks
   have expressed interest in joining events, with the hope that meals would be
   distributed in areas near their own homes, such as beach cities, mid city,
-  Hollywood, Koreatown, and around downtown Los Angeles.  This current time is
+  Hollywood, Koreatown, and around downtown Los Angeles. This current time is
   unique, however, in that we will request volunteers to RSVP in advance, and to
   the nature of their participation, so that we do our part in keeping this
   initiative safe and socially distanced.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '48000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1200'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Our impact is to address food insecurity, feed a large number of people
   experiencing homelessness in the LA area, and connect LA residents through a
@@ -74,10 +75,10 @@ Describe how Los Angeles County will be different if your work is successful.: >
   empowers the community to further implement their service driven mindset and
   increase their community impact of giving forward in their lives, outside of
   our events. We seek to bring awareness to our community, to inspire fellow
-  Angelenos to live with a standard of good, unique in its own right.  Our goal
+  Angelenos to live with a standard of good, unique in its own right. Our goal
   is to connect Angelenos through inspiring and empowering give-back
   initiatives, using food as our catalyst for change, hoping to change the
-  hearts and minds of residents of Los Angeles, one lunchbag at a time. 
+  hearts and minds of residents of Los Angeles, one lunchbag at a time.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or

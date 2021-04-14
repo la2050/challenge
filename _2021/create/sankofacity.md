@@ -23,8 +23,8 @@ project_description: >-
   SankofaCity ZEMTE initiative will use grant funding to continue providing free
   on-demand shuttle services and e-bike rentals by extension of the quick start
   LACI ZEMCP, Leimert Park Multimodal Transportation efforts, currently
-  available since fall 2020.  Interim funding is necessary to avoid gaps in the
-  aforementioned mobility services through the end of 2021.  Alternative grant
+  available since fall 2020. Interim funding is necessary to avoid gaps in the
+  aforementioned mobility services through the end of 2021. Alternative grant
   funding is allocated for a transition towards a Leimert Park community-owned
   and operated transportation provider solution, scheduled to launch services in
   early 2022.
@@ -44,11 +44,11 @@ What is the problem that you are seeking to address?: >-
   multimodal connectivity and shared mobility services, high incidence of
   pedestrian/cyclist injuries/fatalities due to vehicle collisions,
   cost-burdened households with above-average housing/transportation expenses,
-  poor air quality, and low vehicle-ownership rates.  Sankofacity transportation
+  poor air quality, and low vehicle-ownership rates. Sankofacity transportation
   needs assessment reports, based on extensive community engagement with GLPVCC
   stakeholders, indicate significant gaps in the availability of affordable and
   safe transportation options, which residents of all ages need to access jobs,
-  education, and other essential services.  GLPVCC community stakeholders also
+  education, and other essential services. GLPVCC community stakeholders also
   indicated concerns regarding parking, traffic congestion, and adverse health
   effect due to poor air quality issues.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
@@ -84,17 +84,18 @@ What is the problem that you are seeking to address?: >-
   extending and expanding mobility services over the next year, in parallel with
   recently secured 5-year grant funding. Based on LACI ZEMCP findings, the
   GLPVCC community is most engaged with demand-responsive shuttle service and
-  less receptive to e-bike library rentals.  Thus funding would in part be
+  less receptive to e-bike library rentals. Thus funding would in part be
   utilized to provide more than 6 times the LACI ZEMCP.weekly shuttle hours of
   service.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '1000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '57993'
 Describe how Los Angeles County will be different if your work is successful.: >-
   SankofaCity empowers GLPVCC communities to self-sufficiently co-operate and
   maintain Zero Emission Multimodal Transportation with support from CBOs and
   Mobility Providers, collaboratively offering operational oversight and
   technical expertise; thus providing unique local economic development,
   intellectual property, jobs, and skills-training opportunities that socialize
-  innovative mobility futures and track operational best practices.  Utilizing
+  innovative mobility futures and track operational best practices. Utilizing
   co-operative and revenue-sharing business models SankofaCity redistributes
   profits directly back into under-served Angeleno communities to build both
   individual and collective assets for the neighborhoods serviced. Most

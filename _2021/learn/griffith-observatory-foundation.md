@@ -18,13 +18,13 @@ Describe the mission of your organization.: >-
   The mission of Griffith Observatory Foundation is to support and promote
   Griffith Observatory as a home for science literacy, education, and public
   astronomy through resource development and advocacy in partnership with the
-  community. 
+  community.
 project_description: >-
   The Griffith Observatory Online School Program will take every single fifth
   grader in Los Angeles County on a stimulating, free, virtual visit to Griffith
   Observatory! The program’s five space-science modules, all presented live via
   Zoom, will show students that studying STEM subjects is fun and can be
-  achieved by anyone, no matter what their background is.  
+  achieved by anyone, no matter what their background is.
 category: learn
 connect_metrics: ''
 create_metrics: ''
@@ -47,10 +47,10 @@ What is the problem that you are seeking to address?: >-
   groups—particularly Hispanics and African Americans—in STEM careers. As long
   as these underserved populations continue to be deprived of educational
   opportunities early in life, test scores will remain low, and students will
-  keep believing that STEM subjects and careers are out of their reach.   *“Test
+  keep believing that STEM subjects and careers are out of their reach. *“Test
   Results at a Glance.” California Assessment of Student Performance and
   Progress, California Department of Education,
-  https://caaspp-elpac.cde.ca.gov/caaspp/ 
+  https://caaspp-elpac.cde.ca.gov/caaspp/
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   The Griffith Observatory Online School Program will provide free and fun
   informal STEM education to every single fifth grader in Los Angeles County
@@ -65,31 +65,32 @@ What is the problem that you are seeking to address?: >-
   All of the program’s content was specifically designed to meet the State of
   California’s Next Generation Science Standards and fifth-grade curriculum, and
   each module will be accompanied by a packet of teacher and student materials
-  that will help reinforce this content in the classroom. 
+  that will help reinforce this content in the classroom.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Once the program is up and running, we will send a follow-up survey to each
   participating teacher in order to gauge the program’s impact on students’
-  interest in STEM topics and engagement in the classroom.   The Online School
+  interest in STEM topics and engagement in the classroom. The Online School
   Program is based on the long-running School Field Trip program, so we expect
   it to have similar results. Our 2019 School Field Trip Program surveys
-  revealed the following:  ● 90% of respondents said the field trip was in the
+  revealed the following: ● 90% of respondents said the field trip was in the
   top 10% of field trips they have ever been on; 80% said their students were “a
-  lot more engaged in the Observatory School Program than other field trips.”  ●
+  lot more engaged in the Observatory School Program than other field trips.” ●
   82% said their students were more excited about science learning AFTER the
-  Observatory field trip.  ● 98% indicated that the program reinforced content
-  or science skills previously emphasized in the classroom.  
+  Observatory field trip. ● 98% indicated that the program reinforced content or
+  science skills previously emphasized in the classroom.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '100000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '300000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   The Online School Program will ensure that kids in LA County from all
   backgrounds, including those most underrepresented in STEM career fields, have
   access to STEM education at a young age. Our goal is to start leveling the
   playing field by making students aware of the possibilities of STEM and
-  helping them see that everyone can study and enjoy it.   Because the Los
-  Angeles Unified School District contains so many students from underserved
+  helping them see that everyone can study and enjoy it. Because the Los Angeles
+  Unified School District contains so many students from underserved
   populations—73.4% of students are Latinx, and 10% are African American*—we are
   uniquely positioned to bring STEM education to the populations who are most
   underrepresented in STEM career fields and. Over time, we will help build a
-  diverse and flourishing STEM workforce in Los Angeles.   *“Los Angeles Unified
+  diverse and flourishing STEM workforce in Los Angeles. *“Los Angeles Unified
   School District.” Los Angeles Regional Adult Education Consortium,
   https://laraec.net/los-angeles-unified-school-district/.
 Describe the role of collaborating organizations on this project.: ''

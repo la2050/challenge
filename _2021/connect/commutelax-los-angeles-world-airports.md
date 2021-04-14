@@ -18,7 +18,7 @@ Describe the mission of your organization.: >-
   transportation solutions to LAX employees by promoting efficient commute
   choices, reducing traffic congestion, enhancing mobility options that increase
   access to LAX and improving air quality by subsidizing transit passes and
-  providing carpool/vanpool matching services. 
+  providing carpool/vanpool matching services.
 project_description: >-
   LAX was the third-busiest airport in the world in 2019, and with more
   travelers returning to the skies, tens of thousands of airport workers will
@@ -27,7 +27,7 @@ project_description: >-
   alone to work. That's A LOT of cars on the road, and that's why LAWA is
   launching commuteLAX, a Transportation Management Organization (TMO) designed
   to help LAX employees find alternative modes of transportation to ease their
-  commute to work. 
+  commute to work.
 category: connect
 connect_metrics: >-
   Government responsiveness to residents’ needs, Travel time to work, Public
@@ -63,11 +63,11 @@ What is the problem that you are seeking to address?: >-
   alternative commute options like transit, carpools, vanpool, and active
   transportation programs. commuteLAX is a monumental step forward to help LAX
   bounce back stronger than before. Changing our travel mindset and commute
-  behavior, one employee at a time.  
+  behavior, one employee at a time.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   commuteLAX will serve as a one-stop shop for transportation information,
   resources, and services for all LAX employees and employers, including
-  airlines, concessionaires, and contractors.  The commuteLAX service will
+  airlines, concessionaires, and contractors. The commuteLAX service will
   officially launch in Summer 2021 and offer employee commute programs such as
   personalized transit trip planning, carpool and vanpool matching, secure bike
   lockers, and public bike racks. The grant will be used to expand our vanpool
@@ -75,7 +75,7 @@ What is the problem that you are seeking to address?: >-
   events like Rideshare Week and Earth Day, and incentivize alternative commute
   trips by providing discounted or free transit passes, gift cards, gas cards,
   car washes, and Guaranteed Ride Home trips, which are available for commuteLAX
-  participants who experience an emergency and need to get home right away. 
+  participants who experience an emergency and need to get home right away.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Employees who participate in commuteLAX will report their alternative commute
   trips, we will in turn be able to track and calculate vehicle miles, gallons
@@ -83,8 +83,9 @@ What is the problem that you are seeking to address?: >-
   and used to calculate environmental impacts and track the success of the
   program. Our short-term goal in the first year is to bring awareness of the
   program to employees and guide them to alternative commute options. Our
-  long-term goal is to reduce employee trips to the airport by 20 percent. 
+  long-term goal is to reduce employee trips to the airport by 20 percent.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '50000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '260696'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Historically, the perennial joke in Los Angeles is that the greatest act of
   friendship is to pick someone up at LAX. Imagine making that drive every
@@ -92,13 +93,13 @@ Describe how Los Angeles County will be different if your work is successful.: >
   quality of life while reducing traffic and our carbon footprint. As a
   notoriously congested employment center within LA County, we must focus on
   changing employee travel behavior by encouraging and incentivizing the use of
-  alternative commute modes as employees return to work.  With the 2022 NFL
-  Super Bowl, 2022 MLB All-Star Game, the 2028 Olympic and Para-Olympic Games,
-  and other large-scale events coming to Los Angeles and surrounding cities, LAX
+  alternative commute modes as employees return to work. With the 2022 NFL Super
+  Bowl, 2022 MLB All-Star Game, the 2028 Olympic and Para-Olympic Games, and
+  other large-scale events coming to Los Angeles and surrounding cities, LAX
   will be the first stop for many visitors. Our efforts will help improve
   traffic for travelers, employees, and the nearby community. Reducing traffic
   at the airport is one of the ways we'll serve our community, ending the joke
-  by making it irrelevant. 
+  by making it irrelevant.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: Strategy assistance and implementation
 Please list the organizations collaborating on this proposal.: ''

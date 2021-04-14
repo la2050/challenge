@@ -18,7 +18,7 @@ Describe the mission of your organization.: >-
   entrepreneurial mindset and build start-up skills in youth from
   under-resourced communities to ensure their success and to create a more
   vibrant society. Since 1987, NFTE has educated 1.2 million young people
-  worldwide and helped thousands launch businesses. 
+  worldwide and helped thousands launch businesses.
 project_description: >-
   The Network for Teaching Entrepreneurship (NFTE) activates the entrepreneurial
   mindset and builds start-up skills in youth from under-resourced communities
@@ -46,7 +46,7 @@ What is the problem that you are seeking to address?: >-
   students who do go on to college, many will be the first in their families.
   NFTE counters these challenges by providing students with new opportunities
   that give them skills, confidence, and know-how to recognize opportunities,
-  develop talents, discover potential, and chart their own course.  
+  develop talents, discover potential, and chart their own course.
   Entrepreneurship changes the way young people see their futures. And when that
   happens, they succeed personally, educationally, and professionally – and
   communities are stronger. Through the lens of entrepreneurship, NFTE brings
@@ -66,13 +66,13 @@ What is the problem that you are seeking to address?: >-
   these young entrepreneurs are providing sustainable opportunities that can
   create access to training, technical assistance, and financing. The overall
   impact of such examples of inclusive capitalism will help level the playing
-  field across entire communities.     NFTE is nurturing the next generation of
+  field across entire communities. NFTE is nurturing the next generation of
   diverse young entrepreneurs and building a world where all young people will
   have equitable access to economic opportunity. We believe diverse
   entrepreneurs can drive innovation and economic growth – and that lifts
   communities. When every young person can reach their full potential, families
   can build generational wealth, communities can thrive, and the country can
-  build an economy that is both vibrant and inclusive. 
+  build an economy that is both vibrant and inclusive.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Through this initiative, will track the following Key Performance Indicators
   (KPIs): • At least 90% of NFTE students will develop a business idea and
@@ -83,26 +83,27 @@ What is the problem that you are seeking to address?: >-
   Entrepreneurial Mindset Index). • Increased student engagement, ownership, and
   motivation (career and college aspirations) • Development of career-ready
   skills • Students are prepared for business startup, workforce, or continued
-  education  In addition, NFTE students are being prepared for an academic and
+  education In addition, NFTE students are being prepared for an academic and
   industry-recognized credential, they will earn by passing Certiport’s
   Entrepreneurship and Small Business (ESB) exam. The ESB certification has been
   recognized by the American Council on Education for lower division (100-200
-  level) college credit. 
+  level) college credit.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '2000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '20'
 Describe how Los Angeles County will be different if your work is successful.: >-
   This last year, NFTE LA engaged 6,321 students at 48 schools, partnering with
   83 teachers throughout Los Angeles County. Our enduring commitment remains
   vital to addressing gaps and opening the doors of economic mobility to those
-  who continue to be left out.   NFTE can give students the tools, know-how,
+  who continue to be left out. NFTE can give students the tools, know-how,
   opportunities, and support to help them discover both who they want to become
-  and how to achieve it.   86% of NFTE alumni are employed or actively engaged
-  in furthering their education.  80% of NFTE alumni have earned or are earning
-  a college degree or professional certification.  25% of NFTE alumni start at
-  least one business and many go on to become serial entrepreneurs.  50% of NFTE
+  and how to achieve it. 86% of NFTE alumni are employed or actively engaged in
+  furthering their education. 80% of NFTE alumni have earned or are earning a
+  college degree or professional certification. 25% of NFTE alumni start at
+  least one business and many go on to become serial entrepreneurs. 50% of NFTE
   alumni report that they are earning more than the median salary in the U.S.
-  today.  97% of NFTE alumni have demonstrated their ability to create a
-  business plan and/or lean canvas model.   74% have competed in a business plan
-  competition at the local, regional, or national level.  
+  today. 97% of NFTE alumni have demonstrated their ability to create a business
+  plan and/or lean canvas model. 74% have competed in a business plan
+  competition at the local, regional, or national level.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or

@@ -99,6 +99,7 @@ What is the problem that you are seeking to address?: >-
   year. Currently we offer 50-60 virtual consultations and a DACA clinic each
   week, which we will expand through this project to serve more immigrants.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '360000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '2011000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   In the short term, CHIRLA will connect thousands of immigrants in LA County to
   legal services, information, and resources to educate them about new

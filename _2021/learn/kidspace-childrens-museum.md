@@ -15,7 +15,7 @@ organization_facebook: 'https://www.facebook.com/KidspaceChildrensMuseum/'
 organization_instagram: '@kidspacemuseum'
 Describe the mission of your organization.: >-
   To nurture the potential of all children through kid-driven activities,
-  inspiring them to become joyful, active learners. 
+  inspiring them to become joyful, active learners.
 project_description: >-
   An LA 2050 grant will support Kidspace’s STEAM enrichment programming for
   students from Title 1 elementary schools in Los Angeles and Pasadena. Students
@@ -53,22 +53,22 @@ What is the problem that you are seeking to address?: >-
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Funding will allow Kidspace to launch an innovative STEAM learning program for
   students from Los Angeles Unified School District (LAUSD) and Pasadena Unified
-  School District (PUSD), and for local families online, onsite, and in
-  schools.  K-5 students and their families will engage with Kidspace’s program
-  team, and our partners from Artistic Entertainment Services (AES), a renowned
-  parade float designer (and next-door neighbor to the museum), to explore the
-  design, materials, animation, story, navigation, and build of an actual
-  Tournament of Roses parade float.  Students will engage online and onsite with
-  a museum exhibition about float design and construction; family workshops
-  where they can build and decorate their own float model; online videos;
-  downloadable lesson plans and family activities; and – health guidelines
-  permitting – field trips and family access to participate in the decoration of
-  a float for the 2022 Rose Parade. This initiative builds on our experience
-  over the last year working with LAUSD’s Season of STEM program to translate
-  project-based learning for online and remote teaching using a parade float as
-  the central project.  With the return of the Rose Parade in 2022, this
-  Kidspace learning program celebrates an event with the power to connect our
-  community intellectually, physically, and emotionally.
+  School District (PUSD), and for local families online, onsite, and in schools.
+  K-5 students and their families will engage with Kidspace’s program team, and
+  our partners from Artistic Entertainment Services (AES), a renowned parade
+  float designer (and next-door neighbor to the museum), to explore the design,
+  materials, animation, story, navigation, and build of an actual Tournament of
+  Roses parade float. Students will engage online and onsite with a museum
+  exhibition about float design and construction; family workshops where they
+  can build and decorate their own float model; online videos; downloadable
+  lesson plans and family activities; and – health guidelines permitting – field
+  trips and family access to participate in the decoration of a float for the
+  2022 Rose Parade. This initiative builds on our experience over the last year
+  working with LAUSD’s Season of STEM program to translate project-based
+  learning for online and remote teaching using a parade float as the central
+  project. With the return of the Rose Parade in 2022, this Kidspace learning
+  program celebrates an event with the power to connect our community
+  intellectually, physically, and emotionally.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   When COVID-19 brought Los Angeles to a halt and left children learning at home
   for more than a year, the aforementioned inequalities in education were
@@ -82,8 +82,9 @@ What is the problem that you are seeking to address?: >-
   renowned puppeteer and Disney Imagineers to build a mechanical puppet that
   will be exhibited at Kidspace starting this summer. We are measuring
   quantitative impact – attendance, continued participation, etc. as well as
-  qualitative impact through student, parent, and teacher testimonials. 
+  qualitative impact through student, parent, and teacher testimonials.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '150'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '100000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Imagine an LA County where all children can joyfully and creatively engage
   with the world, and act as agents for their ideas and interests. Through this

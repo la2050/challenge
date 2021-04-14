@@ -72,7 +72,7 @@ What is the problem that you are seeking to address?: >-
   features a student “guest” interview in-studio and field recordings
   documenting aspects of their life—as affected by negative stereotypes.
   Inspired by the exhibition “Banish Stigma: The Power of Personal Voice and
-  Representation,”  at the Fowler Museum in UCLA, participants related to the
+  Representation,” at the Fowler Museum in UCLA, participants related to the
   concept of “stigma” in multiple cultural and historical contexts, informed by
   the photography exhibition Through Positive Eyes about people living with HIV.
   Applying the concept in their own lives, Power Over Stigma, emerged from a
@@ -95,6 +95,7 @@ What is the problem that you are seeking to address?: >-
   the USC School of Social Work to update methodology to better equip students
   with workforce skills.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '150'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   artworxLA leverages partnerships with artists/creative professionals, cultural
   centers, and higher education to realize a career “ladder,” currently

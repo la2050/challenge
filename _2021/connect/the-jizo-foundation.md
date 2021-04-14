@@ -2,7 +2,7 @@
 application_id: '4924087366'
 title: >-
   The Jizo Foundation Memorial Grieving Site Project - Connecting with
-  individuals and families to provide social and emotional support and healing 
+  individuals and families to provide social and emotional support and healing
   following the loss of an infant at or prior to birth.
 organization_description: Nonprofit
 project_video: ''
@@ -55,7 +55,7 @@ What is the problem that you are seeking to address?: >-
   grounds, presided over by the loving bodhisattva (saint) Jizo, who, according
   to mythology, rescues babies who died early from the underworld, and brings
   them to heaven, hidden in his robe. His comfort however knows no cultural
-  boundaries 
+  boundaries
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   This project will connect with families to provide emotional support and
   healing through ritual and community. We plan to purchase or lease a small
@@ -72,37 +72,38 @@ What is the problem that you are seeking to address?: >-
   Patricia understands this trauma. The idea you did something to cause it, or
   the desperation that drives trying , despite repeated miscarriages can be
   devastating.There is a world-wide need for healing and solace for these
-  victims, and our memorial sites are one way  to address that anguish.Through
+  victims, and our memorial sites are one way to address that anguish.Through
   social media we are communicating with women who are suffering, and the
   support within the group is very beneficial. But having a physical space to go
   can be even more valuable. For that reason, we plan to establish the first
-  such site in LA County, and thereafter in locations around the country 
+  such site in LA County, and thereafter in locations around the country
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Our success will be measured by the establishment of the first site and the
   number of people who we are able to help through ritual, community, and
   counseling. Our social media groups will provide a platform for spreading
   information about the sites, urging all who visit to join and follow for
-  updates and community gatherings.  As we are able to expand the program to
+  updates and community gatherings. As we are able to expand the program to
   locations beyond SoCal, we will be able to offer more comfort and healing to
   women across the country. This will hopefully lead to independent support
   groups with women supporting other women, thereby improving the lives and
-  mental health of all participants.  The success of such outreach as it
-  pertains to improved quality of life will be hard to measure, but we expect it
-  will be substantial and impactful for thousands of women.  
+  mental health of all participants. The success of such outreach as it pertains
+  to improved quality of life will be hard to measure, but we expect it will be
+  substantial and impactful for thousands of women.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '8000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '15000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   With proper funding, we will be able to establish one or more healing sites in
   Los Angeles County, and commission public art with permanent stone or marble
   Jizo sculptures from various local artists, perhaps even hold a public art
-  contest, with the winner getting the paid commission and  public recognition. 
+  contest, with the winner getting the paid commission and public recognition.
   Once established, we will foster community amongst those who visit the site,
   offer volunteer opportunities, sponsor remembrance rituals, connecting
   Angelenos who have shared experiences, and create a healing environment that
   provides social, emotional, and mental health support. Los Angeles will become
   known for recognizing the need for those thousands of women who largely suffer
-  in silence.  It is our long-term plan to spread awareness and support for this
+  in silence. It is our long-term plan to spread awareness and support for this
   unseen community through the establishment of grieving sites with public art
-  installations in multiple locations across the country.  
+  installations in multiple locations across the country.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or

@@ -56,7 +56,7 @@ What is the problem that you are seeking to address?: >-
   caregivers in California. This cross-sector state and local response system,
   consisting of a 24/7 statewide hotline and county mobile response systems, is
   designed to provide early in-home support to children, youth, and families to
-  prevent and address instability.   While FURS is now operational, much work
+  prevent and address instability. While FURS is now operational, much work
   remains to be done to ensure its effective implementation in Los Angeles
   County – where there are 22,000 children and youth currently in foster care
   (which is more than a third of all children and youth in care in California) –
@@ -67,13 +67,13 @@ What is the problem that you are seeking to address?: >-
   critical to identifying and resolving FURS implementation issues before they
   take hold. Meaningful engagement of and input from youth and caregivers
   throughout the implementation process will also be integral to ensuring FURS’
-  overall effectiveness. 
+  overall effectiveness.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   In this early-stage program, Children Now will define success by the extent of
   the outreach to children and youth currently and formerly in foster care,
   caregivers, and other child welfare stakeholders to make them aware of this
   new program and their engagement in providing feedback on FURS, including
-  needed improvements.   We will measure our success by the following metrics: •
+  needed improvements. We will measure our success by the following metrics: •
   The number of children and youth formerly and currently in foster care and
   caregivers in LA County that are informed about this new program. • The number
   of children and youth currently and formerly in foster care and caregivers in
@@ -83,6 +83,7 @@ What is the problem that you are seeking to address?: >-
   and share best practices to support children, youth, and caregivers. • The
   number of improvements elevated to the county and state for action.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '50'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '21000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Placement stability is critical to the well-being of children and youth in
   foster care, yet it remains elusive for far too many. Close to a quarter of
@@ -96,7 +97,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   preventing moves, psychiatric hospitalizations, and re-entries into foster
   care; and reducing the inappropriate criminalization of traumatized children,
   especially children and youth of color who are disproportionately negatively
-  impacted by the child welfare and juvenile justice systems. 
+  impacted by the child welfare and juvenile justice systems.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: Access to the LA2050 community
 Please list the organizations collaborating on this proposal.: ''

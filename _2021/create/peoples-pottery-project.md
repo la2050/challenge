@@ -16,15 +16,14 @@ organization_instagram: '@peoplespotteryproject'
 Describe the mission of your organization.: >-
   People’s Pottery Project’s mission is to empower formerly incarcerated women,
   trans and non-binary individuals through the power of art-making, grassroots
-  advocacy, and meaningful employment through our non-profit ceramics studio.  
+  advocacy, and meaningful employment through our non-profit ceramics studio.
 project_description: >-
   People’s Pottery Project’s mission is to empower formerly incarcerated women,
   trans and non-binary individuals through the power of art-making, grassroots
   advocacy, and meaningful employment through our non-profit ceramics studio.
   PPP provides paid ceramics classes for individuals navigating the extremely
   difficult transition out of incarceration, thereby providing meaningful art
-  therapy and urgent resources to prevent individuals from returning to
-  prison.  
+  therapy and urgent resources to prevent individuals from returning to prison.
 category: create
 connect_metrics: ''
 create_metrics: >-
@@ -54,28 +53,28 @@ What is the problem that you are seeking to address?: >-
   discrimination. These forces along with systemic disinvestment lead to high
   recidivism rates for this group. After decades behind bars, dreaming of life
   outside, women are coming home to a city that does not support their return to
-  society. 
+  society.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   People’s Pottery Project’s (PPP) mission is to empower formerly incarcerated
   women and trans people through our non-profit ceramics studio. We put into
   practice the principle of “Care Not Cages,” by centering the needs of people
   coming out of prison, most of whom are Black, Brown, Indigenous and LGBTQI.
   Guided by our formerly incarcerated leaders, we are collectively building an
-  arts based center for healing, education and community.  In response to the
+  arts based center for healing, education and community. In response to the
   urgent needs of people leaving prison, we provide paid work opportunities and
   job training in design, production and distribution of the People’s Bowl and
   other homewares. We offer part-time work on a flexible schedule that provides
-  economic stability to people in reentry.  PPP offers ceramics classes free of
+  economic stability to people in reentry. PPP offers ceramics classes free of
   cost to formerly incarcerated individuals. Arts programming is essential for
   healing trauma and helps recently incarcerated women establish a sense of
   self, power, and hope. This program offers an inspiring pairing of women in
   reentry and PPP staff, who have navigated this transition home successfully
-  and are leaders in their community.   PPP recognizes the need for grassroots
+  and are leaders in their community. PPP recognizes the need for grassroots
   advocacy led by directly impacted communities. One of the primary barriers for
   formerly incarcerated people to advocate for systems change is economic stress
   and inflexible, low-wage jobs. PPP centers advocacy by encouraging leaders to
   participate in coalitional movements to provide safety, healing, and dignity
-  for formerly incarcerated people. 
+  for formerly incarcerated people.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   People’s Pottery Project is in the early stages of development, but has
   already had immense success. In the last year and a half, we have taken on
@@ -91,6 +90,7 @@ What is the problem that you are seeking to address?: >-
   directly with target communities: people in re-entry, formerly incarcerated
   individuals, and non-system impacted members of the community.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '800'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': ''
 Describe how Los Angeles County will be different if your work is successful.: >-
   At People’s Pottery Project, we celebrate the freedom of every person who is
   released from a life sentence and walks from the prison gates; our goal is to

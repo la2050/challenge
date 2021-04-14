@@ -13,15 +13,20 @@ organization_website: 'https://www.greho.org'
 organization_twitter: '@grehoinc'
 organization_facebook: '@grehoinc'
 organization_instagram: '@grehoinc'
-Describe the mission of your organization.: ' Join us in bringing data literacy to LA! Institutions – both public and private, use data to drive decision-making. These decisions impact the lives of all Angelenos and we believe that it is our community’s moral duty to educate, inform and help each other better understand data and the utility of data. Our mission is a data literate Los Angeles.'
+Describe the mission of your organization.: >-
+  Join us in bringing data literacy to LA! Institutions – both public and
+  private, use data to drive decision-making. These decisions impact the lives
+  of all Angelenos and we believe that it is our community’s moral duty to
+  educate, inform and help each other better understand data and the utility of
+  data. Our mission is a data literate Los Angeles.
 project_description: >-
-  Impact through Data Literacy:  Food service is one of LA's biggest industries
+  Impact through Data Literacy: Food service is one of LA's biggest industries
   and economic contributors. In a critical post-pandemic phase, our restaurants
   need all the tools they can use to sustain themselves. Data utility or its
   lack thereof has critical real world implications for restaurants. The RDP
   Program will help restaurants learn how to use data and: 1.) Receive
   personalized data training and mentorship 2.) Design, Build and Deploy their
-  own data pipeline  The goal is to facilitate business success through data
+  own data pipeline The goal is to facilitate business success through data
   based skill-building
 category: create
 connect_metrics: ''
@@ -52,7 +57,7 @@ What is the problem that you are seeking to address?: >-
   help them as much as we can in these difficult times. At this critical point
   in time, restaurant owners are struggling to stay afloat and pay their
   employees. This has only gotten worse with the pandemic’s surge and the key to
-  solving it may lie in data. 
+  solving it may lie in data.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   The GREHO RDP (Restaurant Data Pipeline) Program is a community based
   initiative to assist restaurants and introduce them to data frameworks and
@@ -63,12 +68,12 @@ What is the problem that you are seeking to address?: >-
   the basics of data, how data can be utilized to better understand their
   business and how data pipelines can be initiated and deployed. The hope is to
   educate and train the restaurant teams to help them become self-sufficient
-  enough to build their own data pipelines post completion of the program. 
-  Program Sprints:   - Sprint 1: Introduce restaurant to data pipelines, data
-  analytics strategies and pipeline implementation lifecycles    - Sprint 2: 
-  Identify existing data pipeline frameworks for restaurants if any  - Sprint 3:
+  enough to build their own data pipelines post completion of the program.
+  Program Sprints: - Sprint 1: Introduce restaurant to data pipelines, data
+  analytics strategies and pipeline implementation lifecycles - Sprint 2:
+  Identify existing data pipeline frameworks for restaurants if any - Sprint 3:
   Initiate the set up and implementation of highest priority data pipeline for
-  restaurants with recommendations and consulting   When data analytics is
+  restaurants with recommendations and consulting When data analytics is
   utilized to solve problems, it results in interesting learning, development of
   problem solving acumen and a data rich environment that can be used to
   understand and engage better with challenges. By training restaurants in the
@@ -77,19 +82,20 @@ What is the problem that you are seeking to address?: >-
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Success Definition: Our success definition is very straightforward. We measure
   the restaurant’s performance and growth before and after the RDP program
-  implementation.   Success Measurement: How we measure success varies from
+  implementation. Success Measurement: How we measure success varies from
   restaurant to restaurant and the type of food service that the restaurant
   offers. Another variable that drives success measurement is the type of data
-  pipeline that the restaurant chooses to implement.   Qualitative Reference
-  Metrics/Outcomes:  Order Metrics: - Avg Order Count/day/week - Average Order
-  Amt/day/week - Total Order Amt/day/week/month  Finance Metrics: - Daily
-  turnover  - Monthly Revenue  - Operational Costs/day  - Sales/qtr  Kitchen
-  Metrics: - COGS (Cost of goods sold)  The long-term outcomes of the project
+  pipeline that the restaurant chooses to implement. Qualitative Reference
+  Metrics/Outcomes: Order Metrics: - Avg Order Count/day/week - Average Order
+  Amt/day/week - Total Order Amt/day/week/month Finance Metrics: - Daily
+  turnover - Monthly Revenue - Operational Costs/day - Sales/qtr Kitchen
+  Metrics: - COGS (Cost of goods sold) The long-term outcomes of the project
   will be (1) increased self-sufficiency across restaurants leading to
   generational economic advancement for owners, employees and their families (2)
   a skilled and technologically advanced workforce (3) a smarter and more
-  successful Los Angeles.     
+  successful Los Angeles.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '1250'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '40000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Restaurants form the cornerstone of the economic strength and cultural
   influence that LA County has globally. People from all over the world travel
@@ -104,7 +110,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   their businesses. It can also provide restaurants with effective solutions and
   game-changing strategies, whether that’s a taco truck or an ice cream store.
   Success and growth of restaurants will lead to increased revenue and job
-  creation. 
+  creation.
 Describe the role of collaborating organizations on this project.: >-
   Our partner organization “ Quien Es Tu Vecindario” is our fiscal sponsor for
   this application. Since we are a recently formed nonprofit and it is going to
@@ -113,7 +119,7 @@ Describe the role of collaborating organizations on this project.: >-
   of our board members and the goals of both organizations are well aligned
   serving the communities of East Hollywood. We believe that our team has the
   potential to successfully deploy this program and drive some real world impact
-  that results in the success and growth of restaurants in LA County. 
+  that results in the success and growth of restaurants in LA County.
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or
   gatherings,Capacity-building and training,Strategy assistance and

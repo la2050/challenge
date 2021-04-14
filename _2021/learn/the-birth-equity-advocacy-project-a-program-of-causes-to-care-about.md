@@ -1,15 +1,15 @@
 ---
 application_id: '9970028883'
 title: >-
-  The Birth Equity Advocacy Project - We spend 100% of our time lobbying &
-  advocating for equity in Black maternal care and Black infant health.
+  The Birth Equity Advocacy Project - We spend 100% of our time advocating for
+  equity in Black maternal care and Black infant health.
 organization_description: Social enterprise or B-corps
 project_video: ''
 link_donate: 'https://secure.actblue.com/donate/beap'
 link_volunteer: 'mailto:info@birthequityap.org'
 link_newsletter: ''
 ein: '861344781'
-organization_name: "The Birth Equity Advocacy Project\_a program of Causes to Care About"
+organization_name: The Birth Equity Advocacy Project a program of Causes to Care About
 mailing_address_zip: '80202'
 organization_website: 'https://www.Birthequityap.org'
 organization_twitter: '@birth_equity_ap'
@@ -20,7 +20,7 @@ Describe the mission of your organization.: >-
   Care About, a 501(c)(4) organization. BEAP advocates for equal access to
   quality prenatal and perinatal care for all families of color. We operate
   exclusively to promote social welfare through advocacy, and we are dedicated
-  solely to lobbying for birth equity.  
+  solely to lobbying for birth equity.
 project_description: >-
   In recent years, despite the reduction in Black maternal mortality rates in
   California the difference in outcomes for Black mothers compared with all
@@ -77,17 +77,18 @@ What is the problem that you are seeking to address?: >-
   throughout that process. We know for a fact that in the space of Birth Equity
   for Black Maternal Care there are great 501c3s that have been doing the grass
   roots work for so long, however they can only allocate a small percentage of
-  their time and funding focused on lobbying and advocating - that is where we
-  come in! Because we are a 501c4 dedicated to Birth Equity for Black Maternal
-  Care we get to spend 100% of our time lobbying and advocating and are not
-  limited in funding we can recieve or use on this issue. 
+  their time and funding focused on advocating - that is where we come in!
+  Because we are a 501c4 dedicated to Birth Equity for Black Maternal Care we
+  get to spend 100% of our time advocating and are not limited in funding we can
+  receive or use on this issue.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '25000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '25000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   We have found that awareness is the key to eliminating implicit bias. We shift
   the narrative and re-create the framework for what it is to be a Black mother
   in the process of growing life. Our strategic approach is to develop an
   inclusivity framework through the lens of human rights that will set a trend
-  for a larger conversation that results in tangible self sustaining change.  
+  for a larger conversation that results in tangible self sustaining change.
   With this help we can ensure more women in Los Angeles feel more supported to
   demand quality care.
 Describe the role of collaborating organizations on this project.: ''
@@ -101,6 +102,6 @@ Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CONNECT
 year: 2021
 filename: the-birth-equity-advocacy-project-a-program-of-causes-to-care-about
-order: 71
+order: 72
 
 ---

@@ -63,9 +63,9 @@ What is the problem that you are seeking to address?: >-
   Research shows that up to 70% of consumers who qualify for these low-cost
   programs are unaware of their existence. This makes the process of finding an
   affordable internet plan difficult to navigate for households already
-  experiencing the stress of financial instability.  To combat this, our
-  Programs Team conducts rigorous outreach efforts within communities with low
-  internet adoption rates. We form relationships with schools, community-based
+  experiencing the stress of financial instability. To combat this, our Programs
+  Team conducts rigorous outreach efforts within communities with low internet
+  adoption rates. We form relationships with schools, community-based
   organizations, and other nonprofits to identify households that could benefit
   from low-cost broadband options. Through our community partnerships and word
   of mouth, we’re able to expand our internet assistance program and encourage
@@ -74,7 +74,7 @@ What is the problem that you are seeking to address?: >-
   educating residents on the various plans that are available to them based on
   income level, zip code, and other demographic factors. Our Assistance
   Advocates offer neutral guidance in selecting an internet plan depending on a
-  user’s need via text and phone support in English and Spanish.  
+  user’s need via text and phone support in English and Spanish.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   We measure impact by the number of households we assist in signing up for
   low-cost internet. Since the program’s inception in 2012, we have assisted
@@ -89,8 +89,9 @@ What is the problem that you are seeking to address?: >-
   opens access to provide additional support such as digital literacy training
   and low-cost devices. Even if a household does not sign up for an internet
   plan through us, we provide community education and support to vulnerable
-  Angelenos. 
+  Angelenos.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '1666'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '4998'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Successful implementation of our program will end digital disenfranchisement
   for low-income families, helping them break the restraints of generational

@@ -73,7 +73,7 @@ What is the problem that you are seeking to address?: >-
   and other resources. In addition, the GALA is the vital event of the year,
   where scholarship recipients are recognized and members of the organization
   can come together to celebrate each other's accomplishments. It is also an
-  integral networking opportunity. 
+  integral networking opportunity.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   The programs mentioned in this proposal are not new programs, although the
   Mentorship Program is in its early years of implementation. The Scholarship
@@ -85,6 +85,7 @@ What is the problem that you are seeking to address?: >-
   by surveying award recipients and making sure these awards are ultimately used
   to advance the individual professionally.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '120'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '500'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Currently, there are over 250,000 individuals on Armenian descent living in
   the greater Los Angeles area. WIth the proper networking and structure, the
@@ -99,7 +100,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   the Scholarship and Mentorship programs and the GALA event, APS can provide
   fundamental resources for young Armenian professionals to learn, grow, and
   prosper in their respective communities, paving the way for generations to
-  come. 
+  come.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Hosting virtual events or gatherings,Communications support,Capacity-building

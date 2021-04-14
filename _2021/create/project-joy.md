@@ -18,7 +18,7 @@ Describe the mission of your organization.: >-
   work-based learning center. Our goal is to empower, educate and encourage the
   most vulnerable youth ages 16-24. We have a vision to break the cycle of
   generational poverty and end systemic inequities through the power of
-  opportunity. 
+  opportunity.
 project_description: >-
   We are bridging the skills gap to new collar technology careers for
   opportunity youth in LA County. Using interactive play-based learning
@@ -92,6 +92,7 @@ What is the problem that you are seeking to address?: >-
   to increase in self sufficiency, confidence and vocational clarity to pursue
   education and employment.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '30'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '600'
 Describe how Los Angeles County will be different if your work is successful.: >-
   With our work being successful, LA County will truly reflect a place where
   everyone can obtain the education, skills training, social support, mental

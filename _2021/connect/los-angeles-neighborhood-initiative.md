@@ -47,7 +47,7 @@ What is the problem that you are seeking to address?: >-
   that will impact their daily lives more challenging. Some conditions that
   cause this "digital divide" include the expense of a laptop, tablet and/or
   internet service; language barriers; not having email or social media
-  accounts; and concerns about internet security and privacy.  These challenges
+  accounts; and concerns about internet security and privacy. These challenges
   overlap with traditional barriers to equitable stakeholder involvement in
   underserved communities; limits on gathering in-person have added even more
   complication. A prior focus on digital access in rural areas has not addressed
@@ -65,13 +65,13 @@ What is the problem that you are seeking to address?: >-
   the grant period to manage support at Digital Meetings and provide materials
   to help participants with general online literacy, like establishing email or
   social media accounts, ensuring internet safety and privacy, and accessing web
-  translation tools.  During the pandemic, virtual meetings and online data
+  translation tools. During the pandemic, virtual meetings and online data
   gathering have replaced the in-person outreach and engagement strategies we
   have long relied on, and post-pandemic, online community engagement will
   continue to be a component of neighborhood improvement projects; we have seen
   that virtual engagement can even increase community participation because it
   does not require transportation, childcare, or extended time away from work or
-  family.  To engage diverse stakeholders in the planning process during and
+  family. To engage diverse stakeholders in the planning process during and
   post-COVID, the digital divide must be addressed so that senior citizens,
   non-English speakers, families with young children, people with disabilities,
   and others can fully engage in decisions about how the built environment in
@@ -86,11 +86,11 @@ What is the problem that you are seeking to address?: >-
   media, learn about internet safety/privacy, learn how to use Zoom, learn how
   to view the internet in their preferred language); number of individuals
   engaged at community events (ie street fairs, right of way charrettes, etc)
-  using the Kit.  As a pilot, we will also be watching for opportunities to
-  share the Kit with partners in municipal agencies and community-based
-  organizations, and considering opportunities to scale application of the Kit
-  in the future. 
+  using the Kit. As a pilot, we will also be watching for opportunities to share
+  the Kit with partners in municipal agencies and community-based organizations,
+  and considering opportunities to scale application of the Kit in the future.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '200'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '180000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   If our pilot project is successful, L.A. County will have a scalable model for
   bridging the digital divide in neighborhoods that are low-income and/or home
@@ -99,7 +99,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   for neighborhood-scale improvement projects to be initiated and led by local
   stakeholders; doing so fosters community pride, helps secure buy-in, and
   ensures that improvements are responsive to genuine community needs and
-  desires.  LANI's long-term goals for this program are to continue to meet
+  desires. LANI's long-term goals for this program are to continue to meet
   people where they are, to support them in envisioning changes to their built
   environment, and to enhance their capacity to be advocates and decision makers
   for their own communities by improving their access to and understanding of

@@ -19,13 +19,13 @@ Describe the mission of your organization.: >-
   affordable, fair and sustainable for all. We work to create a local food
   system free from hunger, rooted in equity and access, supportive of farmers
   and food workers, and guided by principles of environmental stewardship and
-  regeneration. 
+  regeneration.
 project_description: >-
   Farm Fresh LA is a produce incentive initiative connecting California farmers
   of color to CalFresh shoppers at Healthy Neighborhood Market Network stores
   brought to you by the Los Angeles Food Policy Council! The initiative provides
   small quantity produce that are perfect for the weekِ from local farmsِ
-  exclusively available to CalFresh shoppers firstِ.   By buying Farm Fresh LA
+  exclusively available to CalFresh shoppers firstِ. By buying Farm Fresh LA
   with CalFresh dollarsً we are supporting local farmers in our regionِ.
   Togetherً we can create a more equitable food supply chain and access to high
   quality produce!
@@ -53,11 +53,11 @@ What is the problem that you are seeking to address?: >-
   Calfresh shoppers. One of the reasons for this is that California grown
   produce is sought after produce, globally. Making the market extremely
   competitive, and sometimes too costly for small markets in low-income
-  neighborhoods.  This program is seeking to address the barriers between
+  neighborhoods. This program is seeking to address the barriers between
   connecting Calfresh shoppers and small markets to local farmers of color. The
   Farm Fresh LA program does the work for the farmers, markets, and Calfresh
   shoppers to make local produce affordable for the market to provide and the
-  Calfresh shopper to purchase. 
+  Calfresh shopper to purchase.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Farm Fresh LA supports markets in South LA, Skid Row, and MacArthur Park, and
   local farmers. Our program aims at improving the following: (1) community
@@ -69,13 +69,13 @@ What is the problem that you are seeking to address?: >-
   An example of this recently has been at the Healthy Neighborhood Market
   Network stores implementing the initiative, owners distribute and sell
   FarmFresh LA small produce bundles. Farm Fresh LA bundles costs $1 to $2
-  CalFreshِ, but retails for $10 to $20.   This initiative is part of our
-  strategy to address the problems of decades of disinvestment and the flight of
+  CalFreshِ, but retails for $10 to $20. This initiative is part of our strategy
+  to address the problems of decades of disinvestment and the flight of
   full-service grocery stores from low income neighborhoods, resulting in what
   are commonly called “food deserts.” Farm Fresh LA addresses the main problem
   of historic disinvestment by investing in the creation of new economic and
   social opportunities that enable these already resilient communities to thrive
-  with healthy food access and affordability.  
+  with healthy food access and affordability.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   This is an early-stage program. Success is measured by the relationship
   between partners as well as our ability to support and provide support to the
@@ -87,6 +87,7 @@ What is the problem that you are seeking to address?: >-
   distributed as well as collect information on types of produce distributed to
   get a good understanding of how CalFresh shoppers enjoy their produce.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '300'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Over the one-year grant period we will support approximately 10 local farmers,
   3 small markets, and provide 4,300 affordable local produce bundles to
@@ -95,7 +96,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   members. The success and expansion of this program long term will create a
   connected food ecosystem of local farmers, small markets, and Calfresh
   shoppers. Farm Fresh LA is an important program for forging these connections
-  to sustain long-term positive change towards a resilient local food system.  
+  to sustain long-term positive change towards a resilient local food system.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: 'Communications support,Volunteer recruitment'
 Please list the organizations collaborating on this proposal.: ''

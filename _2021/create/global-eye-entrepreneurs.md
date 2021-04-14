@@ -18,10 +18,10 @@ Describe the mission of your organization.: >-
   Global Eye Entrepreneurs dismantles the complex barriers to success that
   black, indigenous, male and GBTQ entrepreneurs of color face. Our support
   infrastructure promotes skills building, personal development and linkages to
-  capital needed to create sustainable businesses and empower communities. 
+  capital needed to create sustainable businesses and empower communities.
 project_description: >-
   The Global Eye Entrepreneurs Fellowship Program brings together a cohort of
-  BIPOC and GBTQ Men  of color with new business ideas and provides a
+  BIPOC and GBTQ Men of color with new business ideas and provides a
   comprehensive array of programming that facilities both personal and
   professional growth and creates a network of support and mentorship from
   industry leaders that, combined with linkages to capital, result in
@@ -54,7 +54,7 @@ What is the problem that you are seeking to address?: >-
   Global Eye imagines a world where the business ventures, ideas, companies, and
   inventions of these men exist and thrive. At its core, Global Eye is a
   community of support, mentorship, and learning to help male and non-binary
-  entrepreneurs of color realize their deepest, most audacious visions. 
+  entrepreneurs of color realize their deepest, most audacious visions.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Global Eye is creating a new type of ecosystem where male entrepreneurs of
   color have access to role models, mentors, and capital so they can thrive. It
@@ -82,16 +82,16 @@ What is the problem that you are seeking to address?: >-
   fellow • Percentage of fellows receiving investment capital • Increase in
   wellness scores across pre- and post-program social-emotional indicator
   assessments • Increase in business confidence and proficiency scores from pre-
-  and post-program assessments and surveys  • Ratings of the effectiveness of
-  the instructors • Program completion rate  Longitudinal measures include: •
-  Fellows continue succeeding beyond the three-year average for closures •
-  Fellows reach breakeven/profitability • Increase in number of people employed
-  by fellows • Increase in fellowship class size • Thriving alumni network
-  contributing to the program and becoming mentors • Long-term social-emotional
-  indicators remain positive • Additional businesses or product/service ideas
-  brought to market by program fellows • Reinvestment in new entrepreneurs and
-  fellows
+  and post-program assessments and surveys • Ratings of the effectiveness of the
+  instructors • Program completion rate Longitudinal measures include: • Fellows
+  continue succeeding beyond the three-year average for closures • Fellows reach
+  breakeven/profitability • Increase in number of people employed by fellows •
+  Increase in fellowship class size • Thriving alumni network contributing to
+  the program and becoming mentors • Long-term social-emotional indicators
+  remain positive • Additional businesses or product/service ideas brought to
+  market by program fellows • Reinvestment in new entrepreneurs and fellows
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '15'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1100'
 Describe how Los Angeles County will be different if your work is successful.: >-
   While the overall wealth of US families increased over the last 30 years, the
   wealth gap continues to grow for black families and other underrepresented
@@ -105,7 +105,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   LA a better place because of: Closing of the wealth gap Increased employment
   opportunities Equitable distribution of investment capital Creation of
   pipelines for the next generation of entrepreneurs Increased tax base for our
-  communities Expanding hope and success for BIPCO and GBTQ men of color 
+  communities Expanding hope and success for BIPCO and GBTQ men of color
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or

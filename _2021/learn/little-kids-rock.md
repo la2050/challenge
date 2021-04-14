@@ -43,18 +43,18 @@ In which areas of Los Angeles will you be directly working?:
 What is the problem that you are seeking to address?: >-
   Music education must be accessible and relevant to be effective. Research
   shows that, even in schools that can offer music programs, 80% of students
-  will leave as soon as it becomes an elective.   Little Kids Rock first
-  increases accessibility by addressing financial barriers to music education.
-  In LAUSD, 72% of students qualify for free/reduced-fee lunch. When buying
-  groceries is a challenge, getting lessons outside of school is nearly
-  impossible, so in-school offerings are essential to providing a creative
-  outlet to kids.   We increase participation by building a curriculum that is
-  relevant to, and as diverse as the students we serve. In LAUSD, nearly 75% of
-  students are Latinx, meaning the majority of students are not represented by
-  traditional music classes. By teaching today’s most popular music
-  genres—including hip hop, Latin, and R&B, which were largely pioneered by
-  people of color—students who feel represented by these genres get the means to
-  express themselves and be heard.
+  will leave as soon as it becomes an elective. Little Kids Rock first increases
+  accessibility by addressing financial barriers to music education. In LAUSD,
+  72% of students qualify for free/reduced-fee lunch. When buying groceries is a
+  challenge, getting lessons outside of school is nearly impossible, so
+  in-school offerings are essential to providing a creative outlet to kids. We
+  increase participation by building a curriculum that is relevant to, and as
+  diverse as the students we serve. In LAUSD, nearly 75% of students are Latinx,
+  meaning the majority of students are not represented by traditional music
+  classes. By teaching today’s most popular music genres—including hip hop,
+  Latin, and R&B, which were largely pioneered by people of color—students who
+  feel represented by these genres get the means to express themselves and be
+  heard.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Little Kids Rock’s modern band program prepares teachers to incorporate
   popular genres into their music classes by providing them with professional
@@ -62,12 +62,12 @@ What is the problem that you are seeking to address?: >-
   invests directly in district teachers, modern band is offered during the
   school day and at no cost to all the students that teacher reaches. This
   highly sustainable model allows the program to grow each year as new students
-  immediately fill the seats of recent graduates.   During the 2021-2022 school
+  immediately fill the seats of recent graduates. During the 2021-2022 school
   year, Little Kids Rock will train and equip up to 30 new modern band teachers,
   to reach 3,000+ additional students. Grant funds will support up to two
   certification workshops for new teachers, such as our “Modern Band 101” or
   “Digital Songwriting and Production” series. Courses will be held online or
-  in-person as current health guidelines allow.  Los Angeles County is currently
+  in-person as current health guidelines allow. Los Angeles County is currently
   one of our largest program markets, serving approximately 16,000 students
   annually through the efforts of 160 teachers. LAUSD administrators facilitate
   the recruitment of teachers to participate in our workshops, and many LAUSD
@@ -79,28 +79,29 @@ What is the problem that you are seeking to address?: >-
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Since launching LA County’s first modern band program in 2004, Little Kids
   Rock has provided 4,200 PD hours to 345 teachers to bring engaging music
-  instruction to kids.    To measure our qualitative impact, we conduct
-  classroom site visits (as current health guidelines permit), solicit teacher
-  feedback, and require program teachers complete an annual survey on student,
-  teacher, and school outcomes.   In response to this survey, students have
-  shared: • “My confidence grew, and I completed one of my life goals which was
-  learning how to play the guitar.” • “I like the band because it is fun working
-  with other kids. It's fun to get to know each other.” • “I like that it gives
-  me an excuse to be myself in front of people.”  Countless studies have shown
-  that music education enhances students’ creative thinking, emotional
-  development, and intellectual curiosity, among other benefits. Modern band’s
-  collaborative, hands-on approach amplifies these benefits through
-  student-centered instruction.
+  instruction to kids. To measure our qualitative impact, we conduct classroom
+  site visits (as current health guidelines permit), solicit teacher feedback,
+  and require program teachers complete an annual survey on student, teacher,
+  and school outcomes. In response to this survey, students have shared: • “My
+  confidence grew, and I completed one of my life goals which was learning how
+  to play the guitar.” • “I like the band because it is fun working with other
+  kids. It's fun to get to know each other.” • “I like that it gives me an
+  excuse to be myself in front of people.” Countless studies have shown that
+  music education enhances students’ creative thinking, emotional development,
+  and intellectual curiosity, among other benefits. Modern band’s collaborative,
+  hands-on approach amplifies these benefits through student-centered
+  instruction.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '190'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '19000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Little Kids Rock believes that music is best learned experientially. This
   means modern band provides students with hands-on experiences with an
   instrument and opportunities to collaborate with their peers. By emphasizing
   songwriting and improvisation, kids learn to use music as a tool for
-  self-expression.   Based on historical data, we anticipate the following
-  outcomes in students who participate in modern band:  • 85% will feel happier
-  and/or more confident • 85% will want to come to school  • 80% will be more
-  likely to express themselves  In the long-term, we aim to use modern band to
+  self-expression. Based on historical data, we anticipate the following
+  outcomes in students who participate in modern band: • 85% will feel happier
+  and/or more confident • 85% will want to come to school • 80% will be more
+  likely to express themselves In the long-term, we aim to use modern band to
   address systemic inequities in education. We seek to provide alternate avenues
   for music education for students without instruments at home, ways to
   integrate music production technology into music education, and opportunities

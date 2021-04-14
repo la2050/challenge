@@ -62,16 +62,16 @@ What is the problem that you are seeking to address?: >-
   to housing stability. Funds are targeted to support survivors so they can
   rebuild their lives. Proactive engagement with housing providers, other
   service providers and community members changes how the community responds to
-  domestic violence.  The model acknowledges participants have different needs
-  to secure stable housing. Low need is a one-time funding request including
-  food, childcare, utility bill assistance and one-time emergency assistance
-  such as car repair costs, lock changes, limited vocational costs, healthcare
-  costs and transportation. Medium need assistance includes any items in the low
-  need category, rental security deposit, and up to 6 months of rental
-  assistance. High need assistance includes all aforementioned items with up to
-  24 months of rental assistance to provide the opportunity to build savings,
-  increase employment readiness through vocational or educational programs, and
-  address trauma or other mental health needs during this time.
+  domestic violence. The model acknowledges participants have different needs to
+  secure stable housing. Low need is a one-time funding request including food,
+  childcare, utility bill assistance and one-time emergency assistance such as
+  car repair costs, lock changes, limited vocational costs, healthcare costs and
+  transportation. Medium need assistance includes any items in the low need
+  category, rental security deposit, and up to 6 months of rental assistance.
+  High need assistance includes all aforementioned items with up to 24 months of
+  rental assistance to provide the opportunity to build savings, increase
+  employment readiness through vocational or educational programs, and address
+  trauma or other mental health needs during this time.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Since 2016, several domestic violence shelters in California have adopted the
   Housing First model, including House of Ruth. Impact is measured in several
@@ -81,13 +81,14 @@ What is the problem that you are seeking to address?: >-
   safety and felt more hopeful about the future. These last two indicators may
   seem like small goals, but due to the nature of domestic violence,
   understanding safety planning and feeling hopeful about one’s future are
-  critical indicators of a survivors continuing to live a life free of
-  violence.   Last year, out of the 40 participants in the Housing First
-  Program, 17 found permanent housing and 23 received financial support to
-  remain in stable housing. Upon exiting the program, all 40 participants
-  remained in stable housing and avoided homelessness. 100% of participants
-  learned more ways to plan for their safety.
+  critical indicators of a survivors continuing to live a life free of violence.
+  Last year, out of the 40 participants in the Housing First Program, 17 found
+  permanent housing and 23 received financial support to remain in stable
+  housing. Upon exiting the program, all 40 participants remained in stable
+  housing and avoided homelessness. 100% of participants learned more ways to
+  plan for their safety.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '40'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '200'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Our vision and hope for every person we serve is for them to live a life free
   from violence. Survivors fleeing from domestic violence should not lose their

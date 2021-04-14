@@ -20,14 +20,14 @@ Describe the mission of your organization.: >-
   community empowerment. We support a healthy transition where food is never
   wasted, but returned to the soil for the next cycle of life.
 project_description: >-
-  LA Compost is working to restore lost connections to the soil and one
-  another.  We recognize that the root cause of environmental destruction is a
+  LA Compost is working to restore lost connections to the soil and one another.
+  We recognize that the root cause of environmental destruction is a
   disassociation with the natural world, and through co-creating spaces for
   local compost access and engagement, we seek to restore individual and
   community connections to the soil that feeds us all. Cooperatively with a
   diverse human network of Angelenos across LA County, we aspire to make LA
   robust in its access to community level composting, climate change and
-  ecosystem resilience. 
+  ecosystem resilience.
 category: live
 connect_metrics: ''
 create_metrics: ''
@@ -53,7 +53,7 @@ What is the problem that you are seeking to address?: >-
   earth-warming abilities than carbon dioxide. If this food waste were
   transformed into compost and returned to our soils, greenhouse gas emissions
   in LA County could be drastically reduced, while simultaneously building the
-  soil ecosystem resilience we need. 
+  soil ecosystem resilience we need.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Community knowledge is central to effective community engagement and to
   building climate resiliency within our local ecosystems and soils. LA Compost
@@ -62,31 +62,32 @@ What is the problem that you are seeking to address?: >-
   locations. These principles come alive through our intention to build a human
   network of local residents, engage individuals around the significance of
   compost, and utilize the community’s contextual and cultural knowledge to
-  design relevant compost and ecosystem infrastructures.  The activities that LA
+  design relevant compost and ecosystem infrastructures. The activities that LA
   Compost will use to engage our communities around ecosystem resiliency include
   our Contact-Free Drop-Off Locations, Soil Farmer Program, and establishment of
-  new compost hubs and infrastructure throughout Los Angeles County.  
+  new compost hubs and infrastructure throughout Los Angeles County.
   Contact-Free Drop-Off Locations: LA Compost seeks to expand its number of food
   scrap drop-off locations at LA-based farmers markets to 3 more communities by
-  the end of 2021.   Soil Farmer Program: LA Compost seeks to develop 20 new
-  Soil Farmer Program locations, helping to bolster the network of LA residents
-  who are growing healthy food and building healthy soils.  Establish new
-  compost hubs: LA Compost seeks to establish 30 additional community compost
-  hubs and 2 larger-scale, regional hubs across Los Angeles County.
+  the end of 2021. Soil Farmer Program: LA Compost seeks to develop 20 new Soil
+  Farmer Program locations, helping to bolster the network of LA residents who
+  are growing healthy food and building healthy soils. Establish new compost
+  hubs: LA Compost seeks to establish 30 additional community compost hubs and 2
+  larger-scale, regional hubs across Los Angeles County.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
-  In 2020, LA Compost utilized its measuring strategies to identify:  - 739,050
+  In 2020, LA Compost utilized its measuring strategies to identify: - 739,050
   total pounds of organics diverted from landfills - 616 new compost co-op and
-  community hub members onboarded from socially-distanced    trainings - 7 new
+  community hub members onboarded from socially-distanced trainings - 7 new
   compost drop-off locations established with the potential to serve an
-  additional 475    households - 34 community engagement events held in person
-  and virtual   LA Compost continues to measure its impact through utilizing the
-  following measures to  collect quantitative and qualitative data:  - Number of
+  additional 475 households - 34 community engagement events held in person and
+  virtual LA Compost continues to measure its impact through utilizing the
+  following measures to collect quantitative and qualitative data: - Number of
   people served through COVID-conscious education & workshop attendance - Number
-  of community partners served, including community garden spaces, urban
-  farms,    public parks and local businesses - Number of pounds of food waste
-  diverted from landfill - Number of pounds of locally-generated compost
-  produced and provided to community    residents and green spaces
+  of community partners served, including community garden spaces, urban farms,
+  public parks and local businesses - Number of pounds of food waste diverted
+  from landfill - Number of pounds of locally-generated compost produced and
+  provided to community residents and green spaces
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '2000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '6000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Short term, 2 Contact-Free Drop-off locations will provide access to over 1000
   drop-off members, 30 community hubs will provide opportunity for over 700
@@ -101,7 +102,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   LA’s landscapes, equating to an environmental impact of 1,140 cars being taken
   off the road. Additionally, countless vegetative cooling and local food
   production investments will be made through our regular compost, seedling and
-  tree giveaways. 
+  tree giveaways.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Communications support,Strategy assistance and

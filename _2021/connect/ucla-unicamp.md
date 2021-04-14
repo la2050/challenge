@@ -41,13 +41,13 @@ What is the problem that you are seeking to address?: >-
   national (24.9%) levels. This places Los Angeles in the 46th out of 51 of the
   largest metropolitan areas in the United States. More significantly, there has
   been a steady decline in volunteerism in Los Angeles between 2012 (21.7%) and
-  2015. (Corporation for National Community Service)  Low rates of volunteerism
+  2015. (Corporation for National Community Service) Low rates of volunteerism
   affects everyone in the community, from those receiving services, to the
   organizations providing services, and even the volunteers committing time,
   energy, and resources. A continued decline in volunteerism may mean decreased
   capacity to provide services to those in need, to keep our communities clean,
   or to give a sense of purpose and fulfillment by being in the service of
-  others.  Los Angeles should be a city where its residents give back to each
+  others. Los Angeles should be a city where its residents give back to each
   other. We can encourage this by building community among volunteers and make
   the act of volunteering fun!
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
@@ -56,15 +56,15 @@ What is the problem that you are seeking to address?: >-
   through shared experiences and community building. UniCamp recruits, trains,
   and creates a close-knit group of volunteers from the UCLA student population.
   These volunteers will serve as counselors to underserved youth, instilling in
-  them the same spirit of philanthropy.  UniCamp recruits a leadership team of
-  40 students who, in turn, recruits an additional 350-400 students. Volunteers
+  them the same spirit of philanthropy. UniCamp recruits a leadership team of 40
+  students who, in turn, recruits an additional 350-400 students. Volunteers
   train based on the American Camp Association standards and create innovative
   programs in preparation for summer camp. The volunteers also attend a series
   of team- and community-building events that include retreats, workshops, and
   on-site orientation. This year, we have created a comprehensive operational
   guide adhering to CDC guidance and requirements set forth by state and local
   health authorities to open camp for volunteers and campers. We expect most, if
-  not all, volunteers will be vaccinated.  With an 87-year track record, our
+  not all, volunteers will be vaccinated. With an 87-year track record, our
   approach is highly effective because UniCamp is more than a one-off
   volunteering event. Volunteers work together closely for months toward the
   same goals. UniCamp creates a long-lasting effect by enabling them to have
@@ -73,17 +73,18 @@ What is the problem that you are seeking to address?: >-
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   UniCamp’s volunteers return year-after-year. Those who graduated and found
   gainful employment take a week off in the summer. Excluding those who
-  graduated, we have an incredible 60% volunteer retention rate.  Our volunteers
+  graduated, we have an incredible 60% volunteer retention rate. Our volunteers
   are diverse and come from all walks of life. Over 60% of our volunteers are
   Students of Color. Some are foster youth, undocumented, LGBTQ+, from
   low-income families, or were former campers themselves. This diversity helps
-  volunteers become more relatable to each other and the campers they serve.  We
+  volunteers become more relatable to each other and the campers they serve. We
   keep in touch with our volunteers. With over 15,000 volunteers since 1934, we
   are able to collect a treasure trove of stories, photos, and videos. We hold
   reunions for alumni at family camp weekends. The magic of UniCamp is that it
   is not a one-time volunteering event; volunteers become part of a family and a
   legacy that spans generations.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '400'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   As the buses depart UniCamp, there is a lot of hugging and tears. Even so,
   many volunteers and campers return next year. Volunteers go home with a sense
@@ -92,7 +93,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   friendships. Volunteers keep in touch with campers, often helping them with
   college applications and going to their high school graduations. For
   graduating volunteers, many are inspired to enter public service or nonprofit
-  work as social workers and teachers.  UniCamp’s goal is to foster future
+  work as social workers and teachers. UniCamp’s goal is to foster future
   generations to give back to others, build lifelong friendships and community,
   and have a deep appreciation for the great outdoors. As we keep in touch with
   alumni, we noticed that these values continue to live on as they volunteer

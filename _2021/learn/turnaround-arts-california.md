@@ -54,28 +54,28 @@ What is the problem that you are seeking to address?: >-
   arts education and positive outcomes - including increased student engagement,
   sense of connection, academic achievement, attendance and graduation rates,
   and more - low income and students of color are routinely denied access to
-  high quality arts education. 
+  high quality arts education.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   TACA is serving as the education partner of the LA River revitalization
   project, a comprehensive plan to support nearby communities. We launched
   partnerships with four Southeast LA schools in 2018 with a commitment to
   expand to ten over a five year period. During the 21/22 school year we will
   launch partnerships with two additional schools. Along with an intensive
-  onboarding process, we will provide:  Arts Integration Coaching - We partner
+  onboarding process, we will provide: Arts Integration Coaching - We partner
   with P.S. ARTS to provide ongoing hands-on technical support at each school to
   help with implementation of school-wide arts goals, such as helping teachers
-  design lessons that integrate arts into core subjects.  Principal Coaching -
+  design lessons that integrate arts into core subjects. Principal Coaching -
   One-on-one coaching helps principals build their leadership skills in and
-  through the arts.   Artistic Residencies and Community Engagement Projects -
+  through the arts. Artistic Residencies and Community Engagement Projects -
   TACA will match each school with partner arts organizations to provide two
   hands-on artistic residency experiences for students during the school year,
   underwritten by TACA. This may include theatre with the Actor’s Gang or poetry
   with Get Lit: Words Ignite. In addition to exposing students to new artistic
   mediums, these residencies also build the capacity of teachers to integrate
   these art forms into curriculum. Funding also supports projects to engage
-  families and boost school culture, such as Family Art Nights.   Convenings
-  with Statewide Network - We bring our schools from across CA together
-  regularly for planning, peer exchange, and professional development. 
+  families and boost school culture, such as Family Art Nights. Convenings with
+  Statewide Network - We bring our schools from across CA together regularly for
+  planning, peer exchange, and professional development.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Our eval tools including surveys, arts logs, and mid-year and year-end reports
   gather extensive qualitative and quantitative data. We track and have seen
@@ -86,19 +86,19 @@ What is the problem that you are seeking to address?: >-
   leadership. 3. School culture and climate is improved and embraces an equity
   and growth mindset, supports risk-taking, collaboration, and empathy, and
   honors student voice and agency. 4. Family and community members are engaged
-  as participants, advocates, volunteers, and equitable partners in learning. 
-  We also see improvements in English Language Arts and math proficiency, as
-  well as a decrease in suspension and chronic absenteeism rates. We are
-  currently exploring and piloting the measurement of more student-centered
-  impacts. 
+  as participants, advocates, volunteers, and equitable partners in learning. We
+  also see improvements in English Language Arts and math proficiency, as well
+  as a decrease in suspension and chronic absenteeism rates. We are currently
+  exploring and piloting the measurement of more student-centered impacts.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '1550'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '15000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   TACA’s innovative approach leverages a collaborative model for expanded
   impact. Through our partnerships with arts and education organizations in LA
   County we are supporting and complementing their work while also bringing
   together a diverse set of expertise to provide holistic solutions to the
   complex and interwoven social issues impacting the school communities along
-  the LA River.   In communities that have historically been denied access to
+  the LA River. In communities that have historically been denied access to
   resources and who have faced trauma, the arts are an effective tool to build
   connections across teachers and students from different backgrounds, and
   create an equitable and inclusive environment where students feel seen,
@@ -106,7 +106,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   that nurture innovative, critical 21st century thinkers who will be better
   prepared for the ever-changing job market and economy. Through the arts, we
   envision vibrant school environments where all students can thrive and
-  succeed. 
+  succeed.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: 'Hosting virtual events or gatherings,Communications support'
 Please list the organizations collaborating on this proposal.: ''
@@ -118,6 +118,6 @@ Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
 year: 2021
 filename: turnaround-arts-california
-order: 75
+order: 76
 
 ---

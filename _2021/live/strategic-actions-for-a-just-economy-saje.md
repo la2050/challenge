@@ -22,7 +22,7 @@ Describe the mission of your organization.: >-
   the United Neighbors in Defense Against Displacement Coalition (UNIDAD) which
   supports equitable development in South LA.
 project_description: >-
-  The UNIDAD (United Neighbors in  Defense Against Displacement) Coalition
+  The UNIDAD (United Neighbors in Defense Against Displacement) Coalition
   supports development without displacement. As we emerge from a devastating
   pandemic that hit neighborhoods like South LA the hardest, it is more
   important than ever that we leverage public land for the public good. UNIDAD
@@ -88,12 +88,13 @@ What is the problem that you are seeking to address?: >-
   activities, such as our "Peoples Planning School," that educate tenants about
   land use law and civic participation; and 3) 200 residents will engage with
   elected officials to urge them to use public land for the public good,
-  including an historic library site slated for hotel development.  We will
+  including an historic library site slated for hotel development. We will
   measure our success at securing public land for the public good by the passage
   of motions at the City and County of Los Angeles identifying parcels suitable
   for development, and by ensuring that NO public land is developed in South LA
   without a green space or affordable housing requirement attached to it.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '8000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '300000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   We will address historic and systemic inequity by supporting residents in
   efforts to allocate public land for the public good, building a model for how
@@ -119,7 +120,7 @@ Describe the role of collaborating organizations on this project.: >-
   to education and outreach materials for community residents, participate in
   social media work and community meetings, train residents as spokespeople, and
   facilitate resident engagement with elected officials through petitions and
-  participation in public hearings. 
+  participation in public hearings.
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Communications support,Capacity-building and
   training,Strategy assistance and implementation

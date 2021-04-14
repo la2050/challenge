@@ -26,7 +26,7 @@ project_description: >-
   interventions that aim to improve retention and graduation rates of students
   of color, particularly Latinx and African American male students, whose
   retention rates are alarmingly low. We aim to discover why interventions
-  currently in place seem to be failing these young men. 
+  currently in place seem to be failing these young men.
 category: learn
 connect_metrics: ''
 create_metrics: ''
@@ -85,6 +85,7 @@ What is the problem that you are seeking to address?: >-
   student matriculation in identified populations improve by 5 to 10 percent
   each year.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '150'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1500'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Success will be primarily measured by improved academic performance, positive
   student self-assessment, degree completion, and organic policies that
@@ -96,7 +97,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   educational institutions in the city of Azusa to support ongoing efforts to
   improve the educational lives of the students in the city. We also hope to be
   more engaged with community members in this work and be seen as a positive
-  presence in the City of Azusa.  
+  presence in the City of Azusa.
 Describe the role of collaborating organizations on this project.: >-
   Azusa Pacific University, who administers the C.H.A.M.P.S program will be a
   key partner in this project. APU's Chief Diversity Officer and leadership for
@@ -106,7 +107,7 @@ Describe the role of collaborating organizations on this project.: >-
   Additionally, we are in talks with leadership at Citrus College and Azusa
   Unified School District to be involved in this study on an advisory level. We
   also have the enthusiastic support of Blanca Rubio, the state assembly member
-  of the 48th district, which Azusa falls under. 
+  of the 48th district, which Azusa falls under.
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Capacity-building and training,Strategy
   assistance and implementation

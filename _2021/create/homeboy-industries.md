@@ -49,8 +49,8 @@ What is the problem that you are seeking to address?: >-
   preventing successful reentry, fueling recidivism, and impacting gang
   involvement. COVID-19 has also led to significant entry-level job loss and
   financial difficulties after more than one million jobs evaporated from LA
-  County at the onset of the pandemic.   Homeboy welcomes those who have no
-  other options. Our clients have undiagnosed mental health issues including
+  County at the onset of the pandemic. Homeboy welcomes those who have no other
+  options. Our clients have undiagnosed mental health issues including
   depression, anxiety, PTSD, and mood disorders. Many have histories of intimate
   partner violence and sexual abuse and ALL have experienced neglect, violence,
   trauma, and abject poverty. As the majority of our clients have never held a
@@ -67,7 +67,7 @@ What is the problem that you are seeking to address?: >-
   community of hope, compassion, kinship, and an opportunity to change.
   Individuals come through our doors on their own, and we have a strong
   word-of-mouth referral network, demonstrating how deeply rooted Homeboy’s
-  programming is in our community.  Our core program is a paid, therapeutic
+  programming is in our community. Our core program is a paid, therapeutic
   18-month reentry program that offers wraparound supportive services designed
   to heal formerly incarcerated or gang-involved individuals and provide
   education and employment opportunities that lead to stability and
@@ -78,7 +78,7 @@ What is the problem that you are seeking to address?: >-
   employment through a community of acceptance and growth. At the center of the
   model is a set of social enterprises, where clients learn essential jobs
   skills, while working in vibrant, economically viable social enterprise
-  businesses. 
+  businesses.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   At intake, Homeboy collects data on our trainees throughout their
   participation in the program. We have a payroll system and a client management
@@ -87,14 +87,15 @@ What is the problem that you are seeking to address?: >-
   growth, scheduling, and retention. We have developed a Work Maturity
   instrument to track learning on the job and employee engagement as well as
   potential for mobility. Employment Development Plans are written in the first
-  three months of employment and re-visited quarterly.  In 2020 we had the
+  three months of employment and re-visited quarterly. In 2020 we had the
   following results in our workforce development program for formerly
-  gang-involved and incarcerated individuals: 476 received occupational skills
+  gang-involved and incarcerated individuals: 476 received occupational skills
   and work readiness training 205 received basic adult education College
   readiness and support services were extended to 74 clients 10 received a Solar
   professional certification and a job in the industry 154 participants secured
   a job as a result of our services.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '4400'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '17600'
 Describe how Los Angeles County will be different if your work is successful.: >-
   We are on the verge of establishing a new paradigm in LA County – Care First,
   Jails Last – that will set a precedent for what is possible when we
@@ -103,10 +104,10 @@ Describe how Los Angeles County will be different if your work is successful.: >
   the successful reentry of offenders has long differed from existing methods
   because it is anchored in kinship, seeing and serving the whole person, and
   building relationships via those with lived experience as part of the healing
-  process.  Homeboy’s impact is most clearly seen in the transformation of
-  people like Keith, who arrived after his parole officer recommended the
-  program. He says of Homeboy, "I've had time to evolve…I've done things I never
-  thought I could achieve in my life. I've been working with [one of our social
+  process. Homeboy’s impact is most clearly seen in the transformation of people
+  like Keith, who arrived after his parole officer recommended the program. He
+  says of Homeboy, "I've had time to evolve…I've done things I never thought I
+  could achieve in my life. I've been working with [one of our social
   enterprises] for two months. I like that I get to interact with different
   individuals from all over the world that come inside the store…I enjoy telling
   my story to them."

@@ -3,7 +3,8 @@ application_id: '8454013897'
 title: 'Wildlife for Everyone: Accessibility at Sepulveda Basin'
 organization_description: Nonprofit
 project_video: >-
-  https://www.youtube.com/watch?v=mGjLX6AJ9Nc
+  https://www.youtube.com/watch?v=mGjLX6AJ9Nc, "A Walk through Sepulveda Basin",
+  by Douglas R. Welch (permission granted)
 link_donate: www.sfvaudubon.org (contact Board members)
 link_volunteer: www.sfvaudubon.org (contact Board members)
 link_newsletter: www.sfvaudubon.org (FREE membership for 2021)
@@ -16,13 +17,13 @@ organization_facebook: '@sfvaudubon'
 organization_instagram: '@sfvaudubon'
 Describe the mission of your organization.: >-
   San Fernando Valley Audubon Society protects birds and the places they need,
-  today and tomorrow, using science, advocacy, education and conservation.  Our
+  today and tomorrow, using science, advocacy, education and conservation. Our
   vision is that we live in a world in which people and wildlife should both be
   able to thrive.
 project_description: >-
   The Sepulveda Basin Wildlife Reserve is a heavily used haven in the San
   Fernando Valley for all manner of wildlife, and humans seeking the nature
-  experience.  But this is not the case for those with disabilities. This
+  experience. But this is not the case for those with disabilities. This
   proposal will provide a means to access for blind, deaf, seniors, wheelchair
   users and developmentally disabled individuals who desire to experience the
   healing properties of this natural reserve.
@@ -45,27 +46,27 @@ What is the problem that you are seeking to address?: >-
   of Santa Monica Mountains to offer LAUSD Title 1 students a day of outdoor
   curriculum. But for anyone with a disability or even limited stamina, the site
   is a problem. There is nowhere for anyone to rest along the trail, no
-  accommodations for the deaf or blind, and no accommodations for wheelchairs. 
+  accommodations for the deaf or blind, and no accommodations for wheelchairs.
   Disabled Veterans, North Los Angeles Regional Center(NLACRC) consumers
   (28,0000) who are blind, in a wheelchair or have physical limits do not use
   the SBWR. Massive numbers of studies (bibliography available on request) show
   that being outdoors and bird watching helps reduce stress, depression,
-  improves mental focus and immune function.  We aim to fix the access deficits
-  at SBWR.  
+  improves mental focus and immune function. We aim to fix the access deficits
+  at SBWR.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   This proposal seeks to address inequalities at SBWR by making it accessible
-  for everyone, despite physical or cognitive disabilities.  The first basic
-  need is for visitors to be seated briefly as they proceed around the lake. At
-  present there are only two seats, while there is a need for eight more.  The
-  benches proposed are ADA and LA City Parks & Rec approved.  This proposal also
+  for everyone, despite physical or cognitive disabilities. The first basic need
+  is for visitors to be seated briefly as they proceed around the lake. At
+  present there are only two seats, while there is a need for eight more. The
+  benches proposed are ADA and LA City Parks & Rec approved. This proposal also
   includes a new cell phone audiotour package, that allows visitors to learn
   about ecology by listening to pre-recorded segments, using signposts at each
   bench that have the dial-in information, and in Braille (the system also
-  provides captions for the deaf, and has a GPS interactive map).  Anyone can
+  provides captions for the deaf, and has a GPS interactive map). Anyone can
   access the system and the system provides usage data reports. This software is
   used by NPS and many museums and community entities. For wheelchair users,
   equipment is requested that would allow scopes and binoculars to be attached
-  to the wheelchair and adapted to individual needs.  Beach wheelchairs are also
+  to the wheelchair and adapted to individual needs. Beach wheelchairs are also
   requested for those whose chairs cannot deal with the gravel trail. Teaching
   modules will also be developed so that faculty can teach LAUSD special needs
   kids, and equipment to allow tactile teaching is requested (taxidermy birds
@@ -75,32 +76,33 @@ What is the problem that you are seeking to address?: >-
   pelican) and fully understand the subject.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   This proposal will eliminate barriers for the disabled in the existing SBWR
-  setting and teaching curriculum.  Teacher satisfaction is already measured
-  during the school year program, and will now include special needs classes. 
+  setting and teaching curriculum. Teacher satisfaction is already measured
+  during the school year program, and will now include special needs classes.
   The audiotour software allows for year-round usage data, and satisfaction data
   can be collected. For the classes and birding outings, SFVAS checks out
   equipment and tracks it, so that data can be reported out. The VA clinics are
   anxious to resume outings, and number about 600 individuals per year (with
-  satisfaction), so that data will be collected.  NLACRC also has significant
-  numbers of clients who wish to use SBWR.  SFVAS, which already offers birding
-  trips, will add a data column to track disabled users.  No data is collected
-  about these agencies use of  SBWR at present, but they are all expressing a
+  satisfaction), so that data will be collected. NLACRC also has significant
+  numbers of clients who wish to use SBWR. SFVAS, which already offers birding
+  trips, will add a data column to track disabled users. No data is collected
+  about these agencies use of SBWR at present, but they are all expressing a
   keen interest in our activities, and therefore the data collected will be
   significant.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '75'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '3500'
 Describe how Los Angeles County will be different if your work is successful.: >-
   All of these efforts seek to make SPWR an experience for all citizens in our
   area, not just those who are able. Birding and ecology will be available to
   Special Needs as well as regular LAUSD Title 1 students; blind, deaf, and
-  senior visitors will be served by the additional seating and improved 
-  curriculum.  The ecology and conservation information will be available to all
-  using the principles of Universal Design on the audiotour system.  SFVAS will
+  senior visitors will be served by the additional seating and improved
+  curriculum. The ecology and conservation information will be available to all
+  using the principles of Universal Design on the audiotour system. SFVAS will
   share our knowledge with all Chapters of Audubon all around Los Angeles, and
   will serve as a model for LA City Parks and Rec to roll out across the City.
   We will engage with the local VA to bring disabled Veterans to the SBWR and
   enable them to access the outdoors and birding. We are already reaching to
   Lion's Club, Braille Institute, Paralyzed Veteans Association, and AARP, to
-  increase use.  We will work long-term with these organizations to measure
+  increase use. We will work long-term with these organizations to measure
   client satisfaction, attitude to the outdoors, and general mental health
   impacts.
 Describe the role of collaborating organizations on this project.: >-

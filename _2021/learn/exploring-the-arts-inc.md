@@ -17,10 +17,10 @@ organization_facebook: 'https:www.facebook.com/ExploringtheArts'
 organization_instagram: '@ETA_ArtsEd'
 Describe the mission of your organization.: >-
   The mission of Exploring the Arts (ETA) is to transform the lives of young
-  people through arts education.  The heart of ETA's work is a vision to provide
+  people through arts education. The heart of ETA's work is a vision to provide
   greater equity of resources and opportunity in the arts to traditionally
   under-served teens, through partnerships with public middle and high schools
-  with Title 1 designation and arts partners. 
+  with Title 1 designation and arts partners.
 project_description: >-
   With My LA 2050 support, Exploring the Arts (ETA) will infuse Transformative
   Social and Emotional Learning (TSEL) into its arts education programs to help
@@ -28,7 +28,7 @@ project_description: >-
   methods initially developed in response to COVID-19 remote environment, ETA
   will integrate our Professional Learning Communities (PLCs) for arts educators
   and Professional Development (PD) offerings for arts teachers and student
-  mentors into our core programs.  
+  mentors into our core programs.
 category: learn
 connect_metrics: ''
 create_metrics: ''
@@ -46,7 +46,7 @@ In which areas of Los Angeles will you be directly working?:
 What is the problem that you are seeking to address?: >-
   2020 was a year filled with unprecedented pain, anguish and challenges for
   public school communities. Dysfunctional and inadequate systems, built upon a
-  legacy of  racism and classism, unable to cope with the demands of virtual
+  legacy of racism and classism, unable to cope with the demands of virtual
   learning, only amplified the inequity in arts education that our educators,
   students and families have struggled with for many years. Compounded by the
   personal challenges facing our community due to COVID-19, stress, trauma, and
@@ -69,7 +69,7 @@ What is the problem that you are seeking to address?: >-
   will increase the capacity of teachers to center black and brown students’
   identity, skills, culture and community, and nurture creative and critical
   thinkers by incorporating Anti-Racist and TSEL practices in their arts
-  discipline.   The Arts Internship Program (AIP) places high schoolers as paid
+  discipline. The Arts Internship Program (AIP) places high schoolers as paid
   interns in mentorship with professionals working in the arts to support
   connectedness, preparedness, and authentic participation. The 2050 grant would
   support expanding Learning Labs and Mentor Training where participants build
@@ -84,14 +84,15 @@ What is the problem that you are seeking to address?: >-
   Anti-Racist Arts Classroom” PD, led by LA Director Rubi Fregoso, speaks
   directly to how ETA is collaborationg with our schools to address inequity.
   Furthermore, it points to our collective vision of what we can achieve with
-  the support of LA2050.  Assessments and measurable impact indicators are
+  the support of LA2050. Assessments and measurable impact indicators are
   fundamental to the ongoing evaluation of each of ETA’s programs. PLC Pre-and
   post-surveys, AIP self-reported surveys and exit tickets address the outcomes
   pegged to our program benchmarks, including self-awareness, social awareness,
   and connectedness. For example, following virtual summer programming in AIP,
   95% of students said they felt a stronger connection with each other and their
-  mentors. 
+  mentors.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '58'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1750'
 Describe how Los Angeles County will be different if your work is successful.: >-
   “As a school leader, I am looking for ways to incorporate this schoolwide. In
   this capacity, I think it is about creating opportunities to acknowledge all
@@ -100,13 +101,13 @@ Describe how Los Angeles County will be different if your work is successful.: >
   Anti-Racist Arts Classroom” PD, led by LA Director Rubi Fregoso, speaks
   directly to how ETA is collaborationg with our schools to address inequity.
   Furthermore, it points to our collective vision of what we can achieve with
-  the support of LA2050.  Assessments and measurable impact indicators are
+  the support of LA2050. Assessments and measurable impact indicators are
   fundamental to the ongoing evaluation of each of ETA’s programs. PLC Pre-and
   post-surveys, AIP self-reported surveys and exit tickets address the outcomes
   pegged to our program benchmarks, including self-awareness, social awareness,
   and connectedness. For example, following virtual summer programming in AIP,
   95% of students said they felt a stronger connection with each other and their
-  mentors. 
+  mentors.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or

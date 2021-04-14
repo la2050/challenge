@@ -36,23 +36,23 @@ What is the problem that you are seeking to address?: >-
   50 and older — 35 percent of the total population. Nearly two-thirds of
   40-somethings have less than $100,000 in retirement savings and 28% of those
   in their sixties have less than $50,000. For many a single medical emergency
-  can wipe out those savings.  For many, retirement is now a myth. The ability
-  to adapt to a rapidly changing world is fundamental to financial survival.  
-  Our ability to adapt has been surpassed by the rate of technological change.
-  This is especially challenging for workers over 50 who are facing age bias in
-  the workplace already. Only 18% of diversity and inclusion programs include
-  age as a factor.   The skills to stay relevant must include agility with
-  change.
+  can wipe out those savings. For many, retirement is now a myth. The ability to
+  adapt to a rapidly changing world is fundamental to financial survival. Our
+  ability to adapt has been surpassed by the rate of technological change. This
+  is especially challenging for workers over 50 who are facing age bias in the
+  workplace already. Only 18% of diversity and inclusion programs include age as
+  a factor. The skills to stay relevant must include agility with change.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Next For Me offers our books, courses, and workshops that address the mindset
   for change. Through in-person (when appropriate), online, and video the
   offering is free to anyone who wants to stay relevant in the workplace by
-  adopting a growth mindset and agility in times of change. 
+  adopting a growth mindset and agility in times of change.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   ~2,000 subscribers to a weekly newsletter 450+ articles, podcasts, videos and
   interviews 15+ cross country events 15+ partners in 50+ finance and work
   communities 4 courses with over 800 students to date
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '2400'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '10000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   A generation of 50+ Los Angeles workers will have a set of skills to bring
   their wisdom to the workplace and be adaptive enough to stay relevant in their

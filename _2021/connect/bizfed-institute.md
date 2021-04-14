@@ -16,15 +16,14 @@ organization_instagram: ''
 Describe the mission of your organization.: >-
   The BizFed Institute educates, engages, equips and measures consensus
   solutions from civically minded, nonprofit, academic, and regional thought
-  leaders for the purpose of building strong communities throughout
-  California.  
+  leaders for the purpose of building strong communities throughout California.
 project_description: >-
   Parents, grandparents and extended family depend on their children to guide
   them through the newest technologies and forms of digital communication. The
   LA/OCRBC Global Connect program equips young people with the necessary digital
   literacy skillset, while also preparing them to train those at home. The
   program will also connect families with resources to close the digital divide
-  through access and cost.  
+  through access and cost.
 category: connect
 connect_metrics: Internet access
 create_metrics: ''
@@ -51,9 +50,9 @@ What is the problem that you are seeking to address?: >-
   divide has become more apparent with the stay at home orders and the need for
   telehealth, telelearning and telework. These necessary connectivity points at
   home and in the workplace will not go away and equitable access is needed for
-  all.  A large part of the divide in digital access and adoption is the lack of
+  all. A large part of the divide in digital access and adoption is the lack of
   knowledge around affordable broadband programs offered by internet service
-  providers. These programs need to be highlighted and utilized.  
+  providers. These programs need to be highlighted and utilized.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   The LA/OC Regional Broadband Consortia (LA/OCRBC) Global Connect program will
   train teachers and volunteers on how to discuss connectivity with students and
@@ -64,7 +63,7 @@ What is the problem that you are seeking to address?: >-
   and volunteers will receive is a comprehensive outline of all available
   programs that students can take home to discuss with their parents. This
   includes programs offered by nonprofits, the government and the internet
-  service providers (private industry).   By engaging the family, this program
+  service providers (private industry). By engaging the family, this program
   will comprehensively reach the community including older generations and those
   from low socioeconomic backgrounds. Teachers and volunteers will have the
   opportunity to share information through the students to parents,
@@ -74,6 +73,7 @@ What is the problem that you are seeking to address?: >-
   trained, the number of students reached, the number of communities
   participating and family engagement.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '300'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '10000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   In a fully connected Los Angeles County, equity would finally be met and the
   opportunity for residents of all ages and socioeconomic backgrounds will
@@ -82,9 +82,9 @@ Describe how Los Angeles County will be different if your work is successful.: >
   (telehealth) and the ability to learn (telelearning). No longer will some have
   a privilege over others and no longer will barriers exist for some to not be
   able to participate fully in their community. The opportunity for a Global
-  Connection is endless and the ability to engage at home seamless.   The
-  closure of the digital divide also allows for greater civic participation in
-  the local, state and national community. Family members of all ages and
+  Connection is endless and the ability to engage at home seamless. The closure
+  of the digital divide also allows for greater civic participation in the
+  local, state and national community. Family members of all ages and
   backgrounds can finally have a say in the larger conversation on social and
   fiscal policy issues. Empowerment through voice is the strongest tool a person
   can have.
