@@ -18,7 +18,7 @@ Describe the mission of your organization.: >-
   with industry professionals in our trailblazing online and in-person film
   programs. Participants from all over Los Angeles collaborate to create
   festival-ready films in a safe, supportive environment arming them for
-  entrance into top film schools and careers. 
+  entrance into top film schools and careers.
 project_description: >-
   Shattering gender inequity, our online film program empowers girls and
   non-binary youth to create festival-ready films under the tutelage of
@@ -85,7 +85,7 @@ What is the problem that you are seeking to address?: >-
   Board and serve as mentors along with our Board of Directors to create
   networking opportunities at an early age. This unparalleled pipeline is aimed
   at getting more girls paid jobs behind the camera so they can be better
-  represented in front of the camera.  
+  represented in front of the camera.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   “The Sound of Justice,” a feature produced in our pilot program premiered at
   OC’s Multicultural Film Fiesta and was accepted at Denver’s XicanIndie Film
@@ -102,6 +102,7 @@ What is the problem that you are seeking to address?: >-
   progress from LA middle schools to jobs and create a unique pipeline and
   networking database.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '25000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '500000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   In the short term our scholarship film intensive impacts girls and non-binary
   youth from all economic strata giving them training early to become fearless

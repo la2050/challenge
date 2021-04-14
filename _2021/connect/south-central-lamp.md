@@ -59,7 +59,7 @@ What is the problem that you are seeking to address?: >-
   Childhood Education that incorporates STEM education, and Parent-Child
   Interactive Literacy Activities. We also provide a weekly food distribution,
   free educational workshops, and developmental screenings for children in
-  partnership with the LA Regional Center.   Since the onset of the pandemic,
+  partnership with the LA Regional Center. Since the onset of the pandemic,
   South Central LAMP has continued to provide Early Childhood Education and ESL
   lessons through Class Dojo, allowed more parents to connect during zoom
   classes by providing them with iPads with modems, and remained in contact with
@@ -87,6 +87,7 @@ What is the problem that you are seeking to address?: >-
   them overcome any obstacles. This close personal engagement contributes to our
   high program retention rate, which is consistently 90% and higher.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '300'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   The 2017 Key Indicators of Health report lists South LA as the county’s
   highest percentage of households living in poverty, highest percentage of

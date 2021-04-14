@@ -44,7 +44,7 @@ What is the problem that you are seeking to address?: >-
   the future. We feel that we have a responsibility, not only to ourselves and
   our loved ones, but also to our City, and our local artists. We have a
   responsibility to create space for the community, to provide a sounding board
-  to  experience the work and messages of these profound artists. This is a love
+  to experience the work and messages of these profound artists. This is a love
   note to Los Angeles. We want to address the need for cultural vitality, for
   residents and creatives alike, and come together collectively to heal
   ourselves with the power of art. The role of art in our everyday lives is much
@@ -56,10 +56,10 @@ What is the problem that you are seeking to address?: >-
   On the evening of Saturday, April 10, 2021, the Los Angeles community is
   invited to experience LUMINEX, an outdoor walkable digital art exhibition
   taking place in the South Park district of DTLA. The exhibition will run 7:30
-  pm to 11:30 pm and  is free to the public. Curated by NOW Art Foundation,
+  pm to 11:30 pm and is free to the public. Curated by NOW Art Foundation,
   LUMINEX is an exhibition of six internationally acclaimed Los Angeles artists:
   Refik Anadol, Nancy Baker Cahill, Sarah Rara, Carole Kim, Luciana Abait, and
-  Akiko Yamashita; supported by a collective of community sponsors.  Using our
+  Akiko Yamashita; supported by a collective of community sponsors. Using our
   Downtown buildings as backdrops, these Los Angeles artists will use cutting
   edge digital art to reflect upon the past year, re-inspire our cultural
   connection, and spotlight the healing power of art. This site-specific
@@ -77,13 +77,14 @@ What is the problem that you are seeking to address?: >-
   public, the greatest metric one can aspire is legacy; do people remember the
   event, were they inspired by the works, did it inspire even better works and
   even better projects, did it create discussion, did it create action, did it
-  become part of the culture of the city,  thereby turning into a event that is
+  become part of the culture of the city, thereby turning into a event that is
   repeated or even emulated. If a person sees these works and thinks to
   themself, ‘maybe I can do that’, and ‘I can do that a bit better’. If it
   provides a sense of joy, pride, or thoughtfulness. If only one of these comes
   to fruition, then this event will have been everything that any artist could
   have hoped.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '50000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1000000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Los Angeles is a city that is based around creativity, innovation and culture.
   With the pandemic and the closing of innumerable venues, galleries, and

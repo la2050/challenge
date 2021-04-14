@@ -59,23 +59,23 @@ What is the problem that you are seeking to address?: >-
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   The world is full of loving individuals ready to do the necessary work to
   create a loving LA. We are committed to loving actions. We are committed to
-  bringing love to every situation.  We will use our NEXT 100 days of Love to
+  bringing love to every situation. We will use our NEXT 100 days of Love to
   host experiences and amplify loving thought to educate, inspire and connect to
   community interested in ecosystems restoration, land acknowledgement, rooted
-  reconnection to place and the love of all living things.  Mels Love Land needs
+  reconnection to place and the love of all living things. Mels Love Land needs
   an infusion of attention, investment and relationship building to expand all
   of the various love and kindness work we do throughout LA. We envision a new
   day. A new way to identify, establish and operate sustainable programs that
-  utilize the city's most valuable assets.   The NEXT 100 days of love will
-  host, organize and establish the inner workings of an all systems love
-  network, involved in shifting the conversation to love.  Los Angeles is home
-  to so many artists, engineers, farmers, folklorists, accountants,
-  transformational leaders (healers, coaches, workers, doctors, strategists,
-  leaders, practitioners) we are passionate about making transforming LA with a
-  long-lasting, permanent shift to aligning in love.    In our connection is our
+  utilize the city's most valuable assets. The NEXT 100 days of love will host,
+  organize and establish the inner workings of an all systems love network,
+  involved in shifting the conversation to love. Los Angeles is home to so many
+  artists, engineers, farmers, folklorists, accountants, transformational
+  leaders (healers, coaches, workers, doctors, strategists, leaders,
+  practitioners) we are passionate about making transforming LA with a
+  long-lasting, permanent shift to aligning in love. In our connection is our
   salvation and the NEXT 100 initiative allows us to consider the possibility
   there is another way. A dear friend suggests we apply our hearts to
-  envisioning the world we wish to create. 
+  envisioning the world we wish to create.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Love holds SPACE for results as we demonstrate what choosing love does. We
   plan on an LA NEXT 100 days of love with subscribers to the all systems love
@@ -91,6 +91,7 @@ What is the problem that you are seeking to address?: >-
   platform for launch of initiative 2021-2022. It represents distilled wisdom,
   as we demonstrate how much love, ingenuity and possibility is available in LA.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '3500'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '125000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   We envision a vibrant LA where folks of different backgrounds, beliefs,
   opinions and ideas are aligned in love, co-creating harmony, peace as we go
@@ -98,14 +99,14 @@ Describe how Los Angeles County will be different if your work is successful.: >
   collective. Every program in our all systems love movement is designed as
   heart centered activations. We organize the organizers, using advanced loving
   tech for engagement of participants, grounding foundational wellness to arrive
-  at solutions for inter-personal, multi-dimensional possibilities.   We use our
+  at solutions for inter-personal, multi-dimensional possibilities. We use our
   loving efforts in different segments of Angelinos. Young leaders growing into
   their hearts as stewards of land, air and water around LA. We cultivate
   volunteer/mentors by expanding what has meaning in the lives we interact with.
   We integrate Executives within major corporate interests to cultivate
   leadership frequencies amplifying personal integrity and folks innate ability
   to positively catalyze the transformation that is underway in LA and all of
-  its constituents. 
+  its constituents.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Communications support,Capacity-building and training,Strategy assistance and

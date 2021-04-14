@@ -46,18 +46,18 @@ What is the problem that you are seeking to address?: >-
   to increase the number of coaches working with youth in LA’s most underserved
   communities and provide training citywide to all youth sports coaches who want
   to use play to impact the physical, social-emotional and academic health of
-  young people.  
+  young people.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Up2Us Sports plans to address this immense need for healing among LA youth by
   offering our nationally recognized “trauma-informed” coach training to local
-  schools, parks and nonprofits.  We will leverage funding from LA2050 to bring
+  schools, parks and nonprofits. We will leverage funding from LA2050 to bring
   on a dedicated Training Manager and infuse our Coach Training Curriculum with
   additional training content that addresses the specific challenges that youth
   and their coaches are facing in the post-pandemic environment (i.e. mental
   health, racial equity, and gender equity issues). We will also identify
   communities that are lacking coaches and leverage our federal AmeriCorps grant
   to recruit coaches and level the playing field for opportunities for all youth
-  to play - regardless of their socio-economic status.  Our training will help
+  to play - regardless of their socio-economic status. Our training will help
   coaches to intentionally use the combination of physical activity, positive
   peer-support, adult mentoring and life skills development in sports to
   directly address post-traumatic stress resulting from isolation. This approach
@@ -70,15 +70,16 @@ What is the problem that you are seeking to address?: >-
   equivalent). We will also conduct site visits to determine whether youth have
   positive experiences with Up2Us Sports coaches trained in SBYD practices and
   how it translates into a more meaningful impact on the development of their
-  physical and mental wellness as well as SEL skills.    A mixed-methods
-  approach will be used to collect quantitative and qualitative data (through
-  pre- and post-surveys) from coaches and youth to assess program impact on
-  coach reaction, learning, and application as well as on youth results,
-  following the Kirkpatrick Model of Learning.   • Coach Outcomes -Increased
-  knowledge and skills and their application in SBYD and trauma-informed
-  coaching • Youth Outcomes: -Positive engagement and experience with Up2Us
-  Sports trained coaches
+  physical and mental wellness as well as SEL skills. A mixed-methods approach
+  will be used to collect quantitative and qualitative data (through pre- and
+  post-surveys) from coaches and youth to assess program impact on coach
+  reaction, learning, and application as well as on youth results, following the
+  Kirkpatrick Model of Learning. • Coach Outcomes -Increased knowledge and
+  skills and their application in SBYD and trauma-informed coaching • Youth
+  Outcomes: -Positive engagement and experience with Up2Us Sports trained
+  coaches
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '1040'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '26000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Since 2013, Up2Us Sports has been supporting the development of young adults
   (primarily from low-income communities) to become coach-mentors in LA’s most

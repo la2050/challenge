@@ -44,11 +44,11 @@ What is the problem that you are seeking to address?: >-
   the U.S. over the past decade. Despite this, the opportunity gap is a chasm.
   Less than 2% of available venture funding reaches Black and Latinx startup
   founders. White startup founders are 3.4 times more likely to receive approved
-  capital investment than their Black and Brown counterparts.   A business
+  capital investment than their Black and Brown counterparts. A business
   starting strong financially can endure challenges, adapt to changes, and scale
   up. Startups with significant initial investment are also more likely to
   receive additional funding during future funding rounds. The odds are stacked
-  against founders lacking initial investment.   Four factors are critical in
+  against founders lacking initial investment. Four factors are critical in
   determining whether a small business succeeds or fails: financial resources,
   management capability, brand awareness, and startup capital access. The Plug
   In South LA Accelerator Program targets these areas for minority early-stage
@@ -61,7 +61,7 @@ What is the problem that you are seeking to address?: >-
   product development, team building, fundraising strategies, and user
   acquisition growth. The seasonal program runs from 12 to 20 weeks and
   culminates in a showcase where the founders present their companies to
-  experts, community leaders, and prospective investors.   Plug In South LA does
+  experts, community leaders, and prospective investors. Plug In South LA does
   not have an equity stake in the startups. Instead, we take a hands-on approach
   to workshop the founders’ challenges, helping them develop, communicate, and
   execute their ideas to scale up their businesses. Participating founders
@@ -84,18 +84,19 @@ What is the problem that you are seeking to address?: >-
   the number of volunteer and guest mentors, and the overall number of programs
   in South LA that promote entrepreneurship.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '90'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1350'
 Describe how Los Angeles County will be different if your work is successful.: >-
   The Plug In South LA Accelerator Program’s first cohort of five local startup
   founders graduated in 2020. Founders emerged with quantifiable gains including
   signing paid customers, increases in online conversions, hiring employees, and
   raising capital. The current second cohort has eight founders. Dozens of
-  mentors and speakers volunteer for the program.  Each participating founder
+  mentors and speakers volunteer for the program. Each participating founder
   creates positive ripple effects in LA. Successfully offering the program
   year-round will scale up benefits locally: boosting existing businesses and
   suppliers, creating job opportunities, inspiring young innovators, and
   building a diverse talent pipeline for the broader tech industry in Los
   Angeles County. A stronger startup community in South LA provides a tangible
-  economic boost to the region.  With this grant, a year-round program will
+  economic boost to the region. With this grant, a year-round program will
   support 90 Black and Latinx early-stage founders annually, increasing the
   number of viable local businesses while advancing Los Angeles as a tech
   entrepreneurship hub.

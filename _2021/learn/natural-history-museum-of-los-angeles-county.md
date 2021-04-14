@@ -47,14 +47,14 @@ What is the problem that you are seeking to address?: >-
   view of science, all too frequently extracurricular opportunities in the
   sciences are rare in low income communities. As a result, people of color
   continue to be vastly underrepresented in the sciences, both within higher
-  education and the workforce. NHM’s goal is to close that gap.  Here's how an
+  education and the workforce. NHM’s goal is to close that gap. Here's how an
   NHM Ocean Experience Mobile Museum residency at a high school in Boyle Heights
   changed the lives of the teens who participated. Students were so inspired by
   what they experienced, and shared their phenomenal drive to learn more, that
   NHM subsequently created a paid Marine Science Teen Internship program
   especially for them. Fast forward a year and alumni of the program are now
   attending the University of Hawaii, UC Berkeley, among many others, as Science
-  majors. 
+  majors.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   NHM education programs invite students to engage in the work of real
   scientists. Being able to touch and observe real fossils and historical
@@ -62,14 +62,14 @@ What is the problem that you are seeking to address?: >-
   students not actively engaged by traditional classroom settings. Interacting
   directly with the authentic research being done by museum scientists, and
   seeing themselves reflected in the diverse faces of those same scientists, can
-  be transformative.  In response to the pandemic, NHM is offering a full suite
+  be transformative. In response to the pandemic, NHM is offering a full suite
   of virtual learning resources to students learning from home and their
   teachers. Videos cover everything from LA history to mammalogy and mineral
   science. Large-scale webinars bring objects from "behind the scenes” for
   students to exclusively access. Museum Educators work one-on-one virtually
   with individual classrooms focused on developing critical thinking and science
   literacy. And “Adventures in Nature” day camps provide students in pre-K
-  through 8th grade an opportunity to spark their curiosity and creativity.   In
+  through 8th grade an opportunity to spark their curiosity and creativity. In
   this current moment, when the timeline for in-person field trips remains
   unclear, our challenge (and opportunity) is to deliver our immersive programs
   wherever our audiences are. We want to continue to expand our reach to
@@ -81,7 +81,7 @@ What is the problem that you are seeking to address?: >-
   program effectiveness. Specifically, we track metrics related to the following
   four broad categories: 1) use and reach; 2) implementation and student
   participation; 3) outcomes and understanding achieved; and 4) quality of
-  engagement.  Outcomes vary from program to program, but these results are
+  engagement. Outcomes vary from program to program, but these results are
   typical: students are more actively engaged in their learning, asking
   questions, raising their hand, and getting involved. Having direct contact
   with Museum Educators, Collections Managers, and Curators affords students a
@@ -90,8 +90,9 @@ What is the problem that you are seeking to address?: >-
   rare artifacts and primary resource materials their sense of awe really makes
   the learning “stick.” The fact that this “sticky” content delivery is
   seamlessly integrated with Next Generation Science Standards leads to
-  improvement in academic achievement. 
+  improvement in academic achievement.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '12085'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '7500'
 Describe how Los Angeles County will be different if your work is successful.: >-
   NHM seeks to ensure that all young Angelenos have equitable access to science
   and cultural learning opportunities. In this critical moment in our region’s
@@ -117,7 +118,7 @@ Describe the role of collaborating organizations on this project.: >-
   Los Angeles County. This year, NHMLAC also piloted the Teacher Advisory
   Council, made up of nine teachers who represent schools and districts all over
   Los Angeles County, to assist in curriculum development and provide direct
-  access and perspectives regarding student needs. 
+  access and perspectives regarding student needs.
 Which of LA2050’s resources will be of the most value to you?: 'Access to the LA2050 community,Communications support'
 Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:

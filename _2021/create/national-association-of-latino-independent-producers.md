@@ -20,7 +20,7 @@ project_description: >-
   NALIP’s Emerging Content Creators Inclusion Initiative (ECCII) aims to provide
   support to young creators through forums, networking, mentorships, summer
   programs, workshops, and funding for projects that will be used for entrance
-  into higher-education institutions. This initiative  targets creatives who are
+  into higher-education institutions. This initiative targets creatives who are
   in the beginning stages or wish to enter the entertainment sphere but lack the
   knowledge, resources, and mentorship.
 category: create
@@ -75,7 +75,7 @@ What is the problem that you are seeking to address?: >-
   provide more programs for emerging creators outside of the event cycle. NALIP
   keeps track of recipients, their development, inspires them to pursue creative
   endeavors within graduate school, specific programs (directing, writing), or
-  start their career at a studio/network. NALIP measures success  through the
+  start their career at a studio/network. NALIP measures success through the
   number of participants in the program, number of industry partner mentorship
   opportunities offered, percent of recipients who report gaining knowledge
   about issues of diversity, equity, and inclusion in the media and
@@ -85,13 +85,14 @@ What is the problem that you are seeking to address?: >-
   mentors before and after the program, and plans conduct a follow-up survey 6
   months after and 2 years after the program ends.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '600'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '15000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Many creators rely on gigs and events to promote their projects and network,
   however the pandemic suppressed many creator’s potential opportunities. The
   Emerging Content Creators Initiative will make measurable progress towards
   making Los Angeles the best place to create and grow by increasing the
   resources and guidance available to emerging creatives. In order for emerging
-  creators to succeed, they must know how and where to start in this industry.  
+  creators to succeed, they must know how and where to start in this industry.
   ECCII breaks the barrier and allows emerging creators to understand and
   demystify the entertainment ecosystem by offering the resources and
   connections to establish themselves in the entertainment industry. This

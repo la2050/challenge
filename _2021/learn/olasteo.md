@@ -47,7 +47,7 @@ What is the problem that you are seeking to address?: >-
   opportunities they deserve to graduate from high school and enter college.
   OLASTEO works to close this gap by providing innovative experiential
   programming and opportunities for students in high school and college at
-  critical turning points in their lives.   OLASTEO is currently expanding its
+  critical turning points in their lives. OLASTEO is currently expanding its
   reach beyond Watts, and in 2021 will be serving students in the following Los
   Angeles County communities: Watts, Compton, Arroyo Seco-Boyle Heights,
   Southeast Los Angeles, Palmdale, Lancaster, Florence-Graham, Huntington Park,
@@ -61,8 +61,8 @@ What is the problem that you are seeking to address?: >-
   online world and can be attended safely from our scholars’ homes. Each virtual
   experience includes an educational workshop, at least two interactive speaker
   sessions, a welcome package, a foodie experience delivered to our students
-  each day, and a completion appreciation gift at the program’s culmination. 
-  The requested funds will be used in support of OLASTEO’s Virtual Experience
+  each day, and a completion appreciation gift at the program’s culmination. The
+  requested funds will be used in support of OLASTEO’s Virtual Experience
   programming. Each experience will target serving up to 50 students per event.
   For a modest per-student dollar amount, we are able to educate students,
   expose minds, and expand mindsets in a boutique and impactful manner. All
@@ -71,24 +71,25 @@ What is the problem that you are seeking to address?: >-
   goods and products related to our speaker line-up, and to pay honorariums for
   speakers and education sessions. Please view our 2020 Summer Virtual
   Experience Impact Report (https://bit.ly/3fzHgpq), which highlights our
-  first-ever Virtual Experience.  If the state of the COVID-19 pandemic improves
+  first-ever Virtual Experience. If the state of the COVID-19 pandemic improves
   and when in-person gatherings are safe, OLASTEO will pivot back to our
   in-person Excursions.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   High School Graduation: We believe our organization further enriches the lives
   of our students and motivates them to succeed. We track high school graduation
   rates for all of our students. (98% of eligible high school graduates have
-  graduated from high school to date)  College or Trade School Matriculation: We
+  graduated from high school to date) College or Trade School Matriculation: We
   believe our organization further enriches the lives of our students and
   motivates them to succeed. We track college and trade school matriculation and
-  graduation rates for all of our students. (Too early to report)  Participation
+  graduation rates for all of our students. (Too early to report) Participation
   Rate: We will track the number of student participants in each Virtual
   Experience event. We strive to increase the number of students participating
-  as we hold more events. (New)  Repeat Participation Rate: We will track the
-  number of repeat student participants across Virtual Experience events. (New) 
+  as we hold more events. (New) Repeat Participation Rate: We will track the
+  number of repeat student participants across Virtual Experience events. (New)
   # of Partner Organizations Represented: We will track the number of partner
   organizations that are represented by our student participants. (New)
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '250'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1250'
 Describe how Los Angeles County will be different if your work is successful.: >-
   OLASTEO serves as an innovative experiential learning program for students in
   underserved communities throughout LA County. We expose students to the
@@ -99,7 +100,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   community that exists within Los Angeles County. OLASTEO scholars are
   accepting of the salad bowl they live in and equipped with the knowledge to
   educate their families, friends, and classmates on the stories and experiences
-  of others.   Please hear from our scholars Yuli
+  of others. Please hear from our scholars Yuli
   (https://www.youtube.com/watch?v=pdcoxB70rlM) and Amsi
   (https://www.youtube.com/watch?v=16KfyGM7FaY) as they truly tell it best.
 Describe the role of collaborating organizations on this project.: ''

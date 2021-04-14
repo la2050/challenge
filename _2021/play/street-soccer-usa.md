@@ -18,7 +18,7 @@ Describe the mission of your organization.: >-
   nonprofit with over a decade experience creating lasting impact in the lives
   of our participants/families by mobilizing the power of soccer to fight
   poverty and strengthen communities. In order to do so, we hire community
-  stakeholders to ensure continued community autonomy.  
+  stakeholders to ensure continued community autonomy.
 project_description: >-
   This grant will support Street Soccer USA's Los Angeles chapter in building
   highly accessible futsal courts on unused land, and hiring and retaining
@@ -47,7 +47,7 @@ What is the problem that you are seeking to address?: >-
   At SSUSA - LA, we seek to address a variety of problems, from assisting the
   unhoused and underserved through transitional avenues like weekly practices
   and employment opportunities to increasing awareness in health, nutrition and
-  physical activity.  Though these problems are all deeply rooted and deserving
+  physical activity. Though these problems are all deeply rooted and deserving
   of our time and resources, our main goal is to provide access to an otherwise
   restricted environment of soccer engagement. The U.S. has a long history of
   pay to play, and we are here to change that. We are here to identify
@@ -58,7 +58,27 @@ What is the problem that you are seeking to address?: >-
   by employing those from the same communities that we service, so that when the
   project is at its peak, leadership will be in the hands of those same
   communities.
-'Describe the project, program, or initiative that this grant will support to address the problem identified.': ' As mentioned in Question 7, we''ve found that the most effective way to bridge this equity gap is by employing those from the same communities that we service, so that when the project is at its peak, leadership will be in the hands of those same communities. In order to that, though, we need to raise the funds necessary to build these spaces. It''s one thing for an organization to come into a community and build, or activate a space. It''s a completely different task to fill those organizational positions with people who understand the nuances, and social and cultural dynamics that are involved in the everyday happenings of the communities where these spaces are created.  By doing just that; by providing the opportunities to take ownership of programs and operations in stakeholders'' hometowns and communities, an infrastructure is created so that regardless of who is "in charge" at the present moment, the power and trajectory of the programs will always be in the hands of the community, not outside influences.  The model involves identifying adult aged applicants, preferably past participants who are familiar with the structure of programs, vision and mission and training them to take over all operations on a community level. In turn, these employees will identify the next generation of leaders and be primed to have a self sustaining community operation that is so much more than a soccer club, but a space of safety, inclusion and community pride.'
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  As mentioned in Question 7, we've found that the most effective way to bridge
+  this equity gap is by employing those from the same communities that we
+  service, so that when the project is at its peak, leadership will be in the
+  hands of those same communities. In order to that, though, we need to raise
+  the funds necessary to build these spaces. It's one thing for an organization
+  to come into a community and build, or activate a space. It's a completely
+  different task to fill those organizational positions with people who
+  understand the nuances, and social and cultural dynamics that are involved in
+  the everyday happenings of the communities where these spaces are created. By
+  doing just that; by providing the opportunities to take ownership of programs
+  and operations in stakeholders' hometowns and communities, an infrastructure
+  is created so that regardless of who is "in charge" at the present moment, the
+  power and trajectory of the programs will always be in the hands of the
+  community, not outside influences. The model involves identifying adult aged
+  applicants, preferably past participants who are familiar with the structure
+  of programs, vision and mission and training them to take over all operations
+  on a community level. In turn, these employees will identify the next
+  generation of leaders and be primed to have a self sustaining community
+  operation that is so much more than a soccer club, but a space of safety,
+  inclusion and community pride.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   With a combination of partnerships with 3rd party organizations, such as
   Salesforce and UpMetrics, we currently track participation, retention, age,
@@ -68,8 +88,9 @@ What is the problem that you are seeking to address?: >-
   graduation rates in academic settings. Furthermore, we will enhance the
   specificity of these metrics by leveraging our partnerships with LAUSD so that
   we can track and correlate participation and retention rates with academic
-  performance. 
+  performance.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '150'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '300'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Globally, soccer is an urban sport; domestically, the pay to play structure
   has made it increasingly an affluent, suburban sport, particularly at the club

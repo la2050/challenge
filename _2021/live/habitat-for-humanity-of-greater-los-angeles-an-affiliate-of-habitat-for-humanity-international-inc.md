@@ -48,14 +48,14 @@ What is the problem that you are seeking to address?: >-
   necessary repairs to their homes. Many households with mortgages often defer
   vital maintenance on their homes due to high housing costs and costs of
   living. This increases the potential for health and safety threats for these
-  homeowners and leads to neglected neighborhoods, and sometimes homelessness. 
+  homeowners and leads to neglected neighborhoods, and sometimes homelessness.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Habitat LA’s Home Preservation Program (HPP) provides low-income households
   throughout Los Angeles County with interior and exterior repairs to their
   homes. Examples of repairs include but are not limited to the following: roof
   repair, mechanical, electrical and plumbing, accessibility modifications,
   weatherization upgrades, and flooring repair, all of which increase health and
-  safety and help families continue to thrive in their homes.   One of the
+  safety and help families continue to thrive in their homes. One of the
   fastest-growing age groups nationwide is 65 and older. The troubling reality
   is that many older adults are living in homes that are in disrepair or
   inadequate for their needs and are unable to access resources to make their
@@ -63,8 +63,8 @@ What is the problem that you are seeking to address?: >-
   with comfort and dignity in their home by providing repairs such as widening
   hallways and installing access ramps and grab bars. Because of these
   additions, older adults can move around safely, avoid accidents and injuries
-  that can be exacerbated by age, illness, and impaired mobility.   Habitat LA
-  has served more than 500 households with repairs and modifications. Our field
+  that can be exacerbated by age, illness, and impaired mobility. Habitat LA has
+  served more than 500 households with repairs and modifications. Our field
   staff is all too familiar with the dangers created by leaking roofs, loose or
   non-existent handrails, exposed wires, and malfunctioning electrical panels,
   yet this is exactly what we see in many of the homes. To ensure that
@@ -83,6 +83,7 @@ What is the problem that you are seeking to address?: >-
   staff will continue to use Homekeeper, which will allow us to more effectively
   collect and share information within the affiliate and with funders.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '30'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1000000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Repairs and modifications provided by Habitat LA will enhance safety, increase
   security, and provide greater self-sufficiency for homeowners throughout Los
@@ -96,7 +97,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   onsite renewable power thus reducing local sources of air pollution. Also,
   homes that receive energy efficiency upgrades and weatherization improvements
   will consume less energy from non-renewable energy sources, therefore
-  generating less greenhouse gases that contribute to climate change.   
+  generating less greenhouse gases that contribute to climate change.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Communications support,Capacity-building and

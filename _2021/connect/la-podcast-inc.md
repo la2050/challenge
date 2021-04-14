@@ -51,12 +51,12 @@ What is the problem that you are seeking to address?: >-
   people living on our streets than any other city in the country, and is one of
   the least affordable places for housing anywhere in the world. We have some of
   the highest rates of poverty and income inequality, the worst air quality, and
-  the deadliest streets.   Underlying these larger problems is the fact that
-  City Hall feels totally inaccessible to the average Angeleno. This is
-  especially true of City Council’s 13 committees, which is where the most
-  important policies are made. As a result, most of us are stuck reacting to
-  policies after it’s too late to change them — if we hear about them at all. 
-  The inaccessibility of City Hall makes our problems feel insurmountable, but
+  the deadliest streets. Underlying these larger problems is the fact that City
+  Hall feels totally inaccessible to the average Angeleno. This is especially
+  true of City Council’s 13 committees, which is where the most important
+  policies are made. As a result, most of us are stuck reacting to policies
+  after it’s too late to change them — if we hear about them at all. The
+  inaccessibility of City Hall makes our problems feel insurmountable, but
   that’s only because most Angelenos don’t understand how local government and
   policymaking works, and what they can do to help make LA a better place for
   everyone.
@@ -65,15 +65,15 @@ What is the problem that you are seeking to address?: >-
   and publicize key pieces of local legislation from inception through the time
   they become policy; and (2) a podcast miniseries explaining how City Hall
   works, the impact of policies on people on the ground, and how you can get
-  involved and make a difference.  For our legislation tracking website and
+  involved and make a difference. For our legislation tracking website and
   newsletter, which we’re calling “LA on Deck,” we’ll spotlight priority pieces
   of legislation that will have the biggest impact on people’s ability to live,
   work, and thrive. We’ll track these bills through City Council’s committees —
   little known entities that provide the most important opportunities for public
   input. In clear and interesting ways, we’ll cover what bills are important,
   how the proposed policies will impact people’s lives, where they’re at in the
-  process of becoming law, and when there are opportunities for you to weigh
-  in.   Our companion podcast miniseries, “Key to the City,” will offer a unique
+  process of becoming law, and when there are opportunities for you to weigh in.
+  Our companion podcast miniseries, “Key to the City,” will offer a unique
   combination of on-the-ground reporting and in-depth policy analysis. We’ll
   employ local journalists to do interviews and reporting, and work with our
   friends at LA Forward to demystify the ways that policy and local politics
@@ -87,24 +87,25 @@ What is the problem that you are seeking to address?: >-
   has dozens of volunteer organizers who’ve helped run 100+ civic education
   workshops and events over the past year, and both groups produce voter guides
   to local elections that have been read and shared hundreds of thousands of
-  times.  We will measure the success of our new joint initiative by a number of
-  metrics, including:  - How many people use, share, and act on the legislative
+  times. We will measure the success of our new joint initiative by a number of
+  metrics, including: - How many people use, share, and act on the legislative
   information on LA on Deck. - How many people listen to the podcast and engage
-  with our social media content and calls to action.  It’s important to us that
+  with our social media content and calls to action. It’s important to us that
   those engaging with this project mirror LA’s amazing diversity, and we will
   work with our partners to make sure all of our content reaches and resonates
   with communities across LA.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '50000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '500000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Our ultimate goals are to make City Hall more accessible and give Angelenos a
-  greater voice in the systems and policies that shape our lives.   In the short
-  term, we hope this project will lead to:  - Greater awareness of and
+  greater voice in the systems and policies that shape our lives. In the short
+  term, we hope this project will lead to: - Greater awareness of and
   participation in the workings of City Council and its committees. - More
   Angelenos of all backgrounds participating in neighborhood councils, mutual
-  aid groups, and other community-based volunteering initiatives.  Long term, we
+  aid groups, and other community-based volunteering initiatives. Long term, we
   believe that a more engaged and knowledgeable population can better push for
   policies that meaningfully improve life for Angelenos. Long term goals
-  include:  - Bigger, bolder, and more effective policy solutions to address our
+  include: - Bigger, bolder, and more effective policy solutions to address our
   most urgent crises — developed from the ground-up with extensive community
   input. - More people running for office and other positions of power in their
   own communities. - More representative government better in tune with the
@@ -116,9 +117,9 @@ Describe the role of collaborating organizations on this project.: >-
   Produce the Key to the City podcast. - Advise on design, outreach, and social
   media strategy for LA on Deck. - Connect with local entertainers and
   influencers to promote the podcast and tracking platform, and leverage our
-  combined 100,000 followers on social to engage with and share the projects.  
+  combined 100,000 followers on social to engage with and share the projects.
   The LA Forward team will: - Hire and manage the research and writing teams for
-  LA on Deck.  - Connect with local organizers, coalitions, and community-based
+  LA on Deck. - Connect with local organizers, coalitions, and community-based
   nonprofits to establish partnerships and for input and feedback on both LA on
   Deck and the podcast. - Advise as subject-matter experts on the podcast
   mini-series.

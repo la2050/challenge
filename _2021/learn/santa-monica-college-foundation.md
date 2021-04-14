@@ -26,7 +26,7 @@ project_description: >-
   partnerships solely with Los Angeles-based nonprofits, businesses, and
   restaurants. Meal Project is utilized as an access point to increase screening
   and connections to critical services inside and outside SMC, for a range of
-  supports from housing insecurity to mental health and wellbeing.  
+  supports from housing insecurity to mental health and wellbeing.
 category: learn
 connect_metrics: ''
 create_metrics: ''
@@ -41,7 +41,7 @@ In which areas of Los Angeles will you be directly working?:
 What is the problem that you are seeking to address?: >-
   Community College students’ completion of degrees and career or technical
   certifications are critical to the upward mobility of individuals as well as a
-  resilient Los Angeles economy.  SMC’s 29,600 students reflect Los Angeles
+  resilient Los Angeles economy. SMC’s 29,600 students reflect Los Angeles
   County with most (90%) residing outside of the Santa Monica city limits and
   concentrated (68%) in L.A. County Supervisory District’s 1 and 2, Downtown,
   East and South of Downtown L.A., which have seen the greatest economic and
@@ -51,7 +51,7 @@ What is the problem that you are seeking to address?: >-
   insecurity among SMC students prior to and during the pandemic - along with
   data showing the detrimental effect food insecurity has on college persistence
   and degree completion - propelled us to reengineer and dramatically expand our
-  food security ecosystem, launched as Meal Project in March 2020. 
+  food security ecosystem, launched as Meal Project in March 2020.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Meal Project connects students to longer-term supports while employing
   strategies to address their immediate food insecurity. Meal Project provides a
@@ -72,36 +72,36 @@ What is the problem that you are seeking to address?: >-
   social supports, and health and well-being, all essential contributors to
   academic success. SMC also has a designated facilitator to help students sign
   up for benefits such as CalFresh (Supplemental Nutrition Assistance Program
-  aka food stamps). 
+  aka food stamps).
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   SMC has seen a 20% higher rate of academic persistence, demonstrated through
   continued enrollment semester to semester, among students receiving Meal
   Project assistance compared to the general student population (SMC
-  Institutional Research).     Impact measures:     1) Number of meals and bags
-  of groceries distributed. Anticipated: 150,000 – 200,000 meals and 40,000 –
-  50,000 bags of groceries.   2) Increased student persistence as measured by
+  Institutional Research). Impact measures: 1) Number of meals and bags of
+  groceries distributed. Anticipated: 150,000 – 200,000 meals and 40,000 –
+  50,000 bags of groceries. 2) Increased student persistence as measured by
   course completion, drop rates, and continued enrollment for participants
-  compared to the student body.    3) Increased matriculation to college among
+  compared to the student body. 3) Increased matriculation to college among
   vulnerable students as measured by enrollment of new students (freshman)
-  qualifying for Meal Project assistance.    4) Increased graduation rates among
-  students receiving Meal Project assistance.     5) Increased food security
-  among participants.    6) Increased program usage by at-risk populations.   
-  7) Number of needs assessments conducted.   8) New referrals to/enrollment in
-  CalFresh.
+  qualifying for Meal Project assistance. 4) Increased graduation rates among
+  students receiving Meal Project assistance. 5) Increased food security among
+  participants. 6) Increased program usage by at-risk populations. 7) Number of
+  needs assessments conducted. 8) New referrals to/enrollment in CalFresh.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '13354'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': ''
 Describe how Los Angeles County will be different if your work is successful.: >-
   We envision a future in which college students reach their academic and career
   dreams, knowing their basic needs, including food security, are assured. In
   addition, we foresee other higher education institutions addressing students’
   basic needs more broadly, as we continue to share our models and lessons
-  learned with one another.   SMC is poised to have an outsized impact on
-  college matriculation during the grant period if we are able to continue the
-  program at the current level where no student struggling with extreme hunger
-  is turned away. A harbinger of the future, SMC’s enrollment decreased less
-  than 2% during the pandemic while community college enrollment has fallen on
-  average by 10% nationwide. Moreover, SMC students receiving Meal Project
-  assistance have continued enrollment semester to semester at a rate 20% higher
-  than our overall student body.  
+  learned with one another. SMC is poised to have an outsized impact on college
+  matriculation during the grant period if we are able to continue the program
+  at the current level where no student struggling with extreme hunger is turned
+  away. A harbinger of the future, SMC’s enrollment decreased less than 2%
+  during the pandemic while community college enrollment has fallen on average
+  by 10% nationwide. Moreover, SMC students receiving Meal Project assistance
+  have continued enrollment semester to semester at a rate 20% higher than our
+  overall student body.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or

@@ -18,13 +18,13 @@ Describe the mission of your organization.: >-
   Angeles as they grow into Christian leaders determined to restore their
   communities. We strive to reach a child, raise a leader, and restore community
   through our StreetLeader program, CommunitySchool Initiative, After-School and
-  Summer Camp programs.   
+  Summer Camp programs.
 project_description: >-
   UrbanPromise Los Angeles’ mission is to develop the children and youth of Los
   Angeles as they grow into Christian leaders determined to restore their
   communities. We strive to reach a child, raise a leader, and restore community
   through our StreetLeader program, CommunitySchool Initiative, After-School and
-  Summer Camp programs.  
+  Summer Camp programs.
 category: learn
 connect_metrics: ''
 create_metrics: ''
@@ -44,15 +44,14 @@ What is the problem that you are seeking to address?: >-
   for Black and Brown students. Our StreetLeader Program employs local high
   school students as counselors, tutors, and mentors for the children who attend
   our programs. Our programs are led by trained, high school students seeking to
-  make an impact in their own communities.   The heart of the StreetLeader
-  Program is challenging teens to use their influence to make positive changes
-  in the lives of our students, in their own lives, and throughout their
-  communities. Our StreetLeaders live in the same neighborhoods (Canoga Park) as
-  the campers they serve. UrbanPromise Los Angeles provides StreetLeaders with
-  extensive job training, tutoring (academic standing is directly tied to the
-  number of days a StreetLeader may participate in the program), college
-  preparation, and mentoring to help them succeed in and outside of the
-  program. 
+  make an impact in their own communities. The heart of the StreetLeader Program
+  is challenging teens to use their influence to make positive changes in the
+  lives of our students, in their own lives, and throughout their communities.
+  Our StreetLeaders live in the same neighborhoods (Canoga Park) as the campers
+  they serve. UrbanPromise Los Angeles provides StreetLeaders with extensive job
+  training, tutoring (academic standing is directly tied to the number of days a
+  StreetLeader may participate in the program), college preparation, and
+  mentoring to help them succeed in and outside of the program.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   The StreetLeader Program employs Canoga Park High School students as
   counselors, tutors, and mentors for the children who attend our AfterSchool
@@ -64,7 +63,7 @@ What is the problem that you are seeking to address?: >-
   throughout their communities. Our ultimate goal is to equip our StreetLeaders
   to be ready for leadership on their college campuses, with a passion to
   eventually return to their community to live a life of prolonged
-  servant-leadership in their respective fields.     
+  servant-leadership in their respective fields.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   - College acceptance is the biggest metric for gauging the success of our
   StreetLeader Program. Amongst other things, growth in reading and literacy is
@@ -78,6 +77,7 @@ What is the problem that you are seeking to address?: >-
   children fed through the feeding program, grade monitoring, and informal
   surveys done with parents.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '60'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '100'
 Describe how Los Angeles County will be different if your work is successful.: >-
   The holistic approach of UrbanPromise - social-emotional, spiritual, and
   academic development - is how we reach a child, raise a leader, and ultimately
@@ -101,6 +101,6 @@ Indicate any additional LA2050 goals your project will impact.:
   - ' LA is the healthiest place to LIVE'
 year: 2021
 filename: urbanpromise-los-angeles
-order: 79
+order: 80
 
 ---

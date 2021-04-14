@@ -59,7 +59,7 @@ What is the problem that you are seeking to address?: >-
   with their own work printed in it, that’s success.” According to the CA Arts
   Education Data Project, in 2018, graduation rates were up to 81.8%. WITS will
   continue to inspire young minds until every LA child excels in and finishes
-  school. 
+  school.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   WITS places published poets in classrooms to work with predominantly
   underserved students for one hour a week for six weeks. Students are exposed
@@ -75,12 +75,12 @@ What is the problem that you are seeking to address?: >-
   college-level English language skills, and experiencing the joy and sense of
   achievement that comes with having one’s work published. Red Hen Press is
   uniquely positioned to offer such a program, having a diverse range of poets
-  eager to share their craft.  WITS HQ will be an after-school program for high
+  eager to share their craft. WITS HQ will be an after-school program for high
   school students to visit Red Hen’s workshop space for a quiet and safe place
   to study, write, and explore the publishing industry. Participating youth will
   receive tutoring and engage in community service, field trips, and enrichment
   activities. WITS HQ will also host open mic nights and student book clubs
-  (books provided at no cost)! 
+  (books provided at no cost)!
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   WITS teachers, school teachers, and students are polled through pre- and
   post-workshop surveys. Student evaluations include quantifiable questions
@@ -95,8 +95,9 @@ What is the problem that you are seeking to address?: >-
   this experience.” Of students surveyed, 69% felt more comfortable in a
   classroom environment, 70% developed an interest in writing poetry, and 77% of
   students reported improvement in their writing ability after participating in
-  WITS. 
+  WITS.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '620'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '2000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   In the 2019–2020, WITS served 244 students from LA Title I schools (300 are
   projected for 20–21), serving a majority Latinx population. Bringing authors
@@ -110,7 +111,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   necessary equipment, increasing academic achievement as well as knowledge of
   career and life choice potentials, community issues, and civil rights. Youth
   will be provided a safe space to build self-esteem and mature intellectually
-  and socially. 
+  and socially.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or

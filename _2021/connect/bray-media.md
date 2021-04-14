@@ -42,7 +42,7 @@ What is the problem that you are seeking to address?: >-
   companies are promoting diversity and inclusion, their biggest pain is
   building a diverse candidate pipeline. Minority/ Underrepresented students and
   professionals find it difficult to qualify and be aware of these opportunities
-  because of limited development. awareness and access for these careers.  
+  because of limited development. awareness and access for these careers.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Bray Media wants to streamline companies' diversity recruiting process by
   providing a trusted source for diverse professionals/ students to gain access
@@ -56,12 +56,13 @@ What is the problem that you are seeking to address?: >-
   touchpoints throughout the platform to measure functionality, accessibility,
   bottom line, and engagement. Our first task is to onboard companies and
   partners we will work specifically with them based on data points around
-  increasing diverse candidate pipeline and multicultural marketing.   We will
+  increasing diverse candidate pipeline and multicultural marketing. We will
   collect polls monthly for both businesses and end-users using the chatbox
-  system. We will track metrics with machine learning AI.   
+  system. We will track metrics with machine learning AI.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '20000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '50000'
 Describe how Los Angeles County will be different if your work is successful.: >-
-  Los Angeles, CA  is home to so many industry verticals, technology, media,
+  Los Angeles, CA is home to so many industry verticals, technology, media,
   STEM, and many more. It's so many programs in this city that give diverse
   communities career development awareness from colleges, non-profits, and
   organizations. These resources need to be available for diverse students and
@@ -70,8 +71,8 @@ Describe how Los Angeles County will be different if your work is successful.: >
   diverse representation in STEM. Los Angeles, CA is already a multicultural
   city but with better jobs and representation, brings equitable wage. Bray
   Media wants to help both companies and students/professionals get to that
-  place.   Los Angeles, CA has always been the diversity leader of the country
-  let's show the country how to create diverse workforces. 
+  place. Los Angeles, CA has always been the diversity leader of the country
+  let's show the country how to create diverse workforces.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or

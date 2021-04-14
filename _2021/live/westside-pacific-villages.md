@@ -64,7 +64,7 @@ What is the problem that you are seeking to address?: >-
   appointments 3. P.P.E. and proven educational wellness materials 4. Virtual
   activities 5. Weekly check-in calls through our CAN (Call a Neighbor) program
   6. Individual technology training to guarantee that our virtual events are
-  accessible.  7. Weekly delivery of special care packages.  To counteract
+  accessible. 7. Weekly delivery of special care packages. To counteract
   loneliness in this challenging time, we’ve created ways to engage and connect
   with our elderly neighbors without risking their health, including telephone
   check-ins, virtual activities, socially-distanced visits, and Friday special
@@ -91,6 +91,7 @@ What is the problem that you are seeking to address?: >-
   all request one). -Ensure over 90% of members receive PPE and educational
   health materials.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '600'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '5000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   WPV envisions a future in which individuals and organizations/groups come
   together to share the mission of assisting the oldest residents in our

@@ -28,7 +28,7 @@ project_description: >-
   training grounds to support LA’s tree canopy equity goals, creating a more
   livable and resilient city for all Angelenos. Commonwealth is a catalyst to
   grow trees from locally-sourced seed, train the next generation of urban
-  forest stewards, and grow the green jobs of the future. 
+  forest stewards, and grow the green jobs of the future.
 category: live
 connect_metrics: ''
 create_metrics: ''
@@ -75,7 +75,7 @@ What is the problem that you are seeking to address?: >-
   Given the central location and rich history of the Griffith Park nursery site
   and the diverse skills and expertise of our collaborative partners, our
   project is uniquely positioned to realize these goals. Together, we will
-  cross-pollinate to transform LA into a more vibrant and equitable city. 
+  cross-pollinate to transform LA into a more vibrant and equitable city.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Our outcome monitoring process for this project will be twofold. First, we
   will maintain detailed records and data on the number of trees grown, names of
@@ -91,6 +91,7 @@ What is the problem that you are seeking to address?: >-
   Trees program, as well as documenting the number of volunteers participating
   in nursery-related events.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '15000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '45000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   The Commonwealth Nursery will serve as an example for how public private
   partnerships can transform LA into a more livable city. In 2022, the Nursery

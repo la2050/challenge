@@ -55,7 +55,7 @@ What is the problem that you are seeking to address?: >-
   quality care. By partnering with other community and nonprofit organizations
   and a vast network of volunteer licensed health care professionals, we serve
   patients at community health clinics, Veteran Stand Downs and other locations
-  throughout LA County.  We remove as many barriers as possible to patients
+  throughout LA County. We remove as many barriers as possible to patients
   receiving care. We do not require identification or proof of income or
   citizenship; we limit paperwork to the minimum necessary; we do not charge for
   our services; we provide language interpretation when possible. Above all, we
@@ -69,7 +69,7 @@ What is the problem that you are seeking to address?: >-
   services. Our vision services include complete eye exams and on-site
   fabrication and distribution of custom prescription eyeglasses. More complex
   prescriptions are filled at no cost to patients within 7-10 days with the aid
-  of a partner optical laboratory. 
+  of a partner optical laboratory.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   We implement qualitative assessments and collect quantitative metrics to
   assess the impact of our services. Qualitative assessments include general
@@ -84,8 +84,9 @@ What is the problem that you are seeking to address?: >-
   patient and per clinic, and the number of prescription glasses produced. We
   are committed to the highest standard of care and consult the American Dental
   Association and California Optometric Association for industry best practices
-  and service rates. 
+  and service rates.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '900'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': ''
 Describe how Los Angeles County will be different if your work is successful.: >-
   By working to improve the dental and vision health of low-income, uninsured
   and underrepresented individuals throughout LA County, Healing California is a

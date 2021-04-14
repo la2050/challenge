@@ -62,7 +62,7 @@ What is the problem that you are seeking to address?: >-
   nonprofits, our holistic model blends legal and case management services with
   direct humanitarian support; we recognize that we cannot expect clients to
   engage in their legal cases, attend medical appointments, or navigate benefits
-  unless their basic needs (food, clothing, shelter) are met.   AOL moved our
+  unless their basic needs (food, clothing, shelter) are met. AOL moved our
   headquarters to Southeast LA because there are few immigration legal service
   providers in the area. Our staff travels throughout the County to meet clients
   and provide transportation to appointments along with benefit/service
@@ -79,7 +79,7 @@ What is the problem that you are seeking to address?: >-
   In 2020, we achieved the following in our clients’ immigration legal cases: 60
   completed cases before USCIS, EOIR, BIA, and federal court; 13 asylum grants;
   10 adjustment of status (green card) approvals; 6 federal court orders of
-  release for detained clients.   For clients who win asylum, our year-long case
+  release for detained clients. For clients who win asylum, our year-long case
   management plan tracks: Week 1: housing, transportation, essentials (phone,
   toiletries, clothing, covid safety kit) Month 1: work permit, Covid test,
   assess need for services (therapy, medical, educational) Months 1-3: enroll in
@@ -90,6 +90,7 @@ What is the problem that you are seeking to address?: >-
   contact to confirm they are on track, taxes reminder Aftercare: communicate at
   least 1x/month to ensure clients are on track to “self-sufficiency”.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '100'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   We hope that our work will move LA County closer to being a more welcoming and
   inclusive place for all immigrants, as outlined in the SOILA’s recommendations

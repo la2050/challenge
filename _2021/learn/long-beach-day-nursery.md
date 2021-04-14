@@ -17,14 +17,13 @@ Describe the mission of your organization.: >-
   To provide high quality early care and education to young children of working
   parents.
 project_description: >-
-  Build two new classrooms for young children in a childcare desert!  Babies who
+  Build two new classrooms for young children in a childcare desert! Babies who
   experience few high-quality interactions are at risk of having their brain
   development damaged or delayed, with severe consequences for the rest of their
-  lives.  Long Beach Day Nursery has a 4-phase expansion plan in place to
-  provide much needed space and high-quality care for our most vulnerable
-  population. We have played an essential role in supporting economic recovery
-  during Covid-19 by allowing families with children to return to work, help us
-  do even more!
+  lives. Long Beach Day Nursery has a 4-phase expansion plan in place to provide
+  much needed space and high-quality care for our most vulnerable population. We
+  have played an essential role in supporting economic recovery during Covid-19
+  by allowing families with children to return to work, help us do even more!
 category: learn
 connect_metrics: ''
 create_metrics: ''
@@ -44,7 +43,7 @@ What is the problem that you are seeking to address?: >-
   our society’s next generation of parents, workers, and leaders. We can’t
   afford to squander the potential of a single child—nor is it acceptable that
   so many have barriers. When babies do not have the support they need to
-  thrive, their development suffers which leads to lifelong consequences.  Long
+  thrive, their development suffers which leads to lifelong consequences. Long
   Beach Day Nursery’s West Branch is located in the 90813 zip-code, which is
   considered one of the most impoverished in the city, plagued with high
   poverty, crime and violence. 32% of the population lives in poverty.
@@ -64,11 +63,11 @@ What is the problem that you are seeking to address?: >-
   from 12 to 40 and our Preschool to from 57 to 64 for a nearly doubled capacity
   of 131 children! Expansion will include new construction to accommodate 3 new
   classrooms, early intervention, and training space for families all on our
-  current campus.  It is critical to note that the 4-phase approach allows us to
+  current campus. It is critical to note that the 4-phase approach allows us to
   continue to provide our much-needed services for free or at low cost, while
   undertaking this effort. All enrolled children receive LBDN’s high quality
   early care and education which nurtures their social, emotional, physical,
-  linguistic and intellectual development.  We partner with families, provide
+  linguistic and intellectual development. We partner with families, provide
   individualized attention, offer a free on-site early intervention program,
   healthy, balanced breakfast, lunch and snacks daily and early literacy, art,
   music, social emotional and STEM curriculum. Specifically, this LA 2050 2021
@@ -80,16 +79,17 @@ What is the problem that you are seeking to address?: >-
   serve 12 newly enrolled toddlers. LBDN’s ultimate desired impact is that
   students succeed in school, lead healthy lives and become productive members
   of society. Our main goal is that all students receive quality early care and
-  education and graduate LBDN kindergarten-ready.  LBDN's overall program
-  quality is measured through numerous annual assessments which include:  a
+  education and graduate LBDN kindergarten-ready. LBDN's overall program quality
+  is measured through numerous annual assessments which include: a
   self-evaluation with the California Department of Education (CDE) followed
   with an onsite review, classroom environmental assessments, and parent and
-  staff surveys.  Both our West and East Branches are Nationally Accredited
+  staff surveys. Both our West and East Branches are Nationally Accredited
   through the National Association for the Education of Young Children (NAEYC)
   which requires intense ongoing self-evaluation, the highest industry
   standards, and an on-site evaluation and observation from a trained NAEYC
   program assessor.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '300'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '30000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   This initiative will expand quality programming and the number of children we
   serve. Upon completion we will have doubled our capacity! When children
@@ -100,7 +100,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   engagement approach quality care also increases parenting skills and
   knowledge. High-quality childcare programs like LBDN are proven to raise
   academic performance and give children the skills and tools to be successful
-  and contribute to society.  Programs like LBDN’s have been proven to lead to
+  and contribute to society. Programs like LBDN’s have been proven to lead to
   lower crime rates, youth who are significantly more likely to graduate from
   high school and are 2.5 times more likely to continue on to higher education.
   Unemployment rates, income inequality, prevalence of trauma, and homelessness

@@ -43,18 +43,18 @@ In which areas of Los Angeles will you be directly working?:
   ongoing, successful work)
 What is the problem that you are seeking to address?: >-
   Our program at Los Padrinos seeks to address the lack of housing for homeless
-  youth, and the overbuilt environment of incarceration in our community. 
+  youth, and the overbuilt environment of incarceration in our community.
   Jovenes is transforming a former place of incarceration into a much needed
   housing and supportive services program for young women who are experiencing
-  homelessness.   There are high rates of homelessness alongside unused and
-  empty buildings, resulting in our motivation for creative housing solutions.
+  homelessness. There are high rates of homelessness alongside unused and empty
+  buildings, resulting in our motivation for creative housing solutions.
   According to the 2020 Homeless Count 4,673 youth are experiencing homelessness
   on any given night in Los Angeles County, with 19% residing in Jovenes’
   geographic area alone. Although the youth we serve come from diverse
   backgrounds, four common barriers to a stable future are found throughout our
   target population: barriers to safe, supportive, and affordable housing;
   difficulty accessing basic benefits and health services; limitations to
-  educational advancement and economic development; and overcoming trauma. 
+  educational advancement and economic development; and overcoming trauma.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Jovenes is seeking support to address the crisis of youth homelessness through
   our emergency/bridge-housing program at the former Los Padrinos Juvenile Hall.
@@ -84,11 +84,12 @@ What is the problem that you are seeking to address?: >-
   communicate directly with clients to track our success in a qualitative manner
   to gain a first-hand perspective on the overall quality of our program. The
   feedback our youth provide to us helps us evaluate our program, track
-  challenges each youth faces, & measure success as they overcome challenges.  
+  challenges each youth faces, & measure success as they overcome challenges.
   Since opening our doors in January 2021, we have already seen heightened
   success in our program, as we are operating at full capacity, and have already
   began to transition youth into longer-term housing.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '50'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': ''
 Describe how Los Angeles County will be different if your work is successful.: >-
   Our program at Los Padrinos is incredibly impactful to Los Angeles County,
   with the potential to create lasting change, as there is now a template and

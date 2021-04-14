@@ -63,7 +63,7 @@ What is the problem that you are seeking to address?: >-
   Infrastructure Equity Scorecard, then use that knowledge to pinpoint areas of
   inequity through mapping, and, in the long run, work more closely with
   communities to build the systems that best serve their needs and bring all of
-  LA’s infrastructure into the 21st century.   Though data exists, bridging the
+  LA’s infrastructure into the 21st century. Though data exists, bridging the
   silos between city agencies can be challenging. This project would create a
   team dedicated to a pilot mapping of three potentially interconnected systems
   -- sidewalks, stormwater, and parks and open space -- to model the scoring and
@@ -88,6 +88,7 @@ What is the problem that you are seeking to address?: >-
   city and county agencies. True success will come from realizing Engineering’s
   mission of delivering high quality services with equity in mind.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '450'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '4000000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   An equity-first focus will impact the practice of hundreds of engineers and
   millions of residents across the City of LA. The Infrastructure Equity
@@ -96,7 +97,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   construction projects in all council districts. In the long range, the project
   will lead to more equitable distribution of resources by foregrounding a
   process that tracks infrastructure gains and losses and will give voice and
-  agency to historically under-served residents.   The Scorecard and Mapping are
+  agency to historically under-served residents. The Scorecard and Mapping are
   the first steps to identify a baseline of infrastructure conditions and
   distribution. The ultimate goal is an interactive, publicly available and
   adaptable mapping and assessment tool, which allows designers, engineers and
@@ -121,8 +122,8 @@ Please list the organizations collaborating on this proposal.:
   - >-
     Name: Linda C. Samuels Personal pronouns: she/her Position title: Director
     Organization name: Infrastructural Optimism LAb Email: lcsamuels@wustl.edu
-    Phone number: (704) 408-8101  Name: Simon Fowell Personal pronouns: 
-    Position title: Principal Economist Organization name: Impact Infrastructure
+    Phone number: (704) 408-8101 Name: Simon Fowell Personal pronouns: Position
+    title: Principal Economist Organization name: Impact Infrastructure
   - >-
     Inc. / Autocase Email: simon.fowell@autocase.com Phone number: +1 (510)
     612-6969

@@ -15,9 +15,9 @@ organization_facebook: Books&Buckets
 organization_instagram: '@booksandbuckets'
 Describe the mission of your organization.: >-
   Books & Buckets’ mission is to empower underserved, aspiring youth through
-  academic and athletic development.  Our purpose is to prevent socioeconomic
+  academic and athletic development. Our purpose is to prevent socioeconomic
   factors from being the barrier to high-quality academic and athletic services
-  for youth in underserved, aspiring communities. 
+  for youth in underserved, aspiring communities.
 project_description: >-
   At Books and Buckets, we will empower Washington Neighborhood Youth with a
   Basketball Academy, Guided Reading and Comprehension Help, and Mentoring. Our
@@ -25,7 +25,7 @@ project_description: >-
   empower them to succeed on the court, in the classroom, and in their
   community. Our academy undertakes place-based change that focuses on a
   neighborhood impact, with an aspiring and promising community of strong and
-  powerful Black and Brown youth who have been historically underserved. 
+  powerful Black and Brown youth who have been historically underserved.
 category: play
 connect_metrics: ''
 create_metrics: ''
@@ -51,7 +51,7 @@ What is the problem that you are seeking to address?: >-
   transient individuals on their way to school. Long Beach is over 80 square
   miles, yet the Washington Neighborhood has accounted for over 10% of all
   violent crime in the city, despite covering less than half of a percent of the
-  city. 
+  city.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Our project involves implementing a Youth Empowerment Academy that will allow
   neighborhood youth to take charge of the issues in their community. It will
@@ -65,14 +65,14 @@ What is the problem that you are seeking to address?: >-
   Youth will be actively involved through the Atheltic Academy, a high-quality
   basketball academy offering an outlet to all the problems they have to face on
   a daily basis. This academy will incorporate a skills clinic that challenges
-  their abilities while also training their mind.   This project is a
-  place-based program led by residents from the Washington Neighborhood. It will
-  take systems change and collective impact into the complexities and
-  constraints of the neighborhood. Sustainability will be achieved through the
-  fact that local residents are initiating the program. This is not an
-  outside-in program, it is an inside-out one where community members are coming
-  up with solutions for dealing with the problems facing their community while
-  relevant partners provide support. 
+  their abilities while also training their mind. This project is a place-based
+  program led by residents from the Washington Neighborhood. It will take
+  systems change and collective impact into the complexities and constraints of
+  the neighborhood. Sustainability will be achieved through the fact that local
+  residents are initiating the program. This is not an outside-in program, it is
+  an inside-out one where community members are coming up with solutions for
+  dealing with the problems facing their community while relevant partners
+  provide support.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   We will define and measure success through youth surveys, parent surveys,
   community surveys, neighborhood crime rates, gun violence rates, illegal gang
@@ -83,8 +83,9 @@ What is the problem that you are seeking to address?: >-
   perceived community safety and school reputation. Neighborhood crime rates are
   being gathered by the local justice department for specifically the Washington
   Neighborhood corridor. School performance is gauged through a partnership with
-  the local school district and the families involved in the program. 
+  the local school district and the families involved in the program.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '30'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   This project will serve as a model for other neighborhoods, as the Washington
   Neighborhood is currently one of the most dangerous neighborhoods in LA
@@ -94,11 +95,11 @@ Describe how Los Angeles County will be different if your work is successful.: >
   effort that changes the power dynamics of a community. This project will also
   serve as a model of resident sustainability, where local community leaders
   take on a solution to a problem and sustain that process along with their
-  neighbors to ensure a powerful and united community.   LA County neighborhoods
+  neighbors to ensure a powerful and united community. LA County neighborhoods
   differ drastically, however, some of the most underserved ones face similar
   problems and have similar demographics. If one neighborhood can overcome the
   historical and racist challenges facing their community, then those techniques
-  and processes can be replicated throughout the county. 
+  and processes can be replicated throughout the county.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Communications support,Capacity-building and training,Strategy assistance and

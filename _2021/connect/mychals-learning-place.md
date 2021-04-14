@@ -87,8 +87,9 @@ What is the problem that you are seeking to address?: >-
   service, print operation, and overall program is assessed by business metrics
   (# served, revenue, etc.) and the number of trainees. Individual success is
   measured by skills mastered, tests passed, etc. as tracked by the program
-  coordinator. 
+  coordinator.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '55'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': ''
 Describe how Los Angeles County will be different if your work is successful.: >-
   Briefly, Mychal’s job training programs will create a larger, more diversified
   and equitable work force for Los Angeles. LA is lauded as the land of dreams
@@ -109,12 +110,12 @@ Describe the role of collaborating organizations on this project.: >-
   organizations to provide work opportunities for our trainees. A number of
   companies in LA have partnered with us in providing jobs, providing pop-up
   sites for our café, placing catering orders with our bakery, and buying
-  t-shirts, hats, etc. from the print shop.  A new partnership is under
+  t-shirts, hats, etc. from the print shop. A new partnership is under
   development through the Collaboration Center in Nevada. The Center is a
   disability network that partners with providers, agencies and non-profits
   serving those with different abilities. We recently laid the groundwork for a
   collaborative relationship with a larger print operation in Nevada which will
-  outsource smaller print jobs to Mychal’s for fulfillment. 
+  outsource smaller print jobs to Mychal’s for fulfillment.
 Which of LA2050’s resources will be of the most value to you?: 'Access to the LA2050 community,Strategy assistance and implementation'
 Please list the organizations collaborating on this proposal.: ''
 Which metrics will you impact?:

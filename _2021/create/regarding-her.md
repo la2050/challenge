@@ -19,14 +19,14 @@ Describe the mission of your organization.: >-
   empowerment of women and BIPOC women restaurateurs. We strive to create
   opportunities for connection and success by way of programs that support,
   unite and uplift female food and beverage entrepreneurs in Los Angeles and
-  beyond.  
+  beyond.
 project_description: >-
   Regarding Her's Women and BIPOC Women in Food Mentorship Program will help to
   advance women and BIPOC women in the restaurant industry by providing
-  mentorship, education, grants and logistical support for their restaurants. 
+  mentorship, education, grants and logistical support for their restaurants.
   Regarding Her is committed to celebrating, nurturing, and uplifting women and
   BIPOC women chefs making LA’s food culture more delicious, diverse, and
-  sustainable for everyone. 
+  sustainable for everyone.
 category: create
 connect_metrics: ''
 create_metrics: >-
@@ -45,7 +45,7 @@ What is the problem that you are seeking to address?: >-
   impacted by the economic realities of the pandemic, according to a National
   Bureau of Economic Research report. An “unprecedented” 25 percent drop in the
   number of women business owners could hurt gender equality in the restaurant
-  industry and beyond, the report notes.    Independent restaurants are the ones
+  industry and beyond, the report notes. Independent restaurants are the ones
   that truly add diversity to LA's food scene. Over the last 9 months, we’ve
   witnessed the total inaction on the part of national leadership to provide
   meaningful support for independent restaurants, coupled with the outsized
@@ -53,7 +53,7 @@ What is the problem that you are seeking to address?: >-
   workforce. Regarding Her was created to not only drive business for
   participating restaurants during a historically slow period, but also provide
   a grants and mentorship programming, directly to women and BIPOC women
-  operators who are struggling to keep their businesses afloat. 
+  operators who are struggling to keep their businesses afloat.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   By combining mentorship and leadership skills development, Regarding Her's
   mentoring program connects women and BIPOC women in the food industry and
@@ -64,11 +64,10 @@ What is the problem that you are seeking to address?: >-
   counterparts); (2) Work-family life balance; (3) Gender bias and stereotypes;
   (4) Career advancement barriers; (5) Harassment; and (6) Workforce
   Development. There is an opportunity for program mentees to receive a
-  designated grant to help future their success.   Once mentees complete the
+  designated grant to help future their success. Once mentees complete the
   program, they will have access to industry-focused resources, virtual events
   that celebrate, connect and promote women in food and beverage, including
-  being a part of an annual restaurant festival, 10 Days
-  Re:Her.                 
+  being a part of an annual restaurant festival, 10 Days Re:Her.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Mentorship not only opens the door to opportunities that would have never
   before been accessible, it can also propagate change on a broader scale at the
@@ -79,6 +78,7 @@ What is the problem that you are seeking to address?: >-
   conducting participant surveys and measuring the impact on retention with
   women owned business by conducting quarterly interviews.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '225'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '5000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Our vision is fueled by the responsibility we feel to recognize and uplift all
   members of our industry, especially those whose contributions have been
@@ -98,7 +98,7 @@ Describe the role of collaborating organizations on this project.: >-
   Tacos, Love & Salt and Rossoblu) will bring the breadth of knowledge, advocacy
   and guidance that will spearhead the success of the Women and BIPOC Women in
   Food Mentorship Program. Each partner brings business acumen, front of the
-  house and back of the house experience and leadership training. 
+  house and back of the house experience and leadership training.
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or
   gatherings,Communications support,Capacity-building and training,Strategy

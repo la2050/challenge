@@ -17,7 +17,7 @@ Describe the mission of your organization.: >-
   A Place Called Home (APCH) provides a safe nurturing environment with proven
   programs in arts, education and wellness for the young people in South Central
   Los Angeles to help them improve their economic conditions and develop
-  healthy, fulfilling and purposeful lives. 
+  healthy, fulfilling and purposeful lives.
 project_description: >-
   Arts and Creative Expressions (ACE) at APCH harnesses the power of creativity
   in South Central, Los Angeles to nurture healing, positive communication, and
@@ -76,22 +76,23 @@ What is the problem that you are seeking to address?: >-
   actors, agencies, and more, to provide invaluable industry exposure. We are a
   community hub for youth development with a 32,000 sq. ft. center that includes
   instructional spaces, a dance studio, a state-of-the-art theater, an art
-  gallery, and a professionally equipped recording studio. 
+  gallery, and a professionally equipped recording studio.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   This Initiative will incorporate both ongoing events and ambitious new
-  projects that will  directly engage more than 500 youth and 5,000 community
+  projects that will directly engage more than 500 youth and 5,000 community
   members at a time when people feel more disconnected than ever before due to
   COVID-19. APCH will track and record the following criteria as a method of
   evaluation: 1) The number of public events and expositions produced 2) The
   number of members, families, and community members who attend each event 3)
   The number of youth projects completed or showcased through each event 4) The
-  number of  professional artists, performers, creatives, companies, and
+  number of professional artists, performers, creatives, companies, and
   organizations that we partner with through each event. High level indicators
   of Initiative success will include: 1) An increase in ACE class enrollment 2)
   Member matriculation to artistic post-secondary or vocational pursuits 3) An
   increase in LA County institutional partnerships and/or engagement. 4)
   Referrals for other APCH services from CAI events.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '500'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '10000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Investing in the art of marginalized youth strengthens, innovates, and
   diversifies the LA creative economy, currently about 10% of LA's gross
@@ -105,7 +106,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   low-income families, where a high percentage of residents are immigrants. We
   open our events to community members, providing access points to connect our
   families to essential services we provide for food and financial insecurity -
-  additionally and critically important for COVID-19 recovery in LA. 
+  additionally and critically important for COVID-19 recovery in LA.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or

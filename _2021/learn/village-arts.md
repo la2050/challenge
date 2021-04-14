@@ -16,7 +16,7 @@ organization_instagram: '@villageartsvv'
 Describe the mission of your organization.: >-
   VILLAGE ARTS enriches the lives of children and families in the San Fernando
   Valley of Los Angeles through affordable, high-caliber and safe educational
-  performance arts programs.  Embracing principles of equity and justice, we
+  performance arts programs. Embracing principles of equity and justice, we
   create a rich learning experience that offers a solution to the gap in arts
   education in the LA public school system.
 project_description: >-
@@ -46,8 +46,8 @@ What is the problem that you are seeking to address?: >-
   financial aid and has never turned a child away due to lack of funds. Despite
   this, many in our community are still unable to afford after school programs
   in the arts. As of 2018, 86% of Lankershim students and 25.5% of Colfax
-  students qualify for free and reduced lunch.  These inequities have only been
-  exacerbated by COVID-19 and particularly impact BIPOC and immigrant families. 
+  students qualify for free and reduced lunch. These inequities have only been
+  exacerbated by COVID-19 and particularly impact BIPOC and immigrant families.
   Drama programs are shown to significantly improve literacy development and
   skills in English language arts, as well as building community and improving
   self-confidence. It is essential that all students have the opportunity to
@@ -60,13 +60,13 @@ What is the problem that you are seeking to address?: >-
   students at both Colfax Charter and Lankershim Elementary, K-5th grade, could
   then participate in the rehearsals and performances of a musical. Village Arts
   adheres to all LA County COVID protocols and currently, LAUSD plans for full
-  school reopening in the Fall ‘21.  If infection rates rise, we are prepared to
+  school reopening in the Fall ‘21. If infection rates rise, we are prepared to
   work closely with the schools to make accommodations or postpone programming.
   Awarded funds would underwrite the significant rental fees charged by LAUSD
   for the auditorium and rehearsal spaces. It is imperative that Village Arts
   after-school programming occurs on campus to best support all families. After
   school programs on campus create safe, educational spaces for children whose
-  families need after school care or for whom transportation is a barrier. 
+  families need after school care or for whom transportation is a barrier.
   Salaries for artistic and technical staff, as well as hard material costs
   would also be covered by the grant. Year after year we have witnessed the
   benefits of our work and parents remark on our “inclusive and nurturing
@@ -89,6 +89,7 @@ What is the problem that you are seeking to address?: >-
   reached, as well as the number of low-income families who are able to
   participate in Village Arts programming when cost is not a barrier.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '150'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1240'
 Describe how Los Angeles County will be different if your work is successful.: >-
   A free after school performing arts program would create a space for everyone,
   regardless of socioeconomic status. Elimination of tuition provides equal
@@ -124,6 +125,6 @@ Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to CREATE
 year: 2021
 filename: village-arts
-order: 81
+order: 82
 
 ---

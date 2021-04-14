@@ -82,14 +82,15 @@ What is the problem that you are seeking to address?: >-
   Reports that help us understand how many individuals are tuning in through our
   terrestrial broadcast signal, as well as through analysis of digital
   engagement on our website and other digital platforms. We will use these
-  methods to track the reach of the project broadly.   Additionally, KCRW tracks
+  methods to track the reach of the project broadly. Additionally, KCRW tracks
   the success of our projects through audience engagement. This takes the form
   of engagement around our content on social platforms as well as through
   audience feedback, which is frequently requested through tools such as
   Hearken. KCRW will track audience engagement and feedback over the course of
   the grant period to understand the interests of our audience and how this
-  content is being received in the community. 
+  content is being received in the community.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '500000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '13000000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   The KCRW Create Beat aims to highlight the vast diversity of arts and culture
   in Los Angeles by celebrating the genius of the people who make it. We aim to
@@ -101,7 +102,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   time, the KCRW Create Beat will enable our listeners to engage with these
   works in a way that is accessible, compelling, and human-driven. By better
   understanding the plethora of artistic opportunities around them, we aim to
-  inspire our listeners to engage with creatives in their communities. 
+  inspire our listeners to engage with creatives in their communities.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or

@@ -15,7 +15,7 @@ organization_facebook: ''
 organization_instagram: '@contemporaryartleague'
 Describe the mission of your organization.: >-
   Contemporary Art League builds unity, solidarity, and equity within and across
-  sectors in the field of contemporary art. 
+  sectors in the field of contemporary art.
 project_description: >-
   Contemporary Art League is a cooperatively owned and operated trade
   organization with a mission to build unity, solidarity, and equity in our
@@ -51,7 +51,7 @@ What is the problem that you are seeking to address?: >-
   Economy, the arts in Los Angeles lost 276,100 jobs, $26.5B in labor income,
   and $78.9B in output in 2020. Meanwhile, 30% of Fine Arts jobs in Los Angeles
   are contract labor, leaving too many art workers with precarious employment in
-  a city with one of the highest costs of living in the country.   1. California
+  a city with one of the highest costs of living in the country. 1. California
   Arts Council letter to Gov. Gavin Newsome, re: Creative Corps; March 2021
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   CAL is a cooperatively owned trade organization with a mission to build unity,
@@ -62,32 +62,33 @@ What is the problem that you are seeking to address?: >-
   within the broader creative economy in LA County. This is an essential step to
   ensure art workers are supported in their work and to achieve equity in our
   field. We will focus on three areas: community services, professional support,
-  and advocacy.   We will reach our members via a website and community center.
+  and advocacy. We will reach our members via a website and community center.
   The LA2050 grant will fund development of our cooperative business model,
   member governance, community center visioning, and website. We plan to launch
-  the website on May Day 2022.   The community input we’ve received indicates
-  that art workers are urgently seeking assistance with accessing healthcare,
+  the website on May Day 2022. The community input we’ve received indicates that
+  art workers are urgently seeking assistance with accessing healthcare,
   childcare, and capital. The website will offer these services, laying the
   groundwork for what we will offer at our community center in years to come. We
-  also envision the website including elements such as:   + How to: establish an
+  also envision the website including elements such as: + How to: establish an
   artist studio, set up a business, form a nonprofit or cooperative +
   Skill-building workshops + Listings: hiring/for hire; grant, residency, and
   exhibition deadlines; volunteer and advocacy opportunities + Member pages
-  encouraging sharing, exchange, and mentorship 
+  encouraging sharing, exchange, and mentorship
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   CAL was founded in September 2020 and is in its early stage. During the LA2050
   grant period, we will move into the first phase of our business model. Our
   primary definition of success is to reach our goal of launching our website on
   May Day 2022 with 500 members. Parallel to this primary goal are community
   input, potential member recruitment, and member engagement. Leading up to and
-  inclusive of the grant period, we have the following aims:   + 50 individual
+  inclusive of the grant period, we have the following aims: + 50 individual
   informational calls + 50 informational meetings with informal and formal art
   groups, organizations, and businesses + 10 open community meetings + 2500
-  newsletter subscribers; 75% open rate  + 4000 Instagram followers; 20%
-  actively engaging with posts  + 500 members in good standing   + 250 members
-  registered for potential cooperative ownership  + 3500 respondents to June
-  2022 community survey  + Establish and implement cooperative governance model
+  newsletter subscribers; 75% open rate + 4000 Instagram followers; 20% actively
+  engaging with posts + 500 members in good standing + 250 members registered
+  for potential cooperative ownership + 3500 respondents to June 2022 community
+  survey + Establish and implement cooperative governance model
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '500'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '5000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   CAL is a new framework for the art economy in LA, favoring solidarity and
   equity over competition and scarcity. When CAL takes root, art workers will
@@ -102,7 +103,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   hierarchies that inhibit access and deny equity to BIPOC, differently abled,
   and LGBTQIA+ folks and perpetuate pay inequality, proving that cooperative
   ownership is a viable path to social and economic equity in our field, in LA,
-  and in society at large. 
+  and in society at large.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Communications support,Capacity-building and

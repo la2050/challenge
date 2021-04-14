@@ -61,7 +61,7 @@ What is the problem that you are seeking to address?: >-
   in California is approximately 62%; it is 10% among TAGPP alumni. The
   employment rate for those who complete the reentry program is 77% - the
   recidivism rates for formerly incarcerated people who found employment shortly
-  after their release are less than 9%. 
+  after their release are less than 9%.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   TAGPP provides support for returning citizens through its Reentry Program and
   Alumni Advocacy Project with training in emotional expression and control,
@@ -79,7 +79,7 @@ What is the problem that you are seeking to address?: >-
   relationships with significant others, family members, and in public. TAGPP
   has hired two of its alumni in full time positions and another 15 as part time
   Teaching Artists (TAs). This employment history will help lay the foundation
-  for them in pursuing other career opportunities in the future. 
+  for them in pursuing other career opportunities in the future.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   TAGPP has been working with Leap and Associates at UCLA for three years
   developing a longitudinal study. The third-year evaluation sought to
@@ -87,12 +87,13 @@ What is the problem that you are seeking to address?: >-
   developed The Actors’ Gang Alumni Advocacy Project (TAGAAP). The results have
   been informative. The study ties the success of TAGAAP to continued success in
   the community. The study advises what we are doing well and what we can do
-  better and helps shape the program creating a successful path for the Alumni. 
+  better and helps shape the program creating a successful path for the Alumni.
   We have also seen incredibly positive numbers regarding recidivism rates among
   TAGPP participants and alumni. TAGPP is in development of a quantitative
   survey to understand the impact of the program on alumni and active members of
   TAGAAP and their families and ultimately communities in Los Angeles County.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '60'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '540'
 Describe how Los Angeles County will be different if your work is successful.: >-
   TAGPP programs have already demonstrated success in prisons for 15 years and
   reentry programs for four years. The challenge now is securing resources to

@@ -88,6 +88,7 @@ What is the problem that you are seeking to address?: >-
   YouthCare meets our goals of activating students in aging and alleviating the
   burden of caregiving.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '200'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '2400'
 Describe how Los Angeles County will be different if your work is successful.: >-
   For our Fall 2020 cycle of Virtual YouthCare, 83% of the student volunteers
   who responded were satisfied with the program. In addition, 85% of the
@@ -105,13 +106,13 @@ Describe the role of collaborating organizations on this project.: >-
   The USC School of Gerontology provides a pool of student volunteers. Their
   professors also serve as advisors for YouthCare. We collaborated with the UCLA
   Longevity Center to create a memory care program that can be delivered by our
-  student volunteers.  Alzheimer’s Los Angeles acts as a referral partner and
+  student volunteers. Alzheimer’s Los Angeles acts as a referral partner and
   helps train our students on cultural diversity in the dementia community. The
   National Center on Elder Abuse help train our students on elder abuse and
   neglection prevention HFC acts as a promotional and referral partner. They
   also help train our students on brain health using their AlzU courses.
   UsAgainstAlzheimer’s serves as our nonprofit’s larger partner organization and
-  helps us find funds for cost subsidies.  The USC Family Caregiver Support
+  helps us find funds for cost subsidies. The USC Family Caregiver Support
   Center is our main referral partner.
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Communications support,Capacity-building and

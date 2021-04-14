@@ -45,7 +45,7 @@ What is the problem that you are seeking to address?: >-
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   The program is a case management approach that addresses all aspects of a
   re-entry participants life to shape future goals and improve their livelihood
-  by reducing recidivism.  The case management method allows the participant to
+  by reducing recidivism. The case management method allows the participant to
   remain engaged throughout the services such as one-on-one and family meetings
   which allow the participant to take control and responsibility for his/her
   life. As part of the case management approach, plans of action, goal setting,
@@ -60,12 +60,13 @@ What is the problem that you are seeking to address?: >-
   Resilient measures it's impact through daily reports, monthly reports, and
   participants referred to the case management series of services. Also,
   measures of impacts are tracked through monthly success stories, participant
-  case notes, and monthly documenting reports. 
+  case notes, and monthly documenting reports.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '200'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   The overall vision for success of the Re-entry, and Covid relief services
   program will be to reduce recidivism and improve the quality of life for the
-  families and individuals in the South LA area.  Additionally, we will
+  families and individuals in the South LA area. Additionally, we will
   contribute to reducing the number of individuals being incarcerated in the
   area utilizing the re-entry outreach strategies. Resilient understands that
   the incarceration rate and other hardships communities experience in South LA
@@ -73,7 +74,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   because the Resilient team have experienced these realities and work
   tirelessly every day to improve the lives of young people and their families
   dealing with these same realities. The funding of the program will be the seed
-  that grows to bring safety and a brighter future in South LA. 
+  that grows to bring safety and a brighter future in South LA.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Capacity-building and training,Strategy

@@ -18,7 +18,7 @@ Describe the mission of your organization.: >-
   educationally and economically under-resourced communities. Our vision is that
   all students, regardless of their circumstances, will one day have the
   opportunity to attend college, graduate, and actively participate in
-  transforming their communities to create a better society. 
+  transforming their communities to create a better society.
 project_description: >-
   The pandemic has widened the educational achievement gap, particularly among
   low-income students of color. After a year of significant disengagement, we
@@ -72,7 +72,7 @@ What is the problem that you are seeking to address?: >-
   (all offered in-person, hybrid, or virtual as allowed by LAUSD). By creating
   safe spaces where students are encouraged to rebuild relationships, we will
   instill hope that their futures are still bright and their college dreams are
-  attainable and more important than ever.  (Note: Apart from this grant,
+  attainable and more important than ever. (Note: Apart from this grant,
   Fulfillment Fund continues to serve our students at both 2- and 4-year
   colleges and universities through our College Success program, where we are
   also ramping up social-emotional support services and career readiness
@@ -93,6 +93,7 @@ What is the problem that you are seeking to address?: >-
   graduation and college matriculation rates despite the challenges caused by
   the pandemic.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '1900'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '5700'
 Describe how Los Angeles County will be different if your work is successful.: >-
   We believe that education is key to breaking the cycle of poverty and forging
   a path to meaningful economic mobility while uplifting the diverse voices we

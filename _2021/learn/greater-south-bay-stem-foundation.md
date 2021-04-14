@@ -28,7 +28,7 @@ project_description: >-
   is successful, we are looking at a gap of 2 to 3 years before interrupted
   education is repaired (GSBSF) will provide enhanced enrichment classes in math
   this summer and fall for the under-resourced communities throughout the county
-  of Los Angeles.  
+  of Los Angeles.
 category: learn
 connect_metrics: ''
 create_metrics: ''
@@ -52,35 +52,35 @@ What is the problem that you are seeking to address?: >-
   with education will lead to low academic performance in high school will stem
   from the covid-19 school Closer and Interrupted learning. Even if returning to
   school this fall is successful, we are looking at a gap of 2 to 3 years before
-  interrupted education is repaired. 
+  interrupted education is repaired.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Computer science makes math interactive. Math on some levels can be boring.
   Our program effectively introduces CS to students, inspiring and engaging them
-  to partake in math.  Computer Science and Mathematics are intertwined.We do
+  to partake in math. Computer Science and Mathematics are intertwined.We do
   this by incorporating coding and robotics. Coding helps students visualize
   abstract concepts in math and builds critical-thinking skills.This leads to a
-  deeper understanding of concepts.  Robotics facilitates math through
-  modelling, planning, and execution. Each student is mailed a robotics kit
-  (STEM in a box) and lessons are conducted by a live instructor once a week for
-  1 hour.We also have a Virtual Academy where students can learn self paced
-  courses on the same platform as LinkedIn learning and Skill share.  With our
-  ability to deliver the content electronically through streaming services
-  amazon fire and roku Video on demand. We can  deliver to any student, at any
-  place and time. This is a more comprehensive result than a zoom call. Students
-  are encouraged to participate, ask questions, troubleshoot and work together
-  as a team.  
+  deeper understanding of concepts. Robotics facilitates math through modelling,
+  planning, and execution. Each student is mailed a robotics kit (STEM in a box)
+  and lessons are conducted by a live instructor once a week for 1 hour.We also
+  have a Virtual Academy where students can learn self paced courses on the same
+  platform as LinkedIn learning and Skill share. With our ability to deliver the
+  content electronically through streaming services amazon fire and roku Video
+  on demand. We can deliver to any student, at any place and time. This is a
+  more comprehensive result than a zoom call. Students are encouraged to
+  participate, ask questions, troubleshoot and work together as a team.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   All parents and children are entered into our database and contacted at least
-  once a year. We track students  progress with exam scores from the challenges
-  that are  fed into an algorithm which determines the students' weaknesses.
-  This AI (Artificial intelligence)  engine will generate a particular course of
+  once a year. We track students progress with exam scores from the challenges
+  that are fed into an algorithm which determines the students' weaknesses. This
+  AI (Artificial intelligence) engine will generate a particular course of
   action to help the student in math. We tracked the children from elementary
   school through Middle School all the way to high school to keep tabs on their
-  progress. We employ a quality-improvement process that is continuously 
+  progress. We employ a quality-improvement process that is continuously
   upgraded and reformed by the board of directors and the engineering community.
-  Our board of directors are composed of credential teachers in the area of
-  STEM  and special needs.
+  Our board of directors are composed of credential teachers in the area of STEM
+  and special needs.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '4800'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '7350'
 Describe how Los Angeles County will be different if your work is successful.: >-
   If our work is successful we are going to see a marked increase in students'
   comprehensive understanding of math and the erosions of lost math skills due
@@ -90,11 +90,11 @@ Describe how Los Angeles County will be different if your work is successful.: >
   Los Angeles County school districts Within five to seven years Los Angeles
   County could have home grown STEM professionals from the inner cities of Los
   Angeles county. We already have had success with our first high school
-  interns. One was  accepted into Caltech Majoring in computer science,the other
+  interns. One was accepted into Caltech Majoring in computer science,the other
   intern was accepted to Cal Berkeley. This will lead to a more sustainable
-  future for Los Angeles with high-tech professional jobs.It  will also lead to
+  future for Los Angeles with high-tech professional jobs.It will also lead to
   more inclusion in under-resourced and underserved communities. That will
-  reverberate throughout the county of Los Angeles.     
+  reverberate throughout the county of Los Angeles.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: 'Access to the LA2050 community,Strategy assistance and implementation'
 Please list the organizations collaborating on this proposal.: ''

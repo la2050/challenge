@@ -61,24 +61,23 @@ What is the problem that you are seeking to address?: >-
   CARECEN’s Migrant Youth Integration project will support 20-40 recently
   arrived migrant youth in their civic, social, & economic success in the US. We
   will provide them with holistic support & programs that cover legal, social
-  services, advocacy, & educational needs.   For the past year, CARECEN has
+  services, advocacy, & educational needs. For the past year, CARECEN has
   collaborated with LAUSD staff, to connect migrant youth, by holding workshops
   with various high schools in the district. The LA2050 grant will strengthen
   our partnership with three schools; Helen Bernstein (East Hollywood), Miguel
   Contreras (Pico-Union), and Santee High School (South Los Angeles), all
   schools with a large migrant youth population. Through this partnership we
   will be able to connect students directly to our network of support services &
-  programming.  If awarded, the grant will help cover the costs & extended
+  programming. If awarded, the grant will help cover the costs & extended
   services of our team of experienced FTE Case Managers and Organizers
   overseeing the project’s implementation. In addition, it allows us to
-  sub-contract mental health workshops at our site.   CARECEN staff have
-  developed considerable experience in understanding & addressing migrant
-  youth’s various needs. Following the first surge of Unaccompanied Children
-  (UAC), we supported litigation that established a right to counsel for minors
-  in removal proceedings, provided free legal counsel to migrant youth,
-  accompanied many UACs on their journey from the southern border to Los
-  Angeles, & connect them to critical social services, housing, health, and case
-  management.
+  sub-contract mental health workshops at our site. CARECEN staff have developed
+  considerable experience in understanding & addressing migrant youth’s various
+  needs. Following the first surge of Unaccompanied Children (UAC), we supported
+  litigation that established a right to counsel for minors in removal
+  proceedings, provided free legal counsel to migrant youth, accompanied many
+  UACs on their journey from the southern border to Los Angeles, & connect them
+  to critical social services, housing, health, and case management.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   CARECEN collects data to measure the effectiveness of its Migrant Youth
   Integration Project efforts on a regular basis in order to improve the quality
@@ -95,6 +94,7 @@ What is the problem that you are seeking to address?: >-
   include measuring our participant's emotional baseline & how they've improved
   over time.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '40'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '150000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   CARECEN's Migrant Youth Integration Project is rooted in transformative change
   and a well-informed community that is equipped with the right tools necessary

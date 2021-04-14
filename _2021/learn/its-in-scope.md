@@ -54,18 +54,18 @@ What is the problem that you are seeking to address?: >-
   contributes to the perception of impossibility around reinvestment. Community
   does not lack an abundance of information or knowledge by which we may
   reimagine our circumstances and sense of self, what we require is space and
-  time to apply historic know-how towards present ways of being. 
+  time to apply historic know-how towards present ways of being.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Our project consists of two main components: a physical space in Historic
-  South Central and an annual fellowship program.  Our Memoryhaus is the home
-  for our community programming and a site where youth in the South LA community
-  can gather in interdependent study. Monthly programming is inclusive of
+  South Central and an annual fellowship program. Our Memoryhaus is the home for
+  our community programming and a site where youth in the South LA community can
+  gather in interdependent study. Monthly programming is inclusive of
   experiences like communal discourse, sound healing, multimedia creation
   related to the present exhibitions and the opportunity for the community to
   publicly present their work for engagement. In this way, the community is able
   to explore the SCOPE curriculum in a way that integrates unique understandings
   into their daily life. Functionally, the space consists of a showroom
-  exhibiting material artifacts, a research library, and an outdoor classroom.  
+  exhibiting material artifacts, a research library, and an outdoor classroom.
   The Archive Caretaker Fellowship was created to empower the intuition and
   curiosity of local artists, futurists, and historians. The individuals in
   harmony with the collective will engage in 6 months of shared study, from
@@ -91,6 +91,7 @@ What is the problem that you are seeking to address?: >-
   community participated in intimate, appointment-based fellowship presentations
   at our archival space.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '10'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Historical awareness is a necessary foundation in the development of Black
   youth in their quest to self actualize. At this time, there are few reflective

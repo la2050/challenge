@@ -23,7 +23,7 @@ Describe the mission of your organization.: >-
 project_description: >-
   Chicxs Rockerxs South East Los Angeles (CRSELA) aims to create a space where
   trans youth, gender expansive youth and girls can access resources,
-  mentorship, and music education in Southeast Los Angeles.  We envision an
+  mentorship, and music education in Southeast Los Angeles. We envision an
   after-school space where participants can grab a snack after music lessons and
   receive homework help before going home. An inter-generational space where
   trans, gender, expansive, and women musicians, artists, and activists can
@@ -79,14 +79,15 @@ What is the problem that you are seeking to address?: >-
   are anonymous and include questions on participant self-confidence,
   satisfaction of programming, suggestions, and likelihood of participating in
   the future. Volunteers will also submit post-programming surveys on their
-  experience and year-round employees will  participate in self-evaluations. To
+  experience and year-round employees will participate in self-evaluations. To
   show the demand of our program, we will track participant enrollment and
   retention as well. We already have surveys from our Soniditos Saturdays
   lessons and Summer Camp that we can adapt for our Sobrinx and Future Me!
   Series. Results from our past surveys have already provided some insight on
   our programming’s positive effect on our participants and request for more
-  frequent programming. 
+  frequent programming.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '100'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '2000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   If our work is successful, Los Angeles County will have a transformative space
   where trans youth, gender expansive youth, and girls can access resources,
@@ -98,7 +99,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   after-school space for our participants. We hope to grow alongside our
   participants and be a consistent resource as they transition to the next
   generation of music-makers, leaders, and mentors at Chicxs Rockerxs Southeast
-  LA. 
+  LA.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Communications support,Capacity-building and

@@ -40,7 +40,7 @@ What is the problem that you are seeking to address?: >-
   the medical sector is the second-largest contributor to landfills, accounting
   for 8% of greenhouse gas emissions in the United States. The current paradigm
   propagates economic inefficiency, environmental burden, and avoidable human
-  suffering.   With this in mind, Blueprints For Pangaea is an international,
+  suffering. With this in mind, Blueprints For Pangaea is an international,
   student-run 501(c)(3) nonprofit dedicated to addressing global health care
   inequalities. In order to bridge the gap between surplus and need, we use our
   national network of university chapters to redirect life-saving medical
@@ -57,7 +57,7 @@ What is the problem that you are seeking to address?: >-
   to cut expenses and reduce their environmental footprints while gaining
   community goodwill. Since we obtain medical resources via donation, we can in
   turn offer them to foreign hospitals at massively subsidized prices, thereby
-  enabling affordable, higher-quality patient care in areas of need.   If
+  enabling affordable, higher-quality patient care in areas of need. If
   provided, this grant will support Blueprints For Pangaea’s newly founded
   University of Southern California chapter, whose primary beneficiary in all of
   the aforementioned is the greater Los Angeles community and its salient urban
@@ -73,8 +73,9 @@ What is the problem that you are seeking to address?: >-
   we partner with. In doing so, we will be able to utilize data on the
   demographics and number of people within the communities that these partners
   impact. This will allow us to calculate the number of people and types of
-  people who are gaining access to our donated medical supplies in L.A. county. 
+  people who are gaining access to our donated medical supplies in L.A. county.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '50'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '10000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   The Blueprints for Pangaea University of Southern California chapter is a
   newly registered student organization with 15 general members that spread

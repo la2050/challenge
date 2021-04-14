@@ -19,11 +19,11 @@ Describe the mission of your organization.: >-
   saying, doing, and being good to one another.
 project_description: >-
   This project aims to build communities that focus on saying, doing, and being
-  good.   We hope to accomplish this by engaging residents through challenges,
+  good. We hope to accomplish this by engaging residents through challenges,
   starting with giving students a challenge (such as #putasmile, #volunteer,
   etc), giving children a challenge to connect with the elderly (such as #chat
-  #journal, etc).  Residents can choose a challenge, complete it, and then take
-  a photo or video and post it on the app.
+  #journal, etc). Residents can choose a challenge, complete it, and then take a
+  photo or video and post it on the app.
 category: connect
 connect_metrics: 'Social and emotional support, Volunteerism'
 create_metrics: ''
@@ -37,7 +37,7 @@ In which areas of Los Angeles will you be directly working?:
 'In what stage of innovation is this project, program, or initiative?': Research (initial work to identify and understand the problem)
 What is the problem that you are seeking to address?: >-
   The problem that we are seeking to address is loneliness and mental health
-  issues.  New research reveals how social media platforms like Facebook can
+  issues. New research reveals how social media platforms like Facebook can
   greatly affect our mental health. Excessive use of social media can fuel
   anxiety, depression, FOMO, and other mental health issues. Research shows that
   loneliness, living alone, and poor social connections are as unhealthy as
@@ -47,7 +47,7 @@ What is the problem that you are seeking to address?: >-
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   This project will address loneliness and mental health issues by building
   social networking platform that focuses on real social connections and
-  emotional supports.  We want to enable people to discover new routines and
+  emotional supports. We want to enable people to discover new routines and
   change their habits for the better through simple challenges, such as laughing
   with another person, getting hugs, share a meal, take walks together, holding
   hands, join groups with a common interest, volunteer, work on a hobby, take a
@@ -58,6 +58,7 @@ What is the problem that you are seeking to address?: >-
   LAUSD and other organizations 3. 100,000 challenges completed by the end of
   the grant period in August 2021.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '100000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '200000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   The initial project will focus on local and only a few specific challenges.
   During the grant period, the project aims to have 100,000 challenges completed
@@ -67,7 +68,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   of over 600,000 LAUSD students with at least 100,000 seniors out of over 1.3
   million seniors in LA County, this would at minimum increase the metric target
   by one percent. This would be a one-on-one direct impact since it will involve
-  formal connections or partnerships between organizations.   The vision of this
+  formal connections or partnerships between organizations. The vision of this
   project is to be a global challenges app that enables all citizens of the
   world to challenge one another to say, do and be good to themselves, their
   family and friends, strangers, and the environment.

@@ -56,14 +56,14 @@ What is the problem that you are seeking to address?: >-
   meal vouchers and pantries they relied on for daily sustenance. Within the
   first few weeks of the lockdown, it became apparent that foster youth students
   were disproportionately affected by this pandemic, much more than their peers
-  who had familial ties or support networks to turn to. 
+  who had familial ties or support networks to turn to.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Meal Nation provides foster youth students with a meal a day for 30-60 days
   and helps foster youth access CalFresh. Our program includes 3 key components:
   meal delivery, meal pick-up, grocery gift cards. The program is entirely free
   to participants, and the average meal cost is $8.50. We work alongside our
   program partners Freshly, Not Impossible Labs (NIL), Rise and Guardian
-  Scholars, college campus support programs for foster youth.   Prioritizing
+  Scholars, college campus support programs for foster youth. Prioritizing
   nutritious food was important because we recognized this might be the only
   meal a student has access to on any given day. We partnered with Freshly to
   deliver healthy prepared meals weekly to youth with stable housing that lack
@@ -73,7 +73,7 @@ What is the problem that you are seeking to address?: >-
   may be living in their car or in a shelter. To see the model and technology,
   visit bit.ly/fosternil. The grocery card option provides a weekly $50
   e-grocery card to students with dietary restrictions or other special needs,
-  and we require grocery receipts before we issue a new card.  We realize 30-60
+  and we require grocery receipts before we issue a new card. We realize 30-60
   days of meals will not solve food insecurity for this population, so our
   partnership with the nonprofit Rise provides Student Navigators who give 1:1
   assistance with CalFresh enrollment to ensure our participants have a
@@ -86,20 +86,21 @@ What is the problem that you are seeking to address?: >-
   enrollment, level of anxiety around hunger, motivation to stay in school,
   whether they feel cared for and supported, and whether the program had an
   impact on their lives. We also provide an open-ended question for foster youth
-  to share how the service can be improved.  The program has served over 1,300
+  to share how the service can be improved. The program has served over 1,300
   unique foster youth across California, and based on survey responses, 89% of
   foster youth say that the program decreased their anxiety about where their
   next meal was coming from. 86% say the program helped them stay motivated to
   keep up with schoolwork. 95% say the program made them feel cared for and
   supported. And 86% say the program had a positive impact on their lives.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '368'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '368'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Foster youth in LA County were already experiencing a high prevalence of food
   insecurity and the pandemic only made the situation worse. Our intended impact
   is to address food insecurity in an immediate and long-term way. LA County is
   responsible for the welfare of foster youth – and has the largest foster youth
   population in the country. We all must ensure that foster youth have equitable
-  opportunities to thrive.  The impact of this program empowers LA County to
+  opportunities to thrive. The impact of this program empowers LA County to
   remove barriers to success so that foster youth can focus on what matters
   most: getting an education and finding a career path in order to lead
   self-sufficient lives. Our program exemplifies a model of how we can support

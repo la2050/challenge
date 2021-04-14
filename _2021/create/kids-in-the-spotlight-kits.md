@@ -26,7 +26,7 @@ project_description: >-
   enterprise, KITS will use the tools & labor income of the entertainment
   industry to provide racial & economic equity to LA’s most underserved youth
   through workplace training in – & the artistic outlet of – filmmaking & other
-  creative industries. 
+  creative industries.
 category: create
 connect_metrics: ''
 create_metrics: >-
@@ -72,7 +72,7 @@ What is the problem that you are seeking to address?: >-
   will be used as a catalyst for systemic change in foster care outcomes. The
   PSFAC will operate 7 days a week as an innovative learning, vocational &
   social enterprise facility for transitional age youth to have an artistic
-  outlet.  The PSFAC is a safe place where youth have continuous access to the
+  outlet. The PSFAC is a safe place where youth have continuous access to the
   arts to generate content while being gainfully employed – providing a creative
   space to heal, create animated & live-action content, and learn the intricate
   details of business management, technology, film equipment, budgeting &
@@ -101,20 +101,21 @@ What is the problem that you are seeking to address?: >-
   success by YP growth in social capital [life/coping skills] & personal
   wellness.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '433'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '500560'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Our intended impact will be evident in LA County as we change the negative
   trajectory of low-socioeconomic & underrepresented youth by giving them the
   skills to retain employment, achieve their goals, and become leaders in their
   communities. The LA2050 grant will be used to create a detailed design model,
   market analysis, data analysis & an implementation strategy to launch the
-  studio.  With the labor income produced by the entertainment industry
-  annually, our PSFAC will serve long-term as a launch pad for our YPs to earn
-  an income while gaining production & business experience in the industry, as
-  youth get hands-on sector-based job training from the industry professionals
-  who will be renting the space. It will also serve as a space to create, write,
-  & film personal projects. The studio will provide racial & cultural equity to
-  foster youth most often overlooked by society, ending traditional outcomes of
-  job insecurity, food insecurity & homelessness among aged-out foster youth.
+  studio. With the labor income produced by the entertainment industry annually,
+  our PSFAC will serve long-term as a launch pad for our YPs to earn an income
+  while gaining production & business experience in the industry, as youth get
+  hands-on sector-based job training from the industry professionals who will be
+  renting the space. It will also serve as a space to create, write, & film
+  personal projects. The studio will provide racial & cultural equity to foster
+  youth most often overlooked by society, ending traditional outcomes of job
+  insecurity, food insecurity & homelessness among aged-out foster youth.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or

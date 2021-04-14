@@ -17,7 +17,7 @@ Describe the mission of your organization.: >-
   End Homelessness California, DBA The Shower of Hope Program, is a 501c3
   non-profit organization with the mission of building capacity and community
   engagement to support the most vulnerable population suffering housing
-  insecurity, financial stress, and violence. 
+  insecurity, financial stress, and violence.
 project_description: >-
   For so long, the story of LA has been of inequity and poverty for marginalized
   communities; the lifelong solution to breaking these cycles of marginalization
@@ -25,7 +25,7 @@ project_description: >-
   fostering educational equity for community college students who are either
   experiencing homelessness or housing insecurity. We not only provide housing
   for these students, but also a nurturing environment where we mold the future
-  civic, business, & cultural leaders of Los Angeles.  
+  civic, business, & cultural leaders of Los Angeles.
 category: learn
 connect_metrics: ''
 create_metrics: ''
@@ -57,14 +57,14 @@ What is the problem that you are seeking to address?: >-
   suffering from homelessness or housing insecurity, develop housing solutions
   for them, and focus on a wide ranging program to aid in mental health,
   nutrition, and academic support so that these students build a life and
-  contribute to our city. 
+  contribute to our city.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Hope Housing for Students provide housing opportunities for community college
   students experiencing either homelessness or housing insecurity, and provide
   them not just a roof over their head, but full suit of programs to best aid
   students in succeeding. Our strategy is to give these students a comfortable
   and safe environment and the tools to help them succeed in the classroom and
-  beyond.  With our Mental Health Director overseeing both group therapy and
+  beyond. With our Mental Health Director overseeing both group therapy and
   individual sessions for all students, and also develop programs to provide a
   holistic approach to help students understand how best to live & thrive
   independently. Approximately 2/3 of our students are members of the LGBTQ+
@@ -74,7 +74,7 @@ What is the problem that you are seeking to address?: >-
   self-defense & training, community building, healthy eating among many others.
   We nurture character building as a twin component for educational success. By
   creating future leaders who have been from historically marginalized
-  communities, we change the story of LA to be one of equity and justice. 
+  communities, we change the story of LA to be one of equity and justice.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   With two semesters into the program, we have tracked an extensive array of
   metrics that have gone beyond our initial expectations for success. Two
@@ -84,12 +84,13 @@ What is the problem that you are seeking to address?: >-
   to increased participation rates in school and increase overall GPAs. We had
   expected average GPAs to increase by .5; after the first semester, the average
   GPA of program participants went from a 2.7 to a 3.5 with 72% of all units
-  that students took passing.  Our aim is to have all students either enroll in
-  a 4-year University program after graduation from their community colleges, or
+  that students took passing. Our aim is to have all students either enroll in a
+  4-year University program after graduation from their community colleges, or
   enter into a trade position with long term employment opportunities. The early
   numbers indicate how vital stable housing, mental health services, and life
-  coaching offered through our program have positively impacted these students. 
+  coaching offered through our program have positively impacted these students.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '40'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '200'
 Describe how Los Angeles County will be different if your work is successful.: >-
   These future leaders have the lived experience to help shape a more equitable
   and just LA society. A society that does not judge based on poverty or
@@ -99,7 +100,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   believe that a successful investment into our program can provide valuable
   lessons to build a more creative, livable, and economically mobile city in
   which all marginalized communities will have equal access for every Angeleno.
-  We firmly believe this is a promise from us in the present to the future. 
+  We firmly believe this is a promise from us in the present to the future.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or

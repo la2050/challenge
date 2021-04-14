@@ -51,21 +51,21 @@ What is the problem that you are seeking to address?: >-
   them of these barriers so that they can achieve their full potential and
   develop into our future leaders.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
-  Chicas Verdes is an innovative after-school program that provides:  A
-  community garden where students can play, experience joy, and appreciate
-  beauty Knowledge on how to strengthen one’s mental and physical health
-  Guidance on enhancing one’s self-esteem and self-awareness Team-building
-  activities that foster healthy relationships A platform for engaging local
-  communities and generating trust among fellow humans Access to new learning
-  and development opportunities Role models that can mentor students as they
-  strive to create a better future  Chicas Verdes students meet in a garden
-  after school for three hours twice a week and experience a three part
-  curriculum that covers self, nature, and society. During the first 30 minutes
-  of our time together, students learn about self. We discuss nutrition and self
-  care, get to know each other and build trust through team-building activities,
-  and have time to play and develop social and emotional skills. The next hour
-  is spent on nature. Students work in the garden and learn about agriculture
-  and horticulture, ecosystems, and appreciation of beauty. The last 90 minutes,
+  Chicas Verdes is an innovative after-school program that provides: A community
+  garden where students can play, experience joy, and appreciate beauty
+  Knowledge on how to strengthen one’s mental and physical health Guidance on
+  enhancing one’s self-esteem and self-awareness Team-building activities that
+  foster healthy relationships A platform for engaging local communities and
+  generating trust among fellow humans Access to new learning and development
+  opportunities Role models that can mentor students as they strive to create a
+  better future Chicas Verdes students meet in a garden after school for three
+  hours twice a week and experience a three part curriculum that covers self,
+  nature, and society. During the first 30 minutes of our time together,
+  students learn about self. We discuss nutrition and self care, get to know
+  each other and build trust through team-building activities, and have time to
+  play and develop social and emotional skills. The next hour is spent on
+  nature. Students work in the garden and learn about agriculture and
+  horticulture, ecosystems, and appreciation of beauty. The last 90 minutes,
   students learn about society. Students discuss social justice, environmental
   justice, and leadership and entrepreneurship. During this time, students hear
   from guest speakers and implement community based solutions to the societal
@@ -75,34 +75,35 @@ What is the problem that you are seeking to address?: >-
   Impact is measured through qualitative testimonials and quantitative data.
   Students in the program complete quarterly assessments that measure
   self-esteem, self-awareness, sense of community, and the impact they believe
-  they have in the community.   Students also provide testimonials that showcase
+  they have in the community. Students also provide testimonials that showcase
   the impact of our work. Here's what some of our students have to say: “Chicas
   Verdes makes me feel like I’m wanted somewhere. I’m not alone, and I’m enough
   for being who I am”; “When I put my hands in the dirt, the first thing that
   comes to mind is how I can change my life to be, just, happier”; “Chicas
   Verdes taught me that if I truly believe in something, like making a change,
-  it can actually happen”.   We also track the impact of the projects students
-  are implementing in the community. For example, since May of 2020, students
-  have worked with over 150 volunteers to distribute over 1.3 million pounds of
+  it can actually happen”. We also track the impact of the projects students are
+  implementing in the community. For example, since May of 2020, students have
+  worked with over 150 volunteers to distribute over 1.3 million pounds of
   produce and 1000 masks to 47,000 families through our weekly giveaway program.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '60'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '47000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   If our work is successful, LA students will be equipped with the social and
   emotional support necessary to become socially minded leaders who promote
   volunteerism and community connection within their neighborhoods. There will
   be a greater sense of community and care for one another that is developed
-  through community workshops and community service projects.   LA students will
+  through community workshops and community service projects. LA students will
   have a personal connection to nature and in turn will care for the environment
   and make personal choices that will help us create a healthier world for all.
   Students will be equipped with the skills, knowledge, and resources necessary
   to live a healthy sustainable lifestyle. They will become stewards of our
-  mission and share their love of nature and their community with others.  
+  mission and share their love of nature and their community with others.
 Describe the role of collaborating organizations on this project.: >-
   Bari Applebaum Creative is serving as the organization representative for
   Chicas Verdes Corp while Chicas Verdes Corp is re-designated as a Public
   Charity. Chicas Verdes currently has 501(c)(3) status, but was misclassified
   as a foundation instead of a public charity. The EIN number for Chicas Verdes
-  Corp is 850907771. 
+  Corp is 850907771.
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or
   gatherings,Communications support,Capacity-building and training,Strategy

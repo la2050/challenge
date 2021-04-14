@@ -45,12 +45,12 @@ What is the problem that you are seeking to address?: >-
   The death of George Floyd in May 2020 served as an awakening for many people,
   catapulting the Black Lives Matter movement into a global spotlight. But
   tragically, for many people of color, George Floyd’s death was just another
-  event in a long line of racial trauma they experience throughout their lives. 
+  event in a long line of racial trauma they experience throughout their lives.
   Witnessing or being the direct target of racism is a well-researched
   determinant of physical and emotional health among people of color. According
   to the American Academy of Pediatrics, racism has a particularly significant
   impact on youth, including increased rates of infant mortality, depression,
-  anxiety, ADHD, and other mental health issues.  The door has been opened for
+  anxiety, ADHD, and other mental health issues. The door has been opened for
   dialogue among youth about race and racism in America, and many have taken to
   social media to express their experiences and opinions. But this is not
   enough; safe places must be intentionally created to allow youth of color to
@@ -66,13 +66,13 @@ What is the problem that you are seeking to address?: >-
   activities as a tool for expression and healing. Youth will have the
   opportunity to create pieces of art and writing throughout their sessions,
   leading to the production of a zine which will be distributed to the
-  community.  Creative writing and improv lessons will be led by experienced
+  community. Creative writing and improv lessons will be led by experienced
   instructors that have seen success in related programming. When 3 Lines has
   led virtual creative arts classes in the past, many youth wanted to discuss
   issues related to personal trauma, which the instructors felt unprepared to
   address. Incorporating licensed therapists into the program will provide youth
   the support they need to move out of their negative feelings into growth and
-  action.  THP will also bring their work to the community through contact-free
+  action. THP will also bring their work to the community through contact-free
   monthly drive-through resource events, where books and groceries will be
   distributed to those in need. The resource bags will include reading materials
   that focus on topics of equity and inclusion, including books written by
@@ -83,16 +83,16 @@ What is the problem that you are seeking to address?: >-
   therapist notes and discussions about how the sessions were progressing.
   Self-esteem among participants was observed to increase significantly
   throughout the course of the programming, with therapists indicating that
-  youth became more open and confident in trying new things.  All participants
-  in THP will complete an evidence-based teen risk and protective factors
-  checklist before and after their 8 week session. Teens will indicate which
-  statements are true for them, such as “I feel good about myself” and “I feel
-  positive about my future”. Improvement will be shown in at least two areas by
-  the end of their sessions, either through adding a protective factor or
-  eliminating a risk factor.   In addition, formal research will be conducted by
-  a Psychologist, which will be published to address the impact of THP on youth
-  mental health.
+  youth became more open and confident in trying new things. All participants in
+  THP will complete an evidence-based teen risk and protective factors checklist
+  before and after their 8 week session. Teens will indicate which statements
+  are true for them, such as “I feel good about myself” and “I feel positive
+  about my future”. Improvement will be shown in at least two areas by the end
+  of their sessions, either through adding a protective factor or eliminating a
+  risk factor. In addition, formal research will be conducted by a Psychologist,
+  which will be published to address the impact of THP on youth mental health.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '400'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '2000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   According to the Afterschool Alliance, nearly 362,000 additional children in
   LA would attend afterschool programs if one were available, and 79% of parents
@@ -129,6 +129,6 @@ Indicate any additional LA2050 goals your project will impact.:
   - ' LA is the healthiest place to LIVE'
 year: 2021
 filename: the-3-lines-collective
-order: 70
+order: 71
 
 ---

@@ -67,7 +67,7 @@ What is the problem that you are seeking to address?: >-
   public benefits welfare-to-work programs (GAIN/GROW). Our program participants
   have been 48% Latinx, 35% Caucasian, and 17% African American. In the last
   cohort, two students had criminal records, two were in drug rehabilitation,
-  and three were unhoused.   Lost Angels not only offers job training and career
+  and three were unhoused. Lost Angels not only offers job training and career
   development support, but also addresses essential needs and barriers to
   progress. Our staff assist students with expunging records, obtaining driver’s
   licenses, completing their high school diploma or GED, and other legal,
@@ -75,20 +75,21 @@ What is the problem that you are seeking to address?: >-
   linkages to housing services, public benefits, and other vocational training
   opportunities, jobs and workforce development resources. Lost Angels is on
   track to have a 92% graduation rate, with more than 90% of students placed in
-  on-the-job paid apprenticeship at $15/hour.   
+  on-the-job paid apprenticeship at $15/hour.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Lost Angels is proposing to take an existing program to scale by increasing
   the number of students served in a year and providing extended supportive
-  services. We measure quantitative and qualitative outcomes, including:  1)
+  services. We measure quantitative and qualitative outcomes, including: 1)
   number of TAY students served; 2) demographic information; 3) current status
   of housing/rehabilitation/probation, etc.; 4) types of supportive services
   provided (driver's license, housing, criminal record expungement, etc.); 5)
   number of students certified to drive a forklift; 6) number of students with a
   career development plan and resume; 7) number of students that graduate after
-  12-weeks; and,  8) number of students securing a living wage job.   LACP will
+  12-weeks; and, 8) number of students securing a living wage job. LACP will
   survey students to determine satisfaction with the program and collect
   information on changes in quality of life.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '76'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '250'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Lost Angels is creating a diverse, skilled workforce that will reduce the
   number of unemployed and unhoused young adults in Los Angeles County. Our
@@ -98,7 +99,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   incredibly successful, with 71% of students securing employment at wages
   between $17-$25 per hour with benefits after graduation. We expect these
   numbers to increase as the program is strengthened, partnerships are further
-  developed, and we build our capacity to take in more students. 
+  developed, and we build our capacity to take in more students.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Communications support,Capacity-building and

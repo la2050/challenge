@@ -17,12 +17,12 @@ Describe the mission of your organization.: >-
   Disaster zones weren’t designed for children. We provide spaces, activity, and
   community just for kids in the immediate aftermath of disaster. Our promise is
   a supportive camp experience with excellent counselors, fun programs, and an
-  adaptable model designed to pop up anywhere. 
+  adaptable model designed to pop up anywhere.
 project_description: >-
   Project:Camp sets up pop-up day camps to support children, parents, and their
   communities in the wake of disaster. We work with community partners to launch
   pop-up day camps when disaster strikes and to prepare them to launch their own
-  pop-up day camps in preparation for future disasters. 
+  pop-up day camps in preparation for future disasters.
 category: play
 connect_metrics: ''
 create_metrics: ''
@@ -45,7 +45,7 @@ What is the problem that you are seeking to address?: >-
   National Risk Index (FEMA) shows communities that are least equipped to
   respond to disaster also tend to be the same communities with increased rates
   of Adverse Childhood Experiences (ACE), or traumatic experiences that can lead
-  to long-term stress and poor health outcomes in children.  Communities need a
+  to long-term stress and poor health outcomes in children. Communities need a
   way to support the mental health of children, while providing space for
   parents to rebuild their lives. California Surgeon General Dr. Nadine Burke
   Harris calls for long-term investments in community care to build resilience
@@ -65,7 +65,7 @@ What is the problem that you are seeking to address?: >-
   working with Cooley LLP pro bono to apply for our own 501(c)3 nonprofit
   status. We will use funding from JVPF to support our strategic planning,
   including developing fundraising and organization structure to ensure
-  Project:Camp’s stability and success moving forward. 
+  Project:Camp’s stability and success moving forward.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Success means that there are preparations in place across the county to
   support children and their families when regular child care services are
@@ -76,8 +76,9 @@ What is the problem that you are seeking to address?: >-
   enlisting sites pre-arranged to host camps, summer camps that can provide
   volunteers and connect with parents and potential campers. Project:Camp will
   connect the dots and provide the network needed to link together sites,
-  volunteers, and families to focus these resources in the event of a disaster. 
+  volunteers, and families to focus these resources in the event of a disaster.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '250'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '500'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Our vision is that all children have a safe and joyful space during a
   disaster. Our goals are to increase the capacity of community organizations
@@ -90,7 +91,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   the experts in the room on providing an adaptable, trauma-informed camp model
   and the resources to train volunteers and run camp. We can then work with
   community partners to adapt this work to fit the needs and cultures of the
-  communities that we are supporting. 
+  communities that we are supporting.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or

@@ -43,7 +43,7 @@ What is the problem that you are seeking to address?: >-
   marginalized populations (Women, BIPOC, LGBTQIA+) in private and public
   institutions and workplaces. I'd like to run a county wide assessment and
   provide employees with a platform that helps to increase education and
-  retention.  Turnover within the workplace and within public and private
+  retention. Turnover within the workplace and within public and private
   institutions is costing our economies billions of dollars a year. It is also
   harming the potential for underrepresented populations to build generational
   wealth.
@@ -56,13 +56,14 @@ What is the problem that you are seeking to address?: >-
   direct access to industry professionals. The project would launch a citywide
   assessment that helps us to gauge the root cause of discrimination and build
   solutions to make our workplaces and educational institutions a more equitable
-  place to live and thrive. 
+  place to live and thrive.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Our technology has proven results. We are already showing results after 9
   months.We have increased retention by 75% in the companies who use our
   technology and methodology, we are decreasing discrimination complaints by 15%
-  and instances of microaggressions by 13%.  
+  and instances of microaggressions by 13%.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '1000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Workplace retention will increase. Instances of discrimination will decrease.
   There will be more opportunities for underrepresented candidates to receive

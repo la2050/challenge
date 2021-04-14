@@ -60,14 +60,14 @@ What is the problem that you are seeking to address?: >-
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   At Harlem Lacrosse, success is a team sport. Program Directors complement the
   work of students and families, school staff, community members, and peer
-  programs to create robust high school playing opportunities for youth.  HL-LA
+  programs to create robust high school playing opportunities for youth. HL-LA
   currently serves its high school students through a community program, but
   seeks to expand its staff to develop more locally-based programs to better
   serve students who are alumni of our middle school programs and reach new
   students. The expanded HS Programs will include: dedicated staff members who
   serve as coaches, mentors, tutors, and counselors, regular lacrosse and
   fitness training and playing opportunities, access to academic support,
-  college counseling, and career exploration.   Our unique model is particularly
+  college counseling, and career exploration. Our unique model is particularly
   well-suited to meet our players' specific needs. Program Directors are
   professional coaches with years of experience in trauma-informed practices,
   education, and youth development. HL-LA’s programs foster meaningful
@@ -78,7 +78,7 @@ What is the problem that you are seeking to address?: >-
   and the average participant enjoys over 250 hours of programming annually.
   HL-LA is a transformative program for students and families, and the true
   impact is realized when students stay in the program over a long period of
-  time.   
+  time.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   HL-LA uses data to evaluate our organization's effectiveness and to inform
   program design. We collect program feedback annually from staff, students,
@@ -90,11 +90,12 @@ What is the problem that you are seeking to address?: >-
   surveys to measure SEL skills and use the results to create customized plans
   for individual participants. To evaluate the depth of participation we look at
   a few key metrics; hours of participation per year per participant, annual
-  rates of attendance, year over year retention, and graduation rates.  Success
+  rates of attendance, year over year retention, and graduation rates. Success
   means HL students stay in the program over a long period of time, attend
   school more regularly, earn better grades, make friends, and improve their
-  lacrosse skills. 
+  lacrosse skills.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '300'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   If Harlem Lacrosse’s work is successful here in LA County, hundreds of
   students who attend under-resourced, underfunded high schools will know the

@@ -85,7 +85,7 @@ What is the problem that you are seeking to address?: >-
   case management to track goal attainment, community referrals such as mental
   health, and resource distribution. The Senior Director of Programs creates
   quarterly dashboard reports that include the data collected that the Board
-  evaluates.  We empower underserved students to pursue their academic and
+  evaluates. We empower underserved students to pursue their academic and
   professional aspirations, and our program works: 98% of our Class of 2018 and
   96% of the Class of 2019 graduated high school on time. 95% of college
   sophomores and 81% of freshmen, and over 95% of younger students continued
@@ -94,6 +94,7 @@ What is the problem that you are seeking to address?: >-
   first-generation, provide new hope for their communities as peers and parents
   follow in their footsteps.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '350'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1386'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Our short- and long-term visions for success involve growing our virtual
   offerings to mitigate new and preexisting digital and systemic impacts on our

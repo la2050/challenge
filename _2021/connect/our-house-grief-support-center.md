@@ -44,7 +44,7 @@ What is the problem that you are seeking to address?: >-
   Unsupported grief can lead to physical, emotional, and social risks, such as
   depression, anxiety, substance abuse, and even violence, gang activity,
   incarceration, and early death. Children and teens may disengage from school,
-  and adults from workplace and communal endeavors.  Grief support is especially
+  and adults from workplace and communal endeavors. Grief support is especially
   needed during the COVID-19 pandemic, which, in addition to causing more than
   23,000 deaths in L.A. County, has complicated the grieving process by
   interrupting mourning rituals and isolating grievers through physical
@@ -61,12 +61,12 @@ What is the problem that you are seeking to address?: >-
   and find healing. Our model, adapted from the research of grief expert J.
   William Worden, PhD, helps grievers accept the reality of the death, process
   the pain of their grief, adjust to a world without the person who died, and
-  foster an enduring connection with them.   Our programs have grown with the
+  foster an enduring connection with them. Our programs have grown with the
   needs of our community, serving a diverse population of grievers throughout
   Greater L.A. We are committed to making grief support available to grievers
   with limited financial and transportation resources, as well as other life
   challenges, particularly in our programs that serve children and
-  Spanish-speaking adults, most of whom are from low-income households.   OUR
+  Spanish-speaking adults, most of whom are from low-income households. OUR
   HOUSE grief support groups are age- and relationship-specific, building
   communities based on shared, lived experiences. For adults, we provide groups
   for young, mid-life, and later life widows and widowers, parents grieving an
@@ -80,7 +80,7 @@ What is the problem that you are seeking to address?: >-
   based on years of tracking and best practices in the bereavement field.
   Evaluation tools include: (1) Insights from initial pre-group appointments;
   (2) Psychosocial questionnaires; (3) Mandatory clinical supervision of group
-  leaders; and (4) Insights from group activities.  All grief support programs
+  leaders; and (4) Insights from group activities. All grief support programs
   have demonstrated statistically significant impact in achieving the following
   outcomes. Children and teens increase their ability to name and express
   feelings related to their grief, learn healthy coping strategies, understand
@@ -90,6 +90,7 @@ What is the problem that you are seeking to address?: >-
   lead a fulfilling and meaningful life without the person who died, and feel
   less alone after speaking with other people their age who are grieving.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '1926'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '13482'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Thousands of grieving L.A. County residents benefit from the social and
   emotional support provided by OUR HOUSE’s grief support groups each year. Our
@@ -98,7 +99,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   trauma and adversity caused by the death of a loved one. As Vanessa, a
   15-year-old, wrote: “My group showed me that it’s okay to feel angry, guilty,
   confused, etc. If I want to cry, then I can. I met new people that feel the
-  same way I do. I’m not alone.”  Volunteerism is another key facet of OUR
+  same way I do. I’m not alone.” Volunteerism is another key facet of OUR
   HOUSE’s positive impact in Los Angeles. OUR HOUSE is a volunteer-driven
   organization, annually accounting for more than 500,000 donated hours of
   service. Many of our volunteers are alumni of our grief support groups. After

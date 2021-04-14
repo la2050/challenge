@@ -19,7 +19,7 @@ Describe the mission of your organization.: >-
   half-million members of the extended UCLA family, as well as the LA community
   at large, to create social change. The Center strives to engage volunteers
   throughout the academic year–and, ideally, to develop a life-long passion for
-  civic service. 
+  civic service.
 project_description: >-
   The UCLA Volunteer Center connects students to the LA community through
   volunteer opportunities. Annually, we connect thousands of students to service
@@ -28,7 +28,7 @@ project_description: >-
   for volunteers in LA. Receiving this grant would provide opportunities to
   students in hopes of creating lifelong volunteers to enrich the LA community.
   Note: as COVID restrictions shift, we are prepared to host in-person, online
-  or hybrid programs. 
+  or hybrid programs.
 category: connect
 connect_metrics: Volunteerism
 create_metrics: ''
@@ -67,28 +67,28 @@ What is the problem that you are seeking to address?: >-
   The UCLA Volunteer Center coordinates service projects throughout Greater LA
   to inspire the UCLA family to give their time and talent. UCLA provides two
   large-scale projects to give back to the community: UCLA Volunteer Day & One
-  Bus/One Cause.   The UCLA Volunteer Day was founded in 2009 as the nation’s
+  Bus/One Cause. The UCLA Volunteer Day was founded in 2009 as the nation’s
   largest service project for new university students. Volunteer Day has become
   a cornerstone of the UCLA experience. The annual day of service is when UCLA
   students, faculty, staff, alumni, parents & community members come together to
   provide service at sites in LA County. The project, which began with 4,000
   volunteers & 8 service sites, has now grown to more than 7,000 volunteers at
-  200+ sites.  Thousands of service hours are completed on this day with an
-  impact on hundreds of organizations in LA.    The UCLA One Bus/One Cause
-  Project sends a bus filled with 50 UCLA staff, faculty, students, alumni &
-  community volunteers into LA to address a specific need. This program occurs
-  bi-monthly to address an organization's needs in a small impactful way. With
-  two projects a month, our One Bus/One Cause Project records hundreds of
-  service hours to worthy non-profit organizations.   Note: From March 2020
-  until today, we transitioned all service programs into a virtual format to
-  comply with COVID protocols. In Fall 2021, we are prepared for a virtual,
-  in-person or hybrid format.   
+  200+ sites. Thousands of service hours are completed on this day with an
+  impact on hundreds of organizations in LA. The UCLA One Bus/One Cause Project
+  sends a bus filled with 50 UCLA staff, faculty, students, alumni & community
+  volunteers into LA to address a specific need. This program occurs bi-monthly
+  to address an organization's needs in a small impactful way. With two projects
+  a month, our One Bus/One Cause Project records hundreds of service hours to
+  worthy non-profit organizations. Note: From March 2020 until today, we
+  transitioned all service programs into a virtual format to comply with COVID
+  protocols. In Fall 2021, we are prepared for a virtual, in-person or hybrid
+  format.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   The UCLA Volunteer Center has served as a model for the planning,
   implementation and management of large-scale community projects. Since the
   Center’s inception, we have been collecting metrics for our two largest
   programs: One Bus/One Cause and Volunteer Day. Below are some highlighted
-  metrics:  Volunteer Day/One Bus/One Cause 119 Student Volunteers 62,062
+  metrics: Volunteer Day/One Bus/One Cause 119 Student Volunteers 62,062
   First-Time Student Volunteers 49,142 Student Leads 5,140 Alumni Volunteers 389
   Community Volunteers 528 Faculty/Staff Volunteers 4,422 Buses 1,243 Volunteer
   Sites 646 Community Partners 626 Service Hours Served 346,092 Letters Written
@@ -99,9 +99,10 @@ What is the problem that you are seeking to address?: >-
   virtual, in-person or hybrid format for the next academic year, pending UCLA &
   LADPH COVID decisions
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '6000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '260000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   “I had such a good time and really felt that I was contributing my time to a
-  good cause;”  “I liked that different service groups volunteered together-it
+  good cause;” “I liked that different service groups volunteered together-it
   added a sense of community because people knew each other already.” These
   testimonials are from UCLA students who participated in Volunteer Center
   programs. Through our projects, we offer LA County a group of eager and
@@ -109,7 +110,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   engagement. Our success is shown through our volunteer metrics; we have worked
   with 646 non-profit sites, 62,062 student volunteers, 49,142 first-time
   student volunteers and completed 346,092 service hours. If we secure funding,
-  our goal is to increase our volunteer numbers by 10%.  With 40,000+ enrolled
+  our goal is to increase our volunteer numbers by 10%. With 40,000+ enrolled
   students, a workplace of 42,000+ employees, we have the people power and
   connections to help push LA to lead the nation in voting and volunteering
   rates.

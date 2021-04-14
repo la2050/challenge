@@ -18,7 +18,7 @@ Describe the mission of your organization.: >-
   restoring hope to underserved children in LA through academic, social and
   domestic support. These programs highlight and encourage their value as
   self-sufficient, thriving, active members of our community. We're currently
-  providing direct Emergency Funding during COVID. 
+  providing direct Emergency Funding during COVID.
 project_description: >-
   Help us send underserved youth to Summer Camp! Since 1993, more than 75,000
   children have attended Camp for All, a program which provides crucial outdoor
@@ -27,7 +27,7 @@ project_description: >-
   designed to provide positive, educational, enriching, life-affirming outdoor
   experiences, which highlight care for our natural environment and marine
   eco-system, and aim to renew the child's sense of play and sense of hope-all
-  in LA's own backyard!  
+  in LA's own backyard!
 category: play
 connect_metrics: ''
 create_metrics: ''
@@ -80,8 +80,8 @@ What is the problem that you are seeking to address?: >-
   beautiful location in the Santa Monica Mountains. We partner with different
   agencies that serve homeless and underserved youth- including Homeboy
   Industries, My Friend's Place, Covenant House, LA's BEST-to name a few. Our
-  staff is skilled at both mentorship and  knowledge of the natural environment.
-  Our program allows these youth to be "kids" -again. 
+  staff is skilled at both mentorship and knowledge of the natural environment.
+  Our program allows these youth to be "kids" -again.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Camp for All will continue to be specifically evaluated in a very in-depth,
   transparent way each summer, by actually surveying each participant, before
@@ -94,8 +94,9 @@ What is the problem that you are seeking to address?: >-
   twenty-six years and counting, we rely also on anecdotal stories-both positive
   and negative, to shape, adjust and tweak future program endeavors, with our
   goal of always enriching and improving the camper’s overall experience, at
-  every level. 
+  every level.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '1000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '6500'
 Describe how Los Angeles County will be different if your work is successful.: >-
   The desired, measurable outcomes of Camp for All Program are: Goal 1.) To
   provide our youth with memorable, life-affirming, confidence-building outdoor
@@ -109,7 +110,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   genuinely bring the family closer together. Outcome #3: Allow camp days for
   families living in downtown shelters the opportunity to participate, so they
   leave feeling refreshed, restored, ready to face their future with renewed
-  hope. 
+  hope.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or

@@ -49,7 +49,7 @@ What is the problem that you are seeking to address?: >-
   musicals were both written and directed by Caucasian artists (Playbill.com).
   The recent success of Hamilton demonstrates the interest in using this art
   form involving People of Color. NMI is invested in moving musical theatre
-  beyond its Eurocentric origins to include more diverse writers and audiences. 
+  beyond its Eurocentric origins to include more diverse writers and audiences.
   Few in the Los Angeles BIPOC community may have had the opportunity to be
   trained in musical theatre, and to bring their culturally relevant music and
   stories to the stage. For the past decade, NMI has been launching programs to
@@ -61,8 +61,8 @@ What is the problem that you are seeking to address?: >-
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   This grant will support funding for our Los Angeles based programming to
   elevate the voices and create short musical theater pieces featuring artists
-  and members of the BIPOC community.  Our project nurturing BIPOC artists will
-  begin in the Fall of 2021. NMI will develop the  professional musical theatre
+  and members of the BIPOC community. Our project nurturing BIPOC artists will
+  begin in the Fall of 2021. NMI will develop the professional musical theatre
   skills of these Los Angeles-based artists. Working with the BIPOC community,
   we will identify local writers and musicians and invite them to participate in
   a six-month NMI mentorship program which culminates in presentations of their
@@ -70,13 +70,13 @@ What is the problem that you are seeking to address?: >-
   prepares writers and musicians to bring their stories to the musical theatre
   stage. Individuals will participate in a mentor-based workshop encouraging
   them to express their own unique ideas and world-views brought to life through
-  the artform of musical theatre.  Each participant will complete their own
+  the artform of musical theatre. Each participant will complete their own
   musical theater piece, which will be promoted, presented in a public forum,
   and then showcased online. NMI’s project will serve approximately 17 writers,
   plus an additional 60-70 actors, directors, music directors, and stage
   managers. Our goal is to develop the scripts and songs of a diverse community
-  of writers, actors and musicians.  All of our artists and crew receive
-  compensation for their participation in this project. 
+  of writers, actors and musicians. All of our artists and crew receive
+  compensation for their participation in this project.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   NMI has a strong history of success, which is evidenced by the organization’s
   40 years of accomplishments. We have developed over 400 musicals, working with
@@ -89,10 +89,10 @@ What is the problem that you are seeking to address?: >-
   Stiles & Drewe (Mary Poppins), and Placido Domingo, Jr. (Soul of Darkness). We
   will define the success of our BIPOC project by 1) the successful development
   of a library of musical theatrical pieces created by artists reflecting their
-  own unique worldview and,  2) the successful promotion of each piece,
-  performed in a public forum and; 3) the final showcase of each piece presented
-  online.
+  own unique worldview and, 2) the successful promotion of each piece, performed
+  in a public forum and; 3) the final showcase of each piece presented online.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '85'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '4000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   A 2019 Community Survey found that Los Angeles County's racial makeup is over
   48% Latinx and nearly 8% African American;.yet over 90% of musical theater in

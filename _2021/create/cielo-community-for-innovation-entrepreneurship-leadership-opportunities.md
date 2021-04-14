@@ -46,10 +46,10 @@ What is the problem that you are seeking to address?: >-
   owners have been particularly hard hit; nearly 317,000 small businesses closed
   between February and September 2020 (UC Santa Cruz). And the US unemployment
   rate rose to almost 15% last year, worsening income inequality throughout the
-  country.   Low-income people are particularly in need of training and support
-  to launch successful business ventures or careers, as they often have
-  difficulty obtaining loans or accessing financial assistance due to low credit
-  scores and poor financial history.  
+  country. Low-income people are particularly in need of training and support to
+  launch successful business ventures or careers, as they often have difficulty
+  obtaining loans or accessing financial assistance due to low credit scores and
+  poor financial history.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   The Source provides people in any community access to an experienced
   business/workforce coach and supplemental training services, helping to launch
@@ -57,20 +57,20 @@ What is the problem that you are seeking to address?: >-
   and other resources by topic, region, industry, spoken language, and other
   demographics. The Source also includes an in-app video library with webinars
   such as “Succeeding as an Entrepreneur;” “Mastering the Case Interview;” and
-  “Optimizing Your LinkedIn Profile.”   The Source can serve anyone anywhere.
-  This allows us to address income inequality by reaching disadvantaged
-  communities that do not have access to other job training programs to help
-  level the playing field in the workforce. The Source is also particularly
-  beneficial for women and minority entrepreneurs who face discrimination,
-  disparities, and other challenges to their success.  CIELO has developed
-  strong partnerships with many banks, including Pacific Western Bank, Union
-  Bank, and US Bank. We plan to leverage these partnerships by asking bank
-  employees to serve as coaches on our platform, giving banks easy volunteer
-  opportunities for their employees. This will also provide direct access to
-  banks for users.  The Source has launched in Orange County with community
-  partners that connect their clients to the platform, and also recruit
-  volunteers to serve as mentors. Our goal for 2021 is to pilot The Source in LA
-  County to help more people succeed in entrepreneurship and their careers. 
+  “Optimizing Your LinkedIn Profile.” The Source can serve anyone anywhere. This
+  allows us to address income inequality by reaching disadvantaged communities
+  that do not have access to other job training programs to help level the
+  playing field in the workforce. The Source is also particularly beneficial for
+  women and minority entrepreneurs who face discrimination, disparities, and
+  other challenges to their success. CIELO has developed strong partnerships
+  with many banks, including Pacific Western Bank, Union Bank, and US Bank. We
+  plan to leverage these partnerships by asking bank employees to serve as
+  coaches on our platform, giving banks easy volunteer opportunities for their
+  employees. This will also provide direct access to banks for users. The Source
+  has launched in Orange County with community partners that connect their
+  clients to the platform, and also recruit volunteers to serve as mentors. Our
+  goal for 2021 is to pilot The Source in LA County to help more people succeed
+  in entrepreneurship and their careers.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   The idea for The Source came from over five years of serving our local
   low-income community and learning from our clients what would benefit them
@@ -81,12 +81,13 @@ What is the problem that you are seeking to address?: >-
   system, and two classes live for clients. We are gathering data from the OC
   pilot and plan to survey all participants so we can incorporate their feedback
   into the operational phase, which will launch later in 2021 with at least
-  three more partners.   Moving forward, we will evaluate The Source’s success
+  three more partners. Moving forward, we will evaluate The Source’s success
   based on its ability to help clients achieve their personal goals, such as
   obtaining a new job, launching a new business, increasing income, and other
   hard measures of success related to goals set by clients during coaching
   sessions.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '500'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   By piloting The Source in LA County, LA will be home to more thriving small
   business start-ups and successful career builders. Our goal is to increase
@@ -99,7 +100,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   to reduce income inequality across the county by empowering low-income people
   to stabilize their lives. By the end of the grant period, we hope to have 500
   total active users and coaches, at least five local partners, and fifteen
-  classes live and available for users. 
+  classes live and available for users.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or

@@ -17,7 +17,7 @@ Describe the mission of your organization.: >-
   Our Mission is to develop children's creativity through hands-on making with
   sustainable materials. Our Vision is for all people to have an outlet for
   acquiring and donating reusable materials, and a resource to develop skills
-  for making and tinkering. 
+  for making and tinkering.
 project_description: >-
   Envision a 4,000 sf makerspace designed just for kids, where youth can develop
   creativity and collaboration skills. A makerspace serving up to 100 youth at a
@@ -49,7 +49,7 @@ What is the problem that you are seeking to address?: >-
   ingenuity.This is where we come in: In too many schools, particularly in
   LAUSD, arts education has become a sad afterthought, and students aren't
   gaining the STEAM skills necessary for full engagement with our increasingly
-  knowledge-intensive, globally integrated and innovation-based economy.  For
+  knowledge-intensive, globally integrated and innovation-based economy. For
   over 15 years, our unique ethos and methods have been incredibly effective at
   imparting STEAM lessons in an intuitive way. This new facility will allow us
   to serve youth in need of a hands-on creative learning environment. We can't
@@ -68,15 +68,15 @@ What is the problem that you are seeking to address?: >-
   facility into makerspaces and a Creative Reuse Materials Warehouse, and have
   an option from the landlord to double this footprint as our programming
   continues to grow. This will create the largest public kids' makerspace in
-  California, perfect for school groups, camps, and classes.  The new reDiscover
+  California, perfect for school groups, camps, and classes. The new reDiscover
   Center will be an anchor for LA's youth maker community. A place where
   community organizations and local artists meet and make together, sharing
   ideas anchored in reDiscover’s vision of a creative, sustainable Los Angeles.
   Where each year, thousands of young people from all walks of life get deep
   into learning maker skills, raising their sights to careers in the creative
-  economy, and making something amazing.  Vote for reDiscover this year, and
-  help youth in Los Angeles get back to their creative, inventive selves- as we
-  all try and get back to "normal" together. 
+  economy, and making something amazing. Vote for reDiscover this year, and help
+  youth in Los Angeles get back to their creative, inventive selves- as we all
+  try and get back to "normal" together.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   This expansion into a 4,000 sf makerspace will allow reDiscover to triple the
   number of youth served annually in our intensive Tinkering Camp Programs,
@@ -90,21 +90,22 @@ What is the problem that you are seeking to address?: >-
   to our curriculum for in-school maker lessons. In addition to tripling the
   number of youth served, we will be able to open a retail facility to sell
   maker resources, and serve as a gallery for youth artists. rDC participates in
-  the California Cultural Data Project to track our impact in the community. 
+  the California Cultural Data Project to track our impact in the community.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '20000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '120000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Our vision is to facilitate 20,000 children per year as they learn to not
   simply to problem-solve, but expand upon their own solutions; not only to
   express creativity, but to become experienced makers and tinkerers- learning
-  to design things with their own hands, making something real.   Impact:  
+  to design things with their own hands, making something real. Impact:
   Differentiated makerspaces for different interests and skill levels, ranging
-  from paper and scissors to 3D scanners and CNC routers.   Program
-  collaboration bridging arts and maker organizations, including government,
-  non-profit, and industry.  Joint programming of our shared spaces to result in
-  new and more robust curriculum used by strategic partners to reach 100,000+
-  additional youth.   Engagement with schools across LA County serving BIPOC
-  youth, providing accessible maker experiences rooted in LA's richly diverse
-  craft, art, engineering, and maker traditions. 
+  from paper and scissors to 3D scanners and CNC routers. Program collaboration
+  bridging arts and maker organizations, including government, non-profit, and
+  industry. Joint programming of our shared spaces to result in new and more
+  robust curriculum used by strategic partners to reach 100,000+ additional
+  youth. Engagement with schools across LA County serving BIPOC youth, providing
+  accessible maker experiences rooted in LA's richly diverse craft, art,
+  engineering, and maker traditions.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or

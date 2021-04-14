@@ -25,8 +25,8 @@ project_description: >-
   space of our new gallery into an outdoor exhibition space where young women
   can display their photo essays that highlight injustices found throughout
   their communities will also provide the community a safe forum to use these
-  images as a catalyst for dialogue and advocacy for issues from housing  to
-  food insecurity and economic equity.
+  images as a catalyst for dialogue and advocacy for issues from housing to food
+  insecurity and economic equity.
 category: create
 connect_metrics: ''
 create_metrics: >-
@@ -94,6 +94,7 @@ What is the problem that you are seeking to address?: >-
   community creative & advocacy space, flexible enough to adapt to ever-changing
   COVID19 protocols.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '150'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '2000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Work that our students complete through our Digital Promotoras,
   photojournalism classes highlight communities and social injustices that are

@@ -75,11 +75,12 @@ What is the problem that you are seeking to address?: >-
   frequency, tonnage, composition, active users, cost savings, value creation,
   etc.)
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '5000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '4000000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   The direct impact of this proposal is that LA County will see a reduction of
   waste going to landfills, the creation of new markets, green jobs,
   collaboration opportunities, and cost savings to local businesses, as well as
-  uniting local organizations and NGOs passionate in sustainable fashion.  The
+  uniting local organizations and NGOs passionate in sustainable fashion. The
   indirect impacts of this proposal will be cleaner local communities due to the
   reduction of waste going to landfills, a step closer for the City of LA and LA
   County in achieving zero waste, and fostering a social sense of responsibility

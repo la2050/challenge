@@ -26,7 +26,7 @@ project_description: >-
   to prepare and package food for delivery. Since May 2020 we have brought back
   to work more than 1,100 people and fed more than 3.3 million meals to nearly
   10,000 home-bound seniors, low income families, people experiencing
-  homelessness, survivors of domestic violence or human trafficking. 
+  homelessness, survivors of domestic violence or human trafficking.
 category: live
 connect_metrics: ''
 create_metrics: ''
@@ -51,7 +51,7 @@ What is the problem that you are seeking to address?: >-
   disrupted social and economic life throughout the world. These losses and
   costs are not equally distributed. The effects of the virus have been
   concentrated in economically disadvantaged and minority communities, and in
-  industries where these individuals work.  In 2019, 1 out of every 8.5 County
+  industries where these individuals work. In 2019, 1 out of every 8.5 County
   residents were employed in the travel, tourism & hospitality industry, which
   was all but completely shut down because of the pandemic, leaving hundreds of
   thousands out of work. The pandemic has also made providing services to the
@@ -63,7 +63,7 @@ What is the problem that you are seeking to address?: >-
   (SOC) in collaboration with shuttered hotels and event centers to reopen their
   industrial kitchens and re-employ laid-off union members, representing LA's
   finest culinary staff to produce safe, healthy and delicious meals for our
-  most vulnerable during the pandemic.  SOC partners with the City of LA Dep of
+  most vulnerable during the pandemic. SOC partners with the City of LA Dep of
   Aging, LA County WDACS, LAHSA, and others to provide and deliver meals to
   those who do not otherwise have access to food. (i.e. homebound seniors and
   shelters for the homeless and/or survivors of domestic violence and human
@@ -85,6 +85,7 @@ What is the problem that you are seeking to address?: >-
   testimonials from participants in the program, both recipients of meals and
   workers who have a job thanks to the program.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '95'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '300'
 Describe how Los Angeles County will be different if your work is successful.: >-
   During these challenging times, as the pandemic remains a high threat
   throughout Los Angeles County, those most vulnerable in our communities not
@@ -97,12 +98,12 @@ Describe how Los Angeles County will be different if your work is successful.: >
   My LA2050 Grants Challenge, we can make a difference in the lives of 95
   families in great need throughout Los Angeles so that they don't have to make
   that impossibly hard decision and can weather this storm and get back on their
-  feet.  
+  feet.
 Describe the role of collaborating organizations on this project.: >-
   Food will be cooked and packaged by the employees at Pomona College, Westin
   Bonaventure Hotel & Suites, JW Marriott Los Angeles LA Live, Levy Restaurants
   at the LA Convention Center, Sheraton Grand Los Angeles and The Beverly
-  Hilton, who are members of Unite Here Local 11.  HTA will oversee and
+  Hilton, who are members of Unite Here Local 11. HTA will oversee and
   coordinate the project including training of employees,sourcing packaging,
   coordination of delivery, and accounting/reporting oversight.
 Which of LA2050’s resources will be of the most value to you?: Communications support

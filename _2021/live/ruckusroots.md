@@ -20,7 +20,7 @@ Describe the mission of your organization.: >-
   co-creating sustainable arts opportunities with underrepresented Los Angeles
   residents and youth. Through collaborative programs and online offerings, we
   strive to uncover and confront challenges facing communities through
-  creativity, connection and engagement.  
+  creativity, connection and engagement.
 project_description: >-
   The connections and joy fostered through the preparation and sharing of food
   span across time and culture; RuckusRoots and FEAST aim to honor this
@@ -57,36 +57,36 @@ What is the problem that you are seeking to address?: >-
   Conversely, low-income neighborhoods with cultural resources have 14% fewer
   cases of child abuse and neglect, and 18% less serious crime than low-income
   neighborhoods without these resources. Source: Culture and Social Wellbeing in
-  New York City, 2017 
+  New York City, 2017
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   The Play with Your Food Project is an intergenerational culinary, visual and
-  movement arts experience for South and East Angelenos.   The project is
+  movement arts experience for South and East Angelenos. The project is
   comprised of a food-focused program for adults based on FEAST’s existing
   Wellness Program: food education, nutrition information, recipes, cooking
   demonstrations, free access to fresh, whole foods through a weekly grocery
   scholarship, and support through peer-to-peer sharing circles designed to
   uncover the underlying causes of current eating habits and create steps
-  forward on the path towards a healthier life.  Simultaneously, RuckusRoots
-  will offer interdisciplinary art classes for youth that will serve two
-  purposes 1) provide childcare so that parents or caretakers can freely and
-  consistently attend the adult food classes, and 2) provide cultural enrichment
-  and education to foster creativity and the mind-body connection for children
-  who would otherwise not have access to such programing. Classes will
-  incorporate various forms of movement and visual arts, including a mindfulness
-  practice at the beginning of each lesson (meditation, breathing and mind-body
-  connection).   Pre-pandemic programs took place in schools, hospitals and
-  other community settings throughout L.A. Our pandemic-responsive version of
-  this program includes contactless food and art supply delivery and/or pick-ups
-  paired with virtual, online classes for both adults and youth. We will
-  continue in this format until it is safe to resume in-person offerings.  
+  forward on the path towards a healthier life. Simultaneously, RuckusRoots will
+  offer interdisciplinary art classes for youth that will serve two purposes 1)
+  provide childcare so that parents or caretakers can freely and consistently
+  attend the adult food classes, and 2) provide cultural enrichment and
+  education to foster creativity and the mind-body connection for children who
+  would otherwise not have access to such programing. Classes will incorporate
+  various forms of movement and visual arts, including a mindfulness practice at
+  the beginning of each lesson (meditation, breathing and mind-body connection).
+  Pre-pandemic programs took place in schools, hospitals and other community
+  settings throughout L.A. Our pandemic-responsive version of this program
+  includes contactless food and art supply delivery and/or pick-ups paired with
+  virtual, online classes for both adults and youth. We will continue in this
+  format until it is safe to resume in-person offerings.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Previous versions of this program have been evaluated through pre and post
-  testing of participants, yielding the following results:   2020 RuckusRoots
+  testing of participants, yielding the following results: 2020 RuckusRoots
   participants reported a 64% increase in feelings of community connection and a
   73% increase in feeling creatively inspired. 2019 RuckusRoots youth art
   programs resulted in 67% improvement in drawing and painting techniques and
   50% improvement in civic engagement methods. 88% of parents/teachers believe
-  our programs lay the foundation for youth to become effective change-makers. 
+  our programs lay the foundation for youth to become effective change-makers.
   In 2020, 61% of FEAST families reported they were eating healthier during the
   pandemic compared to prior. A similar county-wide survey by USC indicated that
   only 28% of households reported the same outcomes. By program-end, 90% of
@@ -95,27 +95,28 @@ What is the problem that you are seeking to address?: >-
   greater life satisfaction, feelings of worthiness and positive attitudes
   toward self.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '225'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '375'
 Describe how Los Angeles County will be different if your work is successful.: >-
   RuckusRoots and FEAST share a vision of Los Angeles that is healthy, equitable
   and resilient; we see art and food as essential ingredients in this “recipe.”
   Creating opportunities for families to engage with cultural experiences
   centered on food, creativity and togetherness will help build a shared sense
-  of connection, belonging and strengthen feelings of community cohesion.   Our
+  of connection, belonging and strengthen feelings of community cohesion. Our
   intended impact is to reduce instances of hunger in the families we serve,
   while increasing healthy eating habits and feelings of community identity and
   social wellbeing. These impacts are achievable based on previous results
-  reported by RuckusRoots and FEAST. 
+  reported by RuckusRoots and FEAST.
 Describe the role of collaborating organizations on this project.: >-
   RuckusRoots and FEAST have been collaborating since 2019, and have
   successfully implemented two programs combining culinary and visual arts. This
   program would build on these existing relationships and our past experiences
-  to ensure a successful program and achievement of desired outcomes.  
+  to ensure a successful program and achievement of desired outcomes.
   RuckusRoots has over 10 years experience bringing collaborative arts
   experiences to under-resourced populations in Los Angeles, and our role in
   this program will be to design, implement and evaluate the holistic arts
   program for youth. FEAST will design, implement and evaluate the food-based
   piece of the program, including supplying free groceries to food insecure
-  families, and the online or in-person healthy cooking classes.  
+  families, and the online or in-person healthy cooking classes.
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Communications support,Capacity-building and
   training,Strategy assistance and implementation,Volunteer recruitment

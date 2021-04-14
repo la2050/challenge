@@ -47,50 +47,51 @@ What is the problem that you are seeking to address?: >-
   residents in this part of the city, home to a powerful, but under-resourced,
   network of youth, artists and community members, find their experiences
   mis-represented, excluded or exploited in policy-making, media, and other
-  circles of power and influence.   LA will be at its best when Crenshaw
-  District citizens have direct, sustained and meaningful input to
-  policy-makers, and the power to envision and create a thriving community.
-  Crenshaw Stories Power the Vote uplifts local stories of community needs and
-  vision, and supports an intergenerational network of artists and
-  culture-bearers to create art that amplifies calls to organize and get out the
-  vote, and hold public leadership to account.
+  circles of power and influence. LA will be at its best when Crenshaw District
+  citizens have direct, sustained and meaningful input to policy-makers, and the
+  power to envision and create a thriving community. Crenshaw Stories Power the
+  Vote uplifts local stories of community needs and vision, and supports an
+  intergenerational network of artists and culture-bearers to create art that
+  amplifies calls to organize and get out the vote, and hold public leadership
+  to account.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Crenshaw Stories Power the Vote taps the potency of sharing stories to
   increase civic engagement and voting among residents. Through three phases -
   Storygathering, Creation: Art as Call to Action and Art Advocacy - we build
   creative and civic participation, increasing volunteerism, awareness and voter
-  turnout in the June 2022 primary.  Phase I:  Story Gathering Youth and artists
+  turnout in the June 2022 primary. Phase I: Story Gathering Youth and artists
   lead story circles, finding in histories and hopes, inspiration for art
   activations to amplify local narratives. The sharing of personal and community
   stories transformed into murals, performance and public festivals enhances for
   all connection, purpose, and hope about the future. Young people draw people
-  in, making them feel welcome and ready to engage.  Phase II: Creation: Art as
-  a Call to Action The stories seed public artworks, activations, festivals and
+  in, making them feel welcome and ready to engage. Phase II: Creation: Art as a
+  Call to Action The stories seed public artworks, activations, festivals and
   digital media that uplift the issues and spark the advocacy necessary to truly
-  transform the Crenshaw District.  By making voices often ignored visible, we
+  transform the Crenshaw District. By making voices often ignored visible, we
   enable local priorities to be heard ensuring real attention to address the
   issues raised. The art will be strategically placed in highly visible
   locations i.e. Crenshaw and Slauson, the People’s Street in Leimert Park, in
-  addition to leveraging the power of social media.  Phase III: Art Advocacy In
+  addition to leveraging the power of social media. Phase III: Art Advocacy In
   this phase, we move from storytelling to joint advocacy and action, uplifting
   narratives as part of a platform for change, supporting policies that advance
   our shared vision for Crenshaw residents.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Crenshaw Stories Power the Vote impacts three Connect metrics: public art and
-  cultural events, social and emotional support, and voting rates.  At the
+  cultural events, social and emotional support, and voting rates. At the
   project’s core are neighbors sharing stories facilitated by youth, artist and
   community partner teams, increasing connections through listening and being
   listened to. Success will look like a growing intergenerational network of
   youth, artists and culture-bearers with increased feeling of belonging,
-  connection and mutual support.  The stories will be transformed into 20
-  locally led accessible workshops or events engaging 10-2000 people each -
-  pop-up and semi-permanent public art and performance - DJ set in a parking
-  lot, a mural, African Diasporic dance, drum and mask-making workshops - to
-  enhance participation and multiply opportunities for people to connect.
-  Finally, and most importantly, the project increases voter participation as
-  story gathering and art activations result in a high impact call to action
-  that ends at the ballot box.
+  connection and mutual support. The stories will be transformed into 20 locally
+  led accessible workshops or events engaging 10-2000 people each - pop-up and
+  semi-permanent public art and performance - DJ set in a parking lot, a mural,
+  African Diasporic dance, drum and mask-making workshops - to enhance
+  participation and multiply opportunities for people to connect. Finally, and
+  most importantly, the project increases voter participation as story gathering
+  and art activations result in a high impact call to action that ends at the
+  ballot box.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '5000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '40000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Our goal is to use art and cultural programs as a vehicle for connecting Los
   Angeles residents more deeply to their neighborhoods and the larger city. “The
@@ -109,12 +110,12 @@ Describe the role of collaborating organizations on this project.: >-
   LA Commons will lead the design and implementation of all elements, managing
   partnerships and the delivery of project objectives. Our work depends on long
   term local partners like H.O.P.E., Lula Washington Dance Theater, We Love
-  Leimert  Destination Crenshaw is a key partner on outreach and amplifying
-  local activations. They have built a citywide base of support and national
-  profile for this unique cultural endeavor.  Community Coalition will advise on
-  organizing to get out the vote.  USC partners at School of Cinema and School
-  of Public Policy will advise on digital tools to support story gathering and
-  evaluation.  KAOS Network and artist Ben Caldwell is our ongoing partner, a
+  Leimert Destination Crenshaw is a key partner on outreach and amplifying local
+  activations. They have built a citywide base of support and national profile
+  for this unique cultural endeavor. Community Coalition will advise on
+  organizing to get out the vote. USC partners at School of Cinema and School of
+  Public Policy will advise on digital tools to support story gathering and
+  evaluation. KAOS Network and artist Ben Caldwell is our ongoing partner, a
   bridge to artists and key community networks, he a visionary veteran in
   creating impactful community engaged art.
 Which of LA2050’s resources will be of the most value to you?: >-

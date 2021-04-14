@@ -53,7 +53,7 @@ What is the problem that you are seeking to address?: >-
   flexible packaging cannot be practically recycled. Flexible packaging isn’t
   made of pure plastic polymers but rather made by blending several materials.
   These blended materials make flexible packaging complicated for separation and
-  recycling. 
+  recycling.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Unlike current alternatives to microplastics, which are based on plant
   polysaccharides, such as cellulose and algae, Mi Terro’s plant protein
@@ -74,11 +74,11 @@ What is the problem that you are seeking to address?: >-
   We measure success by the amount of agricultural waste we upcycle and plastic
   film we replace. In addition, we measure our success by the number of
   employees we hire. 2022: we will start manufacturing at a small scale, which
-  equals 10,000+ rolls of films.   2023: we will start manufacturing at a
-  semi-commercial scale, which equals 200,000+ rolls of films.    2024: we start
-  manufacturing at a commercial scale, which equals 1,000,000+ rolls of
-  films.   
+  equals 10,000+ rolls of films. 2023: we will start manufacturing at a
+  semi-commercial scale, which equals 200,000+ rolls of films. 2024: we start
+  manufacturing at a commercial scale, which equals 1,000,000+ rolls of films.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '4'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '10000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Selective agricultural waste and food waste at commercial buildings, schools,
   grocery stores, and home can be upcycled and processed into

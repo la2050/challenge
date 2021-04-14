@@ -73,7 +73,7 @@ With the support of 30,000 Angelenos we’ve outlined an aspirational vision cen
 <section class="item blueberry" id="learn" markdown="1">
 
 <figure class="standard-figure">
-  <img src="/assets/images/goals/384-wide/learn.jpg" srcset="/assets/images/goals/384-wide/learn.jpg 384w, /assets/images/goals/512-wide/learn.jpg 512w, /assets/images/goals/768-wide/learn.jpg 768w, /assets/images/goals/1024-wide/learn.jpg 1024w, /assets/images/goals/1536-wide/learn.jpg 1536w, /assets/images/goals/2048-wide/learn.jpg 2048w" sizes="(min-width: 60em) 50vw, 100vw" alt="Kids smiling" />
+  <img src="/assets/images/goals-illustration/384-wide/learn.jpg" srcset="/assets/images/goals-illustration/384-wide/learn.jpg 384w, /assets/images/goals-illustration/512-wide/learn.jpg 512w, /assets/images/goals-illustration/768-wide/learn.jpg 768w, /assets/images/goals-illustration/1024-wide/learn.jpg 1024w, /assets/images/goals-illustration/1536-wide/learn.jpg 1536w, /assets/images/goals-illustration/2048-wide/learn.jpg 2048w" sizes="(min-width: 60em) 50vw, 100vw" alt="Kids smiling" />
 </figure>
 
 <div class="description" markdown="1">
@@ -110,7 +110,7 @@ By the year 2050, our local education system will be well-resourced and cultural
 <section class="item banana" id="create" markdown="1">
 
 <figure class="standard-figure">
-  <img src="/assets/images/goals/384-wide/create.jpg" srcset="/assets/images/goals/384-wide/create.jpg 384w, /assets/images/goals/512-wide/create.jpg 512w, /assets/images/goals/768-wide/create.jpg 768w, /assets/images/goals/1024-wide/create.jpg 1024w, /assets/images/goals/1536-wide/create.jpg 1536w, /assets/images/goals/2048-wide/create.jpg 2048w" sizes="(min-width: 60em) 50vw, 100vw" alt="Street art" />
+  <img src="/assets/images/goals-illustration/384-wide/create.jpg" srcset="/assets/images/goals-illustration/384-wide/create.jpg 384w, /assets/images/goals-illustration/512-wide/create.jpg 512w, /assets/images/goals-illustration/768-wide/create.jpg 768w, /assets/images/goals-illustration/1024-wide/create.jpg 1024w, /assets/images/goals-illustration/1536-wide/create.jpg 1536w, /assets/images/goals-illustration/2048-wide/create.jpg 2048w" sizes="(min-width: 60em) 50vw, 100vw" alt="Street art" />
 </figure>
 
 <div class="description" markdown="1">
@@ -150,7 +150,7 @@ By the year 2050, Los Angeles will play host to the largest concentration of wor
 <section class="item strawberry" id="play" markdown="1">
 
 <figure class="standard-figure">
-  <img src="/assets/images/goals/384-wide/play.jpg" srcset="/assets/images/goals/384-wide/play.jpg 384w, /assets/images/goals/512-wide/play.jpg 512w, /assets/images/goals/768-wide/play.jpg 768w, /assets/images/goals/1024-wide/play.jpg 1024w, /assets/images/goals/1536-wide/play.jpg 1536w, /assets/images/goals/2048-wide/play.jpg 2048w" sizes="(min-width: 60em) 50vw, 100vw" alt="Child doing a somersault by a fountain" />
+  <img src="/assets/images/goals-illustration/384-wide/play.jpg" srcset="/assets/images/goals-illustration/384-wide/play.jpg 384w, /assets/images/goals-illustration/512-wide/play.jpg 512w, /assets/images/goals-illustration/768-wide/play.jpg 768w, /assets/images/goals-illustration/1024-wide/play.jpg 1024w, /assets/images/goals-illustration/1536-wide/play.jpg 1536w, /assets/images/goals-illustration/2048-wide/play.jpg 2048w" sizes="(min-width: 60em) 50vw, 100vw" alt="Child doing a somersault by a fountain" />
 </figure>
 
 <div class="description" markdown="1">
@@ -189,7 +189,7 @@ By the year 2050, people from across Los Angeles will live in close proximity to
 <section class="item tangerine" id="connect" markdown="1">
 
 <figure class="standard-figure">
-  <img src="/assets/images/goals/384-wide/connect.jpg" srcset="/assets/images/goals/384-wide/connect.jpg 384w, /assets/images/goals/512-wide/connect.jpg 512w, /assets/images/goals/768-wide/connect.jpg 768w, /assets/images/goals/1024-wide/connect.jpg 1024w, /assets/images/goals/1536-wide/connect.jpg 1536w, /assets/images/goals/2048-wide/connect.jpg 2048w" sizes="(min-width: 60em) 50vw, 100vw" alt="People riding bikes together on a street" />
+  <img src="/assets/images/goals-illustration/384-wide/connect.jpg" srcset="/assets/images/goals-illustration/384-wide/connect.jpg 384w, /assets/images/goals-illustration/512-wide/connect.jpg 512w, /assets/images/goals-illustration/768-wide/connect.jpg 768w, /assets/images/goals-illustration/1024-wide/connect.jpg 1024w, /assets/images/goals-illustration/1536-wide/connect.jpg 1536w, /assets/images/goals-illustration/2048-wide/connect.jpg 2048w" sizes="(min-width: 60em) 50vw, 100vw" alt="People riding bikes together on a street" />
 </figure>
 
 <div class="description" markdown="1">
@@ -228,7 +228,7 @@ By the year 2050, Los Angeles will be the most civically engaged region in the U
 <section class="item lime" id="live" markdown="1">
 
 <figure class="standard-figure">
-  <img src="/assets/images/goals/384-wide/live.jpg" srcset="/assets/images/goals/384-wide/live.jpg 384w, /assets/images/goals/512-wide/live.jpg 512w, /assets/images/goals/768-wide/live.jpg 768w, /assets/images/goals/1024-wide/live.jpg 1024w, /assets/images/goals/1536-wide/live.jpg 1536w, /assets/images/goals/2048-wide/live.jpg 2048w" sizes="(min-width: 60em) 50vw, 100vw" alt="A garden full of fruits and vegetables" />
+  <img src="/assets/images/goals-illustration/384-wide/live.jpg" srcset="/assets/images/goals-illustration/384-wide/live.jpg 384w, /assets/images/goals-illustration/512-wide/live.jpg 512w, /assets/images/goals-illustration/768-wide/live.jpg 768w, /assets/images/goals-illustration/1024-wide/live.jpg 1024w, /assets/images/goals-illustration/1536-wide/live.jpg 1536w, /assets/images/goals-illustration/2048-wide/live.jpg 2048w" sizes="(min-width: 60em) 50vw, 100vw" alt="A garden full of fruits and vegetables" />
 </figure>
 
 <div class="description" markdown="1">

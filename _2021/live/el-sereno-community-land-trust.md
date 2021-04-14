@@ -17,7 +17,7 @@ Describe the mission of your organization.: >-
   The El Sereno CLT is a group of committed residents and stakeholders who
   provide opportunities for the residents of El Sereno, Los Angeles to secure
   community land and housing that is decent, affordable, and that is held in
-  stewardship by community members on a long-term basis. 
+  stewardship by community members on a long-term basis.
 project_description: >-
   The Los Angeles Community Land Trust Coalition intends to use the grant to
   develop a campaign strategy to organize tenants and supporters to advocate the
@@ -52,12 +52,12 @@ What is the problem that you are seeking to address?: >-
   Low-income renters that have lost their in-person service sector jobs live in
   precarious risk of eviction. It is clear that the renters in LA County have
   the odds stacked against them, and current systems make it nearly impossible
-  to be able to save enough to purchase a home. 
+  to be able to save enough to purchase a home.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   The LA CLT Coalition has strategically decided to advance a policy framework
   that expands community ownership of housing across the County of LA: The
-  Tenant Opportunity to Purchase Act (TOPA).    Our initiative has multiple
-  pathways to engage Angelenos:  The LA-CLT Coalition has created an Instagram
+  Tenant Opportunity to Purchase Act (TOPA). Our initiative has multiple
+  pathways to engage Angelenos: The LA-CLT Coalition has created an Instagram
   account, twitter account, and a website for our policy campaign to provide
   extensive and vibrant information about CLTs, the proposed policy, and how to
   get involved. We plan to use our existing platforms to advocate for the TOPA
@@ -70,10 +70,10 @@ What is the problem that you are seeking to address?: >-
   (CBOs), small businesses, and a diverse group of Angelenos from neighborhoods
   throughout all five supervisor districts. We will encourage people to engage
   their supervisor district representatives. All learning spaces will be
-  accessible via zoom and will be recorded.  The LA-CLT Coalition will mobilize
+  accessible via zoom and will be recorded. The LA-CLT Coalition will mobilize
   hundreds of people to attend the Los Angeles Board of Supervisors’ meetings to
   give public comments on how TOPA will better their neighborhood. Angelenos
-  will support TOPA policy efforts by using #TOPA4LA hashtag.  
+  will support TOPA policy efforts by using #TOPA4LA hashtag.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   In 2020, the LA-CLT Coalition was successful in passing two precedent-setting
   LA County CLT policies. The first is a pilot program for the LA CLT Coalition
@@ -90,21 +90,22 @@ What is the problem that you are seeking to address?: >-
   unincorporated LA County. We will measure our success by passing TOPA on a
   county level by the end of 2021.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '575'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '22000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   TOPA legislation would benefit Los Angeles County by preventing the
   displacement caused by gentrification, serve as reparations for communities of
   color, provide wealth building through housing that communities of color from
   now-gentrifying neighborhoods have been denied, promote multigenerational
   wealth building opportunities, and serve as a homelessness prevention
-  mechanism.    But what does all of this look like? Imagine walking down
-  Atlantic Blvd in Compton, instead of seeing dilapidated buildings where
-  low-income families are overcrowding because of the increased displacement and
-  rising costs of rent, those buildings are owned by the residents that live
-  there. They don’t fear being displaced and feel an ownership of their
-  neighborhood and its conditions because they have a stake in it. Imagine an LA
-  County that allows for intergenerational wealth creation among low-income POC
-  communities and that leads to an increase in businesses owned and run by those
-  same people.  
+  mechanism. But what does all of this look like? Imagine walking down Atlantic
+  Blvd in Compton, instead of seeing dilapidated buildings where low-income
+  families are overcrowding because of the increased displacement and rising
+  costs of rent, those buildings are owned by the residents that live there.
+  They don’t fear being displaced and feel an ownership of their neighborhood
+  and its conditions because they have a stake in it. Imagine an LA County that
+  allows for intergenerational wealth creation among low-income POC communities
+  and that leads to an increase in businesses owned and run by those same
+  people.
 Describe the role of collaborating organizations on this project.: >-
   The Los Angeles Community Land Trust (LA-CLT) coalition is submitting this
   proposal collaboratively. We are a group of five (5) community land trusts in
@@ -116,10 +117,10 @@ Describe the role of collaborating organizations on this project.: >-
   separate financial account for shared funds, developed the Tenant Opportunity
   to Purchase Act (TOPA) campaign and plans policy actions together, is in the
   process of creating a coalition strategic plan, and long-term structure of the
-  coalition. 
+  coalition.
 Which of LA2050’s resources will be of the most value to you?: 'Access to the LA2050 community,Capacity-building and training'
 Please list the organizations collaborating on this proposal.: >-
-  Beverly-Vermont Community Land Trust  Liberty Community Land Trust T.R.U.S.T.
+  Beverly-Vermont Community Land Trust Liberty Community Land Trust T.R.U.S.T.
   South LA El Sereno Community Land Trust Fideicomiso Comunitario Tierra Libre
 Which metrics will you impact?:
   - Housing affordability

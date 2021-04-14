@@ -49,12 +49,12 @@ What is the problem that you are seeking to address?: >-
   population), have significant barriers to finding and keeping clothing that
   fits and meets their needs. They often wind up wearing dirty and wet clothes
   for long stretches of time out of necessity, making them vulnerable to the
-  spread of transmissible diseases.    Meanwhile, an estimated 371,000 tons
+  spread of transmissible diseases. Meanwhile, an estimated 371,000 tons
   textiles ended up in Los Angeles landfills and waterways last year.
   Approximately 95% of this waste was of recyclable and reusable clothes, shoes,
-  and other fabric.   At Project Ropa, we find this situation unacceptable. We
+  and other fabric. At Project Ropa, we find this situation unacceptable. We
   must do more to direct textile resources to those who need them and away from
-  our precious land and water.   (Sources: KNBC, 2020 Greater LA Homeless Count,
+  our precious land and water. (Sources: KNBC, 2020 Greater LA Homeless Count,
   EPA, Rubicon and Cal Recycle Landfill Tonnage Report, World Resources
   Institute.)
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
@@ -65,20 +65,19 @@ What is the problem that you are seeking to address?: >-
   overseas. We sort these items for use in our Mobile Hygiene Service - a
   retrofitted van that serves as a walk-in closet with neatly displayed
   clothing, shoes, accessories and more. This is in contrast to many other
-  donation sites where clients must pick through piles of clothing.   We take
-  the time to get to know each client and help them find what works for them.
-  Due to the COVID-19 pandemic, this means staff individually select items for
-  clients in a socially-distant manner. Finally, we provide hygiene kits, PPE,
-  food, and water, and we typically operate in tandem with mobile shower
-  providers to provide the opportunity for a complete refresh.    Last year, we
-  began accepting fabric rolls in addition to overstock, discontinued and
-  misprinted clothing from manufacturers. Beginning in 2021, we will begin
-  upcycling the textiles, as well as fabric from clothing inappropriate for
-  distribution, into items to sell to the public in support of our direct care
-  services. We will use local crafters for production, and this project will
-  provide new job opportunities for people with significant barriers to
-  employment, including the homeless, formerly incarcerated individuals and
-  veterans.
+  donation sites where clients must pick through piles of clothing. We take the
+  time to get to know each client and help them find what works for them. Due to
+  the COVID-19 pandemic, this means staff individually select items for clients
+  in a socially-distant manner. Finally, we provide hygiene kits, PPE, food, and
+  water, and we typically operate in tandem with mobile shower providers to
+  provide the opportunity for a complete refresh. Last year, we began accepting
+  fabric rolls in addition to overstock, discontinued and misprinted clothing
+  from manufacturers. Beginning in 2021, we will begin upcycling the textiles,
+  as well as fabric from clothing inappropriate for distribution, into items to
+  sell to the public in support of our direct care services. We will use local
+  crafters for production, and this project will provide new job opportunities
+  for people with significant barriers to employment, including the homeless,
+  formerly incarcerated individuals and veterans.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Since the start of the COVID-19 pandemic, Project Ropa has seen a threefold
   increase in the number of people we are serving every month (800 to 2,500).
@@ -93,16 +92,17 @@ What is the problem that you are seeking to address?: >-
   increase our Mobile Hygiene Service locations - 75% of our staff are from
   populations with significant barriers to employment
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '3000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '17500'
 Describe how Los Angeles County will be different if your work is successful.: >-
   We envision a Los Angeles where hygiene is a human right, where all people can
   access clean clothes, and where excess textiles are given new life in support
-  of our community.   Our social enterprise program will help us achieve this
+  of our community. Our social enterprise program will help us achieve this
   vision in the short term by supporting our ongoing direct services and by
   keeping more textile waste out of our landfills and waterways. More of LA’s
   unhoused people will have access to clean clothing and hygiene supplies, which
   will help them achieve their employment and housing goals. It will also mean
   less risk of communicable and hygiene-related disease and improved mental
-  well-being among Los Angeles’ unhoused residents.   In the long term, our
+  well-being among Los Angeles’ unhoused residents. In the long term, our
   project will support a cleaner, healthier LA for all people. When we help even
   one person access proper hygiene, the whole community benefits. In addition,
   as we are able to serve more and upcycle more textiles, we will be reducing
@@ -116,9 +116,9 @@ Describe the role of collaborating organizations on this project.: >-
   housing and employment resources. We also work with community providers who
   serve other Los Angeles communities to provide clothing and hygiene kits to
   help support their outreach programs, indirectly serving more than 12,000
-  people each year.   Our community partners include: Community Loving, Food on
+  people each year. Our community partners include: Community Loving, Food on
   Foot, Genevieve’s Garden, Lava Mae, SELAH, St. Francis Center, The Sidewalk
-  Project, WaterDrop LA and Worthy of Love. 
+  Project, WaterDrop LA and Worthy of Love.
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Capacity-building and training,Strategy
   assistance and implementation,Volunteer recruitment

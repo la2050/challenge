@@ -18,16 +18,16 @@ organization_instagram: '@lacityocb_klab'
 Describe the mission of your organization.: >-
   Our goal is to engage, educate, and empower residents to become influential
   leaders in transforming their communities into safer, cleaner, and improved
-  environments.   Keep Los Angeles Beautiful (KLAB) is an affiliate of Keep
+  environments. Keep Los Angeles Beautiful (KLAB) is an affiliate of Keep
   America Beautiful Inc.
 project_description: >-
   The Beautify LA Community Grant Program is an annual competitive matching
   grant open to the residents of Los Angeles to fund exceptional neighborhood
   projects. It encourages, supports, and provides opportunities to communities
   of high need and the general public in the ownership and beautification of
-  public spaces.  The grant will provide a stronger foundation and diverse
+  public spaces. The grant will provide a stronger foundation and diverse
   partnerships that will revitalize the community and educate future generations
-  to continue stewardship of public spaces through volunteerism. 
+  to continue stewardship of public spaces through volunteerism.
 category: connect
 connect_metrics: >-
   Government responsiveness to residents’ needs, Neighborhood council
@@ -44,13 +44,13 @@ In which areas of Los Angeles will you be directly working?:
 What is the problem that you are seeking to address?: >-
   With a growing population, increase in service demand, and the financial
   crisis from the Pandemic, LA does not have the financial capability nor the
-  labor force for the services desired by its residents.   We are aware that
+  labor force for the services desired by its residents. We are aware that
   neighborhoods without equal access or knowledge of funding sources suffer a
   greater risk of blight. Urban blight creates a perceived acceptance of litter
   and graffiti. This in turn creates a sense of reduced public safety in
   impoverished areas. With a noted disparity in access to funding and scarce
   City resources to service over 99 neighborhoods, the community has expressed a
-  sense of slow government responsiveness.  In addition, city policy and
+  sense of slow government responsiveness. In addition, city policy and
   procedures can be confusing to navigate. Community projects established
   without the basic requirements and permits lack the justification for
   longevity or sustainability in the public right of way and can be
@@ -82,10 +82,10 @@ What is the problem that you are seeking to address?: >-
   stakeholders have continued to demonstrate a desire for creative
   community-based project opportunities. An average of 110 grants were awarded
   yearly, with a dollar value from $2,500 -$10,000. An organization’s
-  contribution match is usually more than the award.  Examples • The Big Blue M:
+  contribution match is usually more than the award. Examples • The Big Blue M:
   Awarded $10,000.Match= $21,575 • Veteran Memorial Park: Awarded $10,000.Match=
-  $26,629 • Moorpark Way Median: Awarded $10,000.Match= $55,063  The value
-  beyond funding is in the variety of community partnerships and the
+  $26,629 • Moorpark Way Median: Awarded $10,000.Match= $55,063 The value beyond
+  funding is in the variety of community partnerships and the
   social/environmental impact. A knowledgeable community knows how to request
   services and advocate for their needs. We have seen an increase in
   communication and service needs, documented through the MyLA311 system.
@@ -93,15 +93,16 @@ What is the problem that you are seeking to address?: >-
   is documented in the number of annual volunteer hours entered while
   beautifying communities through clean up events/projects.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '500000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '2000000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   LA County will enjoy an increase of beautiful open spaces and cleaner
   neighborhoods. Residents will see an increase in community and local
   government engagement through volunteerism, improved and maintained public
-  spaces and increased knowledge of city resources by its residents.  The
+  spaces and increased knowledge of city resources by its residents. The
   projected impact of the Grant through a variety of clean, green, and
   sustainable projects will improve public safety and help prevent blight that
   will then reduce litter throughout LA. The grant methodology supports the
-  Sustainable City plan and the Green New Deal.  To receive funding means to
+  Sustainable City plan and the Green New Deal. To receive funding means to
   follow best practices in empowering those who live, work, and play in the City
   with an equal opportunity to participate in bettering their neighborhoods. LA
   City can serve as an example of community partnerships beyond city services. A

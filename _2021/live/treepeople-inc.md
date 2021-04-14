@@ -20,7 +20,7 @@ Describe the mission of your organization.: >-
   responsibility for the urban environment, making it safe, healthy, fun and
   sustainable and to share the results as a model for the world. Since 1973,
   TreePeople has guided volunteers to plant over 2 million trees along streets,
-  at schools, in parks and yards across LA. 
+  at schools, in parks and yards across LA.
 project_description: >-
   Through fruit tree distribution and education events, TreePeople will activate
   Angelenos to help create a sustainable, edible urban forest that provides not
@@ -28,7 +28,7 @@ project_description: >-
   cooling shade, air quality, reduced water pollution, and carbon capture.
   TreePeople will distribute fruit trees at a number of events in “tree poor”
   neighborhoods and train community members on how to plant and care for their
-  trees.  
+  trees.
 category: live
 connect_metrics: ''
 create_metrics: ''
@@ -47,14 +47,14 @@ What is the problem that you are seeking to address?: >-
   disproportionately on food from corner stores or travel to grocery stores
   outside of the community, which adds cost and takes time. Many in these
   communities struggle to get the fresh produce they need, resulting in hunger
-  and malnutrition. In fact, an estimated 1 in 4 Angelenos face food
-  insecurity.   The same communities that lack fresh produce also face the worst
-  environmental challenges.  Pollution is high and environmental assets are low.
-  The consequences can be severe: separation from nature is linked with mood
+  and malnutrition. In fact, an estimated 1 in 4 Angelenos face food insecurity.
+  The same communities that lack fresh produce also face the worst environmental
+  challenges. Pollution is high and environmental assets are low. The
+  consequences can be severe: separation from nature is linked with mood
   disorders, and physical health problems, such as obesity, diabetes, and
   asthma. Communities need a greener, shadier environment, along with access to
   fresh produce. Fruit trees do both: they green urban areas and provide healthy
-  food for years to come. 
+  food for years to come.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   TreePeople’s Fruit Tree Program focuses on underserved, environmentally
   stressed communities with low canopy and few options for healthy food.
@@ -63,15 +63,15 @@ What is the problem that you are seeking to address?: >-
   comply with COVID regulations. Community members register in advance to
   receive a fruit tree (limit one per household) and select from multiple
   species appropriate to the local climate and soil conditions. Typical fruit
-  tree options include lemon, lime, kumquat, orange, nectarine, peach and plum. 
+  tree options include lemon, lime, kumquat, orange, nectarine, peach and plum.
   Prior to receiving a fruit tree, community members are provided a short
   workshop that covers proper planting and care practices as well as printed
   instructional material. All workshops and materials are provided in both
   English and Spanish. Fruit tree distribution events are publicized through
   flyers distributed at schools and community organizations as well as through
-  social media and the TreePeople website.  This program has led to excellent
+  social media and the TreePeople website. This program has led to excellent
   results in tree survival rates and extensive community benefits like yummy,
-  nutritious fresh fruit. 
+  nutritious fresh fruit.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Since launching our first fruit tree distribution in 1984, TreePeople has seen
   the fruits of our labor – thousands of trees have matured and are yielding
@@ -80,27 +80,27 @@ What is the problem that you are seeking to address?: >-
   distributed fruit trees are flourishing. We found our fruit tree distribution
   model works well in low-income, urban communities because it is highly
   localized and harnesses the power of community support, rather than costly
-  equipment or contractors.  Through LA2050 we hope to: + Distribute 2,500
-  5-gallon fruit trees at 10 events to low-income residents.  + Educate fruit
-  tree recipients on tree care, including watering, pruning, pest and
-  disease     identification.  We will consider this program successful if the
-  participants have fun, learn about tree care, and are inspired to steward
-  their urban forest.  
+  equipment or contractors. Through LA2050 we hope to: + Distribute 2,500
+  5-gallon fruit trees at 10 events to low-income residents. + Educate fruit
+  tree recipients on tree care, including watering, pruning, pest and disease
+  identification. We will consider this program successful if the participants
+  have fun, learn about tree care, and are inspired to steward their urban
+  forest.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '2500'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '10000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Trees are an essential part of a healthier, greener, resilient Los Angeles.
   And just as trees need continued care to thrive, so do our communities. Our
   fruit tree program significantly benefits the physical health and environment
-  of high-need communities.   Distributing fruit trees connects people with
+  of high-need communities. Distributing fruit trees connects people with
   nature, provides nutritious food, and engages community members to play a
   meaningful role in advancing climate resilience. Community members who receive
   fruit trees will have access to fresh fruit for years to come, resulting in
-  improved nutrition and food security.   Fruit trees also offer a much-needed
+  improved nutrition and food security. Fruit trees also offer a much-needed
   connection to nature for residents who lack access to green spaces. Planting
   and caring for fruit trees empowers residents to become environmental
   stewards. Fruit trees capture carbon, clean the air and provide much-needed
-  shade, resulting in healthier, cooler, and more climate-resilient
-  communities. 
+  shade, resulting in healthier, cooler, and more climate-resilient communities.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or

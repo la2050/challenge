@@ -16,7 +16,7 @@ organization_instagram: '@voicesbeyondassault'
 Describe the mission of your organization.: >-
   Voices Beyond Assault is a 501c3 non-profit organization dedicated to
   providing aid, advocacy, resources, curriculum and innovative therapy to all
-  survivors of sexual violence.  We are dedicated to creating a SAFE and
+  survivors of sexual violence. We are dedicated to creating a SAFE and
   uplifting community to empower their lives.WE believe in beauty of survival
   and amplifying the voices of survivors around the world.
 project_description: >-
@@ -27,7 +27,7 @@ project_description: >-
   the well being of survivors post traumatic needs. Through our three pronged
   approach of education, advocacy and resource delivery, we aim to provide a
   SAFE place for survivors to become the newfound leaders in our world’s fight
-  against sexual violence.  
+  against sexual violence.
 category: live
 connect_metrics: ''
 create_metrics: ''
@@ -57,13 +57,13 @@ What is the problem that you are seeking to address?: >-
   foundation to lead a healthy and productive life. Housing and sexual violence
   can have a reciprocal relationship.” Sexual violence has soared radically in
   the current COVID-19 pandemic, and thus, should be of primary concern in
-  today’s world. The needs of survivors should be addressed accordingly.  
+  today’s world. The needs of survivors should be addressed accordingly.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   This would be a novel survivor-centered empowerment project, with the core
   objective of being able to provide emergency trauma relief for survivors in
   the city of Los Angeles. Because of the effects of sexual trauma which have
   neurobiological impacts on the brain and nervous system causing PTSD, drug
-  use, anxiety, and even suicide.  The need for rehabilitation is required. In
+  use, anxiety, and even suicide. The need for rehabilitation is required. In
   sum, this would be a home facility located within Los Angeles County where
   survivors could visit for a period of time to receive aid, resources, rest,
   rejuvenate, and heal following an incident(s) of sexual trauma, or moment of
@@ -77,7 +77,7 @@ What is the problem that you are seeking to address?: >-
   shelters within the LA district [focused on re-housing and long term
   sheltering] but not focusing on direct healing and rejuvenation that survivors
   so readily need. Our Survivor SAFE House is imagined with the aim of providing
-  an immediate life line to any survivor in need of post-trauma aid. 
+  an immediate life line to any survivor in need of post-trauma aid.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   VBA plans to define and measure the success of the Survivor Safe House project
   through metrics such as: (1) amount of survivors serverd [per annum], (2)
@@ -85,17 +85,18 @@ What is the problem that you are seeking to address?: >-
   amount of therapy sessions completed [per annum], (5) amount of victim
   advocates requested on site, (6) amount of referrals offered to survivors [to
   more long-term emergency accommodation]. This information will all be
-  collected, stored and published through our annual reports.  The true success
+  collected, stored and published through our annual reports. The true success
   with having our SAFE House is the rehabilitation and lives that will be
   changed within our community and truly changing the face of survival and
   making our city of Los Angeles a healthier and happier place for survivors to
-  thrive.  
+  thrive.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '250'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '2000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   The number of rapes reported in Los Angeles, CA was 62.73 per 100,000
-  population, a 2.38% increase from 2017.  This is staggering. Some of the
+  population, a 2.38% increase from 2017. This is staggering. Some of the
   immediate and life long effects of sexual trauma are: self harm, substance
-  abuse, panic attacks, PTSD, sleeping disorders, and suicide.   By creating a
+  abuse, panic attacks, PTSD, sleeping disorders, and suicide. By creating a
   SAFE atmosphere for survivors that is secure, efficient in support systems,
   therapists, advocates, post traumatic resources and assistance needed for
   rehabilitation will alleviate the many issues that do not allow survivors to
@@ -105,7 +106,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   With better immediate post-trauma services and a SAFE environment, survivors
   in Los Angeles can better serve the community and other survivors within Los
   Angeles County. There will be a new face of survival and a healing paradigm
-  created! 
+  created!
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or

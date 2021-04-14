@@ -26,7 +26,7 @@ project_description: >-
   court. SSF believes in the transformative power of healthy habits,
   self-confidence, and education, and uses tennis as our vehicle to change the
   narrative of poverty, health inequity, and educational underdevelopment in
-  Compton. 
+  Compton.
 category: play
 connect_metrics: ''
 create_metrics: ''
@@ -49,7 +49,7 @@ What is the problem that you are seeking to address?: >-
   reality for the majority of its residents. It can be too dangerous to walk to
   and from the tennis courts alone, particularly for our youngest students, and
   many parents are unable to pick up their children based on their work
-  schedules and other commitments.  Improving access to free and safe play is
+  schedules and other commitments. Improving access to free and safe play is
   vital in a community where about 60% of residents are under the age of 16. The
   students we serve are 30% Black and 67% Latinx, and 99% will be
   first-generation college attendees. About 60% of children in Compton live
@@ -65,7 +65,7 @@ What is the problem that you are seeking to address?: >-
   summer, and weekend tennis and academic tutoring to teach children the
   fundamentals of tennis in a safe, supportive environment. While playing
   tennis, children have fun, improve their overall physical fitness, and learn
-  to manage adversity, solve problems, and develop a sense of fair play.  SSF
+  to manage adversity, solve problems, and develop a sense of fair play. SSF
   provides Love, Love Compton students with free instruction, equipment, and
   individualized academic enrichment. All of our programming takes place on
   Compton Unified campuses so that families can be reassured knowing that their
@@ -75,7 +75,7 @@ What is the problem that you are seeking to address?: >-
   current coaches are graduates of our program and have chosen to stay involved
   while pursuing their own higher-education. All of our academic tutors are CUSD
   educators, and this extra level of familiarity allows us to quickly target a
-  child’s specific needs and be cognizant of their outside circumstances. 
+  child’s specific needs and be cognizant of their outside circumstances.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   SSF is described by CUSD Superintendent Dr. Darin Brawley as the district’s
   “most successful and influential non-profit relationship.” Since 2015, Love,
@@ -86,12 +86,13 @@ What is the problem that you are seeking to address?: >-
   fitness, healthy nutrition habits and better academic/social performance. We
   seek significant results that are both quantitative and qualitative, short and
   long-term, as our ultimate goals of improving equity, creating the next
-  generation of tennis players, and fostering positive generational change.  SSF
+  generation of tennis players, and fostering positive generational change. SSF
   tracks overall programming success by evidence of: 1. Growth of tennis
   activity in CUSD 2.100% graduation rate across cohorts 3. Observable
   improvements in attendance, chronic behavioral problems and academic
-  performance. 
+  performance.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '2500'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '21000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Through our work, more underserved children in LA County will have safe places
   and opportunities to play, grow, and dream. Children are empowered to learn a

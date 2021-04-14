@@ -26,7 +26,7 @@ project_description: >-
   connection to housing and medical care. To better serve youth survivors, Cast
   wants to hire a Youth Emergency Response Case Manager who will support youth
   survivors at a very vulnerable stage of their recovery from their experience:
-  the start. 
+  the start.
 category: live
 connect_metrics: ''
 create_metrics: ''
@@ -51,7 +51,7 @@ What is the problem that you are seeking to address?: >-
   DCFS to be the agency’s trainer on Commercial Sexual Exploitation of Children
   and Human Trafficking. Due to the vastly increased exposure across Los
   Angeles, Cast anticipates an increase in hotline calls and referrals for
-  trafficked youth and needs to ensure sufficient capacity to respond. 
+  trafficked youth and needs to ensure sufficient capacity to respond.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Cast is proposing to use a LA2050 grant to cover the cost of a full time Youth
   Emergency Response Case Manager who will be dedicated to attending at least
@@ -73,22 +73,23 @@ What is the problem that you are seeking to address?: >-
   they are receiving Cast’s services. Survivors’ progress scores help to show
   where and how their service plans needs to be adjusted; it is only when they
   are 'stable', 'growing' or ‘thriving’ that Cast case managers talk to clients
-  about graduating from our programs - no matter how long that takes. 
+  about graduating from our programs - no matter how long that takes.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '100'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '0'
 Describe how Los Angeles County will be different if your work is successful.: >-
   A 2018 study reported that almost 10% of homeless individuals on any given
   night in LA County reported that they had been victims of human trafficking. A
   2017 survey found that 19% of the homeless youth population in LA had
-  experienced trafficking.  Cast believes that the COVID-19 pandemic has
+  experienced trafficking. Cast believes that the COVID-19 pandemic has
   increased the incidence of human trafficking and that, as the pandemic near a
   hopeful end, we will start to receive an increasing number of hotline calls
   and referrals, including from youth (aged under 24). It is absolutely vital
   that we have the capacity to meet this need with staff who are experienced in
   working with very vulnerable youth. Supporting survivors who have recently
   escaped their trafficking situation in a timely manner has a huge impact on
-  their wellness and safety in the short term and directly  prevents them from
+  their wellness and safety in the short term and directly prevents them from
   becoming homeless. Therefore the proposed project will directly affect youth
-  at risk of homelessness and exploitation in LA County. 
+  at risk of homelessness and exploitation in LA County.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Communications support,Strategy assistance and

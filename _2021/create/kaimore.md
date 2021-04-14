@@ -56,7 +56,7 @@ What is the problem that you are seeking to address?: >-
   despite qualifying for standard loan products. Households with poor credit
   history and lack of emergency savings will spend nearly 10 percent of their
   income on high-cost credit products. Debts disproportionately impact families
-  and communities of color, hindering economic mobility.  Unemployment further
+  and communities of color, hindering economic mobility. Unemployment further
   exacerbates financial instability. According to the Federal Reserve Bank of
   St. Louis, unemployment rate in January 2021 in LA County was 12.7%.
   Re-employment and job retention will be crucial to rebuilding Los Angeles in
@@ -68,7 +68,7 @@ What is the problem that you are seeking to address?: >-
   socioeconomic backgrounds such as those previously incarcerated or domestic
   abuse victims. The curriculum integrates introductory courses, case studies,
   hands on projects, individual assignments, internships, and mentorship
-  opportunities.  Weekend bootcamps will cover 1) basic financial coaching on
+  opportunities. Weekend bootcamps will cover 1) basic financial coaching on
   savings, budgeting, banking, taxes, and credit scores and 2) professional
   development training programs including resume editing, networking, career
   panels, and utilizing LinkedIn. Over the course of the first half of the
@@ -79,7 +79,7 @@ What is the problem that you are seeking to address?: >-
   employment in the industry of their choice. During the final 2 weeks, members
   will use skills learned from the program to host a philanthropic event for
   their community, benefiting Los Angeles while solidifying their leadership
-  skills.  Members from each class will have the opportunity to become mentors
+  skills. Members from each class will have the opportunity to become mentors
   for following cohorts and join the growing Kaimore Accelerator alumni network.
   Ultimately, the Kaimore platform will serve as a bridge to connect those who
   are in need to who are able to help.
@@ -95,8 +95,9 @@ What is the problem that you are seeking to address?: >-
   program into jobs despite the pandemic. The metrics we use to measure impact
   include: documenting number of unduplicated at-risk families enrolled,
   analysis of client changes in financial wellbeing as measured by the pre- and
-  post- service survey, employment rate, and 3-6 months job retention rate. 
+  post- service survey, employment rate, and 3-6 months job retention rate.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '100'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   This grant would allow Kaimore to positively impact the lives of those that
   are underprivileged in Los Angeles. The LA Almanac reported that in December

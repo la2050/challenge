@@ -89,8 +89,9 @@ What is the problem that you are seeking to address?: >-
   that they have known for years and increased their empathy for one another.
   One student shared, “This program not only changed by life by helping me
   understand and vocalize my story, but it saved my life by surrounding me with
-  a community of peers that I now can call my friends.” 
+  a community of peers that I now can call my friends.”
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '1000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '5000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Reestablishing connection and confidence for youth in LA will bring hope back
   to our city in a much needed way. After high school students are given the

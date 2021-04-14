@@ -26,7 +26,7 @@ project_description: >-
   expert, Demonte “Tray” Thompson, TAY foster youth (ages 16-24) will
   participate in cohort-based workshops designed to increase the financial
   health and stability of foster youth as they transition to college and
-  adulthood. 
+  adulthood.
 category: learn
 connect_metrics: ''
 create_metrics: ''
@@ -51,10 +51,43 @@ What is the problem that you are seeking to address?: >-
   improve their educational and life situations. Studies have shown a better
   understanding of how and why to pay for training and education after high
   school increases the likelihood of degree completion, career fulfillment, and
-  manageable debt (Texas Higher Education Coordinating Board, 2017). 
-'Describe the project, program, or initiative that this grant will support to address the problem identified.': "TWINSPIRE Financial Literacy Program will host a Financial Literacy workshop every two weeks over a week 2-month period. An initial Intake Survey will be used to understand the current needs of the students and tailor the material to meet them where they are. Target youth will be transition age foster youth in UFC’s education and housing programs. Each session we will include community builders, financial literacy curriculum and activities, and Q&A time. Participants who complete the entire workshop series will receive a $200 “investment” stipend to use toward establishing financial stability (savings account, college tuition, work readiness, etc.)   Workshop topic schedule includes: \tSession 1: Intake Survey and Review  \tSession 2: Budgeting  \tSession 3: Credit Cards & Debt Management  \tSession 4: Credit Reports & Scores \tSession 5: Identity Theft / Social-emotional goal setting \tSession 6: Workforce Development / Career Exploration  \tSession 7: One-on-One Sessions \tSession 8: Program Graduation   UFC staff will be provided a two-day financial counseling training provided by TWINSPIRE. Staff members will receive an overview of personal financial literacy and management skills necessary for young adults to become self-sufficient. Staff members will integrate training components into current case management and workshops.   "
-'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': "This project will be an extension of UFC’s existing programs, Scholars (education-focused) and Pathways to Independence (transitional housing for TAY foster youth). UFC will leverage the financial expertise of TWINSPIRE to build the financial literacy and health of TAY foster youth as they pursue higher education and/or a stable life after experiencing homelessness.   While outcomes for youth in UFC's programs are significantly higher than their foster peers, a comprehensive understanding of personal finances is currently not being provided by UFC. Outcomes measures will include:  1.\t85% of youth will complete all workshop sessions 2.\tCollege-focused youth will have student loan repayment plans consisting of 8-10% of expected gross monthly income 3.\t100% of program participants will have a personalized budget and spending plan 4.\t100% of program participants will receive credit score and report  5.\t100% of UFC staff participants will increase their ability to financially counsel youth "
+  manageable debt (Texas Higher Education Coordinating Board, 2017).
+'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
+  TWINSPIRE Financial Literacy Program will host a Financial Literacy workshop
+  every two weeks over a week 2-month period. An initial Intake Survey will be
+  used to understand the current needs of the students and tailor the material
+  to meet them where they are. Target youth will be transition age foster youth
+  in UFC’s education and housing programs. Each session we will include
+  community builders, financial literacy curriculum and activities, and Q&A
+  time. Participants who complete the entire workshop series will receive a $200
+  “investment” stipend to use toward establishing financial stability (savings
+  account, college tuition, work readiness, etc.) Workshop topic schedule
+  includes: Session 1: Intake Survey and Review  Session 2: Budgeting  Session
+  3: Credit Cards & Debt Management  Session 4: Credit Reports & Scores Session
+  5: Identity Theft / Social-emotional goal setting Session 6: Workforce
+  Development / Career Exploration  Session 7: One-on-One Sessions Session 8:
+  Program Graduation UFC staff will be provided a two-day financial counseling
+  training provided by TWINSPIRE. Staff members will receive an overview of
+  personal financial literacy and management skills necessary for young adults
+  to become self-sufficient. Staff members will integrate training components
+  into current case management and workshops.
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  This project will be an extension of UFC’s existing programs, Scholars
+  (education-focused) and Pathways to Independence (transitional housing for TAY
+  foster youth). UFC will leverage the financial expertise of TWINSPIRE to build
+  the financial literacy and health of TAY foster youth as they pursue higher
+  education and/or a stable life after experiencing homelessness. While outcomes
+  for youth in UFC's programs are significantly higher than their foster peers,
+  a comprehensive understanding of personal finances is currently not being
+  provided by UFC. Outcomes measures will include: 1. 85% of youth will complete
+  all workshop sessions 2. College-focused youth will have student loan
+  repayment plans consisting of 8-10% of expected gross monthly income 3. 100%
+  of program participants will have a personalized budget and spending plan 4.
+  100% of program participants will receive credit score and report 5. 100% of
+  UFC staff participants will increase their ability to financially counsel
+  youth
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '50'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '580'
 Describe how Los Angeles County will be different if your work is successful.: >-
   In the long-term, this project will create stronger communities and
   neighborhoods throughout LA County by providing youth with the knowledge and
@@ -69,7 +102,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   of financial stability, foster youth participants will transition from
   recipients of public assistance, to self-sufficient community members
   investing their time, talents, and resources back into their local economies,
-  families, and neighborhoods. 
+  families, and neighborhoods.
 Describe the role of collaborating organizations on this project.: >-
   Twinspire is the collaborating partner for the project and will provide
   financial literacy workshop curriculum and facilitation. Tray Thompson, a
@@ -77,7 +110,7 @@ Describe the role of collaborating organizations on this project.: >-
   workshops. Tray brings a professional background in finance and lived
   experience that will benefit youth in UFC’s programs. United Friends will
   provide workshop space, free transportation to all program participants and/or
-  technology (laptops and wifi) if conducted virtually, and logistics support. 
+  technology (laptops and wifi) if conducted virtually, and logistics support.
 Which of LA2050’s resources will be of the most value to you?: 'Access to the LA2050 community,Hosting virtual events or gatherings'
 Please list the organizations collaborating on this proposal.: TWINSPIRE
 Which metrics will you impact?:
@@ -87,6 +120,6 @@ Which metrics will you impact?:
 Indicate any additional LA2050 goals your project will impact.: []
 year: 2021
 filename: united-friends-of-the-children
-order: 77
+order: 78
 
 ---

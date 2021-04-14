@@ -25,7 +25,7 @@ project_description: >-
   violence levels by empowering peacemakers and community leaders to create
   neighborhood safety. New peace ambassadors will collaborate with trained
   community leaders to reduce violence, and ensure children and families feel
-  safe enough to play at Harvard Park. 
+  safe enough to play at Harvard Park.
 category: play
 connect_metrics: ''
 create_metrics: ''
@@ -72,7 +72,7 @@ What is the problem that you are seeking to address?: >-
   summer months by providing safe, family friendly activities at Harvard Park.
   Moreover, UPI will continue coordinating the Community Safety Partnership
   initiative to ensure increased community engagement and trust among residents,
-  gang intervention workers, and officers. 
+  gang intervention workers, and officers.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   In 2017, UPI conducted a community needs assessment which engaged 979
   stakeholders to identify residents’ most pressing safety concerns in Harvard
@@ -89,6 +89,7 @@ What is the problem that you are seeking to address?: >-
   decrease by at least 15% and resident perceptions of safety to increase by at
   least 10% over the next year.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '100'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '10000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Without a basic level of safety, play is not possible for all Los Angeles
   children, especially for children of color living in underserved communities

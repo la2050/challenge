@@ -66,15 +66,15 @@ What is the problem that you are seeking to address?: >-
   agencies, churches and other community spaces. Our team will focus on voter
   registration and voter education drives in LA County. Additionally, we will
   host a townhall event featuring significant participation by big names in the
-  criminal justice reform space in November for National Voter Registration
-  Day.     Based on our success in 2020, we know that this work makes a real
-  impact in elections. We need now to build engagement in interim elections and
-  remain in contact both with those system impacted individuals who voted and
-  those who did not. We must continue to build our community’s power to hold
-  lawmakers accountable. The California state legislature is proposing several
-  bills around criminal justice, and we have the opportunity now to build
-  awareness of the initiatives that will create alternatives to incarceration,
-  usher in police reform, and restore dignity to individuals and communities.
+  criminal justice reform space in November for National Voter Registration Day.
+  Based on our success in 2020, we know that this work makes a real impact in
+  elections. We need now to build engagement in interim elections and remain in
+  contact both with those system impacted individuals who voted and those who
+  did not. We must continue to build our community’s power to hold lawmakers
+  accountable. The California state legislature is proposing several bills
+  around criminal justice, and we have the opportunity now to build awareness of
+  the initiatives that will create alternatives to incarceration, usher in
+  police reform, and restore dignity to individuals and communities.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   LA Voice has played a crucial role in the nonpartisan LA County voter
   engagement infrastructure since 2011, turning out tens of thousands of
@@ -83,14 +83,15 @@ What is the problem that you are seeking to address?: >-
   system impacted individuals at the polls who otherwise might not have voted.
   We achieved this feat despite the challenges of a global pandemic through
   activities like public events, workshops and trainings, phone banking,
-  in-person outreach, and social media.   We track and report all data related
-  to outreach efforts, civic engagement activities, and voter registrations with
+  in-person outreach, and social media. We track and report all data related to
+  outreach efforts, civic engagement activities, and voter registrations with
   two tools: PDI and BLOCS. Based on our data, we know that LA Voice voters turn
   out at a rate at least 10% higher than the average voter in LA County. This is
   due to our highly effective model of relational organizing, which builds on
   relationships in communities and local leadership to mobilize high rates of
   civic engagement.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '1500'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '6000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   At LA Voice, we are dedicated to increasing the number of justice involved
   individuals who are aware of their right to vote and committed to exercising
@@ -100,7 +101,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   empower more folks like Karl, a justice system impacted individual who voted
   for the first time at age 56. “LA Voice helped me understand what was on the
   ballot in layman’s terms. I knew what I was voting for and the results that I
-  was looking for.”   We work to awaken people to their power through action and
+  was looking for.” We work to awaken people to their power through action and
   education so that our systems reflect the needs and interests of our most
   vulnerable citizens. When all members of a community have a say in the systems
   and services available to them, lives are transformed, recidivism is reduced,

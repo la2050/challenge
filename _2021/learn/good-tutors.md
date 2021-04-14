@@ -56,14 +56,14 @@ What is the problem that you are seeking to address?: >-
   Social isolation and COVID-19 learning loss have alarmingly widened gaps in
   academic performance that have persisted in LA County public schools for
   decades. LAUSD is the 2nd largest school district in the nation, serving
-  600,000 students, 80% of whom live below the poverty line.  While parents in
+  600,000 students, 80% of whom live below the poverty line. While parents in
   our underserved communities work tirelessly so that their children may attend
   college and the promise of a better future, language barriers are in the way.
   61% of LA County parents are non-English speaking and typically unable to help
   their children with homework. Tutors or college guidance are inaccessible and
-  unaffordable.   The inequity in educational support has been further widened
-  by the digital divide, a systemic lack of computers & internet access at homes
-  in low income communities. As a result, many students unnecessarily wind up in
+  unaffordable. The inequity in educational support has been further widened by
+  the digital divide, a systemic lack of computers & internet access at homes in
+  low income communities. As a result, many students unnecessarily wind up in
   remedial classes. While 82% of LA students graduate high school, only half
   meet UC / Cal State requirements and less than 34% attain a bachelor’s degree.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
@@ -72,16 +72,16 @@ What is the problem that you are seeking to address?: >-
   underserved students in LAUSD. Good Tutors exclusively focuses on students who
   are eligible for free and reduced lunch. Volunteer college and high school
   students, senior citizens, retired teachers, professors, and college guidance
-  professionals offer 1:1 free virtual tutoring.  A silver lining of COVID-19 is
+  professionals offer 1:1 free virtual tutoring. A silver lining of COVID-19 is
   an unprecedented opportunity to narrow the digital and academic divide, thanks
   to the City of LA, LAUSD, and telecom carriers offering free devices &
   internet access. Good Tutors leverages this new online access to provide
-  educational and emotional support to underserved LAUSD students.   Good Tutors
+  educational and emotional support to underserved LAUSD students. Good Tutors
   succeeds because we take the time to get to know each tutor, student and
   family. We purposefully pair them to meet our students' academic and social &
   emotional needs. If the fit isn't right, we find another tutor. We begin by
   asking- "What do you wish you could learn?" The curriculum is then custom
-  tailored to the needs and desires of each student.   Our program supplements
+  tailored to the needs and desires of each student. Our program supplements
   students' school-based learning. Volunteers help students with 1:1 homework
   and language support, host group book clubs, and explore the arts. All tutors
   are background checked through Megan's Law, and tutoring takes place via Zoom.
@@ -92,17 +92,18 @@ What is the problem that you are seeking to address?: >-
   proven that its 1:1 tutoring program has a meaningful impact on students and
   tutors. We define student success by increased academic performance and social
   & emotional growth. Parents, tutors, and teachers overwhelmingly report
-  increases in grades, engagement, learning interest, and confidence.  Some
+  increases in grades, engagement, learning interest, and confidence. Some
   stories we celebrate include Sherry, a 6th grader who passed the
   reclassification exam, testing out of remedial classes, forever altering her
   future. The mother of Karie, a 3rd grade student, said Karie's teacher asked-
   "what did you do to Karie? She's ahead of everyone in math and confidently
-  speaks up in class."  We also define success by impact on our tutors. Student
+  speaks up in class." We also define success by impact on our tutors. Student
   tutors have formed school clubs to recruit tutors and share best practices.
   LMU partners with Good Tutors in their School of Education and Center for
   Service and Action. They report that their Good Tutors have grown and greatly
   enjoy the program.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '2000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '2000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Our goal is to continue innovating and scaling our program until 100% of
   PreK-12 students living below the poverty line in LA county have access to
@@ -111,7 +112,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   proficiency, college matriculation, volunteerism, and social & emotional
   support. Tutoring will make college a reality for students who never thought
   it was possible. With years of experience in 1:1 instruction, tutoring will
-  inspire students to choose teaching as a profession.  Our virtual tutoring
+  inspire students to choose teaching as a profession. Our virtual tutoring
   program breaks down walls between diverse LA communities and encourages people
   young and old from multiple ethnicities and races to connect. Older
   sibling-like relationships form that we expect to last a lifetime. Thanks to

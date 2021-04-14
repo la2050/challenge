@@ -62,13 +62,13 @@ What is the problem that you are seeking to address?: >-
   experience the life-affirming healing properties of shared excitement,
   laughter, physical activity, problem-solving, teamwork, creativity,
   appreciation, reflection, and imagination that exist on a weekend expedition
-  to Catalina Island.  The following program meets the LA County COVID-19
+  to Catalina Island. The following program meets the LA County COVID-19
   guidelines at this time and is flexible to adjust as restrictions are
   tightened or eased. Five to six families (20 individuals total) will undergo a
   health screening and, if no indications of infection, will join the LAMI tall
   ships on a Saturday morning in San Pedro, CA. The ship has been zoned for
   safely-distanced activities, and households will move from between zones.
-  Rigorous hygiene and PPE protocols are enforced.  Participants will learn and
+  Rigorous hygiene and PPE protocols are enforced. Participants will learn and
   perform all sailing and live-aboard responsibilities, including sail handling,
   navigation, meal-preparations, and ship-shape upkeep. The ship will arrive at
   Catalina Island early Saturday afternoon. The time at Catalina will include
@@ -77,7 +77,7 @@ What is the problem that you are seeking to address?: >-
   downtime. Participants will sleep at comfortable island-based facilities LAMI
   regularly utilizes. If guidelines allow it, participants will sleep aboard the
   ship. The ship will return to San Pedro on Sunday afternoon. The program is
-  proven to be a transformational and joyful experience.   
+  proven to be a transformational and joyful experience.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   LAMI's Sail Away Weekends Program and its goals are identical to past
   experiential at-sea programs we have conducted. Success will be met if
@@ -87,6 +87,7 @@ What is the problem that you are seeking to address?: >-
   also has a long standing relationship with these families and will report back
   on longitudinal changes exhibited by the individuals.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '160'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '960'
 Describe how Los Angeles County will be different if your work is successful.: >-
   The trauma felt by family members of murder victims is deep, lasting, and
   unique. If untreated, these co-victims can often suffer from mental illness,

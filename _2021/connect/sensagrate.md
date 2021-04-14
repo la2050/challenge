@@ -23,7 +23,7 @@ project_description: >-
   decrease congestion and save lives on roadways. SensaVision is an end-to-end
   computer vision, AI, and IoT Mobility-as-a-Service platform for mobility and
   transportation data providers, and traffic engineers to provide real-time
-  roadway, traffic, and safety analytics with and predictive analysis.   
+  roadway, traffic, and safety analytics with and predictive analysis.
 category: connect
 connect_metrics: 'Travel time to work, Public transit ridership'
 create_metrics: ''
@@ -47,8 +47,7 @@ What is the problem that you are seeking to address?: >-
   factors are distracted driving, impaired driving, distracted pedestrians,
   red-light runners, wrong-way drivers, speeding, and other factors. These
   problems decrease the efficiencies of traffic congestion, reducing emissions,
-  and improving public safety with an economic cost in the US of $242B
-  annually. 
+  and improving public safety with an economic cost in the US of $242B annually.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   SensaVision collects, provides, and analyzes real-time roadway and traffic
   data. LiDAR point cloud and camera data provide 2D and 3D real-world views of
@@ -58,21 +57,22 @@ What is the problem that you are seeking to address?: >-
   or processed JSON format. The data is collected at intersections, beyond
   intersections, mid-block, and other locations to provide viable and unique
   data to assess and understand risks, traffic flow analytics, counts, volume,
-  predictive AI analytics, and roadway safety.  Data collected is processed with
+  predictive AI analytics, and roadway safety. Data collected is processed with
   traffic, signal, and roadway data to provide advanced analytics of driver and
   pedestrian behavior and traffic analysis. Data analytics can be used to
   improve pedestrian safety, for mobility applications, to foster better
   decision making for autonomous vehicles, and prepare for the future of
   intelligent transportation system applications in Vehicle-to-Infrastructure
-  (V2X) and Infrastructure-to-Everything (I2X) communications. 
+  (V2X) and Infrastructure-to-Everything (I2X) communications.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Results and impact will be measured by seeing the first 3 to 6 months of
   traffic flow and how traffic flow with congestion decreases creating less
   travel time and reducing emission. We install CO2 sensors without deployments
-  to measure emission ratings.  In addition, we assess the rate and frequency of
+  to measure emission ratings. In addition, we assess the rate and frequency of
   near-miss collisions to verify changes to the signal phase and timing or other
-  city planning impacts add value to describing the rate of incidents.  
+  city planning impacts add value to describing the rate of incidents.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '20000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '82000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Our vision is to help reduce congestion, decrease emissions and save lives on
   roadways. The goal would be to pilot our technology with a city in Los Angeles
@@ -84,7 +84,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   infrastructure-to-vehicle communications. This solution will provide an
   intersection to intersection communication between all traffic signals to
   optimize traffic flow while decreasing congestion, emissions and improving
-  public safety. 
+  public safety.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Communications support,Strategy assistance and

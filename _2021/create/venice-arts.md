@@ -19,7 +19,7 @@ Describe the mission of your organization.: >-
   Venice Arts’ mission is to ignite, expand, and transform the lives of Los
   Angeles’ low-income youth through photography and film education, and to use
   our participatory storytelling practices to amplify the voices of
-  underrepresented communities around the world. 
+  underrepresented communities around the world.
 project_description: >-
   Grants funds will support the integration of our existing Creative Pathways
   (CP) college and career readiness activities with our new Film & Digital Media
@@ -50,11 +50,11 @@ What is the problem that you are seeking to address?: >-
   advantaged peers. Those that hope to work in creative industries are regularly
   faced with a myriad of barriers that impede success. For youth of color,
   current and former foster youth, justice-involved and/or LGBTQ youth, the
-  challenges can be overwhelming.  The creative industry field represents the
-  2nd largest labor sector in LA, yet minority representation within the field
+  challenges can be overwhelming. The creative industry field represents the 2nd
+  largest labor sector in LA, yet minority representation within the field
   remains stubbornly and disproportionately low. This disparity distorts
   representation, silences voices, and leaves far too many talented young people
-  on the outside, looking in.  Exacerbating the current situation are the
+  on the outside, looking in. Exacerbating the current situation are the
   negative impacts of pandemic-related lockdowns and social distancing on
   youth’s mental health. As we look to a post-pandemic future it is clear that
   support for young people’s emotional needs is critical to their well-being.
@@ -65,13 +65,13 @@ What is the problem that you are seeking to address?: >-
   resources necessary for success. Aligned with our vision for a more equitable
   and inclusive society, our participants learn the hard and soft skills needed
   to enter the workforce, secure internship placements, and navigate the college
-  application, financial aid, and scholarship process.   LA 2050 funding would
-  be instrumental in helping integrate our existing CP program activities
-  including college days, career panels, 1:1 mentoring with our new F&DM pilot.
-  F&DM’s training in digital video creation and filmmaking is designed to lead
-  to paid internships but doesn't address college. Youth participants in Venice
-  Arts other programs would benefit significantly with expanded case management
-  services.  Venice Arts safely resumed on-site programs in July 2020. We know
+  application, financial aid, and scholarship process. LA 2050 funding would be
+  instrumental in helping integrate our existing CP program activities including
+  college days, career panels, 1:1 mentoring with our new F&DM pilot. F&DM’s
+  training in digital video creation and filmmaking is designed to lead to paid
+  internships but doesn't address college. Youth participants in Venice Arts
+  other programs would benefit significantly with expanded case management
+  services. Venice Arts safely resumed on-site programs in July 2020. We know
   that processing pandemic risks and restrictions, isolation, grief, racial
   injustice, economic uncertainty, and food insecurity, is emotionally
   challenging for all, especially young people. Having witnessed this struggle
@@ -84,17 +84,18 @@ What is the problem that you are seeking to address?: >-
   and improve our programs. The data used to define our Creative Pathways’
   outcomes are: activity participation; college application, acceptance, and
   graduation rates; internship application and placement rates; awards submitted
-  and awards received.  Program impact is evidenced in our successful track
+  and awards received. Program impact is evidenced in our successful track
   record of connecting underserved youths to creative career pathways. We have
   exposed countless youth to what it means to work in media arts and creative
   sectors; have organized hundreds of presentations, career-panels, and
   career-directed field trips; and have placed nearly 150 low-income and
   underserved young people, in paid internships. Past placements include
   NBC-Universal, Dreamworks, Univision, Sundance Institute, Motive, Brave New
-  Films, KCRW, among many others.  Our young media makers have also won hundreds
+  Films, KCRW, among many others. Our young media makers have also won hundreds
   of national, state, and local awards including recognition as a Presidential
   Scholar in the Arts.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '300'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1500'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Venice Arts’ first workshop in 1993, Venice Through Our Eyes, taught young
   people how to use the camera to find their voice: exploring, describing, and
@@ -103,13 +104,12 @@ Describe how Los Angeles County will be different if your work is successful.: >
   stories of poverty, violence, and despair. Our programs—conceived in a
   pre-digital era when teaching a young person how to use a camera to tell the
   stories of their lives was a unique and radical act—taught participants about
-  the power of visual self-representation.   As our pedagogy emphasizes the
-  “whole child,” integrating creative/artistic, academic, and personal
-  development, we have taken the work a step further with goals to help
-  low-income young people succeed both in college and in the creative workspace.
-  We hope for a Los Angeles creative industry that values the voices and
-  contributions of all, including those marginalized by class, race, and
-  immigration status.
+  the power of visual self-representation. As our pedagogy emphasizes the “whole
+  child,” integrating creative/artistic, academic, and personal development, we
+  have taken the work a step further with goals to help low-income young people
+  succeed both in college and in the creative workspace. We hope for a Los
+  Angeles creative industry that values the voices and contributions of all,
+  including those marginalized by class, race, and immigration status.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Strategy assistance and

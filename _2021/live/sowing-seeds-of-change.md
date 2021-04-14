@@ -18,7 +18,7 @@ Describe the mission of your organization.: >-
   developmentally disabled and unserved foster youth 18-24) to actively engage
   in a local food system that encourages healthy living, nurtures the
   environment, and grows sustainable community through vocational training,
-  youth entrepreneurship, and employment opportunities.  ​  
+  youth entrepreneurship, and employment opportunities. ​
 project_description: >-
   Our goal is simple: to feed our community and do so with dignity, integrity,
   and with the ultimate goal of food sovereignty. Our No Cost-Open Farmers
@@ -26,7 +26,7 @@ project_description: >-
   community. The program will create a triad of good, by diverting food from
   landfills, creating jobs for marginalized populations, and engaging the
   recipients of our food program in activities and workshops that will
-  ultimately empower them to directly influence their food system. 
+  ultimately empower them to directly influence their food system.
 category: live
 connect_metrics: ''
 create_metrics: ''
@@ -73,36 +73,37 @@ What is the problem that you are seeking to address?: >-
   vocational program will provide on-going mentorship to our participants to
   ensure they are able to carry out all the duties necessary for a successful
   weekly market. Our model will develop community around food by empowering our
-  youth participants to serve as food ambassadors for their community. 
+  youth participants to serve as food ambassadors for their community.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
-  We will measure:   a) number of pounds of healthy food distributed weekly b)
+  We will measure: a) number of pounds of healthy food distributed weekly b)
   number of weekly repeat recipients by keeping a digital registry of names, and
-  contact info, and demographics  c) number of recipients who utilized healthy
+  contact info, and demographics c) number of recipients who utilized healthy
   food recipes provided with their groceries via periodic surveys taken in the
-  no-cost market check out process  d) number of participants employed in our
+  no-cost market check out process d) number of participants employed in our
   no-cost market e) number of recipients who accessed additional resources such
-  as Calfresh   For above metrics, we define success as:  a) distributing 200
-  pounds of fresh produce each week  b) providing food to 6,900 target
+  as Calfresh For above metrics, we define success as: a) distributing 200
+  pounds of fresh produce each week b) providing food to 6,900 target
   participants, 50% of those participants returning to the market at least once
-  c) 50% of participants try the healthy recipes  d) employing at least 5
+  c) 50% of participants try the healthy recipes d) employing at least 5
   employees aged 18-24 referred from Special Education services and/or the
   foster system e) ensuring 100% of our participants are aware of additional
-  food security resources like CalFresh  
+  food security resources like CalFresh
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '6900'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '10000'
 Describe how Los Angeles County will be different if your work is successful.: >-
-  The Sowing Seeds of Change model is intended for replication.  We have made
+  The Sowing Seeds of Change model is intended for replication. We have made
   connections with non-profits who are supporting our No-Cost Farmers Market
-  initiative; including Food Finders and Armanda Unified.  We are creating a
-  network of vested agencies who will be able to replicate the program.  The
+  initiative; including Food Finders and Armanda Unified. We are creating a
+  network of vested agencies who will be able to replicate the program. The
   impact of our No-Cost market can be multiplied exponentially. The low cost of
   starting a farm on properties owned by local jurisdictions allows for ease of
   start-up relative to the potential impact of each farm. Pairing produce grown
   on-site with diverted food waste improves food system efficiency. We envision
   LA County where everyone has a farm within walking distance. We will create
   green public spaces that facilitate sharing food knowledge, so that people
-  develop a sense of ownership leading to food sovereignty.  Our initial goal is
+  develop a sense of ownership leading to food sovereignty. Our initial goal is
   to start by creating no-cost markets in all of Long Beach's food desert
-  neighborhoods then extending it to Wilmington, Carson and beyond. 
+  neighborhoods then extending it to Wilmington, Carson and beyond.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Communications support,Strategy assistance and

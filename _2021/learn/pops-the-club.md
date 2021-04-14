@@ -15,10 +15,10 @@ organization_facebook: 'https://www.facebook.com/popstheclub'
 organization_instagram: '@popstheclub'
 Describe the mission of your organization.: >-
   POPS provides support to teens so that they can effectively move through the
-  challenges they experience as a result of having a justice-involved loved
-  one.  Through trauma-informed, arts-based programs, POPS creates a safe space
-  where teens can transform stigma and shame and thrive academically, socially,
-  and emotionally, now and as adults.
+  challenges they experience as a result of having a justice-involved loved one.
+  Through trauma-informed, arts-based programs, POPS creates a safe space where
+  teens can transform stigma and shame and thrive academically, socially, and
+  emotionally, now and as adults.
 project_description: >-
   POPScast is a podcast made by and for teens to explore and discuss the
   realities of ways the criminal justice system impacts their lives. Teen hosts
@@ -51,7 +51,7 @@ What is the problem that you are seeking to address?: >-
   their schools, transforming stigma and shame into hope and dignity so they can
   thrive academically, socially, and emotionally, now and as adults. But not all
   schools have a POPS club, and POPScast is designed for teens who don’t have
-  such a space in their lives. 
+  such a space in their lives.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Guided by professional podcast producers, POPS is developing a podcast. Ten
   Los Angeles-based grads of the POPS the Club program, will be trained and will
@@ -64,45 +64,45 @@ What is the problem that you are seeking to address?: >-
   teens’ lives, offering opportunities for artistic expression, authentic open
   discussion, and interviews with role models like Earlonne Woods, co-creator of
   Ear Hustle; Oscar-nominated comedians and social activists, the Lucas
-  Brothers; and writer and podcaster Ashley C. Ford.    During the grant period,
-  we will develop, market and launch Season One (eight episodes), evaluate its
-  success, and begin production for season two.    The goals of this project
+  Brothers; and writer and podcaster Ashley C. Ford. During the grant period, we
+  will develop, market and launch Season One (eight episodes), evaluate its
+  success, and begin production for season two. The goals of this project
   include 1) Deepening teens’ understanding of and opportunities to share their
   experiences with the criminal justice system; 2) Building connection with
   other youth and learning about each others’ experiences; and 3) Creating
   awareness for the general public around the challenges these youth face as a
-  result of family incarceration and other impacts of  the criminal justice on
-  teens’ lives. 
+  result of family incarceration and other impacts of the criminal justice on
+  teens’ lives.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Success for POPScast would be the project’s capacity to fulfill its goals
-  outlined in question 8.  As an early-stage project, POPS is currently
-  exploring the most efficient and accurate ways to measure quantitative
-  impact.  POPS anticipates it will determine POPScast’s direct impact/success
-  by Number of listeners/downloads; POPScast reviews; POPScast subscribers;
-  Increase in POPS’ website traffic; Repurposing of POPScast content; and Future
-  sponsorship support.    Measuring indirect impact, which would include the
-  awareness of the general public about the negative impact having a
-  justice-involved loved one can create in the lives of children, is more
-  challenging to measure.  POPS is exploring meaningful ways to assess this
-  impact with its evaluation team, which include experts from USC and CSUN.  
-  The most important success indicator is the meaningful impact POPScast makes
-  for the youth creating the podcast and those who discover POPS.   
+  outlined in question 8. As an early-stage project, POPS is currently exploring
+  the most efficient and accurate ways to measure quantitative impact. POPS
+  anticipates it will determine POPScast’s direct impact/success by Number of
+  listeners/downloads; POPScast reviews; POPScast subscribers; Increase in POPS’
+  website traffic; Repurposing of POPScast content; and Future sponsorship
+  support. Measuring indirect impact, which would include the awareness of the
+  general public about the negative impact having a justice-involved loved one
+  can create in the lives of children, is more challenging to measure. POPS is
+  exploring meaningful ways to assess this impact with its evaluation team,
+  which include experts from USC and CSUN. The most important success indicator
+  is the meaningful impact POPScast makes for the youth creating the podcast and
+  those who discover POPS.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '37'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '3500'
 Describe how Los Angeles County will be different if your work is successful.: >-
   The struggle of youth with incarcerated loved ones has been diminished and
-  overlooked for too long.  POPS is a proven vehicle that provides support and
-  hope.  According to program data, POPS youth are staying in school, increasing
+  overlooked for too long. POPS is a proven vehicle that provides support and
+  hope. According to program data, POPS youth are staying in school, increasing
   their scores on standardized tests, developing self-esteem, and becoming more
   future-oriented. POPS students who intended to drop out of school are
   graduating and going on to attend college and have turned away from substance
   use, traded making art for gang activity, and are embarking paths they were
-  not able to envision before joining POPS.   POPScast is designed to be an
+  not able to envision before joining POPS. POPScast is designed to be an
   effective way for POPS to connect with and create community for those youth
   similarly impacted but who feel alone, while also creating visibility for this
-  urgent issue.   By giving youth an opportunity to be seen and heard, to
-  connect with each other and inspiring role models, Los Angeles will have more
-  high school graduates, more social support, and more productive, engaged
-  citizens. 
+  urgent issue. By giving youth an opportunity to be seen and heard, to connect
+  with each other and inspiring role models, Los Angeles will have more high
+  school graduates, more social support, and more productive, engaged citizens.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: Communications support
 Please list the organizations collaborating on this proposal.: ''

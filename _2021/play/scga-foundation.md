@@ -15,7 +15,7 @@ organization_facebook: SCGAJunior
 organization_instagram: '@scgajunior'
 Describe the mission of your organization.: >-
   The mission of SCGA Junior Golf Foundation is to develop an inclusive golf
-  community that enables kids to thrive on & beyond the course.  The Foundation
+  community that enables kids to thrive on & beyond the course. The Foundation
   believes that every kid in Southern California, no matter their circumstance,
   should have the opportunity to pursue the game and experience the positive
   impact that it can have.
@@ -26,7 +26,7 @@ project_description: >-
   create equity in the game by bringing an affordable, all-inclusive golf
   program to communities of need. Through intentional golf and positive youth
   development curriculums, we promote healthy lifestyles, high-impact character
-  attributes and connections to local role models. 
+  attributes and connections to local role models.
 category: play
 connect_metrics: ''
 create_metrics: ''
@@ -71,12 +71,12 @@ What is the problem that you are seeking to address?: >-
   assessments and affordable access to practice and play outside of class.
   Program fees align with our communities to ensure that programming is
   affordable and comparable to other extracurricular activities. We provide
-  financial assistance to anyone in need, so no one is turned away.  Our coaches
+  financial assistance to anyone in need, so no one is turned away. Our coaches
   are the most integral part of our success. It is critical to hire coaches who
   are from the community and not only look like our participants but have
   experiences that our youth can relate to. 100% of our coaches hired from the
   communities we work in, 35% are past program participants. Golf experience is
-  not required; all are trained in golf skill and positive youth development.  
+  not required; all are trained in golf skill and positive youth development.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   In 2020, 39% of our program participants were Latino and 37% were female,
   compared to the national average of 24% in golf. We keep the game affordable
@@ -89,9 +89,9 @@ What is the problem that you are seeking to address?: >-
   initial study showed that participants see increased positive outcomes in five
   major areas: cognitive-behavioral, social, emotional, relationship and
   golf-specific skills. The positive attributes youth see and receive from our
-  coaches will show in the number of youth served and the growth of the
-  program. 
+  coaches will show in the number of youth served and the growth of the program.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '1500'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1800'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Golf has historically limited access to groups of individuals based on
   ethnicity, gender and socioeconomic status. Our work creates community,
@@ -106,7 +106,7 @@ Describe how Los Angeles County will be different if your work is successful.: >
   development curriculum, and training many of them to become the next program
   leaders. We continue to provide opportunities to coaches for professional
   growth, community development and economic security, as many work while
-  pursuing higher education. 
+  pursuing higher education.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Capacity-building and training,Volunteer

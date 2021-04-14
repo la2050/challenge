@@ -19,7 +19,7 @@ Describe the mission of your organization.: >-
   Guided by our belief that everyone deserves a life of dignity and a place to
   call home, Union Station Homeless Services’ mission is to help individuals and
   families rebuild their lives and end homelessness across the San Gabriel
-  Valley. 
+  Valley.
 project_description: >-
   Ending homelessness in LA County requires effective community engagement to
   educate people and dispel myths in order to build support for systemic change
@@ -28,7 +28,7 @@ project_description: >-
   advisory capacity on policy and program planning. With LA2050 funds, we will
   provide training and civic participation opportunities to LEAP members and
   launch a texting campaign to educate and engage others in advocating for
-  change. 
+  change.
 category: connect
 connect_metrics: >-
   Government responsiveness to residents’ needs, Neighborhood council
@@ -55,8 +55,7 @@ What is the problem that you are seeking to address?: >-
   and awareness among the public and policymakers on the experience of
   homelessness and the varied factors perpetuating it. As such, ending
   homelessness in LA County requires changing the narrative around homelessness
-  to garner widespread support for more equitable and informed policy
-  solutions. 
+  to garner widespread support for more equitable and informed policy solutions.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   With nearly 50 years of direct service experience, Union Station is well
   positioned to lead regionally-focused advocacy efforts to advance the
@@ -72,14 +71,29 @@ What is the problem that you are seeking to address?: >-
   the end of the year, such as furniture or other home goods, as compensation
   for their work. Given the expertise conferred by lived experience, Union
   Station believes LEAP members are uniquely equipped to educate others about
-  the causes of and solutions to homelessness.  To engage the broader community
+  the causes of and solutions to homelessness. To engage the broader community
   in this work, Union Station will launch a new texting platform to share
   information about advocacy and civic engagement opportunities, local elections
   and ballot initiatives, and community events. We aim to lead one texting
   campaign per month with the goal of changing the narrative around homelessness
   and advancing equitable policies at the local level.
-'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': "Union Station seeks to measure the effectiveness of the proposed program in inspiring and mobilizing more community members to take an active role in identifying the systems that have failed people and advocating for equitable solutions. Ultimately, we seek to change the narrative around homelessness through public education and push for the policies and structural solutions necessary to address this crisis. Within the 12-month grant period, we aim to produce the following outputs: •\tHost one LEAP meeting per month for a total of 12 meetings; •\tTrain at least five LEAP members on how to lead campaigns on the texting platform;  •\tLead one texting advocacy campaign per month, following training and the launch of the platform, for a total of 10 text campaigns; •\tEngage LEAP members in 1-5 speaking events per month for a total of 12-60 events;  •\tSend at least 500 initial texts and 250 text responses per advocacy campaign for a total of 22,500 texts; and  •\tEngage at least 500 individuals."
+'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
+  Union Station seeks to measure the effectiveness of the proposed program in
+  inspiring and mobilizing more community members to take an active role in
+  identifying the systems that have failed people and advocating for equitable
+  solutions. Ultimately, we seek to change the narrative around homelessness
+  through public education and push for the policies and structural solutions
+  necessary to address this crisis. Within the 12-month grant period, we aim to
+  produce the following outputs: • Host one LEAP meeting per month for a total
+  of 12 meetings; • Train at least five LEAP members on how to lead campaigns on
+  the texting platform; • Lead one texting advocacy campaign per month,
+  following training and the launch of the platform, for a total of 10 text
+  campaigns; • Engage LEAP members in 1-5 speaking events per month for a total
+  of 12-60 events; • Send at least 500 initial texts and 250 text responses per
+  advocacy campaign for a total of 22,500 texts; and • Engage at least 500
+  individuals.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '520'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '5000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Union Station seeks to provide meaningful avenues for all community members to
   engage in the civic process and contribute to the development of a more

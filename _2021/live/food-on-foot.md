@@ -24,7 +24,7 @@ project_description: >-
   accomplishments permanent. Food on Foot clients are determined to succeed and
   bring with them incredible drive and enthusiasm. With the support of Food on
   Foot, over 85% of the individuals served maintain housing and full-time
-  employment for at least 12 months after graduation. 
+  employment for at least 12 months after graduation.
 category: live
 connect_metrics: ''
 create_metrics: ''
@@ -49,7 +49,7 @@ What is the problem that you are seeking to address?: >-
   housing and long-term employment. According to Los Angeles Homeless Services
   Authority, in 2020 the City of LA experienced a 16% increase in people
   experiencing homelessness while the County of Los Angeles experienced a 13%
-  increase during the same time (compared with 2019). 
+  increase during the same time (compared with 2019).
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Food on Foot is helping individuals heal from the demoralizing and
   traumatizing experiences of living in streets and shelters. The program
@@ -63,13 +63,13 @@ What is the problem that you are seeking to address?: >-
   job opportunities and to secure permanent housing (market-rate studio
   apartments). Once gainfully employed, Food on Foot enables participants to
   move into their own apartment and subsidizes their rent and all basic expenses
-  for up to twelve months  while allowing participants to save their own funds.
+  for up to twelve months while allowing participants to save their own funds.
   During this initial period, participants receive intensive support, case
   management, and financial subsidies to help them get back on their feet. After
   the first year in the program, participants have not only successfully shifted
   their own personal and professional trajectory, but have also begun mentoring
   other program participants that are just beginning to embark on their own
-  journey off the streets. 
+  journey off the streets.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Since 1997, Food on Foot has demonstrated an over 85% success rate for
   transitioning formerly homeless individuals back into the stability of
@@ -84,22 +84,23 @@ What is the problem that you are seeking to address?: >-
   because of the personalized services that our staff and volunteers provide to
   clients. FoF goes beyond case management and housing/employment placement to
   ensure that each individual has the unique resources that he/she needs for
-  success.   
+  success.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '100'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '10000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Homelessness is one of the most pressing social issue in the Los Angeles
   region. By addressing the root of homelessness we lift up our neighbors and
   the community as a whole. In the past ten years alone, Food on Foot has served
   nearly 100,000 hot meals, including 11,500 meals in 2020 alone. The agency has
   added millions of dollars to the economy via productivity (wages earned) in
-  that time period and  saves taxpayers approximately $9.5 million a year, based
+  that time period and saves taxpayers approximately $9.5 million a year, based
   on a recent report that calculated that emergency room visits,
   arrests/incarceration, and other publicly funded services cost $38,146 per
   year per homeless individual. Food on Foot sees that once a person is
   motivated to improve their life and receives the right support and resources,
   they will most likely maintain their housing and employment. As a trusted name
   in Los Angeles, Food on Foot continues to pioneer innovative solutions to help
-  people help themselves back into permanent housing and long-term employment. 
+  people help themselves back into permanent housing and long-term employment.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or

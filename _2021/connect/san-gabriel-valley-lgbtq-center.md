@@ -15,8 +15,8 @@ organization_facebook: 'https://www.facebook.com/SGVLGBTQ'
 organization_instagram: '@sgvlgbtq'
 Describe the mission of your organization.: >-
   To promote a safe and inclusive San Gabriel Valley for all people of all
-  orientations and gender identities; ​  To foster advocacy, education, and
-  respect for individuals;  To provide resources which encourage cultural
+  orientations and gender identities; ​ To foster advocacy, education, and
+  respect for individuals; To provide resources which encourage cultural
   diversity, healthy living, and full achievement of personal potential
 project_description: >-
   The LGBTQ+ Center lost its physical space in 2020 due to the Covid-19
@@ -26,7 +26,7 @@ project_description: >-
   It will also provide resources for those who need emergency services and/or
   healthcare referrals. The space will provide trainings for numerous causes,
   including safe space training, ally-support, family-support, and healthy
-  living training. 
+  living training.
 category: connect
 connect_metrics: 'Social and emotional support, Volunteerism, LGBTQ+ equity and inclusion'
 create_metrics: ''
@@ -48,9 +48,9 @@ What is the problem that you are seeking to address?: >-
   physical safe space, where there is otherwise none. The SGV needs this now
   more than ever given the rise in attacks aimed at people of color and the
   LGBTQ+ community. SGV residents are predominantly those of Latinx (45%) and
-  Asian (28%) descent.  The SGV LGBTQ+ Center serves a unique population in
-  terms of both geography and demographics. We are a unique community and
-  require a safe space to meet our unique needs. 
+  Asian (28%) descent. The SGV LGBTQ+ Center serves a unique population in terms
+  of both geography and demographics. We are a unique community and require a
+  safe space to meet our unique needs.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Building Pride seeks to provide a physical location for the San Gabriel Valley
   LGBTQ+ community. The location will be a safe space to connect with peers,
@@ -60,38 +60,39 @@ What is the problem that you are seeking to address?: >-
   LGBTQ+ specific services such as health screenings, and to serve as an
   emergency haven in the event it is needed. Many LGBTQ youth live in unsafe
   homes due to bigotry. Building Pride will give them a space to be their
-  authentic selves without fear.   There is a desire to coordinate and
-  strengthen the community in the SGV as we are currently working on
-  collaborations with SGV Pride, Free Mom Hugs, Planned Parenthood, and the
-  excellent local school districts of Arcadia, Alhambra, El Monte, Monterey
-  Park, Rosemead, San Marino, San Gabriel, South Pasadena, and Temple City. This
-  is critically important for youths who are only open about their sexual
-  orientation at school and to their friends. With a physical location, we will
-  also have a safe space to protect them from unsafe home lives, be able to talk
-  about preventing suicide, and teach parents how to support their children. We
-  would be able to expand on our already successful senior groups and establish
-  mentor/mentee programs. Lastly, a permanent home tells those who want us to
-  disappear that we are not going anywhere. 
+  authentic selves without fear. There is a desire to coordinate and strengthen
+  the community in the SGV as we are currently working on collaborations with
+  SGV Pride, Free Mom Hugs, Planned Parenthood, and the excellent local school
+  districts of Arcadia, Alhambra, El Monte, Monterey Park, Rosemead, San Marino,
+  San Gabriel, South Pasadena, and Temple City. This is critically important for
+  youths who are only open about their sexual orientation at school and to their
+  friends. With a physical location, we will also have a safe space to protect
+  them from unsafe home lives, be able to talk about preventing suicide, and
+  teach parents how to support their children. We would be able to expand on our
+  already successful senior groups and establish mentor/mentee programs. Lastly,
+  a permanent home tells those who want us to disappear that we are not going
+  anywhere.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   We will define success if we establish a physical location by August 2022. Our
   other metrics of success would be to expand our peer support groups in both
   number of groups and attendance. Doubling the overall number of participants
-  in peer support groups by August 2022 would be a huge success.   We conducted
-  a community needs assessment for the SGV LGBTQ Community. We received hundreds
+  in peer support groups by August 2022 would be a huge success. We conducted a
+  community needs assessment for the SGV LGBTQ Community. We received hundreds
   of responses from the diverse population of LGBTQ individuals. Overall, there
   was significant desire for a physical LGBTQ Center. Our metric of success for
-  this is whether or not we have that physical location by August 2022.   The
+  this is whether or not we have that physical location by August 2022. The
   survey also revealed that the SGV LGBTQ seniors desire a physical location to
   foster connection and a broader sense of community. We have over 60 seniors
   that participate in our virtual programs. This aspect has two metrics for
   success: do we have 120 seniors actively engaging in our programs per month
   and have we successfully launched our intergenerational mentoring program.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '10000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '100000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   With a physical safe space location for the LGBTQ+ Community in the San
   Gabriel Valley, Los Angeles County will continue to be a shining light of
-  progress and acceptance.   Our physical space will serve the immediate needs
-  of the community. This includes physical personal safety, physical and mental
+  progress and acceptance. Our physical space will serve the immediate needs of
+  the community. This includes physical personal safety, physical and mental
   health needs, and communal fellowship. By creating a space where if someone is
   in a harmful situation, they can get the help they need to extricate
   themselves from that situation. The SGV LGBTQ+ Center has an amazing working

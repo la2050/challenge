@@ -15,7 +15,7 @@ organization_twitter: '@getlitpoet'
 organization_facebook: www.facebook.com/getlitpoet
 organization_instagram: '@getlitpoet'
 Describe the mission of your organization.: >-
-  Get Lit  - Words Ignite fuses classic and spoken word poetry to increase teen
+  Get Lit - Words Ignite fuses classic and spoken word poetry to increase teen
   literacy on the page and in visual media. We cultivate enthusiastic learners
   emboldened to inspire social consciousness in diverse communities,
   transforming students into artists, activists, scholars, and stars.
@@ -51,7 +51,7 @@ What is the problem that you are seeking to address?: >-
   pandemic’s traumatic effect on our students, teachers, and schools,
   interrupting the education of those already struggling, widening the
   achievement gap between economic strata, and creating skyrocketing rates of
-  depression among isolated youth.  Uni(verse) offers youth a straightforward
+  depression among isolated youth. Uni(verse) offers youth a straightforward
   entry into literacy and self-expression. It provides academic rigor and
   structure that many online learning programs lack, with opportunities for
   intellectual challenges, feedback, discussion, meaningful connection, and
@@ -92,6 +92,7 @@ What is the problem that you are seeking to address?: >-
   overall depth of learning. Evidence of our impact will include significant
   improvement in students’ attendance, grades, and literacy after participation.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '48000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '800000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Uni(verse) reimagines the student experience for L.A. youth, will transform
   the format of education, and will improve literacy on a broad scale. It will

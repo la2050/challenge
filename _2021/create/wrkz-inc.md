@@ -6,9 +6,9 @@ title: >-
   participants motivation with committed resources.
 organization_description: Nonprofit
 project_video: 'https://youtu.be/ZVsqFmxonag'
-link_donate: 'https://www.gofundme.com/f/wrkz-incorporated'
+link_donate: 'https://pushpay.com/g/wrkzlosangeles?src=hpp'
 link_volunteer: 'https://www.wrkz.org/contact'
-link_newsletter: 'https://www.wrkz.org/contact'
+link_newsletter: 'http://wrkz.org/'
 ein: '832513325'
 organization_name: 'Wrkz, Inc.'
 mailing_address_zip: '90018'
@@ -47,7 +47,7 @@ What is the problem that you are seeking to address?: >-
   living in cities with high crime rates and violence. These cycles are
   recurring in our communities, resulting in few positive role models for our
   youth to be led by. Each generation is left to start from ground zero, toiling
-  to figure out the ropes on their own. 
+  to figure out the ropes on their own.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Wrkz, Inc is a mentorship program that serves young adults ages 17 to 30 years
   old in the inner cities of Los Angeles. Our growing community of mentors,
@@ -67,7 +67,7 @@ What is the problem that you are seeking to address?: >-
   participants find accountability and healing through each other and the
   support from our trained staff. Providing mental health support for our
   participants is pivotal to our mission as we strive to remove mental barriers
-  that stop momentum towards their career goals.  Sessions are currently virtual
+  that stop momentum towards their career goals. Sessions are currently virtual
   per covid-19.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   We will be successful if mentors and mentees engage in collaboration, if
@@ -83,6 +83,7 @@ What is the problem that you are seeking to address?: >-
   artifact a valuable asset for the company a long with feedback for the improve
   of the program.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '12'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '24'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Within our ecosystem of support and resources, our aim is to eliminate the
   toil in searching for opportunities and allow our participants to lock in on

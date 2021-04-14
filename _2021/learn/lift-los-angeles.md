@@ -42,12 +42,12 @@ In which areas of Los Angeles will you be directly working?:
   idea)
 What is the problem that you are seeking to address?: >-
   “I’ve met other student parents who face my same struggles. I feel less alone,
-  and I really feel like I belong in school now.” Charmaine, LAVC Student
-  Parent   Helping families build careers is a key lever in disrupting
-  intergenerational poverty. Education is a common barrier to career goals and
-  higher levels of income. Student parents graduate at less than half the rate
-  of their non-parenting peers. For mothers, completion rates within six years
-  are between 8% and 18% (respectively for single moms and moms from two-parent
+  and I really feel like I belong in school now.” Charmaine, LAVC Student Parent
+  Helping families build careers is a key lever in disrupting intergenerational
+  poverty. Education is a common barrier to career goals and higher levels of
+  income. Student parents graduate at less than half the rate of their
+  non-parenting peers. For mothers, completion rates within six years are
+  between 8% and 18% (respectively for single moms and moms from two-parent
   households), compared to 49% for women who are not caregivers. Single mothers
   are more likely to take a break from their studies due to lack of equitable
   supports and the financial stress of being a parent. When they do complete
@@ -59,32 +59,32 @@ What is the problem that you are seeking to address?: >-
   This unique program offers student parents a comprehensive network of supports
   through LIFT’s 1:1 coaching and support provided by LAVC’s Family Resource
   Center. This integrated and holistic approach addresses the complex roots of
-  poverty and systemic barriers to higher education. Specifically: 
-  Financial capabilities: LIFT-LA coaches help members bolster their money
-  management skills and connect them to supports to address their basic needs.
-  Members work to build a budget, reduce debt, improve credit, build savings,
-  and secure family-sustaining careers. LAVC student parents have access to the
-  supportive services at the FRC; as well as short-term workforce training
-  academies that lead to meaningful and living wage careers, participants can
-  access non-credit courses focused on 21st Century employability skills. 
-  Personal well-being: LIFT-LA works with members to improve their self-efficacy
-  and resilience, enabling them to better protect their families from poverty’s
-  detrimental effects. The FRC provides parents with parenting classes. An FRC
-  dedicated social worker and family therapist support and provide opportunities
-  for students to build social capital. Children of students also receive
-  services.  Social connections: LIFT-LA fosters a safe space for members to
-  develop healthy peer-peer and member-community relationships to build social
-  capital. The FRC is a community of its own that offers events, workshops, and
-  a virtual chatroom where student parents can connect.
+  poverty and systemic barriers to higher education. Specifically: Financial
+  capabilities: LIFT-LA coaches help members bolster their money management
+  skills and connect them to supports to address their basic needs. Members work
+  to build a budget, reduce debt, improve credit, build savings, and secure
+  family-sustaining careers. LAVC student parents have access to the supportive
+  services at the FRC; as well as short-term workforce training academies that
+  lead to meaningful and living wage careers, participants can access non-credit
+  courses focused on 21st Century employability skills. Personal well-being:
+  LIFT-LA works with members to improve their self-efficacy and resilience,
+  enabling them to better protect their families from poverty’s detrimental
+  effects. The FRC provides parents with parenting classes. An FRC dedicated
+  social worker and family therapist support and provide opportunities for
+  students to build social capital. Children of students also receive services.
+  Social connections: LIFT-LA fosters a safe space for members to develop
+  healthy peer-peer and member-community relationships to build social capital.
+  The FRC is a community of its own that offers events, workshops, and a virtual
+  chatroom where student parents can connect.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
-  LIFT and LAVC will measure success using the following metrics:    Of our
+  LIFT and LAVC will measure success using the following metrics: Of our
   meaningfully engaged members, 90% will persist or progress in employment,
-  finances, or education. Specifically:    - 50% will persist or progress in
-  employment - 70% will persist or progress in finances - 50% will persist or
-  progress in education - 45% will improve their personal well-being - 80% of
+  finances, or education. Specifically:  - 50% will persist or progress in
+  employment - 70% will persist or progress in finances - 50% will persist or
+  progress in education - 45% will improve their personal well-being - 80% of
   student parents will successfully complete each semester of this grant - 70%
   of students will receive a certificate in a non-credit 21st Century Skills or
-  Parenting Course.    Our vision for success in this project is that student
+  Parenting Course. Our vision for success in this project is that student
   parents will be given the resources they need to enroll in classes, achieve
   their academic goals, persist in their education journey, while getting
   support that is attuned to their non-academic and unique needs to break the
@@ -92,6 +92,7 @@ What is the problem that you are seeking to address?: >-
   secure employment, increasing their income, and improving their overall
   well-being.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '50'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '200'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Student parents are challenged by demanding roles placed on them by academic
   and family responsibilities, and services targeting their success are rare.

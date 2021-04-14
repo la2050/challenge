@@ -41,17 +41,17 @@ What is the problem that you are seeking to address?: >-
   The program’s primary goal is to reduce the inequality in education in the
   historically disadvantaged community of East LA. School funding has
   consistently fallen behind the LAUSD average & as community advocates, we feel
-  compelled to help create & develop the resources our students lack.  Providing
+  compelled to help create & develop the resources our students lack. Providing
   our participants with both group & one-on-one tutoring has proven to be a
   catalyst in helping each participant increase their reading & math proficiency
   &, as a result, an increase of their overall GPA. Our program focuses on
-  engaging high risk youth in the community including foster youth.  The need
+  engaging high risk youth in the community including foster youth. The need
   became especially acute during the on-line learning environment. Prior to the
   switch, our youth consistently increased their grade point averages. However,
   with the switch to an on-line learning environment, many had none or limited
   access to wi-fi & were unable to keep pace with their courses. For those that
   had wi-fi, we found they lacked the structure that our learning model
-  provided. 
+  provided.
 'Describe the project, program, or initiative that this grant will support to address the problem identified.': >-
   Our existing program provides a structured learning model that includes both
   group and one-on-one tutoring. Most importantly, a group that supports and
@@ -60,13 +60,12 @@ What is the problem that you are seeking to address?: >-
   as volunteers. As adult members of their households, they are expected to
   contribute to the family's living expenses and are forced to take on paying
   jobs. This grant would help our program provide these tutors with a living
-  wage so that they can continue to work with us.  Our current student to tutor
+  wage so that they can continue to work with us. Our current student to tutor
   ratio is 10 to 1. With additional tutors, we can reduce the ratio and focus on
   more one-on-one tutoring, where we see the most improvement. Our need became
   more critical in the current on-line learning environment for two reasons.
   First, it is more challenging to engage participants when they are in a group
-  setting online. Secondly, many of our students lacked consistent wi-fi
-  access. 
+  setting online. Secondly, many of our students lacked consistent wi-fi access.
 'What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?': >-
   Initial acceptance into the program requires that each participant submit
   their most recent GPA & test scores; both verified by their school counselor.
@@ -77,25 +76,25 @@ What is the problem that you are seeking to address?: >-
   points for small items (i.e., t-shirt or hat) or they can accumulate a larger
   number of points to redeem towards larger items like a skateboard deck or fees
   to enter a skateboarding competition. We also reward A-graded individual
-  school projects & increased test scores.   Our current high school graduation
+  school projects & increased test scores. Our current high school graduation
   rate is approx 79% with the majority of our participants enrolling in
   community colleges, Cal State or UC schools. During the current on-line
   learning environment, we increased initial participation by 200% & have a 100%
   retention rate.
 'Approximately how many people will be directly impacted by this project, program, or initiative?': '2000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '10000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Our measure of success is to increase our current high school rate of
   graduation among participants from 79% to 100% with the help of additional
   mentors/tutors. Of those who graduate from our program, we expect to continue
   to have them move into higher education via the community college and CalState
   and UC systems but we are also working to develop our reach into local trade
-  and vocation programs.  In addition to the educational aspect of our mentoring
+  and vocation programs. In addition to the educational aspect of our mentoring
   program, we also require that each participant volunteer in the community via
   trash pick up and graffiti removal events and our Food Bank Fridays and daily
-  food pantry, which feed an approximate 500+ families.  Our program aims to
+  food pantry, which feed an approximate 500+ families. Our program aims to
   generate a generation of education-focused, business-minded and
-  community-based young men and women. An "All for One and One for All"
-  mindset. 
+  community-based young men and women. An "All for One and One for All" mindset.
 Describe the role of collaborating organizations on this project.: ''
 Which of LA2050’s resources will be of the most value to you?: >-
   Access to the LA2050 community,Hosting virtual events or gatherings,Strategy
@@ -109,6 +108,6 @@ Indicate any additional LA2050 goals your project will impact.:
   - LA is the best place to PLAY
 year: 2021
 filename: the-urban-warehouse
-order: 74
+order: 75
 
 ---
