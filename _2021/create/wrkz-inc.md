@@ -2,7 +2,7 @@
 application_id: 0524932002
 title: >-
   Wrkz is a mentorship program that allow its participants to learn more about
-  themselves while being equipped to pursue their career. We match out
+  themselves while being equipped to pursue their career. We match our
   participants motivation with committed resources.
 organization_description: Nonprofit
 project_video: 'https://youtu.be/ZVsqFmxonag'
