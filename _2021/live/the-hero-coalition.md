@@ -20,14 +20,7 @@ Describe the mission of your organization.: >-
   forms. By using evidence-based psychology + relatable stories and characters
   people love, we transform struggles into strengths.
 project_description: >-
-  Mental health matters. We turn struggles into strengths. The Hero Coalition
-  will expand our work to provide free, evidence-based, mental health support in
-  ways kids, teens & adults can relate to: •The Heroic Journey @Home •The Heroic
-  Journey in YMCAs, schools, community centers •SuperKids: 1st-ever interactive
-  mental health comic book, for hospitalized kids experiencing loneliness,
-  anxiety, depression, fear •Lights, Camera, Identity! Never Alone comic book
-  for bullied LGBTQ youth •Honest Conversations: free webinars & trainings
-  w/psychologists
+  Turning kids’ struggles into strengths, The Hero Coalition’s mental health programs in Spanish and English will impact over 200,000 children, teens, and parents in 2021. Created by psychologists and co-powered by youth, these interactive programs – in LA homes, schools, and community centers - build resilience, empathy, inclusion, nonviolent conflict resolution, and family communication skills. We teach crucial, evidence-based tools to navigate racism, depression, anxiety, anger, grief, shame, and fear. Our work - free of charge - also takes preventative action against despair, loneliness, and pain, which can lead to suicide, self-harm, and addiction.
 category: live
 connect_metrics: ''
 create_metrics: ''
