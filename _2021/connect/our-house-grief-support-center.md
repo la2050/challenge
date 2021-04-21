@@ -20,11 +20,10 @@ Describe the mission of your organization.: >-
   after the death of someone close. Our vision is to create a world in which
   grief is embraced, understood, and respected.
 project_description: >-
-  Los Angeles is grieving. More than 23,000 people in Los Angeles County have
+  Los Angeles is grieving. More than 23,000 people in our community have
   died from COVID-19, and countless others have been impacted by accidents,
   cancer, heart disease, and an increasing number of homicides, suicides, and
-  drug-induced deaths. OUR HOUSE Grief Support Center helps grieving individuals
-  and families find hope and healing in English and Spanish after the death of
+  drug-induced deaths. OUR HOUSE Grief Support Center helps grieving children, teens, and adults find hope and healing in English and Spanish after the death of
   someone close through grief support groups, education, and resources. All
   programs are currently offered online to support and connect grievers during
   the pandemic.
