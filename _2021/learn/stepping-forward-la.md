@@ -4,7 +4,7 @@ title: >-
   Our new app helps youth in foster care design exciting futures with a
   supportive community
 organization_description: A fiscally sponsored group
-project_video: 'https://www.youtube.com/watch?v=LRPQG0ph670&ab_channel=BethRyan'
+project_video: 'https://youtu.be/2yKIPWiKvmI'
 link_donate: 'https://www.steppingforwardla.org/donate'
 link_volunteer: 'https://www.steppingforwardla.org/volunteer-online-resource-center'
 link_newsletter: 'https://www.steppingforwardla.org/contact'
