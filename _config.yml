@@ -28,6 +28,10 @@ redirect_entries_url: https://archive.la2050.org/search/?keywords=2020
 
 image_host: "https://images.la2050.org/challenge"
 
+# language: en
+language: es
+
+
 
 NEW_CHALLENGE_ANNOUNCED: 1
 ENTRIES_BEING_ACCEPTED: 2
