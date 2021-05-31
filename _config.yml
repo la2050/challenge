@@ -66,10 +66,10 @@ VOTING_PERIOD_ENDED_TIME:          5pm Pacific Time
 # phase: 3
 
 # Entries shown on the website: 
-phase: 4
+# phase: 4
 
 # Finalists announced: 
-# phase: 5
+phase: 5
 
 # Votes being accepted: 
 # phase: 6
