@@ -49,7 +49,19 @@ stylesheets:
       <a href="/" class="logo">
         {% include logotype.html %}
       </a>
-      <p>It’s time to vote! You can vote for one finalist in each of the five goal categories, for a <em style="color: inherit; font-weight: inherit; font-style: inherit; text-decoration: underline;">total of five votes</em>.</p>
+      <p>
+        {% if site.language == "es" %}
+          ¡Es hora de votar! Puede votar por un finalista en cada una de las cinco categorías de objetivos, por un 
+          <em style="color: inherit; font-weight: inherit; font-style: inherit; text-decoration: underline;">
+            total de cinco votos
+          </em>.
+        {% else %}
+          It’s time to vote! You can vote for one finalist in each of the five goal categories, for a
+          <em style="color: inherit; font-weight: inherit; font-style: inherit; text-decoration: underline;">
+            total of five votes
+          </em>.
+        {% endif %}
+      </p>
       <p>
         <a href="#questions">
           <svg style="padding: 0.5em;
