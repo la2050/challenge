@@ -1,2 +1,4 @@
 
 language: es
+
+voting_test_mode: true
