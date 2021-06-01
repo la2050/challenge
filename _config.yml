@@ -96,7 +96,7 @@ voting_enable_email: true
 voting_enable_facebook: false
 
 voting_maintance_mode: false
-voting_test_mode: false
+voting_test_mode: true
 
 voting_strict_mode: false
 
