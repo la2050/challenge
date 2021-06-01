@@ -43,7 +43,7 @@ LA2050 is a community-guided initiative driving and tracking progress toward a s
 
 We need your help to turn the [LA2050 goals and metrics](/about/#goals) into action.
 
-<strong>A total of $1,000,000 will be awarded among 25 organizations</strong> to implement their proposals. Each organization will receive grant funds and [partnership from LA2050](/about/#la2050-partnership) to support its efforts. We are also grateful to offer additional awards from our incredible [2021 My LA2050 funding partners](https://challenge.la2050.org/partners/).
+<strong>A total of $1,000,000 will be awarded among 25 organizations</strong> to implement their proposals. Each organization will receive grant funds and [partnership from LA2050](/about/#la2050-partnership) to support its efforts. We are also grateful to offer additional awards from our incredible [2021 My LA2050 funding partners](/partners/).
 
 <p markdown="1" style="margin-top: 1.5em; margin-bottom: 0;">In each of the five [goal categories](/about/#goals), the awards will be…</p>
 <section class="awards" markdown="1">
