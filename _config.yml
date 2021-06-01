@@ -66,10 +66,10 @@ VOTING_PERIOD_ENDED_TIME:          5pm Pacific Time
 # phase: 3
 
 # Entries shown on the website: 
-phase: 4
+# phase: 4
 
 # Finalists announced: 
-# phase: 5
+phase: 5
 
 # Votes being accepted: 
 # phase: 6
@@ -132,233 +132,115 @@ collections:
 
 finalists:
 
-  # Learn
+  # Connect
 
-  # 1)
-  # artworxLA
-  - /2021/learn/artworxla/
+  # 1) Center for Restorative Justice Works
+  - /2021/connect/center-for-restorative-justice-works/
 
   # 2)
-  # Junior Achievement of Southern California
-  - /2021/learn/junior-achievement-of-southern-california/
+  # Children Now
+  - /2021/connect/children-now/
 
   # 3)
-  # Building Blocks for Kids
-  - /2021/learn/building-blocks-for-kids/
+  # human-I-T
+  - /2021/connect/human-i-t/
 
   # 4)
-  # Acceler8
-  - /2021/learn/acceler8/
+  # Los Angeles Center for Law and Justice
+  - /2021/connect/los-angeles-center-for-law-and-justice/
 
   # 5)
-  # Griffith Observatory Foundation
-  - /2021/learn/griffith-observatory-foundation/
+  # The Civics Center
+  - /2021/connect/the-civics-center/
 
 
   # Create
 
   # 1)
-  # Reel Start
-  - /2021/create/reel-start/
+  # Covenant House California
+  - /2021/create/covenant-house-california/
 
   # 2)
-  # Las Fotos Project
-  - /2021/create/las-fotos-project/
-
-  # 3)
-  # On The Go LA
-  - /2021/create/on-the-go-la/
-
-  # 4)
   # Fund for Guaranteed Income (F4GI)
   - /2021/create/fund-for-guaranteed-income-f4gi/
 
-  # 5)
-  # Social Justice League
-  - /2021/create/social-justice-league/
-
-
-  # Play
-
-  # 1)
-  # Sprouts of Promise
-  - /2021/play/sprouts-of-promise/
-
-  # 2)
-  # Integrated Recovery Network
-  - /2021/play/integrated-recovery-network/
-
   # 3)
-  # Southern California Committee for the Olympic Games
-  - /2021/play/southern-california-committee-for-the-olympic-games/
+  # Las Fotos Project
+  - /2021/create/las-fotos-project/
 
   # 4)
-  # Nature for All
-  - /2021/play/nature-for-all/
+  # On The Go LA
+  - /2021/create/on-the-go-la/
 
   # 5)
-  # Street Soccer USA
-  - /2021/play/street-soccer-usa/
+  # People's Pottery Project
+  - /2021/create/peoples-pottery-project/
 
-
-  # Connect
-
-  # 1)
-  # commuteLAX (Los Angeles World Airports)
-  - /2021/connect/commutelax-los-angeles-world-airports/
-
-  # 2)
-  # UCLA Volunteer Center
-  - /2021/connect/ucla-volunteer-center/
-
-  # 3)
-  # Los Angeles Choral Lab (LACL)
-  - /2021/connect/los-angeles-choral-lab-lacl/
-
-  # 4)
-  # NOW Art
-  - /2021/connect/now-art/
-
-  # 5)
-  # Generation Connect
-  - /2021/connect/generation-connect/
-
-
-  # Live
-
-  # 1)
-  # Garden School Foundation
-  - /2021/live/garden-school-foundation/
-
-  # 2)
-  # YWCA of the Harbor Area
-  - /2021/live/ywca-of-the-harbor-area/
-
-  # 3)
-  # Los Angeles Room & Board
-  - /2021/live/los-angeles-room-board/
-
-  # 4)
-  # The RightWay Foundation
-  - /2021/live/the-rightway-foundation/
-
-  # 5)
-  # Foster Nation
-  - /2021/live/foster-nation/
-
-
-winners:
 
   # Learn
 
   # 1)
-  # artworxLA
-  - /2021/learn/artworxla/
+  # Alliance in Mentorship / MiMentor
+  - /2021/learn/alliance-in-mentorship-mimentor/
 
   # 2)
-  # Junior Achievement of Southern California
-  - /2021/learn/junior-achievement-of-southern-california/
+  # DIY Girls
+  - /2021/learn/diy-girls/
 
   # 3)
-  # Building Blocks for Kids
-  - /2021/learn/building-blocks-for-kids/
+  # New Earth
+  - /2021/learn/new-earth/
 
   # 4)
-  # Acceler8
-  - /2021/learn/acceler8/
+  # Rivet School
+  - /2021/learn/rivet-school/
 
   # 5)
-  # Griffith Observatory Foundation
-  - /2021/learn/griffith-observatory-foundation/
-
-
-  # Create
-
-  # 1)
-  # Reel Start
-  - /2021/create/reel-start/
-
-  # 2)
-  # Las Fotos Project
-  - /2021/create/las-fotos-project/
-
-  # 3)
-  # On The Go LA
-  - /2021/create/on-the-go-la/
-
-  # 4)
-  # Fund for Guaranteed Income (F4GI)
-  - /2021/create/fund-for-guaranteed-income-f4gi/
-
-  # 5)
-  # Social Justice League
-  - /2021/create/social-justice-league/
-
-
-  # Play
-
-  # 1)
-  # Sprouts of Promise
-  - /2021/play/sprouts-of-promise/
-
-  # 2)
-  # Integrated Recovery Network
-  - /2021/play/integrated-recovery-network/
-
-  # 3)
-  # Southern California Committee for the Olympic Games
-  - /2021/play/southern-california-committee-for-the-olympic-games/
-
-  # 4)
-  # Nature for All
-  - /2021/play/nature-for-all/
-
-  # 5)
-  # Street Soccer USA
-  - /2021/play/street-soccer-usa/
-
-
-  # Connect
-
-  # 1)
-  # commuteLAX (Los Angeles World Airports)
-  - /2021/connect/commutelax-los-angeles-world-airports/
-
-  # 2)
-  # UCLA Volunteer Center
-  - /2021/connect/ucla-volunteer-center/
-
-  # 3)
-  # Los Angeles Choral Lab (LACL)
-  - /2021/connect/los-angeles-choral-lab-lacl/
-
-  # 4)
-  # NOW Art
-  - /2021/connect/now-art/
-
-  # 5)
-  # Generation Connect
-  - /2021/connect/generation-connect/
+  # The SEED School of Los Angeles County
+  - /2021/learn/the-seed-school-of-los-angeles-county/
 
 
   # Live
 
   # 1)
-  # Garden School Foundation
-  - /2021/live/garden-school-foundation/
+  # City Plants
+  - /2021/live/city-plants/
 
   # 2)
-  # YWCA of the Harbor Area
-  - /2021/live/ywca-of-the-harbor-area/
+  # End Homelessness California DBA The Shower of Hope
+  - /2021/live/end-homelessness-california-dba-the-shower-of-hope/
 
   # 3)
-  # Los Angeles Room & Board
-  - /2021/live/los-angeles-room-board/
+  # Healing California
+  - /2021/live/healing-california/
 
   # 4)
-  # The RightWay Foundation
-  - /2021/live/the-rightway-foundation/
+  # Western Center on Law & Poverty
+  - /2021/live/western-center-on-law-poverty/
 
   # 5)
-  # Foster Nation
-  - /2021/live/foster-nation/
+  # Westside Pacific Villages
+  - /2021/live/westside-pacific-villages/
+
+
+  # Play
+
+  # 1)
+  # Angel City Sports
+  - /2021/play/angel-city-alliance/
+
+  # 2)
+  # CicLAvia
+  - /2021/play/ciclavia/
+
+  # 3)
+  # Color the Water
+  - /2021/play/color-the-water/
+
+  # 4)
+  # East Side Rider's Bike Club
+  - /2021/play/east-side-riders-bike-club/
+
+  # 5)
+  # Sloane Stephens Foundation
+  - /2021/play/sloane-stephens-foundation/
