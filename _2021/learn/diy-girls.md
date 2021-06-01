@@ -90,8 +90,8 @@ What is the problem that you are seeking to address?: >-
   80% want to participate in more engineering and technology activities and 82%
   reported thinking about different ways to solve a problem to come up with the
   best solution.
-'Approximately how many people will be directly impacted by this project, program, or initiative?': '11'
-'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '354'
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '354'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '230'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Our vision for success is best illustrated by 4 girls from our first program
   at Telfair Elementary School in 2012. Lori, April, Marisol, and Maritza all
