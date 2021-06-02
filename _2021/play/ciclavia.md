@@ -1,6 +1,6 @@
 ---
 application_id: '6530489647'
-title: 'WakLAvia - Powered by CicLAvia, LA Forward, and Los Angeles Walks'
+title: 'WalkLAvia - Powered by CicLAvia, LA Forward, and Los Angeles Walks'
 organization_description: Nonprofit
 project_video: ''
 link_donate: www.ciclavia.org/donations
@@ -18,6 +18,10 @@ Describe the mission of your organization.: >-
   transportation, and good health through car-free open street events. CicLAvia
   engages with people throughout Southern California to transform our
   relationship with our communities and with each other.
+  
+  LA Forward works for a city where everyone has the knowledge to participate effectively in local democracy, the skills to build civic relationships within and across neighborhoods, and the power to ensure our political system puts common needs above special interests.
+
+Los Angeles Walks' mission is to train and mobilize Angelenos to advocate for safe, accessible, and equitable walking environments in neighborhoods across Los Angeles. We amplify the voices of those most immediately impacted by traffic collisions and educate local policymakers concerning the rights and needs of pedestrians of all abilities. For us, a walkable LA is a just LA. 
 project_description: >-
   WalkLAvia is a dedicated week for Angelenos to get back outside and have fun
   together! Designed to address the social and emotional toll of the COVID-19
