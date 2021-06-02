@@ -48,29 +48,35 @@
 {% elsif site.phase == site.FINALISTS_ANNOUNCED %}
 
     <p>
-      The finalists have been announced!
+      {% include translate.html text="The finalists have been announced!" %}
       <span class="avoid-break">
         {% if site.voting_postponed == true %}
           <a href="/vote/#postponed">Public voting has been postponed</a>
           until
         {% else %}
-          <a href="/vote/">Public voting</a>
-          begins on
+          <a href="/vote/">{% include translate.html text="Public voting" %}</a>
+          {% include translate.html text="begins on" %}
         {% endif %}
         <span class="avoid-break">
-          <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
+          <strong>
+            {% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE %}
+          </strong>.
         </span>
       </span>
     </p>
 
     <p class="action">
-      <a href="/finalists/">Check out the finalists!</a>
+      <a href="/finalists/">{% include translate.html text="Check out the finalists!" %}</a>
     </p>
 
 {% elsif site.phase == site.VOTES_BEING_ACCEPTED %}
       <p>
-        We’re ready for you to <a href="/vote/">cast your votes</a>! 
-        <span class="avoid-break">Vote by {{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}.</span>
+        {% include translate.html text="We’re ready for you to" %}
+        <a href="/vote/">{% include translate.html text="cast your votes" %}</a>! 
+        <span class="avoid-break">
+          {% include translate.html text="Vote by" %}
+          {% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE %}.
+        </span>
       </p>
 
       {% if page.layout == "project" and page.category %}
@@ -79,7 +85,7 @@
       </p>
       {% else %}
       <p class="action action--short-text">
-        <a href="/vote/form/">I’m ready to vote</a>
+        <a href="/vote/form/">{% include translate.html text="I’m ready to vote" %}</a>
       </p>
       {% endif %}
 

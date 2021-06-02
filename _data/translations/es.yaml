@@ -6,8 +6,43 @@
 ? "Which proposal will make LA the best place to"
 : "¿Qué propuesta hará de Los Ángeles el mejor lugar para"
 
+# Goal categories
 "live": "vivir"
 "learn": "aprender"
 "connect": "conectarse"
 "play": "jugar"
 "create": "crear"
+
+# Day of the week
+"Monday": "Lunes"
+"Tuesday": "Martes"
+"Wednesday": "Miércoles"
+"Thursday": "Jueves"
+"Friday": "Viernes"
+"Saturday": "Sábado"
+"Sunday": "Domingo"
+
+# Months
+"January": "Enero"
+"February": "Febrero"
+"March": "Marzo"
+"April": "Abril"
+"May": "Mayo"
+"June": "Junio"
+"July": "Julio"
+"August": "Agosto"
+"September": "Septiembre"
+"October": "Octubre"
+"November": "Noviembre"
+"December": "Diciembre"
+
+# Promotion
+"Check out the finalists!": "¡Mira a los finalistas!"
+"The finalists have been announced!": "¡Se han anunciado los finalistas!"
+"Public voting": "Votación pública"
+"begins on": "comienza en"
+
+"I’m ready to vote": "Estoy listo para votar"
+"We’re ready for you to": Estamos listos para que tú
+"cast your votes": "emitir sus votos"
+"Vote by": "Vote antes del"
