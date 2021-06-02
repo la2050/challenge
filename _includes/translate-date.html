@@ -1,0 +1,13 @@
+{% if site.language == "es" -%}
+  {% capture day_of_week %}{{ include.date | date: "%A" }}{% endcapture %}
+  {% capture month %}{{ include.date | date: "%B" }}{% endcapture %}
+
+  {% include translate.html text=day_of_week %},
+  {{ include.date | date: "%-d" }}
+  de
+  {% include translate.html text=month %}
+  de
+  {{ include.date | date: "%Y" }}
+{%- else -%}
+  {{ include.date | date: "%A, %B %-d, %Y" }}
+{%- endif %}
