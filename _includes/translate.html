@@ -1,0 +1,5 @@
+{% if site.language == "en" -%}
+  {{ include.text }}
+{%- else -%}
+  {{ site.data.translations[site.language][include.text] }}
+{%- endif %}
