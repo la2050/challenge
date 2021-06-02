@@ -13,12 +13,12 @@
   {% assign navigation_items_count = 8 %}
 {% endif %}
 <ul class="has-{{ navigation_items_count }}-items">
-  <li {% if page.url == '/about/' %}     class="active" {% endif %}><a href="/about/">About</a></li>
-  <li {% if page.url == '/partners/' %}  class="active" {% endif %}><a href="/partners/">Partners</a></li>
+  <li {% if page.url == '/about/' %}     class="active" {% endif %}><a href="/about/">{% include translate.html text="About" %}</a></li>
+  <li {% if page.url == '/partners/' %}  class="active" {% endif %}><a href="/partners/">{% include translate.html text="Partners" %}</a></li>
   {% if site.phase >= site.WINNERS_ANNOUNCED %}
-  <li {% if page.url contains '/winners/' %}   class="active" {% endif %}><a href="/winners/">Winners</a></li>
+  <li {% if page.url contains '/winners/' %}   class="active" {% endif %}><a href="/winners/">{% include translate.html text="Winners" %}</a></li>
   {% elsif site.phase >= site.FINALISTS_ANNOUNCED %}
-  <li {% if page.url contains '/finalists/' %} class="active" {% endif %}><a href="/finalists/">Finalists</a></li>
+  <li {% if page.url contains '/finalists/' %} class="active" {% endif %}><a href="/finalists/">{% include translate.html text="Finalists" %}</a></li>
   {% endif %}
   {% if site.phase >= site.ENTRIES_BEING_ACCEPTED %}
   {% if site.phase >= site.ENTRIES_SHOWN_ON_THE_WEBSITE or site.show_early_entries == true %}
@@ -27,18 +27,13 @@
             page.url == '/create/' or 
             page.url == '/play/' or 
             page.url == '/connect/' or 
-            page.url == '/live/' %}      class="active" {% endif %}><a href="/entries/">Proposals</a></li>
+            page.url == '/live/' %}      class="active" {% endif %}><a href="/entries/">{% include translate.html text="Proposals" %}</a></li>
   {% endif %}
   {% endif %}
-  <li {% if page.url == '/submit/' %}    class="active" {% endif %}><a href="/submit/">Submit</a></li>
-  <li {% if page.url == '/vote/' %}      class="active" {% endif %}><a href="/vote/">Vote</a></li>
-  <li {% if page.url == '/timeline/' %}  class="active" {% endif %}><a href="/timeline/">Timeline</a></li>
-  {% comment %}
-  {% if include.is_footer_navigation == true %}
-  <li {% if page.url == '/media/' %}     class="active" {% endif %}><a href="/media/">Media</a></li>
-  {% endif %}
-  {% endcomment %}
-  <li {% if page.url == '/faqs/' %}      class="active" {% endif %}><a href="/faqs/">FAQs</a></li>
+  <li {% if page.url == '/submit/' %}    class="active" {% endif %}><a href="/submit/">{% include translate.html text="Submit" %}</a></li>
+  <li {% if page.url == '/vote/' %}      class="active" {% endif %}><a href="/vote/">{% include translate.html text="Vote" %}</a></li>
+  <li {% if page.url == '/timeline/' %}  class="active" {% endif %}><a href="/timeline/">{% include translate.html text="Timeline" %}</a></li>
+  <li {% if page.url == '/faqs/' %}      class="active" {% endif %}><a href="/faqs/">{% include translate.html text="FAQs" %}</a></li>
 </ul>
 <ul class="la2050-navigation">
   <li>

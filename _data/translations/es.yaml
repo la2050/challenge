@@ -1,18 +1,4 @@
 
-# Vote form
-? "It’s time to vote! You can vote for one finalist in each of the five goal categories, for a _total of five votes_"
-: "¡Es hora de votar! Puede votar por un finalista en cada una de las cinco categorías de objetivos, por un _total de cinco votos_"
-
-? "Which proposal will make LA the best place to"
-: "¿Qué propuesta hará de Los Ángeles el mejor lugar para"
-
-# Goal categories
-"live": "vivir"
-"learn": "aprender"
-"connect": "conectarse"
-"play": "jugar"
-"create": "crear"
-
 # Day of the week
 "Monday": "Lunes"
 "Tuesday": "Martes"
@@ -36,6 +22,24 @@
 "November": "Noviembre"
 "December": "Diciembre"
 
+# Goal categories
+"live": "vivir"
+"learn": "aprender"
+"connect": "conectarse"
+"play": "jugar"
+"create": "crear"
+
+# Navigation
+"About": "Acerca de"
+"Partners": "Socios"
+"Winners": "Ganadores"
+"Finalists": "Finalistas"
+"Proposals": "Propuestas"
+"Submit": "Enviar"
+"Vote": "Votar"
+"Timeline": "Cronología"
+"FAQs": "FAQs"
+
 # Promotion
 "Check out the finalists!": "¡Mira a los finalistas!"
 "The finalists have been announced!": "¡Se han anunciado los finalistas!"
@@ -46,3 +50,10 @@
 "We’re ready for you to": Estamos listos para que tú
 "cast your votes": "emitir sus votos"
 "Vote by": "Vote antes del"
+
+# Vote form
+? "It’s time to vote! You can vote for one finalist in each of the five goal categories, for a _total of five votes_"
+: "¡Es hora de votar! Puede votar por un finalista en cada una de las cinco categorías de objetivos, por un _total de cinco votos_"
+
+? "Which proposal will make LA the best place to"
+: "¿Qué propuesta hará de Los Ángeles el mejor lugar para"
