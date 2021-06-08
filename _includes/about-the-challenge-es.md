@@ -23,7 +23,7 @@
 
 
 <h2>
- ¡Estamos juntos, LA! <span style="white-space: nowrap"> en esto, LA!</span>
+ ¡Estamos juntos <span style="white-space: nowrap">en esto, LA!</span>
 </h2>
 
 Durante el año pasado, la gente de Los Ángeles ha enfrentado muchas dificultades cuando el COVID-19 devastó nuestras comunidades y cambió nuestras vidas.
