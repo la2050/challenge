@@ -535,11 +535,23 @@ main > h1:first-child::before {
         {% endif %}
         <h3 class="organization">{{ data['organization_name'] }}</h3>
         {% unless data['organization_name'] == data['title'] %}
-        <p class="title">{{ data['title'] }}</p>
+        <p class="title">
+          {% if site.language == "es" and data.title_es %}
+            {{ data.title_es }}
+          {% else %}
+            {{ data.title }}
+          {% endif %}
+        </p>
         {% endunless %}
         {% unless page.winners %}
         <p class="organization-type">{{ data.organization_description }}</p>
-        <p class="description">{{ data['project_description'] }}</p>
+        <p class="description">
+          {% if site.language == "es" and data.project_description_es %}
+            {{ data.project_description_es }}
+          {% else %}
+            {{ data.project_description }}
+          {% endif %}
+        </p>
         {% endunless %}
         <p class="action"><span>Read More</span></p>
       </span>
@@ -619,10 +631,22 @@ main > h1:first-child::before {
       </span>
       <h3 class="organization">{{ data['organization_name'] }}</h3>
       {% unless data['organization_name'] == data['title'] %}
-      <p class="title" >{{ data['title'] }}</p>
+      <p class="title" >
+        {% if site.language == "es" and data.title_es %}
+          {{ data.title_es }}
+        {% else %}
+          {{ data.title }}
+        {% endif %}
+      </p>
       {% endunless %}
       {% unless page.finalists %}
-      <p class="description">{{ data['project_description'] }}</p>
+      <p class="description">
+        {% if site.language == "es" and data.project_description_es %}
+          {{ data.project_description_es }}
+        {% else %}
+          {{ data.project_description }}
+        {% endif %}
+      </p>
       {% endunless %}
       {% if site.phase == site.WINNERS_ANNOUNCED %}
         {% if is_winner %}
