@@ -28,69 +28,69 @@
 
 Durante el año pasado, la gente de Los Ángeles ha enfrentado muchas dificultades cuando el COVID-19 devastó nuestras comunidades y cambió nuestras vidas.
 
-The social impact sector has responded with care and courage. While we are certainly not surprised, we are in awe of our sector’s determination through it all—quickly transitioning to safe, physically-distant service models, implementing innovative digital programming, and pivoting to respond to urgent and emergent needs.
+El sector social ha respondido con cuidado y valor. Aunque ciertamente no nos sorprende, estamos asombrados por la determinación de nuestro sector a través de todo: la transición rápidamente a modelos de servicio seguros y físicamente distantes, la implementación de programación digital innovadora y el giro para responder a necesidades urgentes y emergentes.
 
-It has never been more clear that our path toward a brighter future relies on coming together in the present. And, with that spirit of shared responsibility and collective hope in mind, we present our eighth My LA2050 Grants Challenge.
+Nunca ha sido más claro que nuestro camino a un futuro más brillante se basa en unirnos en el presente. Y, con ese espíritu de responsabilidad compartida y esperanza colectiva en mente, presentamos nuestro octavo My LA2050 Grants Challenge.
 
 
 <h2>
-  Welcome to the
+  Bienvenida
   <span class="avoid-break">{{ site.year }} My LA2050</span>
   <span class="avoid-break">Grants Challenge</span>
 </h2>
 
-LA2050 is a community-guided initiative driving and tracking progress toward a shared vision for the future of Los Angeles centered around [five goals and tracked via 65+ regional progress metrics](/about/#goals). <br /><br /><strong>The My LA2050 Grants Challenge is an open call for ideas to make LA the best place to learn, create, play, connect, and live.</strong>
+LA2050 es una iniciativa guiada por la comunidad que impulsa y rastrea el progreso hacia una visión compartida para el futuro de Los Ángeles centrada en [cinco objetivos y monitoreada a través de más de 65 métricas de progreso regional](/about/#goals). <br /><br /><strong>El My LA2050 Grants Challenge es una solicitud abierta de ideas para hacer de Los Ángeles el mejor lugar para aprender, crear, jugar, conectar y vivir.</strong>
 
-We need your help to turn the [LA2050 goals and metrics](/about/#goals) into action.
+Necesitamos tu ayuda para convertir en acción [los objetivos y métricas de LA2050](/about/#goals).
 
-<strong>A total of $1,000,000 will be awarded among 25 organizations</strong> to implement their proposals. Each organization will receive grant funds and [partnership from LA2050](/about/#la2050-partnership) to support its efforts. We are also grateful to offer additional awards from our incredible [2021 My LA2050 funding partners](/partners/).
+<strong>Un total de $1,000,000 será premiado entre 25 organizaciones</strong> para implementar sus propuestas. Cada organización recibirá fondos de subvención y asociación de LA2050 para apoyar sus esfuerzos. También estamos agradecidos de ofrecer premios adicionales de nuestros increíbles [socios de financiación al 2021 My LA2050](/partners/).
 
-<p markdown="1" style="margin-top: 1.5em; margin-bottom: 0;">In each of the five [goal categories](/about/#goals), the awards will be…</p>
+<p markdown="1" style="margin-top: 1.5em; margin-bottom: 0;">En cada una de [las cinco categorías de objetivos](/about/#goals), los premios serán...</p>
 <section class="awards" markdown="1">
 
-### 25 Winners
+### 25 Ganadores
 
 <section class="blueberry" markdown="1">
-#### Learn
+#### Aprender
 
 $100K
-: 1st place
+: Primer lugar
 
 </section>
 
 <section class="strawberry" markdown="1">
-#### Play
+#### Jugar
 
 $50K
-: 2nd place
+: Segundo lugar
 
 </section>
 
 <section class="banana" markdown="1">
-#### Create
+#### Crear
 
 $25K
-: 3rd place
+: Tercer lugar
 
 </section>
 
 <section class="lime" markdown="1">
-#### Live
+#### Vivir
 
 $15K
-: 4th place
+: Cuarto lugar
 
 </section>
 
 <section class="tangerine" markdown="1">
-#### Connect
+#### Conectar
 
 $10K
-: 5th place
+: Quinto lugar
 </section>
 
 </section>
-And, check out the [additional awards available from this year's {{ site.year }} grants challenge funding partners](/partners/)!
+¡Y premios adicionales disponibles de [los socios financiadores del My LA2050 Grants Challenge de este año](/partners/)!
 
 {% if site.phase == site.NEW_CHALLENGE_ANNOUNCED %}
 
@@ -134,101 +134,101 @@ Read our <a href="/submit/#guidelines">application guidelines</a>.
 
 {% elsif site.phase == site.VOTES_BEING_ACCEPTED %}
 <p>
-  <a href="/vote/">It’s time to vote</a>!
+  ¡<a href="/vote/">Es hora de votar!</a>
   
-  Winners will be announced on 
+  Los ganadores serán anunciados 
   <span class="avoid-break">
-    <strong>{{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
+    <strong>el Martes 6 de julio de 2021</strong>.
   </span>
 </p>
 
 {% elsif site.phase == site.VOTING_PERIOD_ENDED %}
 <p>
-  <em>The public voting period is complete.</em>
+  <em>El período de votación pública está completo.</em>
 </p>
 <p>
-  <a href="/entries/">Check out the proposals</a>.
-  Finalists will be announced on 
+  <a href="/finalists/">Mira a los finalistas</a>.
+  Los ganadores serán anunciados 
   <span class="avoid-break">
-    <strong>{{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
+    <strong>el Martes 6 de julio de 2021</strong>.
   </span>
 </p>
 
 {% elsif site.phase == site.FINALISTS_ANNOUNCED %}
-<p><em>The finalists have been selected!</em></p>
+<p><em>¡Se han anunciado los finalistas!</em></p>
 <p>
-  <a href="/finalists/">Check out the finalists</a>.
-  Winners will be announced on 
+  <a href="/finalists/">Mira a los finalistas</a>.
+ Los ganadores serán anunciados 
   <span class="avoid-break">
-    <strong>{{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
+    <strong>el Martes 6 de julio de 2021</strong>.
   </span>
 </p>
 
 {% elsif site.phase == site.WINNERS_ANNOUNCED %}
-<p><em>The winners have been announced!</em></p>
-<p><a href="/winners/">Check out the winners</a></p>
+<p><em>¡Los ganadores han sido anunciados!</em></p>
+<p><a href="/winners/">Mira a los ganadores.</a></p>
 
 {% endif %}
 
-## Selection of Winners
+## Seleccion de Ganadores
 
-Winners will be selected via a two-step process:
+Los ganadores se seleccionan en un proceso de dos pasos:
 
-**25 finalists will be selected by an external evaluation committee of community leaders, led by Social Venture Partners Los Angeles.** As our evaluation partner, SVP will review and score applications to determine five finalists in each goal category.
+**Los 25 finalistas serán seleccionados por un comité de evaluación externo de líderes comunitarios, dirigido por Social Venture Partners Los Angeles.** Como nuestro socio de evaluación, SVP revisará y puntuará las solicitudes para determinar cinco finalistas en cada categoría de objetivos.
 
-Finalists will be selected using the following criteria:
+Los finalistas serán seleccionados utilizando los siguientes criterios:
 
-* Impact on chosen [LA2050 goals and metrics](/about/#goals)
-* Feasibility of proposal
-* Impact on people served
-* Overall application quality
+* Impacto en los objetivos y métricas elegidos de LA2050
+* Viabilidad de la propuesta
+* Impacto en las personas atendidas
+* Calidad general de la aplicación
 
-Finalists will represent a diversity of issues and activities. For more information, view the [full evaluation scorecard](https://drive.google.com/file/d/1KvHgPWGyfiR9eolVdlEckDGpwUszq7_3/view?usp=sharing).
+Los finalistas representarán una diversidad de asuntos y actividades. Para obtener más información, consulte [el cuadro de mando de la evaluación completo].(https://drive.google.com/file/d/1KvHgPWGyfiR9eolVdlEckDGpwUszq7_3/view?usp=sharing).
 
-**Award levels will be determined via public vote.** Voters will determine which organizations place first ($100,000), second ($50,000), third ($25,000), fourth ($15,000), and fifth ($10,000) in each goal category. All 25 finalists that participate in the voting stage will receive a grant, with five grants distributed at each dollar amount (e.g., there will be five $100,000 winners).
+**Los niveles de adjudicación se determinarán mediante votación pública.** Los votantes determinarán cuáles organizaciones se ubicarán en primer lugar ($100,000), segundo ($50,000), tercero ($25,000), cuarto ($15,000) y quinto ($10,000) en cada categoría de objetivo. Los 25 finalistas que participen en la etapa de votación recibirán una subvención, con cinco subvenciones distribuidas por cada monto en dólares (por ejemplo, habrá cinco ganadores de $100,000).
 
 {% if site.phase < site.VOTES_BEING_ACCEPTED %}
 
-Starting <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong>, you can [vote for a proposal](/vote/) on this website. <a href="{{ site.mailing_list_url }}">Get notified when voting opens!</a>
+A partir del <strong>lunes 21 de junio de 2021</strong>, puede [votar por una propuesta](/vote/) en este sitio web. 
 
 {% elsif site.phase == site.VOTES_BEING_ACCEPTED %}
 
 <p>
-  <a href="/vote/">It’s time to vote</a>!
-  Winners will be announced on 
+  ¡<a href="/vote/">Es hora de votar</a>!
+ Los ganadores serán anunciados 
   <span class="avoid-break">
-    <strong>{{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
+    <strong>el Martes 6 de julio de 2021</strong>.
   </span>
 </p>
 
 {% elsif site.phase == site.VOTING_PERIOD_ENDED %}
 
 <p>
-  <em>The public voting period is complete.</em>
+  <em>El período de votación pública está completo.</em>
 </p>
 <p>
-  <a href="/entries/">Check out the proposals</a>.
-  Winners will be announced on 
+  <a href="/entries/">Mira a los finalistas</a>.
+  Los ganadores serán anunciados 
   <span class="avoid-break">
-    <strong>{{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
+    <strong>el Martes 6 de julio de 2021</strong>.
   </span>
 </p>
 
 {% elsif site.phase == site.FINALISTS_ANNOUNCED %}
 
-<p><em>The finalists have been announced!</em></p>
+<p><em>¡Se han anunciado los finalistas!</em></p>
 <p>
-  <a href="/finalists/">Check out the finalists</a>.
-  Winners will be announced on 
+  <a href="/finalists/">Mira a los finalistas</a>.
+  Los ganadores serán anunciados 
   <span class="avoid-break">
-    <strong>{{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
+    <strong>el Martes 6 de julio de 2021</strong>.
   </span>
 </p>
 
 {% elsif site.phase == site.WINNERS_ANNOUNCED %}
 
-<p><em>The winners have been announced!</em></p>
-<p><a href="/winners/">Check out the winning proposals.</a></p>
+<p><em>¡Los ganadores han sido anunciados!</em></p>
+<p><a href="/winners/">Mira a las propuestas de los ganadores.</a></p>
 
 {% endif %}
 
@@ -248,7 +248,7 @@ Starting <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</
   }
 </style>
 
-<h2>Timeline</h2>
+<h2>Cronología</h2>
 
 {% include timeline.html %}
 
