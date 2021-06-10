@@ -1,7 +1,7 @@
 ---
 application_id: '1656539543'
-title: Cycle Community Change
-title_es: Cambio de comunidad ciclista
+title: 'Cycle Community Change'
+title_es: 'Cambio de comunidad ciclista'
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=PB2E8GjjwuQ'
 link_donate: 'https://www.esrbc.org/donate'
