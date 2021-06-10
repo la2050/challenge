@@ -1,7 +1,7 @@
 ---
 application_id: '4849317937'
-title: Joyful Antiracist Surf Lessons for BIPOC
-title_es: Alegres lecciones de surf antirracista para personas negras, indígenas y de color
+title: 'Joyful Antiracist Surf Lessons for BIPOC
+title_es: 'Alegres lecciones de surf antirracista para personas negras, indígenas y de color (BIPOC)'
 organization_description: A fiscally sponsored group
 project_video: 'https://www.youtube.com/watch?v=WIJFPH2ovgU&t=3s'
 link_donate: gf.me/u/yp5cr6
