@@ -62,11 +62,11 @@ LA2050 también se comprometerá con una asociación de un año, aprovechando su
 Con el apoyo de 30,000 residentes de LA, hemos delineado una visión aspiracional centrada en cinco objetivos: hacer de Los Ángeles el mejor lugar para aprender, crear, jugar, conectar y vivir para el año 2050.
 
 <ul class="action">
-  <li class="blueberry"><a href="#learn">Learn</a></li>
-  <li class="banana"><a href="#create">Create</a></li>
-  <li class="strawberry"><a href="#play">Play</a></li>
-  <li class="tangerine"><a href="#connect">Connect</a></li>
-  <li class="lime"><a href="#live">Live</a></li>
+  <li class="blueberry"><a href="#learn">Aprender</a></li>
+  <li class="banana"><a href="#create">Crear</a></li>
+  <li class="strawberry"><a href="#play">Jugar</a></li>
+  <li class="tangerine"><a href="#connect">Conectar</a></li>
+  <li class="lime"><a href="#live">Vivir</a></li>
 </ul>
 
 </div></div>
