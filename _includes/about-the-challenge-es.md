@@ -34,7 +34,7 @@ Nunca ha sido más claro que nuestro camino a un futuro más brillante se basa e
 
 
 <h2>
-  Bienvenida
+  Bienvenida al
   <span class="avoid-break">{{ site.year }} My LA2050</span>
   <span class="avoid-break">Grants Challenge</span>
 </h2>
