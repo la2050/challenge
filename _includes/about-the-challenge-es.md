@@ -134,7 +134,7 @@ Read our <a href="/submit/#guidelines">application guidelines</a>.
 
 {% elsif site.phase == site.VOTES_BEING_ACCEPTED %}
 <p>
-  ¡<a href="/vote/">Es hora de votar!</a>
+  ¡<a href="/vote/">Es hora de votar</a>!
   
   Los ganadores serán anunciados 
   <span class="avoid-break">
