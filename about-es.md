@@ -33,22 +33,23 @@ En el año 2013, lanzamos nuestro primer programa principal, el My LA2050 Grants
 
 ## Acerca del My LA2050 Grants Challenge
 
-This is an open call for ideas to make Los Angeles County the best place to learn, create, play, connect, and live. A total of $1M will be awarded among 25 organizations—five per goal category—to implement their ideas to turn inspiration into impact. Each organization will receive an award of between $10,000 to $100,000 to support its efforts.
+Esta es una solicitud abierta a ideas para hacer del condado de Los Ángeles el mejor lugar para aprender, crear, jugar, conectarse y vivir. Un total de $1 millón será premiado entre 25 organizaciones, cinco por categoría de objetivo, para implementar sus ideas y convertir la inspiración en impacto. Cada organización recibirá un premio de entre $10,000 y $100,000 para apoyar sus esfuerzos.
 
-The proposals should aim to engage Angelenos to make a specific, tangible impact on one of the [LA2050 goals and metrics](/about/#goals) over the next year.
+Las propuestas deben apuntar a involucrar a residentes de LA para que tengan un impacto específico y tangible en uno de [los objetivos y métricas de LA2050](/about/#goals) durante el próximo año.
 
-LA2050 will also commit to a one-year partnership, leveraging its resources, assets, and networks to help the projects succeed. Together, the winning organizations, LA2050, and Angelenos will create progress for the region that will change the course of our future.
+LA2050 también se comprometerá con una asociación de un año, aprovechando sus recursos, activos y redes para ayudar a que los proyectos tengan éxito. Juntas, las organizaciones ganadoras, LA2050 y Ángelenos crearán un progreso para la región que cambiará el curso de nuestro futuro.
 
-## LA2050 Partnership
+## Asociación LA2050
 
-We want to work together! For winning proposals, LA2050 will offer the following partnership opportunities:
+¡Queremos trabajar juntos! Para las propuestas ganadoras, LA2050 ofrecerá las siguientes oportunidades de asociación:
 
-* Leverage the LA2050 community to support and participate in the project.
-* Offer communications assistance to build awareness and thought leadership, including authoring articles and blog posts.
-* Amplify messaging on social media and via the LA2050 newsletter to support projects.
-* Create design assets as needed.
-* Provide technical assistance, strategic input and guidance, and access to experts to incorporate insights on the project.
-* Offer access to professional development programming and capacity-building workshops.
+* Aprovechar la comunidad LA2050 para apoyar y participar en el proyecto.
+* Ofrecer asistencia en comunicaciones para crear conciencia y liderazgo intelectual, incluyendo la creacion de articulos y publicaciones de blog.
+* Amplificar a los mensajes en las redes sociales y con el boletin informativo LA2050 para apoyar proyectos. 
+* Crear activos de diseno cuando necesario.
+* Brindar asistencia técnica, aportes estratégicos y orientación y acceso a expertos para incorporar conocimientos sobre el proyecto.
+* Ofrecer acceso a talleres de capacitación y programación de desarrollo profesional.
+
 
 <hr id="goals" />
 
@@ -56,9 +57,9 @@ We want to work together! For winning proposals, LA2050 will offer the following
 
 <div class="navigation"><div markdown="1">
 
-## LA2050 Goals
+## Objetivos LA2050
 
-With the support of 30,000 Angelenos we’ve outlined an aspirational vision centered on [five goals](https://la2050.org/metrics): to make Los Angeles the best place to learn, create, play, connect, and live by the year 2050. 
+Con el apoyo de 30,000 residentes de LA, hemos delineado una visión aspiracional centrada en cinco objetivos: hacer de Los Ángeles el mejor lugar para aprender, crear, jugar, conectar y vivir para el año 2050.
 
 <ul class="action">
   <li class="blueberry"><a href="#learn">Learn</a></li>
@@ -78,30 +79,30 @@ With the support of 30,000 Angelenos we’ve outlined an aspirational vision cen
 
 <div class="description" markdown="1">
 
-<h3>Learn</h3>
+<h3>Aprender</h3>
 
-Our region will offer abundant, equitable opportunities for lifelong learning.
+Nuestra región ofrecerá oportunidades abundantes y equitativas para el aprendizaje permanente.
 
-By the year 2050, our local education system will be well-resourced and culturally-responsive, all children will have access to high-quality early education programs, and all families will be engaged and empowered to direct their student’s learning. Students will graduate college- and career-ready, equipped to thrive in the workforce of the future. LA will capitalize on its concentration of higher education facilities to advance research and spur innovation.
+Para el año 2050, nuestro sistema educativo local contará con buenos recursos y será culturalmente sensible, todos los niños tendrán acceso a programas de educación temprana de alta calidad y todas las familias estarán comprometidas y empoderadas para dirigir el aprendizaje de sus estudiantes. Los estudiantes se graduarán preparados para la universidad y la carrera, equipados para prosperar en la fuerza laboral del futuro. LA capitalizará su concentración de instalaciones de educación superior para promover la investigación y estimular la innovación.
 
 </div>
 
 <div class="metrics" markdown="1">
 
-#### Metrics
+#### Métricas
 
-* High school graduation rates
-* College matriculation
-* Community college completion
-* College graduates
-* Proficiency in English Language Arts 
-* Proficiency in Science, Technology, Engineering, & Math (STEM)
-* Early education enrollment
-* Suspension and expulsion rates
-* K-8 chronic absenteeism
-* Opportunity youth ("Disengaged youth" 16-24 not working or in school)
-* Arts education
-* Enrollment in afterschool programs
+* Tasas de graduación de la escuela secundaria
+* Matrícula universitaria
+* Finalización del colegio comunitario
+* Graduados universitarios
+* Competencia en artes del lenguaje inglés
+* Competencia en ciencia, tecnología, ingeniería y matemáticas (STEM)
+* Matrícula de educación temprana
+* Tasas de suspensión y expulsión
+* Ausentismo crónico K-8
+* Jóvenes de oportunidad (jovenes de 16 a 24 años que no trabajan o no asisten a la escuela)
+* Educación artística
+* Inscripción en programas extracurriculares
 
 </div>
 
@@ -115,33 +116,33 @@ By the year 2050, our local education system will be well-resourced and cultural
 
 <div class="description" markdown="1">
 
-<h3>Create</h3>
+<h3>Crear</h3>
 
-Our region will empower its residents to harness their creativity through both artistic expression and entrepreneurship.
+Nuestra región permitirá a sus residentes aprovechar su creatividad a través de la expresión artística y el espíritu empresarial.
 
-By the year 2050, Los Angeles will play host to the largest concentration of working artists and high-quality arts establishments. Our region will be an international leader in innovation and production across sectors. Our region will be a center for entrepreneurial activity that creates jobs and generates wealth for a flexible, talented workforce from all backgrounds. LA’s business community will reflect the diversity of our region, enhancing our international opportunities.
+Para el año 2050, Los Ángeles albergará una gran concentración de artistas en activo y establecimientos artísticos de alta calidad. Nuestra región será líder internacional en innovación y producción en todos los sectores. Nuestra región será un centro para la actividad empresarial que crea puestos de trabajo y genera riqueza para una fuerza laboral flexible y talentosa de todos los orígenes. La comunidad empresarial de Los Ángeles reflejará la diversidad de nuestra región, mejorando nuestras oportunidades internacionales.
 
 </div>
 
 <div class="metrics" markdown="1">
 
-#### Metrics
+#### Métricas
 
-* Arts establishments, installations, and exhibitions
-* Employment in the creative industries
-* Employment in the tech industries
-* Manufacturing activity
-* Access to banks and financial institutions
-* Economic opportunities for the formerly incarcerated
-* Income inequality
-* Jobs per capita
-* Unemployment rate
-* Minority- and women-owned firms
-* High-growth startups
-* Federal research grant funding
-* Patents
-* Venture capital investment
-* Global cultural and economic influence ("soft power")
+* Establecimientos de arte, instalaciones y exposiciones
+* Empleo en las industrias creativas
+* Empleo en las industrias tecnológicas
+* Actividad manufacturera
+* Acceso a bancos e instituciones financieras
+* Oportunidades económicas para los anteriormente encarcelados
+* La desigualdad de ingresos
+* Empleos per cápita
+* Tasa de desempleo
+* Empresas propiedad de minorías y mujeres
+* Startups de alto crecimiento
+* Financiamiento de subvenciones de investigación federal
+* Patentes
+* Inversión de capital riesgo
+* Influencia cultural y económica global 
 
 </div>
 
@@ -155,32 +156,30 @@ By the year 2050, Los Angeles will play host to the largest concentration of wor
 
 <div class="description" markdown="1">
 
-<h3>Play</h3>
+<h3>Jugar</h3>
 
-Our region will provide abundant, enjoyable recreational opportunities for people of all ages.
-
-By the year 2050, people from across Los Angeles will live in close proximity to vibrant park space and have easy access to high-quality, sustainable venues to get active, explore the outdoors, and appreciate our natural environment. All residents will feel a sense of safety and belonging in their neighborhoods.
+Nuestra región brindará abundantes y agradables oportunidades recreativas para personas de todas las edades.
+  
+Para el año 2050, las personas de todo Los Ángeles vivirán muy cerca de un parque vibrante y tendrán fácil acceso a lugares sostenibles de alta calidad para mantenerse activos, explorar el aire libre y apreciar nuestro entorno natural. Todos los residentes sentirán una sensación de seguridad y pertenencia en sus vecindarios.
 
 </div>
 
 <div class="metrics" markdown="1">
 
-#### Metrics
+#### Métricas
 
-* Access to open space and park facilities
-* Parks with intergenerational play opportunities
-* Easy access to a safe park
-* Walking and biking
-* Open streets gatherings
-* Perceived neighborhood safety
-* Students' sense of safety at and on the way to school
-* Youth sports participation
-* Prevalance of trauma and adverse childhood experiences
-* Gun-violence victims
-* Crime rates
-* Obesity
-
-
+* Acceso a espacios abiertos e instalaciones del parque
+* Parques con oportunidades de juego intergeneracionales
+* Fácil acceso a un parque seguro
+* Caminar y andar en bicicleta
+* Reuniones de calles abiertas
+* Seguridad percibida en el vecindario
+* La sensación de seguridad de los estudiantes en la escuela y de camino a ella
+* Participación deportiva juvenil
+* Prevalencia del trauma y las experiencias adversas de la niñez
+* Víctimas de violencia armada
+* Tasas de crimen
+* Obesidad
 
 </div>
 
@@ -194,32 +193,32 @@ By the year 2050, people from across Los Angeles will live in close proximity to
 
 <div class="description" markdown="1">
 
-<h3>Connect</h3>
+<h3>Conectar</h3>
 
-Our region will be a place where every resident is empowered to engage with others and participate in civic processes.
-
-By the year 2050, Los Angeles will be the most civically engaged region in the U.S., with abundant platforms for residents to voice their opinions and influence elected officials and other decision-makers. Our region’s voting rates and volunteerism will lead the nation, and an expanded, accessible transportation network will facilitate the easy flow of people and ideas.
+Nuestra región será un lugar donde cada residente estará facultado para relacionarse con otros y participar en procesos cívicos.
+  
+Para el año 2050, Los Ángeles será la región más cívicamente comprometida en los EE. UU., con abundantes plataformas para que los residentes expresen sus opiniones e influyan en los funcionarios electos y otros tomadores de decisiones. Las tasas de votación y el voluntariado de nuestra región liderarán la nación, y un transporte accesible y expandido facilitará el flujo fácil de personas e ideas.
 
 </div>
 
 <div class="metrics" markdown="1">
 
-#### Metrics
+#### Métricas
 
-* Internet access
-* Social & emotional support
-* Public arts and cultural events
-* Government responsiveness to residents' needs
-* Travel time to work
-* Public transit ridership
-* Neighborhood council participation
-* Volunteerism
-* Residential segregation
-* Transit-accessible housing and employment 
-* Voting rates
-* Disability access and inclusion
-* LGBTQ+ equity and inclusion
-* Immigrant integration
+* Acceso al internet
+* Apoyo social y emocional
+* Eventos artísticos y culturales públicos
+* Capacidad de respuesta del gobierno a las necesidades de los residentes
+* Tiempo de viaje al trabajo
+* Pasajeros de transporte público
+* Participación del consejal comunitario
+* Voluntariado
+* Segregación residencial
+* Vivienda y empleo accesibles al tránsito
+* Tasas de votación
+* Acceso e inclusión para discapacitados
+* Equidad e inclusión LGBTQ+
+* Integración de inmigrantes
 
 </div>
 
@@ -233,33 +232,33 @@ By the year 2050, Los Angeles will be the most civically engaged region in the U
 
 <div class="description" markdown="1">
 
-<h3>Live</h3>
+<h3>Vivir</h3>
 
-Our region’s residents will have equitable access to the environmental, economic, and cultural resources needed to thrive.
-
-By the year 2050, Los Angeles will have the nation’s lowest poverty rate. All families will have access to fresh and healthy food, high-quality health care, and safe housing, no matter where they live or how much money they make. Our communities will enjoy the benefits of a sustainable environment, from clear skies to clean water.
+Los residentes de nuestra región tendrán acceso equitativo a los recursos ambientales, económicos y culturales necesarios para prosperar.
+  
+Para el año 2050, Los Ángeles tendrá la tasa de pobreza más baja del país. Todas las familias tendrán acceso a alimentos frescos y saludables, atención médica de la mejor calidad y viviendas seguras, sin importar dónde vivan o cuánto dinero ganen. Nuestras comunidades disfrutarán de los beneficios de un medio ambiente sostenible, desde cielos despejados hasta agua limpia.
 
 </div>
 
 <div class="metrics" markdown="1">
 
-#### Metrics
+#### Métricas
 
-* Access to healthy food
-* Food insecurity
-* Healthcare access
-* Access to mental health services
-* Homelessness
-* Housing access and affordability
-* Water pollution
-* Local water
-* Water-use efficiency
-* Air quality
-* Renewable energy use
-* Tree canopy cover
-* Poverty rate
-* Resilient communities
-* Older adult well-being
+* Acceso a alimentos saludables
+* Inseguridad alimentaria
+* Acceso sanitario
+* Acceso a servicios de salud mental
+* Desamparo
+* Acceso a la vivienda y asequibilidad
+* La contaminación del agua
+* Agua local
+* Eficiencia en el uso del agua
+* Calidad del aire
+* Uso de energías renovables
+* Cubierta de dosel de árbol
+* Índice de pobreza
+* Comunidades resilientes
+* Bienestar de los ancianos
 
 </div>
 
