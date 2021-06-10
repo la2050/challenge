@@ -183,7 +183,7 @@ Los finalistas serán seleccionados utilizando los siguientes criterios:
 * Impacto en las personas atendidas
 * Calidad general de la aplicación
 
-Los finalistas representarán una diversidad de asuntos y actividades. Para obtener más información, consulte [el cuadro de mando de la evaluación completo].(https://drive.google.com/file/d/1KvHgPWGyfiR9eolVdlEckDGpwUszq7_3/view?usp=sharing).
+Los finalistas representarán una diversidad de asuntos y actividades. Para obtener más información, consulte [el cuadro de mando de la evaluación completo](https://drive.google.com/file/d/1KvHgPWGyfiR9eolVdlEckDGpwUszq7_3/view?usp=sharing).
 
 **Los niveles de adjudicación se determinarán mediante votación pública.** Los votantes determinarán cuáles organizaciones se ubicarán en primer lugar ($100,000), segundo ($50,000), tercero ($25,000), cuarto ($15,000) y quinto ($10,000) en cada categoría de objetivo. Los 25 finalistas que participen en la etapa de votación recibirán una subvención, con cinco subvenciones distribuidas por cada monto en dólares (por ejemplo, habrá cinco ganadores de $100,000).
 
