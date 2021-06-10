@@ -1,7 +1,7 @@
 ---
 application_id: '2095679573'
-title: Building Accessibility For Persons With Disabilities
-title_es: Construyendo accesibilidad para personas con discapacidad
+title: 'Building Accessibility For Persons With Disabilities'
+title_es: 'Construyendo accesibilidad para personas con discapacidades'
 organization_description: Nonprofit
 project_video: 'https://youtu.be/KYkQwMNJlC4'
 link_donate: 'https://app.mobilecause.com/vf/ANGEL'
