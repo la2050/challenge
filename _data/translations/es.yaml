@@ -87,3 +87,19 @@
 
 ? "With support from the GOLDHIRSH FOUNDATION"
 : "Con el apoyo de la GOLDHIRSH FOUNDATION"
+
+#Finalists
+? "Finalists in the CONNECT category"
+: "Los finalistas en la categoría de CONECTAR"
+
+? "Finalists in the LIVE category"
+: "Los finalistas en la categoría de VIVIR"
+
+? "Finalists in the PLAY category"
+: "Los finalistas en la categoría de JUGAR"
+
+? "Finalists in the LEARN category"
+: "Los finalistas en la categoría de APRENDER"
+
+? "Finalists in the CREATE category"
+: "Los finalistas en la categoría de CREAR"
