@@ -37,7 +37,7 @@
 
 {% if site.phase == site.VOTES_BEING_ACCEPTED %}
 <dt><strong><img src="/assets/images/timeline/vote.svg" alt="" /> {% include translate.html text="Public Voting" %}</strong></dt>
-<dd><strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.VOTING_PERIOD_ENDED_DATE | date: "%B %-d, %Y" }}</span></dd>
+<dd><strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.VOTING_PERIOD_ENDED_DATE | date: "%B %-d, %Y" }}</span></strong></dd>
 {% else %}
 <dt><img src="/assets/images/timeline/vote.svg" alt="" /> {% include translate.html text="Public Voting" %}</dt>
 <dd>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.VOTING_PERIOD_ENDED_DATE | date: "%B %-d, %Y" }}</span></dd>
