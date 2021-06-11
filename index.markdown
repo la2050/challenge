@@ -8,8 +8,8 @@ use_default_meta_description: true
 ---
 
 {% if site.language == "es" %}
-  {% capture about %}{% include about-the-challenge-es.md %}{% endcapture %}
+  {% capture about %}{% include_relative about-the-challenge-es.markdown %}{% endcapture %}
 {% else %}
-  {% capture about %}{% include about-the-challenge.md %}{% endcapture %}
+  {% capture about %}{% include_relative about-the-challenge-en.markdown %}{% endcapture %}
 {% endif %}
 {{ about | markdownify }}
