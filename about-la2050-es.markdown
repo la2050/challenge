@@ -1,27 +1,8 @@
----
-title: Acerca del My LA2050 Grants Challenge
-body_class: strawberry about-page
-main_class: standard-layout
-footer_image: true
----
-
-{% if site.phase >= site.WINNERS_ANNOUNCED and site.redirect_home_page_to_winners == true %}
-
-{% capture about %}{% include about-the-challenge.md %}{% endcapture %}
-{{ about | markdownify }}
-
-{% elsif site.phase >= site.FINALISTS_ANNOUNCED and site.redirect_home_page_to_finalists == true %}
-
-{% capture about %}{% include about-the-challenge.md %}{% endcapture %}
-{{ about | markdownify }}
-
-{% else %}
+<!-- Acerca del My LA2050 Grants Challenge -->
 
 <h1>
   Acerca de
 </h1>
-
-{% endif %}
 
 ## LA2050 es una iniciativa guiada por la comunidad que impulsa y rastrea el progreso hacia una visión compartida para el futuro de Los Ángeles.
 
