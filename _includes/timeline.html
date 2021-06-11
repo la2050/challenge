@@ -1,54 +1,54 @@
 
 
 {% if site.phase == site.ENTRIES_BEING_ACCEPTED %}
-**![](/assets/images/timeline/light.svg) Submission Period**
+**![](/assets/images/timeline/light.svg) <% include translate.html text=”Submission Period” %>**
 : **{{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%B %-d, %Y" }}</span>**
 {% else %}
-![](/assets/images/timeline/light.svg) Submission Period
+![](/assets/images/timeline/light.svg) <% include translate.html text=”Submission Period” %>
 : {{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%B %-d, %Y" }}</span>
 {% endif %}
 
 {% if site.phase == site.ENTRY_PERIOD_ENDED %}
-**![](/assets/images/timeline/checkmark.svg) Moderation Period**
+**![](/assets/images/timeline/checkmark.svg) <% include translate.html text=”Moderation Period” %>**
 : **{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%B %-d, %Y" }}</span>**
 {% else %}
-![](/assets/images/timeline/checkmark.svg) Moderation Period
+![](/assets/images/timeline/checkmark.svg) <% include translate.html text=”Moderation Period” %>
 : {{ site.ENTRY_PERIOD_ENDED_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%B %-d, %Y" }}</span>
 {% endif %}
 
 
 {% if site.phase == site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
-**![](/assets/images/timeline/clipboard.svg) Evaluation Period**
+**![](/assets/images/timeline/clipboard.svg) <% include translate.html text=”Evaluation Period” %>**
 : **{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.FINALISTS_ANNOUNCED_DATE | date: "%B %-d, %Y" }}</span>**
 {% else %}
-![](/assets/images/timeline/clipboard.svg) Evaluation Period
+![](/assets/images/timeline/clipboard.svg) <% include translate.html text=”Evaluation Period” %>d
 : {{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.FINALISTS_ANNOUNCED_DATE | date: "%B %-d, %Y" }}</span>
 {% endif %}
 
 
 {% if site.phase == site.FINALISTS_ANNOUNCED %}
-**![](/assets/images/timeline/speaker.svg) Finalists Announced**
+**![](/assets/images/timeline/speaker.svg) <% include translate.html text=”Finalists Announced” %>**
 : **{{ site.FINALISTS_ANNOUNCED_DATE | date: "%B %-d, %Y" }}**
 {% else %}
-![](/assets/images/timeline/speaker.svg) Finalists Announced
+![](/assets/images/timeline/speaker.svg) <% include translate.html text=”Finalists Announced” %>
 : {{ site.FINALISTS_ANNOUNCED_DATE | date: "%B %-d, %Y" }}
 {% endif %}
 
 
 {% if site.phase == site.VOTES_BEING_ACCEPTED %}
-**![](/assets/images/timeline/vote.svg) Public Voting**
+**![](/assets/images/timeline/vote.svg) <% include translate.html text=”Public Voting” %>**
 : **{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.VOTING_PERIOD_ENDED_DATE | date: "%B %-d, %Y" }}</span>**
 {% else %}
-![](/assets/images/timeline/vote.svg) Public Voting
+![](/assets/images/timeline/vote.svg) <% include translate.html text=”Public Voting” %>
 : {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.VOTING_PERIOD_ENDED_DATE | date: "%B %-d, %Y" }}</span>
 {% endif %}
 
 
 {% if site.phase == site.WINNERS_ANNOUNCED %}
-**![](/assets/images/timeline/ribbon.svg) Winners Announced**
+**![](/assets/images/timeline/ribbon.svg) <% include translate.html text=”Winners Announced” %>**
 : **{{ site.WINNERS_ANNOUNCED_DATE | date: "%B %-d, %Y" }}**
 {% else %}
-![](/assets/images/timeline/ribbon.svg) Winners Announced
+![](/assets/images/timeline/ribbon.svg) <% include translate.html text=”Winners Announced” %>
 : {{ site.WINNERS_ANNOUNCED_DATE | date: "%B %-d, %Y" }}
 {% endif %}
 
