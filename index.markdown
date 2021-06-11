@@ -13,10 +13,3 @@ use_default_meta_description: true
   {% capture about %}{% include about-the-challenge.md %}{% endcapture %}
 {% endif %}
 {{ about | markdownify }}
-
-{% if site.language == "es" %}
-  {% capture about %}{% include about-es.md %}{% endcapture %}
-{% else %}
-  {% capture about %}{% include about.md %}{% endcapture %}
-{% endif %}
-{{ about | markdownify }}
