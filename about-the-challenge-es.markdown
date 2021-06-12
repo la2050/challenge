@@ -1,13 +1,13 @@
 <h1 class="home-intro">
   {% include balcony-background.html
-    description="An illustration of people standing on their balconies and waving, with signs that read: “Thank you essential workers!” and “Black Lives Matter”"
+    description="Una ilustración de personas de pie en sus balcones y saludando, con carteles que dicen: “¡Gracias trabajadores esenciales!” y “Black Lives Matter”"
   %}
-  {% include balcony-text.html
-    description="Together for a brighter future"
+  {% include balcony-text-es.html
+    description="Juntos por un futuro mejor"
   %}
   {% include balcony-butterfly-path.html %}
   {% include balcony-butterfly.html
-    description="Butterfly"
+    description="Mariposa"
   %}
   <div class="home-intro__action"></div>
   <script>
