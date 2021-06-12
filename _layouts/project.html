@@ -146,9 +146,9 @@ stylesheets:
     color: white;
     padding: 0.375em 0.75em;
     font-weight: 600;
-    font-size: 0.875em;">Coming soon!</span>
+    font-size: 0.875em;">{% include translate.html text="Coming soon!" %}</span>
   <span class="action" style="opacity: 0.2; filter: grayscale(100%);">
-    <span style="cursor: default; background: white; color: var(--strawberry);">Vote for this proposal</span>
+    <span style="cursor: default; background: white; color: var(--strawberry);">{% include translate.html text="Vote for this proposal" %}</span>
   </span>
   <br />
   <br />
@@ -157,7 +157,7 @@ stylesheets:
 {% elsif is_finalist and site.phase == site.VOTES_BEING_ACCEPTED %}
 <p class="vote-action">
   <span class="action">
-    <a href="/vote/form/?{{ page.category }}={{ page.organization_name | url_encode }}">Vote for this proposal</a>
+    <a href="/vote/form/?{{ page.category }}={{ page.organization_name | url_encode }}">{% include translate.html text="Vote for this proposal" %}</a>
   </span>
   <br />
   <br />
