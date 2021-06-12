@@ -13,7 +13,7 @@ stylesheets:
       <a href="/" class="logo">
         {% include logotype.html %}
       </a>
-      <p>Voting begins on {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.VOTES_BEING_ACCEPTED_TIME }}).</p>
+      <p>Voting begins on {% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %} ({{ site.VOTES_BEING_ACCEPTED_TIME }}).</p>
       <p class="action"><a href="{{ site.mailing_list_url }}">Get updates</a></p>
     </div>
   </div>

@@ -1,7 +1,7 @@
 {% if site.phase == site.NEW_CHALLENGE_ANNOUNCED %}
 
       <p>
-       Submissions open on {{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%B %-d, %Y" }}.
+       Submissions open on {% include translate-date.html date=site.ENTRIES_BEING_ACCEPTED_DATE format="%B %-d, %Y" %}.
         <span class="avoid-break"><a href="/submit/">Read the guidelines</a> and sign up for a virtual <a href="{{ site.office_hours_url }}">information session</a>.</span>
       </p>
       <p class="action">
@@ -12,7 +12,7 @@
 
       <p>
       Don't miss out! 
-       <span class="avoid-break"> Submissions are open now through {{ site.ENTRY_PERIOD_ENDED_DATE | date: "%B %-d, %Y" }}.</span>
+       <span class="avoid-break"> Submissions are open now through {% include translate-date.html date=site.ENTRIES_BEING_ACCEPTED_DATE format="%B %-d, %Y" %}.</span>
       </p>
 
       <p class="action">
@@ -23,7 +23,7 @@
 
       <p>
         The submission period is complete.
-        <span class="avoid-break">All proposals will be showcased here by <strong>{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%A, %B %-d, %Y" }}</strong>.</span>
+        <span class="avoid-break">All proposals will be showcased here by <strong>{% include translate-date.html date=site.ENTRIES_BEING_ACCEPTED_DATE format="%B %-d, %Y" %}</strong>.</span>
       </p>
       <p class="action">
         <a href="{{ site.mailing_list_url }}">Get updates</a>
@@ -36,7 +36,7 @@
         <span class="avoid-break">
           Finalists will be announced on 
           <span class="avoid-break">
-            <strong>{{ site.FINALISTS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
+            <strong>{% include translate-date.html date=site.ENTRIES_BEING_ACCEPTED_DATE format="%B %-d, %Y" %}</strong>.
           </span>
         </span>
       </p>
@@ -96,7 +96,7 @@
         <span class="avoid-break">
           Winners will be announced on 
           <span class="avoid-break">
-            <strong>{{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
+            <strong>{% include translate-date.html date=site.ENTRIES_BEING_ACCEPTED_DATE format="%B %-d, %Y" %}</strong>.
           </span>
         </span>
       </p>

@@ -123,9 +123,9 @@ main > h1:first-child::before {
     <small style="font-style: normal;display: block; text-transform: none;">
       <small style="letter-spacing: 0; font-style: normal;" class="avoid-break">
         {% if site.phase == site.VOTES_BEING_ACCEPTED %}
-          <strong style="font-weight: inherit; color: inherit;"><a href="/vote/" style="color: inherit; font-weight: inherit;">Public voting</a></strong> has started! <span class="avoid-break">Vote by <span class="avoid-break"><strong>{{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}</strong>.</span></span>
+          <strong style="font-weight: inherit; color: inherit;"><a href="/vote/" style="color: inherit; font-weight: inherit;">Public voting</a></strong> has started! <span class="avoid-break">Vote by <span class="avoid-break"><strong>{% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %}</strong>.</span></span>
         {% else %}
-          <strong style="font-weight: inherit; color: inherit;"><a href="/vote/" style="color: inherit; font-weight: inherit;">Public voting</a></strong> begins on <span class="avoid-break"><strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong>.</span>
+          <strong style="font-weight: inherit; color: inherit;"><a href="/vote/" style="color: inherit; font-weight: inherit;">Public voting</a></strong> begins on <span class="avoid-break"><strong>{% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %}</strong>.</span>
         {% endif %}
       </small>
       <small style="letter-spacing: 0; font-style: normal;" class="avoid-break">
@@ -188,9 +188,9 @@ main > h1:first-child::before {
   <p>
     <small style="letter-spacing: 0; font-style: normal;" class="avoid-break">
       {% if site.phase == site.VOTES_BEING_ACCEPTED %}
-        <strong style="font-weight: inherit; color: inherit;">We’re ready for you to <a href="/vote/" style="color: inherit; font-weight: inherit;">cast your votes</a></strong>! <span class="avoid-break">Vote by <span class="avoid-break"><strong>{{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}</strong>.</span></span>
+        <strong style="font-weight: inherit; color: inherit;">We’re ready for you to <a href="/vote/" style="color: inherit; font-weight: inherit;">cast your votes</a></strong>! <span class="avoid-break">Vote by <span class="avoid-break"><strong>{% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %}</strong>.</span></span>
       {% else %}
-        <strong style="font-weight: inherit; color: inherit;"><a href="/vote/" style="color: inherit; font-weight: inherit;">Public voting</a></strong> begins on <span class="avoid-break"><strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong>.</span>
+        <strong style="font-weight: inherit; color: inherit;"><a href="/vote/" style="color: inherit; font-weight: inherit;">Public voting</a></strong> begins on <span class="avoid-break"><strong>{% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %}</strong>.</span>
       {% endif %}
     </small>
     <!-- <small style="letter-spacing: 0; font-style: normal;" class="avoid-break">
@@ -344,7 +344,7 @@ main > h1:first-child::before {
   </script>
 {% else %}
   <div class="introduction" markdown="1">
-  The finalists will appear here on <strong>{{ site.FINALISTS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
+  The finalists will appear here on <strong>{% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %}</strong>.
   </div>
 {% endif %}
 
@@ -356,7 +356,7 @@ main > h1:first-child::before {
   </script>
 {% else %}
   <div class="introduction" markdown="1">
-  The winners will appear here on <strong>{{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
+  The winners will appear here on <strong>{% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %}</strong>.
   </div>
 {% endif %}
 
@@ -368,7 +368,7 @@ main > h1:first-child::before {
   </script>
 {% else %}
   <div class="introduction" markdown="1">
-  The proposals will appear here by <strong>{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%A, %B %-d, %Y" }}</strong>.
+  The proposals will appear here by <strong>{% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %}</strong>.
   </div>
 {% endif %}
 

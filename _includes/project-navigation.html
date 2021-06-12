@@ -97,7 +97,7 @@
 <p class="count">
   There are <strong>{{ data_list.size }}</strong> proposals in the <strong class="category">{{ page.category }}</strong> category.
   {% if site.show_early_entries == true and site.phase < site.ENTRIES_SHOWN_ON_THE_WEBSITE %}<br />
-  <small>Check back soon! More proposals will be showcased on this page by <strong>{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%A, %B %-d, %Y" }}</strong>.</small>
+  <small>Check back soon! More proposals will be showcased on this page by <strong>{% include translate-date.html date=site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE format="%A, %B %-d, %Y" %}</strong>.</small>
   {% endif %}
 </p>
 {% endif %}
