@@ -1,6 +1,7 @@
 ---
 application_id: '1656539543'
-title: Cycle Community Change
+title: 'Cycle Community Change'
+title_es: 'Cambio de comunidad ciclista'
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=PB2E8GjjwuQ'
 link_donate: 'https://www.esrbc.org/donate'
@@ -25,6 +26,8 @@ project_description: >-
   confidence and self esteem while building a sense of community. During
   COVID-19 we've been feeding hungry families and community cleanups in addition
   to our group rides.
+project_description_es: >-
+  East Side Riders Bike Club brinda a los niños en Watts una alternativa a las pandillas y las drogas al organizar paseos en bicicleta en grupo seguros para COVID-19, comprar cascos y bicicletas usadas para niños que viven en la pobreza, enseñar seguridad y reparación de bicicletas y trabajar con el gobierno y los líderes comunitarios para crear carriles de circulación segura para bicicletas. Practicamos el servicio comunitario, que ayuda a los niños a desarrollar su confianza y autoestima mientras construyen un sentido de comunidad. Durante COVID-19 hemos estado alimentando a familias hambrientas y limpiezas de la comunidad además de nuestros paseos en grupo.
 category: play
 connect_metrics: ''
 create_metrics: ''

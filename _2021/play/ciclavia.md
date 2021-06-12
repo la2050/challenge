@@ -1,6 +1,7 @@
 ---
 application_id: '6530489647'
 title: 'WalkLAvia - Powered by CicLAvia, LA Forward, and Los Angeles Walks'
+title_es: 'WalkLAvia - Un proyecto peatonal de CicLAvia, LA Forward y Los Angeles Walks'
 organization_description: Nonprofit
 project_video: ''
 link_donate: www.ciclavia.org/donations
@@ -23,6 +24,8 @@ project_description: >-
   together! Designed to address the social and emotional toll of the COVID-19
   pandemic, WalkLAvia activities will give people the tools and confidence to
   reimagine their streets in ways that promote safety and joy for all.
+project_description_es: >-
+  ¡WalkLAvia es una semana dedicada para que los residentes de Los Ángeles vuelvan a salir y se diviertan juntos! Diseñado para abordar el costo social y emocional de la pandemia de COVID-19, las actividades de WalkLAvia brindarán a las personas los medios y la confianza para reinventar sus calles de manera que promuevan la seguridad y la alegría para todos.
 category: play
 connect_metrics: ''
 create_metrics: ''

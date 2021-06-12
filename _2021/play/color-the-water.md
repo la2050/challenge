@@ -1,6 +1,7 @@
 ---
 application_id: '4849317937'
 title: Joyful Antiracist Surf Lessons for BIPOC
+title_es: 'Alegres lecciones de surf antirracista para personas negras, indígenas y de color (BIPOC)'
 organization_description: A fiscally sponsored group
 project_video: 'https://www.youtube.com/watch?v=WIJFPH2ovgU&t=3s'
 link_donate: gf.me/u/yp5cr6
@@ -28,6 +29,8 @@ project_description: >-
   surf based on a love and respect for the ocean centered in sharing, community
   and compassion, while helping surfers care for and protect the ocean and each
   other.
+project_description_es: >-
+  A través de lecciones de surf gratuitas para personas negras, indígenas y de color (BIPOC), educación sobre la historia y cultura del surf y contenido multimedia original que eleva la representación, Color the Water se compromete a luchar contra el racismo, recuperar la tierra y las aguas costeras y cambiar la cultura del surf en Los Ángeles. Estamos transformando la cultura del surf de la forma agresiva y territorial que es ahora en algo similar a sus raíces: el surf basado en el amor y el respeto por el océano centrado en el compartir, la comunidad y la compasión, mientras ayudamos a los surfistas a cuidar y proteger el océano y a cada uno. otro.
 category: play
 connect_metrics: ''
 create_metrics: ''

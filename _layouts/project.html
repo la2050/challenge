@@ -28,11 +28,11 @@ stylesheets:
   
 <p class="category">
   <a href="/{{ page.category }}/#projects" style="text-transform: none;">
-    <span style="text-transform: uppercase;">{{ page.category }}</span>
+    <span style="text-transform: uppercase;">{% include translate.html text=page.category %}</span>
     {% if site.phase == site.WINNERS_ANNOUNCED %}
-      {% if is_winner %} Winner {% include ribbon.svg %} {% elsif is_finalist %} Finalist {% endif %}
-    {% elsif site.phase == site.FINALISTS_ANNOUNCED %}
-      {% if is_finalist %} Finalist {% endif %}
+      {% if is_winner %} {% include translate.html text="Winner" %} {% include ribbon.svg %} {% elsif is_finalist %} {% include translate.html text="Finalist" %} {% endif %}
+    {% elsif site.phase >= site.FINALISTS_ANNOUNCED %}
+      {% if is_finalist %} {% include translate.html text="Finalist" %} {% endif %}
     {% endif %}
   </a>
 </p>
@@ -112,7 +112,13 @@ stylesheets:
 
 <div class="proposal-description">
 {% unless page['organization_name'] == page['title'] %}
-<h2 style="margin-top: 0.75rem;" class="organization">{{ page.title }}</h2>
+<h2 style="margin-top: 0.75rem;" class="organization">
+  {% if site.language == "es" and page.title_es %}
+    {{ page.title_es }}
+  {% else %}
+    {{ page.title }}
+  {% endif %}
+</h2>
 {% endunless %}
 <!-- TODO: Handle long lists of collaborators:
   /learn/wish-academy-high-school/
@@ -123,7 +129,11 @@ stylesheets:
 <p style="font-style: italic; font-size: 0.875em; font-weight: 500;">{{ page.organization_description }}</p>
 
 <p style="margin-bottom: 0">
-  {{ page.project_description }}
+  {% if site.language == "es" and page.project_description_es %}
+    {{ page.project_description_es }}
+    {% else %}
+    {{ page.project_description }}
+  {% endif %}
 </p>
 
 {% if is_finalist and site.phase == site.FINALISTS_ANNOUNCED %}

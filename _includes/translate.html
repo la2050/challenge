@@ -1,5 +1,7 @@
 {% if site.language == "en" -%}
   {{ include.text }}
-{%- else -%}
+{%- elsif site.data.translations[site.language][include.text] -%}
   {{ site.data.translations[site.language][include.text] }}
+{%- else -%}
+  {{ include.text }}
 {%- endif %}

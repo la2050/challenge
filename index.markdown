@@ -7,5 +7,9 @@ show_promotion: true
 use_default_meta_description: true
 ---
 
-{% capture about %}{% include about-the-challenge.md %}{% endcapture %}
+{% if site.language == "es" %}
+  {% capture about %}{% include_relative about-the-challenge-es.markdown %}{% endcapture %}
+{% else %}
+  {% capture about %}{% include_relative about-the-challenge-en.markdown %}{% endcapture %}
+{% endif %}
 {{ about | markdownify }}

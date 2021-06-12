@@ -20,6 +20,7 @@
   {% elsif site.phase >= site.FINALISTS_ANNOUNCED %}
   <li {% if page.url contains '/finalists/' %} class="active" {% endif %}><a href="/finalists/">{% include translate.html text="Finalists" %}</a></li>
   {% endif %}
+  {% if site.language != "es" or site.phase < site.FINALISTS_ANNOUNCED %}
   {% if site.phase >= site.ENTRIES_BEING_ACCEPTED %}
   {% if site.phase >= site.ENTRIES_SHOWN_ON_THE_WEBSITE or site.show_early_entries == true %}
   <li {% if page.url == '/entries/' or 
@@ -30,7 +31,10 @@
             page.url == '/live/' %}      class="active" {% endif %}><a href="/entries/">{% include translate.html text="Proposals" %}</a></li>
   {% endif %}
   {% endif %}
+  {% endif %}
+  {% if site.language != "es" or site.phase < site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
   <li {% if page.url == '/submit/' %}    class="active" {% endif %}><a href="/submit/">{% include translate.html text="Submit" %}</a></li>
+  {% endif %}
   <li {% if page.url == '/vote/' %}      class="active" {% endif %}><a href="/vote/">{% include translate.html text="Vote" %}</a></li>
   <li {% if page.url == '/timeline/' %}  class="active" {% endif %}><a href="/timeline/">{% include translate.html text="Timeline" %}</a></li>
   <li {% if page.url == '/faqs/' %}      class="active" {% endif %}><a href="/faqs/">{% include translate.html text="FAQs" %}</a></li>

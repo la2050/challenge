@@ -1,6 +1,7 @@
 ---
 application_id: '2095679573'
-title: Building Accessibility For Persons With Disabilities
+title: 'Building Accessibility For Persons With Disabilities'
+title_es: 'Construyendo accesibilidad para personas con discapacidades'
 organization_description: Nonprofit
 project_video: 'https://youtu.be/KYkQwMNJlC4'
 link_donate: 'https://app.mobilecause.com/vf/ANGEL'
@@ -27,6 +28,8 @@ project_description: >-
   mental, and emotional well-being. The general public has an opportunity to
   participate in these adaptive activities, creating greater connection and
   awareness.
+project_description_es: >-
+  Angel City Sports apoya a las personas con discapacidades a alcanzar su máximo potencial para involucrarse con sus comunidades, así como ayudar a la comunidad a descubrir cómo practicar de manera proactiva y respetuosa la inclusión de la discapacidad. Para lograr esto, creamos un amplio espectro de oportunidades de bienestar adaptativo para adultos y niños con discapacidades físicas para apoyar su bienestar físico, mental y emocional. El público tiene la oportunidad de participar en estas actividades de adaptación, creando una mayor conexión y conciencia.
 category: play
 connect_metrics: ''
 create_metrics: ''
