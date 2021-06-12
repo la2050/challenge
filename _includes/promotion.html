@@ -59,7 +59,7 @@
         {% endif %}
         <span class="avoid-break">
           <strong>
-            {% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE %}
+            {% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %}
           </strong>.
         </span>
       </span>
@@ -75,7 +75,7 @@
         <a href="/vote/">{% include translate.html text="cast your votes" %}</a>! 
         <span class="avoid-break">
           {% include translate.html text="Vote by" %}
-          {% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE %}.
+          {% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %}.
         </span>
       </p>
 
