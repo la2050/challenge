@@ -94,7 +94,7 @@ And, check out the [additional awards available from this year's {{ site.year }}
 
 {% if site.phase == site.NEW_CHALLENGE_ANNOUNCED %}
 
-Starting **{% include translate-date.html date=site.ENTRIES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %}** <small>({{ site.ENTRIES_BEING_ACCEPTED_TIME }})</small>, you can <a href="/submit/#guidelines">submit</a> your proposal on this website.
+Starting <strong>{% include translate-date.html date=site.ENTRIES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %}</strong> <small>({{ site.ENTRIES_BEING_ACCEPTED_TIME }})</small>, you can <a href="/submit/#guidelines">submit</a> your proposal on this website.
 
 Read our <a href="/submit/#guidelines">application guidelines</a>.
 

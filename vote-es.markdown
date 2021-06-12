@@ -5,7 +5,7 @@
 <div class="introduction" markdown="1" style="margin-bottom: 0;">
 
 {% if site.phase < site.FINALISTS_ANNOUNCED %}
-Starting **{% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %}** <small class="avoid-break">({{ site.VOTES_BEING_ACCEPTED_TIME }})</small>, <span class="avoid-break">you can vote for the finalists on this website.</span>
+Starting <strong>{% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %}</strong> <small class="avoid-break">({{ site.VOTES_BEING_ACCEPTED_TIME }})</small>, <span class="avoid-break">you can vote for the finalists on this website.</span>
 
 <p style="font-size: inherit; margin-bottom: 2.25em;">
 <small style="font-size: 0.875em;" markdown="1">You can cast five votes, one per [goal category](/about/#goals).</small>
@@ -21,7 +21,7 @@ Starting **{% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE fo
 <p id="postponed" style="font-size: inherit; margin-bottom: 3em; max-width: 45em; margin-left: auto; margin-right: auto;"><em style="color: inherit; font-weight: inherit">Following the lead of the My LA2050 finalists, we have decided to postpone the public voting portion of the My LA2050 Grants Challenge by one month. We are proud of our finalists who are on the frontlines of advocacy and service in LA and want to support them in focusing their resources at this crucial time. Voting will now take place from Monday, July 13, 2020 (9am Pacific Time) through Monday, July 20, 2020 (5pm Pacific Time).</em></p>
 {% endif %}
 
-<p style="max-width: 23em" markdown="1">Starting **{% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %}** <small class="avoid-break">({{ site.VOTES_BEING_ACCEPTED_TIME }})</small>, you can vote for the finalists on this website.</p>
+<p style="max-width: 25em" markdown="1">Starting <strong>{% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %}</strong> <small class="avoid-break">({{ site.VOTES_BEING_ACCEPTED_TIME }})</small>, <span class="avoid-break">you can vote for the finalists on this website.</span></p>
 
 <p class="action" markdown="1">
   <a href="/finalists/">I’m ready to vote</a>
