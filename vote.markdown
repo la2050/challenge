@@ -27,19 +27,17 @@ footer_image: true
 
     <p style="max-width: 28em">{% include translate.html text="Starting" %} <strong>{% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %}</strong> <small class="avoid-break">({% include translate.html text=site.VOTES_BEING_ACCEPTED_TIME %})</small>, <span class="avoid-break">{% include translate.html text="you can vote for the finalists on this website" %}.</span></p>
 
-    <p class="action">
-      <a href="/finalists/">{% include translate.html text="I’m ready to vote" %}</a>
-    </p>
     <p style="font-size: inherit; margin-top: 2.25em;">
       <small style="font-size: 0.875em;">{% include translate.html text="You can cast five votes, one per" %} <a href="/about/#goals">{% include translate.html text="goal category" %}</a>.
       </small>
     </p>
 
   {% elsif site.phase == site.VOTES_BEING_ACCEPTED %}
-
+    
     <p class="action">
-      <a href="/vote/form/">Vote now</a>
+      <a href="/finalists/">{% include translate.html text="Vote now" %}</a>
     </p>
+   
     <p style="margin-top: 1.5rem; max-width: 23em">{% include translate.html text="Vote by" %} <strong>{% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %}</strong> <small class="avoid-break">({% include translate.html text=site.VOTING_PERIOD_ENDED_TIME %})</small>.</p>
 
     <p style="font-size: inherit;">
