@@ -2,53 +2,53 @@
 <dl>
 {% if site.phase == site.ENTRIES_BEING_ACCEPTED %}
 <dt><strong><img src="/assets/images/timeline/light.svg" alt="" /> {% include translate.html text="Submission Period" %}</strong></dt>
-<dd><strong>{{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%B %-d, %Y" }}</span></strong></dd>
+<dd><strong>{% include translate-date.html date=site.ENTRIES_BEING_ACCEPTED_DATE format="%B %-d" %} - <span class="avoid-break">{% include translate-date.html date=site.ENTRY_PERIOD_ENDED_DATE format="%B %-d, %Y" %}</span></strong></dd>
 {% else %}
 <dt><img src="/assets/images/timeline/light.svg" alt="" /> {% include translate.html text="Submission Period" %}</dt>
-<dd>{{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%B %-d, %Y" }}</span></dd>
+<dd>{% include translate-date.html date=site.ENTRIES_BEING_ACCEPTED_DATE format="%B %-d" %} - <span class="avoid-break">{% include translate-date.html date=site.ENTRY_PERIOD_ENDED_DATE format="%B %-d, %Y" %}</span></dd>
 {% endif %}
 
 {% if site.phase == site.ENTRY_PERIOD_ENDED %}
 <dt><strong><img src="/assets/images/timeline/checkmark.svg" alt="" /> {% include translate.html text="Moderation Period" %}</strong></dt>
-<dd><strong>{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%B %-d, %Y" }}</span></strong></dd>
+<dd><strong>{% include translate-date.html date=site.ENTRY_PERIOD_ENDED_DATE format="%B %-d" %} - <span class="avoid-break">{% include translate-date.html date=site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE format="%B %-d, %Y" %}</span></strong></dd>
 {% else %}
 <dt><img src="/assets/images/timeline/checkmark.svg" alt="" /> {% include translate.html text="Moderation Period" %}</dt>
-<dd>{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%B %-d, %Y" }}</span></dd>
+<dd>{% include translate-date.html date=site.ENTRY_PERIOD_ENDED_DATE format="%B %-d" %} - <span class="avoid-break">{% include translate-date.html date=site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE format="%B %-d, %Y" %}</span></dd>
 {% endif %}
 
 
 {% if site.phase == site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
 <dt><strong><img src="/assets/images/timeline/clipboard.svg" alt="" /> {% include translate.html text="Evaluation Period" %}</strong></dt>
-<dd><strong>{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.FINALISTS_ANNOUNCED_DATE | date: "%B %-d, %Y" }}</span></strong></dd>
+<dd><strong>{% include translate-date.html date=site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE format="%B %-d" %} - <span class="avoid-break">{% include translate-date.html date=site.FINALISTS_ANNOUNCED_DATE format="%B %-d, %Y" %}</span></strong></dd>
 {% else %}
 <dt><img src="/assets/images/timeline/clipboard.svg" alt="" /> {% include translate.html text="Evaluation Period" %}</dt>
-<dd>{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.FINALISTS_ANNOUNCED_DATE | date: "%B %-d, %Y" }}</span></dd>
+<dd>{% include translate-date.html date=site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE format="%B %-d" %} - <span class="avoid-break">{% include translate-date.html date=site.FINALISTS_ANNOUNCED_DATE format="%B %-d, %Y" %}</span></dd>
 {% endif %}
 
 
 {% if site.phase == site.FINALISTS_ANNOUNCED %}
 <dt><strong><img src="/assets/images/timeline/speaker.svg" alt="" /> {% include translate.html text="Finalists Announced" %}</strong></dt>
-<dd><strong>{{ site.FINALISTS_ANNOUNCED_DATE | date: "%B %-d, %Y" }}</strong></dd>
+<dd><strong>{% include translate-date.html date=site.FINALISTS_ANNOUNCED_DATE format="%B %-d, %Y" %}</strong></dd>
 {% else %}
 <dt><img src="/assets/images/timeline/speaker.svg" alt="" /> {% include translate.html text="Finalists Announced" %}</dt>
-<dd>{{ site.FINALISTS_ANNOUNCED_DATE | date: "%B %-d, %Y" }}</dd>
+<dd>{% include translate-date.html date=site.FINALISTS_ANNOUNCED_DATE format="%B %-d, %Y" %}</dd>
 {% endif %}
 
 
 {% if site.phase == site.VOTES_BEING_ACCEPTED %}
 <dt><strong><img src="/assets/images/timeline/vote.svg" alt="" /> {% include translate.html text="Public Voting" %}</strong></dt>
-<dd><strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.VOTING_PERIOD_ENDED_DATE | date: "%B %-d, %Y" }}</span></strong></dd>
+<dd><strong>{% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%B %-d" %} - <span class="avoid-break">{% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%B %-d, %Y" %}</span></strong></dd>
 {% else %}
 <dt><img src="/assets/images/timeline/vote.svg" alt="" /> {% include translate.html text="Public Voting" %}</dt>
-<dd>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%B %-d" }} - <span class="avoid-break">{{ site.VOTING_PERIOD_ENDED_DATE | date: "%B %-d, %Y" }}</span></dd>
+<dd>{% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%B %-d" %} - <span class="avoid-break">{% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%B %-d, %Y" %}</span></dd>
 {% endif %}
 
 
 {% if site.phase == site.WINNERS_ANNOUNCED %}
 <dt><strong><img src="/assets/images/timeline/ribbon.svg" alt="" /> {% include translate.html text="Winners Announced" %}</strong></dt>
-<dd><strong>{{ site.WINNERS_ANNOUNCED_DATE | date: "%B %-d, %Y" }}</strong></dd>
+<dd><strong>{% include translate-date.html date=site.WINNERS_ANNOUNCED_DATE format="%B %-d, %Y" %}</strong></dd>
 {% else %}
 <dt><img src="/assets/images/timeline/ribbon.svg" alt="" /> {% include translate.html text="Winners Announced" %}</dt>
-<dd>{{ site.WINNERS_ANNOUNCED_DATE | date: "%B %-d, %Y" }}</dd>
+<dd>{% include translate-date.html date=site.WINNERS_ANNOUNCED_DATE format="%B %-d, %Y" %}</dd>
 {% endif %}
 </dl>

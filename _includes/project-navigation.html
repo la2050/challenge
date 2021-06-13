@@ -8,7 +8,7 @@
 <details open>
 <summary>
 <p>
-  <strong>Search</strong> by keyword
+  <strong>{% include translate.html text="Search" %}</strong> {% include translate.html text="by keyword" %}
 </p>
 </summary>
 
@@ -63,18 +63,18 @@
 {% endunless %}
 {% endcomment %}
 
-<p class="browse"><strong>Browse</strong> by goal category</p>
+<p class="browse"><strong>{% include translate.html text="Browse" %}</strong> {% include translate.html text="by goal category" %}</p>
 
 </div>
 
 <div class="action-container">
 
 <ul class="action">
-  <li class="blueberry"><a href="/learn/{{ conditional_finalists_url }}#projects"{% if page.category == 'learn' %} class="active"{% endif %}>Learn</a></li>
-  <li class="banana"><a href="/create/{{ conditional_finalists_url }}#projects"{% if page.category == 'create' %} class="active"{% endif %}>Create</a></li>
-  <li class="strawberry"><a href="/play/{{ conditional_finalists_url }}#projects"{% if page.category == 'play' %} class="active"{% endif %}>Play</a></li>
-  <li class="tangerine"><a href="/connect/{{ conditional_finalists_url }}#projects"{% if page.category == 'connect' %} class="active"{% endif %}>Connect</a></li>
-  <li class="lime"><a href="/live/{{ conditional_finalists_url }}#projects"{% if page.category == 'live' %} class="active"{% endif %}>Live</a></li>
+  <li class="blueberry"><a href="/learn/{{ conditional_finalists_url }}#projects"{% if page.category == 'learn' %} class="active"{% endif %}>{% include translate.html text="Learn" %}</a></li>
+  <li class="banana"><a href="/create/{{ conditional_finalists_url }}#projects"{% if page.category == 'create' %} class="active"{% endif %}>{% include translate.html text="Create" %}</a></li>
+  <li class="strawberry"><a href="/play/{{ conditional_finalists_url }}#projects"{% if page.category == 'play' %} class="active"{% endif %}>{% include translate.html text="Play" %}</a></li>
+  <li class="tangerine"><a href="/connect/{{ conditional_finalists_url }}#projects"{% if page.category == 'connect' %} class="active"{% endif %}>{% include translate.html text="Connect" %}</a></li>
+  <li class="lime"><a href="/live/{{ conditional_finalists_url }}#projects"{% if page.category == 'live' %} class="active"{% endif %}>{% include translate.html text="Live" %}</a></li>
 </ul>
 </div>
 
@@ -88,7 +88,11 @@
 </p>
 {% elsif page.finalists %}
 <p class="count">
-  There are <strong>5</strong> finalists in the <strong class="category">{{ page.category }}</strong> category.<br /><br />
+  {% if site.language == "es" %}
+    Hay <strong>5</strong> finalistas en la categoría de <strong class="category">{% include translate.html text=page.category %}</strong>.<br /><br />
+  {% else %}
+    There are <strong>5</strong> finalists in the <strong class="category">{{ page.category }}</strong> category.<br /><br />
+  {% endif %}
   {% if site.finalists_chosen_by_public_vote %}<small>These finalists are presented in alphabetical order, irrespective of votes.</small>{% endif %}
 </p>
 {% elsif data_list.size <= 0 %}
@@ -97,7 +101,7 @@
 <p class="count">
   There are <strong>{{ data_list.size }}</strong> proposals in the <strong class="category">{{ page.category }}</strong> category.
   {% if site.show_early_entries == true and site.phase < site.ENTRIES_SHOWN_ON_THE_WEBSITE %}<br />
-  <small>Check back soon! More proposals will be showcased on this page by <strong>{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%A, %B %-d, %Y" }}</strong>.</small>
+  <small>Check back soon! More proposals will be showcased on this page by <strong>{% include translate-date.html date=site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE format="%A, %B %-d, %Y" %}</strong>.</small>
   {% endif %}
 </p>
 {% endif %}

@@ -5,14 +5,14 @@ footer_image: true
 ---
 
 <h1>
-  Timeline
+  {% include translate.html text="Timeline" %}
 </h1>
 
 <div class="standard-section timeline"><div markdown="1">
 
 {% include timeline.html %}
 
-**25 finalists** will be selected by our evaluation partner, Social Venture Partners Los Angeles, and the <span class="avoid-break">final award levels will be determined by public vote.</span>
+{% include translate.html text="**25 finalists** will be selected by our evaluation partner, Social Venture Partners Los Angeles, and the final award levels will be determined by public vote." %}
 
 {% if site.voting_postponed == true %}
 <!-- See “TEMPORARY SHIM” below -->

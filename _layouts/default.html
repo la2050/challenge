@@ -330,6 +330,12 @@
     {% include promotion-footer.html %}
   </aside>
 
+  {% if site.language == "es" %}
+  <aside class="footer-promotion">
+    <p style="margin-left: auto; margin-right: auto; display: block; max-width: 48em;"><em markdown="1">{% include translate.html text="Special note for footer (only español)" %}</em></p>
+  </aside>
+  {% endif %}
+
   <footer>
     {% include logotype-headline.html %}
     {% include navigation.html is_footer_navigation=true %}
@@ -477,9 +483,9 @@
           </svg>
         </a>
       </p>
-      <p><small>With support from the <a href="https://goldhirshfoundation.org">Goldhirsh Foundation</a></small></p>
+      <p><small>{% include translate.html text="With support from the" %} <a href="https://goldhirshfoundation.org">Goldhirsh Foundation</a></small></p>
     </div>
-    <p class="action"><a href="{{ site.mailing_list_url }}">Get updates</a></p>
+    <p class="action"><a href="{{ site.mailing_list_url }}">{% include translate.html text="Get updates" %}</a></p>
   </footer>
 
   <script async src="/assets/js/navigation.js?v={{ site.version }}"></script>

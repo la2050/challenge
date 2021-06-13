@@ -1,14 +1,19 @@
 <h1 class="home-intro">
   {% include balcony-background.html
-    description="An illustration of people standing on their balconies and waving, with signs that read: “Thank you essential workers!” and “Black Lives Matter”"
+    description="Una ilustración de personas de pie en sus balcones y saludando, con carteles que dicen: “¡Gracias trabajadores esenciales!” y “Black Lives Matter”"
   %}
-  {% include balcony-text.html
-    description="Together for a brighter future"
+  {% include balcony-text-es.html
+    description="Juntos por un futuro mejor"
   %}
   {% include balcony-butterfly-path.html %}
   {% include balcony-butterfly.html
-    description="Butterfly"
+    description="Mariposa"
   %}
+  <style>
+    .home-intro__action a {
+      min-width: 13em;
+    }
+  </style>
   <div class="home-intro__action"></div>
   <script>
   (function() {
@@ -94,13 +99,13 @@ $10K
 
 {% if site.phase == site.NEW_CHALLENGE_ANNOUNCED %}
 
-Starting **{{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}** <small>({{ site.ENTRIES_BEING_ACCEPTED_TIME }})</small>, you can <a href="/submit/#guidelines">submit</a> your proposal on this website.
+Starting <strong>{% include translate-date.html date=site.ENTRIES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %}</strong> <small>({{ site.ENTRIES_BEING_ACCEPTED_TIME }})</small>, you can <a href="/submit/#guidelines">submit</a> your proposal on this website.
 
 Read our <a href="/submit/#guidelines">application guidelines</a>.
 
 {% elsif site.phase == site.ENTRIES_BEING_ACCEPTED %}
 
-Submissions are open! Apply by <strong>{{ site.ENTRY_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }}</strong> <small>({{ site.ENTRY_PERIOD_ENDED_TIME }})</small>.
+Submissions are open! Apply by <strong>{% include translate-date.html date=site.ENTRY_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %}</strong> <small>({{ site.ENTRY_PERIOD_ENDED_TIME }})</small>.
 
 <p class="action">
   <a href="{{ site.submission_url }}">Submit your idea</a>
@@ -113,10 +118,10 @@ Read our <a href="/submit/#guidelines">application guidelines</a>.
   <em>The submission period is complete.</em>
 </p>
 <p>
-  Proposals will be showcased here by <strong>{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%A, %B %-d, %Y" }}</strong>. 
+  Proposals will be showcased here by <strong>{% include translate-date.html date=site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE format="%A, %B %-d, %Y" %}</strong>. 
   Voting begins on
   <span class="avoid-break">
-    <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
+    <strong>{% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %}</strong>.
   </span>
 </p>
 
@@ -128,7 +133,7 @@ Read our <a href="/submit/#guidelines">application guidelines</a>.
   <a href="/entries/">Check out the proposals</a>.
   Voting begins on
   <span class="avoid-break">
-    <strong>{{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
+    <strong>{% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %}</strong>.
   </span>
 </p>
 

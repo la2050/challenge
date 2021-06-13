@@ -1,8 +1,3 @@
-<h1>
-  FAQs
-</h1>
-
-
 <details class="faq" markdown="1">
 
 <summary markdown="1">
@@ -191,7 +186,7 @@ We want Angelenos to see themselves as part of the solutions we need to improve 
 ## How do I vote?
 </summary>
 
-Public voting will take place between {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.VOTES_BEING_ACCEPTED_TIME }}) and {{ site.VOTING_PERIOD_ENDED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.VOTING_PERIOD_ENDED_TIME }}) on this website, [challenge.la2050.org](https://challenge.la2050.org).
+Public voting will take place between {% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %} ({% include translate.html text=site.VOTES_BEING_ACCEPTED_TIME %}) and {% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %} ({% include translate.html text=site.VOTING_PERIOD_ENDED_TIME %}) on this website, [challenge.la2050.org](https://challenge.la2050.org).
 
 <!--
 If you need additional assistance, check out this [step-by-step guide](LINK) on how to vote. 
@@ -209,13 +204,3 @@ If you need additional assistance, check out this [step-by-step guide](LINK) on 
 Yes! We do all that we can to inform Angelenos about the My LA2050 Grants Challenge through social media, digital ads, our LA2050 newsletter, and more.
 
 </details>
-
-
-
-
-
-
-
-## Send us your questions!
-
-If you have any questions that aren’t answered on this page, please send us an email at [connect@la2050.org](mailto:connect@la2050.org).
