@@ -28,11 +28,20 @@ stylesheets:
   
 <p class="category">
   <a href="/{{ page.category }}/#projects" style="text-transform: none;">
-    <span style="text-transform: uppercase;">{% include translate.html text=page.category %}</span>
+    {% if site.language != "es" %}
+      <span style="text-transform: uppercase;">{% include translate.html text=page.category %}</span>
+    {% endif %}
     {% if site.phase == site.WINNERS_ANNOUNCED %}
-      {% if is_winner %} {% include translate.html text="Winner" %} {% include ribbon.svg %} {% elsif is_finalist %} {% include translate.html text="Finalist" %} {% endif %}
+      {% if is_winner %}
+        {% include translate.html text="Winner" %} {% include ribbon.svg %}
+      {% elsif is_finalist %}
+        {% include translate.html text="Finalist" %}
+      {% endif %}
     {% elsif site.phase >= site.FINALISTS_ANNOUNCED %}
       {% if is_finalist %} {% include translate.html text="Finalist" %} {% endif %}
+    {% endif %}
+    {% if site.language == "es" %}
+      de <span style="text-transform: uppercase;">{% include translate.html text=page.category %}</span>
     {% endif %}
   </a>
 </p>
