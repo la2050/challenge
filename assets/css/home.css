@@ -39,8 +39,7 @@
     align-self: end;
     justify-self: start;
     margin: 0;
-    font-size: 1.5vw;
-    transform: translate(0.35em, -2.7em);
+    font-size: 1.15vw;
   }
   main > .home-intro > .home-intro__action .action a {
     background-color: var(--secondary-color);
@@ -48,6 +47,7 @@
     background-color: white;
     border-color: white;
     color: var(--primary-color);
+    min-width: 13em;
   }
   main > .home-intro > .home-intro__action .action a:hover,
   main > .home-intro > .home-intro__action .action a:active,

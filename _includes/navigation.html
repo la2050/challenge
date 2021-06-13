@@ -50,6 +50,19 @@
       LA2050.org
     </a>
   </li>
+  {% if site.language == "es" %}
+  <li>
+    <a href="https://challenge.la2050.org" style="font-weight: 500; {% if include.is_header_navigation %}color: var(--secondary-color);{% endif %}">
+      English
+    </a>
+  </li>
+  {% elsif false %}
+  <li>
+    <a href="https://es-challenge.la2050.org" style="font-weight: 500; {% if include.is_header_navigation %}color: var(--secondary-color);{% endif %}">
+      Español
+    </a>
+  </li>
+  {% endif %}
 </ul>
 
 </div>
