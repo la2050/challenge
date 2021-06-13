@@ -210,7 +210,7 @@ stylesheets:
 <h2>{% include translate.html text="Love this idea?" %}</h2>
 
 <ul class="action" style="max-width: none;">
-  <li {% if site.phase == site.VOTES_BEING_ACCEPTED %}class="secondary"{% endif %}><a href="{{ link_newsletter_url }}">Stay updated</a></li>
+  <li {% if site.phase == site.VOTES_BEING_ACCEPTED %}class="secondary"{% endif %}><a href="{{ link_newsletter_url }}">{% include translate.html text="Stay updated" %}</a></li>
 </ul>
 </div>
 {% endif %}

@@ -38,6 +38,12 @@
 "play": "jugar"
 "create": "crear"
 
+"Live": "Vivir"
+"Learn": "Aprender"
+"Connect": "Conectar"
+"Play": "Jugar"
+"Create": "Crear"
+
 # Finalist / Winner
 "Finalist": "Finalista"
 "Winner": "Ganador"
@@ -102,7 +108,11 @@
 "Finalists in the LEARN category": "Los finalistas en la categoría de APRENDER"
 "Finalists in the CREATE category": "Los finalistas en la categoría de CREAR"
 "Browse by goal category": "Navegar por categoría de objetivo"
+"Browse": "Navegar"
+"by goal category": "por categoría de objetivo"
 "Search by keyword": "Buscar"
+"Search": "Buscar"
+"by keyword": "por palabra clave"
 
 # Finalist details
 "Vote for this proposal": "Quiero votar por esta propuesta"
@@ -114,6 +124,7 @@
 "Get involved": "Involucrarse"
 "Donate": "Donar"
 "Volunteer": "Voluntario"
+"Stay updated":	"Mantente actualizado"
 
 "Nonprofit": "Organización sin fines de lucro"
 "A fiscally sponsored group": "Una organización patrocinada fiscalmente"
