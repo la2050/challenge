@@ -81,7 +81,7 @@ footer_image: true
 
 ### ¡Tus votos determinan a nuestros ganadores!
 
-Los **25 finalistas** serán seleccionados por Social Venture Partners Los Angeles (nuestro socio de evaluación), y los <span class="avoid-break">niveles finales de adjudicación se determinarán mediante votación pública.</span>
+Los **25 finalistas** serán seleccionados por Social Venture Partners Los Angeles (nuestro socio de evaluación), y los niveles finales de adjudicación se determinarán mediante votación pública.
 
 Los 25 finalistas recibirán una subvención. La votación determinará el tamaño de las subvenciones que recibirán los finalistas, y los más votados en cada categoría ganarán la subvención del primer lugar. En cada categoría de objetivos:
 
@@ -104,7 +104,7 @@ Los ganadores representarán un conjunto diverso de problemas, estrategias y tá
 
 ### Your votes determine our winners!
 
-**25 finalists** will be selected by Social Venture Partners Los Angeles (our evaluation partner), and the <span class="avoid-break">final award levels will be determined through public vote.</span>
+**25 finalists** will be selected by Social Venture Partners Los Angeles (our evaluation partner), and the final award levels will be determined through public vote.
 
 All 25 finalists will be awarded a grant. Voting will determine the size of the grants finalists receive, with the top voted in each category winning the first place grant. In each goal category:
 

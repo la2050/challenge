@@ -10,25 +10,25 @@ https://developers.facebook.com/tools/debug/sharing/
 ######### Pages #########
 {% endcomment %}
 
-https://challenge.la2050.org/
-https://challenge.la2050.org/about/
-https://challenge.la2050.org/submit/
-https://challenge.la2050.org/vote/
-https://challenge.la2050.org/timeline/
-https://challenge.la2050.org/faqs/
+{{ site.language_url }}/
+{{ site.language_url }}/about/
+{{ site.language_url }}/submit/
+{{ site.language_url }}/vote/
+{{ site.language_url }}/timeline/
+{{ site.language_url }}/faqs/
 
 {% comment %}
 ######### Projects #########
 {% endcomment %}
 
-https://challenge.la2050.org/learn/
-https://challenge.la2050.org/create/
-https://challenge.la2050.org/play/
-https://challenge.la2050.org/connect/
-https://challenge.la2050.org/live/
+{{ site.language_url }}/learn/
+{{ site.language_url }}/create/
+{{ site.language_url }}/play/
+{{ site.language_url }}/connect/
+{{ site.language_url }}/live/
 
 {% assign data_collection = site.collections | where: "label", site.year | first %}
 {% assign data_list = data_collection.docs %}
 {% for project in data_list %}
-https://challenge.la2050.org{{ project.url }}
+{{ site.language_url }}{{ project.url }}
 {% endfor %}

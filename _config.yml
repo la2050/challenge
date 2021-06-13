@@ -5,6 +5,12 @@ description: >-
   learn, create, play, connect, and live.
 image: https://challenge.la2050.org/assets/images/balcony-illustration/1064x751.jpg?v=3
 
+language: en
+language_url: https://challenge.la2050.org
+
+alternate_url_en: https://challenge.la2050.org
+alternate_url_es: https://es-challenge.la2050.org
+
 mailing_list_url: https://la2050.us6.list-manage.com/subscribe/post?u=81b6d7b4efb839b992bf7ae72&amp;id=b16f498212
 office_hours_url: /information-sessions
 # submission_url: https://challengela2050.smapply.io
@@ -28,11 +34,6 @@ redirect_entries_url: https://archive.la2050.org/search/?keywords=2020
 
 image_host: "https://images.la2050.org/challenge"
 
-language: en
-# language: es
-
-
-
 NEW_CHALLENGE_ANNOUNCED: 1
 ENTRIES_BEING_ACCEPTED: 2
 ENTRY_PERIOD_ENDED: 3
@@ -53,10 +54,10 @@ VOTES_BEING_ACCEPTED_DATE:         2021-06-21 12:00:00 -07:00
 VOTING_PERIOD_ENDED_DATE:          2021-06-28 12:00:00 -07:00
 WINNERS_ANNOUNCED_DATE:            2021-07-06 12:00:00 -07:00
 
-ENTRIES_BEING_ACCEPTED_TIME:       9am Pacific Time
-ENTRY_PERIOD_ENDED_TIME:           5pm Pacific Time
-VOTES_BEING_ACCEPTED_TIME:         9am Pacific Time
-VOTING_PERIOD_ENDED_TIME:          5pm Pacific Time
+ENTRIES_BEING_ACCEPTED_TIME:       9 a.m., Pacific Time
+ENTRY_PERIOD_ENDED_TIME:           5 p.m., Pacific Time
+VOTES_BEING_ACCEPTED_TIME:         9 a.m., Pacific Time
+VOTING_PERIOD_ENDED_TIME:          5 p.m., Pacific Time
 
 
 

@@ -186,7 +186,7 @@ We want Angelenos to see themselves as part of the solutions we need to improve 
 ## How do I vote?
 </summary>
 
-Public voting will take place between {% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %} ({% include translate.html text=site.VOTES_BEING_ACCEPTED_TIME %}) and {% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %} ({% include translate.html text=site.VOTING_PERIOD_ENDED_TIME %}) on this website, [challenge.la2050.org](https://challenge.la2050.org).
+Public voting will take place between {% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %} ({% include translate.html text=site.VOTES_BEING_ACCEPTED_TIME %}) and {% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %} ({% include translate.html text=site.VOTING_PERIOD_ENDED_TIME %}) on this website, [es-challenge.la2050.org](/).
 
 <!--
 If you need additional assistance, check out this [step-by-step guide](LINK) on how to vote. 

@@ -9,7 +9,7 @@
   {% include balcony-butterfly.html
     description="Butterfly"
   %}
-  <div class="home-intro__action"></div>
+  <div class="home-intro__action" style="transform: translate(0.5em, -4.2em);"></div>
   <script>
   (function() {
     const button = document.querySelector(".promotion .action");

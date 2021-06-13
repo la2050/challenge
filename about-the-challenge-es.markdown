@@ -9,12 +9,7 @@
   {% include balcony-butterfly.html
     description="Mariposa"
   %}
-  <style>
-    .home-intro__action a {
-      min-width: 13em;
-    }
-  </style>
-  <div class="home-intro__action"></div>
+  <div class="home-intro__action" style="transform: translate(4.4em, -4.2em);"></div>
   <script>
   (function() {
     const button = document.querySelector(".promotion .action");

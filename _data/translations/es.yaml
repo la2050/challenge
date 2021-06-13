@@ -5,6 +5,7 @@
 
 "Voting begins on": "La votación comienza el"
 "Public voting": "Votación pública"
+"public voting": "votación pública"
 "begins on": "comienza el"
 "and closes": "y cierra el"
 
@@ -95,7 +96,7 @@
 
 # Footer
 "The 2021 Grants Challenge is part of the greater LA2050 initiative. We’re working to move Los Angeles toward five goals.": "El My LA2050 Grants Challenge es parte de la mayor iniciativa LA2050. Estamos trabajando para mover Los Ángeles hacía cinco objetivos."
-"Special note for footer (only español)": "Esta es una versión abreviada del sitio web del 2021 My LA2050 Grants Challenge traducida al español. Para ver el sitio web completo en inglés, haga clic aquí."
+"Special note for footer (only español)": "Esta es una versión abreviada del sitio web del 2021 My LA2050 Grants Challenge traducida al español. Para ver el sitio web completo en inglés, [haga clic aquí](https://challenge.la2050.org/)."
 "With support from the": "Con el apoyo de la"
 "Get updates": "Obtener actualizaciones"
 
@@ -129,6 +130,7 @@
 "Vote by": "Vota antes del"
 "You can cast five votes, one per": "Puede emitir cinco votos, uno por"
 "goal category": "categoría de objetivo"
+"Learn more about": "Aprender más sobre la"
 "Love this idea?": "¿Te encanta esta idea?"
 "Get involved": "Involucrarse"
 "Donate": "Donar"
@@ -150,7 +152,7 @@
 
 "Select": "Elige"
 "Selected": "Elegida"
-"Learn more": "Aprende mas"
+"Learn more": "Aprende más"
 "You voted in": "He votado en"
 "out of": "de"
 "categories": "categorías"
