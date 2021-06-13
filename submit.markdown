@@ -24,7 +24,7 @@ footer_image: true
 {% else %}
 
 <p class="action" markdown="1">
-  <a href="{{ site.mailing_list_url }}">Get updates</a>
+  <a href="{{ site.mailing_list_url }}">{% include translate.html text="Get updates" %}</a>
 </p>
 
 {% endif %}
@@ -58,7 +58,7 @@ Voting begins on
 </small>
 
 <p class="action" markdown="1">
-  <a href="{{ site.mailing_list_url }}">Get updates</a>
+  <a href="{{ site.mailing_list_url }}">{% include translate.html text="Get updates" %}</a>
 </p>
 
 </div>
@@ -176,7 +176,7 @@ Apply between {% include translate-date.html date=site.ENTRIES_BEING_ACCEPTED_DA
 
 Your application will go through a simple moderation process to ensure that it adheres to all challenge rules. Applications that make it through the initial vetting will be published on the My LA2050 Grants Challenge website on {% include translate-date.html date=site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE format="%A, %B %-d, %Y" %} to allow the public to read about and engage with the proposals. Our external evaluation committee of community leaders, led by Social Venture Partners Los Angeles, will review and score applications to determine five finalists in each goal category (a total of 25 finalists).
 
-From {% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %} ({{ site.VOTES_BEING_ACCEPTED_TIME }}) through {% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %} ({{ site.VOTING_PERIOD_ENDED_TIME }}) the 25 finalists will move on to the public voting phase. Public vote will determine the winners' final award level. First place in each category will receive $100,000, second: $50,000, third: $25,000, fourth: $15,000, and fifth: $10,000. The winners will be announced via the <a href="{{ site.mailing_list_url }}">LA2050 Newsletter</a> on {% include translate-date.html date=site.WINNERS_ANNOUNCED_DATE format="%A, %B %-d, %Y" %}.
+From {% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %} ({% include translate.html text=site.VOTES_BEING_ACCEPTED_TIME %}) through {% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %} ({% include translate.html text=site.VOTING_PERIOD_ENDED_TIME %}) the 25 finalists will move on to the public voting phase. Public vote will determine the winners' final award level. First place in each category will receive $100,000, second: $50,000, third: $25,000, fourth: $15,000, and fifth: $10,000. The winners will be announced via the <a href="{{ site.mailing_list_url }}">LA2050 Newsletter</a> on {% include translate-date.html date=site.WINNERS_ANNOUNCED_DATE format="%A, %B %-d, %Y" %}.
 
 View the [full timeline](/timeline).
 
@@ -221,10 +221,10 @@ _What are the rules for submitting a proposal to the My LA2050 Grants Challenge?
 * Winning projects must be completed, and the grant award must be expended, within 12 months of receipt of funds.
 * New projects, as well as existing and ongoing projects are eligible for submission.
 * Previous applicants and winners of LA2050 grant programs may reapply.
-* All projects will be featured on this site by {% include translate-date.html date=site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE format="%A, %B %-d, %Y" %}, and public voting will be open from {% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %} ({{ site.VOTES_BEING_ACCEPTED_TIME }}) through {% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %} ({{ site.VOTING_PERIOD_ENDED_TIME }}).
-* <em>Evaluation</em>: Evaluation will take place between {% include translate-date.html date=site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE format="%A, %B %-d, %Y" %} and {% include translate-date.html date=site.FINALISTS_ANNOUNCED_DATE format="%A, %B %-d, %Y" %}. The 25 finalists (five in each goal category) will be announced before voting begins on {% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %} ({{ site.VOTES_BEING_ACCEPTED_TIME }})
+* All projects will be featured on this site by {% include translate-date.html date=site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE format="%A, %B %-d, %Y" %}, and public voting will be open from {% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %} ({% include translate.html text=site.VOTES_BEING_ACCEPTED_TIME %}) through {% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %} ({% include translate.html text=site.VOTING_PERIOD_ENDED_TIME %}).
+* <em>Evaluation</em>: Evaluation will take place between {% include translate-date.html date=site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE format="%A, %B %-d, %Y" %} and {% include translate-date.html date=site.FINALISTS_ANNOUNCED_DATE format="%A, %B %-d, %Y" %}. The 25 finalists (five in each goal category) will be announced before voting begins on {% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %} ({% include translate.html text=site.VOTES_BEING_ACCEPTED_TIME %})
 * Finalists will be selected using the following criteria: impact on chosen goals and metrics, feasibility of proposal, impact on people served, and overall application quality. 
-* <em>Voting</em>: Public voting will occur on this website between {% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %} ({{ site.VOTES_BEING_ACCEPTED_TIME }}) and {% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %} ({{ site.VOTING_PERIOD_ENDED_TIME }}). Voting will determine the grants awarded to the 25 finalists. First place in each goal category will receive $100,000, second: $50,000, third: $25,000, fourth: $15,000, and fifth: $10,000. 
+* <em>Voting</em>: Public voting will occur on this website between {% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %} ({% include translate.html text=site.VOTES_BEING_ACCEPTED_TIME %}) and {% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %} ({% include translate.html text=site.VOTING_PERIOD_ENDED_TIME %}). Voting will determine the grants awarded to the 25 finalists. First place in each goal category will receive $100,000, second: $50,000, third: $25,000, fourth: $15,000, and fifth: $10,000. 
 * Winners will represent a diversity of issues and activities.
 * Winners of the My LA2050 Grants Challenge will be grantees of the Goldhirsh Foundation and will be required to check-in with LA2050 periodically throughout the grant period.
 * [Read all of the official rules for challenge eligibility and participation](https://drive.google.com/file/d/1Ho5MPqGqCXenL-3WcYOrRYMoN5RX0ckq/view?usp=sharing).
@@ -241,7 +241,7 @@ Please note that applications that do not account for COVID-19 restrictions and 
 
 ### Questions
 
-If you have any questions about the information on this page, [please review our FAQs](/faqs) or send us an email at [connect@la2050.org](mailto:connect@la2050.org).
+{% include translate.html text="If you have any questions about the information on this page, [please review our FAQs](/faqs) or send us an email at [connect@la2050.org](mailto:connect@la2050.org)." %}
 
 {% if site.phase == site.NEW_CHALLENGE_ANNOUNCED %}
 
@@ -260,7 +260,7 @@ If you have any questions about the information on this page, [please review our
 {% else %}
 
 <p class="action" markdown="1">
-  <a href="{{ site.mailing_list_url }}">Get updates</a>
+  <a href="{{ site.mailing_list_url }}">{% include translate.html text="Get updates" %}</a>
 </p>
 
 {% endif %}

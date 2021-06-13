@@ -26,7 +26,7 @@
         <span class="avoid-break">All proposals will be showcased here by <strong>{% include translate-date.html date=site.ENTRIES_BEING_ACCEPTED_DATE format="%B %-d, %Y" %}</strong>.</span>
       </p>
       <p class="action">
-        <a href="{{ site.mailing_list_url }}">Get updates</a>
+        <a href="{{ site.mailing_list_url }}">{% include translate.html text="Get updates" %}</a>
       </p>
 
 {% elsif site.phase == site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
@@ -81,7 +81,7 @@
 
       {% if page.layout == "project" and page.category %}
       <p class="action action--short-text">
-        <a href="/vote/form/?{{ page.category }}={{ page.organization_name | url_encode }}">I’m ready to vote</a>
+        <a href="/vote/form/?{{ page.category }}={{ page.organization_name | url_encode }}">{% include translate.html text="I’m ready to vote" %}</a>
       </p>
       {% else %}
       <p class="action action--short-text">
@@ -101,7 +101,7 @@
         </span>
       </p>
       <p class="action action--short-text">
-        <a href="{{ site.mailing_list_url }}">Get updates</a>
+        <a href="{{ site.mailing_list_url }}">{% include translate.html text="Get updates" %}</a>
 
 {% elsif site.phase == site.WINNERS_ANNOUNCED %}
 

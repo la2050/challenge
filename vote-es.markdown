@@ -1,18 +1,18 @@
 <h1>
-  Votación pública
+  {% include translate.html text="Public Voting" %}
 </h1>
 
 <div class="introduction" markdown="1" style="margin-bottom: 0;">
 
 {% if site.phase < site.FINALISTS_ANNOUNCED %}
-Starting <strong>{% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %}</strong> <small class="avoid-break">({{ site.VOTES_BEING_ACCEPTED_TIME }})</small>, <span class="avoid-break">you can vote for the finalists on this website.</span>
+Starting <strong>{% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %}</strong> <small class="avoid-break">({% include translate.html text=site.VOTES_BEING_ACCEPTED_TIME %})</small>, <span class="avoid-break">you can vote for the finalists on this website.</span>
 
 <p style="font-size: inherit; margin-bottom: 2.25em;">
 <small style="font-size: 0.875em;" markdown="1">You can cast five votes, one per [goal category](/about/#goals).</small>
 </p>
 
 <p class="action" markdown="1">
-  <a href="{{ site.mailing_list_url }}">Get updates</a>
+  <a href="{{ site.mailing_list_url }}">{% include translate.html text="Get updates" %}</a>
 </p>
 
 {% elsif site.phase == site.FINALISTS_ANNOUNCED %}
@@ -21,10 +21,10 @@ Starting <strong>{% include translate-date.html date=site.VOTES_BEING_ACCEPTED_D
 <p id="postponed" style="font-size: inherit; margin-bottom: 3em; max-width: 45em; margin-left: auto; margin-right: auto;"><em style="color: inherit; font-weight: inherit">Following the lead of the My LA2050 finalists, we have decided to postpone the public voting portion of the My LA2050 Grants Challenge by one month. We are proud of our finalists who are on the frontlines of advocacy and service in LA and want to support them in focusing their resources at this crucial time. Voting will now take place from Monday, July 13, 2020 (9am Pacific Time) through Monday, July 20, 2020 (5pm Pacific Time).</em></p>
 {% endif %}
 
-<p style="max-width: 25em" markdown="1">Starting <strong>{% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %}</strong> <small class="avoid-break">({{ site.VOTES_BEING_ACCEPTED_TIME }})</small>, <span class="avoid-break">you can vote for the finalists on this website.</span></p>
+<p style="max-width: 25em" markdown="1">Starting <strong>{% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %}</strong> <small class="avoid-break">({% include translate.html text=site.VOTES_BEING_ACCEPTED_TIME %})</small>, <span class="avoid-break">you can vote for the finalists on this website.</span></p>
 
 <p class="action" markdown="1">
-  <a href="/finalists/">I’m ready to vote</a>
+  <a href="/finalists/">{% include translate.html text="I’m ready to vote" %}</a>
 </p>
 <p style="font-size: inherit; margin-top: 2.25em;" markdown="1">
   <small style="font-size: 0.875em;">You can cast five votes, one per [goal category](/about/#goals).
@@ -37,7 +37,7 @@ Starting <strong>{% include translate-date.html date=site.VOTES_BEING_ACCEPTED_D
 <p class="action" markdown="1">
   <a href="/vote/form/">Vote now</a>
 </p>
-<p style="margin-top: 1.5rem; max-width: 23em" markdown="1">Vote by <strong>{% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %}</strong> <small class="avoid-break">({{ site.VOTING_PERIOD_ENDED_TIME }})</small>.</p>
+<p style="margin-top: 1.5rem; max-width: 23em" markdown="1">Vote by <strong>{% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %}</strong> <small class="avoid-break">({% include translate.html text=site.VOTING_PERIOD_ENDED_TIME %})</small>.</p>
 
 <p style="font-size: inherit;" markdown="1">
   <small style="font-size: 0.875em;">You can cast five votes, one per [goal category](/about/#goals).
@@ -53,7 +53,7 @@ Public voting is complete.
 <small>
   Winners will be announced on 
   <span class="avoid-break">
-    <strong>{% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %}</strong>.
+    <strong>{% include translate-date.html date=site.WINNERS_ANNOUNCED_DATE format="%A, %B %-d, %Y" %}</strong>.
   </span>
 </small>
 
@@ -66,19 +66,6 @@ Public voting is complete.
   <a href="/finalists/">Check out the finalists</a>
 </p>
 {% endif %}
-
-{% elsif site.phase == site.FINALISTS_ANNOUNCED %}
-The finalists have been announced!
-<small>
-  Winners will be announced on 
-  <span class="avoid-break">
-    <strong>{% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %}</strong>.
-  </span>
-</small>
-
-<p class="action">
-  <a href="/finalists/">Check out the finalists</a>
-</p>
 
 {% elsif site.phase == site.WINNERS_ANNOUNCED %}
 The winners have been announced!
@@ -112,13 +99,15 @@ The winners will represent a diverse set of issues, strategies, and tactics. Win
 
 ### Rules
 
-* Voting begins on {% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %} ({{ site.VOTES_BEING_ACCEPTED_TIME }}) and closes {% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %} ({{ site.VOTING_PERIOD_ENDED_TIME }}).
-* Members of the public may vote once per goal category for a total of five votes.
-* Voters must be at least 14 years old and a US resident.
-* To participate in the My LA2050 Grants Challenge, voters must sign in with their mobile phone, email address, or Facebook account.
-* Voters signing in by phone will receive an SMS text message with a confirmation code to enter.
-* Voters signing in by email will be sent an email message with a confirmation link to press.
+
+<ul>
+  <li>{% include translate.html text="Voting begins on" %} {% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %} ({% include translate.html text=site.VOTES_BEING_ACCEPTED_TIME %}) {% include translate.html text="and closes" %} {% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %} ({% include translate.html text=site.VOTING_PERIOD_ENDED_TIME %}).</li>
+  <li>Members of the public may vote once per goal category for a total of five votes.</li>
+  <li>Voters must be at least 14 years old and a US resident. To participate in the My LA2050 Grants Challenge, voters must sign in with their mobile phone or email address.</li>
+  <li>Voters signing in by phone will receive an SMS text message with a confirmation code to enter.</li>
+  <li>Voters signing in by email will be sent an email message with a confirmation link to press.</li>
+</ul>
 
 ### Questions
 
-If you have any questions about the information on this page, [please review our FAQs](/faqs) or send us an email at [connect@la2050.org](mailto:connect@la2050.org).
+{% include translate.html text="If you have any questions about the information on this page, [please review our FAQs](/faqs) or send us an email at [connect@la2050.org](mailto:connect@la2050.org)." %}
