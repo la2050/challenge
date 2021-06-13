@@ -100,7 +100,7 @@ Read our <a href="/submit/#guidelines">application guidelines</a>.
 
 {% elsif site.phase == site.ENTRIES_BEING_ACCEPTED %}
 
-Submissions are open! Apply by <strong>{% include translate-date.html date=site.ENTRY_PERIOD_ENDED_TIME format="%A, %B %-d, %Y" %}</strong> <small>({{ site.ENTRY_PERIOD_ENDED_TIME }})</small>.
+Submissions are open! Apply by <strong>{% include translate-date.html date=site.ENTRY_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %}</strong> <small>({{ site.ENTRY_PERIOD_ENDED_TIME }})</small>.
 
 <p class="action">
   <a href="{{ site.submission_url }}">Submit your idea</a>
