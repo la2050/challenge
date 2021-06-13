@@ -152,7 +152,7 @@ You may want to visit our [home page](/) instead.
   }
 
   function showSaveMessage(err) {
-    document.getElementById('headline').textContent = 'Saving your votes…'
+    document.getElementById('headline').textContent = '{% include translate.html text="Saving your votes…" %}'
     button.style.visibility = 'hidden'
   }
 

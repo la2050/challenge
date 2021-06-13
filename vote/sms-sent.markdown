@@ -100,30 +100,15 @@ stylesheets:
     console.log('showErrorMessage: ' + message)
 
     if (message === "Wrong phone number or verification code.") {
-      message = "That verification code isn’t correct or may have expired. Please try entering it again or"    
+      message = "{% include translate.html text="That verification code isn’t correct or may have expired." %} {% include translate.html text="Please try entering it again or" %}"
       document.getElementById('resend').style.display = 'inline'
     }
 
-    if (message === "Invalid request body. All and only of client_id, credential_type, username, otp, realm are required.") message = "Please enter the verification code that we sent you."
+    if (message === "Invalid request body. All and only of client_id, credential_type, username, otp, realm are required.") message = "{% include translate.html text="Please enter the verification code that we sent you." %}"
 
     document.getElementById('headline').textContent      = '{% include translate.html text="Oops! Something went wrong" %}'
     document.getElementById('message-details').textContent = message
-
-    // form.action = '/vote/form/'
-    // form.method = 'get'
-    // button.style.visibility = 'visible'
-    // button.textContent = 'Start over'
-
-    // if (saveTimeout) clearTimeout(saveTimeout)
   }
-
-  // var saveTimeout
-  // function refreshTimeout() {
-  //   if (saveTimeout) clearTimeout(saveTimeout)
-  //   saveTimeout = setTimeout(function() {
-  //     showErrorMessage('The sign in process timed out.')
-  //   }, 5000)
-  // }
 
   function submit(form, options){
     console.log('submit form');
@@ -193,8 +178,6 @@ stylesheets:
           console.log(err)
           console.dir(err)
         } else {
-          // form.action = '/vote/sms-sent/';
-          // form.method = 'get';
 
           console.log('res');
           console.log(res)
@@ -224,11 +207,6 @@ stylesheets:
             console.log('res');
             console.log(res)
             console.dir(res)
-
-            // form.action = form.action + '?' + votesData.join('&');
-            // form.submit();
-            // document.querySelector('.introduction').style.display = 'block';
-            // document.querySelector('form').style.display = 'none';
           }
 
 

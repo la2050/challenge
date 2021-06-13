@@ -183,6 +183,11 @@
 "Verification Code": "Código de Verificación"
 "Submit": "Ingresar"
 
+"Oops! Something went wrong": "¡UPS! Algo salió mal"
+"That verification code isn’t correct or may have expired.": "Ese código de verificación no es correcto o puede haber caducado."
+"Please try entering it again or": "Intente ingresarlo nuevamente u"
+"get a new verification code": "obtenga un nuevo código de verificación"
+
 "Confirm votes with email": "Confirmar votos con correo electrónico"
 "Next, we’ll send a message to your email address with a link to confirm your votes.": "A continuación, le enviaremos un mensaje a su dirección de correo electrónico con un enlace para confirmar sus votos."
 "Email address": "Dirección de correo electrónico"
@@ -194,7 +199,7 @@
 "We sent the message to:": "Enviamos el mensaje a:"
 "Didn’t get an email? It might be in your “spam” folder.": "¿No recibiste un correo electrónico? Puede que esté en su correo de “spam”."
 
-"Saving your votes...": "Guardando tus votos ..."
+"Saving your votes…": "Guardando tus votos…"
 "Thanks for voting!": "¡Gracias por votar!"
 "Your votes have been received and will help us choose the winners.": "Tus votos han sido recibidos y nos ayudarán a elegir a los ganadores."
 "Find out when the winners have been announced": "Descubra cuándo se han anunciado los ganadores"
