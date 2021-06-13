@@ -1,8 +1,3 @@
-<h1>
-  Preguntas Frecuentes
-</h1>
-
-
 <details class="faq" markdown="1">
 
 <summary markdown="1">
@@ -209,13 +204,3 @@ If you need additional assistance, check out this [step-by-step guide](LINK) on 
 Yes! We do all that we can to inform Angelenos about the My LA2050 Grants Challenge through social media, digital ads, our LA2050 newsletter, and more.
 
 </details>
-
-
-
-
-
-
-
-## Send us your questions!
-
-If you have any questions that aren’t answered on this page, please send us an email at [connect@la2050.org](mailto:connect@la2050.org).
