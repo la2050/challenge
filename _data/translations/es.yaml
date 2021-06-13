@@ -145,4 +145,17 @@
 : "¡Es hora de votar! Puede votar por un finalista en cada una de las cinco categorías de objetivos, por un _total de cinco votos_"
 
 ? "Which proposal will make LA the best place to"
-: "¿Qué propuesta hará de Los Ángeles el mejor lugar para"
+: "¿Cuál propuesta hará Los Angeles el mejor lugar para"
+
+"Select": "Elige"
+"Selected": "Elegida"
+"Learn more": "Aprende mas"
+"You voted in": "He votado en"
+"out of": "de"
+"categories": "categorías"
+"Confirm my votes": "Confirmar mis votos"
+"Please enter your ZIP Code": "Por favor ingrese tu código postal"
+"Next": "Siguiente"
+
+? "LA2050 uses ZIP Codes to determine how much of Los Angeles we’re reaching, but Codes from anywhere in the United States are accepted."
+: "LA2050 usa códigos postales para determinar a qué parte de Los Ángeles estamos llegando, pero se aceptan códigos de cualquier parte de los Estados Unidos."

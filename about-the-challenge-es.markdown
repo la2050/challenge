@@ -9,6 +9,11 @@
   {% include balcony-butterfly.html
     description="Mariposa"
   %}
+  <style>
+    .home-intro__action a {
+      min-width: 13em;
+    }
+  </style>
   <div class="home-intro__action"></div>
   <script>
   (function() {
