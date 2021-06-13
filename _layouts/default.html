@@ -4,9 +4,26 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  {% capture title %}{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}{% endcapture %}
+  {% comment %} 1) Get the title from the page or the config {% endcomment %}
+  {% capture title %}{% if page.title %}{% else %}{{ site.title }}{% endif %}{% endcapture %}
+
+  {% comment %} 2) Translate the title {% endcomment %}
+  {% capture title %}{% include translate.html text=title %}{% endcapture %}
+
+  {% comment %} 3) Use translated project title, if available {% endcomment %}
+  {% if site.language == "es" and page.title_es %}
+    {% assign title = page.title_es %}
+  {% else %}
+    {% assign title = page.title %}
+  {% endif %}
+
+  {% comment %} 4) Add the name of the organization {% endcomment %}
   {% capture title_and_organization %}{% if page.organization_name and page.organization_name != title %}{{ page.organization_name }} / {% endif %}{{ title }}{% endcapture %}
-  <title>{{ title_and_organization }}{% unless page.title contains site.title %} / {{ site.title }}{% endunless %}</title>
+
+  {% comment %} 5) Add the name of the site {% endcomment %}
+  {% capture title_and_organization_and_site %}{{ title_and_organization }}{% unless title_and_organization contains site.title %} / {{ site.title }}{% endunless %}{% endcapture %}
+
+  <title>{{ title_and_organization_and_site }}</title>
   <meta property="og:title" content="{{ title_and_organization }}" />
 
   <link rel="alternate" hreflang="en" href="{{ site.alternate_url_en }}/" />
@@ -78,11 +95,15 @@
 
 
   {% if page.project_description and page.project_description != '' %}
-    {% assign description = page.project_description %}
+    {% if site.language == "es" and page.project_description_es %}
+      {% assign description = page.project_description_es %}
+    {% else %}
+      {% assign description = page.project_description %}
+    {% endif %}
   {% elsif page.use_default_meta_description == true %}
-    {% assign description = site.description %}
+    {% capture description %}{% include translate.html text=site.description %}{% endcapture %}
   {% elsif layout.use_default_meta_description == true %}
-    {% assign description = site.description %}
+    {% capture description %}{% include translate.html text=site.description %}{% endcapture %}
   {% endif %}
   {% if description and description != '' %}
     <meta name="description" content="{{ description }}" />
