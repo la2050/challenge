@@ -190,7 +190,7 @@ main > h1:first-child::before {
       {% if site.phase == site.VOTES_BEING_ACCEPTED %}
         <strong style="font-weight: inherit; color: inherit;">We’re ready for you to <a href="/vote/" style="color: inherit; font-weight: inherit;">cast your votes</a></strong>! <span class="avoid-break">Vote by <span class="avoid-break"><strong>{% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %}</strong>.</span></span>
       {% else %}
-        <strong style="font-weight: inherit; color: inherit;"><a href="/vote/" style="color: inherit; font-weight: inherit;">{% include translate.html text="Public voting" %}</a></strong> {% include translate.html text="begins on" %} <span class="avoid-break"><strong>{% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %}</strong>.</span>
+        <strong style="font-weight: inherit; color: inherit;"><a href="/vote/" style="color: inherit; font-weight: inherit;">{% include translate.html text="Public voting" %}</a></strong> {% include translate.html text="begins on" %} <span class="avoid-break"><strong>{% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %}</strong>.</span>
       {% endif %}
     </small>
     <!-- <small style="letter-spacing: 0; font-style: normal;" class="avoid-break">
