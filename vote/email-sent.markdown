@@ -11,18 +11,18 @@ stylesheets:
 # Oops!
 
 <div class="introduction" markdown="1">
-Public voting is complete.
+{% include translate.html text="This page couldn’t be found." %}
 
-You may want to visit our [home page](/) instead.
+{% include translate.html text="You may want to visit our [home page](/) instead." %}
 </div>
 
 {% else %}
 
 <div class="introduction" markdown="1">
 
-<h1>Please check your email</h1>
+<h1>{% include translate.html text="Please check your email" %}</h1>
 
-<p>We sent a message to your email address with a link to <span style="display: inline-block">confirm your votes.</span></p>
+<p>{% include translate.html text="We sent a message to your email address with a link to confirm your votes." %}</p>
 
 <form action="/vote/email-sent/" method="get">
 
@@ -36,11 +36,11 @@ You may want to visit our [home page](/) instead.
 <input type="hidden" name="email" />
 <input type="hidden" name="subscribe_email_list" />
 
-<p class="action"><button type="submit">Resend email</button></p>
+<p class="action"><button type="submit">{% include translate.html text="Resend email" %}</button></p>
 
 </form>
 
-<p><small>We sent the message to: <b id="sent-to-email" style="display: inline-block"></b><br /></small> <small>Didn’t get an email? It might be in your “spam” folder.</small></p>
+<p><small>{% include translate.html text="We sent the message to:" %} <b id="sent-to-email" style="display: inline-block"></b><br /></small> <small>{% include translate.html text="Didn’t get an email? It might be in your “spam” folder." %}</small></p>
 
 </div>
 
@@ -147,8 +147,6 @@ You may want to visit our [home page](/) instead.
         form.action = form.action + '?' + votesData.join('&');
 
         form.submit();
-        // document.querySelector('.introduction').style.display = 'block';
-        // document.querySelector('form').style.display = 'none';
       }
 
     });

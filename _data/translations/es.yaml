@@ -115,9 +115,6 @@
 ? "If you have any questions that aren’t answered on this page, please send us an email at [connect@la2050.org](mailto:connect@la2050.org)."
 : "Si tiene alguna pregunta sobre la información de esta página, envíenos un correo electrónico a [connect@la2050.org](mailto:connect@la2050.org)."
 
-
-
-
 # Finalists
 "Finalists in the CONNECT category": "Los finalistas en la categoría de CONECTAR"
 "Finalists in the LIVE category": "Los finalistas en la categoría de VIVIR"
@@ -169,3 +166,43 @@
 
 ? "LA2050 uses ZIP Codes to determine how much of Los Angeles we’re reaching, but Codes from anywhere in the United States are accepted."
 : "LA2050 usa códigos postales para determinar a qué parte de Los Ángeles estamos llegando, pero se aceptan códigos de cualquier parte de los Estados Unidos."
+
+"You’re _almost_ done!": "¡Ya _casi_ terminas!"
+"Now it’s time to confirm your votes": "Ahora es el momento de confirmar tus votos"
+"Confirm votes with…": "Confirmar votos con…"
+"Phone": "Teléfono"
+"Email": "Correo electrónico"
+
+"Confirm votes with your phone": "Confirmar votos con tu teléfono"
+"Next we’ll send a text message to your phone number with a verification code.": "A continuación, le enviaremos un mensaje de texto a su número de teléfono con un código de verificación."
+"Phone number": "Número de teléfono"
+"Send text message": "Envía mensaje de texto"
+"We will only use this phone number to complete the voting process. (No spam, we promise!)": "Solo usaremos este número de teléfono para completar el proceso de votación. (¡No spam, lo prometemos!)"
+"Please check your phone": "Por favor revisa tu teléfono"
+"We sent a text message to your phone number with a verification code. Please enter it here.": "Enviamos un mensaje de texto a tu número de teléfono con un código de verificación. Por favor introdúzcalo aquí."
+"Verification Code": "Código de Verificación"
+"Submit": "Ingresar"
+
+"Confirm votes with email": "Confirmar votos con correo electrónico"
+"Next, we’ll send a message to your email address with a link to confirm your votes.": "A continuación, le enviaremos un mensaje a su dirección de correo electrónico con un enlace para confirmar sus votos."
+"Email address": "Dirección de correo electrónico"
+"Send Email": "Mande un correo electrónico"
+"Submit Votes": "Enviar Votos"
+"Please check your email": "Por favor revisa tu correo electrónico"
+"We sent a message to your email address with a link to confirm your votes.": "Enviamos un mensaje a tu dirección de correo electrónico con un enlace para confirmar sus votos."
+"Resend email": "Reenviar mensaje"
+"We sent the message to:": "Enviamos el mensaje a:"
+"Didn’t get an email? It might be in your “spam” folder.": "¿No recibiste un correo electrónico? Puede que esté en su correo de “spam”."
+
+"Saving your votes...": "Guardando tus votos ..."
+"Thanks for voting!": "¡Gracias por votar!"
+"Your votes have been received and will help us choose the winners.": "Tus votos han sido recibidos y nos ayudarán a elegir a los ganadores."
+"Find out when the winners have been announced": "Descubra cuándo se han anunciado los ganadores"
+"Connect with us…": "Conéctate con nosotros..."
+"Email Newsletter": "Boletín Electrónico"
+
+# 404 not found
+"Page not found": "Página no encontrada"
+"Oops!": "¡UPS!"
+"This page couldn’t be found.": "No se pudo encontrar esta página."
+"You may want to visit our [home page](/) instead.": "Es posible que desee visitar nuestra [página de inicio](/)."

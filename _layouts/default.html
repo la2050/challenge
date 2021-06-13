@@ -5,25 +5,27 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   {% comment %} 1) Get the title from the page or the config {% endcomment %}
-  {% capture title %}{% if page.title %}{% else %}{{ site.title }}{% endif %}{% endcapture %}
+  {% capture title %}{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}{% endcapture %}
 
   {% comment %} 2) Translate the title {% endcomment %}
   {% capture title %}{% include translate.html text=title %}{% endcapture %}
 
   {% comment %} 3) Use translated project title, if available {% endcomment %}
-  {% if site.language == "es" and page.title_es %}
+  {% if site.language == "es" and page.title_es and page.title_es != '' %}
     {% assign title = page.title_es %}
-  {% else %}
-    {% assign title = page.title %}
   {% endif %}
 
   {% comment %} 4) Add the name of the organization {% endcomment %}
-  {% capture title_and_organization %}{% if page.organization_name and page.organization_name != title %}{{ page.organization_name }} / {% endif %}{{ title }}{% endcapture %}
+  {% if page.organization_name and page.organization_name != title %}
+    {% capture title %}{{ page.organization_name }} / {{ title }}{% endcapture %}
+  {% endif %}
 
   {% comment %} 5) Add the name of the site {% endcomment %}
-  {% capture title_and_organization_and_site %}{{ title_and_organization }}{% unless title_and_organization contains site.title %} / {{ site.title }}{% endunless %}{% endcapture %}
+  {% unless title contains site.title %}
+    {% capture title %}{{ title }} / {{ site.title }}{% endcapture %}
+  {% endunless %}
 
-  <title>{{ title_and_organization_and_site }}</title>
+  <title>{{ title }}</title>
   <meta property="og:title" content="{{ title_and_organization }}" />
 
   <link rel="alternate" hreflang="en" href="{{ site.alternate_url_en }}/" />

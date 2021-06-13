@@ -11,18 +11,18 @@ stylesheets:
 # Oops!
 
 <div class="introduction" markdown="1">
-This page couldn’t be found.
+{% include translate.html text="This page couldn’t be found." %}
 
-You may want to visit our [home page](/) instead.
+{% include translate.html text="You may want to visit our [home page](/) instead." %}
 </div>
 
 {% else %}
 
 <div class="introduction" markdown="1">
 
-<h1>Please check your phone</h1>
+<h1>{% include translate.html text="Please check your phone" %}</h1>
 
-We sent a text message to your phone number with a verification code. <span style="display: inline-block;">Please enter it here.</span>
+<p>{% include translate.html text="We sent a text message to your phone number with a verification code. Please enter it here." %}</p>
 
 <form action="/vote/sms-sent/" method="get">
 <input type="hidden" name="learn" />
@@ -35,17 +35,18 @@ We sent a text message to your phone number with a verification code. <span styl
 
 <p style="font-size: 1em">
   <label>
-    <span class="label-text">Verification Code</span>
-    <input type="text" pattern="[0-9]*" inputmode="number" placeholder="Verification Code" name="verification_code" required="required" autofocus="autofocus" />
+    <span class="label-text">{% include translate.html text="Verification Code" %}</span>
+    {% capture translation_text_verification_code %}{% include translate.html text="Verification Code" %}{% endcapture %}
+    <input type="text" pattern="[0-9]*" inputmode="number" placeholder="{{ translation_text_verification_code }}" name="verification_code" required="required" autofocus="autofocus" />
   </label>
-  <button type="submit">Submit</button>
+  <button type="submit">{% include translate.html text="Submit" %}</button>
 </p>
 </form>
 
-<p><small>We sent the message to: <b id="sent-to-telephone" style="display: inline-block"></b> </small></p>
+<p><small>{% include translate.html text="We sent the message to:" %} <b id="sent-to-telephone" style="display: inline-block"></b> </small></p>
 
 <h3 style="max-width: none; text-align: center; margin-bottom: 0;" id="headline"></h3>
-<p style="margin-top: 0"><small><span id="message-details"></span> <span id="resend" style="display: none"><a href="#resend">get a new verification code</a>.</span></small></p>
+<p style="margin-top: 0"><small><span id="message-details"></span> <span id="resend" style="display: none"><a href="#resend">{% include translate.html text="get a new verification code" %}</a>.</span></small></p>
 
 </div>
 
@@ -91,7 +92,7 @@ We sent a text message to your phone number with a verification code. <span styl
 
 <script>
   function showSaveMessage(err) {
-    document.getElementById('headline').textContent = 'Saving your votes…'
+    document.getElementById('headline').textContent = '{% include translate.html text="Saving your votes…" %}'
     button.style.visibility = 'hidden'
   }
 
@@ -105,7 +106,7 @@ We sent a text message to your phone number with a verification code. <span styl
 
     if (message === "Invalid request body. All and only of client_id, credential_type, username, otp, realm are required.") message = "Please enter the verification code that we sent you."
 
-    document.getElementById('headline').textContent      = 'Oops! Something went wrong'
+    document.getElementById('headline').textContent      = '{% include translate.html text="Oops! Something went wrong" %}'
     document.getElementById('message-details').textContent = message
 
     // form.action = '/vote/form/'

@@ -133,19 +133,22 @@ font-size: calc(1vmax + 1.5rem);" aria-label="Start voting" xmlns="http://www.w3
 
     <section id="finish" class="lime hidden">
       <div>
-        <h2>You’re <em>almost</em> done!</h2>
-        <p>Now it’s time to confirm your votes.</p>
-        <h3>Confirm votes with…</h3>
+        <h2>
+          {% capture translation_text %}{% include translate.html text="You’re _almost_ done!" %}{% endcapture %}
+          {{ translation_text | markdownify }}
+        </h2>
+        <p>{% include translate.html text="Now it’s time to confirm your votes." %}</p>
+        <h3>{% include translate.html text="Confirm votes with…" %}</h3>
 
         <ul class="action buttons">
           {% if site.voting_enable_phone == true %}
           <li class="phone-button phone-button-hidden">
-            <button type="submit" name="sign_in_by" value="phone">Phone</button>
+            <button type="submit" name="sign_in_by" value="phone">{% include translate.html text="Phone" %}</button>
           </li>
           {% endif %}
           {% if site.voting_enable_email == true %}
           <li>
-            <button type="submit" name="sign_in_by" value="email">Email</button>
+            <button type="submit" name="sign_in_by" value="email">{% include translate.html text="Email" %}</button>
           </li>
           {% endif %}
           {% if site.voting_enable_facebook == true %}
@@ -159,34 +162,34 @@ font-size: calc(1vmax + 1.5rem);" aria-label="Start voting" xmlns="http://www.w3
 
     <section id="sign-in-phone" class="strawberry hidden">
       <div>
-        <h2>Confirm votes with your phone</h2>
-        <p>Next we’ll send a text message to your phone number with a verification code.</p>
+        <h2>{% include translate.html text="Confirm votes with your phone" %}</h2>
+        <p>{% include translate.html text="Next we’ll send a text message to your phone number with a verification code." %}</p>
         <p class="field-button">
           <label>
-            <span class="label-text">Phone number</span>
-            <input type="tel" name="telephone" pattern="^[\+]?[0-9\s\-\.\(\)}]{10,20}$" placeholder="Phone number" />
+            <span class="label-text">{% include translate.html text="Phone number" %}</span>
+            {% capture translation_text_phone_number %}{% include translate.html text="Phone number" %}{% endcapture %}
+            <input type="tel" name="telephone" pattern="^[\+]?[0-9\s\-\.\(\)}]{10,20}$" placeholder="{{ translation_text_phone_number }}" />
           </label>
-          <button type="submit">Send text message</button>
+          <button type="submit">{% include translate.html text="Send text message" %}</button>
         </p>
-        <p><small>We will only use this phone number to complete the voting process. (No spam, we promise!)</small></p>
+        <p><small>{% include translate.html text="We will only use this phone number to complete the voting process. (No spam, we promise!)" %}</small></p>
       </div>
     </section>
 
     <section id="sign-in-email" class="tangerine">
       <div>
-        <h2 class="email-headline-alternate">Please enter your email address</h2>
-        <h2 class="email-headline email-text-hidden">Confirm votes with email</h2>
-        <p class="email-text email-text-hidden">Next, we'll send a message to your email address with a link to confirm your votes.</p>
+        <h2 class="email-headline-alternate">{% include translate.html text="Please enter your email address" %}</h2>
+        <h2 class="email-headline email-text-hidden">{% include translate.html text="Confirm votes with email" %}</h2>
+        <p class="email-text email-text-hidden">{% include translate.html text="Next, we’ll send a message to your email address with a link to confirm your votes." %}</p>
         <p class="field-button banana">
           <label>
-            <span class="label-text">Email address</span>
-            <input type="email" name="email" placeholder="Email address" required="required" />
+            <span class="label-text">{% include translate.html text="Email address" %}</span>
+            {% capture translation_text_email %}{% include translate.html text="Email address" %}{% endcapture %}
+            <input type="email" name="email" placeholder="{{ translation_text_email }}" required="required" style="min-width: 20em" />
           </label>
-          <button type="submit" id="send-email-button">Submit Votes</button>
+          <button type="submit" id="send-email-button">{% include translate.html text="Submit Votes" %}</button>
         </p>
-        <!--
-        <p><small>We will only use this email address for official emails from LA2050. (No spam, we promise!)</small></p>
-        -->
+        {% if site.language != "es" %}
         <p class="checkbox">
           <label>
             <input type="checkbox" name="subscribe_email_list" value="Yes" checked="checked">
@@ -199,6 +202,7 @@ font-size: calc(1vmax + 1.5rem);" aria-label="Start voting" xmlns="http://www.w3
           </label>
         </p>
         <p class="note"><small>Sign up for our newsletter—where we'll announce the winners—and twice a month, you'll receive updates on local resources, volunteer opportunities, job listings, and more that help you make a difference in Los Angeles.</small></p>
+        {% endif %}
       </div>
     </section>
 

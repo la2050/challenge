@@ -20,19 +20,19 @@ You may want to visit our [home page](/) instead.
 
 <div class="introduction" markdown="1">
 
-<h1>Thanks for voting!</h1>
+<h1>{% include translate.html text="Thanks for voting!" %}</h1>
 
-Your votes have been received, and will help us choose the winners.
+{% include translate.html text="Your votes have been received and will help us choose the winners." %}
 
 <div style="max-width: none; text-align: center;" markdown="1" class="news">
 
-<h2 style="max-width: none; text-align: center;">Find out when the winners have been announced</h2>
+<h2 style="max-width: none; text-align: center;">{% include translate.html text="Find out when the winners have been announced" %}</h2>
 
-<small>Connect with us…</small>
+<small>{% include translate.html text="Connect with us…" %}</small>
 
 <ul class="action">
   <li>
-    <a href="{{ site.mailing_list_url }}" target="_blank" rel="noopener">Email Newsletter</a>
+    <a href="{{ site.mailing_list_url }}" target="_blank" rel="noopener">{% include translate.html text="Email Newsletter" %}</a>
   </li>
   <li>
     <a href="https://twitter.com/LA2050" target="_blank" rel="noopener">
