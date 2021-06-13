@@ -170,7 +170,7 @@ stylesheets:
   </span>
   <br />
   <br />
-  <small style="font-size: 0.875em; font-weight: 500; line-height: 1.7142857143;">{% include translate.html text="Vote by" %} <strong>{% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %}</strong>. {% include translate.html text="You can cast five votes, one per" %} <a href="/about/#goals" style="color: inherit">{% include translate.html text="goal category" %}</a>. <span class="avoid-break">Learn more about <span class="avoid-break"><a href="/vote/" style="color: inherit">public voting</a>.</span></span></small>
+  <small style="font-size: 0.875em; font-weight: 500; line-height: 1.7142857143;">{% include translate.html text="Vote by" %} <strong>{% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %}</strong>. {% include translate.html text="You can cast five votes, one per" %} <a href="/about/#goals" style="color: inherit">{% include translate.html text="goal category" %}</a>. <span class="avoid-break">{% include translate.html text="Learn more about" %} <span class="avoid-break"><a href="/vote/" style="color: inherit">{% include translate.html text="public voting" %}</a>.</span></span></small>
 </p>
 {% endif %}
 
@@ -292,7 +292,10 @@ stylesheets:
 <div class="proposal-in-depth">
 
 {% if site.language == "es" %}
-  <p style="grid-column: 2/3;"><em>{% include translate.html text="Special note for proposals (only español)" %}</em></p>
+  <div style="grid-column: 2/3; color: var(--primary-color-readability, gray); font-weight: 600; font-style: italic;">
+      {% capture special_note %}{% include translate.html text="Special note for proposals (only español)" %}{% endcapture %}
+      {{ special_note | markdownify }}
+  </div>
 
   <hr />
 {% endif %}
@@ -316,11 +319,11 @@ stylesheets:
 
 <p class="vote-action" style="grid-column: 2/-1;">
   <span class="action">
-    <a href="/vote/form/?{{ page.category }}={{ page.organization_name | url_encode }}">Vote for this proposal</a>
+    <a href="/vote/form/?{{ page.category }}={{ page.organization_name | url_encode }}">{% include translate.html text="Vote for this proposal" %}</a>
   </span>
   <br />
   <br />
-  <small style="font-size: 0.875em; font-weight: 500; line-height: 1.7142857143;">{% include translate.html text="Vote by" %} <strong>{% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %}</strong>. {% include translate.html text="You can cast five votes, one per" %} <a href="/about/#goals" style="color: inherit">{% include translate.html text="goal category" %}</a>. <span class="avoid-break">Learn more about <span class="avoid-break"><a href="/vote/" style="color: inherit">public voting</a>.</span></span></small>
+  <small style="font-size: 0.875em; font-weight: 500; line-height: 1.7142857143;">{% include translate.html text="Vote by" %} <strong>{% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %}</strong>. {% include translate.html text="You can cast five votes, one per" %} <a href="/about/#goals" style="color: inherit">{% include translate.html text="goal category" %}</a>. <span class="avoid-break">{% include translate.html text="Learn more about" %} <span class="avoid-break"><a href="/vote/" style="color: inherit">{% include translate.html text="public voting" %}</a>.</span></span></small>
 </p>
 {% endif %}
 
@@ -360,7 +363,8 @@ stylesheets:
 {% assign data_list = data_collection.docs %}
 {% assign data_list = data_list | where: "category", page.category %}
 
-{% if data_list.size > 2 %}
+
+{% if data_list.size > 2 and site.language != "es" %}
 
 <ul class="proposals more-proposals" style="margin-top: 3em;">
 
@@ -449,7 +453,9 @@ stylesheets:
 
 {% endif %}
 
-{% include project-navigation.html %}
+{% if site.language != "es" %}
+  {% include project-navigation.html %}
+{% endif %}
 
 <div style="margin-bottom: 4.5em"></div>
 

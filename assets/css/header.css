@@ -540,7 +540,7 @@
     }
   } */
 
-  @media (min-width: 105em) {
+  @media (min-width: 125em) {
     header .navigation,
     footer .navigation {
       display: flex;

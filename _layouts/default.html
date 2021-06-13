@@ -332,7 +332,12 @@
 
   {% if site.language == "es" %}
   <aside class="footer-promotion">
-    <p style="margin-left: auto; margin-right: auto; display: block; max-width: 48em;"><em markdown="1">{% include translate.html text="Special note for footer (only español)" %}</em></p>
+
+    <div style="margin-left: auto; margin-right: auto; display: block; max-width: 48em; color: var(--primary-color-readability, gray); font-weight: 600; font-style: italic;">
+        {% capture special_note %}{% include translate.html text="Special note for footer (only español)" %}{% endcapture %}
+        {{ special_note | markdownify }}
+    </div>
+
   </aside>
   {% endif %}
 
