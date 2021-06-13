@@ -37,7 +37,7 @@ Starting <strong>{% include translate-date.html date=site.VOTES_BEING_ACCEPTED_D
 <p class="action" markdown="1">
   <a href="/vote/form/">Vote now</a>
 </p>
-<p style="margin-top: 1.5rem; max-width: 23em" markdown="1">Vote by <strong>{% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %}</strong> <small class="avoid-break">({% include translate.html text=site.VOTING_PERIOD_ENDED_TIME %})</small>.</p>
+<p style="margin-top: 1.5rem; max-width: 23em" markdown="1">Vote by <strong>{% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %}</strong> <small class="avoid-break">({% include translate.html text=site.VOTING_PERIOD_ENDED_TIME %})</small>.</p>
 
 <p style="font-size: inherit;" markdown="1">
   <small style="font-size: 0.875em;">You can cast five votes, one per [goal category](/about/#goals).
@@ -101,7 +101,7 @@ The winners will represent a diverse set of issues, strategies, and tactics. Win
 
 
 <ul>
-  <li>{% include translate.html text="Voting begins on" %} {% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %} ({% include translate.html text=site.VOTES_BEING_ACCEPTED_TIME %}) {% include translate.html text="and closes" %} {% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %} ({% include translate.html text=site.VOTING_PERIOD_ENDED_TIME %}).</li>
+  <li>{% include translate.html text="Voting begins on" %} {% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %} ({% include translate.html text=site.VOTES_BEING_ACCEPTED_TIME %}) {% include translate.html text="and closes" %} {% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %} ({% include translate.html text=site.VOTING_PERIOD_ENDED_TIME %}).</li>
   <li>Members of the public may vote once per goal category for a total of five votes.</li>
   <li>Voters must be at least 14 years old and a US resident. To participate in the My LA2050 Grants Challenge, voters must sign in with their mobile phone or email address.</li>
   <li>Voters signing in by phone will receive an SMS text message with a confirmation code to enter.</li>
