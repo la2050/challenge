@@ -53,13 +53,15 @@
     <br />
     <div class="text">
       <div class="text-inner">
-        {% if project.organization_name == "EVERYBODY.WORLD" %}
-          <h3>EVERYBODY&shy;.WORLD</h3>
-        {% else %}
-          <h3>{{ project.organization_name }}</h3>
-        {% endif %}
+        <h3>{{ project.organization_name }}</h3>
         {% unless project.title == project.organization_name %}
-        <p>{{ project.title }}</p>
+        <p>
+          {% if site.language == "es" and project.title_es %}
+            {{ project.title_es }}
+          {% else %}
+            {{ project.title }}
+          {% endif %}
+        </p>
         {% endunless %}
       </div>
     </div>
