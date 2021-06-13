@@ -1,13 +1,26 @@
 {% if site.language == "es" -%}
-  {% capture day_of_week %}{{ include.date | date: "%A" }}{% endcapture %}
-  {% capture month %}{{ include.date | date: "%B" }}{% endcapture %}
-
-  {% include translate.html text=day_of_week %},
-  {{ include.date | date: "%-d" }}
-  de
-  {% include translate.html text=month %}
-  de
-  {{ include.date | date: "%Y" }}
+  {%- capture day_of_week %}{{ include.date | date: "%A" }}{% endcapture -%}
+  {%- capture month %}{{ include.date | date: "%B" }}{% endcapture -%}
+  {%- if include.format == "%A, %B %-d, %Y" -%}
+    {% include translate.html text=day_of_week %}
+    {{ include.date | date: "%-d" }}
+    de
+    {% include translate.html text=month %}
+    de
+    {{ include.date | date: "%Y" }}
+  {%- elsif include.format == "%B %-d, %Y" -%}
+    {{ include.date | date: "%-d" }}
+    de
+    {% include translate.html text=month %}
+    de
+    {{ include.date | date: "%Y" }}
+  {%- elsif include.format == "%B %-d" -%}
+    {{ include.date | date: "%-d" }}
+    de
+    {% include translate.html text=month %}
+  {%- else -%}
+    {{ include.date | date: include.format }}
+  {%- endif -%}
 {%- else -%}
-  {{ include.date | date: "%A, %B %-d, %Y" }}
+  {{ include.date | date: include.format }}
 {%- endif %}

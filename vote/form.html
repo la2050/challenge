@@ -13,8 +13,8 @@ stylesheets:
       <a href="/" class="logo">
         {% include logotype.html %}
       </a>
-      <p>Voting begins on {{ site.VOTES_BEING_ACCEPTED_DATE | date: "%A, %B %-d, %Y" }} ({{ site.VOTES_BEING_ACCEPTED_TIME }}).</p>
-      <p class="action"><a href="{{ site.mailing_list_url }}">Get updates</a></p>
+      <p>{% include translate.html text="Voting begins on" %} {% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %} ({% include translate.html text=site.VOTES_BEING_ACCEPTED_TIME %}).</p>
+      <p class="action"><a href="{{ site.mailing_list_url }}">{% include translate.html text="Get updates" %}</a></p>
     </div>
   </div>
 
@@ -26,7 +26,7 @@ stylesheets:
         {% include logotype.html %}
       </a>
       <p>Public voting is complete.</p>
-      <p class="action"><a href="{{ site.mailing_list_url }}">Get updates</a></p>
+      <p class="action"><a href="{{ site.mailing_list_url }}">{% include translate.html text="Get updates" %}</a></p>
     </div>
   </div>
 
@@ -51,15 +51,11 @@ stylesheets:
       </a>
       <p>
         {% if site.language == "es" %}
-          ¡Es hora de votar! Puede votar por un finalista en cada una de las cinco categorías de objetivos, por un 
-          <em style="color: inherit; font-weight: inherit; font-style: inherit; text-decoration: underline;">
-            total de cinco votos
-          </em>.
+          ¡Es tiempo para votar! Puedes votar por un finalista en cada de las cinco objetivo categorías, por un
+          <em style="color: inherit; font-weight: inherit; font-style: inherit; text-decoration: underline;">total de cinco votos</em>.
         {% else %}
           It’s time to vote! You can vote for one finalist in each of the five goal categories, for a
-          <em style="color: inherit; font-weight: inherit; font-style: inherit; text-decoration: underline;">
-            total of five votes
-          </em>.
+          <em style="color: inherit; font-weight: inherit; font-style: inherit; text-decoration: underline;">total of five votes</em>.
         {% endif %}
       </p>
       <p>
@@ -84,9 +80,15 @@ font-size: calc(1vmax + 1.5rem);" aria-label="Start voting" xmlns="http://www.w3
 
     <div id="questions">
       <p>
-        If you need help completing this voting form, check out our <a href="/faqs/" target="_blank"><abbr title="Frequently asked questions">FAQs</abbr></a>.
-        <br />
-        You can also send us an email at <a href="mailto:connect@la2050.org">connect@la2050.org</a> or read more about the <a href="/vote/" target="_blank">voting process and rules</a>.
+        {% if site.language == "es" %}
+          Si necesita ayuda para completar este formulario de votación, consulte nuestra pagina con <a href="/faqs/" target="_blank">preguntas frecuentes</a>.
+          <br />
+          También puede enviarnos un correo electrónico a <a href="mailto:connect@la2050.org">connect@la2050.org</a>  o leer más sobre el proceso de <a href="/vote/" target="_blank">votación y las reglas</a>.
+        {% else %}
+          If you need help completing this voting form, check out our <a href="/faqs/" target="_blank"><abbr title="Frequently asked questions">FAQs</abbr></a>.
+          <br />
+          You can also send us an email at <a href="mailto:connect@la2050.org">connect@la2050.org</a> or read more about the <a href="/vote/" target="_blank">voting process and rules</a>.
+        {% endif %}
       </p>
     </div>
 
@@ -111,22 +113,21 @@ font-size: calc(1vmax + 1.5rem);" aria-label="Start voting" xmlns="http://www.w3
     {% include vote-category-fieldset.html %}
 
     <div class="progress hidden" id="progress">
-      <!-- <p class="action"><a href="#zip">Confirm my votes</a></p> -->
-      <p class="action"><button type="submit">Confirm my votes</button></p>
-      <p role="status" aria-live="polite">You voted in <strong id="vote-count">1</strong> out of <strong>5</strong> categories.</p> 
+      <p class="action"><button type="submit">{% include translate.html text="Confirm my votes" %}</button></p>
+      <p role="status" aria-live="polite">{% include translate.html text="You voted in" %} <strong id="vote-count">1</strong> {% include translate.html text="out of" %} <strong>5</strong> {% include translate.html text="categories" %}.</p> 
     </div>
 
     <section id="zip" class="banana">
       <div>
-        <h2 style="color: var(--strawberry) !important">Please enter your ZIP Code</h2>
+        <h2 style="color: var(--strawberry) !important">{% include translate.html text="Please enter your ZIP Code" %}</h2>
         <p class="field-button">
           <label>
             <span class="label-text">ZIP Code</span>
             <input type="text" name="zip" pattern="[0-9]*" inputmode="number" required="required" />
           </label>
-          <button type="submit" class="hidden">Next</button>
+          <button type="submit" class="hidden">{% include translate.html text="Next" %}</button>
         </p>
-        <p><small style="color: var(--strawberry) !important">LA2050 uses ZIP Codes to determine how much of Los Angeles we’re reaching.</small></p>
+        <p style="max-width: 33em"><small style="color: var(--strawberry) !important">{% include translate.html text="LA2050 uses ZIP Codes to determine how much of Los Angeles we’re reaching, but Codes from anywhere in the United States are accepted." %}</small></p>
       </div>
     </section>
 

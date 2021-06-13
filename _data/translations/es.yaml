@@ -1,26 +1,35 @@
 
+# Times
+"9am Pacific Time": "9 a.m., hora del Pacífico"
+"5pm Pacific Time": "5 p.m., hora del Pacífico"
+
+"Voting begins on": "La votación comienza el"
+"Public voting": "Votación pública"
+"begins on": "comienza el"
+"and closes": "y cierra el"
+
 # Day of the week
-"Monday": "Lunes"
-"Tuesday": "Martes"
-"Wednesday": "Miércoles"
-"Thursday": "Jueves"
-"Friday": "Viernes"
-"Saturday": "Sábado"
-"Sunday": "Domingo"
+"Monday": "lunes"
+"Tuesday": "martes"
+"Wednesday": "miércoles"
+"Thursday": "jueves"
+"Friday": "viernes"
+"Saturday": "sábado"
+"Sunday": "domingo"
 
 # Months
-"January": "Enero"
-"February": "Febrero"
-"March": "Marzo"
-"April": "Abril"
-"May": "Mayo"
-"June": "Junio"
-"July": "Julio"
-"August": "Agosto"
-"September": "Septiembre"
-"October": "Octubre"
-"November": "Noviembre"
-"December": "Diciembre"
+"January": "enero"
+"February": "febrero"
+"March": "marzo"
+"April": "abril"
+"May": "mayo"
+"June": "junio"
+"July": "julio"
+"August": "agosto"
+"September": "septiembre"
+"October": "octubre"
+"November": "noviembre"
+"December": "diciembre"
 
 # Goal categories
 "live": "vivir"
@@ -28,6 +37,12 @@
 "connect": "conectar"
 "play": "jugar"
 "create": "crear"
+
+"Live": "Vivir"
+"Learn": "Aprender"
+"Connect": "Conectar"
+"Play": "Jugar"
+"Create": "Crear"
 
 # Finalist / Winner
 "Finalist": "Finalista"
@@ -44,49 +59,103 @@
 "Timeline": "Cronología"
 "FAQs": "Preguntas Frecuentes"
 
+# Timeline
+"Submission Period": "Aplicación"
+"Moderation Period": "Moderación"
+"Evaluation Period": "Evaluación"
+"Finalists Announced": "Los Finalistas"
+"Public Voting": "Votación Pública"
+"Winners Announced": "Los Ganadores"
+
+? "**25 finalists** will be selected by our evaluation partner, Social Venture Partners Los Angeles, and the final award levels will be determined by public vote."
+: "**25 finalistas** serán seleccionados por nuestro socio de evaluación, Social Venture Partners Los Angeles, y los niveles finales de subvenciones se determinarán mediante votación pública."
+
 # Promotion
 "Check out the finalists!": "¡Mira a los finalistas!"
 "The finalists have been announced!": "¡Se han anunciado los finalistas!"
-"Public voting": "Votación pública"
-"begins on": "comienza en"
+
+"Public voting is complete": "La votación pública está completa"
+
+"Winners will be announced on": "Los ganadores serán anunciados el"
+
+"Check out the winners": "¡Mira a los ganadores!"
+"The winners have been announced!": "¡Los ganadores han sido anunciados!"
+
 
 "I’m ready to vote": "¡Quiero votar!"
 "We’re ready for you to": "Estamos listos para que tú"
 "cast your votes": "votes"
+
+# Vote
+"Starting": "A partir del"
+"you can vote for the finalists on this website": "puede votar por los finalistas en este sitio web"
+"Rules": "Reglas"
+"Questions": "Preguntas"
+
+# Footer
+"The 2021 Grants Challenge is part of the greater LA2050 initiative. We’re working to move Los Angeles toward five goals.": "El My LA2050 Grants Challenge es parte de la mayor iniciativa LA2050. Estamos trabajando para mover Los Ángeles hacía cinco objetivos."
+"Special note for footer (only español)": "Esta es una versión abreviada del sitio web del 2021 My LA2050 Grants Challenge traducida al español. Para ver el sitio web completo en inglés, haga clic aquí."
+"With support from the": "Con el apoyo de la"
+"Get updates": "Obtener actualizaciones"
+
+? "If you have any questions about the information on this page, [please review our FAQs](/faqs) or send us an email at [connect@la2050.org](mailto:connect@la2050.org)."
+: "Si tiene alguna pregunta sobre la información de esta página, [consulte nuestras preguntas frecuentes](/faqs) o envíenos un correo electrónico a [connect@la2050.org](mailto:connect@la2050.org)."
+
+"Send us your questions!": "¡Envíenos sus preguntas!"
+
+? "If you have any questions that aren’t answered on this page, please send us an email at [connect@la2050.org](mailto:connect@la2050.org)."
+: "Si tiene alguna pregunta sobre la información de esta página, envíenos un correo electrónico a [connect@la2050.org](mailto:connect@la2050.org)."
+
+
+
+
+# Finalists
+"Finalists in the CONNECT category": "Los finalistas en la categoría de CONECTAR"
+"Finalists in the LIVE category": "Los finalistas en la categoría de VIVIR"
+"Finalists in the PLAY category": "Los finalistas en la categoría de JUGAR"
+"Finalists in the LEARN category": "Los finalistas en la categoría de APRENDER"
+"Finalists in the CREATE category": "Los finalistas en la categoría de CREAR"
+"Browse by goal category": "Navegar por categoría de objetivo"
+"Browse": "Navegar"
+"by goal category": "por categoría de objetivo"
+"Search by keyword": "Buscar"
+"Search": "Buscar"
+"by keyword": "por palabra clave"
+
+# Finalist details
+"Vote for this proposal": "Quiero votar por esta propuesta"
+"Coming soon!": "¡Pronto!"
 "Vote by": "Vota antes del"
+"You can cast five votes, one per": "Puede emitir cinco votos, uno por"
+"goal category": "categoría de objetivo"
+"Love this idea?": "¿Te encanta esta idea?"
+"Get involved": "Involucrarse"
+"Donate": "Donar"
+"Volunteer": "Voluntario"
+"Stay updated":	"Mantente actualizado"
+
+"Nonprofit": "Organización sin fines de lucro"
+"A fiscally sponsored group": "Una organización patrocinada fiscalmente"
+"Social enterprise or B-corps": "Empresa social o B-corps"
+
+"Special note for proposals (only español)": "Esta propuesta del My LA2050 Grants Challenge se presentó originalmente en inglés y se ha traducido parcialmente al español para el período de votación pública. Para ver la propuesta completa en inglés, haga clic aquí."
 
 # Vote form
 ? "It’s time to vote! You can vote for one finalist in each of the five goal categories, for a _total of five votes_"
 : "¡Es hora de votar! Puede votar por un finalista en cada una de las cinco categorías de objetivos, por un _total de cinco votos_"
 
 ? "Which proposal will make LA the best place to"
-: "¿Qué propuesta hará de Los Ángeles el mejor lugar para"
+: "¿Cuál propuesta hará Los Angeles el mejor lugar para"
 
-#Timeline
-"Submission Period": "APLICACIÓN"
-"Moderation Period": "MODERACIÓN"
-"Evaluation Period": "EVALUACIÓN"
-"Finalists Announced": "LOS FINALISTAS"
-"Public Voting": "VOTACIÓN PÚBLICA"
-"Winners Announced": "LOS GANADORES"
+"Select": "Elige"
+"Selected": "Elegida"
+"Learn more": "Aprende mas"
+"You voted in": "He votado en"
+"out of": "de"
+"categories": "categorías"
+"Confirm my votes": "Confirmar mis votos"
+"Please enter your ZIP Code": "Por favor ingrese tu código postal"
+"Next": "Siguiente"
 
-#Footer
-"The 2021 Grants Challenge is part of the greater LA2050 initiative. We’re working to move Los Angeles toward five goals.": "El My LA2050 Grants Challenge es parte de la mayor iniciativa LA2050. Estamos trabajando para mover Los Ángeles hacía cinco objetivos."
-"With support from the GOLDHIRSH FOUNDATION": "Con el apoyo de la GOLDHIRSH FOUNDATION"
-"GET UPDATES": "OBTENER ACTUALIZACIONES"
-
-#Finalists
-"Finalists in the CONNECT category": "Los finalistas en la categoría de CONECTAR"
-
-"Finalists in the LIVE category": "Los finalistas en la categoría de VIVIR"
-
-"Finalists in the PLAY category": "Los finalistas en la categoría de JUGAR"
-
-"Finalists in the LEARN category": "Los finalistas en la categoría de APRENDER"
-
-"Finalists in the CREATE category": "Los finalistas en la categoría de CREAR"
-
-"Browse by goal category": "Navegar por categoría de objetivo"
-
-"Search by keyword": "Buscar"
-
+? "LA2050 uses ZIP Codes to determine how much of Los Angeles we’re reaching, but Codes from anywhere in the United States are accepted."
+: "LA2050 usa códigos postales para determinar a qué parte de Los Ángeles estamos llegando, pero se aceptan códigos de cualquier parte de los Estados Unidos."

@@ -1,7 +1,7 @@
 {% if site.phase == site.NEW_CHALLENGE_ANNOUNCED %}
 
       <p>
-       Submissions open on {{ site.ENTRIES_BEING_ACCEPTED_DATE | date: "%B %-d, %Y" }}.
+       Submissions open on {% include translate-date.html date=site.ENTRIES_BEING_ACCEPTED_DATE format="%B %-d, %Y" %}.
         <span class="avoid-break"><a href="/submit/">Read the guidelines</a> and sign up for a virtual <a href="{{ site.office_hours_url }}">information session</a>.</span>
       </p>
       <p class="action">
@@ -12,7 +12,7 @@
 
       <p>
       Don't miss out! 
-       <span class="avoid-break"> Submissions are open now through {{ site.ENTRY_PERIOD_ENDED_DATE | date: "%B %-d, %Y" }}.</span>
+       <span class="avoid-break"> Submissions are open now through {% include translate-date.html date=site.ENTRY_PERIOD_ENDED_DATE format="%B %-d, %Y" %}.</span>
       </p>
 
       <p class="action">
@@ -23,10 +23,10 @@
 
       <p>
         The submission period is complete.
-        <span class="avoid-break">All proposals will be showcased here by <strong>{{ site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE | date: "%A, %B %-d, %Y" }}</strong>.</span>
+        <span class="avoid-break">All proposals will be showcased here by <strong>{% include translate-date.html date=site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE format="%A, %B %-d, %Y" %}</strong>.</span>
       </p>
       <p class="action">
-        <a href="{{ site.mailing_list_url }}">Get updates</a>
+        <a href="{{ site.mailing_list_url }}">{% include translate.html text="Get updates" %}</a>
       </p>
 
 {% elsif site.phase == site.ENTRIES_SHOWN_ON_THE_WEBSITE %}
@@ -36,7 +36,7 @@
         <span class="avoid-break">
           Finalists will be announced on 
           <span class="avoid-break">
-            <strong>{{ site.FINALISTS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
+            <strong>{% include translate-date.html date=site.FINALISTS_ANNOUNCED_DATE format="%A, %B %-d, %Y" %}</strong>.
           </span>
         </span>
       </p>
@@ -59,7 +59,7 @@
         {% endif %}
         <span class="avoid-break">
           <strong>
-            {% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE %}
+            {% include translate-date.html date=site.VOTES_BEING_ACCEPTED_DATE format="%A, %B %-d, %Y" %}
           </strong>.
         </span>
       </span>
@@ -75,13 +75,13 @@
         <a href="/vote/">{% include translate.html text="cast your votes" %}</a>! 
         <span class="avoid-break">
           {% include translate.html text="Vote by" %}
-          {% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE %}.
+          {% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %}.
         </span>
       </p>
 
       {% if page.layout == "project" and page.category %}
       <p class="action action--short-text">
-        <a href="/vote/form/?{{ page.category }}={{ page.organization_name | url_encode }}">I’m ready to vote</a>
+        <a href="/vote/form/?{{ page.category }}={{ page.organization_name | url_encode }}">{% include translate.html text="I’m ready to vote" %}</a>
       </p>
       {% else %}
       <p class="action action--short-text">
@@ -96,12 +96,12 @@
         <span class="avoid-break">
           Winners will be announced on 
           <span class="avoid-break">
-            <strong>{{ site.WINNERS_ANNOUNCED_DATE | date: "%A, %B %-d, %Y" }}</strong>.
+            <strong>{% include translate-date.html date=site.WINNERS_ANNOUNCED_DATE format="%A, %B %-d, %Y" %}</strong>.
           </span>
         </span>
       </p>
       <p class="action action--short-text">
-        <a href="{{ site.mailing_list_url }}">Get updates</a>
+        <a href="{{ site.mailing_list_url }}">{% include translate.html text="Get updates" %}</a>
 
 {% elsif site.phase == site.WINNERS_ANNOUNCED %}
 
