@@ -168,7 +168,7 @@
     votesData.push('zip=' + encodeURIComponent(zip));
 
     var subscribe_email_list;
-    if (document.querySelector('input[name="subscribe_email_list"]').checked) {
+    if (document.querySelector('input[name="subscribe_email_list"]') && document.querySelector('input[name="subscribe_email_list"]').checked) {
       subscribe_email_list = document.querySelector('input[name="subscribe_email_list"]').value;
       votesData.push('subscribe_email_list=' + encodeURIComponent(subscribe_email_list));
     }
@@ -628,7 +628,7 @@
   var button   = document.getElementById('send-email-button')
 
   function update() {
-    if (checkbox.checked) {
+    if (checkbox && checkbox.checked) {
       button.textContent = (window.auth0 && window.auth0.WebAuth) ? 'Subscribe & Send Email' : 'Subscribe & Submit Votes'
     } else {
       button.textContent = (window.auth0 && window.auth0.WebAuth) ? 'Send Email' : 'Submit Votes'

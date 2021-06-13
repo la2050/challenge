@@ -1,5 +1,5 @@
 ---
-title: Page not found, 2021 My LA2050 Grants Challenge
+title: Page not found
 body_class: blueberry
 
 permalink: /404.html
@@ -7,10 +7,10 @@ permalink: /404.html
 canonical_url: /
 ---
 
-# Oops!
+<h1>{% include translate.html text="Oops!" %}</h1>
 
 <div class="introduction" markdown="1">
-This page couldn’t be found.
+{% include translate.html text="This page couldn’t be found." %}
 
-You may want to visit our [home page](/) instead.
+{% include translate.html text="You may want to visit our [home page](/) instead." %}
 </div>
