@@ -12,22 +12,22 @@ layout: null
 {% endcomment %}
 
   <url>
-    <loc>https://challenge.la2050.org/</loc>
+    <loc>{{ site.language_url }}/</loc>
   </url>
   <url>
-    <loc>https://challenge.la2050.org/about/</loc>
+    <loc>{{ site.language_url }}/about/</loc>
   </url>
   <url>
-    <loc>https://challenge.la2050.org/submit/</loc>
+    <loc>{{ site.language_url }}/submit/</loc>
   </url>
   <url>
-    <loc>https://challenge.la2050.org/vote/</loc>
+    <loc>{{ site.language_url }}/vote/</loc>
   </url>
   <url>
-    <loc>https://challenge.la2050.org/timeline/</loc>
+    <loc>{{ site.language_url }}/timeline/</loc>
   </url>
   <url>
-    <loc>https://challenge.la2050.org/faqs/</loc>
+    <loc>{{ site.language_url }}/faqs/</loc>
   </url>
 
 {% if site.phase >= site.WINNERS_ANNOUNCED %}
@@ -36,7 +36,7 @@ layout: null
 ######### Winners #########
 {% endcomment %}
   <url>
-    <loc>https://challenge.la2050.org/winners/</loc>
+    <loc>{{ site.language_url }}/winners/</loc>
   </url>
 
 {% endif %}
@@ -47,22 +47,22 @@ layout: null
 ######### Finalists #########
 {% endcomment %}
   <url>
-    <loc>https://challenge.la2050.org/finalists/</loc>
+    <loc>{{ site.language_url }}/finalists/</loc>
   </url>
   <url>
-    <loc>https://challenge.la2050.org/learn/finalists/</loc>
+    <loc>{{ site.language_url }}/learn/finalists/</loc>
   </url>
   <url>
-    <loc>https://challenge.la2050.org/create/finalists/</loc>
+    <loc>{{ site.language_url }}/create/finalists/</loc>
   </url>
   <url>
-    <loc>https://challenge.la2050.org/play/finalists/</loc>
+    <loc>{{ site.language_url }}/play/finalists/</loc>
   </url>
   <url>
-    <loc>https://challenge.la2050.org/connect/finalists/</loc>
+    <loc>{{ site.language_url }}/connect/finalists/</loc>
   </url>
   <url>
-    <loc>https://challenge.la2050.org/live/finalists/</loc>
+    <loc>{{ site.language_url }}/live/finalists/</loc>
   </url>
 
 {% endif %}
@@ -74,22 +74,22 @@ layout: null
 ######### Entries #########
 {% endcomment %}
   <url>
-    <loc>https://challenge.la2050.org/entries/</loc>
+    <loc>{{ site.language_url }}/entries/</loc>
   </url>
   <url>
-    <loc>https://challenge.la2050.org/learn/</loc>
+    <loc>{{ site.language_url }}/learn/</loc>
   </url>
   <url>
-    <loc>https://challenge.la2050.org/create/</loc>
+    <loc>{{ site.language_url }}/create/</loc>
   </url>
   <url>
-    <loc>https://challenge.la2050.org/play/</loc>
+    <loc>{{ site.language_url }}/play/</loc>
   </url>
   <url>
-    <loc>https://challenge.la2050.org/connect/</loc>
+    <loc>{{ site.language_url }}/connect/</loc>
   </url>
   <url>
-    <loc>https://challenge.la2050.org/live/</loc>
+    <loc>{{ site.language_url }}/live/</loc>
   </url>
 
 {% comment %}
@@ -100,7 +100,7 @@ layout: null
 {% assign data_list = data_collection.docs %}
 {% for project in data_list %}
   <url>
-    <loc>https://challenge.la2050.org{{ project.url }}</loc>
+    <loc>{{ site.language_url }}{{ project.url }}</loc>
   </url>
 {% endfor %}
 

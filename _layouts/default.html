@@ -9,6 +9,9 @@
   <title>{{ title_and_organization }}{% unless page.title contains site.title %} / {{ site.title }}{% endunless %}</title>
   <meta property="og:title" content="{{ title_and_organization }}" />
 
+  <link rel="alternate" hreflang="en" href="{{ site.alternate_url_en }}/" />
+  <link rel="alternate" hreflang="es" href="{{ site.alternate_url_es }}/" />
+
   <!-- OPTIONAL: Preload the most likely web fonts to be needed -->
   <link rel="preload" href="https://fonts.jimthoburn.com/activation.la2050.org/2cd55546-ec00-4af9-aeca-4a3cd186da53.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="https://fonts.jimthoburn.com/activation.la2050.org/7377dbe6-f11a-4a05-b33c-bc8ce1f60f84.woff2" as="font" type="font/woff2" crossorigin />
@@ -60,14 +63,14 @@
   <!-- for Windows 8 -->
   <meta name="msapplication-TileImage" content="/assets/images/favicon/strawberry.png" />
   <meta name="msapplication-TileColor" content="rgb(240, 53, 133)" />
-  
+
   {% include analytics.html %}
 
 
-  {% capture canonical_url %}https://challenge.la2050.org{% if page.canonical_url %}{{ page.canonical_url }}{% else %}{{ page.url }}{% endif %}{% endcapture %}
+  {% capture canonical_url %}{{ site.language_url }}{% if page.canonical_url %}{{ page.canonical_url }}{% else %}{{ page.url }}{% endif %}{% endcapture %}
   <link rel="canonical" href="{{ canonical_url }}" />
   <meta property="og:url" content="{{ canonical_url }}" />
-  
+
   {% comment %}Hide staging websites from search engines{% endcomment %}
   {% if site.hide_from_search_engines %}
   <meta name="robots" content="noindex">

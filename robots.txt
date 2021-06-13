@@ -5,6 +5,6 @@ layout: null
 {%- unless site.hide_from_search_engines -%}
 
 User-agent: *
-Sitemap: https://challenge.la2050.org/sitemap.xml
+Sitemap: {{ site.language_url }}/sitemap.xml
 
 {% endunless %}

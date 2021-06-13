@@ -5,6 +5,12 @@ description: >-
   learn, create, play, connect, and live.
 image: https://challenge.la2050.org/assets/images/balcony-illustration/1064x751.jpg?v=3
 
+language: en
+language_url: https://challenge.la2050.org
+
+alternate_url_en: https://challenge.la2050.org
+alternate_url_es: https://es-challenge.la2050.org
+
 mailing_list_url: https://la2050.us6.list-manage.com/subscribe/post?u=81b6d7b4efb839b992bf7ae72&amp;id=b16f498212
 office_hours_url: /information-sessions
 # submission_url: https://challengela2050.smapply.io
@@ -27,11 +33,6 @@ redirect_finalists_url: https://archive.la2050.org/search/?keywords=%222020+winn
 redirect_entries_url: https://archive.la2050.org/search/?keywords=2020
 
 image_host: "https://images.la2050.org/challenge"
-
-language: en
-# language: es
-
-
 
 NEW_CHALLENGE_ANNOUNCED: 1
 ENTRIES_BEING_ACCEPTED: 2
