@@ -49,12 +49,14 @@ footer_image: true
 
     <p>{% include translate.html text="Public voting is complete" %}.</p>
 
-    <small>
-      {% include translate.html text="Winners will be announced on" %}
-      <span class="avoid-break">
-        <strong>{% include translate-date.html date=site.WINNERS_ANNOUNCED_DATE format="%A, %B %-d, %Y" %}</strong>.
-      </span>
-    </small>
+    <p>
+      <small>
+        {% include translate.html text="Winners will be announced on" %}
+        <span class="avoid-break">
+          <strong>{% include translate-date.html date=site.WINNERS_ANNOUNCED_DATE format="%A, %B %-d, %Y" %}</strong>.
+        </span>
+      </small>
+    </p>
 
     {% if site.finalists_chosen_by_public_vote %}
       <p class="action">

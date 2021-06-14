@@ -30,6 +30,10 @@ You may want to visit our [home page](/) instead.
 
 <small>{% include translate.html text="Connect with us…" %}</small>
 
+{% if site.language == "es" %}
+  <p>{% include translate.html text="Special note for email newsletter (only español)" %}</p>
+{% endif %}
+
 <ul class="action">
   <li>
     <a href="{{ site.mailing_list_url }}" target="_blank" rel="noopener">{% include translate.html text="Email Newsletter" %}</a>
