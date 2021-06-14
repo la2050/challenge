@@ -86,9 +86,11 @@
 
 "Winners will be announced on": "Los ganadores serán anunciados el"
 
-"Check out the winners": "¡Mira a los ganadores!"
+"Check out the winners": "Mira a los ganadores"
+"Check out the winners!": "¡Mira a los ganadores!"
+"The winners have been announced": "Los ganadores han sido anunciados"
 "The winners have been announced!": "¡Los ganadores han sido anunciados!"
-
+"Thank you to everyone who participated!": "¡Gracias a todos los que participaron!"
 
 "I’m ready to vote": "¡Quiero votar!"
 "Vote now": "¡Quiero votar!"
@@ -147,9 +149,27 @@
 
 "Special note for proposals (only español)": "Esta propuesta del My LA2050 Grants Challenge se presentó originalmente en inglés y se ha traducido parcialmente al español para el período de votación pública. Para ver la propuesta completa en inglés, [haga clic aquí](https://challenge.la2050.org/)."
 
+# Winners
+"Congratulations to the **replace_1** winners!": "¡Felicitaciones a los ganadores de **replace_1**!"
+
+"1st Place": "Primer Lugar"
+"2nd Place": "Segundo Lugar"
+"3rd Place": "Tercer Lugar"
+"4th Place": "Cuarto Lugar"
+"5th Place": "Quinto Lugar"
+
+"Read More": "Lee Mas"
+"Share": "Cuota"
+
+"Congratulations to": 
+
+"Congratulations to @replace_1 for winning a replace_2 grant in the replace_3 My LA2050 Grants Challenge! Check out the other @LA2050 winners!": "¡Felicitaciones a @replace_1 por ganar una subvención de replace_2 en el replace_3 My LA2050 Grants Challenge! ¡Echa un vistazo a los otros ganadores de @LA2050!"
+
 # Vote form
 ? "It’s time to vote! You can vote for one finalist in each of the five goal categories, for a _total of five votes_"
 : "¡Es hora de votar! Puede votar por un finalista en cada una de las cinco categorías de objetivos, por un _total de cinco votos_"
+
+"Start voting": "Empezar a votar"
 
 ? "Which proposal will make LA the best place to"
 : "¿Cuál propuesta hará Los Angeles el mejor lugar para"
@@ -205,6 +225,8 @@
 "Find out when the winners have been announced": "Descubra cuándo se han anunciado los ganadores"
 "Connect with us…": "Conéctate con nosotros..."
 "Email Newsletter": "Boletín Electrónico"
+
+"Special note for email newsletter (only español)": "Tenga en cuenta: el boletín electrónico de LA2050 solo se distribuye en inglés en este momento."
 
 # 404 not found
 "Page not found": "Página no encontrada"

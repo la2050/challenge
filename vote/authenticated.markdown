@@ -25,7 +25,7 @@ You may want to visit our [home page](/) instead.
 <p id="message" style="visibility: hidden">We couldn’t confirm your votes. <a href="{{ site.vote_url }}">Please try again</a>.</p>
 <p><small id="message-details"></small></p>
 
-<form name="vote_authenticated" action="/vote/subscribe/" method="post" data-netlify="true">
+<form name="vote_authenticated" action="{% if site.language == "es" %}/vote/confirmation/{% else %}/vote/subscribe/{% endif %}" method="post" data-netlify="true">
 
 <input type="hidden" name="learn" />
 <input type="hidden" name="create" />

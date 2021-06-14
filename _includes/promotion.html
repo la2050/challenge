@@ -92,9 +92,9 @@
 {% elsif site.phase == site.VOTING_PERIOD_ENDED %}
 
       <p>
-        Public voting is complete.
+        {% include translate.html text="Public voting is complete" %}.
         <span class="avoid-break">
-          Winners will be announced on 
+          {% include translate.html text="Winners will be announced on" %}
           <span class="avoid-break">
             <strong>{% include translate-date.html date=site.WINNERS_ANNOUNCED_DATE format="%A, %B %-d, %Y" %}</strong>.
           </span>
@@ -106,19 +106,12 @@
 {% elsif site.phase == site.WINNERS_ANNOUNCED %}
 
       <p>
-        The winners have been announced.
-        Thank you to everyone who participated!
+        {% include translate.html text="The winners have been announced" %}.
+        {% include translate.html text="Thank you to everyone who participated!" %}
       </p>
       <p class="action action--short-text">
-        <a href="/winners/">Check out the winners!</a>
+        <a href="/winners/">{% include translate.html text="Check out the winners!" %}</a>
       </p>
-
-      <!--
-      <p>
-        The 2019 Grants Challenge is part of the greater <a href="https://la2050.org/">LA2050 initiative</a>.
-        <span class="avoid-break" data-characters="45">We’re working to move Los Angeles <span class="avoid-break">toward <a href="https://la2050.org/#learnmore">five goals</a>.</span></span>
-      </p>
-      -->
 
 {% endif %}
 

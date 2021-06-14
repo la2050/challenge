@@ -21,7 +21,7 @@ You may want to visit our [home page](/) instead.
 <script>
   try {
     if (localStorage.getItem('subscribe_email_list_asked') === "yes") {
-      window.location.href = "/vote/survey/"
+      window.location = "/vote/survey/"
     }
   } catch(e) {}
 </script>

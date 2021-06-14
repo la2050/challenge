@@ -69,6 +69,10 @@ You may want to visit our [home page](/) instead.
   </li>
 </ul>
 
+{% if site.language == "es" %}
+  <p><small>{% include translate.html text="Special note for email newsletter (only español)" %}</small></p>
+{% endif %}
+
 </div>
 
 </div>

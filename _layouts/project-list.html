@@ -27,10 +27,11 @@ stylesheets:
 {% if site.phase == site.WINNERS_ANNOUNCED %}
 <h1>
   <span>
-    Congratulations to the <strong>{{ page.category }}</strong> winners!<br />
+    {% capture translation_text %}{% include translate.html text="Congratulations to the **replace_1** winners!" replace_1=page.category %}{% endcapture %}
+    {{ translation_text | markdownify }}<br />
+    {% capture translation_text_winners %}{% include translate.html text="Winners" %}{% endcapture %}
     <a href="#project-list">
-      <svg aria-label="Winners" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="44.8" height="51.2">
-        <title>Winners</title>
+      <svg aria-label="{{ translation_text_winners }}" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="44.8" height="51.2">
         <path fill="currentColor" d="M413.1 222.5l22.2 22.2c9.4 9.4 9.4 24.6 0 33.9L241 473c-9.4 9.4-24.6 9.4-33.9 0L12.7 278.6c-9.4-9.4-9.4-24.6 0-33.9l22.2-22.2c9.5-9.5 25-9.3 34.3.4L184 343.4V56c0-13.3 10.7-24 24-24h32c13.3 0 24 10.7 24 24v287.4l114.8-120.5c9.3-9.8 24.8-10 34.3-.4z" class=""></path>
       </svg>
     </a>
@@ -213,7 +214,7 @@ main > h1:first-child::before {
 
 {% if site.redirect_finalists_url %}
   <script>
-    window.location.href = "{{ site.redirect_finalists_url }}";
+    window.location = "{{ site.redirect_finalists_url }}";
   </script>
 {% else %}
   <div class="introduction" markdown="1">
@@ -225,7 +226,7 @@ main > h1:first-child::before {
 
 {% if site.redirect_winners_url %}
   <script>
-    window.location.href = "{{ site.redirect_winners_url }}";
+    window.location = "{{ site.redirect_winners_url }}";
   </script>
 {% else %}
   <div class="introduction" markdown="1">
@@ -237,7 +238,7 @@ main > h1:first-child::before {
 
 {% if site.redirect_entries_url %}
   <script>
-    window.location.href = "{{ site.redirect_entries_url }}";
+    window.location = "{{ site.redirect_entries_url }}";
   </script>
 {% else %}
   <div class="introduction" markdown="1">
@@ -374,17 +375,17 @@ main > h1:first-child::before {
         {% comment %}
         <p
           style="text-transform: none; text-decoration: none;">
-          <span class="category" style="text-transform: uppercase; text-decoration: underline" onclick="window.location.href = '/{{ data['category']}}/#projects'; event.preventDefault()">{{ data['category'] }}</span> Winner
+          <span class="category" style="text-transform: uppercase; text-decoration: underline" onclick="window.location = '/{{ data['category']}}/#projects'; event.preventDefault()">{{ data['category'] }}</span> Winner
         </p>
         <h2 style="color: var(--primary-color); font-size: inherit;">LA2050 is proud to present…</h2>
         {% endcomment %}
         {% comment %}
         <p style="color: var(--primary-color); color: inherit; font-weight: normal; font-size: 0.875em;">
-          <strong class="category" style="text-decoration: none; text-transform: none;"><span style="text-transform: uppercase;" onclick="window.location.href = '/{{ data['category']}}/#projects'; event.preventDefault()">{{ data['category'] }}</span> {% if page.finalists %}Finalist{% elsif page.winners %}Winner {% include ribbon.svg %}{% endif %}</strong>
+          <strong class="category" style="text-decoration: none; text-transform: none;"><span style="text-transform: uppercase;" onclick="window.location = '/{{ data['category']}}/#projects'; event.preventDefault()">{{ data['category'] }}</span> {% if page.finalists %}Finalist{% elsif page.winners %}Winner {% include ribbon.svg %}{% endif %}</strong>
         </p>
         {% endcomment %}
         <p style="color: var(--primary-color); color: inherit; font-weight: normal; font-size: 0.875em;">
-          <span class="category" style="text-decoration: none; text-transform: none; letter-spacing: 0; font-weight: 400;"><strong style="color: var(--midnight)">{{ winner_award_place }}, </strong> <span style="font-weight: 600; color: var(--midnight)">{{ winner_award_amount }}</span>{% comment %}<br /><span style="text-transform: uppercase; font-weight: 700; letter-spacing: 0.05em;" onclick="window.location.href = '/{{ data['category']}}/#projects'; event.preventDefault()">{{ data['category'] }}</span> <span style="font-weight: 700; letter-spacing: 0.05em;">Winner</span>{% endcomment %} {% include ribbon.svg %}</span>
+          <span class="category" style="text-decoration: none; text-transform: none; letter-spacing: 0; font-weight: 400;"><strong style="color: var(--midnight)">{% include translate.html text=winner_award_place %}, </strong> <span style="font-weight: 600; color: var(--midnight)">{{ winner_award_amount }}</span>{% comment %}<br /><span style="text-transform: uppercase; font-weight: 700; letter-spacing: 0.05em;" onclick="window.location = '/{{ data['category']}}/#projects'; event.preventDefault()">{{ data['category'] }}</span> <span style="font-weight: 700; letter-spacing: 0.05em;">{% include translate.html text="Winner" %}</span>{% endcomment %} {% include ribbon.svg %}</span>
         </p>
         {% endif %}
         <h3 class="organization">{{ data['organization_name'] }}</h3>
@@ -407,7 +408,7 @@ main > h1:first-child::before {
           {% endif %}
         </p>
         {% endunless %}
-        <p class="action"><span>Read More</span></p>
+        <p class="action"><span>{% include translate.html text="Read More" %}</span></p>
       </span>
     </a>
 
@@ -424,10 +425,15 @@ main > h1:first-child::before {
 {% capture twitter_url %}https://twitter.com/{{ twitter | replace: "@", "" }}{% endcapture %}
 {% endif %}
 
+{% capture share_url %}{{ site.language_url }}/winners/{% endcapture %}
+{% capture twitter_url %}{{ twitter | replace: "https://www.twitter.com/", "" | replace: "https://twitter.com/", "" | replace: "www.twitter.com/", "" | replace: "twitter.com/", "" | replace: "/", "" | replace: "@", "" }}{% endcapture %}
+
+{% capture translate_text_share_message %}{% include translate.html text="Congratulations to @replace_1 for winning a replace_2 grant in the replace_3 My LA2050 Grants Challenge! Check out the other @LA2050 winners!" replace_1=twitter_url replace_2=winner_award_amount replace_3=site.year %}{% endcapture %}
+
       <p>
         <span>
-          <span style="margin-right: 0.375em;">Share:</span>
-          <a href="https://twitter.com/share?url=https%3A%2F%2Fchallenge.la2050.org%2Fwinners%2F" onclick="window.location.href = 'https://twitter.com/share?text=' + encodeURIComponent('Congratulations to @{{ twitter | replace: "https://www.twitter.com/", "" | replace: "https://twitter.com/", "" | replace: "www.twitter.com/", "" | replace: "twitter.com/", "" | replace: "/", "" | replace: "@", "" }} for winning a {{ winner_award_amount }} grant in the {{ site.year }} My LA2050 Grants Challenge! Check out the other @LA2050 winners!') + '&url=https%3A%2F%2Fchallenge.la2050.org%2Fwinners%2F'; event.preventDefault()">
+          <span style="margin-right: 0.375em;">{% include translate.html text="Share" %}:</span>
+          <a href="https://twitter.com/share?url={{ share_url | url_encode }}" onclick="window.location = 'https://twitter.com/share?text=' + encodeURIComponent('{{ translate_text_share_message }}') + '&url={{ share_url | url_encode }}'; event.preventDefault()">
             <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="vertical-align: middle; margin-left: 0.75em">
               <title>Twitter</title>
               <switch>
@@ -437,7 +443,7 @@ main > h1:first-child::before {
             </svg>
           </i>
           &nbsp;
-          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fchallenge.la2050.org%2Fwinners%2F">
+          <a href="https://www.facebook.com/sharer/sharer.php?u={{ share_url | url_encode }}">
             <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 264 512" style="vertical-align: middle; margin-left: 0.75em">
               <title>Facebook</title>
               <switch>
@@ -508,7 +514,7 @@ main > h1:first-child::before {
           <small style="font-size: 0.75em;
 font-style: italic; color: var(--primary-color-readability);
 font-weight: 600;
-text-transform: capitalize;" class="category"><span onclick="window.location.href = '/winners/'; event.preventDefault()"><span style="text-transform: uppercase;">{{ data['category'] }}</span> Winner</span> {% include ribbon.svg %}</small>
+text-transform: capitalize;" class="category"><span onclick="window.location = '/winners/'; event.preventDefault()"><span style="text-transform: uppercase;">{{ data['category'] }}</span> Winner</span> {% include ribbon.svg %}</small>
         </p>
         {% elsif is_finalist %}
           {% unless page.finalists %}
@@ -516,7 +522,7 @@ text-transform: capitalize;" class="category"><span onclick="window.location.hre
             <small style="font-size: 0.75em;
   font-style: italic; color: var(--primary-color-readability);
   font-weight: 600;
-  text-transform: capitalize;" class="category"><span onclick="window.location.href = '/{{ data['category']}}/finalists/'; event.preventDefault()"><span style="text-transform: uppercase;">{{ data['category'] }}</span> Finalist</span></small>
+  text-transform: capitalize;" class="category"><span onclick="window.location = '/{{ data['category']}}/finalists/'; event.preventDefault()"><span style="text-transform: uppercase;">{{ data['category'] }}</span> Finalist</span></small>
           </p>
           {% endunless %}
         {% endif %}
@@ -527,7 +533,7 @@ text-transform: capitalize;" class="category"><span onclick="window.location.hre
             <small style="font-size: 0.75em;
   font-style: italic; color: var(--primary-color-readability);
   font-weight: 600;
-  text-transform: capitalize;" class="category"><span onclick="window.location.href = '/{{ data['category']}}/finalists/'; event.preventDefault()"><span style="text-transform: uppercase;">{{ data['category'] }}</span> Finalist</span></small>
+  text-transform: capitalize;" class="category"><span onclick="window.location = '/{{ data['category']}}/finalists/'; event.preventDefault()"><span style="text-transform: uppercase;">{{ data['category'] }}</span> Finalist</span></small>
           </p>
           {% endunless %}
         {% endif %}
