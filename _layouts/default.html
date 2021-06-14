@@ -155,7 +155,7 @@
   {% if redirect_to_random_winners_page %}
     {% if site.redirect_winners_url and site.phase < site.WINNERS_ANNOUNCED %}
       <script>
-        window.location.href = "{{ site.redirect_winners_url }}";
+        window.location = "{{ site.redirect_winners_url }}";
       </script>
     {% else %}
       <script>
@@ -172,14 +172,14 @@
 
         random = Math.floor(Math.random() * categories.length) + 0;
 
-        window.location.href = '/' + categories[random] + '/winners/';
+        window.location = '/' + categories[random] + '/winners/';
       })();
       </script>
     {% endif %}
   {% elsif redirect_to_random_finalist_page %}
     {% if site.redirect_finalists_url and site.phase < site.FINALISTS_ANNOUNCED %}
       <script>
-        window.location.href = "{{ site.redirect_finalists_url }}";
+        window.location = "{{ site.redirect_finalists_url }}";
       </script>
     {% else %}
       <script>
@@ -196,7 +196,7 @@
 
         random = Math.floor(Math.random() * categories.length) + 0;
 
-        window.location.href = '/' + categories[random] + '/finalists/';
+        window.location = '/' + categories[random] + '/finalists/';
       })();
       </script>
     {% endif %}
@@ -212,7 +212,7 @@
     
     {% if do_redirect_entries_url %}
       <script>
-        window.location.href = "{{ site.redirect_entries_url }}";
+        window.location = "{{ site.redirect_entries_url }}";
       </script>
     {% else %}
       <script>
@@ -229,7 +229,7 @@
 
         random = Math.floor(Math.random() * categories.length) + 0;
 
-        window.location.href = '/' + categories[random] + '/';
+        window.location = '/' + categories[random] + '/';
       })();
       </script>
     {% endif %}
