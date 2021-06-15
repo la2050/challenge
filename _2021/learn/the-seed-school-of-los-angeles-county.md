@@ -1,7 +1,7 @@
 ---
 application_id: '9008255027'
-title: Ramp-up Planning Year to the Opening of SEED LA!
-title_es: ¡Año de planificación inicial para la apertura de SEED LA!
+title: Planting the SEED for a college-prep public boarding school in South LA
+title_es: Plantar la semilla para un internado público de preparación universitaria en el sur de Los Ángeles
 organization_description: Nonprofit
 project_video: 'https://vimeo.com/470603338'
 link_donate: 'https://www.seedschoolla.org/seed-la-groundbreaking'
