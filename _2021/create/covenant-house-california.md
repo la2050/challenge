@@ -1,6 +1,7 @@
 ---
 application_id: '4386002866'
 title: 'Digital Dove Lab: Animation Training and Studio'
+title_es: Laboratorio de Digital Dove: Estudio de formación en animación
 organization_description: Nonprofit
 project_video: 'https://vimeo.com/531930579'
 link_donate: 'https://covenanthousecalifornia.org/donate-now/'
@@ -25,6 +26,8 @@ project_description: >-
   Animation Training and Studio – prioritizes the training of youth of color in
   the latest animation and digital effects processes as they permanently
   transition to FORMERLY homeless youth.
+project_description_es: >-
+  Los jóvenes, particularmente los jóvenes de color, que experimentan la falta de vivienda en Los Ángeles merecen una capacitación de alto nivel que los conducirá a carreras muy por encima del umbral de la pobreza. La fuerza laboral y la economía del entretenimiento / efectos digitales de Los Ángeles necesitan urgentemente voces y talentos nuevos y únicos. Este programa, Laboratorio de Digital Dove: Estudio de formación en animación, prioriza la formación de jóvenes de color en los últimos procesos de animación y efectos digitales a medida que pasan de forma permanente a jóvenes que ANTIGUAMENTE sin hogar.
 category: create
 connect_metrics: ''
 create_metrics: 'Employment in the tech industries, Income inequality'
