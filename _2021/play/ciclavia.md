@@ -1,7 +1,7 @@
 ---
 application_id: '6530489647'
 title: 'WalkLAvia - Powered by CicLAvia, LA Forward, and Los Angeles Walks'
-title_es: 'WalkLAvia - Un proyecto peatonal de CicLAvia, LA Forward y Los Angeles Walks'
+title_es: 'WalkLAvia - Un proyecto de CicLAvia, LA Forward y Los Angeles Walks'
 organization_description: Nonprofit
 project_video: ''
 link_donate: www.ciclavia.org/donations
