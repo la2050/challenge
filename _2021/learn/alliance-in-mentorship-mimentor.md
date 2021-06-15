@@ -1,6 +1,7 @@
 ---
 application_id: '3236403006'
 title: Together We Succeed
+title_es: Juntos triunfamos
 organization_description: Nonprofit
 project_video: 'https://youtu.be/bp5LUcJqP0M'
 link_donate: 'https://www.flipcause.com/secure/cause_pdetails/MjQwMDM='
@@ -25,6 +26,8 @@ project_description: >-
   backgrounds and paths to build a community of support. TWS students will gain
   the knowledge, skills, behaviors and networks that will propel them on an
   actionable path to applying successfully to health professions schools.
+project_description_es: >-
+  “Together We Succeed” (TWS, por sus siglas en inglés)/“Juntos triunfamos” dará la fuerza a los latinos y a los estudiantes subrepresentados en las profesiones médicas para triunfar en su transición de colegio comunitario a un programa universitario de cuatro años. “Juntos triunfamos” proporcionará tutoría de estudiantes y profesionales de la salud con orígenes similares, para construir una comunidad de apoyo. Los estudiantes obtendrán el conocimiento, las habilidades, los comportamientos y los contactos para impulsarlos hacia adelante en un camino para matricularse con éxito en las escuelas profesionales de la salud.
 category: learn
 connect_metrics: ''
 create_metrics: ''

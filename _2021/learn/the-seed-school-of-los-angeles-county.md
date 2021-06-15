@@ -1,6 +1,7 @@
 ---
 application_id: '9008255027'
 title: Ramp-up Planning Year to the Opening of SEED LA!
+title_es: ¡Año de planificación inicial para la apertura de SEED LA!
 organization_description: Nonprofit
 project_video: 'https://vimeo.com/470603338'
 link_donate: 'https://www.seedschoolla.org/seed-la-groundbreaking'
@@ -27,6 +28,8 @@ project_description: >-
   that integrates a rigorous academic program with a nurturing boarding program
   that serve students five days a week, 24 hours a day. SEED LA will use LA2050
   grant funds to ramp-up to school opening in August 2022.
+project_description_es: >-
+  SEED LA será la primera escuela secundaria STEM interna de preparación universitaria pública en el sur de Los Ángeles para jóvenes que realmente necesitan un entorno seguro y enriquecedor para lograr el éxito académico y lograr la independencia económica para vivir su mejor vida. Durante 20 años, SEED ha implementado un modelo innovador que integra un programa académico riguroso con un programa de internado enriquecedor que atiende a los estudiantes cinco días a la semana, las 24 horas del día. SEED LA utilizará los fondos de la subvención LA2050 para acelerar la apertura de la escuela en agosto de 2022.
 category: learn
 connect_metrics: ''
 create_metrics: ''

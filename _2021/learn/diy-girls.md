@@ -1,6 +1,7 @@
 ---
 application_id: '3637860753'
 title: Sparking Girls’ Interest in STEM
+title_es: Despertar el interés de las niñas en STEM
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=Fc7U-ZFwxQ0&t=2s'
 link_donate: 'https://www.diygirls.org/donate'
@@ -28,6 +29,8 @@ project_description: >-
   confidence needed to make anything possible. We want our DIY Girls to apply
   the technical skills they learn to projects they love so they know the future
   is theirs to make.
+project_description_es: >-
+  DIY Girls ofrece programas prácticos de codificación y electrónica STEM para niñas de color en el noreste del San Fernando Valley que están diseñados para despertar su interés en los campos y carreras STEM, así como para apoyar su confianza en sí mismas, curiosidad y perseverancia. Hacemos lo que hacemos para cambiar la forma en que las niñas perciben las carreras STEM. Creemos que crear con tecnología genera la confianza necesaria para hacer que todo sea posible. Queremos que nuestras chicas apliquen las habilidades técnicas que aprenden a los proyectos que aman para que sepan que el futuro es suyo.
 category: learn
 connect_metrics: ''
 create_metrics: ''
