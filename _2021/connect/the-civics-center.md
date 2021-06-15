@@ -1,6 +1,7 @@
 ---
 application_id: '1272884682'
 title: '100 Youth Democracy Leaders. 10,000 New Youth Voters.'
+title_es: '100 jóvenes líderes de la democracia. 10,000 nuevos votantes jóvenes.'
 organization_description: Nonprofit
 project_video: 'https://vimeo.com/453409946'
 link_donate: 'https://thecivicscenter.org'
@@ -26,6 +27,8 @@ project_description: >-
   school students to be youth democracy leaders, organizing their peers to use
   existing laws that allow young people to preregister to vote beginning at age
   16.
+project_description_es: >-
+  El mayor obstáculo para el voto de los jóvenes no es la apatía; es el registro de votantes. El setenta y cinco por ciento de los jóvenes de 18 años que estaban registrados para votar acudieron a votar en el condado de Los Ángeles en las elecciones generales de 2020. Empoderamos a los estudiantes de secundaria para que sean líderes de la democracia juvenil, organizando a sus compañeros para que utilicen las leyes existentes que permiten que los jóvenes se preinscriban para votar a partir de los 16 años.
 category: connect
 connect_metrics: 'Government responsiveness to residents’ needs, Volunteerism, Voting rates'
 create_metrics: ''

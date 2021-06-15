@@ -1,6 +1,7 @@
 ---
 application_id: '5093994821'
 title: The Shower of Hope
+title_es: La ducha de esperanza
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=Vn5lXJSxsY0'
 link_donate: >-
@@ -27,6 +28,8 @@ project_description: >-
   partnership with other service provider agencies (mental health, substance
   abuse recovery, housing) where individuals in need can receive hygiene, meals,
   dignity, and a path out of homelessness.
+project_description_es: >-
+  Con más de 66,000 personas sin hogar en el condado de Los Ángeles, The Shower of Hope tiene como objetivo no solo brindar servicios de duchas para ayudar a las personas sin hogar, sino también construir centros de recursos comunitarios en asociación con otras agencias proveedoras de servicios (salud mental, recuperación por abuso de sustancias, vivienda ) donde las personas necesitadas puedan recibir higiene, comida, dignidad y un camino para salir de la falta de vivienda.
 category: live
 connect_metrics: ''
 create_metrics: ''

@@ -1,6 +1,7 @@
 ---
 application_id: '7991388855'
 title: Lowering the barrier to entry for local food entrepreneurs.
+title_es: Reducir la barrera de entrada para los empresarios alimentarios locales
 organization_description: Social enterprise or B-corps
 project_video: ''
 link_donate: ''
@@ -25,6 +26,8 @@ project_description: >-
   truck, permits, high-traffic stops, marketing, and operational support, which
   lets the entrepreneurs focus on what they do best -- serve great, new food to
   local Angelenos.
+project_description_es: >-
+  On The Go LA es un servicio que ayuda a los empresarios de alimentos locales a formalizar su negocio de manera fácil y asequible y a hacer crecer su base de clientes al ofrecer servicios completos de alquiler de camiones de comida a corto plazo. Brindamos a los chefs locales, restaurantes pop-ups y las empresas de catering la oportunidad de hacer crecer su negocio a través del alquiler de camiones de comida para uno o varios días. Hacemos que esto sea perfecto al proporcionar el camión, los permisos, las paradas de alto tráfico, el marketing y el apoyo operativo, lo que permite a los empresarios concentrarse en lo que hacen mejor: servir comida nueva y excelente a los residentes de Los Ángeles.
 category: create
 connect_metrics: ''
 create_metrics: 'Income inequality, Jobs per capita, Minority- and women-owned businesses'

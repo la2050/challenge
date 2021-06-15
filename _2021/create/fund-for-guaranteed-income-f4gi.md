@@ -1,6 +1,7 @@
 ---
 application_id: '6715725010'
 title: Guaranteed Income- A Policy Path to Equity
+title_es: 'Ingresos garantizados: un camino político hacia la equidad'
 organization_description: A fiscally sponsored group
 project_video: 'https://www.youtube.com/watch?v=VwdIGdKsBJA'
 link_donate: comptonpledge.org/donate/
@@ -27,6 +28,8 @@ project_description: >-
   creates a true safety net. It enables families to weather crises, government
   actors, philanthropists to invest directly in the path towards economic
   justice.
+project_description_es: >-
+  El Compromiso F4GI Compton es una iniciativa histórica de ingresos garantizados que distribuirá el alivio en efectivo recurrente a los residentes de bajos ingresos durante 2 años. Ingresos garantizados son simples pero poderosos: pagos en efectivo incondicionales, directos y continuos entregados a todos los residentes para complementar los beneficios sociales existentes. Al asegurarse de que ninguna persona caiga por debajo de un piso de ingresos definido a lo largo del tiempo, ingresos garantizados crean una verdadera red de seguridad. Permiten a las familias capear las crisis mientras que los agentes gubernamentales y los filántropos invertir directamente en el camino hacia la justicia económica.
 category: create
 connect_metrics: ''
 create_metrics: 'Income inequality, Economic opportunities for formerly incarcerated'

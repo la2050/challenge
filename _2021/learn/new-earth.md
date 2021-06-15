@@ -1,6 +1,7 @@
 ---
 application_id: '5091316113'
 title: Learning Gap Recovery for LA’s Most Vulnerable Youth!
+title_es: ¡Recuperación de la brecha de aprendizaje para los jóvenes más vulnerables de Los Ángeles!
 organization_description: Nonprofit
 project_video: 'https://youtu.be/8wu1SmpGlwg'
 link_donate: 'https://give.newearthlife.org/checkout/15152'
@@ -24,6 +25,8 @@ project_description: >-
   youth ages 13-25. Our program will help ensure students who are most at risk
   for learning loss have all the support and resources they need to advance
   their education and narrow the learning gap!
+project_description_es: >-
+  New Earth en asociación con DaVinci RISE High brindará apoyo educativo individualizado y servicios integrales a los jóvenes involucrados en el sistema de justicia y otros sistemas de 13 a 25 años. Nuestro programa ayudará a garantizar que los estudiantes que están en mayor riesgo de perder el aprendizaje tengan todo el apoyo y los recursos que necesitan para avanzar en su educación y reducir la brecha de aprendizaje.
 category: learn
 connect_metrics: ''
 create_metrics: ''

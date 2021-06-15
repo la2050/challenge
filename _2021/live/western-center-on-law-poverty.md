@@ -1,6 +1,7 @@
 ---
 application_id: '9576280639'
 title: 'Working to Provide Dignity, Basic Needs, and Care for All Through the Law'
+title_es: 'Trabajando para brindar dignidad, necesidades básicas y cuidado para todos a través de la ley'
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=sG2kQqYn4zw'
 link_donate: 'https://wclp.org/donate'
@@ -24,6 +25,8 @@ project_description: >-
   market, lack of access to health care, and unfair systems of justice. Our team
   works tirelessly to make sure Los Angeles residents experiencing poverty are
   protected in California law, both during the pandemic and after.
+project_description_es: >-
+  Western Center on Law & Poverty lucha para deshacer el impacto de la enorme desigualdad de ingresos y riqueza de California, el mercado inmobiliario insostenible y racista, la falta de acceso a la atención médica y los sistemas de justicia injustos. Nuestro equipo trabaja incansablemente para asegurarse de que los residentes de Los Ángeles en situación de pobreza estén protegidos por la ley de California, tanto durante la pandemia como después.
 category: live
 connect_metrics: ''
 create_metrics: ''

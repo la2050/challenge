@@ -1,6 +1,7 @@
 ---
 application_id: '5212747552'
 title: Building better pathways for aspiring teachers across L.A.
+title_es: Construyendo mejores caminos para los aspirantes a maestros en L.A.
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=LmO8e_sKAa0&t=189s&ab_channel=RivetSchool'
 link_donate: 'https://www.rivetschool.org/donate'
@@ -27,6 +28,8 @@ project_description: >-
   time, these staff will earn their BA in an innovative degree program at Rivet
   School before going on to earn a MA and teaching credential at Alder GSE –
   unlocking economic opportunity and a fulfilling lifelong career in education.
+project_description_es: >-
+  Los flujos de maestros están rotos y, a menudo, no representan a los estudiantes a los que servimos, por lo que Rivet School y Alder Graduate School of Education están trabajando juntas para construir un mejor camino para que los trabajadores escolares se conviertan en maestros, lo que lleva una fuerza laboral de maestros más fuerte y con mayor diversidad racial. Mientras trabajan a tiempo completo, estes empleados obtendrán sus licencias en un programa de grado innovador en Rivet School antes de obtener unas maestrías y unas credenciales de enseñanza en Alder GSE, lo que abrirá unas oportunidades económicas y unas carreras educativas satisfactorias para todas las vidas.
 category: learn
 connect_metrics: ''
 create_metrics: ''

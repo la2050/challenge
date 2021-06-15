@@ -1,6 +1,7 @@
 ---
 application_id: '2428769736'
 title: People's Pottery Project
+title_es: El proyecto de cerámica de la gente
 organization_description: A fiscally sponsored group
 project_video: 'https://youtu.be/pOu3oJ0VHaU'
 link_donate: 'https://www.peoplespotteryproject.com/donate'
@@ -24,6 +25,8 @@ project_description: >-
   PPP provides paid ceramics classes for individuals navigating the extremely
   difficult transition out of incarceration, thereby providing meaningful art
   therapy and urgent resources to prevent individuals from returning to prison.
+project_description_es: >-
+  La misión de People's Pottery Project (PPP, por sus siglas en inglés) es empoderar a mujeres, personas trans y no binarias que han estado encarceladas a través del poder de la creación de arte, la defensa comunitaria y el empleo significativo a través de nuestro estudio de cerámica sin fines de lucro. PPP ofrece clases de cerámica pagadas para personas que atraviesan la transición extremadamente difícil para salir del encarcelamiento, proporcionando así una terapia de arte significativa y recursos urgentes para evitar que las personas regresen a la prisión.
 category: create
 connect_metrics: ''
 create_metrics: >-

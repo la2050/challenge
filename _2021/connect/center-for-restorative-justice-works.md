@@ -1,8 +1,10 @@
 ---
 application_id: '4172200559'
 title: >-
-  Beyond the Bus: Connecting children with parents in prison - because strong
+  Get On The Bus: Connecting children with parents in prison - because strong
   families make strong communities.
+title_es: >-
+  Sube al Autobús: conectando a los niños con los padres en prisión, porque las familias sólidas forman comunidades sólidas.
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=iHdfwO1Hp5s'
 link_donate: 'https://crjw.us/donate/'
@@ -27,6 +29,8 @@ project_description: >-
   transformative program that offers children the chance to maintain connection
   and personal relationships with a parent in prison through virtual visits and
   expanded opportunities for in-person visits after the pandemic.
+project_description_es: >-
+  Todo niño tiene derecho a entablar una relación amorosa con sus padres, incluso si uno de los padres está en prisión. Se ha demostrado que mantener a los niños conectados con padres encarcelados mejora la salud y el bienestar de los niños, reduce las tasas de reincidencia y construye comunidades más fuertes. Get On The Bus (Sube al Autobús) es un programa transformador que ofrece a los niños la oportunidad de mantener la conexión y las relaciones personales con un padre en prisión a través de visitas virtuales y oportunidades ampliadas para visitas en persona después de la pandemia.
 category: connect
 connect_metrics: 'Internet access, Social and emotional support, Volunteerism'
 create_metrics: ''

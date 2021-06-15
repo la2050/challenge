@@ -1,6 +1,7 @@
 ---
 application_id: '6957203686'
 title: 'The Foto Forum: A Creative Advocacy Space for Teen Girls'
+title_es: 'La Foto Foro: Un espacio de promoción creativa para chicas adolescentes'
 organization_description: A fiscally sponsored group
 project_video: 'https://youtu.be/J3f049PXnmQ'
 link_donate: >-
@@ -27,6 +28,8 @@ project_description: >-
   their communities will also provide the community a safe forum to use these
   images as a catalyst for dialogue and advocacy for issues from housing to food
   insecurity and economic equity.
+project_description_es: >-
+  Nuestra visión es proporcionar una nueva plataforma para las mujeres jóvenes que utilizan su fotografía como un medio para defender sus comunidades. Convertir el espacio al aire libre de nuestra nueva galería en un espacio de exhibición donde las mujeres jóvenes pueden mostrar sus ensayos fotográficos que resaltan las injusticias encontradas en sus comunidades también proporcionará a la comunidad un foro seguro para usar estas imágenes como catalizador para el diálogo y la promoción de problemas de vivienda a la inseguridad alimentaria y la equidad económica.
 category: create
 connect_metrics: ''
 create_metrics: >-

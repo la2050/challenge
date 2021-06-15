@@ -1,6 +1,7 @@
 ---
 application_id: '7592162873'
 title: 'Healing Los Angeles: Free Dental & Vision Care'
+title_es: 'Curación Los Ángeles: atención dental y de la vista gratuita'
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=CBG_Zq71qOk'
 link_donate: 'https://healingca.org/donate'
@@ -24,6 +25,8 @@ project_description: >-
   we deploy our mobile health care van to neighborhoods across LA County that
   have the highest need for our services and provide care to 20 dental patients
   and 25 vision patients per day.
+project_description_es: >-
+  Healing California cree que el acceso a una atención médica de calidad es un derecho humano básico. Brindamos atención dental y de la vista gratuita y de calidad a residentes de Los Angeles sin seguro y con representación insuficiente, incluidos los veteranos y las personas y familias sin hogar. En colaboración con clínicas de salud y organizaciones de veteranos, desplegamos nuestra camioneta de atención médica móvil en los vecindarios del condado de Los Ángeles que tienen la mayor necesidad de nuestros servicios y brindamos atención a 20 pacientes dentales y 25 pacientes de la vista por día.
 category: live
 connect_metrics: ''
 create_metrics: ''
