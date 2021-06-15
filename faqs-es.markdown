@@ -64,7 +64,7 @@ If you need additional assistance, check out this [step-by-step guide](LINK) on 
 <details class="faq" markdown="1">
 
 <summary markdown="1">
-## ¿Cuántas veces puedo votar?n
+## ¿Cuántas veces puedo votar?
 </summary>
 
 Solo puede votar una vez por categoría de objetivo, para un total de cinco votos. No es necesario que utilice los 5 votos, ¡pero le recomendamos que lo haga! Si desea leer sobre propuestas con las que está menos familiarizado antes de votar, tenemos todas las presentaciones publicadas y disponibles.
