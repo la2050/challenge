@@ -197,7 +197,7 @@ A partir del <strong>lunes 21 de junio de 2021</strong>, puede [votar por una pr
   ¡<a href="/vote/">Es hora de votar</a>!
  Los ganadores serán anunciados 
   <span class="avoid-break">
-    <strong>el Martes 6 de julio de 2021</strong>.
+    <strong>el martes 6 de julio de 2021</strong>.
   </span>
 </p>
 
@@ -210,7 +210,7 @@ A partir del <strong>lunes 21 de junio de 2021</strong>, puede [votar por una pr
   <a href="/entries/">Mira a los finalistas</a>.
   Los ganadores serán anunciados 
   <span class="avoid-break">
-    <strong>el Martes 6 de julio de 2021</strong>.
+    <strong>el martes 6 de julio de 2021</strong>.
   </span>
 </p>
 
@@ -221,7 +221,7 @@ A partir del <strong>lunes 21 de junio de 2021</strong>, puede [votar por una pr
   <a href="/finalists/">Mira a los finalistas</a>.
   Los ganadores serán anunciados 
   <span class="avoid-break">
-    <strong>el Martes 6 de julio de 2021</strong>.
+    <strong>el martes 6 de julio de 2021</strong>.
   </span>
 </p>
 
