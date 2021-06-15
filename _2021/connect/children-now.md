@@ -1,6 +1,7 @@
 ---
 application_id: '5784321859'
 title: Improving the Well-Being of LA’s Children and Youth in Foster Care
+title_es: Mejorar el bienestar de los niños y jóvenes de Los Ángeles en hogares de acogida
 organization_description: Nonprofit
 project_video: ''
 link_donate: 'https://www.childrennow.org/makeagift/'
@@ -24,6 +25,8 @@ project_description: >-
   by helping them experience stability in nurturing family homes, strengthening
   trust and relationships between children and their caregivers, and preventing
   the inappropriate criminalization of traumatized children and youth.
+project_description_es: >-
+  El Sistema de Respuesta Urgente Familiar (FURS, por sus siglas en inglés) cambiará el curso para los niños y jóvenes del condado de Los Ángeles que se encuentran actualmente y anteriormente en hogares de acogida, ayudándolos a experimentar estabilidad en hogares familiares nutritivos, fortaleciendo la confianza y las relaciones entre los niños y sus cuidadores y previniendo la criminalización inapropiada de niños y jóvenes traumatizados.
 category: connect
 connect_metrics: Social and emotional support
 create_metrics: ''
