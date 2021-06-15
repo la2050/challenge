@@ -48,6 +48,8 @@ Sí, solo dirígete a nuestro [My LA2050 Ideas Archive](https://archive.la2050.o
 
 
 
+<details class="faq" markdown="1">
+
 <summary markdown="1">
 ## ¿Cómo voto?
 </summary>
