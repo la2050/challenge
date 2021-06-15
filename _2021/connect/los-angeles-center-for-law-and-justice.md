@@ -24,8 +24,8 @@ project_description: >-
   to their seeking justice and safety rather than being part of the solutions.
   When an immigrant survivor receives justice and feels safe, they have the
   ability to becoming more integrated into our communities.
-project_description: >-
-Intentamos abordar la falta de seguridad y accesibilidad a la justicia para los inmigrantes que son sobrevivientes de violencia doméstica y abuso sexual y el problema de algunas agencias gubernamentales y policiales que se convierten en barreras para buscar justicia y seguridad en lugar de ser parte de las soluciones. Cuando un sobreviviente inmigrante recibe justicia y se siente seguro, tiene la capacidad de integrarse más en nuestras comunidades.
+project_description_es: >-
+  Intentamos abordar la falta de seguridad y accesibilidad a la justicia para los inmigrantes que son sobrevivientes de violencia doméstica y abuso sexual y el problema de algunas agencias gubernamentales y policiales que se convierten en barreras para buscar justicia y seguridad en lugar de ser parte de las soluciones. Cuando un sobreviviente inmigrante recibe justicia y se siente seguro, tiene la capacidad de integrarse más en nuestras comunidades.
 category: connect
 connect_metrics: 'Government responsiveness to residents’ needs, Immigrant integration'
 create_metrics: ''

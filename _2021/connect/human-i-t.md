@@ -31,7 +31,7 @@ project_description: >-
   access the limitless vital online resources and opportunities from their own
   homes.
 project_description_es: >-
-Una conexión a Internet ya no es un lujo; es una necesidad. Uno que está fuera del alcance de decenas de miles de residentes de Los Angeles de bajos ingresos. Es por eso que nuestro equipo de ayudantes de la asistencia de Internet trabaja para conectar tantos hogares como sea posible a soluciones de banda ancha asequibles al ofrecer orientación imparcial a los hogares con dificultades a medida que identifican y se inscriben en planes de Internet de bajo costo. A través de este programa, human-I-T permite a los hogares de bajos ingresos acceder a los ilimitados recursos y oportunidades vitales en línea desde sus propios hogares.
+  Una conexión a Internet ya no es un lujo; es una necesidad. Uno que está fuera del alcance de decenas de miles de residentes de Los Angeles de bajos ingresos. Es por eso que nuestro equipo de ayudantes de la asistencia de Internet trabaja para conectar tantos hogares como sea posible a soluciones de banda ancha asequibles al ofrecer orientación imparcial a los hogares con dificultades a medida que identifican y se inscriben en planes de Internet de bajo costo. A través de este programa, human-I-T permite a los hogares de bajos ingresos acceder a los ilimitados recursos y oportunidades vitales en línea desde sus propios hogares.
 category: connect
 connect_metrics: >-
   Internet access, Social and emotional support, Government responsiveness to

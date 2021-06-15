@@ -1,7 +1,7 @@
 ---
 application_id: '6715725010'
 title: Guaranteed Income- A Policy Path to Equity
-title_es: Ingresos garantizados: un camino político hacia la equidad
+title_es: 'Ingresos garantizados: un camino político hacia la equidad'
 organization_description: A fiscally sponsored group
 project_video: 'https://www.youtube.com/watch?v=VwdIGdKsBJA'
 link_donate: comptonpledge.org/donate/

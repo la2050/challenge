@@ -28,7 +28,7 @@ project_description: >-
   existing laws that allow young people to preregister to vote beginning at age
   16.
 project_description_es: >-
-El mayor obstáculo para el voto de los jóvenes no es la apatía; es el registro de votantes. El setenta y cinco por ciento de los jóvenes de 18 años que estaban registrados para votar acudieron a votar en el condado de Los Ángeles en las elecciones generales de 2020. Empoderamos a los estudiantes de secundaria para que sean líderes de la democracia juvenil, organizando a sus compañeros para que utilicen las leyes existentes que permiten que los jóvenes se preinscriban para votar a partir de los 16 años.
+  El mayor obstáculo para el voto de los jóvenes no es la apatía; es el registro de votantes. El setenta y cinco por ciento de los jóvenes de 18 años que estaban registrados para votar acudieron a votar en el condado de Los Ángeles en las elecciones generales de 2020. Empoderamos a los estudiantes de secundaria para que sean líderes de la democracia juvenil, organizando a sus compañeros para que utilicen las leyes existentes que permiten que los jóvenes se preinscriban para votar a partir de los 16 años.
 category: connect
 connect_metrics: 'Government responsiveness to residents’ needs, Volunteerism, Voting rates'
 create_metrics: ''

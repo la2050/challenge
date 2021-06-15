@@ -1,7 +1,7 @@
 ---
 application_id: '4386002866'
 title: 'Digital Dove Lab: Animation Training and Studio'
-title_es: Laboratorio de Digital Dove: Estudio de formación en animación
+title_es: 'Laboratorio de Digital Dove: Estudio de formación en animación'
 organization_description: Nonprofit
 project_video: 'https://vimeo.com/531930579'
 link_donate: 'https://covenanthousecalifornia.org/donate-now/'
