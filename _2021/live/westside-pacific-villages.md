@@ -3,6 +3,7 @@ application_id: '3781924780'
 title: >-
   Westside Pacific Villages COVID-19 Action Response for Elderly Support (WPV
   CARES)
+title_es: 'Westside Pacific Villages COVID-19 acción de respuesta para el apoyo a los ancianos (WPV CARES)'
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=GH1W4ZU-q7A'
 link_donate: 'https://thewpv.org/donate/'
@@ -29,6 +30,8 @@ project_description: >-
   necessary, the program will shift towards helping our seniors transition back
   to “normal” life. Whether virtually or perhaps soon in person, this grant will
   help WPV’s 300 volunteers support, engage, and connect with seniors.
+project_description_es: >-
+  Esta subvención apoyará la continuación y el crecimiento de Westside Pacific Villages COVID-19 acción de respuesta para el apoyo a los ancianos (WPV CARES, por sus siglas en ingles), un programa que brinda servicios para mantener la san de las personas mayores física, mental y emocionalmente durante la pandemia. Cuando las precauciones pandémicas ya no sean necesarias, el programa cambiará para ayudar a nuestros ancianos en la transición de regreso a la vida "normal". Ya sea virtualmente o quizás pronto en persona, esta subvención ayudará a los 300 voluntarios de WPV a apoyar, participar y conectarse con los ancianos.
 category: live
 connect_metrics: ''
 create_metrics: ''

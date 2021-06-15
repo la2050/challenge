@@ -1,6 +1,7 @@
 ---
 application_id: '1057303762'
 title: 'Commonwealth Nursery: From Little Seeds Grow Mighty Trees'
+title_es: 'Vivero de la Commonwealth: de pequeñas semillas crecen árboles poderosos'
 organization_description: A fiscally sponsored group
 project_video: 'https://youtu.be/N_F9DihvMQo'
 link_donate: >-
@@ -29,6 +30,8 @@ project_description: >-
   livable and resilient city for all Angelenos. Commonwealth is a catalyst to
   grow trees from locally-sourced seed, train the next generation of urban
   forest stewards, and grow the green jobs of the future.
+project_description_es: >-
+  Vivero de la Commonwealth es una asociación público-privada para aumentar la resiliencia climática y comunitaria en Los Ángeles. Ubicado en un sitio histórico de 11 acres en Griffith Park, el vivero sirve como laboratorio ecológico urbano y campo de entrenamiento para apoyar los objetivos de equidad del dosel de árboles de Los Ángeles, creando una ciudad más habitable y resistente para todos de los residentes de Los Ángeles. Commonwealth es un catalizador para cultivar árboles a partir de semillas de origen local, capacitar a la próxima generación de administradores de bosques urbanos y desarrollar los trabajos verdes del futuro.
 category: live
 connect_metrics: ''
 create_metrics: ''
