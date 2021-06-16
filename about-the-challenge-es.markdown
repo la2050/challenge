@@ -138,7 +138,7 @@ Read our <a href="/submit/#guidelines">application guidelines</a>.
   
   Los ganadores serán anunciados 
   <span class="avoid-break">
-    <strong>el Martes 6 de julio de 2021</strong>.
+    <strong>el martes 6 de julio de 2021</strong>.
   </span>
 </p>
 
@@ -150,7 +150,7 @@ Read our <a href="/submit/#guidelines">application guidelines</a>.
   <a href="/finalists/">Mira a los finalistas</a>.
   Los ganadores serán anunciados 
   <span class="avoid-break">
-    <strong>el Martes 6 de julio de 2021</strong>.
+    <strong>el martes 6 de julio de 2021</strong>.
   </span>
 </p>
 
@@ -160,7 +160,7 @@ Read our <a href="/submit/#guidelines">application guidelines</a>.
   <a href="/finalists/">Mira a los finalistas</a>.
  Los ganadores serán anunciados 
   <span class="avoid-break">
-    <strong>el Martes 6 de julio de 2021</strong>.
+    <strong>el martes 6 de julio de 2021</strong>.
   </span>
 </p>
 
