@@ -64,7 +64,7 @@ footer_image: true
       </p>
     {% else %}
       <p class="action">
-        <a href="/finalists/">{% include translate.html text="Check out the finalists" %}</a>
+        <a href="/finalists/">{% include translate.html text="Check out the finalists!" %}</a>
       </p>
     {% endif %}
 

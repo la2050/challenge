@@ -5,30 +5,7 @@ phase: 8
 
 winners:
 
-  # Learn
-
-  # 1)
-  # artworxLA
-  - /2021/learn/artworxla/
-
-  # 2)
-  # Junior Achievement of Southern California
-  - /2021/learn/junior-achievement-of-southern-california/
-
-  # 3)
-  # Building Blocks for Kids
-  - /2021/learn/building-blocks-for-kids/
-
-  # 4)
-  # Acceler8
-  - /2021/learn/acceler8/
-
-  # 5)
-  # Griffith Observatory Foundation
-  - /2021/learn/griffith-observatory-foundation/
-
-
-    # Connect
+  # Connect
 
   # 1) Center for Restorative Justice Works
   - /2021/connect/center-for-restorative-justice-works/

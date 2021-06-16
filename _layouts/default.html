@@ -28,8 +28,8 @@
   <title>{{ title }}</title>
   <meta property="og:title" content="{{ title }}" />
 
-  <link rel="alternate" hreflang="en" href="{{ site.alternate_url_en }}/" />
-  <link rel="alternate" hreflang="es" href="{{ site.alternate_url_es }}/" />
+  <link rel="alternate" hreflang="en" href="{{ site.alternate_url_en }}{{ page.url }}" />
+  <link rel="alternate" hreflang="es" href="{{ site.alternate_url_es }}{{ page.url }}" />
 
   <!-- OPTIONAL: Preload the most likely web fonts to be needed -->
   <link rel="preload" href="https://fonts.jimthoburn.com/activation.la2050.org/2cd55546-ec00-4af9-aeca-4a3cd186da53.woff2" as="font" type="font/woff2" crossorigin />
