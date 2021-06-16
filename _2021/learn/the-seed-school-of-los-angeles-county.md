@@ -95,8 +95,8 @@ What is the problem that you are seeking to address?: >-
   on priority work and align to SEED Network initiatives. These tools are guided
   by the schools Root Cause Analysis, school year vision, and are grounded in
   data.
-'Approximately how many people will be directly impacted by this project, program, or initiative?': '30'
-'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '125'
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '162'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '537'
 Describe how Los Angeles County will be different if your work is successful.: >-
   The impact of SEED LA to LA County is tangible. LA County spends $233,000 per
   youth annually for juvenile camps, SEED LA will cost $40,000 per student for
