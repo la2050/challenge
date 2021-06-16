@@ -27,7 +27,8 @@ stylesheets:
 {% if site.phase == site.WINNERS_ANNOUNCED %}
 <h1>
   <span>
-    {% capture translation_text %}{% include translate.html text="Congratulations to the **replace_1** winners!" replace_1=page.category %}{% endcapture %}
+    {% capture translation_text_category %}{% include translate.html text=page.category %}{% endcapture %}
+    {% capture translation_text %}{% include translate.html text="Congratulations to the **replace_1** winners!" replace_1=translation_text_category %}{% endcapture %}
     {{ translation_text | markdownify }}<br />
     {% capture translation_text_winners %}{% include translate.html text="Winners" %}{% endcapture %}
     <a href="#project-list">
@@ -104,13 +105,13 @@ main > h1:first-child::before {
   <span style="max-width: 23em; display: block; margin-left: auto; margin-right: auto; grid-column: 1/-1; grid-row: 1/-1; align-self: center; z-index: 2; --secondary-color: var(--{{ category_color }});" id="primary-headline">
     <span style="font-size: 5vmax;">
       {% if site.finalists_chosen_by_public_vote %}
-        Congratulations to the <a href="#projects" style="color: inherit; font-weight: inherit;">{% if site.finalists_chosen_by_public_vote %}top 10 voted{% else %}finalists{% endif %}</a>{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong> category{% endif %}!<br />
+        Congratulations to the <a href="#projects" style="color: inherit; font-weight: inherit;">{% if site.finalists_chosen_by_public_vote %}top 10 voted{% else %}finalists{% endif %}</a>{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{% include translate.html text=page.category %}</strong> category{% endif %}!<br />
       {% else %}
         {% if site.phase >= site.VOTES_BEING_ACCEPTED %}
           Which of these <a href="#projects" style="color: inherit; font-weight: inherit;">finalists</a> will
-          make LA the best place{% if page.category %}  to <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong>{% endif %}?
+          make LA the best place{% if page.category %}  to <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{% include translate.html text=page.category %}</strong>{% endif %}?
         {% else %}
-         Check out the <br />{% if page.category %}<strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong>{% endif %} <a href="#projects" style="color: inherit; font-weight: inherit;">finalists</a>!
+         Check out the <br />{% if page.category %}<strong style="text-transform: uppercase; letter-spacing: 0.05em;">{% include translate.html text=page.category %}</strong>{% endif %} <a href="#projects" style="color: inherit; font-weight: inherit;">finalists</a>!
         {% endif %}
       {% endif %}
     </span>
@@ -181,7 +182,7 @@ main > h1:first-child::before {
   {% if site.language == "es" %}
     Los finalistas{% if page.category %} en la categoría de <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{% include translate.html text=page.category %}</strong>{% endif %}
   {% else %}
-    Finalists{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong> category{% endif %}
+    Finalists{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{% include translate.html text=page.category %}</strong> category{% endif %}
   {% endif %}
 </h1>
 {% endif %}
@@ -189,9 +190,9 @@ main > h1:first-child::before {
 {% else %}
   <h1>
     {% if site.language == "es" %}
-      Los propuestas{% if page.category %} en la categoría de <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong>{% endif %}
+      Los propuestas{% if page.category %} en la categoría de <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{% include translate.html text=page.category %}</strong>{% endif %}
     {% else %}
-      Proposals{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong> category{% endif %}
+      Proposals{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{% include translate.html text=page.category %}</strong> category{% endif %}
     {% endif %}
   </h1>
 {% endif %}
