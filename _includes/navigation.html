@@ -53,14 +53,14 @@
   {% if site.language == "es" %}
   {% comment %}Link to the English language site{% endcomment %}
   <li>
-    <a href="{{ site.alternate_url_en }}" style="font-weight: 500; {% if include.is_header_navigation %}color: var(--secondary-color);{% endif %}">
+    <a href="{{ site.alternate_url_en }}{{ page.url }}" style="font-weight: 500; {% if include.is_header_navigation %}color: var(--secondary-color);{% endif %}">
       English
     </a>
   </li>
   {% elsif false %}
   {% comment %}Link to the Spanish language site{% endcomment %}
   <li>
-    <a href="{{ site.alternate_url_es }}" style="font-weight: 500; {% if include.is_header_navigation %}color: var(--secondary-color);{% endif %}">
+    <a href="{{ site.alternate_url_es }}{{ page.url }}" style="font-weight: 500; {% if include.is_header_navigation %}color: var(--secondary-color);{% endif %}">
       Español
     </a>
   </li>
