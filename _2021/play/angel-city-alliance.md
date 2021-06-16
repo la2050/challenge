@@ -8,7 +8,7 @@ link_donate: 'https://app.mobilecause.com/vf/ANGEL'
 link_volunteer: 'http://angelcitysports.org/volunteer-interest-signup'
 link_newsletter: 'https://app.mobilecause.com/vf/ANGEL'
 ein: 82-2603747
-organization_name: Angel City Alliance
+organization_name: Angel City Sports
 mailing_address_zip: '90064'
 organization_website: 'https://www.angelcitysports.org'
 organization_twitter: '@angelcitysports'
