@@ -88,8 +88,8 @@ What is the problem that you are seeking to address?: >-
   Kent and we estimate that thousands of Medi-Cal recipients will be able to
   keep their doctors, not to mention hundreds of thousands of dollars in medical
   care saved.
-'Approximately how many people will be directly impacted by this project, program, or initiative?': '100000'
-'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1000000'
+'Approximately how many people will be directly impacted by this project, program, or initiative?': '1,777,000'
+'Approximately how many people will be indirectly impacted by this project, program, or initiative?': '1,777,000'
 Describe how Los Angeles County will be different if your work is successful.: >-
   Western Center envisions a Los Angeles County in 2050 where: All of our
   neighbors have access to healthy, sustainable, and affordable housing in
