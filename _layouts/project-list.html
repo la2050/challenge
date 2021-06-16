@@ -188,7 +188,11 @@ main > h1:first-child::before {
 
 {% else %}
   <h1>
-    Proposals{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong> category{% endif %}
+    {% if site.language == "es" %}
+      Los propuestas{% if page.category %} en la categoría de <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong>{% endif %}
+    {% else %}
+      Proposals{% if page.category %} in the <strong style="text-transform: uppercase; letter-spacing: 0.05em;">{{ page.category }}</strong> category{% endif %}
+    {% endif %}
   </h1>
 {% endif %}
 

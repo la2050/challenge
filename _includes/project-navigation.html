@@ -84,7 +84,11 @@
 
 {% if page.winners %}
 <p class="count">
-  There are <strong>5</strong> winners in the <strong class="category">{{ page.category }}</strong> category.
+  {% if site.language == "es" %}
+    Hay <strong>5</strong> ganadores en la categoría de <strong class="category">{{ page.category }}</strong>.
+  {% else %}
+    There are <strong>5</strong> winners in the <strong class="category">{{ page.category }}</strong> category.
+  {% endif %}
 </p>
 {% elsif page.finalists %}
 <p class="count">
@@ -99,7 +103,11 @@
 <p class="count">We’re eagerly awaiting more proposals in the <strong class="category">{{ page.category }}</strong> category!</p>
 {% else %}
 <p class="count">
-  There are <strong>{{ data_list.size }}</strong> proposals in the <strong class="category">{{ page.category }}</strong> category.
+  {% if site.language == "es" %}
+    Hay <strong>{{ data_list.size }}</strong> propuestas en la categoría de <strong class="category">{{ page.category }}</strong>.
+  {% else %}
+    There are <strong>{{ data_list.size }}</strong> proposals in the <strong class="category">{{ page.category }}</strong> category.
+  {% endif %}
   {% if site.show_early_entries == true and site.phase < site.ENTRIES_SHOWN_ON_THE_WEBSITE %}<br />
   <small>Check back soon! More proposals will be showcased on this page by <strong>{% include translate-date.html date=site.ENTRIES_SHOWN_ON_THE_WEBSITE_DATE format="%A, %B %-d, %Y" %}</strong>.</small>
   {% endif %}
