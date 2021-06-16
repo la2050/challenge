@@ -1,5 +1,5 @@
 {% if site.language == "en" -%}
-  {{ include.text }}
+  {{ include.text | replace: "replace_1", include.replace_1 | replace: "replace_2", include.replace_2 | replace: "replace_3", include.replace_3 }}
 {%- elsif site.data.translations[site.language][include.text] -%}
   {{ site.data.translations[site.language][include.text] | replace: "replace_1", include.replace_1 | replace: "replace_2", include.replace_2 | replace: "replace_3", include.replace_3 }}
 {%- else -%}
