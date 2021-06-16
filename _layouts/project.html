@@ -33,15 +33,25 @@ stylesheets:
     {% endif %}
     {% if site.phase == site.WINNERS_ANNOUNCED %}
       {% if is_winner %}
-        {% include translate.html text="Winner" %} {% include ribbon.svg %}
+        {% include translate.html text="Winner" %}
+        {% if site.language == "es" %}de{% endif %}
       {% elsif is_finalist %}
         {% include translate.html text="Finalist" %}
+        {% if site.language == "es" %}de{% endif %}
       {% endif %}
     {% elsif site.phase >= site.FINALISTS_ANNOUNCED %}
-      {% if is_finalist %} {% include translate.html text="Finalist" %} {% endif %}
+      {% if is_finalist %}
+        {% include translate.html text="Finalist" %}
+        {% if site.language == "es" %}de{% endif %}
+      {% endif %}
     {% endif %}
     {% if site.language == "es" %}
-      de <span style="text-transform: uppercase;">{% include translate.html text=page.category %}</span>
+      <span style="text-transform: uppercase;">{% include translate.html text=page.category %}</span>
+    {% endif %}
+    {% if site.phase == site.WINNERS_ANNOUNCED %}
+      {% if is_winner %}
+        {% include ribbon.svg %}
+      {% endif %}
     {% endif %}
   </a>
 </p>
