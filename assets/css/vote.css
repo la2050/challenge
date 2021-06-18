@@ -666,7 +666,7 @@
     fill: currentColor;
   }
   #sign-in-email > div {
-    max-width: 40em;
+    max-width: 50em;
   }
   #sign-in-email h2 + p {
     max-width: 24em;

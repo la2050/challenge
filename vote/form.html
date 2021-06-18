@@ -113,7 +113,7 @@ font-size: calc(1vmax + 1.5rem);" aria-label="{{ translation_text_start_voting }
     {% include vote-category-fieldset.html %}
 
     <div class="progress hidden" id="progress">
-      <p class="action"><button type="submit">{% include translate.html text="Confirm my votes" %}</button></p>
+      <p class="action"><button type="submit">{% include translate.html text="Finish" %}</button></p>
       <p role="status" aria-live="polite">{% include translate.html text="You voted in" %} <strong id="vote-count">1</strong> {% include translate.html text="out of" %} <strong>5</strong> {% include translate.html text="categories" %}.</p> 
     </div>
 
@@ -177,7 +177,7 @@ font-size: calc(1vmax + 1.5rem);" aria-label="{{ translation_text_start_voting }
     </section>
 
     <section id="sign-in-email" class="tangerine">
-      <div>
+      <div {% if site.language == "en" %}style="max-width: 40em"{% endif %}>
         <h2 class="email-headline-alternate">{% include translate.html text="Please enter your email address" %}</h2>
         <h2 class="email-headline email-text-hidden">{% include translate.html text="Confirm votes with email" %}</h2>
         <p class="email-text email-text-hidden">{% include translate.html text="Next, we’ll send a message to your email address with a link to confirm your votes." %}</p>
@@ -187,7 +187,7 @@ font-size: calc(1vmax + 1.5rem);" aria-label="{{ translation_text_start_voting }
             {% capture translation_text_email %}{% include translate.html text="Email address" %}{% endcapture %}
             <input type="email" name="email" placeholder="{{ translation_text_email }}" required="required" style="min-width: 20em" />
           </label>
-          <button type="submit" id="send-email-button">{% include translate.html text="Submit Votes" %}</button>
+          <button type="submit" {% unless site.language == "es" %}id="send-email-button"{% endunless %}>{% include translate.html text="Send Email" %}</button>
         </p>
         {% if site.language != "es" %}
         <p class="checkbox">
