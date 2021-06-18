@@ -35,7 +35,7 @@ footer_image: true
   {% elsif site.phase == site.VOTES_BEING_ACCEPTED %}
     
     <p class="action">
-      <a href="/finalists/">{% include translate.html text="Vote now" %}</a>
+      <a href="{{ site.vote_url }}">{% include translate.html text="Vote now" %}</a>
     </p>
    
     <p style="margin-top: 1.5rem; max-width: 23em">{% include translate.html text="Vote by" %} <strong>{% include translate-date.html date=site.VOTING_PERIOD_ENDED_DATE format="%A, %B %-d, %Y" %}</strong> <small class="avoid-break">({% include translate.html text=site.VOTING_PERIOD_ENDED_TIME %})</small>.</p>

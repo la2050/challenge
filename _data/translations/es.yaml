@@ -205,6 +205,7 @@
 "out of": "de"
 "categories": "categorías"
 "Confirm my votes": "Confirmar mis votos"
+"Finish": "Completar"
 "Please enter your ZIP Code": "Por favor ingrese tu código postal"
 "Next": "Siguiente"
 
@@ -212,7 +213,7 @@
 : "LA2050 usa códigos postales para determinar a qué parte de Los Ángeles estamos llegando, pero se aceptan códigos de cualquier parte de los Estados Unidos."
 
 "You’re _almost_ done!": "¡Ya _casi_ terminas!"
-"Now it’s time to confirm your votes": "Ahora es el momento de confirmar tus votos"
+"Now it’s time to confirm your votes.": "Ahora es el momento de confirmar tus votos."
 "Confirm votes with…": "Confirmar votos con…"
 "Phone": "Teléfono"
 "Email": "Correo electrónico"

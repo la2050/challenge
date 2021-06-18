@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
 <head>
 <meta charset="utf-8" />
-<title>Please confirm your votes for the My LA2050 Grants Challenge</title>
+<title>Confirm your votes, and help LA2050 choose the winners! / ¡Confirma tus votos y ayuda a LA2050 a elegir a los ganadores!</title>
 <style>
 body,
 .container {
@@ -20,8 +20,14 @@ body {
 .container {
   padding: 4.5em 1.5em;
 }
-h1 {
+.first-headline {
   font-size: 1.5em;
+  margin-bottom: 0;
+}
+.second-headline {
+  font-size: 1.5em;
+  margin-top: 0;
+  margin-bottom: 1em;
 }
 svg {
   margin-bottom: 1.5em;
@@ -273,13 +279,20 @@ a {
   </a>
 </p>
 
-<h1><a href="{{ link }}">Confirm your votes</a>, and help LA2050 choose the winners!</h1>
+<h1 class="first-headline"><a href="{{ link }}">Confirm your votes</a>, and help LA2050 choose the winners!</h1>
+<h1 class="second-headline">¡<a href="{{ link }}">Confirma tus votos</a> y ayuda a LA2050 a elegir a los ganadores!</h1>
 
-<p>Your votes will only count after you complete this step.</p>
+<p>Your votes are counted after you complete this step.</p>
+<p>Sus votos se cuentan después de completar este paso.</p>
 
-<p class="action"><a href="{{ link }}">Confirm your votes</a></p>
+<p class="action"><a href="{{ link }}">Confirm / Confirmar</a></p>
 
-<p class="footer">If you didn’t make this request, please <a href="mailto:connect@la2050.org">contact us</a>.</p>
+<p class="footer">
+  If you didn’t make this request, please <a href="mailto:connect@la2050.org">contact us</a>.
+</p>
+<p>
+  Si no realizó esta solicitud, <a href="mailto:connect@la2050.org">comuníquese con nosotros</a>.
+</p>
 
 </div>
 <p class="footer"><a href="https://challenge.la2050.org"><strong>My LA2050 Grants Challenge</strong></a></p>

@@ -2,7 +2,7 @@
 application_id: '3781924780'
 title: >-
   WPV CARES: Addressing Loneliness and Isolation Among Vulnerable Seniors
-title_es: WPV CARES: Abordar la soledad y el aislamiento entre los ancianos vulnerables
+title_es: "WPV CARES: Abordar la soledad y el aislamiento entre los ancianos vulnerables"
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=GH1W4ZU-q7A'
 link_donate: 'https://thewpv.org/donate/'

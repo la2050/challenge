@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
 <head>
 <meta charset="utf-8">
-<title>Please confirm your votes for the My LA2050 Grants Challenge</title>
+<title>Confirm your votes, and help LA2050 choose the winners! / ¡Confirma tus votos y ayuda a LA2050 a elegir a los ganadores!</title>
 <style>
 body,
 .container {
@@ -20,8 +20,14 @@ body {
 .container {
   padding: 4.5em 1.5em;
 }
-h1 {
+.first-headline {
   font-size: 1.5em;
+  margin-bottom: 0;
+}
+.second-headline {
+  font-size: 1.5em;
+  margin-top: 0;
+  margin-bottom: 1em;
 }
 svg {
   margin-bottom: 1.5em;
@@ -271,13 +277,20 @@ a {
   </a>
 </p>
 
-<h1 style="font-size: 1.5em;"><a href="{{ link }}" style="color: inherit; display: inline-block;">Confirm your votes</a>, and help LA2050 choose the winners!</h1>
+<h1 class="first-headline" style="font-size: 1.5em; margin-bottom: 0;"><a href="{{ link }}" style="color: inherit; display: inline-block;">Confirm your votes</a>, and help LA2050 choose the winners!</h1>
+<h1 class="second-headline" style="font-size: 1.5em; margin-bottom: 1em; margin-top: 0;">¡<a href="{{ link }}" style="color: inherit; display: inline-block;">Confirma tus votos</a> y ayuda a LA2050 a elegir a los ganadores!</h1>
 
-<p>Your votes will only count after you complete this step.</p>
+<p>Your votes are counted after you complete this step.</p>
+<p>Sus votos se cuentan después de completar este paso.</p>
 
-<p class="action" style="margin-bottom: 3em; margin-top: 3em;"><a href="{{ link }}" style="background-color: rgb(254, 254, 254); border: 0.1875em solid rgb(254, 254, 254); color: rgb(0, 179, 187); cursor: pointer; display: inline-block; font-family: inherit; font-size: inherit; font-weight: 600; letter-spacing: 0.05em; line-height: inherit; padding: 0.75em 1.5em; text-decoration: none; text-transform: uppercase; transition: color 0.2s, background-color 0.2s, border-color 0.2s;">Confirm your votes</a></p>
+<p class="action" style="margin-bottom: 3em; margin-top: 3em;"><a href="{{ link }}" style="background-color: rgb(254, 254, 254); border: 0.1875em solid rgb(254, 254, 254); color: rgb(0, 179, 187); cursor: pointer; display: inline-block; font-family: inherit; font-size: inherit; font-weight: 600; letter-spacing: 0.05em; line-height: inherit; padding: 0.75em 1.5em; text-decoration: none; text-transform: uppercase; transition: color 0.2s, background-color 0.2s, border-color 0.2s;">Confirm / Confirmar</a></p>
 
-<p class="footer" style="margin-top: 3em;">If you didn’t make this request, please <a href="mailto:connect@la2050.org" style="color: inherit; display: inline-block;">contact us</a>.</p>
+<p class="footer" style="margin-top: 3em;">
+  If you didn’t make this request, please <a href="mailto:connect@la2050.org" style="color: inherit; display: inline-block;">contact us</a>.
+</p>
+<p>
+  Si no realizó esta solicitud, <a href="mailto:connect@la2050.org" style="color: inherit; display: inline-block;">comuníquese con nosotros</a>.
+</p>
 
 </div>
 <p class="footer" style="margin-top: 3em;"><a href="https://challenge.la2050.org" style="color: inherit; display: inline-block;"><strong>My LA2050 Grants Challenge</strong></a></p>
