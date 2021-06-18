@@ -92,10 +92,10 @@ gulp.task("default", function() {
   // generatedImagePath  = '../assets/images/2020/create';
   // generateNext();
   // 
-  sizesCursor = 0;
-  sourceImagePath     = '../assets/images/2020/play/original';
-  generatedImagePath  = '../assets/images/2020/play';
-  generateNext();
+  // sizesCursor = 0;
+  // sourceImagePath     = '../assets/images/2020/play/original';
+  // generatedImagePath  = '../assets/images/2020/play';
+  // generateNext();
   // 
   // sizesCursor = 0;
   // sourceImagePath     = '../assets/images/2020/connect/original';
