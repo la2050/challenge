@@ -1,9 +1,8 @@
 ---
 application_id: '3781924780'
 title: >-
-  Westside Pacific Villages COVID-19 Action Response for Elderly Support (WPV
-  CARES)
-title_es: 'Westside Pacific Villages COVID-19 acción de respuesta para el apoyo a los ancianos (WPV CARES)'
+  WPV CARES: Addressing Loneliness and Isolation Among Vulnerable Seniors
+title_es: WPV CARES: Abordar la soledad y el aislamiento entre los ancianos vulnerables
 organization_description: Nonprofit
 project_video: 'https://www.youtube.com/watch?v=GH1W4ZU-q7A'
 link_donate: 'https://thewpv.org/donate/'
@@ -23,15 +22,9 @@ Describe the mission of your organization.: >-
   comfort of their own homes. Our efforts improve the quality of life of our
   members, and by extension enhance the community.
 project_description: >-
-  This grant will support the continuation and growth of Westside Pacific
-  Villages COVID-19 Action Response for Elderly Support (WPV CARES), a program
-  that provides services to keep seniors physically, mentally, and emotionally
-  healthy during the pandemic. When pandemic precautions are no longer
-  necessary, the program will shift towards helping our seniors transition back
-  to “normal” life. Whether virtually or perhaps soon in person, this grant will
-  help WPV’s 300 volunteers support, engage, and connect with seniors.
+ Nearly 50% of seniors report feeling lonely on a regular basis, increasing risks for functional decline and death. As these problems worsened through the pandemic, WPV CARES expanded essential services to keep seniors physically, socially, mentally, and emotionally healthy. Unfortunately, there is no vaccine for the loneliness epidemic, and it continues to plague older Americans. With the LA2050 grant, WPV CARES can continue serving and expanding as one of the few solutions to loneliness for many vulnerable and isolated seniors in Los Angeles.
 project_description_es: >-
-  Esta subvención apoyará la continuación y el crecimiento de Westside Pacific Villages COVID-19 acción de respuesta para el apoyo a los ancianos (WPV CARES, por sus siglas en ingles), un programa que brinda servicios para mantener la san de las personas mayores física, mental y emocionalmente durante la pandemia. Cuando las precauciones pandémicas ya no sean necesarias, el programa cambiará para ayudar a nuestros ancianos en la transición de regreso a la vida "normal". Ya sea virtualmente o quizás pronto en persona, esta subvención ayudará a los 300 voluntarios de WPV a apoyar, participar y conectarse con los ancianos.
+ Casi la mitad de los ancianos informan sentirse solos de forma regular, lo que aumenta los riesgos de deterioro funcional y muerte. A medida que estos problemas empeoraban a causa de la pandemia, WPV CARES expandió los servicios esenciales para mantener a los ancianos física, social, mental y emocionalmente sanas. Desafortunadamente, no existe una vacuna para la epidemia de la soledad y continúa afectando a los estadounidenses mayores. Con la subvención LA2050, WPV CARES puede continuar sirviendo y expandiéndose como una de las pocas soluciones a la soledad de muchos ancianos vulnerables y aislados en Los Ángeles.
 category: live
 connect_metrics: ''
 create_metrics: ''

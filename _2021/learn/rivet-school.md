@@ -3,7 +3,7 @@ application_id: '5212747552'
 title: Building better pathways for aspiring teachers across L.A.
 title_es: Construyendo mejores caminos para los aspirantes a maestros en L.A.
 organization_description: Nonprofit
-project_video: 'https://www.youtube.com/watch?v=LmO8e_sKAa0&t=189s&ab_channel=RivetSchool'
+project_video: 'https://www.youtube.com/watch?v=jLj7osBPpVw'
 link_donate: 'https://www.rivetschool.org/donate'
 link_volunteer: 'https://www.rivetschool.org/contact-us'
 link_newsletter: 'https://www.rivetschool.org/contact-us'
