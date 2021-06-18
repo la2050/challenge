@@ -8,12 +8,12 @@ stylesheets:
 
 {% if site.phase != site.VOTES_BEING_ACCEPTED and site.voting_test_mode != true %}
 
-# Oops!
+<h1>{% include translate.html text="Oops!" %}</h1>
 
 <div class="introduction" markdown="1">
-This page couldn’t be found.
+{% include translate.html text="This page couldn’t be found." %}
 
-You may want to visit our [home page](/) instead.
+{% include translate.html text="You may want to visit our [home page](/) instead." %}
 </div>
 
 {% else %}
