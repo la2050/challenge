@@ -1,7 +1,7 @@
 ---
 application_id: '3236403006'
-title: Together We Succeed
-title_es: Juntos triunfamos
+title: Empowering community college students as future health care leaders
+title_es: Empoderar a los estudiantes de colegios comunitarios para que tengan éxito como futuros líderes de atención médica
 organization_description: Nonprofit
 project_video: 'https://youtu.be/bp5LUcJqP0M'
 link_donate: 'https://www.flipcause.com/secure/cause_pdetails/MjQwMDM='

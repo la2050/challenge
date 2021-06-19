@@ -3,7 +3,7 @@ application_id: '7991388855'
 title: Lowering the barrier to entry for local food entrepreneurs.
 title_es: Reducir la barrera de entrada para los empresarios alimentarios locales
 organization_description: Social enterprise or B-corps
-project_video: ''
+project_video: 'https://youtu.be/w31RbMyKt7Y'
 link_donate: ''
 link_volunteer: ''
 link_newsletter: ''
