@@ -43,7 +43,7 @@
 
    <p>
     <label>
-      Are you familiar with the My LA2050 Ideas Archive? The Ideas Archive is a searchable database of 1,800+ past submissions to the My LA2050 Grants Challenge that can be used to discover organizations doing great work in our region, be inspired by their ideas, make direct donations, and find other ways to get involved.<br />
+      Are you familiar with the My LA2050 Ideas Archive?<br />
       <select name="ideas_archive">
         <option value="">Select</option>
         <option value="">-----------------</option>
@@ -51,6 +51,9 @@
         <option>No</option>
       </select>
     </label>
+    <br />
+    <br />
+    <span style="font-style: italic">The Ideas Archive is a searchable database of 1,800+ past submissions to the My LA2050 Grants Challenge that can be used to discover organizations doing great work in our region, be inspired by their ideas, make direct donations, and find other ways to get involved.</span>
   </p>
   
   <p>
@@ -59,11 +62,23 @@
       <input type="text" name="what_you_want_from_la2050_other" />
     </label>
   </p>
-  
-   <p>
+
+  <fieldset>
+    <legend>Do you follow or subscribe to @LA2050 on: (Select all that apply)</legend>
+    <ul>
+      <li><label><input type="checkbox" name="follow_la2050_on_instagram" /> Instagram</label></li>
+      <li><label><input type="checkbox" name="follow_la2050_on_facebook" /> Facebook</label></li>
+      <li><label><input type="checkbox" name="follow_la2050_on_twitter" /> Twitter</label></li>
+      <li><label><input type="checkbox" name="follow_la2050_on_linkedin" /> LinkedIn</label></li>
+      <li><label><input type="checkbox" name="follow_la2050_on_email" /> Email newsletter</label></li>
+      <li><label><input type="checkbox" name="follow_la2050_on_none" /> None of the above</label></li>
+    </ul>
+  </fieldset>
+
+  <p>
     <label>
       Which of the five LA2050 goal categories do you think Los Angeles has made the LEAST progress in over the past 10 years?<br />
-      <select name="how_likely_to">
+      <select name="la2050_goal_least_progress">
         <option value="">Select</option>
         <option value="">-----------------</option>
         <option>Making LA the best place to LIVE</option>
@@ -78,7 +93,7 @@
    <p>
     <label>
       Which of the five LA2050 goal categories do you think Los Angeles has made the MOST progress in over the past 10 years?<br />
-      <select name="how_likely_to">
+      <select name="la2050_goal_most_progress">
         <option value="">Select</option>
         <option value="">-----------------</option>
         <option>Making LA the best place to LIVE</option>
