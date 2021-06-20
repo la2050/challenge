@@ -177,10 +177,15 @@ font-size: calc(1vmax + 1.5rem);" aria-label="{{ translation_text_start_voting }
     </section>
 
     <section id="sign-in-email" class="tangerine">
-      <div {% if site.language == "en" %}style="max-width: 40em"{% endif %}>
-        <h2 class="email-headline-alternate">{% include translate.html text="Please enter your email address" %}</h2>
-        <h2 class="email-headline email-text-hidden">{% include translate.html text="Confirm votes with email" %}</h2>
-        <p class="email-text email-text-hidden">{% include translate.html text="Next, we’ll send a message to your email address with a link to confirm your votes." %}</p>
+      <div {% unless site.language == "es" %}style="max-width: 40em"{% endunless %}>
+        {% if site.language == "es" %}
+          <h2>{% include translate.html text="Confirm votes with email" %}</h2>
+          <p>{% include translate.html text="Next, we’ll send a message to your email address with a link to confirm your votes." %}</p>
+        {% else %}
+          <h2 class="email-headline-alternate">{% include translate.html text="Please enter your email address" %}</h2>
+          <h2 class="email-headline email-text-hidden">{% include translate.html text="Confirm votes with email" %}</h2>
+          <p class="email-text email-text-hidden">{% include translate.html text="Next, we’ll send a message to your email address with a link to confirm your votes." %}</p>
+        {% endif %}
         <p class="field-button banana">
           <label>
             <span class="label-text">{% include translate.html text="Email address" %}</span>
