@@ -1,6 +1,6 @@
 ---
 application_id: '2428769736'
-title: People's Pottery Project
+title: Art therapy and employment for formerly incarcerated women and trans people
 title_es: El proyecto de cerámica de la gente
 organization_description: A fiscally sponsored group
 project_video: 'https://youtu.be/avXiDn2xlM8'
