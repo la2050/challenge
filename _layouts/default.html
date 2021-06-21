@@ -83,17 +83,19 @@
   <meta name="msapplication-TileImage" content="/assets/images/favicon/strawberry.png" />
   <meta name="msapplication-TileColor" content="rgb(240, 53, 133)" />
 
-  {% include analytics.html %}
-
-
   {% capture canonical_url %}{{ site.language_url }}{% if page.canonical_url %}{{ page.canonical_url }}{% else %}{{ page.url }}{% endif %}{% endcapture %}
   <link rel="canonical" href="{{ canonical_url }}" />
   <meta property="og:url" content="{{ canonical_url }}" />
 
   {% comment %}Hide staging websites from search engines{% endcomment %}
   {% if site.hide_from_search_engines %}
-  <meta name="robots" content="noindex">
+  <meta name="robots" content="noindex" />
   {% endif %}
+
+  {% comment %}Hide staging websites from analytics{% endcomment %}
+  {% unless site.hide_from_search_engines %}
+    {% include analytics.html %}
+  {% endunless %}
 
 
   {% if page.project_description and page.project_description != '' %}
