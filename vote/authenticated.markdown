@@ -25,7 +25,11 @@ stylesheets:
 <p id="message" style="visibility: hidden">We couldn’t confirm your votes. <a href="{{ site.vote_url }}">Please try again</a>.</p>
 <p><small id="message-details"></small></p>
 
-<form name="vote_authenticated" action="{% if site.language == "es" %}/vote/confirmation/{% else %}/vote/subscribe/{% endif %}" method="post" data-netlify="true">
+{% assign action = "/vote/confirmation/" %}
+{% if site.voting_enable_subscription == true %}
+  {% assign action = "/vote/subscribe/" %}
+{% endif %}
+<form name="vote_authenticated" action="{{ action }}" method="post" data-netlify="true">
 
 <input type="hidden" name="learn" />
 <input type="hidden" name="create" />

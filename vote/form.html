@@ -76,7 +76,11 @@ font-size: calc(1vmax + 1.5rem);" aria-label="{{ translation_text_start_voting }
     </div>
   </div>
 
-  <form name="vote" action="{% if site.language == "es" %}/vote/confirmation/{% else %}/vote/survey/{% endif %}" method="post" data-netlify="true">
+  {% assign action = "/vote/confirmation/" %}
+  {% if site.voting_enable_survey == true %}
+    {% assign action = "/vote/survey/" %}
+  {% endif %}
+  <form name="vote" action="{{ action }}" method="post" data-netlify="true">
 
     <div id="questions">
       <p>
@@ -176,26 +180,24 @@ font-size: calc(1vmax + 1.5rem);" aria-label="{{ translation_text_start_voting }
       </div>
     </section>
 
-    <section id="sign-in-email" class="tangerine">
-      <div {% unless site.language == "es" %}style="max-width: 40em"{% endunless %}>
-        {% if site.language == "es" %}
-          <h2>{% include translate.html text="Confirm votes with email" %}</h2>
-          <p>{% include translate.html text="Next, we’ll send a message to your email address with a link to confirm your votes." %}</p>
-        {% else %}
-          <h2 class="email-headline-alternate">{% include translate.html text="Please enter your email address" %}</h2>
-          <h2 class="email-headline email-text-hidden">{% include translate.html text="Confirm votes with email" %}</h2>
-          <p class="email-text email-text-hidden">{% include translate.html text="Next, we’ll send a message to your email address with a link to confirm your votes." %}</p>
-        {% endif %}
+    <section id="sign-in-email" class="tangerine" data-state-auth0="false" data-state-subscribe="false" data-state-subscribe-enabled="{{ site.voting_enable_subscription }}">
+      <div>
+        <h2 data-auth0="false">{% include translate.html text="Please enter your email address" %}</h2>
+        <h2 data-auth0="true">{% include translate.html text="Confirm votes with email" %}</h2>
+        <p data-auth0="true">{% include translate.html text="Next, we’ll send a message to your email address with a link to confirm your votes." %}</p>
         <p class="field-button banana">
           <label>
             <span class="label-text">{% include translate.html text="Email address" %}</span>
             {% capture translation_text_email %}{% include translate.html text="Email address" %}{% endcapture %}
             <input type="email" name="email" placeholder="{{ translation_text_email }}" required="required" style="min-width: 20em" />
           </label>
-          <button type="submit" {% unless site.language == "es" %}id="send-email-button"{% endunless %}>{% include translate.html text="Send Email" %}</button>
+          <button type="submit" data-auth0="false" data-subscribe="false" class="send-email-button">{% include translate.html text="Submit Votes" %}</button>
+          <button type="submit" data-auth0="false" data-subscribe="true" class="send-email-button">{% include translate.html text="Subscribe & Submit Votes" %}</button>
+          <button type="submit" data-auth0="true" data-subscribe="false" class="send-email-button">{% include translate.html text="Send Email" %}</button>
+          <button type="submit" data-auth0="true" data-subscribe="true" class="send-email-button">{% include translate.html text="Subscribe & Send Email" %}</button>
         </p>
-        {% if site.language != "es" %}
-        <p class="checkbox">
+        {% unless site.voting_enable_subscription == false %}
+        <p class="checkbox" data-checkbox>
           <label>
             <input type="checkbox" name="subscribe_email_list" value="Yes" checked="checked">
             <span class="pseudo-checkbox">
@@ -206,8 +208,8 @@ font-size: calc(1vmax + 1.5rem);" aria-label="{{ translation_text_start_voting }
             <strong style="">I want to subscribe to the LA2050 newsletter</strong>
           </label>
         </p>
-        <p class="note"><small>Sign up for our newsletter—where we'll announce the winners—and twice a month, you'll receive updates on local resources, volunteer opportunities, job listings, and more that help you make a difference in Los Angeles.</small></p>
-        {% endif %}
+        <p class="note" data-checkbox><small>Sign up for our newsletter—where we'll announce the winners—and twice a month, you'll receive updates on local resources, volunteer opportunities, job listings, and more that help you make a difference in Los Angeles.</small></p>
+        {% endunless %}
       </div>
     </section>
 

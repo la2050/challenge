@@ -586,13 +586,9 @@
         if (window.updateEmailButtonLabel) window.updateEmailButtonLabel()
 
         if (window.auth0 && window.auth0.WebAuth) {
-          if (document.querySelector('.email-headline') && document.querySelector('.email-headline-alternate')) {
-            document.querySelector('.email-headline').classList.remove('email-text-hidden')
-            document.querySelector('.email-headline-alternate').classList.add('email-text-hidden')
-          }
-          if (document.querySelector('.email-text')) {
-            document.querySelector('.email-text').classList.remove('email-text-hidden')
-          }
+          signInEmail.setAttribute("data-state-auth0", "true")
+        } else {
+          signInEmail.setAttribute("data-state-auth0", "false")
         }
 
         document.querySelector('input[name="email"]').setAttribute('required', 'required')
@@ -617,25 +613,23 @@
     })
   }
 
-  //updateProgress();
-
 })();
 
 (function() {
   if (!document.body.querySelector || !document.body.addEventListener || !document.body.textContent) return
 
   var checkbox = document.querySelector('input[name="subscribe_email_list"]')
-  var button   = document.getElementById('send-email-button')
+  var signInEmail = document.getElementById('sign-in-email')
 
   function update() {
-    if (checkbox && checkbox.checked) {
-      button.textContent = (window.auth0 && window.auth0.WebAuth) ? 'Subscribe & Send Email' : 'Subscribe & Submit Votes'
+    if (checkbox && checkbox.checked && signInEmail && signInEmail.getAttribute("data-state-subscribe-enabled") === "true") {
+      signInEmail.setAttribute("data-state-subscribe", "true")
     } else {
-      button.textContent = (window.auth0 && window.auth0.WebAuth) ? 'Send Email' : 'Submit Votes'
+      signInEmail.setAttribute("data-state-subscribe", "false")
     }
   }
 
-  if (checkbox && button) {
+  if (checkbox) {
     update()
     checkbox.addEventListener('change', update)
   }

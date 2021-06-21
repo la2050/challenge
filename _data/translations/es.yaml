@@ -244,6 +244,10 @@
 "We sent the message to:": "Enviamos el mensaje a:"
 "Didn’t get an email? It might be in your “spam” folder.": "¿No recibiste un correo electrónico? Puede que esté en su correo de “spam”."
 
+# If Auth0 isn’t available
+"Please enter your email address": "Por favor, introduzca su dirección de correo electrónico"
+"Submit Votes": "Enviar Votos"
+
 "Saving your votes…": "Guardando tus votos…"
 "Thanks for voting!": "¡Gracias por votar!"
 "Your votes have been received and will help us choose the winners.": "Tus votos han sido recibidos y nos ayudarán a elegir a los ganadores."

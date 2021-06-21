@@ -1,5 +1,5 @@
 
-  header, footer {
+  header, footer, .footer-promotion {
     display: none;
   }
 
@@ -349,7 +349,19 @@
     display: none !important;
   }
 
-  .email-text-hidden {
+  [data-state-auth0="false"] [data-auth0="true"] {
+    display: none !important;
+  }
+
+  [data-state-auth0="true"] [data-auth0="false"] {
+    display: none !important;
+  }
+  
+  [data-state-subscribe="false"] [data-subscribe="true"] {
+    display: none !important;
+  }
+
+  [data-state-subscribe="true"] [data-subscribe="false"] {
     display: none !important;
   }
 
@@ -691,6 +703,7 @@
     text-align: left;
     margin-top: 0;
     margin-left: 3.675em;
+    max-width: 35em;
   }
   @media (min-width: 30em) {
     #sign-in-email .checkbox {

@@ -1,3 +1,6 @@
 
 language: es
 language_url: https://es-challenge.la2050.org
+
+voting_enable_subscription: false
+voting_enable_survey: false
