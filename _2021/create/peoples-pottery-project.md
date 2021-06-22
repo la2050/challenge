@@ -1,6 +1,6 @@
 ---
 application_id: '2428769736'
-title: People's Pottery Project
+title: Art therapy and employment for formerly incarcerated women and trans people
 title_es: El proyecto de cerámica de la gente
 organization_description: A fiscally sponsored group
 project_video: 'https://youtu.be/avXiDn2xlM8'
@@ -8,7 +8,7 @@ link_donate: 'https://www.peoplespotteryproject.com/donate'
 link_volunteer: ''
 link_newsletter: 'https://www.peoplespotteryproject.com/'
 ein: 95-2540759
-organization_name: Peoples Pottery Project
+organization_name: People's Pottery Project
 mailing_address_zip: '90065'
 organization_website: 'https://www.peoplespotteryproject.com'
 organization_twitter: ''
