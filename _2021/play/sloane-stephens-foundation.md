@@ -28,7 +28,7 @@ project_description: >-
   self-confidence, and education, and uses tennis as our vehicle to change the
   narrative of poverty, health inequity, and educational underdevelopment in
   Compton.
-project_description: >-
+project_description_es: >-
   La campeona del US Open Sloane Stephens lanzó Amor, Amor Compton en 2015 para combatir las desigualdades sociales, económicas y académicas en Compton mediante la creación de oportunidades educativas y espacios seguros para jugar y crecer. La programación de tenis de Fundación Sloane Stephens (SSF, por sus siglas en inglés) está diseñada para impactar positivamente las vidas de nuestros estudiantes mucho más allá de la cancha de tenis. SSF cree en el poder transformador de los hábitos saludables, la confianza en uno mismo y la educación, y utiliza el tenis como nuestro vehículo para cambiar la narrativa de la pobreza, la inequidad en la salud y el subdesarrollo educativo en Compton.
 category: play
 connect_metrics: ''
