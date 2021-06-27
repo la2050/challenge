@@ -77,10 +77,10 @@ VOTING_PERIOD_ENDED_TIME:          5 p.m., Pacific Time
 # phase: 5
 
 # Votes being accepted: 
-phase: 6
+# phase: 6
 
 # Voting period ended: 
-# phase: 7
+phase: 7
 
 # Winners announced: 
 # phase: 8
