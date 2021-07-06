@@ -80,10 +80,10 @@ VOTING_PERIOD_ENDED_TIME:          5 p.m., Pacific Time
 # phase: 6
 
 # Voting period ended: 
-phase: 7
+# phase: 7
 
 # Winners announced: 
-# phase: 8
+phase: 8
 
 auth0_js_url: https://cdn.auth0.com/js/auth0/9.5.1/auth0.min.js
 # auth0_domain: activation-la2050.auth0.com
