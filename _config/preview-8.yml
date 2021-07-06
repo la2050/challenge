@@ -7,20 +7,20 @@ winners:
 
   # Connect
 
-  # 1) Center for Restorative Justice Works
-  - /2021/connect/center-for-restorative-justice-works/
-
-  # 2)
+  # 1)
   # Children Now
   - /2021/connect/children-now/
 
-  # 3)
-  # human-I-T
-  - /2021/connect/human-i-t/
+  # 2) Center for Restorative Justice Works
+  - /2021/connect/center-for-restorative-justice-works/
 
-  # 4)
+  # 3)
   # Los Angeles Center for Law and Justice
   - /2021/connect/los-angeles-center-for-law-and-justice/
+
+  # 4)
+  # human-I-T
+  - /2021/connect/human-i-t/
 
   # 5)
   # The Civics Center
@@ -30,70 +30,70 @@ winners:
   # Create
 
   # 1)
-  # Covenant House California
-  - /2021/create/covenant-house-california/
-
-  # 2)
-  # Fund for Guaranteed Income (F4GI)
-  - /2021/create/fund-for-guaranteed-income-f4gi/
-
-  # 3)
-  # Las Fotos Project
-  - /2021/create/las-fotos-project/
-
-  # 4)
   # On The Go LA
   - /2021/create/on-the-go-la/
 
-  # 5)
+  # 2)
+  # Las Fotos Project
+  - /2021/create/las-fotos-project/
+
+  # 3)
   # People's Pottery Project
   - /2021/create/peoples-pottery-project/
+
+  # 4)
+  # Fund for Guaranteed Income (F4GI)
+  - /2021/create/fund-for-guaranteed-income-f4gi/
+
+  # 5)
+  # Covenant House California
+  - /2021/create/covenant-house-california/
 
 
   # Learn
 
   # 1)
-  # Alliance in Mentorship / MiMentor
-  - /2021/learn/alliance-in-mentorship-mimentor/
-
-  # 2)
   # DIY Girls
   - /2021/learn/diy-girls/
 
-  # 3)
+  # 2)
   # New Earth
   - /2021/learn/new-earth/
 
-  # 4)
-  # Rivet School
-  - /2021/learn/rivet-school/
-
-  # 5)
+  # 3)
   # The SEED School of Los Angeles County
   - /2021/learn/the-seed-school-of-los-angeles-county/
+
+  # 4)
+  # Alliance in Mentorship / MiMentor
+  - /2021/learn/alliance-in-mentorship-mimentor/
+
+  # 5)
+  # Rivet School
+  - /2021/learn/rivet-school/
 
 
   # Live
 
   # 1)
-  # City Plants
-  - /2021/live/city-plants/
-
-  # 2)
   # End Homelessness California DBA The Shower of Hope
   - /2021/live/end-homelessness-california-dba-the-shower-of-hope/
+
+  # 2)
+  # City Plants
+  - /2021/live/city-plants/
 
   # 3)
   # Healing California
   - /2021/live/healing-california/
 
   # 4)
-  # Western Center on Law & Poverty
-  - /2021/live/western-center-on-law-poverty/
-
-  # 5)
   # Westside Pacific Villages
   - /2021/live/westside-pacific-villages/
+
+  # 5)
+  # Western Center on Law & Poverty
+  - /2021/live/western-center-on-law-poverty/
 
 
   # Play
@@ -111,9 +111,9 @@ winners:
   - /2021/play/color-the-water/
 
   # 4)
-  # East Side Rider's Bike Club
-  - /2021/play/east-side-riders-bike-club/
-
-  # 5)
   # Sloane Stephens Foundation
   - /2021/play/sloane-stephens-foundation/
+
+  # 5)
+  # East Side Rider's Bike Club
+  - /2021/play/east-side-riders-bike-club/
